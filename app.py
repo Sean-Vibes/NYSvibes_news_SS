@@ -1,26 +1,45 @@
 import feedparser
 import json
+import os
 
-# Your 5 favorite news links
+# Your 5 selected news links
 FEEDS = [
-    "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-    "https://feeds.bbci.co.uk/news/rss.xml",
-    # Add 3 more here!
+    "https://rss.dw.com/xml/rss-de-all",      # DW All (German)
+    "https://growcola.com/feed/",             # Growcola
+    "https://news.yahoo.com/rss/",            # Yahoo News
+    "https://rss.dw.com/xml/rss-en-all",      # DW All (English version for variety)
+    "https://www.leafly.com/feed"             # Leafly
 ]
 
 all_news = []
 
 for url in FEEDS:
-    feed = feedparser.parse(url)
-    # Grab only the top 3 stories
-    for entry in feed.entries[:3]:
-        img = entry.get('media_content', [{}])[0].get('url', 'https://via.placeholder.com/400')
-        all_news.append({
-            "title": entry.title,
-            "image": img,
-            "link": entry.link
-        })
+    try:
+        feed = feedparser.parse(url)
+        # Grab only the top 3 stories from each feed
+        for entry in feed.entries[:3]:
+            # This looks for the best image available
+            img_url = "https://via.placeholder.com/800x450?text=No+Image+Available"
+            
+            # 1. Check for media content (common in Yahoo/DW)
+            if 'media_content' in entry and len(entry.media_content) > 0:
+                img_url = entry.media_content[0]['url']
+            # 2. Check for enclosures (common in Growcola/Leafly)
+            elif 'links' in entry:
+                for link in entry.links:
+                    if 'image' in link.get('type', ''):
+                        img_url = link.get('href')
+            
+            all_news.append({
+                "source": feed.feed.get('title', 'News Source'),
+                "title": entry.title,
+                "image": img_url,
+                "link": entry.link,
+                "summary": entry.get('summary', '')[:150] + "..." # Short snippet
+            })
+    except Exception as e:
+        print(f"Error reading {url}: {e}")
 
-# Save it to a file the website can read
+# Save the news to a file that our website can read
 with open('news.json', 'w') as f:
-    json.dump(all_news, f)
+    json.dump(all_news, f, indent=4)
