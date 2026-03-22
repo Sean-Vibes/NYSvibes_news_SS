@@ -15,8 +15,8 @@ all_news = []
 for url in FEEDS:
     try:
         feed = feedparser.parse(url)
-        # Grab only the top 3 stories from each feed
-        for entry in feed.entries[:3]:
+        # Grab only the top 5 stories from each feed
+        for entry in feed.entries[:5]:
             # This looks for the best image available
             img_url = "https://via.placeholder.com/800x450?text=No+Image+Available"
             
