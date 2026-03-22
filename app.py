@@ -4,7 +4,6 @@ import os
 
 # Your 5 selected news links
 FEEDS = [
-    "https://rss.dw.com/xml/rss-de-all",      # DW All (German)
     "https://growcola.com/feed/",             # Growcola
     "https://news.yahoo.com/rss/",            # Yahoo News
     "https://rss.dw.com/xml/rss-en-all",      # DW All (English version for variety)
