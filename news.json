@@ -21,10 +21,31 @@
         "summary": "<p>\u201cToday marks a small step forward, but we are up against incredible odds.\u201d By Zach Wendling, Nebraska Examiner Health care... <a class=\"small font-..."
     },
     {
+        "source": "GrowCola.com",
+        "title": "New Ohio Restrictions On Marijuana And Hemp THC Products Take Effect After Referendum Push Fails",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/new-ohio-restrictions-on-marijuana-and-hemp-thc-products-take-effect-after-referendum-push-fails/",
+        "summary": "<p>\u201cThe bottom line is that this is only going to benefit the unregulated market\u2026and unfortunately, that\u2019s going to result in... <a class=\"small font-..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "Idaho Medical Marijuana Initiative Exceeds Statewide Signature Count To Make November Ballot, Campaign Reports",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/idaho-medical-marijuana-initiative-exceeds-statewide-signature-count-to-make-november-ballot-campaign-reports/",
+        "summary": "<p>An Idaho campaign says it\u2019s collected enough signatures for a medical cannabis legalization initiative to exceed the statewide threshold for... <a ..."
+    },
+    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Exclusive-Patriot missile involved in Bahrain blast likely US-operated, analysis finds",
         "image": "https://media.zenfs.com/en/reuters.com/12b35ef0353821435a4286bc23c14900",
         "link": "https://www.yahoo.com/news/articles/exclusive-patriot-missile-involved-bahrain-060528603.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Beloved NHL Reporter Jessi Pierce and Her 3 Kids Die in Minnesota House Fire: \u2018A Lot of Tears Were Shed\u2019",
+        "image": "https://media.zenfs.com/en/people_218/2c1d35e896496721b579e5b943886df1",
+        "link": "https://www.yahoo.com/news/articles/beloved-nhl-reporter-jessi-pierce-181621468.html",
         "summary": "..."
     },
     {
@@ -36,9 +57,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Disgraced actor, 54, found dead in prison cell two months into sentence",
-        "image": "https://media.zenfs.com/en/syracuse_com_articles_331/4431203b87cecd6fb934ee3a2ce12c19",
-        "link": "https://www.yahoo.com/entertainment/celebrity/articles/disgraced-actor-54-found-dead-103048939.html",
+        "title": "Departed counterterrorism official who resigned over Iran war denies leaking classified documents",
+        "image": "https://media.zenfs.com/en/ap.org/986ed04038cca403ddec834ae34526cb",
+        "link": "https://www.yahoo.com/news/articles/departed-counterterrorism-official-resigned-over-224541032.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Florida Woman, 31, Accused of Peeing on and Damaging More Than $3,000 Worth of Property in Multiple Airbnbs",
+        "image": "https://media.zenfs.com/en/people_218/78e22c65580e0404e062d608913f0403",
+        "link": "https://www.yahoo.com/news/articles/florida-woman-31-accused-peeing-213342476.html",
         "summary": "..."
     },
     {
@@ -53,7 +81,7 @@
         "title": "Slovenia: Ruling Liberals set to win parliamentary election",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/slovenia-ruling-liberals-set-to-win-parliamentary-election/a-76473130?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Exit polls show the governing Liberal Party of Slovenia and Prime Minister Robert Golob winning against former Prime Minister Janez Jansa and his righ..."
+        "summary": "Exit polls show the governing liberal Freedom Movement of Slovenia and Prime Minister Robert Golob winning against former Prime Minister Janez Jansa a..."
     },
     {
         "source": "Deutsche Welle",
@@ -61,6 +89,20 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-trump-orders-ice-agents-to-airports-amid-budget-standoff/a-76476759?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Starting Monday, immigration agents will be deployed to US airports to ease congestion at security checkpoints. Donald Trump's move comes amid the wee..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "West Bank: Israeli settlers torch homes, beat Palestinians",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/west-bank-israeli-settlers-torch-homes-beat-palestinians/a-76475669?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Israeli settlers rampaged through Palestinian areas in the West Bank on Saturday night. Property was damaged and Palestinians were hospitalized. Israe..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Adrift Russia tanker risks Mediterranean ecological disaster",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/adrift-russia-tanker-risks-mediterranean-ecological-disaster/a-76460869?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A Russian oil and gas tanker that was likely targeted by drones is adrift in the Mediterranean with no crew onboard. Experts warn that if the vessel l..."
     },
     {
         "source": "Leafly",
@@ -82,5 +124,19 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.leafly.com/news/strains-products/treasure-valley-is-serving-up-hash-burger-2025s-leafly-strain-of-the-year",
         "summary": "<p>The fantastically funky Hash Burger is the Leafly Strain of the Year, and Treasure Valley Cannabis Company is one of the best places in Oregon to g..."
+    },
+    {
+        "source": "Leafly",
+        "title": "Get a free four-pack of Hash Burger seeds from Seed Supreme",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.leafly.com/news/strains-products/get-a-free-four-pack-of-hash-burger-seeds-from-seed-supreme",
+        "summary": "<p>Free seeds with every order over $90 Hash Burger is the Leafly Strain of the Year for 2025, and Seed Supreme is how you get this resin-producing mo..."
+    },
+    {
+        "source": "Leafly",
+        "title": "Get a free eighth of Hash Burger, the Leafly Strain of the Year 2025",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.leafly.com/news/strains-products/get-a-free-eighth-of-hash-burger-the-leafly-strain-of-the-year-2025",
+        "summary": "<p>Try the Leafly Strain of the Year for free with United Strains of America when you spend over $100 The Leafly Strain of the Year 2025 is Hash Burge..."
     }
 ]
