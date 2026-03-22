@@ -43,9 +43,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Cursor admits its new coding model was built on top of Moonshot AI\u2019s Kimi",
-        "image": "https://media.zenfs.com/en/techcrunch_finance_785/cccbb9de9589fa15d63215b7135243c4",
-        "link": "https://tech.yahoo.com/ai/copilot/articles/cursor-admits-coding-model-built-184109599.html",
+        "title": "Florida Woman, 31, Accused of Peeing on and Damaging More Than $3,000 Worth of Property in Multiple Airbnbs",
+        "image": "https://media.zenfs.com/en/people_218/78e22c65580e0404e062d608913f0403",
+        "link": "https://www.yahoo.com/news/articles/florida-woman-31-accused-peeing-213342476.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018This is not becoming law\u2019: Inside the Senate\u2019s rare session to decide on Trump\u2019s SAVE Act",
-        "image": "https://media.zenfs.com/en/ms_now_video_773/62a6ec4a6c2c0c4d87a2a52fdf90248e",
-        "link": "https://www.yahoo.com/news/videos/not-becoming-law-inside-senate-120427428.html",
+        "title": "Pups and Pints in Virginia Beach announces closure",
+        "image": "https://media.zenfs.com/en/wavy_articles_285/a0573dedd6a5ec937c96f00641c46b00",
+        "link": "https://www.yahoo.com/news/articles/pups-pints-virginia-beach-announces-170932711.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "France: Leftist Emmanuel Gregoire becomes new mayor of Paris",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/france-leftist-emmanuel-gregoire-becomes-new-mayor-of-paris/a-76478029?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Gregoire replaces fellow socialist Anne Hidalgo as the French capital\u2019s mayor. The local elections are being closely watched to gauge the political mo..."
     },
     {
         "source": "Deutsche Welle",
@@ -78,10 +85,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Slovenia: Ruling Liberals set to win parliamentary election",
+        "title": "Slovenia election sees ruling party tied with opposition",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/slovenia-ruling-liberals-set-to-win-parliamentary-election/a-76473130?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Exit polls show the governing liberal Freedom Movement of Slovenia and Prime Minister Robert Golob winning against former Prime Minister Janez Jansa a..."
+        "link": "https://www.dw.com/en/slovenia-election-sees-ruling-party-tied-with-opposition/a-76473130?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Prime Minister Robert Golob's governing liberal Freedom Movement of Slovenia was almost perfectly tied with Janez Jansa and his right-wing SDS party, ..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/west-bank-israeli-settlers-torch-homes-beat-palestinians/a-76475669?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Israeli settlers rampaged through Palestinian areas in the West Bank on Saturday night. Property was damaged and Palestinians were hospitalized. Israe..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Adrift Russia tanker risks Mediterranean ecological disaster",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/adrift-russia-tanker-risks-mediterranean-ecological-disaster/a-76460869?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A Russian oil and gas tanker that was likely targeted by drones is adrift in the Mediterranean with no crew onboard. Experts warn that if the vessel l..."
     },
     {
         "source": "Leafly",
