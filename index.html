@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal News Wall</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+    <style>
+        body { margin: 0; background: #121212; color: white; font-family: sans-serif; height: 100vh; display: flex; align-items: center; justify-content: center; }
+        .swiper { width: 100%; height: 100vh; }
+        .swiper-slide { position: relative; display: flex; align-items: flex-end; justify-content: center; overflow: hidden; }
+        
+        /* Background Image Styling */
+        .bg-image { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: -1; filter: brightness(0.6); }
+        
+        /* Text Box Styling */
+        .content { background: rgba(0, 0, 0, 0.7); padding: 20px; border-radius: 15px; margin-bottom: 50px; max-width: 80%; text-align: center; border: 1px solid #333; backdrop-filter: blur(5px); }
+        .source-tag { background: #007bff; color: white; padding: 5px 10px; border-radius: 5px; font-size: 0.8rem; text-transform: uppercase; margin-bottom: 10px; display: inline-block; }
+        h2 { margin: 10px 0; font-size: 1.8rem; }
+        p { font-size: 1rem; color: #ccc; }
+        a { color: #007bff; text-decoration: none; font-weight: bold; }
+
+        /* Progress Bar at the top */
+        .swiper-pagination-progressbar { background: rgba(255,255,255,0.1) !important; height: 5px !important; }
+        .swiper-pagination-progressbar-fill { background: #007bff !important; }
+    </style>
+</head>
+<body>
+
+    <div class="swiper">
+        <div class="swiper-wrapper" id="news-container">
+            </div>
+        <div class="swiper-pagination"></div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script>
+        // Tell the website to go grab the news.json file
+        fetch('news.json')
+            .then(response => response.json())
+            .then(data => {
+                const container = document.getElementById('news-container');
+                
+                data.forEach(story => {
+                    const slide = `
+                        <div class="swiper-slide">
+                            <img class="bg-image" src="${story.image}" onerror="this.src='https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200'">
+                            <div class="content">
+                                <span class="source-tag">${story.source}</span>
+                                <h2>${story.title}</h2>
+                                <p>${story.summary}</p>
+                                <a href="${story.link}" target="_blank">Read Full Story →</a>
+                            </div>
+                        </div>
+                    `;
+                    container.innerHTML += slide;
+                });
+
+                // Start the Slideshow
+                new Swiper('.swiper', {
+                    loop: true,
+                    autoplay: { delay: 5000 }, // Change story every 5 seconds
+                    pagination: { el: '.swiper-pagination', type: 'progressbar' },
+                });
+            });
+    </script>
+</body>
+</html>
