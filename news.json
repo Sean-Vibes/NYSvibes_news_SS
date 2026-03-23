@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Canadian Conservative Leader Tells Joe Rogan Marijuana Should Be A \u2018Personal Choice,\u2019 Despite Voting Against Legalization",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/canadian-conservative-leader-tells-joe-rogan-marijuana-should-be-a-personal-choice-despite-voting-against-legalization/",
+        "summary": "<p>The head of the Conservative Party of Canada says using marijuana should be a \u201cpersonal choice\u201d\u2014even though he voted against... <a class=\"small fon..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "Idaho medical cannabis measure nears ballot qualification (Newsletter: March 23, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/idaho-medical-cannabis-measure-nears-ballot-qualification-newsletter-march-23-2026/",
+        "summary": "<p>IN gov on marijuana; MA psychedelics votes; NY medical cannabis bill; WNBA offers to end marijuana testing; OH hemp restrictions... <a class=\"small..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Missouri Court Orders Officials To Award Marijuana Business Licenses Amid Application Scoring Flaws",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/missouri-court-orders-officials-to-award-marijuana-business-licenses-amid-application-scoring-flaws/",
@@ -21,24 +35,10 @@
         "summary": "<p>\u201cToday marks a small step forward, but we are up against incredible odds.\u201d By Zach Wendling, Nebraska Examiner Health care... <a class=\"small font-..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "New Ohio Restrictions On Marijuana And Hemp THC Products Take Effect After Referendum Push Fails",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/new-ohio-restrictions-on-marijuana-and-hemp-thc-products-take-effect-after-referendum-push-fails/",
-        "summary": "<p>\u201cThe bottom line is that this is only going to benefit the unregulated market\u2026and unfortunately, that\u2019s going to result in... <a class=\"small font-..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Idaho Medical Marijuana Initiative Exceeds Statewide Signature Count To Make November Ballot, Campaign Reports",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/idaho-medical-marijuana-initiative-exceeds-statewide-signature-count-to-make-november-ballot-campaign-reports/",
-        "summary": "<p>An Idaho campaign says it\u2019s collected enough signatures for a medical cannabis legalization initiative to exceed the statewide threshold for... <a ..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran's president says immediate cessation of US-Israeli aggression needed to end war",
-        "image": "https://media.zenfs.com/en/reuters.com/434ed294b60b180aa9f8194401aaf6ea",
-        "link": "https://www.yahoo.com/news/articles/irans-president-says-immediate-cessation-153618611.html",
+        "title": "Rahm Emanuel proposes banning all federal employees from betting on prediction markets",
+        "image": "https://media.zenfs.com/en/ap.org/ee4e1da4fa67f1913913f5303cbe68e6",
+        "link": "https://www.yahoo.com/news/articles/rahm-emanuel-proposes-banning-federal-015919819.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Rahm Emanuel proposes banning all federal employees from betting on prediction markets",
-        "image": "https://media.zenfs.com/en/ap.org/ee4e1da4fa67f1913913f5303cbe68e6",
-        "link": "https://www.yahoo.com/news/articles/rahm-emanuel-proposes-banning-federal-015919819.html",
+        "title": "Iran's president says immediate cessation of US-Israeli aggression needed to end war",
+        "image": "https://media.zenfs.com/en/reuters.com/434ed294b60b180aa9f8194401aaf6ea",
+        "link": "https://www.yahoo.com/news/articles/irans-president-says-immediate-cessation-153618611.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/where_is_the_buzz_814/ffeb22c7d59828cd5a3bd0403c3a4bd6",
         "link": "https://www.yahoo.com/news/articles/20-old-kentucky-woman-arrested-051628736.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "German court rejects climate case against BMW, Mercedes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/german-court-rejects-climate-case-against-bmw-mercedes/a-76485571?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Environmental campaigners wanted to stop the companies from selling combustion engine cars after 2030. They argued that continuing to release high amo..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "China-North Korea transit relaunch points to better ties",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/china-north-korea-transit-relaunch-points-to-better-ties/a-76485209?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Passenger air and rail links are being restored between China and its North Korean ally as geopolitical upheavals add new impetus to improving the rel..."
     },
     {
         "source": "Deutsche Welle",
@@ -81,7 +95,7 @@
         "title": "Trade: The unequal flow of goods between Africa and Europe",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/trade-the-unequal-flow-of-goods-between-africa-and-europe/a-76154113?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The estabishment of free trade between much of both continents for half a century has created growth in many areas. However, data analysis highlights ..."
+        "summary": "The estabishment of free trade between much of both continents for half a century has created growth in many areas. However, data analysis shows that ..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/hong-kong-new-rule-forces-people-to-surrender-passwords/a-76482612?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The rule applies to investigations connected to the financial hub's strict national security law. Those who fail to comply face up to a year in prison..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iranians and Israelis united through music",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iranians-and-israelis-united-through-music/a-76436007?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Berlin-based music ensemble Sistanagila brings together musicians from Iran and Israel who offer a message of hope for a better future...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Alexandra Popp and Borussia Dortmund: A sign of the times",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/alexandra-popp-and-borussia-dortmund-a-sign-of-the-times/a-76392644?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany's most famous female footballer has signed for a third-division team. The transfer will have huge impacts across the women's game in Germany...."
     },
     {
         "source": "Leafly",
