@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "99% Of Colorado Marijuana Retailers Properly Checked IDs To Prevent Youth Access, State Report Shows",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/99-of-colorado-marijuana-retailers-properly-checked-ids-to-prevent-youth-access-state-report-shows/",
+        "summary": "<p>Colorado regulators are touting another successful year of nearly perfect marijuana business compliance with state laws prohibiting the sale of... ..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Canadian Conservative Leader Tells Joe Rogan Marijuana Should Be A \u2018Personal Choice,\u2019 Despite Voting Against Legalization",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/canadian-conservative-leader-tells-joe-rogan-marijuana-should-be-a-personal-choice-despite-voting-against-legalization/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/south-carolina-senate-approves-bill-to-keep-hemp-thc-drinks-and-gummies-legal-with-some-restrictions/",
         "summary": "<p>Compromise was needed \u201cto make sure that we had the votes to keep this out of the hands of children\u2026... <a class=\"small font-montserrat font-weight..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Nebraska Legislature Approves Bill To Protect Doctors Who Recommend Medical Marijuana",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/nebraska-legislature-approves-bill-to-protect-doctors-who-recommend-medical-marijuana/",
-        "summary": "<p>\u201cToday marks a small step forward, but we are up against incredible odds.\u201d By Zach Wendling, Nebraska Examiner Health care... <a class=\"small font-..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
@@ -64,10 +64,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "20-Year-Old Kentucky Woman Arrested After Allegedly Driving Into Crowd While Drunk, Injuring Four",
-        "image": "https://media.zenfs.com/en/where_is_the_buzz_814/ffeb22c7d59828cd5a3bd0403c3a4bd6",
-        "link": "https://www.yahoo.com/news/articles/20-old-kentucky-woman-arrested-051628736.html",
+        "title": "I Was In The Women's Restroom When A Man Came In And Called Out A Question That Left Me Nauseated",
+        "image": "https://media.zenfs.com/en/the_huffington_post_584/921386c3dd6ddf18b918108d5ff0511e",
+        "link": "https://www.yahoo.com/lifestyle/articles/womens-restroom-man-came-called-191449224.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran's energy sites still on Trump's target list",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-s-energy-sites-still-on-trump-s-target-list/a-76480741?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Donald Trump has delayed strikes on Iran's power plants for five days, citing \"productive\" talks with Tehran. DW asks what infrastructure US forces co..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Cuban Germans react to Trump's threats wih hope and fear",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/cuban-germans-react-to-trump-s-threats-wih-hope-and-fear/a-76485242?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Cubans came to train, work and study in former communist East Germany. A few thousand people of Cuban origin live in Germany today. Amid US takeover t..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/global-markets-tumble-with-no-end-to-iran-war-in-sight/a-76482613?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Markets in Europe and Asia nosedived as trading restarted on Monday, as oil prices continued to climb amid the war in Iran. Germany's DAX dipped 2% in..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trade: The unequal flow of goods between Africa and Europe",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trade-the-unequal-flow-of-goods-between-africa-and-europe/a-76154113?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The estabishment of free trade between much of both continents for half a century has created growth in many areas. However, data analysis shows that ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hong Kong: New rule forces people to surrender passwords",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hong-kong-new-rule-forces-people-to-surrender-passwords/a-76482612?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The rule applies to investigations connected to the financial hub's strict national security law. Those who fail to comply face up to a year in prison..."
     },
     {
         "source": "Leafly",
