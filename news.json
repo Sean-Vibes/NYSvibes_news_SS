@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The Latest: Iran threatens to lay mines and target Gulf energy as Trump\u2019s deadline nears",
-        "image": "https://media.zenfs.com/en/ap.org/bab44bd010e2ece662dbd287381e2eeb",
-        "link": "https://www.yahoo.com/news/articles/latest-us-central-command-leader-040813799.html",
+        "title": "Rahm Emanuel proposes banning all federal employees from betting on prediction markets",
+        "image": "https://media.zenfs.com/en/ap.org/ee4e1da4fa67f1913913f5303cbe68e6",
+        "link": "https://www.yahoo.com/news/articles/rahm-emanuel-proposes-banning-federal-015919819.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "I Was In The Women's Restroom When A Man Came In And Called Out A Question That Left Me Nauseated",
-        "image": "https://media.zenfs.com/en/the_huffington_post_584/921386c3dd6ddf18b918108d5ff0511e",
-        "link": "https://www.yahoo.com/lifestyle/articles/womens-restroom-man-came-called-191449224.html",
+        "title": "20-Year-Old Kentucky Woman Arrested After Allegedly Driving Into Crowd While Drunk, Injuring Four",
+        "image": "https://media.zenfs.com/en/where_is_the_buzz_814/ffeb22c7d59828cd5a3bd0403c3a4bd6",
+        "link": "https://www.yahoo.com/news/articles/20-old-kentucky-woman-arrested-051628736.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Global markets tumble with no end to Iran war in sight",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/global-markets-tumble-with-no-end-to-iran-war-in-sight/a-76482613?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Markets in Europe and Asia nosedived as trading restarted on Monday, as oil prices continued to climb amid the war in Iran. Germany's DAX dipped 2% in..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Trade: The unequal flow of goods between Africa and Europe",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trade-the-unequal-flow-of-goods-between-africa-and-europe/a-76154113?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The estabishment of free trade between much of both continents for half a century has created growth in many areas. However, data analysis highlights ..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/alexandra-popp-and-borussia-dortmund-a-sign-of-the-times/a-76392644?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Germany's most famous female footballer has signed for a third-division team. The transfer will have huge impacts across the women's game in Germany...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Two killed as Air Canada jet crashes into vehicle, shutting New York's LaGuardia Airport",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/two-killed-as-air-canada-jet-crashes-into-vehicle-shutting-new-york-s-laguardia-airport/a-76480371?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A regional passenger jet collided with a ground vehicle upon landing at LaGuardia Airport, prompting a full shutdown and widespread flight disruptions..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Pistorius brushes off SPD leadership talk",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-pistorius-brushes-off-spd-leadership-talk/live-76480351?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Defense Minister Boris Pistorius has ruled out a change of leadership at the top of his center-left Social Democrats after an electoral slump. Meanwhi..."
     },
     {
         "source": "Leafly",
