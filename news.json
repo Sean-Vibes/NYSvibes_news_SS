@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Utah Governor Signs Bill To Support Clinical Trials On Psychedelics For Veterans\u2019 Mental Health",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/utah-governor-signs-bill-to-support-clinical-trials-on-psychedelics-for-veterans-mental-health/",
+        "summary": "<p>Utah\u2019s governor has signed a bill to\u00a0promote clinical trials into the efficacy of psychedelic-assisted therapy for military veterans with serious....."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "99% Of Colorado Marijuana Retailers Properly Checked IDs To Prevent Youth Access, State Report Shows",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/99-of-colorado-marijuana-retailers-properly-checked-ids-to-prevent-youth-access-state-report-shows/",
@@ -28,13 +35,6 @@
         "summary": "<p>\u201cThe department\u2019s scoring criteria and the scorers\u2019 determinations were based on the subjective valuations of the scorers. This fundamental flaw......"
     },
     {
-        "source": "GrowCola.com",
-        "title": "South Carolina Senate Approves Bill To Keep Hemp THC Drinks And Gummies Legal, With Some Restrictions",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/south-carolina-senate-approves-bill-to-keep-hemp-thc-drinks-and-gummies-legal-with-some-restrictions/",
-        "summary": "<p>Compromise was needed \u201cto make sure that we had the votes to keep this out of the hands of children\u2026... <a class=\"small font-montserrat font-weight..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Rahm Emanuel proposes banning all federal employees from betting on prediction markets",
         "image": "https://media.zenfs.com/en/ap.org/ee4e1da4fa67f1913913f5303cbe68e6",
@@ -50,24 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "'Reckless driver' died after Liberty Twp. crash, sheriff's office says",
+        "image": "https://media.zenfs.com/en/cincinnati-com-the-enquirer/c9ea2028ec6166307bf7a3f5c75f5f77",
+        "link": "https://www.yahoo.com/news/articles/reckless-driver-died-liberty-twp-142500556.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Newly discovered photos show astronaut Neil Armstrong after the Gemini 8 emergency",
+        "image": "https://media.zenfs.com/en/ap.org/670267714db7f0e82a0409c20a2c4103",
+        "link": "https://www.yahoo.com/news/articles/newly-discovered-photos-show-astronaut-170040956.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Disgraced actor, 54, found dead in prison cell two months into sentence",
         "image": "https://media.zenfs.com/en/syracuse_com_articles_331/4431203b87cecd6fb934ee3a2ce12c19",
         "link": "https://www.yahoo.com/entertainment/celebrity/articles/disgraced-actor-54-found-dead-103048939.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran's president says immediate cessation of US-Israeli aggression needed to end war",
-        "image": "https://media.zenfs.com/en/reuters.com/434ed294b60b180aa9f8194401aaf6ea",
-        "link": "https://www.yahoo.com/news/articles/irans-president-says-immediate-cessation-153618611.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Asian markets tumble, but Europe, US rally on Trump optimism",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/asian-markets-tumble-but-europe-us-rally-on-trump-optimism/a-76482613?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Markets Asia nosedived as trading restarted on Monday. Europe's indices were headed in the same direction, until optimistic Iran comments from Donald ..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "I Was In The Women's Restroom When A Man Came In And Called Out A Question That Left Me Nauseated",
-        "image": "https://media.zenfs.com/en/the_huffington_post_584/921386c3dd6ddf18b918108d5ff0511e",
-        "link": "https://www.yahoo.com/lifestyle/articles/womens-restroom-man-came-called-191449224.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "France: Former PM Lionel Jospin dies aged 88",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/france-former-pm-lionel-jospin-dies-aged-88/a-76485771?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Jospin proved the canary in the coal mine for the far-right rise in France. He was the first center-left presidential candidate to finish behind Jean-..."
     },
     {
         "source": "Deutsche Welle",
@@ -78,9 +92,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Cuban Germans react to Trump's threats wih hope and fear",
+        "title": "Cuban Germans react to Trump's threats with hope and fear",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/cuban-germans-react-to-trump-s-threats-wih-hope-and-fear/a-76485242?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/cuban-germans-react-to-trump-s-threats-with-hope-and-fear/a-76485242?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Cubans came to train, work and study in former communist East Germany. A few thousand people of Cuban origin live in Germany today. Amid US takeover t..."
     },
     {
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/german-court-rejects-climate-case-against-bmw-mercedes/a-76485571?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Environmental campaigners wanted to stop the companies from selling combustion engine cars after 2030. They argued that continuing to release high amo..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "China-North Korea transit relaunch points to better ties",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/china-north-korea-transit-relaunch-points-to-better-ties/a-76485209?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Passenger air and rail links are being restored between China and its North Korean ally as geopolitical upheavals add new impetus to improving the rel..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Global markets tumble with no end to Iran war in sight",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/global-markets-tumble-with-no-end-to-iran-war-in-sight/a-76482613?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Markets in Europe and Asia nosedived as trading restarted on Monday, as oil prices continued to climb amid the war in Iran. Germany's DAX dipped 2% in..."
     },
     {
         "source": "Leafly",
