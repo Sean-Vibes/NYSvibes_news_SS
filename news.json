@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Air Canada flight collides with a Port Authority vehicle at New York's LaGuardia Airport",
-        "image": "https://media.zenfs.com/en/ap.org/116d92e09b3f7f779f74c848d48744dd",
-        "link": "https://www.yahoo.com/news/articles/air-canada-flight-collides-port-052902928.html",
+        "title": "California sheriff running for governor seizes more than a half million ballots from 2025 election",
+        "image": "https://media.zenfs.com/en/ap.org/d63f51db2dc7ad73ca603ae8ca47b3df",
+        "link": "https://www.yahoo.com/news/articles/california-sheriff-running-governor-seizes-172908802.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,27 @@
         "image": "https://media.zenfs.com/en/fortune_175/4371aadffb06224db1280dfe197d5bf2",
         "link": "https://finance.yahoo.com/economy/policy/articles/covid-gave-us-hybrid-iran-101400689.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Two killed as Air Canada jet crashes into vehicle, shutting New York's LaGuardia Airport",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/two-killed-as-air-canada-jet-crashes-into-vehicle-shutting-new-york-s-laguardia-airport/a-76480371?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A regional passenger jet collided with a ground vehicle upon landing at LaGuardia Airport, prompting a full shutdown and widespread flight disruptions..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Pistorius brushes off SPD leadership talk",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-pistorius-brushes-off-spd-leadership-talk/live-76480351?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Defense Minister Boris Pistorius has ruled out a change of leadership at the top of his center-left Social Democrats after an electoral slump. Meanwhi..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India: Supreme Court to hear petitions against privacy law",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-supreme-court-to-hear-petitions-against-privacy-law/live-76479205?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Transparency activists and journalists say the new law could curb access to information. Meanwhile, domestic airfares are expected to rise after the t..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/uk-police-see-antisemitic-motive-in-arson-of-ambulances/a-76479210?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "British police have launched an investigation into an apparent arson attack on ambulances belonging to a Jewish emergency service in London, treating ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "What's next for Germany's troubled car giants?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/what-s-next-for-germany-s-troubled-car-giants/a-76451598?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "German automakers are in a crisis due to stagnant sales, falling profits and constant strategy shifts. Can the industry recover?..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump installs Columbus statue in White House campus",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-installs-columbus-statue-in-white-house-campus/a-76479180?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Columbus statue installed near the White House is a replica of the one tossed in Baltimore's Inner Harbor in 2020 amid the Black Lives Matter prot..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Earth's climate more unbalanced than ever, WMO warns",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/earth-s-climate-more-unbalanced-than-ever-wmo-warns/a-76448282?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The world's oceans have broken heat records for nine straight years, glaciers are retreating and extreme weather is killing thousands. The only way to..."
     },
     {
         "source": "Leafly",
