@@ -50,24 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Pups and Pints in Virginia Beach announces closure",
-        "image": "https://media.zenfs.com/en/wavy_articles_285/a0573dedd6a5ec937c96f00641c46b00",
-        "link": "https://www.yahoo.com/news/articles/pups-pints-virginia-beach-announces-170932711.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Newly discovered photos show astronaut Neil Armstrong after the Gemini 8 emergency",
-        "image": "https://media.zenfs.com/en/ap.org/670267714db7f0e82a0409c20a2c4103",
-        "link": "https://www.yahoo.com/news/articles/newly-discovered-photos-show-astronaut-170040956.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Disgraced actor, 54, found dead in prison cell two months into sentence",
         "image": "https://media.zenfs.com/en/syracuse_com_articles_331/4431203b87cecd6fb934ee3a2ce12c19",
         "link": "https://www.yahoo.com/entertainment/celebrity/articles/disgraced-actor-54-found-dead-103048939.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Exclusive-Patriot missile involved in Bahrain blast likely US-operated, analysis finds",
+        "image": "https://media.zenfs.com/en/reuters.com/12b35ef0353821435a4286bc23c14900",
+        "link": "https://www.yahoo.com/news/articles/exclusive-patriot-missile-involved-bahrain-060528603.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Covid gave us hybrid work. The Iran War might give us a four-day week\u2014and this time, experts say it could stick",
+        "image": "https://media.zenfs.com/en/fortune_175/4371aadffb06224db1280dfe197d5bf2",
+        "link": "https://finance.yahoo.com/economy/policy/articles/covid-gave-us-hybrid-iran-101400689.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Earth's climate more unbalanced than ever, WMO warns",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/earth-s-climate-more-unbalanced-than-ever-wmo-warns/a-76448282?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The world's oceans have broken heat records for nine straight years, glaciers are retreating and extreme weather is killing thousands. The only way to..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: World economy facing 'major threat,' IEA head says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-world-economy-facing-major-threat-iea-head-says/live-76478747?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "International Energy Agency chief Fatih Birol said the Hormuz crisis could be worse than the oil crises of the 1970s. Meanwhile, Trump's deadline for ..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/syrians-protest-curbs-on-alcohol-sales-in-damascus/a-76477243?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The protests in the capital Damascus reflect growing fears that the Islamist authorities may curtail personal freedoms...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US: Trump orders ICE agents to airports amid budget standoff",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-trump-orders-ice-agents-to-airports-amid-budget-standoff/a-76476759?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Starting Monday, immigration agents will be deployed to US airports to ease congestion at security checkpoints. Donald Trump's move comes amid the wee..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "West Bank: Israeli settlers torch homes, beat Palestinians",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/west-bank-israeli-settlers-torch-homes-beat-palestinians/a-76475669?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Israeli settlers rampaged through Palestinian areas in the West Bank on Saturday night. Property was damaged and Palestinians were hospitalized. Israe..."
     },
     {
         "source": "Leafly",
