@@ -43,6 +43,13 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "TSA lines are so bad at some airports that United and Delta are letting passengers move their flights",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/5b72a46c671766df0e18ce14cd44b23a",
+        "link": "https://travel.yahoo.com/advice/articles/tsa-lines-bad-airports-united-154919274.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Nancy Guthrie Likely Died in Mexico After Kidnapping, Says Veteran Pima County Cop",
         "image": "https://media.zenfs.com/en/tv_insider_639/558978540b1c7eb4edd50e896d087eb4",
         "link": "https://www.yahoo.com/news/articles/nancy-guthrie-sheriff-ex-boss-142109814.html",
@@ -50,16 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "What's that new business coming to Lee Trevino Drive in East El Paso?",
-        "image": "https://media.zenfs.com/en/the-el-paso-times/b95f2a7e078fa7867e1c40bcc5be50a9",
-        "link": "https://www.yahoo.com/news/articles/whats-business-coming-lee-trevino-140527449.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive-Trump approved Iran operation after Netanyahu argued for joint killing of Khamenei, sources say",
-        "image": "https://media.zenfs.com/en/reuters.com/98776c30ce0e036d5d1e0925fb76afce",
-        "link": "https://www.yahoo.com/news/articles/exclusive-trump-approved-iran-operation-180837669.html",
+        "title": "China urges US, Israel to stop military action in Middle East, warns of 'vicious cycle'",
+        "image": "https://media.zenfs.com/en/reuters.com/1d169a4372d62a6615fb0b6516298d2b",
+        "link": "https://www.yahoo.com/news/articles/china-warns-vicious-cycle-war-073939626.html",
         "summary": "..."
     },
     {
@@ -71,6 +71,27 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Iran war puts South Asia's Gulf remittances at risk",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-puts-south-asia-s-gulf-remittances-at-risk/a-76513989?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Millions of South Asian workers in the Middle East provide a vital economic boost by sending money home. Economists warn these flows would be at risk ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: US to deploy thousands more soldiers \u2014 reports",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-us-to-deploy-thousands-more-soldiers-reports/live-76497473?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US combat forces are expected to come from the 82nd Airborne Division, which is capable of deploying anywhere in the world in under 24 hours. Mean..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Lebanon's humanitarian crisis worsens as fighting continues",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/lebanon-s-humanitarian-crisis-worsens-as-fighting-continues/a-76512884?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The conflict between Israel and Hezbollah is continuing and Israel has announced it may occupy Lebanon's south long term. What is at stake for hundred..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "NASA plans moon base instead of orbital lunar station",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/nasa-plans-moon-base-instead-of-orbital-lunar-station/a-76510267?maca=en-rss-en-all-1573-xml-mrss",
@@ -78,31 +99,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany detains two of suspected spying for Russia",
+        "title": "Germany detains two suspected of spying for Russia",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-detains-two-of-suspected-spying-for-russia/a-76511536?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/germany-detains-two-suspected-of-spying-for-russia/a-76511536?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The suspects allegedly surveilled a German national who supplied drones and related components to Ukraine, prosecutors said...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Who wins what in the EU's new trade deal with Australia?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/who-wins-what-in-the-eu-s-new-trade-deal-with-australia/a-76509304?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Squeezed by Trump's tariffs and China's industrial muscle, the EU and Australia bury old trade disputes to finalize a long-delayed free trade deal...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "World Cup fans file ticket price complaint at EU",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/world-cup-fans-file-ticket-price-complaint-at-eu/a-76509988?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "World Cup tickets are reaching eye-watering prices, with one seat resold for over \u20ac163,000. Fans are asking the EU to step in...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Shifting alliances shape Horn of Africa tensions",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/shifting-alliances-shape-horn-of-africa-tensions/a-76509129?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Regional rivalries involving Gulf and Middle Eastern countries are influencing security dynamics in the Horn of Africa...."
     },
     {
         "source": "Leafly",
