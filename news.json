@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Alcohol Industry Group Launches Push To Regulate Hemp THC Drinks Instead Of Banning Them",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/alcohol-industry-group-launches-push-to-regulate-hemp-thc-drinks-instead-of-banning-them/",
+        "summary": "<p>A major alcohol industry trade association is launching a new campaign pushing Congress to call off a scheduled ban on... <a class=\"small font-mont..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "Massachusetts Lawmakers Grill Anti-Marijuana Campaign Spokesperson About Ballot Measure To Roll Back Legalization",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/massachusetts-lawmakers-grill-anti-marijuana-campaign-spokesperson-about-ballot-measure-to-roll-back-legalization/",
+        "summary": "<p>Massachusetts lawmakers weighing a ballot proposal to roll back the state\u2019s voter-approved marijuana legalization law had some pointed questions fo..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Feds announce hemp CBD and THC Medicare coverage details (Newsletter: March 24, 2026)",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/feds-announce-hemp-cbd-and-thc-medicare-coverage-details-newsletter-march-24-2026/",
@@ -21,20 +35,6 @@
         "summary": "<p>\u201cIt doesn\u2019t seem fair that you can only get treatment if you can afford it\u2026 It\u2019s urgent that all New... <a class=\"small font-montserrat font-weight..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Almost $100 Million In Missouri Marijuana Revenue Earmarked For Veterans And Other Programs Remains Unspent",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/almost-100-million-in-missouri-marijuana-revenue-earmarked-for-veterans-and-other-programs-remains-unspent/",
-        "summary": "<p>\u201cThe Missouri Constitution contains clear language for how these funds are to be distributed.\u201d By Rebecca Rivas and Rudi Keller,... <a class=\"small..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Feds Detail Plan To Cover Up To $500 In Hemp CBD And THC Products For Medicare Patients Under Program Launching Next Week",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/feds-detail-plan-to-cover-up-to-500-in-hemp-cbd-and-thc-products-for-medicare-patients-under-program-launching-next-week/",
-        "summary": "<p>Patients enrolled in select federal health insurance programs could have up to $500 of hemp-derived products covered each year beginning... <a clas..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Exclusive-Trump approved Iran operation after Netanyahu argued for joint killing of Khamenei, sources say",
         "image": "https://media.zenfs.com/en/reuters.com/98776c30ce0e036d5d1e0925fb76afce",
@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "CNN Shocker: Major Anchor Announces She\u2019s Leaving On-Air",
-        "image": "https://media.zenfs.com/en/mandatory_995/2265f0796c3af0f287d85be0c5265a48",
-        "link": "https://www.yahoo.com/entertainment/tv/articles/cnn-shocker-major-anchor-announces-060400381.html",
+        "title": "Psychology says people who cry easily aren\u2019t fragile\u2014their brains process more, not less, and that shows up in 10 strengths most people overlook",
+        "image": "https://media.zenfs.com/en/the_bolde_articles_237/27f28595486bb89a7dffa7a71b10e9de",
+        "link": "https://www.yahoo.com/lifestyle/articles/psychology-says-people-cry-easily-090050502.html",
         "summary": "..."
     },
     {
@@ -71,38 +71,38 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "In Iran, hope gives way to fear as conflict rages on",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/in-iran-hope-gives-way-to-fear-as-conflict-rages-on/a-76508827?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Nearly a month after the US-Israeli strikes on Iran began, many who hoped the regime would soon fall have been left disappointed. DW spoke to Iranians..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Who is Trump talking to in Iran?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/who-is-trump-talking-to-in-iran/a-76507888?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US President Donald Trump has postponed his threat to bomb Iran's energy infrastructure, and claims Tehran wants to negotiate a deal with Washington. ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Lithuanian PM: Stray crashed drone hailed from Ukraine",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/lithuanian-pm-stray-crashed-drone-hailed-from-ukraine/a-76507009?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Lithuania's prime minister has said that a military drone that crashed near the border to Belarus hailed from Ukraine and was aimed at Russian energy ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "American apocalypse: The end 'feels personal and imminent'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/american-apocalypse-the-end-feels-personal-and-imminent/a-76508264?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Social psychologists in the US found a third of people surveyed feel the world will end in their lifetimes. That's not only depressing; it also affect..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Germany's AfD: The new neoliberal workers' party?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-s-afd-the-new-neoliberal-workers-party/a-76506702?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Workers in Germany are increasingly voting for the far-right populist Alternative for Germany party (AfD). Yet the party's platform is not particularl..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Anger in Cyprus as Iran war spotlights 'colonial' UK bases",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/anger-in-cyprus-as-iran-war-spotlights-colonial-uk-bases/a-76502214?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Cyprus wants a \"frank discussion\" about the future of UK bases. A drone incident in early March has blown open old debates across this de facto divide..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India: Pakistan's mediator role in Iran war puts Modi under pressure",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-pakistan-s-mediator-role-in-iran-war-puts-modi-under-pressure/a-76506689?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After reports of Pakistan positioning itself as a Middle East mediator, the opposition questioned Narendra Modi's claims of being a global leader...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: Three Indian cities among top four most polluted, says report",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-three-indian-cities-among-top-four-most-polluted-says-report/live-76497643?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Three of the world's four most polluted cities are in India, IQAir says. Meanwhile, Rahul Gandhi has called Modi's foreign policy \"a joke\" as Pakistan..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany laments Trump's 'avoidable, unnecessary' Iran war",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-laments-trump-s-avoidable-unnecessary-iran-war/a-76501370?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Marking 75 years since the Foreign Ministry's post-war reformation, Germany's president and foreign minister warned of \"profound change\" in ties with ..."
+        "summary": "Workers in Germany are increasingly voting for the far-right, populist Alternative for Germany party. That is despite the fact the party's platform is..."
     },
     {
         "source": "Leafly",
