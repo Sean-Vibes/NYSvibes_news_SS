@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The WhatsApp scam that can let hackers take over your account in seconds",
-        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-03/37072e10-22d2-11f1-bbcf-60ea6306c456",
-        "link": "https://www.yahoo.com/news/article/whatsapp-pin-code-scam-how-to-avoid-141117978.html",
+        "title": "Exclusive-Trump approved Iran operation after Netanyahu argued for joint killing of Khamenei, sources say",
+        "image": "https://media.zenfs.com/en/reuters.com/98776c30ce0e036d5d1e0925fb76afce",
+        "link": "https://www.yahoo.com/news/articles/exclusive-trump-approved-iran-operation-180837669.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive-Trump approved Iran operation after Netanyahu argued for joint killing of Khamenei, sources say",
-        "image": "https://media.zenfs.com/en/reuters.com/98776c30ce0e036d5d1e0925fb76afce",
-        "link": "https://www.yahoo.com/news/articles/exclusive-trump-approved-iran-operation-180837669.html",
+        "title": "Video shows moment of Air Canada collision with fire truck",
+        "image": "https://media.zenfs.com/en/cnn_videos_177/e340c164b73c91c660ab399a81893e1f",
+        "link": "https://www.yahoo.com/news/videos/video-shows-moment-air-canada-213300437.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Two boys made deepfake porn of 60 girls. It left a school, small town reeling",
-        "image": "https://media.zenfs.com/en/usa_today_life_698/8734018fea5e3d55679ab9490734fb9e",
-        "link": "https://www.yahoo.com/news/articles/two-boys-made-deepfake-porn-113129082.html",
+        "title": "Tennessee Woman Set to Be the First Female Inmate Executed in the State in Over 200 Years",
+        "image": "https://media.zenfs.com/en/us_magazine_896/e87f9ac355ffc12d698cf8ad5ec4bb27",
+        "link": "https://www.yahoo.com/news/articles/tennessee-woman-set-first-female-174630061.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "At least 66 killed in Colombia military plane crash",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/at-least-66-killed-in-colombia-military-plane-crash/a-76502199?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The death toll has risen to 66 in the crash of a military plane transporting troops to a city in Putumayo in southwest Colombia...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: 3 in 4 fear wave of refugees from Iran war",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-3-in-4-fear-wave-of-refugees-from-iran-war/live-76502219?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Just under a quarter of Germans think the country would be overwhelmed by any future wave of migrants fleeing war in Iran. Meanwhile, figures show abo..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Nationwide raids over Berlin arson attack that left thousands without power",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/nationwide-raids-over-berlin-arson-attack-that-left-thousands-without-power/a-76501757?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "German police have launched nationwide raids over a suspected arson attack on Berlin's power grid that affected many thousands. Six months on, investi..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-pentagon-tightens-press-restrictions-despite-court-ruling/a-76498609?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Accredited journalists will now have to work from a facility outside the Pentagon building, albeit on the grounds. Going inside will require pre-autho..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Concerns grow for stranded whale still stuck on German coast",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/concerns-grow-for-stranded-whale-still-stuck-on-german-coast/a-76497982?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A large whale is fighting for survival off Germany's Baltic coast after becoming trapped in shallow waters. Despite rescue efforts around the clock, t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Three Indian cities among top four most polluted, says report",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/three-indian-cities-among-top-four-most-polluted-says-report/live-76497643?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Loni in Uttar Pradesh has the dubious distinction of being the world's most polluted city in 2025, according to a report by Swiss air quality monitori..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: US and Iran at odds over peace talks",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-us-and-iran-at-odds-over-peace-talks/live-76497473?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Turkey, Pakistan and Egypt are emerging as potential regional mediators. Follow DW for more...."
     },
     {
         "source": "Leafly",
