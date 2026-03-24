@@ -36,27 +36,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive-Trump approved Iran operation after Netanyahu argued for joint killing of Khamenei, sources say",
-        "image": "https://media.zenfs.com/en/reuters.com/98776c30ce0e036d5d1e0925fb76afce",
-        "link": "https://www.yahoo.com/news/articles/exclusive-trump-approved-iran-operation-180837669.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Woman Who Says Bill Cosby Drugged and Raped Her in 1972 Wins $59.3 Million Jury Award",
-        "image": "https://media.zenfs.com/en/rollingstone.com/2554901f42ecd1896cfb356c40551129",
-        "link": "https://www.yahoo.com/news/articles/woman-says-bill-cosby-drugged-182950365.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former Sheriff William Earl Hilton killed in hit-and-run crash Monday",
-        "image": "https://media.zenfs.com/en/the-town-talk/ddef8392e102fa3b919ceb5b5fbda226",
-        "link": "https://www.yahoo.com/news/articles/victim-left-severe-injuries-hineston-223758639.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Rahm Emanuel proposes banning all federal employees from betting on prediction markets",
         "image": "https://media.zenfs.com/en/ap.org/c6da711ba3b5001bf245ceb96d191853",
         "link": "https://www.yahoo.com/news/articles/rahm-emanuel-proposes-banning-federal-015919819.html",
@@ -68,6 +47,41 @@
         "image": "https://media.zenfs.com/en/mlive_com_articles_368/a086006d76769f256311602458164ec8",
         "link": "https://finance.yahoo.com/news/beloved-drink-stores-since-1946-173414506.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Woman Who Says Bill Cosby Drugged and Raped Her in 1972 Wins $59.3 Million Jury Award",
+        "image": "https://media.zenfs.com/en/rollingstone.com/2554901f42ecd1896cfb356c40551129",
+        "link": "https://www.yahoo.com/news/articles/woman-says-bill-cosby-drugged-182950365.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "China urges US, Israel to stop military action in Middle East, warns of 'vicious cycle'",
+        "image": "https://media.zenfs.com/en/reuters.com/1d169a4372d62a6615fb0b6516298d2b",
+        "link": "https://www.yahoo.com/news/articles/china-warns-vicious-cycle-war-073939626.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Vehicle collides with plane at Cleveland Hopkins International Airport",
+        "image": "https://media.zenfs.com/en/wjw_articles_784/3a1c273b0e758623254d322207dea22e",
+        "link": "https://www.yahoo.com/news/articles/vehicle-collides-plane-cleveland-hopkins-114627151.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: US and Iran at odds over peace talks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-us-and-iran-at-odds-over-peace-talks/live-76497473?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Turkey, Pakistan and Egypt are emerging as potential regional mediators. Follow DW for more...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "North Korea's Kim doubles down on nuclear program, ramps up hostility toward South",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/north-korea-s-kim-doubles-down-on-nuclear-program-ramps-up-hostility-toward-south/a-76496706?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The North Korean leader told the country's rubber-stamp parliament he will \"firmly consolidate our status as a nuclear-armed state.\"..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/argentina-s-dirty-war-still-on-trial-50-years-later/a-76453903?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Some 30,000 people were \"disappeared\" under the brutal military dictatorship that ruled Argentina from 1976 to 1983. Victims are still fighting for ju..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine nationals detained in India: Is Russia involved?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-nationals-detained-in-india-is-russia-involved/a-76495069?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Indian authorities accuse six Ukrainians and an American of supporting insurgent groups along the India-Myanmar border. Ukraine suggests that the case..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Colombia military plane crashes while transporting troops",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/colombia-military-plane-crashes-while-transporting-troops/a-76494785?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Hercules C-130 aircraft crashed as it was taking off in Colombia's southern Amazon region, bordering Peru...."
     },
     {
         "source": "Leafly",
