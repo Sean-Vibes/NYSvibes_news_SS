@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Libya tows drifting Russian 'shadow fleet' tanker to avert a Mediterranean spill",
-        "image": "https://media.zenfs.com/en/ap.org/8edc91288314234499a7805f9f4dd79b",
-        "link": "https://www.yahoo.com/news/articles/libya-tows-drifting-russian-shadow-135330983.html",
+        "title": "Exclusive-India's Reliance buys 5 million barrels of Iranian oil after US waiver, sources say",
+        "image": "https://media.zenfs.com/en/reuters.com/1d6475f6ba3fcc30c79ae5538cb9d77b",
+        "link": "https://finance.yahoo.com/news/exclusive-indias-reliance-buys-5-100643653.html",
         "summary": "..."
     },
     {
@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ron DeSantis floats a new solution to tackle long airport lines: Get rid of the TSA altogether",
-        "image": "https://media.zenfs.com/en/the_independent_635/e050d17ab7caf612cab4ff27c35a161b",
-        "link": "https://www.yahoo.com/news/articles/ron-desantis-floats-solution-tackle-162038065.html",
+        "title": "The job market is so bad that \u2018reverse recruiters\u2019 are charging $1,500 a month just to help people look for jobs",
+        "image": "https://media.zenfs.com/en/fortune_175/9c006b7f6642a946d12ff17b6717a7c9",
+        "link": "https://finance.yahoo.com/economy/articles/job-market-bad-reverse-recruiters-073000977.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Michigan Knifemaker Closes Shop After Admitting to Using Chinese Steel and Labeling It USA-Made",
-        "image": "https://media.zenfs.com/en/outdoor_life_660/a10b873ae6c27b3800b4c2d86f84c781",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/michigan-knifemaker-closes-shop-admitting-233612137.html",
+        "title": "Billionaire Mark Cuban Says If His Tax Rate Was Zero, He'd Build a Company 'So Stinking Profitable' Employees Would Get Paid Every Time He Did",
+        "image": "https://media.zenfs.com/en/Benzinga/63a8f899fd02121259a56b8b410e9c6d",
+        "link": "https://finance.yahoo.com/economy/policy/articles/billionaire-mark-cuban-says-tax-193121652.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "An Iranian to negotiate with: Who is Mohammad Ghalibaf?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/an-iranian-to-negotiate-with-who-is-mohammad-ghalibaf/a-76530987?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Mohammad Bagher Ghalibaf is one of Iran's most influential politicians and has close ties to the military. But he is also often associated with corrup..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-debates-rape-law-to-tackle-ai-and-online-abuse/a-76531016?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Calls are growing for Germany to update its rape law after a celebrity case involving \"deepfakes\" caused an uproar. Campaigners are also pushing for a..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Tehran sets own terms to end war, rejects US plan",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-tehran-sets-own-terms-to-end-war-rejects-us-plan/live-76515461?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Tehran has set out its conditions to end the war in response to a 15-point proposal from the US, Iranian state media reported. DW has the latest...."
     },
     {
         "source": "Leafly",
