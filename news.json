@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Delaware House Committee Approves Bill To Allow Medical Marijuana Use In Hospitals For Terminally Ill Patients",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/delaware-house-committee-approves-bill-to-allow-medical-marijuana-use-in-hospitals-for-terminally-ill-patients/",
+        "summary": "<p>A Delaware House committee has unanimously approved a Senate-passed bill that would allow terminally ill patients to use medical cannabis... <a cla..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "Arizona Lawmakers Advance Bill To Punish People Over \u2018Excessive\u2019 Marijuana Odor Or Smoke",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/arizona-lawmakers-advance-bill-to-punish-people-over-excessive-marijuana-odor-or-smoke/",
+        "summary": "<p>Arizona House lawmakers have approved a Senate-passed bill to penalize people who create \u201cexcessive\u201d amounts of marijuana smoke or odor\u2014a... <a cla..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Newsom Takes Credit For Legalizing Marijuana In California And Discusses \u2018Complicated\u2019 Experience Smoking It At The Grand Canyon",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/newsom-takes-credit-for-legalizing-marijuana-in-california-and-discusses-complicated-experience-smoking-it-at-the-grand-canyon/",
@@ -21,24 +35,10 @@
         "summary": "<p>A top congressional Democrat is warning that a committee-passed bill meant to expedite the deportation of immigrants who\u2019ve committed certain... <a..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "New Army Rule Allows Recruits With A Marijuana Conviction To Enlist Without Needing A Waiver, Starting On 4/20",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/new-army-rule-allows-recruits-with-a-marijuana-conviction-to-enlist-without-needing-a-waiver-starting-on-4-20/",
-        "summary": "<p>U.S. Army recruits will no longer need to obtain a waiver to enlist if they have a single conviction for... <a class=\"small font-montserrat font-we..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Mass. anti-cannabis campaign faces skeptical lawmakers (Newsletter: March 25, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/mass-anti-cannabis-campaign-faces-skeptical-lawmakers-newsletter-march-25-2026/",
-        "summary": "<p>Senate veterans psychedelics bill; MS medical marijuana bills to gov; Alcohol group push hemp ban delay; PA legalization dispute; TX... <a class=\"s..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Judge fines San Francisco public defender after finding him in contempt for refusing new cases",
-        "image": "https://media.zenfs.com/en/ap.org/66b1f36649a0acab0a0b02ff8ead8a13",
-        "link": "https://www.yahoo.com/news/articles/judge-fines-san-francisco-public-040304860.html",
+        "title": "Libya tows drifting Russian 'shadow fleet' tanker to avert a Mediterranean spill",
+        "image": "https://media.zenfs.com/en/ap.org/8edc91288314234499a7805f9f4dd79b",
+        "link": "https://www.yahoo.com/news/articles/libya-tows-drifting-russian-shadow-135330983.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Bitcoin hovers around $71,000 as Bernstein analysts say token 'looks bottomed'",
-        "image": "https://s.yimg.com/uu/api/res/1.2/WkvhES4BQH7mPUxglZ2npA--~B/aD0xODk3O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-02/0ff9df57-9870-4fc1-8808-126b7f038031",
-        "link": "https://finance.yahoo.com/news/bitcoin-hovers-around-71000-as-bernstein-analysts-say-token-looks-bottomed-151108043.html",
+        "title": "Judge fines San Francisco public defender after finding him in contempt for refusing new cases",
+        "image": "https://media.zenfs.com/en/ap.org/66b1f36649a0acab0a0b02ff8ead8a13",
+        "link": "https://www.yahoo.com/news/articles/judge-fines-san-francisco-public-040304860.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ocean is about swallow Jersey Shore lifeguard station. Town is tearing it down first.",
-        "image": "https://media.zenfs.com/en/nj_com_articles_950/093088cc54b276829ce8dd33947df622",
-        "link": "https://www.yahoo.com/news/articles/ocean-swallow-jersey-shore-lifeguard-174606075.html",
+        "title": "Michigan Knifemaker Closes Shop After Admitting to Using Chinese Steel and Labeling It USA-Made",
+        "image": "https://media.zenfs.com/en/outdoor_life_660/a10b873ae6c27b3800b4c2d86f84c781",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/michigan-knifemaker-closes-shop-admitting-233612137.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Humans and dogs \u2014 scientists find new proof of ancient bond",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/humans-and-dogs-scientists-find-new-proof-of-ancient-bond/a-76533203?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Dogs were our friends and guardians thousands of years before the end of the last ice age, with new studies identifying a puppy that lived 15,800 year..."
     },
     {
         "source": "Deutsche Welle",
@@ -95,14 +102,7 @@
         "title": "Iran war: Tehran sets own terms to end war, rejects US plan",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-tehran-sets-own-terms-to-end-war-rejects-us-plan/live-76515461?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Tehran has set out its conditions to end the war in response to a 15-point proposal from the US, state media reported. DW has the latest...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Meta, YouTube found liable in US social media addiction case",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/meta-youtube-found-liable-in-us-social-media-addiction-case/a-76532878?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A California jury has declared that social media giants Meta and YouTube were liable for harming a young woman by designing their platforms to be addi..."
+        "summary": "Tehran has set out its conditions to end the war in response to a 15-point proposal from the US, Iranian state media reported. DW has the latest...."
     },
     {
         "source": "Leafly",
