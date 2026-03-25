@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "German minister says Trump's Iran talks announcement could mark turning point",
-        "image": "https://media.zenfs.com/en/reuters.com/336fa47a60fdf9a3644e5f5e7f55db9b",
-        "link": "https://www.yahoo.com/news/articles/german-minister-says-trumps-iran-100837693.html",
+        "title": "Exclusive-Trump approved Iran operation after Netanyahu argued for joint killing of Khamenei, sources say",
+        "image": "https://media.zenfs.com/en/reuters.com/98776c30ce0e036d5d1e0925fb76afce",
+        "link": "https://www.yahoo.com/news/articles/exclusive-trump-approved-iran-operation-180837669.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Beloved drink in stores since 1946 will soon be gone, Coca-Cola says",
-        "image": "https://media.zenfs.com/en/mlive_com_articles_368/a086006d76769f256311602458164ec8",
-        "link": "https://finance.yahoo.com/news/beloved-drink-stores-since-1946-173414506.html",
+        "title": "Nancy Guthrie Likely Died in Mexico After Kidnapping, Says Veteran Pima County Cop",
+        "image": "https://media.zenfs.com/en/tv_insider_639/558978540b1c7eb4edd50e896d087eb4",
+        "link": "https://www.yahoo.com/news/articles/nancy-guthrie-sheriff-ex-boss-142109814.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Japan says Chinese Embassy break-in 'regrettable'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/japan-says-chinese-embassy-break-in-regrettable/a-76516918?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A soldier breaking into the Chinese Embassy in Tokyo, reportedly with a knife, is making matters worse for diplomatic relations between the two countr..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Indians flock to fuel pumps as Iran war drives shortage fears",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/indians-flock-to-fuel-pumps-as-iran-war-drives-shortage-fears/live-76516044?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "From Gujarat to Tamil Nadu, long lines at fuel pumps reflect growing anxiety over oil supplies even as officials urge calm and assure of adequate supp..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/danish-pm-s-left-wing-bloc-wins-vote-but-with-no-majority/a-76498223?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "It is unclear if Prime Minister Mette Frederiksen can secure a third term, as her party came in first but recorded a poor result. Foreign Minister Ras..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Rescuers fail to free stranded whale stuck on German coast",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/rescuers-fail-to-free-stranded-whale-stuck-on-german-coast/a-76497982?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A whale is fighting for survival off Germany's Baltic coast after becoming trapped in shallow waters. Initial efforts to rescue the stranded animal fa..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "French municipal vote: What do results mean for 2027 ballot?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/french-municipal-vote-what-do-results-mean-for-2027-ballot/a-76514600?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "France's far-right National Rally did not do as well as it hoped in recent local elections. But, experts say, mainstream parties can't afford to relax..."
     },
     {
         "source": "Leafly",
