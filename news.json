@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Newsom Takes Credit For Legalizing Marijuana In California And Discusses \u2018Complicated\u2019 Experience Smoking It At The Grand Canyon",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/newsom-takes-credit-for-legalizing-marijuana-in-california-and-discusses-complicated-experience-smoking-it-at-the-grand-canyon/",
+        "summary": "<p>California Gov. Gavin Newsom (D) might have helped lead the push to legalize marijuana in the state\u2014but that advocacy didn\u2019t... <a class=\"small fon..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Local Officials In Washington Approve Measure To Deprioritize Psychedelics Enforcement",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/local-officials-in-washington-approve-measure-to-deprioritize-psychedelics-enforcement/",
@@ -28,17 +35,10 @@
         "summary": "<p>Senate veterans psychedelics bill; MS medical marijuana bills to gov; Alcohol group push hemp ban delay; PA legalization dispute; TX... <a class=\"s..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "GOP Senator To File Bill Promoting Psychedelics Research And Treatment For Veterans",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/gop-senator-to-file-bill-promoting-psychedelics-research-and-treatment-for-veterans/",
-        "summary": "<p>A new Senate bill is being filed that would promote research into the therapeutic potential psychedelics, aiming to create a... <a class=\"small fon..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive-Trump approved Iran operation after Netanyahu argued for joint killing of Khamenei, sources say",
-        "image": "https://media.zenfs.com/en/reuters.com/98776c30ce0e036d5d1e0925fb76afce",
-        "link": "https://www.yahoo.com/news/articles/exclusive-trump-approved-iran-operation-180837669.html",
+        "title": "Judge fines San Francisco public defender after finding him in contempt for refusing new cases",
+        "image": "https://media.zenfs.com/en/ap.org/66b1f36649a0acab0a0b02ff8ead8a13",
+        "link": "https://www.yahoo.com/news/articles/judge-fines-san-francisco-public-040304860.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The job market is so bad that \u2018reverse recruiters\u2019 are charging $1,500 a month just to help people look for jobs",
-        "image": "https://media.zenfs.com/en/fortune_175/9c006b7f6642a946d12ff17b6717a7c9",
-        "link": "https://finance.yahoo.com/economy/articles/job-market-bad-reverse-recruiters-073000977.html",
+        "title": "Ron DeSantis floats a new solution to tackle long airport lines: Get rid of the TSA altogether",
+        "image": "https://media.zenfs.com/en/the_independent_635/e050d17ab7caf612cab4ff27c35a161b",
+        "link": "https://www.yahoo.com/news/articles/ron-desantis-floats-solution-tackle-162038065.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "A woman prosecutors say fired shots at Rihanna's home in attempt to kill her set to appear in court",
-        "image": "https://media.zenfs.com/en/ap.org/e0fad2d8b88fe5aebb1360962c7ef9a0",
-        "link": "https://www.yahoo.com/entertainment/celebrity/articles/woman-prosecutors-fired-shots-rihannas-043230191.html",
+        "title": "Bitcoin hovers around $71,000 as Bernstein analysts say token 'looks bottomed'",
+        "image": "https://s.yimg.com/uu/api/res/1.2/WkvhES4BQH7mPUxglZ2npA--~B/aD0xODk3O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-02/0ff9df57-9870-4fc1-8808-126b7f038031",
+        "link": "https://finance.yahoo.com/news/bitcoin-hovers-around-71000-as-bernstein-analysts-say-token-looks-bottomed-151108043.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Beloved drink in stores since 1946 will soon be gone, Coca-Cola says",
-        "image": "https://media.zenfs.com/en/mlive_com_articles_368/a086006d76769f256311602458164ec8",
-        "link": "https://finance.yahoo.com/news/beloved-drink-stores-since-1946-173414506.html",
+        "title": "Ocean is about swallow Jersey Shore lifeguard station. Town is tearing it down first.",
+        "image": "https://media.zenfs.com/en/nj_com_articles_950/093088cc54b276829ce8dd33947df622",
+        "link": "https://www.yahoo.com/news/articles/ocean-swallow-jersey-shore-lifeguard-174606075.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Hungarian election: Will Europe's far-right help Orban win?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/hungarian-election-will-europe-s-far-right-help-orban-win/a-76522061?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Leading European populists are throwing their weight behind Viktor Orban's reelection campaign. But the Hungarian prime minister lags behind the oppos..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany's Left Party rocked by antisemitism allegations",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-s-left-party-rocked-by-antisemitism-allegations/a-76526513?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "In a resolution, a state\u2011level branch of the socialist Left Party has rejected the \"Zionism that actually exists today.\" Are they denying Israel's rig..."
     },
     {
         "source": "Deutsche Welle",
@@ -78,31 +92,17 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany's big climate move \u2014 bold step or bare minimum?",
+        "title": "Iran war: Tehran sets own terms to end war, rejects US plan",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-big-climate-move-bold-step-or-bare-minimum/a-76529540?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The German government has rolled out a multibillion\u2011euro climate package to turbocharge wind power and e\u2011mobility. Supporters call it overdue momentum..."
+        "link": "https://www.dw.com/en/iran-war-tehran-sets-own-terms-to-end-war-rejects-us-plan/live-76515461?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Tehran has set out its conditions to end the war in response to a 15-point proposal from the US, state media reported. DW has the latest...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "How countries are tackling the global energy crisis",
+        "title": "Meta, YouTube found liable in US social media addiction case",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-countries-are-tackling-the-global-energy-crisis/a-76523669?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "With energy prices soaring and the Strait of Hormuz still closed, the world must cut demand. From 4-day workweeks and petrol rations to turning down t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Tehran says US is 'negotiating with itself'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-tehran-says-us-is-negotiating-with-itself/live-76515461?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Iran has confirmed receipt of a US ceasefire plan conveyed via Pakistan but has rejected its proposals as \"excessive.\" Tehran insists it is not negoti..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Report: Volkswagen to switch from cars to defense at key plant",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/report-volkswagen-to-switch-from-cars-to-defense-at-key-plant/a-76520877?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A report in the Financial Times says Volkswagen is considering producing weapons for Israel. A VW spokesperson told DW the company was exploring \"viab..."
+        "link": "https://www.dw.com/en/meta-youtube-found-liable-in-us-social-media-addiction-case/a-76532878?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A California jury has declared that social media giants Meta and YouTube were liable for harming a young woman by designing their platforms to be addi..."
     },
     {
         "source": "Leafly",
