@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Nancy Guthrie Likely Died in Mexico After Kidnapping, Says Veteran Pima County Cop",
+        "image": "https://media.zenfs.com/en/tv_insider_639/558978540b1c7eb4edd50e896d087eb4",
+        "link": "https://www.yahoo.com/news/articles/nancy-guthrie-sheriff-ex-boss-142109814.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "German minister says Trump's Iran talks announcement could mark turning point",
+        "image": "https://media.zenfs.com/en/reuters.com/336fa47a60fdf9a3644e5f5e7f55db9b",
+        "link": "https://www.yahoo.com/news/articles/german-minister-says-trumps-iran-100837693.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "TSA lines are so bad at some airports that United and Delta are letting passengers move their flights",
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/5b72a46c671766df0e18ce14cd44b23a",
         "link": "https://travel.yahoo.com/advice/articles/tsa-lines-bad-airports-united-154919274.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018Morning Joe\u2019 Stars Joe Scarborough, Mika Brzezinski Reportedly Feel Part of MS Now\u2019s Slow Phase-Out",
-        "image": "https://media.zenfs.com/en/globe_458/94afdd9ba93a1c401af71557cc26a1da",
-        "link": "https://www.yahoo.com/entertainment/videos/morning-joe-stars-joe-scarborough-124432733.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nancy Guthrie Likely Died in Mexico After Kidnapping, Says Veteran Pima County Cop",
-        "image": "https://media.zenfs.com/en/tv_insider_639/558978540b1c7eb4edd50e896d087eb4",
-        "link": "https://www.yahoo.com/news/articles/nancy-guthrie-sheriff-ex-boss-142109814.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Iran war: Tehran says US is 'negotiating with itself'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-tehran-says-us-is-negotiating-with-itself/live-76515461?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran's Foreign Ministry has said it is not negotiating with the US. It comes after Trump reportedly put forward a proposal including a one-month cease..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/japan-says-chinese-embassy-break-in-regrettable/a-76516918?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A soldier breaking into the Chinese Embassy in Tokyo, reportedly with a knife, is making matters worse for diplomatic relations between the two countr..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Indians flock to fuel pumps as Iran war drives shortage fears",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/indians-flock-to-fuel-pumps-as-iran-war-drives-shortage-fears/live-76516044?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "From Gujarat to Tamil Nadu, long lines at fuel pumps reflect growing anxiety over oil supplies even as officials urge calm and assure of adequate supp..."
     },
     {
         "source": "Leafly",
