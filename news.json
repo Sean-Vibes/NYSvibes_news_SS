@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Libya tows drifting Russian 'shadow fleet' tanker to avert a Mediterranean spill",
-        "image": "https://media.zenfs.com/en/ap.org/8edc91288314234499a7805f9f4dd79b",
-        "link": "https://www.yahoo.com/news/articles/libya-tows-drifting-russian-shadow-135330983.html",
+        "title": "Exclusive-Trump approved Iran operation after Netanyahu argued for joint killing of Khamenei, sources say",
+        "image": "https://media.zenfs.com/en/reuters.com/98776c30ce0e036d5d1e0925fb76afce",
+        "link": "https://www.yahoo.com/news/articles/exclusive-trump-approved-iran-operation-180837669.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Sheriff in Nancy Guthrie case says investigators 'believe that something occurred' 3 weeks before her disappearance",
-        "image": "https://media.zenfs.com/en/entertainment_weekly_785/73fbd537b97f5a7b58ff953d6ce3eb11",
-        "link": "https://www.yahoo.com/news/articles/sheriff-nancy-guthrie-case-says-201213454.html",
+        "title": "Beloved drink in stores since 1946 will soon be gone, Coca-Cola says",
+        "image": "https://media.zenfs.com/en/mlive_com_articles_368/a086006d76769f256311602458164ec8",
+        "link": "https://finance.yahoo.com/news/beloved-drink-stores-since-1946-173414506.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Meta hit with $375 million fine in child exploitation case",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/meta-hit-with-375-million-fine-in-child-exploitation-case/a-76515470?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "While the New Mexico jury's landmark decision to hold Meta liable could be a bellwether, the penalty is only a fraction of what prosecutors sought...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: US reportedly offers 15-point plan to end war",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-us-reportedly-offers-15-point-plan-to-end-war/live-76515461?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The proposal reportedly includes a one-month ceasefire and was conveyed to Iran via Pakistan. Follow DW for more...."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/french-municipal-vote-what-do-results-mean-for-2027-ballot/a-76514600?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "France's far-right National Rally did not do as well as it hoped in recent local elections. But, experts say, mainstream parties can't afford to relax..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war puts South Asia's Gulf remittances at risk",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-puts-south-asia-s-gulf-remittances-at-risk/a-76513989?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Millions of South Asian workers in the Middle East provide a vital economic boost by sending money home. Economists warn these flows would be at risk ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: US to deploy thousands more soldiers \u2014 reports",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-us-to-deploy-thousands-more-soldiers-reports/live-76497473?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US combat forces are expected to come from the 82nd Airborne Division, which is capable of deploying anywhere in the world in under 24 hours. Mean..."
     },
     {
         "source": "Leafly",
