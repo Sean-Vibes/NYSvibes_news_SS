@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Libya tows drifting Russian 'shadow fleet' tanker to avert a Mediterranean spill",
-        "image": "https://media.zenfs.com/en/ap.org/8edc91288314234499a7805f9f4dd79b",
-        "link": "https://www.yahoo.com/news/articles/libya-tows-drifting-russian-shadow-135330983.html",
+        "title": "Hungary will cut natural gas supplies to Ukraine until Russian oil deliveries resume",
+        "image": "https://media.zenfs.com/en/ap.org/c04c7437d9d4a6783d3150a2c07e207f",
+        "link": "https://www.yahoo.com/news/articles/hungary-cut-natural-gas-supplies-105010677.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Texas Woman Allegedly Lured Father of Her Kids Out of YMCA So Her Ex-Boyfriend Could Stab Him",
+        "image": "https://media.zenfs.com/en/us_magazine_896/89c593b30caed339b5d419c8d8b4621d",
+        "link": "https://www.yahoo.com/news/articles/texas-woman-allegedly-lured-father-220134672.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Supreme Court considers letting Trump administration revive restrictive immigration asylum policy",
+        "image": "https://media.zenfs.com/en/ap.org/b018e34bbc1b8b293ade412e246ebd9f",
+        "link": "https://www.yahoo.com/news/articles/supreme-court-considers-letting-trump-192144565.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Billionaire Mark Cuban Says If His Tax Rate Was Zero, He'd Build a Company 'So Stinking Profitable' Employees Would Get Paid Every Time He Did",
         "image": "https://media.zenfs.com/en/Benzinga/63a8f899fd02121259a56b8b410e9c6d",
         "link": "https://finance.yahoo.com/economy/policy/articles/billionaire-mark-cuban-says-tax-193121652.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Bitcoin hovers around $71,000 as Bernstein analysts say token 'looks bottomed'",
-        "image": "https://s.yimg.com/uu/api/res/1.2/WkvhES4BQH7mPUxglZ2npA--~B/aD0xODk3O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-02/0ff9df57-9870-4fc1-8808-126b7f038031",
-        "link": "https://finance.yahoo.com/news/bitcoin-hovers-around-71000-as-bernstein-analysts-say-token-looks-bottomed-151108043.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Florida Woman Arrested For Urinating on Thousands in Airbnb Items, Posted Videos for Profit",
-        "image": "https://media.zenfs.com/en/where_is_the_buzz_814/7d0777f0f9947eb9d184e180f98888dc",
-        "link": "https://www.yahoo.com/news/articles/florida-woman-arrested-urinating-thousands-220425133.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Germany news: BASF opens massive factory in China",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-basf-opens-massive-factory-in-china/live-76539515?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After slashing jobs at home, BASF opened a sprawling new factory in China on Thursday. The war in Iran drags on consumer confidence and an ancient cas..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/world-cup-2026-cost-trump-and-travel-give-world-fans-pause/a-76507337?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "As teams battle it out for the final six spots, loyal fans are making plans for World Cup 2026. DW spoke to supporters across the world to hear about ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: Andhra Pradesh bus fire leaves 13 dead",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-andhra-pradesh-bus-fire-leaves-13-dead/live-76535993?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A bus burst into flames after colliding with a truck in India's Andhra Pradesh. At least 13 people have died and 20 others are injured. DW has the lat..."
     },
     {
         "source": "Leafly",
