@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "White House Schedules Meeting On Cannabis Products Enforcement Policy For Next Week",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/white-house-schedules-meeting-on-cannabis-products-enforcement-policy-for-next-week/",
+        "summary": "<p>The White House has scheduled a meeting for next week with a cannabis biotechnology company executive regarding a proposed enforcement... <a class=..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "Ohio Breweries Push Lawmakers To Override Governor\u2019s Veto That Banned Hemp THC Drinks Last Week",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/ohio-breweries-push-lawmakers-to-override-governors-veto-that-banned-hemp-thc-drinks-last-week/",
+        "summary": "<p>A coalition of Ohio breweries are rallying residents to put pressure on their lawmakers to override the governor and give... <a class=\"small font-m..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Louisiana Senators Approve Bill To Create Psychedelic Therapy Pilot Program Funded By Opioid Settlement Dollars",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/louisiana-senators-approve-bill-to-create-psychedelic-therapy-pilot-program-funded-by-opioid-settlement-dollars/",
@@ -21,24 +35,10 @@
         "summary": "<p>Federal bill could peg marijuana users as gang members; CA gov on legalization; AZ cannabis odor vote; DE medical use... <a class=\"small font-monts..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Delaware House Committee Approves Bill To Allow Medical Marijuana Use In Hospitals For Terminally Ill Patients",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/delaware-house-committee-approves-bill-to-allow-medical-marijuana-use-in-hospitals-for-terminally-ill-patients/",
-        "summary": "<p>A Delaware House committee has unanimously approved a Senate-passed bill that would allow terminally ill patients to use medical cannabis... <a cla..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Arizona Lawmakers Advance Bill To Punish People Over \u2018Excessive\u2019 Marijuana Odor Or Smoke",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/arizona-lawmakers-advance-bill-to-punish-people-over-excessive-marijuana-odor-or-smoke/",
-        "summary": "<p>Arizona House lawmakers have approved a Senate-passed bill to penalize people who create \u201cexcessive\u201d amounts of marijuana smoke or odor\u2014a... <a cla..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "At Pentagon Christian service, Hegseth prays for violence 'against those who deserve no mercy'",
-        "image": "https://media.zenfs.com/en/ap.org/11c64b721dccf613b5dfd556bd2564cf",
-        "link": "https://www.yahoo.com/news/articles/pentagon-christian-hegseth-prays-violence-195837225.html",
+        "title": "Migrants march from southern Mexico, protesting delays and seeking papers to work",
+        "image": "https://media.zenfs.com/en/ap.org/752997d081ed767dac7ac39e94695e00",
+        "link": "https://www.yahoo.com/news/articles/migrants-march-southern-mexico-protesting-153136305.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Migrants march from southern Mexico, protesting delays and seeking papers to work",
-        "image": "https://media.zenfs.com/en/ap.org/752997d081ed767dac7ac39e94695e00",
-        "link": "https://www.yahoo.com/news/articles/migrants-march-southern-mexico-protesting-153136305.html",
+        "title": "At Pentagon Christian service, Hegseth prays for violence 'against those who deserve no mercy'",
+        "image": "https://media.zenfs.com/en/ap.org/11c64b721dccf613b5dfd556bd2564cf",
+        "link": "https://www.yahoo.com/news/articles/pentagon-christian-hegseth-prays-violence-195837225.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Florida Woman Arrested For Urinating on Thousands in Airbnb Items, Posted Videos for Profit",
-        "image": "https://media.zenfs.com/en/where_is_the_buzz_814/7d0777f0f9947eb9d184e180f98888dc",
-        "link": "https://www.yahoo.com/news/articles/florida-woman-arrested-urinating-thousands-220425133.html",
+        "title": "Woman Claims Southwest Canceled Her Ticket After Gate Agent Told Her She\u2019s Too Big for One Seat",
+        "image": "https://media.zenfs.com/en/people_218/49d4c03776261ff2bc59027730520811",
+        "link": "https://travel.yahoo.com/advice/safety/articles/woman-claims-southwest-canceled-her-175932523.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US: Hundreds of TSA agents quit, ICE agents patrol airports",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-hundreds-of-tsa-agents-quit-ice-agents-patrol-airports/a-76552493?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US Transportation Security Administration has warned it could close small airports if a partial shutdown continues. Democrats want immigration enf..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UN resolution fuels global reparations debate",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/un-resolution-fuels-global-reparations-debate/a-76548380?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A landmark UN resoultion has intensified the debate over reparations for the transatlantic slave trade, with supporters arguing that recognition, apol..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Can Thailand's new government deliver on growth promises?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/can-thailand-s-new-government-deliver-on-growth-promises/a-76526608?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After taking a gamble in seeking a new mandate, Thailand's newly reelected PM Anutin Charnvirakul has cast himself as a force for stability. But his g..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/european-nato-defense-spending-rose-by-almost-20-in-2025/a-76544678?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "European NATO members and Canada increased their defense spending by an aggregate of 19.6% in 2025, the second consecutive year at that rate. German d..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine: US tied guarantees to Donbas withdrawal \u2014 Zelenskyy",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-us-tied-guarantees-to-donbas-withdrawal-zelenskyy/a-76544649?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukrainian President Zelenskyy has said the United States linked future security guarantees to Kyiv's withdrawal from the Donbas region. The comments h..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Olympic Committee bans transgender women from female events",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/olympic-committee-bans-transgender-women-from-female-events/a-76546859?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The International Olympic Committee has said it will reintroduce genetic gender testing to determine eligibility for female events at the 2028 Los Ang..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "'Looksmaxxing' \u2014 the manosphere beauty cult",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/looksmaxxing-the-manosphere-beauty-cult/a-76538730?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The online trend with roots in misogyny encourages socially isolated young men to undertake painful practices to gain beauty and status \u2014 and its lang..."
     },
     {
         "source": "Leafly",
