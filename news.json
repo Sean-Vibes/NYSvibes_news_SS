@@ -36,16 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive-FBI investigation into Kash Patel was more extensive than previously reported",
-        "image": "https://media.zenfs.com/en/reuters.com/ddd751ba8d14c3152bf9a30578b2bab0",
-        "link": "https://www.yahoo.com/news/articles/exclusive-fbi-investigation-kash-patel-100148555.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nancy Guthrie Likely Died in Mexico After Kidnapping, Says Veteran Pima County Cop",
-        "image": "https://media.zenfs.com/en/tv_insider_639/558978540b1c7eb4edd50e896d087eb4",
-        "link": "https://www.yahoo.com/news/articles/nancy-guthrie-sheriff-ex-boss-142109814.html",
+        "title": "Libya tows drifting Russian 'shadow fleet' tanker to avert a Mediterranean spill",
+        "image": "https://media.zenfs.com/en/ap.org/8edc91288314234499a7805f9f4dd79b",
+        "link": "https://www.yahoo.com/news/articles/libya-tows-drifting-russian-shadow-135330983.html",
         "summary": "..."
     },
     {
@@ -57,9 +50,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Bitcoin hovers around $71,000 as Bernstein analysts say token 'looks bottomed'",
-        "image": "https://s.yimg.com/uu/api/res/1.2/WkvhES4BQH7mPUxglZ2npA--~B/aD0xODk3O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-02/0ff9df57-9870-4fc1-8808-126b7f038031",
-        "link": "https://finance.yahoo.com/news/bitcoin-hovers-around-71000-as-bernstein-analysts-say-token-looks-bottomed-151108043.html",
+        "title": "Nancy Guthrie Likely Died in Mexico After Kidnapping, Says Veteran Pima County Cop",
+        "image": "https://media.zenfs.com/en/tv_insider_639/558978540b1c7eb4edd50e896d087eb4",
+        "link": "https://www.yahoo.com/news/articles/nancy-guthrie-sheriff-ex-boss-142109814.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Judge fines San Francisco public defender after finding him in contempt for refusing new cases",
+        "image": "https://media.zenfs.com/en/ap.org/66b1f36649a0acab0a0b02ff8ead8a13",
+        "link": "https://www.yahoo.com/news/articles/judge-fines-san-francisco-public-040304860.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,27 @@
         "image": "https://media.zenfs.com/en/where_is_the_buzz_814/7d0777f0f9947eb9d184e180f98888dc",
         "link": "https://www.yahoo.com/news/articles/florida-woman-arrested-urinating-thousands-220425133.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Smart sleepers could be the glow-up night trains need",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/smart-sleepers-could-be-the-glow-up-night-trains-need/a-75937028?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Europe has a bit of an on-off relationship with night trains. A Berlin team\u2019s smart cabin concept could lead to greater commitment...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "World Cup 2026: Cost, Trump and travel give world fans pause",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/world-cup-2026-cost-trump-and-travel-give-world-fans-pause/a-76507337?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "As teams battle it out for the final six spots, loyal fans are making plans for World Cup 2026. DW spoke to supporters across the world to hear about ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Andhra Pradesh bus fire leaves 13 dead",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-andhra-pradesh-bus-fire-leaves-13-dead/live-76535993?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A bus burst into flames after colliding with a truck in India's Andhra Pradesh. At least 13 people have died and 20 others are injured. DW has the lat..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/un-pushes-emergency-plan-for-cuba-aid-amid-us-talks/a-76535754?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The UN has presented an aid action plan for Cuba to US officials, which even involves fuel tracking models. Meanwhile, former President Raul Castro ha..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Germany calls conflict economic 'catastrophe'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-germany-calls-conflict-economic-catastrophe/live-76535412?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The comments by German Defense Minister Pistorius come amid mixed signals over negotiations to end the war. Follow DW for more...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Australia bans visitors from Iran for 6 months amid war",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/australia-bans-visitors-from-iran-for-6-months-amid-war/a-76535385?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Australia is concerned Iranian visitors may overstay their visas because of the war in the Middle East...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UN recognizes slave trade as gravest crime against humanity",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/un-recognizes-slave-trade-as-gravest-crime-against-humanity/a-76535180?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The UN General Assembly has passed the resolution on transatlantic slavery despite opposition from the US and European countries...."
     },
     {
         "source": "Leafly",
