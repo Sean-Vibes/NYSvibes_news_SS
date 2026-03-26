@@ -36,16 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Libya tows drifting Russian 'shadow fleet' tanker to avert a Mediterranean spill",
-        "image": "https://media.zenfs.com/en/ap.org/8edc91288314234499a7805f9f4dd79b",
-        "link": "https://www.yahoo.com/news/articles/libya-tows-drifting-russian-shadow-135330983.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Billionaire Mark Cuban Says If His Tax Rate Was Zero, He'd Build a Company 'So Stinking Profitable' Employees Would Get Paid Every Time He Did",
-        "image": "https://media.zenfs.com/en/Benzinga/63a8f899fd02121259a56b8b410e9c6d",
-        "link": "https://finance.yahoo.com/economy/policy/articles/billionaire-mark-cuban-says-tax-193121652.html",
+        "title": "Exclusive-FBI investigation into Kash Patel was more extensive than previously reported",
+        "image": "https://media.zenfs.com/en/reuters.com/ddd751ba8d14c3152bf9a30578b2bab0",
+        "link": "https://www.yahoo.com/news/articles/exclusive-fbi-investigation-kash-patel-100148555.html",
         "summary": "..."
     },
     {
@@ -57,9 +50,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Judge fines San Francisco public defender after finding him in contempt for refusing new cases",
-        "image": "https://media.zenfs.com/en/ap.org/66b1f36649a0acab0a0b02ff8ead8a13",
-        "link": "https://www.yahoo.com/news/articles/judge-fines-san-francisco-public-040304860.html",
+        "title": "Billionaire Mark Cuban Says If His Tax Rate Was Zero, He'd Build a Company 'So Stinking Profitable' Employees Would Get Paid Every Time He Did",
+        "image": "https://media.zenfs.com/en/Benzinga/63a8f899fd02121259a56b8b410e9c6d",
+        "link": "https://finance.yahoo.com/economy/policy/articles/billionaire-mark-cuban-says-tax-193121652.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Bitcoin hovers around $71,000 as Bernstein analysts say token 'looks bottomed'",
+        "image": "https://s.yimg.com/uu/api/res/1.2/WkvhES4BQH7mPUxglZ2npA--~B/aD0xODk3O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-02/0ff9df57-9870-4fc1-8808-126b7f038031",
+        "link": "https://finance.yahoo.com/news/bitcoin-hovers-around-71000-as-bernstein-analysts-say-token-looks-bottomed-151108043.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/where_is_the_buzz_814/7d0777f0f9947eb9d184e180f98888dc",
         "link": "https://www.yahoo.com/news/articles/florida-woman-arrested-urinating-thousands-220425133.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Bangladesh: Several killed after bus plunges into river",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/bangladesh-several-killed-after-bus-plunges-into-river/a-76536152?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The bus, mostly carrying workers returning to Dhaka after Eid, fell into River Padma while attempting to board a ferry...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UN pushes emergency plan for Cuba aid amid US talks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/un-pushes-emergency-plan-for-cuba-aid-amid-us-talks/a-76535754?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The UN has presented an aid action plan for Cuba to US officials, which even involves fuel tracking models. Meanwhile, former President Raul Castro ha..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/un-recognizes-slave-trade-as-gravest-crime-against-humanity/a-76535180?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The UN General Assembly has passed the resolution on transatlantic slavery despite opposition from the US and European countries...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "France: Islamic scholar Tariq Ramadan gets 18 years for rape",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/france-islamic-scholar-tariq-ramadan-gets-18-years-for-rape/a-76535014?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A Paris court has sentenced in absentia Islamic scholar Tariq Ramadan for the rape of three women between 2009 and 2016. The verdict marks one of the ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "An Iranian to negotiate with: Who is Mohammad Ghalibaf?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/an-iranian-to-negotiate-with-who-is-mohammad-ghalibaf/a-76530987?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Mohammad Bagher Ghalibaf is one of Iran's most influential politicians and has close ties to the military. But he is also often associated with corrup..."
     },
     {
         "source": "Leafly",
