@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Idaho Medical Marijuana Campaign Says Legalization Ballot Measure Would Generate $100 Million In Annual Sales",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/idaho-medical-marijuana-campaign-says-legalization-ballot-measure-would-generate-100-million-in-annual-sales/",
+        "summary": "<p>Idaho could see more than $100 million worth of medical marijuana sold on an annual basis and up to $28... <a class=\"small font-montserrat font-wei..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "White House Schedules Meeting On Cannabis Products Enforcement Policy For Next Week",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/white-house-schedules-meeting-on-cannabis-products-enforcement-policy-for-next-week/",
@@ -28,17 +35,10 @@
         "summary": "<p>The Trump administration is claiming credit for ramping up deportations of immigrants who\u2019ve been arrested that earned them a place... <a class=\"sm..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Army adopts new cannabis policy to boost recruitment (Newsletter: March 26, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/army-adopts-new-cannabis-policy-to-boost-recruitment-newsletter-march-26-2026/",
-        "summary": "<p>Federal bill could peg marijuana users as gang members; CA gov on legalization; AZ cannabis odor vote; DE medical use... <a class=\"small font-monts..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Migrants march from southern Mexico, protesting delays and seeking papers to work",
-        "image": "https://media.zenfs.com/en/ap.org/752997d081ed767dac7ac39e94695e00",
-        "link": "https://www.yahoo.com/news/articles/migrants-march-southern-mexico-protesting-153136305.html",
+        "title": "Trump interrupts a Cabinet meeting dealing with the Iran war and rising prices to talk Sharpies",
+        "image": "https://media.zenfs.com/en/ap.org/2196e6d1adceeb3b282bf9fdc9a1c084",
+        "link": "https://www.yahoo.com/news/articles/trump-interrupts-cabinet-meeting-dealing-190437114.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "At Pentagon Christian service, Hegseth prays for violence 'against those who deserve no mercy'",
-        "image": "https://media.zenfs.com/en/ap.org/11c64b721dccf613b5dfd556bd2564cf",
-        "link": "https://www.yahoo.com/news/articles/pentagon-christian-hegseth-prays-violence-195837225.html",
+        "title": "Iran starts to formalize its chokehold on the Strait of Hormuz with a 'toll booth' regime",
+        "image": "https://media.zenfs.com/en/ap.org/f3a2d7013f5f3845b423204870669a2d",
+        "link": "https://www.yahoo.com/news/articles/iran-starts-formalize-chokehold-strait-192024062.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Woman Claims Southwest Canceled Her Ticket After Gate Agent Told Her She\u2019s Too Big for One Seat",
-        "image": "https://media.zenfs.com/en/people_218/49d4c03776261ff2bc59027730520811",
-        "link": "https://travel.yahoo.com/advice/safety/articles/woman-claims-southwest-canceled-her-175932523.html",
+        "title": "After 60 Years, Diabetes Drug Revealed to Unexpectedly Affect The Brain",
+        "image": "https://media.zenfs.com/en/sciencealert_160/6d81348b063d8c6501effd2bc4dcb386",
+        "link": "https://www.yahoo.com/news/articles/60-years-diabetes-drug-revealed-225458385.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Trump extends pause on energy sector strikes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-trump-extends-pause-on-energy-sector-strikes/live-76535412?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "President Trump said the US would prolong a pause on strikes of Iran's energy facilities for 10 days. He also said talks with Iran were \"going well.\" ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Houthi restraint driven by local priorities",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-houthi-restraint-driven-by-local-priorities/a-76546651?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Despite threatening to intervene in the war in Iran, the Iran-backed Yemeni Houthi militia has so far remained passive. What are the reasons?..."
     },
     {
         "source": "Deutsche Welle",
@@ -78,9 +92,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "UN resolution fuels global reparations debate",
+        "title": "UN resolution fuels global slavery reparations debate",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/un-resolution-fuels-global-reparations-debate/a-76548380?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/un-resolution-fuels-global-slavery-reparations-debate/a-76548380?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A landmark UN resoultion has intensified the debate over reparations for the transatlantic slave trade, with supporters arguing that recognition, apol..."
     },
     {
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/can-thailand-s-new-government-deliver-on-growth-promises/a-76526608?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "After taking a gamble in seeking a new mandate, Thailand's newly reelected PM Anutin Charnvirakul has cast himself as a force for stability. But his g..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Online porn sites putting kids' safety at risk, EU says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/online-porn-sites-putting-kids-safety-at-risk-eu-says/a-76547658?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Social media platform Snapchat and four adult websites put kids in danger by not enforcing age-limits to access content, according to the European Com..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "European NATO defense spending rose by almost 20% in 2025",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/european-nato-defense-spending-rose-by-almost-20-in-2025/a-76544678?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "European NATO members and Canada increased their defense spending by an aggregate of 19.6% in 2025, the second consecutive year at that rate. German d..."
     },
     {
         "source": "Leafly",
