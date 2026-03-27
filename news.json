@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "White House schedules cannabis enforcement meeting (Newsletter: March 27, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/white-house-schedules-cannabis-enforcement-meeting-newsletter-march-27-2026/",
+        "summary": "<p>Feds list immigrants who possessed marijuana as \u201cworst of the worst\u201d; ID medical cannabis ballot; OH hemp THC drink push;... <a class=\"small font-m..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Idaho Medical Marijuana Campaign Says Legalization Ballot Measure Would Generate $100 Million In Annual Sales",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/idaho-medical-marijuana-campaign-says-legalization-ballot-measure-would-generate-100-million-in-annual-sales/",
@@ -28,24 +35,10 @@
         "summary": "<p>Louisiana senators have approved a bill to create a psychedelic-assisted therapy pilot program, using opioid settlement dollars to fund clinical......"
     },
     {
-        "source": "GrowCola.com",
-        "title": "Trump Admin\u2019s \u2018Worst Of The Worst\u2019 Deportation List Includes Nearly 100 Immigrants Accused Of Marijuana Possession Alone",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/trump-admins-worst-of-the-worst-deportation-list-includes-nearly-100-immigrants-accused-of-marijuana-possession-alone/",
-        "summary": "<p>The Trump administration is claiming credit for ramping up deportations of immigrants who\u2019ve been arrested that earned them a place... <a class=\"sm..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Trump interrupts a Cabinet meeting dealing with the Iran war and rising prices to talk Sharpies",
         "image": "https://media.zenfs.com/en/ap.org/965830fa02d555c3477fbe54330a6abc",
         "link": "https://www.yahoo.com/news/articles/trump-interrupts-cabinet-meeting-dealing-190437114.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "New Jersey middle school teacher charged with child sexual assault after alleged relationship with student",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/8d8c062001f91c52fb29068df9573412",
-        "link": "https://www.yahoo.com/news/articles/jersey-middle-school-teacher-charged-021948918.html",
         "summary": "..."
     },
     {
@@ -57,6 +50,13 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "New Jersey middle school teacher charged with child sexual assault after alleged relationship with student",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/8d8c062001f91c52fb29068df9573412",
+        "link": "https://www.yahoo.com/news/articles/jersey-middle-school-teacher-charged-021948918.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Florida Supreme Court halts the execution of police officer convicted of raping and murdering a girl",
         "image": "https://media.zenfs.com/en/ap.org/6b7473d1f8e8295d426bd2ca0031772b",
         "link": "https://www.yahoo.com/news/articles/florida-supreme-court-halts-execution-001219837.html",
@@ -64,10 +64,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Intel officially releases Xeon 600 chips, announces new vPro Panther Lake CPUs \u2014 \u2018all-new\u2019 vPro platform goes all-in on AI",
-        "image": "https://media.zenfs.com/en/toms_hardware_319/78a0436f763b34843e769be94fd27459",
-        "link": "https://tech.yahoo.com/computing/articles/intel-officially-releases-xeon-600-130000234.html",
+        "title": "Iran outlines critical conditions for ending war with US",
+        "image": "https://s.yimg.com/uu/api/res/1.2/v54iCj5ch75yCyW01XVZFg--~B/aD0xMjEzO3c9MjE1NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/6124f17d-8024-4896-a032-e8503b710ac1_3fe5d7a7fd6de0a78ab0b15ebbeca40bf64e041682bed9014f1e2ae7dcbad72c.net/images/2026-03/6124f17d-8024-4896-a032-e8503b710ac1",
+        "link": "https://finance.yahoo.com/video/iran-outlines-critical-conditions-for-ending-war-with-us-143640771.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US: Senate ends shutdown with ICE-free DHS funding bill",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-senate-ends-shutdown-with-ice-free-dhs-funding-bill/a-76564649?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US Senate has approved funds for TSA and most of Homeland Security but not ICE, after a partial government shutdown triggered massive disruption a..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Is another 1970s\u2011style oil crisis looming?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-is-another-1970s\u2011style-oil-crisis-looming/a-76557017?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Supply disruptions, high prices, nervous markets \u2014 the war in Iran brings back memories of the oil crises of the 1970s. Back then, many economies plun..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/eu-to-target-temu-shein-and-other-companies-with-a-levy-on-small-packages-coming-from-outside-the-bloc/a-76560132?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The European Union has announced that it will introduce handling fees for non-EU small packages from November 1. The fee will be charged in addition t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Bundestag votes for pension scheme reboot",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-bundestag-votes-for-pension-scheme-reboot/live-76558121?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "German lawmakers have voted for a scheme aimed at making state-backed private pensions more attractive. Meanwhile, the center-left Social Democrats ar..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nepal: Ex-rapper Balendra Shah sworn in as prime minister",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nepal-ex-rapper-balendra-shah-sworn-in-as-prime-minister/a-76556989?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The 35-year-old reformist came to power following a wave of Gen Z-led protests that sent shockwaves through the country. Shah released a rap song the ..."
     },
     {
         "source": "Leafly",
