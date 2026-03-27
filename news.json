@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "'It's been an adventure growing my \u00a390m pet store business'",
-        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-03/a7e58e80-2604-11f1-bfbf-940eaf7e06c8",
-        "link": "https://finance.yahoo.com/news/pets-corner-shop-business-grooming-vets-060053407.html",
+        "title": "Trump interrupts a Cabinet meeting dealing with the Iran war and rising prices to talk Sharpies",
+        "image": "https://media.zenfs.com/en/ap.org/965830fa02d555c3477fbe54330a6abc",
+        "link": "https://www.yahoo.com/news/articles/trump-interrupts-cabinet-meeting-dealing-190437114.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump interrupts a Cabinet meeting dealing with the Iran war and rising prices to talk Sharpies",
-        "image": "https://media.zenfs.com/en/ap.org/0ab4f708ad91604bb3797d25f17198d6",
-        "link": "https://www.yahoo.com/news/articles/trump-interrupts-cabinet-meeting-dealing-190437114.html",
+        "title": "US offers up to $3 million bounty for information on finances of powerful Haiti gangs",
+        "image": "https://media.zenfs.com/en/reuters.com/74cdc4c33efeab8824a11185840d4d3f",
+        "link": "https://www.yahoo.com/news/articles/us-offers-3-million-reward-154421541.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Michigan Teacher Who Sexually Assaulted Student Says He Needs \u2018a Redemption Story\u2019 Ahead of Sentencing",
-        "image": "https://media.zenfs.com/en/us_magazine_896/718091d81de2655a62b50783e95cceb9",
-        "link": "https://www.yahoo.com/news/articles/michigan-teacher-sexually-assaulted-student-170700983.html",
+        "title": "Intel officially releases Xeon 600 chips, announces new vPro Panther Lake CPUs \u2014 \u2018all-new\u2019 vPro platform goes all-in on AI",
+        "image": "https://media.zenfs.com/en/toms_hardware_319/78a0436f763b34843e769be94fd27459",
+        "link": "https://tech.yahoo.com/computing/articles/intel-officially-releases-xeon-600-130000234.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US court suspends Pentagon sanctions against Anthropic",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-court-suspends-pentagon-sanctions-against-anthropic/a-76556322?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The court's order to drop the Trump administration's \"supply chain risk\" tag for Anthropic will take effect in seven days. The judge said the designat..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Government reduces special excise duties on petrol and diesel",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-government-reduces-special-excise-duties-on-petrol-and-diesel/live-76555760?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Indian government has ordered a cut in its special excise duties for petrol and diesel amid the volatility in global crude prices from the Iran wa..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Whale swims to freedom after days stranded on German beach",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/whale-swims-to-freedom-after-days-stranded-on-german-beach/a-76556301?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The whale was first spotted stuck on the beach on Monday...."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/two-aid-boats-go-missing-en-route-to-cuba-says-mexico/a-76555529?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Two humanitarian aid boats with nine people onboard have not reached Havana after setting sail from Mexico. The Mexican navy is now conducting a searc..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "In a first, Trump signature to appear on all US dollar bills",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/in-a-first-trump-signature-to-appear-on-all-us-dollar-bills/a-76555406?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The signature on US currency is just the latest instance of the president\u2019s name and likeness being stamped onto government projects...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Air Canada CEO apologizes for English-only condolence video",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/air-canada-ceo-apologizes-for-english-only-condolence-video/a-76555403?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "CEO Michael Rousseau's unilingual condolence message to the pilots killed in a collision in New York over the weekend was seen as \"lacking judgement.\"..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US Judge declines to dismiss Maduro case over legal fees",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-judge-declines-to-dismiss-maduro-case-over-legal-fees/a-76555341?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Nicolas Maduro asked the judge to dismiss the case by arguing he did not have sufficient personal funds for his legal defense. The Trump administratio..."
     },
     {
         "source": "Leafly",
