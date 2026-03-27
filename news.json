@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Phillies 3B Alec Bohm reportedly sues his parents for $3 million, alleging they funneled away money while managing his finances",
-        "image": "https://s.yimg.com/uu/api/res/1.2/4CHuRufEHku.hFC97hAd3Q--~B/aD0yMjAwO3c9MzMwMTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-03/4eae362a-2145-4f15-a218-efea3728f7d3",
-        "link": "https://sports.yahoo.com/mlb/article/phillies-3b-alec-bohm-reportedly-sues-his-parents-for-3-million-alleging-they-funneled-away-money-while-managing-his-finances-230124893.html",
+        "title": "US offers up to $3 million bounty for information on finances of powerful Haiti gangs",
+        "image": "https://media.zenfs.com/en/reuters.com/74cdc4c33efeab8824a11185840d4d3f",
+        "link": "https://www.yahoo.com/news/articles/us-offers-3-million-reward-154421541.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Philippines becomes first country to declare national emergency over Middle East war",
-        "image": "https://media.zenfs.com/en/cnn_videos_177/8188513ee1d24b5f07296d250fe8ee97",
-        "link": "https://www.yahoo.com/news/videos/philippines-becomes-first-country-declare-103609638.html",
+        "title": "Influencer K\u00fcbra Karaaslan Dies After Jumping From Osmangazi Bridge",
+        "image": "https://media.zenfs.com/en/where_is_the_buzz_814/e08a8cc8e9d3793523b67ff5d927dab2",
+        "link": "https://www.yahoo.com/entertainment/celebrity/articles/influencer-k-bra-karaaslan-dies-065259132.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Stocks sink as Trump pushes back Hormuz deadline",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-stocks-sink-as-trump-pushes-back-hormuz-deadline/live-76555531?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US president has said talks with Iran are \"going very well.\" Iran still maintains it is not talking with the United States. DW has more...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Two aid boats go missing en route to Cuba, says Mexico",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/two-aid-boats-go-missing-en-route-to-cuba-says-mexico/a-76555529?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Two humanitarian aid boats with nine people onboard have not reached Havana after setting sail from Mexico. The Mexican navy is now conducting a searc..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-judge-declines-to-dismiss-maduro-case-over-legal-fees/a-76555341?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Nicolas Maduro asked the judge to dismiss the case by arguing he did not have sufficient personal funds for his legal defense. The Trump administratio..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Trump extends pause on energy sector strikes",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-trump-extends-pause-on-energy-sector-strikes/live-76535412?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "President Trump said the US would prolong a pause on strikes of Iran's energy facilities for 10 days. He also said talks with Iran were \"going very we..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Houthi restraint driven by local priorities",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-houthi-restraint-driven-by-local-priorities/a-76546651?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Despite threatening to intervene in the war in Iran, the Iran-backed Yemeni Houthi militia has so far remained passive. What are the reasons?..."
     },
     {
         "source": "Leafly",
