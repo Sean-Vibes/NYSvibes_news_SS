@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Secret Service agent assigned to Jill Biden accidentally shoots himself in leg at airport",
-        "image": "https://media.zenfs.com/en/ap.org/2a1d6cb9c3218dd0b00ba984206b9ed3",
-        "link": "https://www.yahoo.com/news/articles/secret-agent-assigned-jill-biden-153047308.html",
+        "title": "Mexico says 40,000 of country's 130,000 disappeared people may be alive",
+        "image": "https://media.zenfs.com/en/reuters.com/918bb56e6f3ec157674af26ac4bb2dda",
+        "link": "https://www.yahoo.com/news/articles/mexico-says-potentially-identified-40-141327514.html",
         "summary": "..."
     },
     {
@@ -50,16 +50,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "After 60 Years, Diabetes Drug Revealed to Unexpectedly Affect The Brain",
-        "image": "https://media.zenfs.com/en/sciencealert_160/6d81348b063d8c6501effd2bc4dcb386",
-        "link": "https://www.yahoo.com/news/articles/60-years-diabetes-drug-revealed-225458385.html",
+        "title": "NWS confirms 3 tornadoes touched down in central Ohio during Thursday storms",
+        "image": "https://media.zenfs.com/en/wbns_tegna_articles_724/2ca7a303087c27b0c06bf2b562ce1f4c",
+        "link": "https://www.yahoo.com/news/articles/nws-confirms-3-tornadoes-touched-224644270.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mexico says 40,000 of country's 130,000 disappeared people may be alive",
-        "image": "https://media.zenfs.com/en/reuters.com/918bb56e6f3ec157674af26ac4bb2dda",
-        "link": "https://www.yahoo.com/news/articles/mexico-says-potentially-identified-40-141327514.html",
+        "title": "When stock markets are rattled, even by war, it usually pays for investors to be patient",
+        "image": "https://media.zenfs.com/en/ap.org/cfdecf4a273bc7c62f440b4cdf6e94fe",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-markets-rattled-even-war-170430700.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/insideevs_articles_320/a53187dd9b938077d7eaf32ecca95b17",
         "link": "https://finance.yahoo.com/sectors/technology/articles/unless-things-change-not-survive-110014362.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Florian Wirtz inspires Germany past Switzerland",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/florian-wirtz-inspires-germany-past-switzerland/a-76538094?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany got the better of Switzerland in Basel, and it was Liverpool's Florian Wirtz who inspired them to victory...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/syria-wives-of-the-missing-push-for-legal-reform/a-76569247?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Decades-old family laws affect hundreds of thousands of women and children, as custody and inheritance are in the hands of male relatives, and remarri..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Merz questions coal reform amid Mideast crisis",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-merz-questions-coal-reform-amid-mideast-crisis/live-76558121?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "With global energy supplies disrupted, Chancellor Friedrich Merz said it may be necessary to keep Germany's coal-fired plants online for longer. Lufth..."
     },
     {
         "source": "Leafly",
