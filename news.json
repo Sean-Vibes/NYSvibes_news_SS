@@ -57,8 +57,8 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Panicked travelers hear a new message from airports: Don\u2019t get here so early",
-        "image": "https://media.zenfs.com/en/ap.org/fc68ccbb18670432cbdd7e212b8fb47d",
+        "title": "Frustrated travelers hear a new message from airports: Don\u2019t get here so early",
+        "image": "https://media.zenfs.com/en/ap.org/36b2653758f7905025586c6049aaa685",
         "link": "https://travel.yahoo.com/advice/articles/panicked-travelers-hear-message-airports-165236244.html",
         "summary": "..."
     },
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/sciencealert_160/6d81348b063d8c6501effd2bc4dcb386",
         "link": "https://www.yahoo.com/news/articles/60-years-diabetes-drug-revealed-225458385.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Tiger Woods arrested on suspicion of DUI after car crash",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/tiger-woods-arrested-on-suspicion-of-dui-after-car-crash/a-76573100?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Authorities said Woods was showing signs of impairment. No injuries were reported...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US Republicans reject Senate bill to end shutdown, fund TSA",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-republicans-reject-senate-bill-to-end-shutdown-fund-tsa/a-76564649?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US House Republicans have rejected a Senate bill to end the partial government shutdown. With Congress deadlocked, President Trump has signed an execu..."
     },
     {
         "source": "Deutsche Welle",
@@ -91,18 +105,18 @@
         "summary": "With global energy supplies disrupted, Chancellor Friedrich Merz said it may be necessary to keep Germany's coal-fired plants online for longer. Lufth..."
     },
     {
-        "source": "Deutsche Welle",
-        "title": "Nigeria bets on UK port investment",
+        "source": "Leafly",
+        "title": "The best autoflowering seeds from Fast Buds for cannabis extraction",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nigeria-bets-on-uk-port-investment/a-76567291?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "There are high hopes for upgrades to the Apapa Quays and Tin Can Island ports. But concerns remain over corruption and longstanding bottlenecks plagui..."
+        "link": "https://www.leafly.com/news/strains-products/the-best-autoflowering-seeds-from-fast-buds-for-cannabis-extraction",
+        "summary": "<p>Fast Buds has become a trusted source for stable, high-resin autoflowers that perform reliably from the garden and into the extraction lab. </p>\n<p..."
     },
     {
-        "source": "Deutsche Welle",
-        "title": "Russian attack on World Heritage sites in Ukrainian city of Lviv causes uproar",
+        "source": "Leafly",
+        "title": "The Green Standard is celebrating you this 420",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russian-attack-on-world-heritage-sites-in-ukrainian-city-of-lviv-causes-uproar/a-76568784?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Several World Heritage sites were hit in the latest Russian attack on Lviv in western Ukraine. Ukraine has called on Russia to be completely isolated ..."
+        "link": "https://www.leafly.com/news/strains-products/the-green-standard-is-celebrating-you-this-420",
+        "summary": "<p>This 420, The Green Standard is going all out to celebrate you&#8212;the best patients anywhere. Stock up, save big, and go all in on their biggest..."
     },
     {
         "source": "Leafly",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.leafly.com/news/strains-products/your-420-your-way-your-story-maryland",
         "summary": "<p>Story Cannabis is bringing the energy to Maryland this 420\u2014with six straight days of deals, drops, and in-store experiences built for how you like ..."
-    },
-    {
-        "source": "Leafly",
-        "title": "25% off storewide and more during 420 reefer madness at AmeriCannaRx",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.leafly.com/news/strains-products/25-off-storewide-and-more-during-420-reefer-madness-at-americannarx",
-        "summary": "<p>For the entire month of April, AmeriCannaRx is offering 25% off storewide every Friday-Monday to make your 420 weekends even crazier.  </p>\n<p>The ..."
-    },
-    {
-        "source": "Leafly",
-        "title": "UpLift takes kindness into their community",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.leafly.com/news/strains-products/uplift-takes-kindness-into-their-community",
-        "summary": "<p>Head to UpLift today to experience their peerless professional and quality service, all the while supporting important initiatives that help Cincin..."
     }
 ]
