@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russian and Iranian foreign ministers discuss possibility of conflict settlement",
-        "image": "https://media.zenfs.com/en/reuters.com/852a3174ab9a0d258231aaeb268fa487",
-        "link": "https://www.yahoo.com/news/articles/russian-iranian-foreign-ministers-discuss-221422682.html",
+        "title": "Frustrated travelers hear a new message from airports: Don\u2019t get here so early",
+        "image": "https://media.zenfs.com/en/ap.org/36b2653758f7905025586c6049aaa685",
+        "link": "https://travel.yahoo.com/advice/articles/panicked-travelers-hear-message-airports-165236244.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump interrupts a Cabinet meeting dealing with the Iran war and rising prices to talk Sharpies",
-        "image": "https://media.zenfs.com/en/ap.org/965830fa02d555c3477fbe54330a6abc",
-        "link": "https://www.yahoo.com/news/articles/trump-interrupts-cabinet-meeting-dealing-190437114.html",
+        "title": "Russian and Iranian foreign ministers discuss possibility of conflict settlement",
+        "image": "https://media.zenfs.com/en/reuters.com/852a3174ab9a0d258231aaeb268fa487",
+        "link": "https://www.yahoo.com/news/articles/russian-iranian-foreign-ministers-discuss-221422682.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018We did everything they wanted\u2019: The American families caught in Italy\u2019s citizenship crackdown",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/d326af8f4010cb7f8606901f3db7b906",
-        "link": "https://www.yahoo.com/news/articles/did-everything-wanted-american-families-113055892.html",
+        "title": "Paso Robles winery settles sexual harassment lawsuit. Here\u2019s how much it\u2019ll pay",
+        "image": "https://media.zenfs.com/en/san_luis_obispo_tribune_mcclatchy_articles_722/c7faf2ab9ef411d949e98c02d8d2b6a9",
+        "link": "https://www.yahoo.com/news/articles/paso-robles-winery-settles-sexual-223632260.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Nestle says thieves stole 12 tons of KitKat chocolate bars",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/nestle-says-thieves-stole-12-tons-of-kitkat-chocolate-bars/a-76579815?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "\"We've always encouraged people to have a break with KitKat,\" the company said, \"but it seems thieves have taken the message too literally.\"..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Paris: Suspected bomb attack outside Bank of America foiled",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/paris-suspected-bomb-attack-outside-bank-of-america-foiled/a-76579750?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "French police arrested one suspect as he was reportedly attempting to activate the explosive device in Paris, with another person still on the run...."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/zelenskyy-visits-doha-as-ukraine-qatar-sign-defense-pact/a-76578423?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Ukraine and Qatar have agreed to cooperate on high-tech projects and share battlefield expertise on countering missile and drone threats...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pope Leo tells Monaco to use 'gift of smallness' for good",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pope-leo-tells-monaco-to-use-gift-of-smallness-for-good/a-76577459?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Pope Leo XIV decried the widening gap between the rich and poor during a visit to the tiny European principality. He called on the ultra-wealthy resid..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: 13-year-old boy killed in Witten stabbing",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-13-year-old-boy-killed-in-witten-stabbing/live-76576299?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The boy's mother and another child were seriously injured in what police called a domestic dispute. As Merz and Trump trade barbs, the chancellor says..."
     },
     {
         "source": "Leafly",
