@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "He suddenly couldn't speak in space. NASA astronaut says his medical scare remains a mystery",
-        "image": "https://media.zenfs.com/en/ap.org/67589be0ee4a4aa8e1fc5ada3267f1a7",
-        "link": "https://www.yahoo.com/news/articles/suddenly-couldnt-speak-space-nasa-161906062.html",
+        "title": "Frustrated travelers hear a new message from airports: Don\u2019t get here so early",
+        "image": "https://media.zenfs.com/en/ap.org/36b2653758f7905025586c6049aaa685",
+        "link": "https://travel.yahoo.com/advice/articles/panicked-travelers-hear-message-airports-165236244.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "After markets rattle, Trump once again punts on following through with threat on Iran power plants",
-        "image": "https://media.zenfs.com/en/ap.org/3c20fd0cd74c1ddef9a8feb933fa34c8",
-        "link": "https://www.yahoo.com/news/articles/markets-rattle-trump-once-again-000845422.html",
+        "title": "Russian and Iranian foreign ministers discuss possibility of conflict settlement",
+        "image": "https://media.zenfs.com/en/reuters.com/852a3174ab9a0d258231aaeb268fa487",
+        "link": "https://www.yahoo.com/news/articles/russian-iranian-foreign-ministers-discuss-221422682.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/san_luis_obispo_tribune_mcclatchy_articles_722/c7faf2ab9ef411d949e98c02d8d2b6a9",
         "link": "https://www.yahoo.com/news/articles/paso-robles-winery-settles-sexual-223632260.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Houthis claim 2nd attack on Israel in 24 hours",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-houthis-claim-2nd-attack-on-israel-in-24-hours/live-76573681?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Yemen's Houthi rebels say they have launched two attacks against Israel, vowing more. Meanwhile, Ukraine's Volodymyr Zelenskyy has announced defense c..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/nestle-says-thieves-stole-12-tons-of-kitkat-chocolate-bars/a-76579815?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "\"We've always encouraged people to have a break with KitKat,\" the company said, \"but it seems thieves have taken the message too literally.\"..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Paris: Suspected bomb attack outside Bank of America foiled",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/paris-suspected-bomb-attack-outside-bank-of-america-foiled/a-76579750?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "French police arrested one suspect as he was reportedly attempting to activate the explosive device in Paris, with another person still on the run...."
     },
     {
         "source": "Leafly",
