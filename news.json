@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump interrupts a Cabinet meeting dealing with the Iran war and rising prices to talk Sharpies",
-        "image": "https://media.zenfs.com/en/ap.org/965830fa02d555c3477fbe54330a6abc",
-        "link": "https://www.yahoo.com/news/articles/trump-interrupts-cabinet-meeting-dealing-190437114.html",
+        "title": "Russian and Iranian foreign ministers discuss possibility of conflict settlement",
+        "image": "https://media.zenfs.com/en/reuters.com/852a3174ab9a0d258231aaeb268fa487",
+        "link": "https://www.yahoo.com/news/articles/russian-iranian-foreign-ministers-discuss-221422682.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "This Blood Type Attracts Mosquitoes the Most",
-        "image": "https://media.zenfs.com/en/a_z_animals_videos_249/2fca88cab0e4d88abe770361991fc1fe",
-        "link": "https://www.yahoo.com/lifestyle/videos/blood-type-attracts-mosquitoes-most-133000045.html",
+        "title": "Trump interrupts a Cabinet meeting dealing with the Iran war and rising prices to talk Sharpies",
+        "image": "https://media.zenfs.com/en/ap.org/965830fa02d555c3477fbe54330a6abc",
+        "link": "https://www.yahoo.com/news/articles/trump-interrupts-cabinet-meeting-dealing-190437114.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,27 @@
         "image": "https://media.zenfs.com/en/where_is_the_buzz_814/39099d339a20a7ed218965482e318e9b",
         "link": "https://www.yahoo.com/news/articles/53-old-aussie-mom-convicted-080257960.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Earth Hour: Monuments to go dark as 20th edition kicks off",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/earth-hour-monuments-to-go-dark-as-20th-edition-kicks-off/a-76576232?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The 20th edition of Earth Hour has begun in New Zealand and will slowly progress around the globe. The event aims to raise awareness about climate cha..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Houthis claim attack on Israel, Zelenskyy in UAE",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-houthis-claim-attack-on-israel-zelenskyy-in-uae/live-76573681?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Yemen's Houthi rebels have claimed an attempted missile strike on Israel, their first such attack of the war. Meanwhile, Ukraine's Volodymyr Zelenskyy..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Indonesia rolls out social media ban for under-16s",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/indonesia-rolls-out-social-media-ban-for-under-16s/a-76574803?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Indonesia's ban on social media for children under 16 is the first of its kind in Southeast Asia. It comes amid growing global pressure on Big Tech ov..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/at-40-lady-gaga-isn-t-done-revolutionizing-pop-music/a-76539162?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "As iconic as undefinable, Lady Gaga has left quite a mark on the world of music. Here's how she reinvented pop \u2014 and reached millions by opening up ab..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "The turbulent history of US-Cuban relations",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/the-turbulent-history-of-us-cuban-relations/a-76563311?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Donald Trump is not the first US president to have expansionist ambitions for Cuba. The US has a long history of trying to control the island \u2014 and of..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India: Modi inaugurates new international airport in Noida",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-modi-inaugurates-new-international-airport-in-noida/live-76574317?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The new international airport in Jewar, Uttar Pradesh, which will service New Delhi, will see up to 70 million passengers a year once fully operationa..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Houthis claim attack on Israel",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-houthis-claim-attack-on-israel/live-76573681?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Yemen's Houthi rebels have claimed an attempted missile strike on Israel, their first such attack since the start of the war. Meanwhile, US troops wer..."
     },
     {
         "source": "Leafly",
