@@ -64,10 +64,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "53-Year-Old Aussie Mom Convicted After Teen Boy Wakes to Sexual Assault in Party Tent",
-        "image": "https://media.zenfs.com/en/where_is_the_buzz_814/39099d339a20a7ed218965482e318e9b",
-        "link": "https://www.yahoo.com/news/articles/53-old-aussie-mom-convicted-080257960.html",
+        "title": "Paso Robles winery settles sexual harassment lawsuit. Here\u2019s how much it\u2019ll pay",
+        "image": "https://media.zenfs.com/en/san_luis_obispo_tribune_mcclatchy_articles_722/c7faf2ab9ef411d949e98c02d8d2b6a9",
+        "link": "https://www.yahoo.com/news/articles/paso-robles-winery-settles-sexual-223632260.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Whale stranded off Germany's coast gets stuck again",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/whale-stranded-off-germany-s-coast-gets-stuck-again/a-76578984?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The unlucky humpback was spotted stranded on a sandbank in the Bay of Wismar, less than two days after being set free...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Zelenskyy visits Doha as Ukraine, Qatar sign defense pact",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/zelenskyy-visits-doha-as-ukraine-qatar-sign-defense-pact/a-76578423?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ukraine and Qatar have agreed to cooperate on high-tech projects and share battlefield expertise on countering missile and drone threats...."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/earth-hour-monuments-to-go-dark-as-20th-edition-kicks-off/a-76576232?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The 20th edition of Earth Hour has begun in New Zealand and will slowly progress around the globe. The event aims to raise awareness about climate cha..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Houthis claim attack on Israel, Zelenskyy in UAE",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-houthis-claim-attack-on-israel-zelenskyy-in-uae/live-76573681?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Yemen's Houthi rebels have claimed an attempted missile strike on Israel, their first such attack of the war. Meanwhile, Ukraine's Volodymyr Zelenskyy..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Indonesia rolls out social media ban for under-16s",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/indonesia-rolls-out-social-media-ban-for-under-16s/a-76574803?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Indonesia's ban on social media for children under 16 is the first of its kind in Southeast Asia. It comes amid growing global pressure on Big Tech ov..."
     },
     {
         "source": "Leafly",
