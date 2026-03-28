@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russian and Iranian foreign ministers discuss possibility of conflict settlement",
-        "image": "https://media.zenfs.com/en/reuters.com/852a3174ab9a0d258231aaeb268fa487",
-        "link": "https://www.yahoo.com/news/articles/russian-iranian-foreign-ministers-discuss-221422682.html",
+        "title": "He suddenly couldn't speak in space. NASA astronaut says his medical scare remains a mystery",
+        "image": "https://media.zenfs.com/en/ap.org/67589be0ee4a4aa8e1fc5ada3267f1a7",
+        "link": "https://www.yahoo.com/news/articles/suddenly-couldnt-speak-space-nasa-161906062.html",
         "summary": "..."
     },
     {
@@ -71,6 +71,27 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Yemen's Houthi rebels claim responsibility for an attempted missile strike on Israel, marking their first such attack since the Iran war began",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/yemen-s-houthi-rebels-claim-responsibility-for-an-attempted-missile-strike-on-israel-marking-their-first-such-attack-since-the-iran-war-began/live-76573681?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Yemen's Houthi rebels have claimed an attempted missile strike on Israel, their first such attack since the start of the war. Meanwhile, US troops wer..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Tiger Woods released on bail after Florida car crash",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/tiger-woods-released-on-bail-after-florida-car-crash/a-76573100?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The golf star was taken into custody and charged with driving under the influence after emerging unhurt from a car crash. Police suspect Woods was \"im..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India: Modi to inaugurate new international airport in Noida",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-modi-to-inaugurate-new-international-airport-in-noida/live-76574317?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The new international airport in Jewar, Uttar Pradesh, which will service New Delhi, will see up to 70 million passengers a year once fully operationa..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Bank of America settles Epstein case for $72.5 million",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/bank-of-america-settles-epstein-case-for-72-5-million/a-76573867?maca=en-rss-en-all-1573-xml-mrss",
@@ -78,31 +99,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iran war: US troops wounded in strike on Saudi base",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-us-troops-wounded-in-strike-on-saudi-base/live-76573681?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Several troops were injured, two of them seriously, in the Iranian attack on Prince Sultan Air Base, which also damaged US aircraft. Follow DW for mor..."
-    },
-    {
-        "source": "Deutsche Welle",
         "title": "Nepal: Former PM Oli arrested over deadly protests",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/nepal-former-pm-oli-arrested-over-deadly-protests/a-76573671?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Ex-Home Minister Ramesh Lekhak was also taken into custody amid probe into their roles during deadly anti-corruption protests last September, which ki..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Florian Wirtz inspires Germany past Switzerland",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/florian-wirtz-inspires-germany-past-switzerland/a-76538094?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany got the better of Switzerland in Basel, and it was Liverpool's Florian Wirtz who inspired them to victory...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Tiger Woods arrested on suspicion of DUI after car crash",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/tiger-woods-arrested-on-suspicion-of-dui-after-car-crash/a-76573100?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Authorities said Woods was showing signs of impairment. No injuries were reported...."
     },
     {
         "source": "Leafly",
