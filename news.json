@@ -64,10 +64,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Paso Robles winery settles sexual harassment lawsuit. Here\u2019s how much it\u2019ll pay",
-        "image": "https://media.zenfs.com/en/san_luis_obispo_tribune_mcclatchy_articles_722/c7faf2ab9ef411d949e98c02d8d2b6a9",
-        "link": "https://www.yahoo.com/news/articles/paso-robles-winery-settles-sexual-223632260.html",
+        "title": "Broadcom (AVGO) Bags Another US Government Defense Deal",
+        "image": "https://media.zenfs.com/en/insidermonkey.com/4a31470717140dc0b5330d507cacd0ab",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/broadcom-avgo-bags-another-us-151842270.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Mexico finds 2 boats lost while carrying aid to Cuba",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/mexico-finds-2-boats-lost-while-carrying-aid-to-cuba/a-76580010?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Two sailboats had gone missing while sailing from Mexico to Havana to alleviate the humanitarian crisis in Cuba. Now, Mexican officials say the vessel..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Zelenskyy visits Doha as Ukraine, Qatar sign defense pact",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/zelenskyy-visits-doha-as-ukraine-qatar-sign-defense-pact/a-76578423?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ukraine and Qatar have agreed to cooperate on high-tech projects and share battlefield expertise on countering missile and drone threats...."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/belgium-s-state-owned-railway-shines-light-on-holocaust-role/a-76560363?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A Holocaust survivor and the son of a Nazi collaborator have shared their experiences at Brussels' Train World museum. Talking to students, they warne..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Whale stranded off Germany's coast gets stuck again",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/whale-stranded-off-germany-s-coast-gets-stuck-again/a-76578984?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The unlucky humpback was spotted stranded on a sandbank in the Bay of Wismar, less than two days after being set free...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Zelenskyy visits Doha as Ukraine, Qatar sign defense pact",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/zelenskyy-visits-doha-as-ukraine-qatar-sign-defense-pact/a-76578423?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukraine and Qatar have agreed to cooperate on high-tech projects and share battlefield expertise on countering missile and drone threats...."
     },
     {
         "source": "Leafly",
