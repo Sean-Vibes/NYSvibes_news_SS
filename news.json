@@ -36,16 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The 1 thing you shouldn't do when you wake up in the middle of the night, according to doctors",
-        "image": "https://s.yimg.com/uu/api/res/1.2/ePsakh6Gmf5BDi_dagPK0g--~B/aD05MDA7dz0xNjAwO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/center_frame_%285%29.jpg",
-        "link": "https://health.yahoo.com/wellness/sleep/article/the-1-thing-you-shouldnt-do-when-you-wake-up-in-the-middle-of-the-night-according-to-doctors-224345181.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "New Jersey middle school teacher charged with child sexual assault after alleged relationship with student",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/8d8c062001f91c52fb29068df9573412",
-        "link": "https://www.yahoo.com/news/articles/jersey-middle-school-teacher-charged-021948918.html",
+        "title": "He suddenly couldn't speak in space. NASA astronaut says his medical scare remains a mystery",
+        "image": "https://media.zenfs.com/en/ap.org/67589be0ee4a4aa8e1fc5ada3267f1a7",
+        "link": "https://www.yahoo.com/news/articles/suddenly-couldnt-speak-space-nasa-161906062.html",
         "summary": "..."
     },
     {
@@ -57,9 +50,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump interrupts a Cabinet meeting dealing with the Iran war and rising prices to talk Sharpies",
-        "image": "https://media.zenfs.com/en/ap.org/965830fa02d555c3477fbe54330a6abc",
-        "link": "https://www.yahoo.com/news/articles/trump-interrupts-cabinet-meeting-dealing-190437114.html",
+        "title": "New Jersey middle school teacher charged with child sexual assault after alleged relationship with student",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/8d8c062001f91c52fb29068df9573412",
+        "link": "https://www.yahoo.com/news/articles/jersey-middle-school-teacher-charged-021948918.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Russian and Iranian foreign ministers discuss possibility of conflict settlement",
+        "image": "https://media.zenfs.com/en/reuters.com/852a3174ab9a0d258231aaeb268fa487",
+        "link": "https://www.yahoo.com/news/articles/russian-iranian-foreign-ministers-discuss-221422682.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/where_is_the_buzz_814/39099d339a20a7ed218965482e318e9b",
         "link": "https://www.yahoo.com/news/articles/53-old-aussie-mom-convicted-080257960.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Bank of America settles Epstein case for $72.5 million",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/bank-of-america-settles-epstein-case-for-72-5-million/a-76573867?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A lawsuit claimed the bank ignored red flags tied to convicted pedophile Jeffrey Epstein's sex trafficking operations. The bank denied wrongdoing but ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: US troops wounded in strike on Saudi base",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-us-troops-wounded-in-strike-on-saudi-base/live-76573681?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Several troops were injured, two of them seriously, in the Iranian attack on Prince Sultan Air Base, which also damaged US aircraft. Follow DW for mor..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/tiger-woods-arrested-on-suspicion-of-dui-after-car-crash/a-76573100?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Authorities said Woods was showing signs of impairment. No injuries were reported...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US Republicans reject Senate bill to end shutdown, fund TSA",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-republicans-reject-senate-bill-to-end-shutdown-fund-tsa/a-76564649?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US House Republicans have rejected a Senate bill to end the partial government shutdown. With Congress deadlocked, President Trump has signed an execu..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iranians suffer from internet blackout as well as US-Israeli strikes",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iranians-suffer-from-internet-blackout-as-well-as-us-israeli-strikes/a-76571737?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As Israeli and US strikes continue to hit Tehran and the regime has imposed an internet blackout, locals say that the uncertainty about the whereabout..."
     },
     {
         "source": "Leafly",
