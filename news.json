@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Frustrated travelers hear a new message from airports: Don\u2019t get here so early",
-        "image": "https://media.zenfs.com/en/ap.org/36b2653758f7905025586c6049aaa685",
-        "link": "https://travel.yahoo.com/advice/articles/panicked-travelers-hear-message-airports-165236244.html",
+        "title": "Mexico says 40,000 of country's 130,000 disappeared people may be alive",
+        "image": "https://media.zenfs.com/en/reuters.com/918bb56e6f3ec157674af26ac4bb2dda",
+        "link": "https://www.yahoo.com/news/articles/mexico-says-potentially-identified-40-141327514.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "New Jersey middle school teacher charged with child sexual assault after alleged relationship with student",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/8d8c062001f91c52fb29068df9573412",
-        "link": "https://www.yahoo.com/news/articles/jersey-middle-school-teacher-charged-021948918.html",
+        "title": "Krispy Kreme's Artemis II Doughnut is ready for liftoff. See new item.",
+        "image": "https://media.zenfs.com/en/usa_today_money_325/e97f0cbc727ceadc79531145829bc9f0",
+        "link": "https://www.yahoo.com/lifestyle/articles/krispy-kremes-artemis-ii-doughnut-015622769.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russian and Iranian foreign ministers discuss possibility of conflict settlement",
-        "image": "https://media.zenfs.com/en/reuters.com/852a3174ab9a0d258231aaeb268fa487",
-        "link": "https://www.yahoo.com/news/articles/russian-iranian-foreign-ministers-discuss-221422682.html",
+        "title": "Analysis-Gulf states tell US ending the war is not enough, Iran\u2019s capabilities must be degraded",
+        "image": "https://media.zenfs.com/en/reuters.com/e178d536665efb428bf12b207bc9a966",
+        "link": "https://www.yahoo.com/news/articles/analysis-gulf-states-tell-us-140044388.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Paso Robles winery settles sexual harassment lawsuit. Here\u2019s how much it\u2019ll pay",
-        "image": "https://media.zenfs.com/en/san_luis_obispo_tribune_mcclatchy_articles_722/c7faf2ab9ef411d949e98c02d8d2b6a9",
-        "link": "https://www.yahoo.com/news/articles/paso-robles-winery-settles-sexual-223632260.html",
+        "title": "City of Pittsburgh on high alert after word of \u2018Downtown takeover\u2019 spread online",
+        "image": "https://media.zenfs.com/en/wpxi_cox_articles_540/214ae3363eda4c28adf881f2d55cc1d2",
+        "link": "https://www.yahoo.com/news/articles/city-pittsburgh-high-alert-word-215006662.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: IRGC says US campuses in Middle East at risk",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-irgc-says-us-campuses-in-middle-east-at-risk/live-76581165?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran\u2019s Revolutionary Guard instructed staff and students at US universities to remain at least one kilometer away from campus. Meanwhile, reports sugg..."
     },
     {
         "source": "Deutsche Welle",
@@ -85,10 +92,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Mexico finds 2 boats lost while carrying aid to Cuba",
+        "title": "Missing Cuba-bound boats carrying aid arrive safely in Havana",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/mexico-finds-2-boats-lost-while-carrying-aid-to-cuba/a-76580010?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Two sailboats had gone missing while sailing from Mexico to Havana to alleviate the humanitarian crisis in Cuba. Now, Mexican officials say the vessel..."
+        "link": "https://www.dw.com/en/missing-cuba-bound-boats-carrying-aid-arrive-safely-in-havana/a-76580010?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Two sailboats had gone missing while sailing from Mexico to Havana to alleviate the humanitarian crisis in Cuba. The Mexican Navy located the vessels ..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/zelenskyy-visits-doha-as-ukraine-qatar-sign-defense-pact/a-76578423?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Ukraine and Qatar have agreed to cooperate on high-tech projects and share battlefield expertise on countering missile and drone threats...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nestle says thieves stole 12 tons of KitKat chocolate bars",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nestle-says-thieves-stole-12-tons-of-kitkat-chocolate-bars/a-76579815?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "\"We've always encouraged people to have a break with KitKat,\" the company said, \"but it seems thieves have taken the message too literally.\"..."
     },
     {
         "source": "Leafly",
