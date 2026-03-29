@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US Congress approves temporary funding for Homeland Security",
-        "image": "https://s.yimg.com/uu/api/res/1.2/qIZ_kVZrkA13tXJhkHe6pA--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/3959575f-28fd-427e-aaba-b2b477c6e6b9/main/1280x720/28s576ms/match/image.jpg",
-        "link": "https://www.yahoo.com/news/videos/us-congress-approves-temporary-funding-072616505.html",
+        "title": "He suddenly couldn't speak in space. NASA astronaut says his medical scare remains a mystery",
+        "image": "https://media.zenfs.com/en/ap.org/67589be0ee4a4aa8e1fc5ada3267f1a7",
+        "link": "https://www.yahoo.com/news/articles/suddenly-couldnt-speak-space-nasa-161906062.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Add massive transmission towers to list of invasive species | Opinion",
-        "image": "https://media.zenfs.com/en/milwaukee-journal-sentinel/637f109517b16257f9c935f064baf6bf",
-        "link": "https://www.yahoo.com/news/articles/add-massive-transmission-towers-list-100208583.html",
+        "title": "Wall Street Is Sleeping on This $13 Stock -- and That's Your Opportunity",
+        "image": "https://media.zenfs.com/en/motleyfool.com/a9a221009f7d2caf35b0268b80941ebe",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-sleeping-13-stock-115600012.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Russian students duped into signing contracts with military",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/russian-students-duped-into-signing-contracts-with-military/a-76510389?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "University students are being recruited to serve in drone units fighting Ukraine. They are offered lucrative contracts and promised they won't be sent..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "France: Two new arrests over foiled Bank of America attack",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/france-two-new-arrests-over-foiled-bank-of-america-attack/a-76579750?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "French police arrested two more suspects over a foiled attack on Bank of America's Paris offices. The custody of the first arrested suspect arrested h..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/nepal-ex-energy-minister-arrested-in-money-laundering-case/a-76583166?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A day after the arrest of the former prime minister, Nepalese police also arrested the country's former energy minister. Investigators said he was det..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Rescuers launch fresh whale rescue effort",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-rescuers-launch-fresh-whale-rescue-effort/live-76576299?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Experts have launched a new effort to free a whale stranded off the Baltic Sea coast after it twice became marooned on sandbanks. Elsewhere, hundreds ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "German public sector tries to reduce reliance on US tech",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/german-public-sector-tries-to-reduce-reliance-on-us-tech/a-76548879?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "ZenDis, the German Center for Digital Sovereignty, has created an alternative to US software for public sector agencies in Germany, which are increasi..."
     },
     {
         "source": "Leafly",
