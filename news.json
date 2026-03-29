@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mexico says 40,000 of country's 130,000 disappeared people may be alive",
-        "image": "https://media.zenfs.com/en/reuters.com/918bb56e6f3ec157674af26ac4bb2dda",
-        "link": "https://www.yahoo.com/news/articles/mexico-says-potentially-identified-40-141327514.html",
+        "title": "Russian and Iranian foreign ministers discuss possibility of conflict settlement",
+        "image": "https://media.zenfs.com/en/reuters.com/852a3174ab9a0d258231aaeb268fa487",
+        "link": "https://www.yahoo.com/news/articles/russian-iranian-foreign-ministers-discuss-221422682.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "\u2018Going to get wiped out\u2019: Robert Kiyosaki warns boomers don\u2019t have enough to stay off the streets. Secure your nest egg",
+        "image": "https://media.zenfs.com/en/moneywise_ecomm_711/b18895703c61366de0a5f87f455603c0",
+        "link": "https://finance.yahoo.com/economy/policy/articles/going-wiped-robert-kiyosaki-warns-102300324.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Mexico says 40,000 of country's 130,000 disappeared people may be alive",
+        "image": "https://media.zenfs.com/en/reuters.com/918bb56e6f3ec157674af26ac4bb2dda",
+        "link": "https://www.yahoo.com/news/articles/mexico-says-potentially-identified-40-141327514.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "\u2018Never seen anyone get knocked out and submitted\u2019: Pros react to Alexa Grasso\u2019s brutal finish of Maycee Barber at UFC Seattle",
         "image": "https://media.zenfs.com/en/sb_nation_articles_115/06c7379000463e7ac7d1be1a149d350c",
         "link": "https://sports.yahoo.com/articles/never-seen-anyone-knocked-submitted-022931693.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "He suddenly couldn't speak in space. NASA astronaut says his medical scare remains a mystery",
-        "image": "https://media.zenfs.com/en/ap.org/67589be0ee4a4aa8e1fc5ada3267f1a7",
-        "link": "https://www.yahoo.com/news/articles/suddenly-couldnt-speak-space-nasa-161906062.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Pope Leo condemns using God to justify war in Palm Sunday mass",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/pope-leo-condemns-using-god-to-justify-war-in-palm-sunday-mass/a-76585338?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The pope has said God rejects the prayers of those who wage war and have \"hands full of blood.\" Leo has also prayed especially for Christians in the M..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Wall Street Is Sleeping on This $13 Stock -- and That's Your Opportunity",
-        "image": "https://media.zenfs.com/en/motleyfool.com/a9a221009f7d2caf35b0268b80941ebe",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/wall-street-sleeping-13-stock-115600012.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Finland reports drone crashes, alleges territorial violation",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/finland-reports-drone-crashes-alleges-territorial-violation/a-76585137?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Two unidentified drones crashed in southern Finland. According to the country's prime minister, the drones may have been Ukrainian drones that strayed..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Russia wants to legalize cars stolen in EU",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/russia-wants-to-legalize-cars-stolen-in-eu/a-76582804?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Vehicles stolen in the EU may soon be legally registered in Russia. One German police union fears this could lead to an increase in car thefts in Euro..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/france-two-new-arrests-over-foiled-bank-of-america-attack/a-76579750?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "French police arrested two more suspects over a foiled attack on Bank of America's Paris offices. The custody of the first arrested suspect arrested h..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UK police arrest suspect after car hits pedestrians",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-police-arrest-suspect-after-car-hits-pedestrians/a-76583739?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Seven people were seriously injured when a car plowed into pedestrians on a street in the central English city of Derby. Police say they have arrested..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Fact check: Fake satellite images distort Middle East conflict from above",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fact-check-fake-satellite-images-distort-middle-east-conflict-from-above/a-76567764?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As the Iran war intensifies, satellite imagery has become a key battleground in the information war. Manipulated or AI\u2011generated aerial images are inc..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nepal: Ex-energy minister arrested in money laundering case",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nepal-ex-energy-minister-arrested-in-money-laundering-case/a-76583166?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A day after the arrest of the former prime minister, Nepalese police also arrested the country's former energy minister. Investigators said he was det..."
     },
     {
         "source": "Leafly",
