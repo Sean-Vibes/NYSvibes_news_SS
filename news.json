@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russian and Iranian foreign ministers discuss possibility of conflict settlement",
-        "image": "https://media.zenfs.com/en/reuters.com/852a3174ab9a0d258231aaeb268fa487",
-        "link": "https://www.yahoo.com/news/articles/russian-iranian-foreign-ministers-discuss-221422682.html",
+        "title": "Mexico says 40,000 of country's 130,000 disappeared people may be alive",
+        "image": "https://media.zenfs.com/en/reuters.com/918bb56e6f3ec157674af26ac4bb2dda",
+        "link": "https://www.yahoo.com/news/articles/mexico-says-potentially-identified-40-141327514.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mexico says 40,000 of country's 130,000 disappeared people may be alive",
-        "image": "https://media.zenfs.com/en/reuters.com/918bb56e6f3ec157674af26ac4bb2dda",
-        "link": "https://www.yahoo.com/news/articles/mexico-says-potentially-identified-40-141327514.html",
+        "title": "Analysis-Gulf states tell US ending the war is not enough, Iran\u2019s capabilities must be degraded",
+        "image": "https://media.zenfs.com/en/reuters.com/e178d536665efb428bf12b207bc9a966",
+        "link": "https://www.yahoo.com/news/articles/analysis-gulf-states-tell-us-140044388.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "53-Year-Old Aussie Mom Convicted After Teen Boy Wakes to Sexual Assault in Party Tent",
-        "image": "https://media.zenfs.com/en/where_is_the_buzz_814/39099d339a20a7ed218965482e318e9b",
-        "link": "https://www.yahoo.com/news/articles/53-old-aussie-mom-convicted-080257960.html",
+        "title": "L.A. County duo faces felony charges for attempting to scam elderly victim out of $75K, DA\u2019s office says",
+        "image": "https://media.zenfs.com/en/ktla_articles_362/d1f65b990b70aec6374f2c27d4d29039",
+        "link": "https://www.yahoo.com/news/articles/l-county-duo-faces-felony-011524303.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "German public sector tries to reduce reliance on US tech",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/german-public-sector-tries-to-reduce-reliance-on-us-tech/a-76548879?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "ZenDis, the German Center for Digital Sovereignty, has created an alternative to US software for public sector agencies in Germany, which are increasi..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Nuclear power in Africa: Big dreams, bigger hurdles",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/nuclear-power-in-africa-big-dreams-bigger-hurdles/a-76561750?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "African countries are turning to nuclear energy to boost power supply and cut emissions. Yet complex financing, long timelines and safety demands mean..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/no-kings-protests-trump-critics-rally-across-the-us/a-76580489?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Protesters say US democracy is backsliding under President Donald Trump, with the White House dismissing the marches as a product of \"leftist funding ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Houthis claim 2nd attack on Israel in 24 hours",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-houthis-claim-2nd-attack-on-israel-in-24-hours/live-76573681?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Yemen's Houthi rebels say they have launched two attacks against Israel, vowing more. Meanwhile, Ukraine's Volodymyr Zelenskyy has announced defense c..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Missing Cuba-bound boats carrying aid arrive safely in Havana",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/missing-cuba-bound-boats-carrying-aid-arrive-safely-in-havana/a-76580010?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Two sailboats had gone missing while sailing from Mexico to Havana to alleviate the humanitarian crisis in Cuba. The Mexican Navy located the vessels ..."
     },
     {
         "source": "Leafly",
