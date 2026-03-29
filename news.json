@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "He suddenly couldn't speak in space. NASA astronaut says his medical scare remains a mystery",
-        "image": "https://media.zenfs.com/en/ap.org/67589be0ee4a4aa8e1fc5ada3267f1a7",
-        "link": "https://www.yahoo.com/news/articles/suddenly-couldnt-speak-space-nasa-161906062.html",
+        "title": "Mexico says 40,000 of country's 130,000 disappeared people may be alive",
+        "image": "https://media.zenfs.com/en/reuters.com/918bb56e6f3ec157674af26ac4bb2dda",
+        "link": "https://www.yahoo.com/news/articles/mexico-says-potentially-identified-40-141327514.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "When stock markets are rattled, even by war, it usually pays for investors to be patient",
-        "image": "https://media.zenfs.com/en/ap.org/cfdecf4a273bc7c62f440b4cdf6e94fe",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-markets-rattled-even-war-170430700.html",
+        "title": "US Congress approves temporary funding for Homeland Security",
+        "image": "https://s.yimg.com/uu/api/res/1.2/qIZ_kVZrkA13tXJhkHe6pA--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/3959575f-28fd-427e-aaba-b2b477c6e6b9/main/1280x720/28s576ms/match/image.jpg",
+        "link": "https://www.yahoo.com/news/videos/us-congress-approves-temporary-funding-072616505.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "I\u2019m a Financial Planner: 5 Mistakes Even My Wealthy Clients Make When Planning Retirement",
-        "image": "https://media.zenfs.com/en/gobankingrates_644/ebac7d33c6dd536b2d4ecb31367dc6f6",
-        "link": "https://finance.yahoo.com/markets/articles/m-financial-planner-5-mistakes-072204659.html",
+        "title": "Add massive transmission towers to list of invasive species | Opinion",
+        "image": "https://media.zenfs.com/en/milwaukee-journal-sentinel/637f109517b16257f9c935f064baf6bf",
+        "link": "https://www.yahoo.com/news/articles/add-massive-transmission-towers-list-100208583.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UK police arrest suspect after car hits pedestrians",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/uk-police-arrest-suspect-after-car-hits-pedestrians/a-76583739?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Seven people were seriously injured when a car plowed into pedestrians on a street in the central English city of Derby. Police say they have arrested..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Fact check: Fake satellite images distort Middle East conflict from above",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/fact-check-fake-satellite-images-distort-middle-east-conflict-from-above/a-76567764?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "As the Iran war intensifies, satellite imagery has become a key battleground in the information war. Manipulated or AI\u2011generated aerial images are inc..."
     },
     {
         "source": "Deutsche Welle",
@@ -81,7 +95,7 @@
         "title": "Germany news: Rescuers launch fresh whale rescue effort",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-rescuers-launch-fresh-whale-rescue-effort/live-76576299?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Experts have launched a new effort to free a whale stranded for a second time after it spent days beached on the Baltic Sea coast. Meanwhile, a boy wa..."
+        "summary": "Experts have launched a new effort to free a whale stranded off the Baltic Sea coast after it twice became marooned on sandbanks. Elsewhere, hundreds ..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/german-public-sector-tries-to-reduce-reliance-on-us-tech/a-76548879?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "ZenDis, the German Center for Digital Sovereignty, has created an alternative to US software for public sector agencies in Germany, which are increasi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nuclear power in Africa: Big dreams, bigger hurdles",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nuclear-power-in-africa-big-dreams-bigger-hurdles/a-76561750?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "African countries are turning to nuclear energy to boost power supply and cut emissions. Yet complex financing, long timelines and safety demands mean..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "North Korea tests high-thrust engine in long-range missile push",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/north-korea-tests-high-thrust-engine-in-long-range-missile-push/a-76581352?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The tests come days after Kim Jong Un accused the US of global \"state terrorism and aggression,\" in an apparent reference to the Iran war...."
     },
     {
         "source": "Leafly",
