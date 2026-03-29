@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Analysis-Gulf states tell US ending the war is not enough, Iran\u2019s capabilities must be degraded",
-        "image": "https://media.zenfs.com/en/reuters.com/e178d536665efb428bf12b207bc9a966",
-        "link": "https://www.yahoo.com/news/articles/analysis-gulf-states-tell-us-140044388.html",
+        "title": "When stock markets are rattled, even by war, it usually pays for investors to be patient",
+        "image": "https://media.zenfs.com/en/ap.org/cfdecf4a273bc7c62f440b4cdf6e94fe",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-markets-rattled-even-war-170430700.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/ktla_articles_362/d1f65b990b70aec6374f2c27d4d29039",
         "link": "https://www.yahoo.com/news/articles/l-county-duo-faces-felony-011524303.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Nepal: Ex-energy minister arrested in money laundering case",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/nepal-ex-energy-minister-arrested-in-money-laundering-case/a-76583166?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A day after the arrest of the former prime minister, Nepalese police also arrested the country's former energy minister. Investigators said he was det..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Rescuers launch fresh whale rescue effort",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-rescuers-launch-fresh-whale-rescue-effort/live-76576299?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Experts have launched a new effort to free a whale stranded for a second time after days previously beached on the Baltic Sea coast. Meanwhile, a boy ..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/north-korea-tests-high-thrust-engine-in-long-range-missile-push/a-76581352?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The tests come days after Kim Jong Un accused the US of global \"state terrorism and aggression,\" in an apparent reference to the Iran war...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: IRGC says US campuses in Middle East at risk",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-irgc-says-us-campuses-in-middle-east-at-risk/live-76581165?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Iran\u2019s Revolutionary Guard instructed staff and students at US universities to remain at least one kilometer away from campus. Meanwhile, reports sugg..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "'No Kings' protests \u2014 Trump critics rally across the US",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/no-kings-protests-trump-critics-rally-across-the-us/a-76580489?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Protesters say US democracy is backsliding under President Donald Trump, with the White House dismissing the marches as a product of \"leftist funding ..."
     },
     {
         "source": "Leafly",
