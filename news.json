@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Pakistan says it will host US-Iran talks, while Iran warns US ground troops would be 'set on fire'",
-        "image": "https://media.zenfs.com/en/ap.org/1a0ebdd2ad16462e1d4dc3f7102c1a22",
-        "link": "https://www.yahoo.com/news/articles/iran-backed-houthis-enter-monthlong-040817312.html",
+        "title": "These men carry towers of birds through Mexico's streets. They say their tradition is dying",
+        "image": "https://media.zenfs.com/en/ap.org/4457816bd1701fd5a9a659d892c48108",
+        "link": "https://www.yahoo.com/news/articles/men-carry-towers-birds-mexicos-001436118.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Billionaire Trump Humiliated as Someone Else Cashes In on His War",
-        "image": "https://media.zenfs.com/en/video.dailybeast.com/3c9a8ee6198278efd85365544f016997",
-        "link": "https://www.yahoo.com/news/videos/billionaire-trump-humiliated-someone-else-014624664.html",
+        "title": "China protests US alert over security rules change in Hong Kong",
+        "image": "https://media.zenfs.com/en/reuters.com/cc66177dc9dfb888474dc28db7053dc1",
+        "link": "https://www.yahoo.com/news/articles/china-protests-us-alert-over-093916792.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/sb_nation_articles_115/06c7379000463e7ac7d1be1a149d350c",
         "link": "https://sports.yahoo.com/articles/never-seen-anyone-knocked-submitted-022931693.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Syrian president's visit sparks controversy",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-syrian-president-s-visit-sparks-controversy/live-76588579?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A visit to Berlin by Syrian President Ahmad al-Sharaa has stirred resentment among Germany's Kurdish population who accuse him of human rights violati..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/wto-talks-end-in-stalemate-over-e-commerce/a-76587532?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The US and Brazil accused each other of blocking an agreement over taxes on international online trade. The WTO is experiencing a period of prolonged ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How US 'Liberation Day' tariffs reshaped global trade",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-us-liberation-day-tariffs-reshaped-global-trade/a-76303601?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "One year after Trump's \"Liberation Day\" tariffs, global trade flows have shifted. Trade data shows which countries gained, which lost \u2014 and who is foo..."
     },
     {
         "source": "Leafly",
