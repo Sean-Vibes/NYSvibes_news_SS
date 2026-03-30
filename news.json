@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "These men carry towers of birds through Mexico's streets. They say their tradition is dying",
-        "image": "https://media.zenfs.com/en/ap.org/4457816bd1701fd5a9a659d892c48108",
-        "link": "https://www.yahoo.com/news/articles/men-carry-towers-birds-mexicos-001436118.html",
+        "title": "Key milestones in NASA's Artemis moon program",
+        "image": "https://media.zenfs.com/en/reuters.com/80b396a203ba5dae4b16ca987d324074",
+        "link": "https://www.yahoo.com/news/articles/key-milestones-nasas-artemis-moon-100846372.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China protests US alert over security rules change in Hong Kong",
-        "image": "https://media.zenfs.com/en/reuters.com/cc66177dc9dfb888474dc28db7053dc1",
-        "link": "https://www.yahoo.com/news/articles/china-protests-us-alert-over-093916792.html",
+        "title": "Trump 'pays attention to the stock market': Wall Street eyes signs of TACO amid Iran war",
+        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-03/397ac930-2940-11f1-aedf-c43e89fd63db",
+        "link": "https://finance.yahoo.com/news/trump-pays-attention-to-the-stock-market-wall-street-eyes-signs-of-taco-amid-iran-war-140048438.html",
         "summary": "..."
     },
     {
@@ -71,6 +71,13 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "India news: Delhi police arrest Lashkar-e-Taiba commander",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-delhi-police-arrest-lashkar-e-taiba-commander/live-76589303?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Shabbir Ahmed Lone is accused of plotting terror attacks in India. Elsewhere, Bihar Chief Minister Nitish Kumar has resigned from the state Legislativ..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Germany news: Syrian president's visit sparks controversy",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-syrian-president-s-visit-sparks-controversy/live-76588579?maca=en-rss-en-all-1573-xml-mrss",
@@ -78,31 +85,24 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Capital punishment: Which countries use the death penalty?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/capital-punishment-which-countries-use-the-death-penalty/a-76585793?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Israel is debating the approval of a death penalty bill that targets Palestinians. Although the number of countries carrying out executions is declini..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Controversial death penalty bill set to pass in Israel",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/controversial-death-penalty-bill-set-to-pass-in-israel/a-76586475?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The controversial legislation to expand the death penalty was introduced by Israel's far-right government. Israel's Knesset is expected to vote on the..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Myanmar clears path for junta leader to become president",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/myanmar-clears-path-for-junta-leader-to-become-president/a-76588540?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Min Aung Hlaing has been replaced by a close ally as military commander. He will now face a three-way vote for president by a parliament mostly loyal ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Taiwan opposition leader accepts Xi's invite to visit China",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/taiwan-opposition-leader-accepts-xi-s-invite-to-visit-china/a-76588423?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Cheng Li-wun's visit to China, expected to take place in April, would be the first by a sitting leader of Taiwan's main opposition party in a decade...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Italy: Thieves steal masterpieces in under 3 minutes",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/italy-thieves-steal-masterpieces-in-under-3-minutes/a-76587950?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Three paintings by French masters Cezanne, Renoir, and Matisse have been taken from a museum near the Italian city of Parma...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "WTO talks end in stalemate over e-commerce",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/wto-talks-end-in-stalemate-over-e-commerce/a-76587532?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US and Brazil accused each other of blocking an agreement over taxes on international online trade. The WTO is experiencing a period of prolonged ..."
     },
     {
         "source": "Leafly",
