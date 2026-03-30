@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "New York Governor Marks Five-Year Anniversary Of Marijuana Legalization, With Over $3.3 Billion In Sales And 610 Licensed Retailers",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/new-york-governor-marks-five-year-anniversary-of-marijuana-legalization-with-over-3-3-billion-in-sales-and-610-licensed-retailers/",
+        "summary": "<p>The governor of New York is marking the five-year anniversary of adult-use marijuana legalization in the state, touting $3.3 billion... <a class=\"s..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "Too High To Thrive: Excessive Cannabis Taxes Are Undermining Legal Markets (Op-Ed)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/too-high-to-thrive-excessive-cannabis-taxes-are-undermining-legal-markets-op-ed/",
+        "summary": "<p>\u201cHigher taxes do not eliminate consumer demand. They simply change where consumers buy their cannabis.\u201d By Rodney Holcombe, LeafLink In... <a class..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Texas Lawmakers Will Study Cannabis And Psychedelics Issues Under New Orders From Senate And House Leaders",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/texas-lawmakers-will-study-cannabis-and-psychedelics-issues-under-new-orders-from-senate-and-house-leaders/",
@@ -21,24 +35,10 @@
         "summary": "<p>Bipartisan Senate psychedelics bill; MS gov vetoes medical marijuana expansion; IN gov talks legalization; Poll: Cannabis use isn\u2019t immoral Subscri..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Kansas Officials Are Being Sued Over Raids Against Hemp Businesses",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/kansas-officials-are-being-sued-over-raids-against-hemp-businesses/",
-        "summary": "<p>\u201cThe lawsuit is a tactic to distract from the fact that Indy Vapes and Abilene Vape and CBD made a... <a class=\"small font-montserrat font-weight-b..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "What Do New Ohio Restrictions On Marijuana And Hemp Mean For Consumers And Businesses?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/what-do-new-ohio-restrictions-on-marijuana-and-hemp-mean-for-consumers-and-businesses/",
-        "summary": "<p>It\u2019s now illegal to bring any recreational-use cannabis products into Ohio, even if they were legally purchased in another state.... <a class=\"smal..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The shift from oil isn't just about being 'green' anymore. It's a massive power move for national security.",
-        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-03/67ca3100-29cb-11f1-9fff-02a64541f9f4",
-        "link": "https://finance.yahoo.com/news/the-shift-from-oil-isnt-just-about-being-green-anymore-its-a-massive-power-move-for-national-security-120741283.html",
+        "title": "Bessent says nearly half of US tax filers claim new deductions in Republican tax law",
+        "image": "https://media.zenfs.com/en/reuters.com/634f4eeea1e1d7164da33b54b121f3ee",
+        "link": "https://finance.yahoo.com/economy/policy/articles/bessent-says-nearly-half-us-134656706.html",
         "summary": "..."
     },
     {
@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Oklahomans told they are \u2018not listed as a U.S. citizen\u2019 by Service Oklahoma",
-        "image": "https://media.zenfs.com/en/kfor_articles_929/b1983839fdfe7e093d0aed2cafd2dcf3",
-        "link": "https://www.yahoo.com/news/articles/oklahomans-told-not-listed-u-225925594.html",
+        "title": "Modesto\u2019s third No Kings protest focuses on action, part of nationwide rallies",
+        "image": "https://media.zenfs.com/en/modesto_bee_mcclatchy_articles_658/dbf89a78144683e2f31a8ad7917703cd",
+        "link": "https://www.yahoo.com/news/articles/modesto-third-no-kings-protest-220733380.html",
         "summary": "..."
     },
     {
@@ -71,6 +71,20 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Pakistan under pressure to host successful US-Iran talks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/pakistan-under-pressure-to-host-successful-us-iran-talks/a-76596163?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The stakes are high as Pakistan's government says it is prepared to mediate negotiations. The prospect of a protracted regional war would threaten Pak..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Air Canada CEO to retire after English-only condolence furor",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/air-canada-ceo-to-retire-after-english-only-condolence-furor/a-76595769?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Air Canada has announced that CEO Michael Rousseau will retire later this year. This follows public criticism of his failure to voice condolences in F..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Germany's Pistorius in Asia warns of a frayed global order",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-s-pistorius-in-asia-warns-of-a-frayed-global-order/a-76594988?maca=en-rss-en-all-1573-xml-mrss",
@@ -78,10 +92,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Sixty-six ways to fix Germany's expensive healthcare system",
+        "title": "Sixty-six ways to fix Germany's expensive health care system",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/sixty-six-ways-to-fix-germany-s-expensive-healthcare-system/a-76597471?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A special commission has presented a raft of proposals aimed at curbing Germany's spiraling healthcare costs. But whether the government can impose th..."
+        "link": "https://www.dw.com/en/sixty-six-ways-to-fix-germany-s-expensive-health-care-system/a-76597471?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A special commission has presented a raft of proposals aimed at curbing Germany's spiraling health care costs. But whether the government can impose t..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/finnish-police-say-stray-ukrainian-drone-carried-warhead/a-76596061?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Finnish authorities are investigating two drones that crashed in southern Finland. Kyiv apologized for the incident, with Ukraine's Zelenskyy saying h..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany: Stranded Humpback whale has 'barely moved' in Baltic Sea, is reacting less to stimuli",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-stranded-humpback-whale-has-barely-moved-in-baltic-sea-is-reacting-less-to-stimuli/a-76592564?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The stranded whale barely moved overnight, despite a period with higher water levels presenting an opportunity. Rescuers said it was reacting less to ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Merz and Syrian president talk refugee returns",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-merz-and-syrian-president-talk-refugee-returns/live-76588579?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As Syrian President Ahmad al-Sharaa visits Berlin, Chancellor Friedrich Merz says about 80% of Syrians living in Germany are expected to return home. ..."
     },
     {
         "source": "Leafly",
