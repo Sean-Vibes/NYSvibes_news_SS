@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Stock market bulls, don't forget this one: Oil price shocks usually lead to a recession",
-        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-03/13e73920-2c37-11f1-9bbf-a2aa3e3e5f17",
-        "link": "https://finance.yahoo.com/news/stock-market-bulls-dont-forget-this-one-oil-price-shocks-usually-lead-to-a-recession-131921062.html",
+        "title": "A Florida hospital drops its lawsuit against a woman who refused to leave the facility",
+        "image": "https://media.zenfs.com/en/ap.org/c5688750e2cc52c33ad4aeb43dc7f212",
+        "link": "https://www.yahoo.com/news/articles/florida-hospital-drops-lawsuit-against-160824150.html",
         "summary": "..."
     },
     {
@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Geologists May Have Found One of the World\u2019s Greatest Treasures. Some Say It\u2019s Too Dangerous to Dig Up.",
-        "image": "https://media.zenfs.com/en/popular_mechanics_642/5e38ee285884c6921a5b6c2be0c765d8",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/geologists-may-found-one-world-152300740.html",
+        "title": "Justices Sotomayor and Jackson dissent from Supreme Court leaving an \u2018injustice in place\u2019",
+        "image": "https://media.zenfs.com/en/msnbc_articles_593/6d07ff145c29029d816401bfef371078",
+        "link": "https://www.yahoo.com/news/articles/justices-sotomayor-jackson-dissent-supreme-160920808.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Justices Sotomayor and Jackson dissent from Supreme Court leaving an \u2018injustice in place\u2019",
-        "image": "https://media.zenfs.com/en/msnbc_articles_593/6d07ff145c29029d816401bfef371078",
-        "link": "https://www.yahoo.com/news/articles/justices-sotomayor-jackson-dissent-supreme-160920808.html",
+        "title": "Geologists May Have Found One of the World\u2019s Greatest Treasures. Some Say It\u2019s Too Dangerous to Dig Up.",
+        "image": "https://media.zenfs.com/en/popular_mechanics_642/5e38ee285884c6921a5b6c2be0c765d8",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/geologists-may-found-one-world-152300740.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Capital punishment: Which countries use the death penalty?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/capital-punishment-which-countries-use-the-death-penalty/a-76585793?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Israeli parliament has approved legislation to reestablish the death penalty for Palestinians. Although the number of countries carrying out execution..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US reopens embassy in Venezuela after seizing Nicolas Maduro",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-reopens-embassy-in-venezuela-after-seizing-nicolas-maduro/a-76599216?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The State Department said it had formally reopened its embassy in Caracas after seven years. The US seized President Nicolas Maduro in a military raid..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Israel: Knesset approves death penalty for Palestinians",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/israel-knesset-approves-death-penalty-for-palestinians/a-76599313?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Israeli lawmakers have voted in favor of reinstating the death penalty for Palestinians convicted of murdering Israelis. The law, pushed by the far-ri..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/pakistan-under-pressure-to-host-successful-us-iran-talks/a-76596163?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The stakes are high as Pakistan's government says it is prepared to mediate negotiations. The prospect of a protracted regional war would threaten Pak..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Air Canada CEO to retire after English-only condolence furor",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/air-canada-ceo-to-retire-after-english-only-condolence-furor/a-76595769?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Air Canada has announced that CEO Michael Rousseau will retire later this year. This follows public criticism of his failure to voice condolences in F..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany's Pistorius in Asia warns of a frayed global order",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-pistorius-in-asia-warns-of-a-frayed-global-order/a-76594988?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Defense Minister Boris Pistorius just concluded a whirlwind tour of Japan, Singapore and Australia as Germany aims to build ties with middle powers in..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Sixty-six ways to fix Germany's expensive health care system",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/sixty-six-ways-to-fix-germany-s-expensive-health-care-system/a-76597471?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A special commission has presented a raft of proposals aimed at curbing Germany's spiraling health care costs. But whether the government can impose t..."
     },
     {
         "source": "Leafly",
