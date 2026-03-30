@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "A Florida hospital drops its lawsuit against a woman who refused to leave the facility",
-        "image": "https://media.zenfs.com/en/ap.org/c5688750e2cc52c33ad4aeb43dc7f212",
-        "link": "https://www.yahoo.com/news/articles/florida-hospital-drops-lawsuit-against-160824150.html",
+        "title": "Founder of 'orgasmic meditation\u2019 company gets 9 years in prison in forced labor case",
+        "image": "https://media.zenfs.com/en/ap.org/a7eddf4401eeca440433e3d8373675f9",
+        "link": "https://www.yahoo.com/news/articles/founder-orgasmic-meditation-company-gets-185952890.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Chinese container ships pass through Strait of Hormuz at second attempt, data shows",
-        "image": "https://media.zenfs.com/en/reuters.com/722425a04db54d43f36397e4b54e3e40",
-        "link": "https://www.yahoo.com/news/articles/chinese-container-ships-pass-strait-115917732.html",
+        "title": "International observers urge violence-free elections after clashes at Serbia vote",
+        "image": "https://media.zenfs.com/en/ap.org/3f2f519e784484dab5c1ac672688d78b",
+        "link": "https://www.yahoo.com/news/articles/international-observers-urge-violence-free-195708820.html",
         "summary": "..."
     },
     {
@@ -75,6 +75,13 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/capital-punishment-which-countries-use-the-death-penalty/a-76585793?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Israeli parliament has approved legislation to reestablish the death penalty for Palestinians. Although the number of countries carrying out execution..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "An in-depth look at Israel's new death penalty law",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/an-in-depth-look-at-israel-s-new-death-penalty-law/a-76586475?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The new law, introduced by Israel's far-right government, was passed in parliament on Monday night. It imposes the death penalty on Palestinians convi..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/nigeria-curfew-in-jos-area-after-attack-near-university/a-76598006?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Gunmen attacked a bar in the city overnight, reportedly killing dozens. The Plateau State government imposed a 48-hour curfew in the area. It said the..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pakistan under pressure to host successful US-Iran talks",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pakistan-under-pressure-to-host-successful-us-iran-talks/a-76596163?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The stakes are high as Pakistan's government says it is prepared to mediate negotiations. The prospect of a protracted regional war would threaten Pak..."
     },
     {
         "source": "Leafly",
