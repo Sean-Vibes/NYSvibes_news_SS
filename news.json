@@ -50,24 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Geologists May Have Found One of the World\u2019s Greatest Treasures. Some Say It\u2019s Too Dangerous to Dig Up.",
+        "image": "https://media.zenfs.com/en/popular_mechanics_642/5e38ee285884c6921a5b6c2be0c765d8",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/geologists-may-found-one-world-152300740.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Stock market bulls, don't forget this one: Oil price shocks usually lead to a recession",
+        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-03/13e73920-2c37-11f1-9bbf-a2aa3e3e5f17",
+        "link": "https://finance.yahoo.com/news/stock-market-bulls-dont-forget-this-one-oil-price-shocks-usually-lead-to-a-recession-131921062.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Justices Sotomayor and Jackson dissent from Supreme Court leaving an \u2018injustice in place\u2019",
         "image": "https://media.zenfs.com/en/msnbc_articles_593/6d07ff145c29029d816401bfef371078",
         "link": "https://www.yahoo.com/news/articles/justices-sotomayor-jackson-dissent-supreme-160920808.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "International observers urge violence-free elections after clashes at Serbia vote",
-        "image": "https://media.zenfs.com/en/ap.org/3f2f519e784484dab5c1ac672688d78b",
-        "link": "https://www.yahoo.com/news/articles/international-observers-urge-violence-free-195708820.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Germany beat Ghana to complete confidence-boosting March",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-beat-ghana-to-complete-confidence-boosting-march/a-76599285?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A late winner from Stuttgart's Deniz Undav secured a second friendly win in a week for Germany. With the World Cup just 10 weeks away, Julian Nagelsma..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Geologists May Have Found One of the World\u2019s Greatest Treasures. Some Say It\u2019s Too Dangerous to Dig Up.",
-        "image": "https://media.zenfs.com/en/popular_mechanics_642/5e38ee285884c6921a5b6c2be0c765d8",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/geologists-may-found-one-world-152300740.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Haiti: At least 70 killed in 'massacre,' says rights group",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/haiti-at-least-70-killed-in-massacre-says-rights-group/a-76600042?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The death toll from a brutal gang attack in Haiti is much higher than initially thought, according to a human rights group...."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-reopens-embassy-in-venezuela-after-seizing-nicolas-maduro/a-76599216?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The State Department said it had formally reopened its embassy in Caracas after seven years. The US seized President Nicolas Maduro in a military raid..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Israel: Knesset approves death penalty for Palestinians",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/israel-knesset-approves-death-penalty-for-palestinians/a-76599313?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Israeli lawmakers have voted in favor of reinstating the death penalty for Palestinians convicted of murdering Israelis. The law, pushed by the far-ri..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nigeria: Curfew in Jos area after attack near university",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nigeria-curfew-in-jos-area-after-attack-near-university/a-76598006?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Gunmen attacked a bar in the city overnight, reportedly killing dozens. The Plateau State government imposed a 48-hour curfew in the area. It said the..."
     },
     {
         "source": "Leafly",
