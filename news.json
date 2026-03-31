@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Celebrating 5 years of legal cannabis in New York (Newsletter: March 31, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/celebrating-5-years-of-legal-cannabis-in-new-york-newsletter-march-31-2026/",
+        "summary": "<p>White House CBD meetings; AOC slams marijuana &#38; psychedelics scheduling; TX lawmakers\u2019 hemp &#38; ibogaine reviews; Cannabis taxes op-ed Subscr..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "White House Schedules More Meetings On Cannabis Product Enforcement Policy From FDA For This Week",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/white-house-schedules-more-meetings-on-cannabis-product-enforcement-policy-from-fda-for-this-week/",
@@ -28,13 +35,6 @@
         "summary": "<p>Texas Senate and House leaders are directing lawmakers to study issues related to cannabis products and psychedelic therapy during the... <a class=..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "AOC Slams Federal Drug Laws That Restrict Marijuana And Psychedelics Despite Their Medical Value",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/aoc-slams-federal-drug-laws-that-restrict-marijuana-and-psychedelics-despite-their-medical-value/",
-        "summary": "<p>Rep. Alexandria Ocasio-Cortez (D-NY) tore into the current U.S. drug scheduling system on Thursday\u2014making the case that placing substances like... ..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Gulf allies privately make the case to Trump to keep fighting until Iran is decisively defeated",
         "image": "https://media.zenfs.com/en/ap.org/3c479ec407632aa34e57b6bd4c1fd113",
@@ -57,17 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Founder of 'orgasmic meditation\u2019 company gets 9 years in prison in forced labor conspiracy",
-        "image": "https://media.zenfs.com/en/ap.org/9d808d4bdd1ef049a1d313430f75f3e7",
-        "link": "https://www.yahoo.com/news/articles/founder-orgasmic-meditation-company-gets-185952890.html",
+        "title": "A Florida hospital drops its lawsuit against a woman who refused to leave the facility",
+        "image": "https://media.zenfs.com/en/ap.org/c5688750e2cc52c33ad4aeb43dc7f212",
+        "link": "https://www.yahoo.com/news/articles/florida-hospital-drops-lawsuit-against-160824150.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Joseph Duggar told wife Kendra he had $60 in jail as she confirmed she's staying somewhere 'private' with the kids",
-        "image": "https://media.zenfs.com/en/entertainment_weekly_785/ce2c36518b38593bb6df85c90e423010",
-        "link": "https://www.yahoo.com/entertainment/celebrity/articles/joseph-duggar-told-wife-kendra-212442585.html",
+        "title": "Family confirms a missing American Airlines flight attendant was found dead in Colombia",
+        "image": "https://media.zenfs.com/en/wfaa_tegna_videos_741/1220d930d16d0c6e779700ccec19f58e",
+        "link": "https://www.yahoo.com/news/videos/family-confirms-missing-american-airlines-103819529.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Tennis legend Leander Paes joins Modi's BJP",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-tennis-legend-leander-paes-joins-modi-s-bjp/live-76600941?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The move comes just days before elections in West Bengal. In other news, Iran has called a US strike on a Delhi-bound plane a 'war crime' and India is..."
     },
     {
         "source": "Deutsche Welle",
@@ -81,7 +88,7 @@
         "title": "International break: Germany's World Cup winners and losers",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/international-break-germany-s-world-cup-winners-and-losers/a-76602965?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In Germany's final international break before the World Cup, some players made the most of their chances while others missed the opportunity to impres..."
+        "summary": "In the international friendlies before the FIFA World Cup, some players on Germany's national football team made the most of their chances, while othe..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,13 +96,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukraine-top-eu-diplomats-mark-4-years-since-bucha-massacre/a-76602640?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Brussels' chief diplomat and several EU foreign ministers are in Ukraine to mark four years since one of Russia's most infamous atrocities. The Bucha ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: Iran says US strike on Delhi-bound plane a 'war crime'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-iran-says-us-strike-on-delhi-bound-plane-a-war-crime/live-76600941?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Iranian embassy in India has slammed the US strike on Mashhad Airport that reportedly hit a plane used for aid. Meanwhile, India is gearing up for..."
     },
     {
         "source": "Deutsche Welle",
