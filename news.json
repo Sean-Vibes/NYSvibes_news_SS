@@ -43,13 +43,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Stripper Goes Viral After Saying Troops Are \u201cBlowing All Their Money\u201d Before Deployment",
-        "image": "https://media.zenfs.com/en/where_is_the_buzz_814/a00fe4619154c78725e1eb1e59ff9e81",
-        "link": "https://www.yahoo.com/entertainment/celebrity/articles/stripper-goes-viral-saying-troops-171833117.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Ohio Dance Instructor Opened Fire at Party After Her Husband and Boyfriend Learned About Her Affair",
         "image": "https://media.zenfs.com/en/us_magazine_896/e8fc8c2ae87e19d9e68cd9af222e5c72",
         "link": "https://www.yahoo.com/news/articles/ohio-dance-instructor-opened-fire-214149513.html",
@@ -57,9 +50,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Stock market bulls, don't forget this one: Oil price shocks usually lead to a recession",
-        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-03/13e73920-2c37-11f1-9bbf-a2aa3e3e5f17",
-        "link": "https://finance.yahoo.com/news/stock-market-bulls-dont-forget-this-one-oil-price-shocks-usually-lead-to-a-recession-131921062.html",
+        "title": "Stripper Goes Viral After Saying Troops Are \u201cBlowing All Their Money\u201d Before Deployment",
+        "image": "https://media.zenfs.com/en/where_is_the_buzz_814/a00fe4619154c78725e1eb1e59ff9e81",
+        "link": "https://www.yahoo.com/entertainment/celebrity/articles/stripper-goes-viral-saying-troops-171833117.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Founder of 'orgasmic meditation\u2019 company gets 9 years in prison in forced labor conspiracy",
+        "image": "https://media.zenfs.com/en/ap.org/9d808d4bdd1ef049a1d313430f75f3e7",
+        "link": "https://www.yahoo.com/news/articles/founder-orgasmic-meditation-company-gets-185952890.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/entertainment_weekly_785/ce2c36518b38593bb6df85c90e423010",
         "link": "https://www.yahoo.com/entertainment/celebrity/articles/joseph-duggar-told-wife-kendra-212442585.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany: Wolf bites woman in Hamburg",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-wolf-bites-woman-in-hamburg/a-76605668?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "It is the first recorded wolf attack on a human since wolves returned to Germany nearly 30 years ago. The wolf likely wandered into the city by accide..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/after-the-iran-war-how-fast-could-global-trade-recover/a-76526954?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Iran war could end soon or drag on for months. When the Strait of Hormuz is reopened, the true test will be how quickly energy, fertilizer and oth..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Bavaria's state premier Markus S\u00f6der visits North Carolina",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-bavaria-s-state-premier-markus-s\u00f6der-visits-north-carolina/live-76601171?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Markus S\u00f6der will view the BMW plant in Spartanburg, among other stops, after visiting Texas. Foreign Minister Wadephul is set to mark four years sinc..."
     },
     {
         "source": "Leafly",
