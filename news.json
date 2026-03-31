@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Oil plunges, stocks soar after Iranian president offers first signs of willingness to end war with US",
-        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-03/4bcd2d10-2d2a-11f1-b7fa-c98484d477b1",
-        "link": "https://finance.yahoo.com/news/oil-plunges-stocks-soar-after-iranian-president-offers-first-signs-of-willingness-to-end-war-with-us-183158792.html",
+        "title": "Tennessee librarian fired for refusing to move more than 100 books from children's to adult section",
+        "image": "https://media.zenfs.com/en/ap.org/e47f47ca36df524386e952596d4c5685",
+        "link": "https://www.yahoo.com/news/articles/tennessee-librarian-fired-refusing-move-191548099.html",
         "summary": "..."
     },
     {
@@ -50,23 +50,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Woman Who Became Pregnant After Having Sex with Identical Twins Told It\u2019s \u2018Not Possible\u2019 to Identify Father of the Baby",
-        "image": "https://media.zenfs.com/en/people_218/e54d54a5864b1c37dcc8f2108a451f80",
-        "link": "https://www.yahoo.com/news/articles/woman-became-pregnant-having-sex-172718646.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Stock market bulls, don't forget this one: Oil price shocks usually lead to a recession",
-        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-03/13e73920-2c37-11f1-9bbf-a2aa3e3e5f17",
-        "link": "https://finance.yahoo.com/news/stock-market-bulls-dont-forget-this-one-oil-price-shocks-usually-lead-to-a-recession-131921062.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Kristi Noem 'Devastated' Over Report Of Husband's ******",
         "image": "https://media.zenfs.com/en/the_huffington_post_584/4a0cf96c65fc0e2b1dcead62c48a984b",
         "link": "https://www.yahoo.com/news/articles/kristi-noem-devastated-over-report-184240763.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Oil plunges, stocks soar after Iranian president offers first signs of willingness to end war with US",
+        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-03/4bcd2d10-2d2a-11f1-b7fa-c98484d477b1",
+        "link": "https://finance.yahoo.com/news/oil-plunges-stocks-soar-after-iranian-president-offers-first-signs-of-willingness-to-end-war-with-us-183158792.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Leavitt Trolled With Photo So Bad It Got Pulled",
+        "image": "https://media.zenfs.com/en/video.dailybeast.com/a5e1dc46c1f8226823b4eb46d4ce23bd",
+        "link": "https://www.yahoo.com/news/videos/leavitt-trolled-photo-bad-got-162611759.html",
         "summary": "..."
     },
     {
@@ -106,6 +106,13 @@
     },
     {
         "source": "Leafly",
+        "title": "Star signs and cannabis strains: April 2026 horoscopes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.leafly.com/news/strains-products/star-signs-and-cannabis-strains-april-2026-horoscopes",
+        "summary": "<p>It's time for your April 2026 horoscopes, and this month wastes no time! Take some time to reconnect with what you want versus what you need.</p>\n<..."
+    },
+    {
+        "source": "Leafly",
         "title": "The best autoflowering seeds from Fast Buds for cannabis extraction",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.leafly.com/news/strains-products/the-best-autoflowering-seeds-from-fast-buds-for-cannabis-extraction",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.leafly.com/news/strains-products/your-way-your-420-your-story-arizona",
         "summary": "<p>At Story Cannabis, we\u2019re celebrating our community with a full lineup of deals, drops, and daily surprises designed to make this your best 420 yet...."
-    },
-    {
-        "source": "Leafly",
-        "title": "Your 420. Your way. Your Story.",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.leafly.com/news/strains-products/your-420-your-way-your-story-maryland",
-        "summary": "<p>Story Cannabis is bringing the energy to Maryland this 420\u2014with six straight days of deals, drops, and in-store experiences built for how you like ..."
     }
 ]
