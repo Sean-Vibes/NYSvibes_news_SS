@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Toyota\u2019s New Electric Sedan Is Huge, High-Tech, and Cheaper Than a Chevy Bolt",
+        "image": "https://media.zenfs.com/en/autoblog_arena_articles_145/db21f7e5f492fc819ecd6d6486c013f3",
+        "link": "https://autos.yahoo.com/ev-and-future-tech/articles/toyota-electric-sedan-huge-high-171500829.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "A Florida hospital drops its lawsuit against a woman who refused to leave the facility",
+        "image": "https://media.zenfs.com/en/ap.org/c5688750e2cc52c33ad4aeb43dc7f212",
+        "link": "https://www.yahoo.com/news/articles/florida-hospital-drops-lawsuit-against-160824150.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Kristi Noem 'Devastated' Over Report Of Husband's ******",
         "image": "https://media.zenfs.com/en/the_huffington_post_584/4a0cf96c65fc0e2b1dcead62c48a984b",
         "link": "https://www.yahoo.com/news/articles/kristi-noem-devastated-over-report-184240763.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nancy Guthrie latest updates: Today marks 2 months after she was last seen as investigation into her disappearance continues",
-        "image": "https://s.yimg.com/uu/api/res/1.2/7DAzYSwwX6MlY6pIClxyoQ--~B/aD0xNjg4O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/thumb_sgmom.jpg",
-        "link": "https://www.yahoo.com/news/us/live/nancy-guthrie-latest-updates-today-marks-2-months-after-she-was-last-seen-as-investigation-into-her-disappearance-continues-154428959.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Woman Who Became Pregnant After Having Sex with Identical Twins Told It\u2019s \u2018Not Possible\u2019 to Identify Father of the Baby",
-        "image": "https://media.zenfs.com/en/people_218/e54d54a5864b1c37dcc8f2108a451f80",
-        "link": "https://www.yahoo.com/news/articles/woman-became-pregnant-having-sex-172718646.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "US judge orders Trump to halt ballroom construction",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-judge-orders-trump-to-halt-ballroom-construction/a-76615061?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The judge said US presidents are not owners of the White House and Congress must approve any changes to the building...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/russian-oil-tanker-docks-in-cuba-the-1st-since-us-blockade/a-76611820?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The tanker carrying some 730,000 barrels of crude oil is sanctioned by the US, the EU and the UK amid the war in Ukraine. It comes as Cuba struggles w..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Local elections in Serbia: Is Vucic's party losing its grip?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/local-elections-in-serbia-is-vucic-s-party-losing-its-grip/a-76608212?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Serbia's ruling SNS once again secured victories in local elections \u2014 but sometimes just by a few hundred votes. Narrowing margins suggest a shifting ..."
     },
     {
         "source": "Leafly",
