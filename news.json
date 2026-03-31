@@ -71,6 +71,27 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Germany news: Bavaria's state premier Markus S\u00f6der visits North Carolina",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-bavaria-s-state-premier-markus-s\u00f6der-visits-north-carolina/live-76601171?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Markus S\u00f6der will view the BMW plant in Spartanburg, among other stops, after visiting Texas. Foreign Minister Wadephul is set to mark your years sinc..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "After the Iran war, how fast could global trade recover?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/after-the-iran-war-how-fast-could-global-trade-recover/a-76526954?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Iran war could end soon or drag on for months. When the Strait of Hormuz is reopened, the true test will be how quickly energy, fertilizer and oth..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Iran says US strike on Delhi-bound plane a 'war crime'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-iran-says-us-strike-on-delhi-bound-plane-a-war-crime/live-76600941?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Iranian embassy in India has slammed the US strike on Mashhad Airport that reportedly hit a plane used for aid. Meanwhile, India is gearing up for..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "US trade chief lambasts WTO after failed talks",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-trade-chief-lambasts-wto-after-failed-talks/a-76600658?maca=en-rss-en-all-1573-xml-mrss",
@@ -78,31 +99,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iran war: US gasoline prices surge as conflict escalates",
+        "title": "Iran war: Indonesia calls for UN meeting after peacekeeper deaths",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-us-gasoline-prices-surge-as-conflict-escalates/live-76600314?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The national average price of gasoline in the US has hit $4 a gallon for the first time since 2022, according to GasBuddy. Plus, Iran reportedly passe..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany beat Ghana to complete confidence-boosting March",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-beat-ghana-to-complete-confidence-boosting-march/a-76599285?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A late winner from Stuttgart's Deniz Undav secured a second friendly win in a week for Germany. With the World Cup just 10 weeks away, Julian Nagelsma..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Haiti: At least 70 killed in 'massacre,' says rights group",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/haiti-at-least-70-killed-in-massacre-says-rights-group/a-76600042?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The death toll from a brutal gang attack in Haiti is much higher than initially thought, according to a human rights group...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Capital punishment: Which countries use the death penalty?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/capital-punishment-which-countries-use-the-death-penalty/a-76585793?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Israeli parliament has approved legislation to reestablish the death penalty for Palestinians. Although the number of countries carrying out execution..."
+        "link": "https://www.dw.com/en/iran-war-indonesia-calls-for-un-meeting-after-peacekeeper-deaths/live-76600314?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Three Indonesians, acting as UN peacekeepers, have been killed in Lebanon. The national average price of gasoline in the US has hit $4 a gallon for th..."
     },
     {
         "source": "Leafly",
