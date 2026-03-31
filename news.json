@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Michigan Sheriff Running For Governor Pledges To Repeal Marijuana Tax Increase",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/michigan-sheriff-running-for-governor-pledges-to-repeal-marijuana-tax-increase/",
+        "summary": "<p>\u201cWe cannot balance state budgets on the backs of one industry. Excessive taxation drives consumers back to the illicit market... <a class=\"small fo..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Hawaii Senators Pass Resolutions Seeking Federal Medical Marijuana Exemption From DEA",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/hawaii-senators-pass-resolutions-seeking-federal-medical-marijuana-exemption-from-dea/",
@@ -28,17 +35,10 @@
         "summary": "<p>\u201cDespite carrying the consequences of criminalization, and being key sustainers of the legal industry as workers and consumers, Latinos are... <a c..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "New Hampshire House Passes Scaled-Back Psilocybin Bill, While Rejecting Measure To Protect Medical Marijuana Patients\u2019 Gun Rights",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/new-hampshire-house-passes-scaled-back-psilocybin-bill-while-rejecting-measure-to-protect-medical-marijuana-patients-gun-rights/",
-        "summary": "<p>The New Hampshire House of Representatives has approved an amended bill to establish a psilocybin advisory board to study pathways... <a class=\"sma..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukrainian drones strike Russia's Ust-Luga port again, sources say oil terminal hit",
-        "image": "https://media.zenfs.com/en/reuters.com/dde103b0753231353ef93fbd0e5eb352",
-        "link": "https://www.yahoo.com/news/articles/ukraine-drones-damage-russias-ust-050451881.html",
+        "title": "Oil plunges, stocks soar after Iranian president offers first signs of willingness to end war with US",
+        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-03/4bcd2d10-2d2a-11f1-b7fa-c98484d477b1",
+        "link": "https://finance.yahoo.com/news/oil-plunges-stocks-soar-after-iranian-president-offers-first-signs-of-willingness-to-end-war-with-us-183158792.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ohio Dance Instructor Opened Fire at Party After Her Husband and Boyfriend Learned About Her Affair",
-        "image": "https://media.zenfs.com/en/us_magazine_896/e8fc8c2ae87e19d9e68cd9af222e5c72",
-        "link": "https://www.yahoo.com/news/articles/ohio-dance-instructor-opened-fire-214149513.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Founder of 'orgasmic meditation\u2019 company gets 9 years in prison in forced labor conspiracy",
-        "image": "https://media.zenfs.com/en/ap.org/9d808d4bdd1ef049a1d313430f75f3e7",
-        "link": "https://www.yahoo.com/news/articles/founder-orgasmic-meditation-company-gets-185952890.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Woman Who Became Pregnant After Having Sex with Identical Twins Told It\u2019s \u2018Not Possible\u2019 to Identify Father of the Baby",
         "image": "https://media.zenfs.com/en/people_218/e54d54a5864b1c37dcc8f2108a451f80",
         "link": "https://www.yahoo.com/news/articles/woman-became-pregnant-having-sex-172718646.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Stock market bulls, don't forget this one: Oil price shocks usually lead to a recession",
+        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-03/13e73920-2c37-11f1-9bbf-a2aa3e3e5f17",
+        "link": "https://finance.yahoo.com/news/stock-market-bulls-dont-forget-this-one-oil-price-shocks-usually-lead-to-a-recession-131921062.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Kristi Noem 'Devastated' Over Report Of Husband's ******",
+        "image": "https://media.zenfs.com/en/the_huffington_post_584/4a0cf96c65fc0e2b1dcead62c48a984b",
+        "link": "https://www.yahoo.com/news/articles/kristi-noem-devastated-over-report-184240763.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Deterrent or danger: After Iran, are Saudi Arabia and Turkey next in line for nuclear weapons?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/deterrent-or-danger-after-iran-are-saudi-arabia-and-turkey-next-in-line-for-nuclear-weapons/a-76613406?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The nuclear threat in the Middle East is growing due to the Iran war, and not just because nuclear sites in Iran and Israel are being attacked. Other ..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/local-elections-in-serbia-is-vucic-s-party-losing-its-grip/a-76608212?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Serbia's ruling SNS once again secured victories in local elections \u2014 but sometimes just by a few hundred votes. Narrowing margins suggest a shifting ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Mediterranean sharks are vanishing in a legal void",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/mediterranean-sharks-are-vanishing-in-a-legal-void/a-76594337?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Along Libya's coast, sharks \u2014 including breeding females \u2014 are sold unchecked. With little enforcement and growing financial pressure on fishermen, vu..."
     },
     {
         "source": "Leafly",
