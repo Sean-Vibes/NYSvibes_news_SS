@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukrainian drones strike Russia's Ust-Luga port again, sources say oil terminal hit",
-        "image": "https://media.zenfs.com/en/reuters.com/dde103b0753231353ef93fbd0e5eb352",
-        "link": "https://www.yahoo.com/news/articles/ukraine-drones-damage-russias-ust-050451881.html",
+        "title": "Israeli parliament passes budget, allowing Netanyahu to avoid early elections",
+        "image": "https://media.zenfs.com/en/ap.org/995c79e72aed3f59090629a9d60e46db",
+        "link": "https://www.yahoo.com/news/articles/israeli-parliament-passes-budget-allowing-080912761.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Bullet That Killed Charlie Kirk Doesn't Match Tyler Robinson's Rifle, His Lawyers Claim",
+        "image": "https://media.zenfs.com/en/people_218/04fe65e5bc48554827958fc430a46c37",
+        "link": "https://www.yahoo.com/news/articles/bullet-killed-charlie-kirk-doesnt-165220873.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Tennessee librarian fired for refusing to move more than 100 books from children's to adult section",
+        "image": "https://media.zenfs.com/en/ap.org/e47f47ca36df524386e952596d4c5685",
+        "link": "https://www.yahoo.com/news/articles/tennessee-librarian-fired-refusing-move-191548099.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Kristi Noem 'Devastated' Over Report Of Husband's ******",
         "image": "https://media.zenfs.com/en/the_huffington_post_584/4a0cf96c65fc0e2b1dcead62c48a984b",
         "link": "https://www.yahoo.com/news/articles/kristi-noem-devastated-over-report-184240763.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "A Florida hospital drops its lawsuit against a woman who refused to leave the facility",
-        "image": "https://media.zenfs.com/en/ap.org/c5688750e2cc52c33ad4aeb43dc7f212",
-        "link": "https://www.yahoo.com/news/articles/florida-hospital-drops-lawsuit-against-160824150.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Germany news: New rules to tamp down gasoline price hikes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-new-rules-to-tamp-down-gasoline-price-hikes/live-76616425?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "German gas stations will now only be able to raise pump prices once a day as costs spiral for motorists. Meanwhile, an umbrella group for German citie..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Bullet That Killed Charlie Kirk Doesn't Match Tyler Robinson's Rifle, His Lawyers Claim",
-        "image": "https://media.zenfs.com/en/people_218/04fe65e5bc48554827958fc430a46c37",
-        "link": "https://www.yahoo.com/news/articles/bullet-killed-charlie-kirk-doesnt-165220873.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "India News: Jet fuel prices reach record high amid Iran war",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-jet-fuel-prices-reach-record-high-amid-iran-war/live-76615690?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Indian government has stepped in to limit the impact of record-high jet fuel prices on airlines and air fares. Commercial LPG cylinders have also ..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-judge-blocks-trump-order-that-barred-funding-for-npr-pbs/a-76615077?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A federal judge has blocked a presidential directive that barred funding for NPR and PBS media entities. Separately, an appeals court panel paused a f..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Court orders Trump to halt White House ballroom construction",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/court-orders-trump-to-halt-white-house-ballroom-construction/a-76615061?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The judge said US presidents are not owners of the White House and Congress must approve any changes to the building...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Deterrent or danger: After Iran, are Saudi Arabia and Turkey next in line for nuclear weapons?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/deterrent-or-danger-after-iran-are-saudi-arabia-and-turkey-next-in-line-for-nuclear-weapons/a-76613406?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The nuclear threat in the Middle East is growing due to the Iran war, and not just because nuclear sites in Iran and Israel are being attacked. Other ..."
     },
     {
         "source": "Leafly",
