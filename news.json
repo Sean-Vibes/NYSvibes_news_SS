@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Colorado Governor Signs Bill To Allow Medical Marijuana Use In Hospitals, But Criticizes Amendment Letting Facilities Opt Out",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/colorado-governor-signs-bill-to-allow-medical-marijuana-use-in-hospitals-but-criticizes-amendment-letting-facilities-opt-out/",
+        "summary": "<p>Colorado\u2019s governor has signed a bill that will let terminally ill patients to use medical marijuana in healthcare facilities such... <a class=\"sma..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Judge Rejects Anti-Marijuana Groups\u2019 Motion To Block CBD And THC Medicare Coverage Plan, Setting Hearing For 4/20",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/judge-rejects-anti-marijuana-groups-motion-to-block-cbd-and-thc-medicare-coverage-plan-setting-hearing-for-4-20/",
@@ -28,17 +35,10 @@
         "summary": "<p>Hawaii senators are sending a message to the governor, state attorney general and health department to recognize their \u201cclear legislative... <a cla..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Anti-Marijuana Groups File Lawsuit To Block Trump Administration\u2019s Hemp CBD And THC Medicare Coverage Plan",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/anti-marijuana-groups-file-lawsuit-to-block-trump-administrations-hemp-cbd-and-thc-medicare-coverage-plan/",
-        "summary": "<p>A coalition of anti-marijuana organization is suing the Trump administration over a novel initiative set to launch this week to... <a class=\"small ..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Oil plunges, stocks soar after Iranian president offers first signs of willingness to end war with US",
-        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-03/4bcd2d10-2d2a-11f1-b7fa-c98484d477b1",
-        "link": "https://finance.yahoo.com/news/oil-plunges-stocks-soar-after-iranian-president-offers-first-signs-of-willingness-to-end-war-with-us-183158792.html",
+        "title": "Tennessee librarian fired for refusing to move more than 100 books from children's to adult section",
+        "image": "https://media.zenfs.com/en/ap.org/e47f47ca36df524386e952596d4c5685",
+        "link": "https://www.yahoo.com/news/articles/tennessee-librarian-fired-refusing-move-191548099.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump says government will have to 'force ourselves' on Los Angeles during World Cup",
-        "image": "https://media.zenfs.com/en/reuters.com/033bd466898013bff72a74bb355f26bd",
-        "link": "https://www.yahoo.com/news/articles/trump-says-government-force-ourselves-220336634.html",
+        "title": "Ukrainian drones strike Russia's Ust-Luga port again, sources say oil terminal hit",
+        "image": "https://media.zenfs.com/en/reuters.com/dde103b0753231353ef93fbd0e5eb352",
+        "link": "https://www.yahoo.com/news/articles/ukraine-drones-damage-russias-ust-050451881.html",
         "summary": "..."
     },
     {
@@ -71,10 +71,17 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "World Cup 2026: Iraq qualify but Iran doubts loom",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/world-cup-2026-iraq-qualify-but-iran-doubts-loom/a-76621483?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iraq have overcome tough circumstances to reach the World Cup for the first time in 30 years, with the lineup now complete. But Iran's potential withd..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Iran war: Trump says Iran's president asked for ceasefire",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-trump-says-iran-s-president-asked-for-ceasefire/live-76615254?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Trump has said on social media that Iran's \"new regime president\" wants a ceasefire. Meanwhile, an Iranian missile has wounded 14 people in central Is..."
+        "summary": "Iran's Foreign Ministry has denied Trump's claim that a ceasefire has been requested. Meanwhile, an Iranian missile has wounded 14 people in central I..."
     },
     {
         "source": "Deutsche Welle",
@@ -88,7 +95,7 @@
         "title": "Is Pakistan setting up a buffer zone in Afghanistan?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/is-pakistan-setting-up-a-buffer-zone-in-afghanistan/a-76624686?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Tensions on the Afghanistan-Pakistan border are escalating amid reports that Islamabad is trying to take over parts of Afghan territory...."
+        "summary": "Tensions on the Afghanistan-Pakistan border are escalating amid reports that the Pakistani government is trying to take over parts of Afghan territory..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/undiagnosed-tb-pose-challenge-for-south-africa-mozambique/a-76613895?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Africa is making progress in reducing tuberculosis (TB). But experts say missed cases and drug-resistant infections are complicating the fight, partic..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Strikes on steel deal painful blow to economy",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-strikes-on-steel-deal-painful-blow-to-economy/a-76621439?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US-Israeli strikes on Iran's two biggest steel mills will likely harm Tehran's ability to wage war, but could also cripple Iran's economy in irrev..."
     },
     {
         "source": "Leafly",
