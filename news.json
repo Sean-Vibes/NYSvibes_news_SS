@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "A Look Inside The White House\u2019s First Cannabis Products Enforcement Policy Meeting",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/a-look-inside-the-white-houses-first-cannabis-products-enforcement-policy-meeting/",
+        "summary": "<p>The White House has held the first in a series of scheduled meetings with cannabis industry and research stakeholders to... <a class=\"small font-mo..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Dr. Oz Announces Launch Of Program Covering Hemp THC And CBD Products Through Medicare",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/dr-oz-announces-launch-of-program-covering-hemp-thc-and-cbd-products-through-medicare/",
@@ -28,24 +35,10 @@
         "summary": "<p>\u201cAppears there may be a light at the end of the tunnel. Fingers crossed.\u201d By Zach Wendling, Nebraska Examiner The... <a class=\"small font-montserra..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Virginia\u2019s Governor Has The Power To Save Consumers\u2019 Access To Hemp Products (Op-Ed)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/virginias-governor-has-the-power-to-save-consumers-access-to-hemp-products-op-ed/",
-        "summary": "<p>\u201cAs written, the law would render the overwhelming majority of products currently on shelves illegal as of July 1. That... <a class=\"small font-mon..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Switzerland says cancelling U.S. Patriot missile system order an option",
         "image": "https://media.zenfs.com/en/reuters.com/6cc4c735b8235511fa9d730ef6135305",
         "link": "https://www.yahoo.com/news/articles/switzerland-says-cancelling-u-patriot-151909367.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ohio Dance Instructor Opened Fire at Party After Her Husband and Boyfriend Learned About Her Affair",
-        "image": "https://media.zenfs.com/en/us_magazine_896/e8fc8c2ae87e19d9e68cd9af222e5c72",
-        "link": "https://www.yahoo.com/news/articles/ohio-dance-instructor-opened-fire-214149513.html",
         "summary": "..."
     },
     {
@@ -57,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukrainian drones strike Russia's Ust-Luga port again, sources say oil terminal hit",
-        "image": "https://media.zenfs.com/en/reuters.com/dde103b0753231353ef93fbd0e5eb352",
-        "link": "https://www.yahoo.com/news/articles/ukraine-drones-damage-russias-ust-050451881.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Kristi Noem 'Devastated' Over Report Of Husband's ******",
         "image": "https://media.zenfs.com/en/the_huffington_post_584/58f2dbbc246ec2e3d360d2aca532b996",
         "link": "https://www.yahoo.com/news/articles/kristi-noem-devastated-over-report-184240763.html",
         "summary": "..."
     },
     {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Oil plunges, stocks soar after Iranian president offers first signs of willingness to end war with US",
+        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-03/4bcd2d10-2d2a-11f1-b7fa-c98484d477b1",
+        "link": "https://finance.yahoo.com/news/oil-plunges-stocks-soar-after-iranian-president-offers-first-signs-of-willingness-to-end-war-with-us-183158792.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Iconic Las Vegas Strip destination closes without warning",
+        "image": "https://media.zenfs.com/en/thestreet_881/917b1666fbf1f42f8a11d270d924a7f9",
+        "link": "https://finance.yahoo.com/economy/articles/iconic-las-vegas-strip-destination-210350999.html",
+        "summary": "..."
+    },
+    {
         "source": "Deutsche Welle",
-        "title": "Artemis II: NASA readies to launch astronauts to moon",
+        "title": "NASA's Artemis II rocket lifts off for the moon",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/artemis-ii-nasa-readies-to-launch-astronauts-to-moon/a-76631089?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Artemis II will bring humans back close to the moon for the first time since 1972 and mark the farthest humans have ever traveled in space...."
+        "link": "https://www.dw.com/en/nasa-s-artemis-ii-rocket-lifts-off-for-the-moon/a-76631089?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Artemis II is the first crewed spacecraft to head to the moon since 1972...."
     },
     {
         "source": "Deutsche Welle",
