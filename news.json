@@ -36,16 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Israeli parliament passes budget, allowing Netanyahu to avoid early elections",
-        "image": "https://media.zenfs.com/en/ap.org/995c79e72aed3f59090629a9d60e46db",
-        "link": "https://www.yahoo.com/news/articles/israeli-parliament-passes-budget-allowing-080912761.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Bullet That Killed Charlie Kirk Doesn't Match Tyler Robinson's Rifle, His Lawyers Claim",
-        "image": "https://media.zenfs.com/en/people_218/04fe65e5bc48554827958fc430a46c37",
-        "link": "https://www.yahoo.com/news/articles/bullet-killed-charlie-kirk-doesnt-165220873.html",
+        "title": "Ukrainian drones strike Russia's Ust-Luga port again, sources say oil terminal hit",
+        "image": "https://media.zenfs.com/en/reuters.com/dde103b0753231353ef93fbd0e5eb352",
+        "link": "https://www.yahoo.com/news/articles/ukraine-drones-damage-russias-ust-050451881.html",
         "summary": "..."
     },
     {
@@ -57,17 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Bloodthirsty Senator Lindsey Graham\u2019s Three-Day Disney Extravaganza Exposed",
-        "image": "https://media.zenfs.com/en/video.dailybeast.com/012ec11472f23ceb49098ec81447a34a",
-        "link": "https://www.yahoo.com/news/videos/megyn-kelly-loses-homicidal-maniac-093323038.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Kristi Noem 'Devastated' Over Report Of Husband's ******",
         "image": "https://media.zenfs.com/en/the_huffington_post_584/4a0cf96c65fc0e2b1dcead62c48a984b",
         "link": "https://www.yahoo.com/news/articles/kristi-noem-devastated-over-report-184240763.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "A Florida hospital drops its lawsuit against a woman who refused to leave the facility",
+        "image": "https://media.zenfs.com/en/ap.org/c5688750e2cc52c33ad4aeb43dc7f212",
+        "link": "https://www.yahoo.com/news/articles/florida-hospital-drops-lawsuit-against-160824150.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Bullet That Killed Charlie Kirk Doesn't Match Tyler Robinson's Rifle, His Lawyers Claim",
+        "image": "https://media.zenfs.com/en/people_218/04fe65e5bc48554827958fc430a46c37",
+        "link": "https://www.yahoo.com/news/articles/bullet-killed-charlie-kirk-doesnt-165220873.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Tiger Woods 'stepping away' for treatment after DUI arrest",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/tiger-woods-stepping-away-for-treatment-after-dui-arrest/a-76615488?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Tiger Woods has announced a break from golf four days after he crashed his SUV and was arrested for driving under influence. Fans had been awaiting hi..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Trump says US will be 'leaving soon'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-trump-says-us-will-be-leaving-soon/live-76615254?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "President Donald Trump said the US could leave Iran in the next two to three weeks even if the Strait of Hormuz remains shut. Plus, Marco Rubio said t..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/deterrent-or-danger-after-iran-are-saudi-arabia-and-turkey-next-in-line-for-nuclear-weapons/a-76613406?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The nuclear threat in the Middle East is growing due to the Iran war, and not just because nuclear sites in Iran and Israel are being attacked. Other ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Senegal: President signs off on LGBTQ law doubling maximum jail term for same-sex relations",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/senegal-president-signs-off-on-lgbtq-law-doubling-maximum-jail-term-for-same-sex-relations/a-76612496?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Senegal's President Bassirou Diomaye Faye enacted the new law after it resoundingly cleared parliament earlier this month. It also penalizes those \"pr..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US Supreme Court rejects Colorado's 'conversion therapy' ban",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-supreme-court-rejects-colorado-s-conversion-therapy-ban/a-76613464?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Colorado had banned therapy seeking to change the sexual orientation or gender identity of LGBTQ patients under 18. Over 20 US states and much of Euro..."
     },
     {
         "source": "Leafly",
