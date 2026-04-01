@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Bloodthirsty Senator Lindsey Graham\u2019s Three-Day Disney Extravaganza Exposed",
-        "image": "https://media.zenfs.com/en/video.dailybeast.com/012ec11472f23ceb49098ec81447a34a",
-        "link": "https://www.yahoo.com/news/videos/megyn-kelly-loses-homicidal-maniac-093323038.html",
+        "title": "Oil plunges, stocks soar after Iranian president offers first signs of willingness to end war with US",
+        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-03/4bcd2d10-2d2a-11f1-b7fa-c98484d477b1",
+        "link": "https://finance.yahoo.com/news/oil-plunges-stocks-soar-after-iranian-president-offers-first-signs-of-willingness-to-end-war-with-us-183158792.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/thestreet_881/917b1666fbf1f42f8a11d270d924a7f9",
         "link": "https://finance.yahoo.com/economy/articles/iconic-las-vegas-strip-destination-210350999.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "NASA's Artemis II set to take off for moon voyage",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/nasa-s-artemis-ii-set-to-take-off-for-moon-voyage/a-76631089?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Artemis II will bring humans back close to the moon for the first time since 1972 and mark the farthest humans have ever traveled in space...."
     },
     {
         "source": "Deutsche Welle",
@@ -98,11 +105,18 @@
         "summary": "Iran's Foreign Ministry has denied Trump's claim that a ceasefire has been requested. Meanwhile, an Iranian missile has wounded 14 people in central I..."
     },
     {
-        "source": "Deutsche Welle",
-        "title": "Germany: Conservatives call cannabis legalization 'a nonstarter' as 2-year report is filed",
+        "source": "Leafly",
+        "title": "A once-in-a-lifetime 420 opportunity from Fast Buds",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-conservatives-call-cannabis-legalization-a-nonstarter-as-2-year-report-is-filed/a-76621900?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Conservatives see a two-year report on Germany's partial legalization of cannabis as evidence that it's been a failure. While the findings may be more..."
+        "link": "https://www.leafly.com/news/strains-products/a-once-in-a-lifetime-opportunity-from-fast-buds",
+        "summary": "<p>For a limited time, you can get 10 seeds of Gorilla Z for just $24. </p>\n<p>The post <a href=\"https://www.leafly.com/news/strains-products/a-once-i..."
+    },
+    {
+        "source": "Leafly",
+        "title": "From the Earth is your best bud this 420",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.leafly.com/news/strains-products/from-the-earth-is-your-best-bud-this-420",
+        "summary": "<p>Save all month long with these limited-time deals on Illicit products This 420, it pays to have good buds. That&#8217;s why From the Earth is pulli..."
     },
     {
         "source": "Leafly",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.leafly.com/news/strains-products/the-green-standard-is-celebrating-you-this-420",
         "summary": "<p>This 420, The Green Standard is going all out to celebrate you&#8212;the best patients anywhere. Stock up, save big, and go all in on their biggest..."
-    },
-    {
-        "source": "Leafly",
-        "title": "Apple Tartz in Michigan: See how Glacier Cannabis gets this heavy hitter just right",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.leafly.com/news/strains-products/apple-tartz-michigan-glacier-cannabis",
-        "summary": "<p>Jay Gans visits Glacier Cannabis to get a taste of Apple Tartz in Michigan, a sour-apple, berry-sweet cultivar shaping the state's market.</p>\n<p>T..."
-    },
-    {
-        "source": "Leafly",
-        "title": "Your way. Your 420. Your Story.",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.leafly.com/news/strains-products/your-way-your-420-your-story-arizona",
-        "summary": "<p>At Story Cannabis, we\u2019re celebrating our community with a full lineup of deals, drops, and daily surprises designed to make this your best 420 yet...."
     }
 ]
