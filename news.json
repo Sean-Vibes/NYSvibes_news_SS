@@ -50,24 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Bullet That Killed Charlie Kirk Doesn't Match Tyler Robinson's Rifle, His Lawyers Claim",
-        "image": "https://media.zenfs.com/en/people_218/04fe65e5bc48554827958fc430a46c37",
-        "link": "https://www.yahoo.com/news/articles/bullet-killed-charlie-kirk-doesnt-165220873.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "A Florida hospital drops its lawsuit against a woman who refused to leave the facility",
-        "image": "https://media.zenfs.com/en/ap.org/c5688750e2cc52c33ad4aeb43dc7f212",
-        "link": "https://www.yahoo.com/news/articles/florida-hospital-drops-lawsuit-against-160824150.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Kristi Noem 'Devastated' Over Report Of Husband's ******",
         "image": "https://media.zenfs.com/en/the_huffington_post_584/4a0cf96c65fc0e2b1dcead62c48a984b",
         "link": "https://www.yahoo.com/news/articles/kristi-noem-devastated-over-report-184240763.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Oil plunges, stocks soar after Iranian president offers first signs of willingness to end war with US",
+        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-03/4bcd2d10-2d2a-11f1-b7fa-c98484d477b1",
+        "link": "https://finance.yahoo.com/news/oil-plunges-stocks-soar-after-iranian-president-offers-first-signs-of-willingness-to-end-war-with-us-183158792.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump Tells Karoline Leavitt \u2018You\u2019re Doing a Terrible Job\u2019 While Complaining About Bad Publicity | Video",
+        "image": "https://media.zenfs.com/en/thewrap.com/e5d4b2ee5855be015e822130e0835c0a",
+        "link": "https://www.yahoo.com/news/articles/trump-tells-karoline-leavitt-doing-024802257.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Russian military plane crash in Crimea kills at least 29",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/russian-military-plane-crash-in-crimea-kills-at-least-29/a-76620125?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The plane crashed in a mountainous forest area not far from Crimea's capital, Simferopol. Since the Kremlin sent troops into Ukraine, incidents involv..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Cambodia: Alleged cyber scam boss extradited to China",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/cambodia-alleged-cyber-scam-boss-extradited-to-china/a-76619267?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Authorities say Li Xiong was arrested in Cambodia and deported at the request of Chinese authorities. He is linked to an accused scam center kingpin w..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Migrant boat capsizes in Turkey leaving 18 dead while 21 were rescued",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/migrant-boat-capsizes-in-turkey-leaving-18-dead-while-21-were-rescued/a-76619806?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Turkish authorities say the vessel attempted to evade its Coast Guard before sinking. At least 18 people drowned in the incident, 21 were rescued and ..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-new-rules-to-tamp-down-gasoline-price-hikes/live-76616425?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "German gas stations will now only be able to raise pump prices once a day as costs spiral for motorists. Meanwhile, an umbrella group for German citie..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: Jet fuel prices reach record high amid Iran war",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-jet-fuel-prices-reach-record-high-amid-iran-war/live-76615690?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Indian government has stepped in to limit the impact of record-high jet fuel prices on airlines and air fares. Commercial LPG cylinders have also ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Tiger Woods 'stepping away' for treatment after DUI arrest",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/tiger-woods-stepping-away-for-treatment-after-dui-arrest/a-76615488?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Tiger Woods has announced a break from golf four days after he crashed his SUV and was arrested for driving under influence. Fans had been awaiting hi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Trump says US will be 'leaving soon' as strikes hit Beirut, Tehran and central Israel",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-trump-says-us-will-be-leaving-soon-as-strikes-hit-beirut-tehran-and-central-israel/live-76615254?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "An Iranian missile has wounded 14 people in central Israel, while Israel bombed Beirut, killing seven. Meanwhile, Donald Trump has said the US could e..."
     },
     {
         "source": "Leafly",
