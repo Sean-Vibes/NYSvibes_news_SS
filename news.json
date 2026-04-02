@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Texas Officials Approve New Medical Marijuana Business Licenses Under Plan To Expand Patient Access",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/texas-officials-approve-new-medical-marijuana-business-licenses-under-plan-to-expand-patient-access/",
+        "summary": "<p>Texas officials have conditionally approved more new medical marijuana business licenses as part of a law that\u2019s being implemented to... <a class=\"..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "New FDA Enforcement Memo Clears Way For Hemp CBD Product Coverage Under New Medicare Plan",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/new-fda-enforcement-memo-clears-way-for-hemp-cbd-product-coverage-under-new-medicare-plan/",
+        "summary": "<p>The Food and Drug Administration (FDA) has issued guidance making clear that it does not intend to interfere with implementation... <a class=\"small..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Judge allows Medicare THC & CBD plan to launch amid lawsuit (Newsletter: April 2, 2026)",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/judge-allows-medicare-thc-cbd-plan-to-launch-amid-lawsuit-newsletter-april-2-2026/",
@@ -19,20 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/dr-oz-announces-launch-of-program-covering-hemp-thc-and-cbd-products-through-medicare/",
         "summary": "<p>Federal health officials on Wednesday announced the launch of a new Trump administration initiative to cover up to $500 worth... <a class=\"small fo..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Maryland Lawmakers Advance Bill To Extend Psychedelics Task Force Through 2027",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/maryland-lawmakers-advance-bill-to-extend-psychedelics-task-force-through-2027/",
-        "summary": "<p>Maryland House lawmakers have approved a Senate-passed bill to extend a psychedelics task force through the end of 2027 to... <a class=\"small font-..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Missouri Senate Passes Bill To Ban Intoxicating Hemp THC Products",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/missouri-senate-passes-bill-to-ban-intoxicating-hemp-thc-products/",
-        "summary": "<p>\u201cHemp farmers were there and were excluded from every negotiation over the very crops we grow. Let that sink in.... <a class=\"small font-montserrat..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Tennessee librarian fired for refusing to move more than 100 books from children's to adult section",
-        "image": "https://media.zenfs.com/en/ap.org/e47f47ca36df524386e952596d4c5685",
-        "link": "https://www.yahoo.com/news/articles/tennessee-librarian-fired-refusing-move-191548099.html",
+        "title": "Oil plunges, stocks soar after Iranian president offers first signs of willingness to end war with US",
+        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-03/4bcd2d10-2d2a-11f1-b7fa-c98484d477b1",
+        "link": "https://finance.yahoo.com/news/oil-plunges-stocks-soar-after-iranian-president-offers-first-signs-of-willingness-to-end-war-with-us-183158792.html",
         "summary": "..."
     },
     {
@@ -71,10 +71,24 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "How long can Iran's asymmetric strategy hold?",
+        "title": "As Iran war rages, Europe gears up for energy crisis",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-long-can-iran-s-asymmetric-strategy-hold/a-76643523?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After many years of sanctions, and weeks of US-Israeli bombing, the Iranian regime is shaken \u2014 but still very much capable of threatening the region...."
+        "link": "https://www.dw.com/en/as-iran-war-rages-europe-gears-up-for-energy-crisis/a-76641027?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The EU is waking up to an energy crisis and asking people to reduce energy consumption, as fears of a supply crunch set in. Energy analysts are callin..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Uganda: Four children stabbed dead at Kampala kindergarten",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/uganda-four-children-stabbed-dead-at-kampala-kindergarten/a-76645784?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The suspected assailant was arrested at the scene and remains in police custody. His motive remains unclear...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: How long can Tehran's asymmetric strategy hold?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-how-long-can-tehran-s-asymmetric-strategy-hold/a-76643523?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After many years of sanctions and weeks of US-Israeli bombing, the Iranian regime is shaken \u2014 but still very much capable of threatening the region...."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/semenya-hits-out-at-impact-of-olympic-ban-on-dsd-athletes/a-76641195?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Caster Semenya has had her gender scrutinized in public for years after winning two Olympic golds. She has hit out at what she sees as a policy that d..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany: Chancellor Merz has never been more unpopular",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-chancellor-merz-has-never-been-more-unpopular/a-76638860?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The CDU/CSU and SPD made many promises to voters. But according to polls, Germans are deeply disappointed with the governing coalition and have little..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Fact check: Donald Trump speaks on Iran, oil and economy",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fact-check-donald-trump-speaks-on-iran-oil-and-economy/a-76636405?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In a national address, US President Donald Trump spoke about the war in Iran and claimed that \"all of their original leaders\" are dead and that the US..."
     },
     {
         "source": "Leafly",
