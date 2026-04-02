@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Houston, we have a plumbing problem: astronauts face toilet trouble on Moon mission",
-        "image": "https://media.zenfs.com/en/the_telegraph_258/c93c3e41419561107f642661bde8530b",
-        "link": "https://www.yahoo.com/news/articles/caught-short-space-astronauts-face-133030867.html",
+        "title": "United Airlines Is Putting Its Foot Down And Booting Passengers Over This All-Too-Common Faux-Pas",
+        "image": "https://media.zenfs.com/en/islands_423/db61732d2879f99114d3982ad40e507e",
+        "link": "https://travel.yahoo.com/news/articles/united-airlines-putting-foot-down-234500876.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "United Airlines Is Putting Its Foot Down And Booting Passengers Over This All-Too-Common Faux-Pas",
-        "image": "https://media.zenfs.com/en/islands_423/db61732d2879f99114d3982ad40e507e",
-        "link": "https://travel.yahoo.com/news/articles/united-airlines-putting-foot-down-234500876.html",
+        "title": "Houston, we have a plumbing problem: astronauts face toilet trouble on Moon mission",
+        "image": "https://media.zenfs.com/en/the_telegraph_258/c93c3e41419561107f642661bde8530b",
+        "link": "https://www.yahoo.com/news/articles/caught-short-space-astronauts-face-133030867.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Macron dismisses Trump's 'inelegant' dig about his marriage",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/macron-dismisses-trump-s-inelegant-dig-about-his-marriage/a-76649630?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Trump took a dig at Macron while lambasting NATO, saying the French president's wife \"treats him extremely badly.\" Macron rejected the notion that the..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/as-iran-war-rages-europe-gears-up-for-energy-crisis/a-76641027?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The EU is waking up to an energy crisis and asking people to reduce energy consumption, as fears of a supply crunch set in. Energy analysts are callin..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Uganda: Four children stabbed dead at Kampala kindergarten",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uganda-four-children-stabbed-dead-at-kampala-kindergarten/a-76645784?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The suspected assailant was arrested at the scene and remains in police custody. His motive remains unclear...."
     },
     {
         "source": "Leafly",
