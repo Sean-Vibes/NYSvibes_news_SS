@@ -50,24 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Iconic Las Vegas Strip destination closes without warning",
+        "image": "https://media.zenfs.com/en/thestreet_881/917b1666fbf1f42f8a11d270d924a7f9",
+        "link": "https://finance.yahoo.com/economy/articles/iconic-las-vegas-strip-destination-210350999.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Kremlin, asked about its Donbas demands, says Ukraine should have pulled out 'yesterday'",
+        "image": "https://media.zenfs.com/en/reuters.com/42c7af24a088b604517ba7a11c1834a6",
+        "link": "https://www.yahoo.com/news/articles/kremlin-asked-donbas-demands-says-102951516.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Kristi Noem 'Devastated' Over Report Of Husband's ******",
         "image": "https://media.zenfs.com/en/the_huffington_post_584/58f2dbbc246ec2e3d360d2aca532b996",
         "link": "https://www.yahoo.com/news/articles/kristi-noem-devastated-over-report-184240763.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran army chief tells commanders to prepare for any attack, state media reports",
-        "image": "https://media.zenfs.com/en/reuters.com/a1394e1dcb684bdea0553adacf2a5ad9",
-        "link": "https://www.yahoo.com/news/articles/iran-army-chief-tells-commanders-082934448.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Trump says he fired Attorney General Pam Bondi",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-says-he-fired-attorney-general-pam-bondi/a-76648584?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Bondi has faced criticism in Washington over her handling of investigative files related to the late financier and sex offender Jeffrey Epstein...."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iconic Las Vegas Strip destination closes without warning",
-        "image": "https://media.zenfs.com/en/thestreet_881/917b1666fbf1f42f8a11d270d924a7f9",
-        "link": "https://finance.yahoo.com/economy/articles/iconic-las-vegas-strip-destination-210350999.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Burkina Faso: Army behind most civilian deaths \u2014 report",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/burkina-faso-army-behind-most-civilian-deaths-report/a-76648315?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Human Rights Watch says Burkina Faso's security forces and allied militias \"appear to be more brutal and violent\" than militant groups. The Fulani eth..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Middle East war: Few solutions to fuel shortages in Africa",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/middle-east-war-few-solutions-to-fuel-shortages-in-africa/a-76642504?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Africa is running low on fuel. The US-Israel-Iran war has sent fuel prices skyrocketing. Are African countries doing enough to calm the fuel market?..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/uganda-four-children-stabbed-dead-at-kampala-kindergarten/a-76645784?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The suspected assailant was arrested at the scene and remains in police custody. His motive remains unclear...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: How long can Tehran's asymmetric strategy hold?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-how-long-can-tehran-s-asymmetric-strategy-hold/a-76643523?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After many years of sanctions and weeks of US-Israeli bombing, the Iranian regime is shaken \u2014 but still very much capable of threatening the region...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Denmark: Warship sunk by Nelson's British fleet discovered",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/denmark-warship-sunk-by-nelson-s-british-fleet-discovered/a-76643490?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Over 200 years after being sunk by the British Royal Navy under Admiral Horatio Nelson, one of Denmark's most famous warships has been discovered at t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Semenya hits out at impact of Olympic ban on DSD athletes",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/semenya-hits-out-at-impact-of-olympic-ban-on-dsd-athletes/a-76641195?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Caster Semenya has had her gender scrutinized in public for years after winning two Olympic golds. She has hit out at what she sees as a policy that d..."
     },
     {
         "source": "Leafly",
