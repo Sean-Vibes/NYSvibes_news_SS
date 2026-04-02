@@ -71,6 +71,27 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Fact check: Donald Trump speaks on Iran, oil and economy",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/fact-check-donald-trump-speaks-on-iran-oil-and-economy/a-76636405?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "In a national address, US President Donald Trump spoke about the war in Iran and claimed that \"all of their original leaders\" are dead and that the US..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "'Drill baby drill': Trump opens wilderness to big energy",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/drill-baby-drill-trump-opens-wilderness-to-big-energy/a-76411423?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "America's beloved national parks and public lands face conservation rollbacks and sell-offs as the Trump administration pushes for fossil fuel and tim..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Thousands affected as Oracle cuts jobs globally, say reports",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-thousands-affected-as-oracle-cuts-jobs-globally-say-reports/live-76636409?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Up to 12,000 workers in India could reportedly be affected as the tech giant cuts jobs globally while boosting AI investment. DW has the latest...."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Germany news: Lufthansa marks centenary amid testing times",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-lufthansa-marks-centenary-amid-testing-times/live-76636435?maca=en-rss-en-all-1573-xml-mrss",
@@ -78,31 +99,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Wealth tax: Why are countries afraid to tax the ultrarich?",
+        "title": "Iran war: Oil prices jump, stocks fall after Trump speech",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/wealth-tax-why-are-countries-afraid-to-tax-the-ultrarich/a-76030278?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Growing income inequality and public displays of billionaire power are increasing calls for new income and wealth taxes aimed at the world's richest i..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Trump says US campaign 'nearing completion'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-trump-says-us-campaign-nearing-completion/live-76635831?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Donald Trump said US forces would bring Iran \"back to the Stone Ages\" as he addressed the American people on the war. Iran has vowed a \"crushing\" resp..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How US 'Liberation Day' tariffs reshaped global trade",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-us-liberation-day-tariffs-reshaped-global-trade/a-76303601?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "One year after Trump's \"Liberation Day\" tariffs, global trade flows have shifted. Trade data shows which countries gained, which lost \u2014 and who is foo..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hungary's Watergate: Secret service tried to infiltrate the political opposition",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hungary-s-watergate-secret-service-tried-to-infiltrate-the-political-opposition/a-76630921?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "On the eve of Hungary's elections, Prime Minister Viktor Orban's government has been rocked by an espionage scandal. The intelligence services are sai..."
+        "link": "https://www.dw.com/en/iran-war-oil-prices-jump-stocks-fall-after-trump-speech/live-76635831?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Donald Trump said US forces would bring Iran \"back to the Stone Ages\" as he addressed the American people on the war. Oil prices surged following his ..."
     },
     {
         "source": "Leafly",
