@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Trump Proposes To Keep Protecting State Medical Marijuana Laws From Federal Interference While Blocking DC From Legalizing Recreational Sales",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/trump-proposes-to-keep-protecting-state-medical-marijuana-laws-from-federal-interference-while-blocking-dc-from-legalizing-recreational-sales/",
+        "summary": "<p>President Donald Trump is requesting that Congress continue to protect state medical marijuana programs from federal interference while also mainta..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Feds Finalize New Rule Allowing Some Hemp Products As Medicare Advantage Benefits",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/feds-finalize-new-rule-allowing-some-hemp-products-as-medicare-advantage-benefits/",
@@ -28,17 +35,10 @@
         "summary": "<p>FDA CBD memo; MA anti-marijuana initiative faces lawsuit; DC mayor\u2019s cannabis drinks plan; TX medical marijuana licenses; VA prepares for... <a cla..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "DC Mayor Proposes To Let Medical Marijuana And Alcohol Companies Partner On THC Drinks",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/dc-mayor-proposes-to-let-medical-marijuana-and-alcohol-companies-partner-on-thc-drinks/",
-        "summary": "<p>The mayor of Washington, D.C. is proposing to allow medical marijuana companies to partner with local breweries and distilleries to... <a class=\"sm..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive: Universities of Wisconsin leaders looking to oust system president who refuses to quit",
-        "image": "https://media.zenfs.com/en/ap.org/a5e66f0f233a72ef7bc6342ff302cf07",
-        "link": "https://www.yahoo.com/news/articles/university-wisconsin-president-refuses-leave-171810898.html",
+        "title": "FBI team arrives in Cuba to investigate fatal shooting of US-flagged speedboat",
+        "image": "https://media.zenfs.com/en/ap.org/8e30d03122ae6c4a486342cd21d7daff",
+        "link": "https://www.yahoo.com/news/articles/fbi-team-arrives-cuba-investigate-153855715.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran army chief tells commanders to prepare for any attack, state media reports",
-        "image": "https://media.zenfs.com/en/reuters.com/a1394e1dcb684bdea0553adacf2a5ad9",
-        "link": "https://www.yahoo.com/news/articles/iran-army-chief-tells-commanders-082934448.html",
+        "title": "How we came to be: Scientists get first look at the evolution of early complex animals",
+        "image": "https://media.zenfs.com/en/ap.org/f4a9398ca544b9b22529f6ad31ffb548",
+        "link": "https://www.yahoo.com/news/articles/came-scientists-first-look-evolution-175953126.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Check Your Fridge: Cheese Recalled After 9 People Sickened by E. Coli",
-        "image": "https://media.zenfs.com/en/real_simple_700/c0bb537e3e3bc7b8500b90868d37ce4f",
-        "link": "https://www.yahoo.com/news/articles/check-fridge-cheese-recalled-9-161806946.html",
+        "title": "Drivers racing resulted in pedestrian death, Grand Junction police say",
+        "image": "https://media.zenfs.com/en/krex_articles_712/6b370ce501079faf4445928f9a8e076b",
+        "link": "https://www.yahoo.com/news/articles/police-arrest-suspects-connection-fatal-225627228.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Turkey and Armenia: When will the border crossings open?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/turkey-and-armenia-when-will-the-border-crossings-open/a-76648630?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Hostility between the two neighbors isolated them from each other for decades. Now Turkey's business community hopes the recent rapprochement will bri..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukraine-kharkiv-under-repeated-attack-on-1-500th-day-of-war/a-76652096?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Ukrainian authorities say Russia is deploying \"new tactics\" as the city of Kharkiv comes under rolling aerial assaults from missiles and drones fitted..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Myanmar coup leader Min Aung Hlaing elected president",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/myanmar-coup-leader-min-aung-hlaing-elected-president/a-76651408?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Myanmar's parliament has elected junta chief Min Aung Hlaing as president of the Southeast Asian country. He has effectively led Myanmar since the 202..."
     },
     {
         "source": "Leafly",
