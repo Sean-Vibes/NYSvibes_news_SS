@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive: Universities of Wisconsin leaders looking to oust system president who refuses to quit",
-        "image": "https://media.zenfs.com/en/ap.org/a5e66f0f233a72ef7bc6342ff302cf07",
-        "link": "https://www.yahoo.com/news/articles/university-wisconsin-president-refuses-leave-171810898.html",
+        "title": "Switzerland says cancelling U.S. Patriot missile system order an option",
+        "image": "https://media.zenfs.com/en/reuters.com/6cc4c735b8235511fa9d730ef6135305",
+        "link": "https://www.yahoo.com/news/articles/switzerland-says-cancelling-u-patriot-151909367.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "RKLB and Hypersonics: HASTE Missions Point to Defense Upside",
-        "image": "https://media.zenfs.com/en/zacks.com/899f4a67c16739337bd5e2385d087b15",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-hypersonics-haste-missions-point-143000500.html",
+        "title": "Heartbreak on I-64: Toddler Dies After 14-Year-Old Mother Crashes While Driving Drunk",
+        "image": "https://media.zenfs.com/en/guessing_headlights_178/be5ddd4372719684514f7ec709664c2e",
+        "link": "https://www.yahoo.com/news/articles/heartbreak-64-toddler-dies-14-182924052.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany: Easter peace marches planned in shadow of war",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-easter-peace-marches-planned-in-shadow-of-war/a-76644793?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany's peace movement is gearing up for its traditional Easter peace marches, with the war in the Middle East and the reintroduction of conscriptio..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Economist suggests autobahn speed limit amid Iran-enduced fuel price spike",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-economist-suggests-autobahn-speed-limit-amid-iran-enduced-fuel-price-spike/live-76650036?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A leading economist has recommended a temporary highway speed limit due to rising fuel costs amid the Iran war. Meanwhile, protesters are gearing up f..."
     },
     {
         "source": "Deutsche Welle",
@@ -88,21 +102,7 @@
         "title": "Iran war: UNSC to vote on Gulf-led resolution to open Hormuz",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-unsc-to-vote-on-gulf-led-resolution-to-open-hormuz/live-76649854?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The UN Security Council will vote on a Bahraini proposal on the use of \"defensive means\" to open the Strait of Hormuz. Donald Trump warned the US will..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Macron dismisses Trump's 'inelegant' dig about his marriage",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/macron-dismisses-trump-s-inelegant-dig-about-his-marriage/a-76649630?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Trump took a dig at Macron while lambasting NATO, saying the French president's wife \"treats him extremely badly.\" Macron rejected the notion that the..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hungary's government accused of spying on opposition as key election nears",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hungary-s-government-accused-of-spying-on-opposition-as-key-election-nears/a-76630921?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Prime Minister Viktor Orban's government used the country's intelligence service to spy on the opposition Tisza Party, says investigative platform Dir..."
+        "summary": "The UN Security Council will vote on a Bahraini proposal on the use of \"defensive means\" to open the Strait of Hormuz. Donald Trump has warned the US ..."
     },
     {
         "source": "Leafly",
