@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Feds Finalize New Rule Allowing Some Hemp Products As Medicare Advantage Benefits",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/feds-finalize-new-rule-allowing-some-hemp-products-as-medicare-advantage-benefits/",
+        "summary": "<p>Federal officials have finalized a rule that will allow coverage of some hemp products as specialized, non-primarily health-related benefits throug..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "North Carolina Governor Steps Up Push For Marijuana Legalization As State Commission Issues New Report",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/north-carolina-governor-steps-up-push-for-marijuana-legalization-as-state-commission-issues-new-report/",
@@ -28,17 +35,10 @@
         "summary": "<p>The mayor of Washington, D.C. is proposing to allow medical marijuana companies to partner with local breweries and distilleries to... <a class=\"sm..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Massachusetts Marijuana Businesses File Lawsuit To Keep Legalization Rollback Measure Off Ballot",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/massachusetts-marijuana-businesses-file-lawsuit-to-keep-legalization-rollback-measure-off-ballot/",
-        "summary": "<p>Massachusetts marijuana businesses have filed a lawsuit aiming to block an initiative to roll back the state\u2019s voter-approved legalization law... <..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran army chief tells commanders to prepare for any attack, state media reports",
-        "image": "https://media.zenfs.com/en/reuters.com/a1394e1dcb684bdea0553adacf2a5ad9",
-        "link": "https://www.yahoo.com/news/articles/iran-army-chief-tells-commanders-082934448.html",
+        "title": "Exclusive: Universities of Wisconsin leaders looking to oust system president who refuses to quit",
+        "image": "https://media.zenfs.com/en/ap.org/a5e66f0f233a72ef7bc6342ff302cf07",
+        "link": "https://www.yahoo.com/news/articles/university-wisconsin-president-refuses-leave-171810898.html",
         "summary": "..."
     },
     {
@@ -57,24 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Reporter who was kidnapped in Baghdad is known for pursuing gutsy, low-budget assignments",
-        "image": "https://media.zenfs.com/en/ap.org/ecf1ca5df685e1ee4a5ff424a9addc91",
-        "link": "https://www.yahoo.com/news/articles/reporter-kidnapped-baghdad-known-pursuing-155933720.html",
+        "title": "How we came to be: Scientists get first look at the evolution of early complex animals",
+        "image": "https://media.zenfs.com/en/ap.org/f4a9398ca544b9b22529f6ad31ffb548",
+        "link": "https://www.yahoo.com/news/articles/came-scientists-first-look-evolution-175953126.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former NASA administrator cals Artemis II mission a \u2018baby step\u2019 to Mars",
-        "image": "https://media.zenfs.com/en/fox_weather_videos_202/cf3302309a35c6de82e0e58a15e4ff75",
-        "link": "https://www.yahoo.com/news/videos/former-nasa-administrator-cals-artemis-113558109.html",
+        "title": "Navy Researchers Scanned the Seafloor and Tracked a Ping. Then They Found a Staggering 500-Year-Old Shipwreck.",
+        "image": "https://media.zenfs.com/en/popular_mechanics_642/e87d176d8ae548c2c0711fa6f08b591c",
+        "link": "https://www.yahoo.com/news/articles/navy-researchers-scanned-seafloor-tracked-141946852.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iran war: US fighter jet reportedly shot down over Iran",
+        "title": "Iran war: One downed US fighter jet pilot rescued",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-us-fighter-jet-reportedly-shot-down-over-iran/live-76649854?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A US fighter jet was shot down over Iran and a rescue mission was launched, US media report. Meanwhile, the number of ships transiting the Strait of H..."
+        "link": "https://www.dw.com/en/iran-war-one-downed-us-fighter-jet-pilot-rescued/live-76649854?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "One crew member of a US fighter jet downed over Iran has been rescued and an operation to find another is still underway, according to US and Israeli ..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,13 +82,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/greek-ministers-resign-over-eu-farming-subsidy-scandal/a-76654731?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A scandal over the misuse of EU subsidies has triggered ministerial resignations in Greece. Beneficiaries allegedly made claims for land and livestock..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Inside India's courts, AI's growing role sparks concern",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/inside-india-s-courts-ai-s-growing-role-sparks-concern/a-76653611?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The increasing use of artificial intelligence in courtrooms raises worries that the technology may aggravate bias and structural distortions in the le..."
     },
     {
         "source": "Deutsche Welle",
@@ -103,6 +96,13 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukraine-kharkiv-under-repeated-attack-on-1-500th-day-of-war/a-76652096?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Ukrainian authorities say Russia is deploying \"new tactics\" as the city of Kharkiv comes under rolling aerial assaults from missiles and drones fitted..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Myanmar coup leader Min Aung Hlaing elected president",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/myanmar-coup-leader-min-aung-hlaing-elected-president/a-76651408?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Myanmar's parliament has elected junta chief Min Aung Hlaing as president of the Southeast Asian country. He has effectively led Myanmar since the 202..."
     },
     {
         "source": "Leafly",
