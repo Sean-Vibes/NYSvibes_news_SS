@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Switzerland says cancelling U.S. Patriot missile system order an option",
-        "image": "https://media.zenfs.com/en/reuters.com/6cc4c735b8235511fa9d730ef6135305",
-        "link": "https://www.yahoo.com/news/articles/switzerland-says-cancelling-u-patriot-151909367.html",
+        "title": "Exclusive: Universities of Wisconsin leaders looking to oust system president who refuses to quit",
+        "image": "https://media.zenfs.com/en/ap.org/a5e66f0f233a72ef7bc6342ff302cf07",
+        "link": "https://www.yahoo.com/news/articles/university-wisconsin-president-refuses-leave-171810898.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Heartbreak on I-64: Toddler Dies After 14-Year-Old Mother Crashes While Driving Drunk",
-        "image": "https://media.zenfs.com/en/guessing_headlights_178/be5ddd4372719684514f7ec709664c2e",
-        "link": "https://www.yahoo.com/news/articles/heartbreak-64-toddler-dies-14-182924052.html",
+        "title": "The Internet Is Having A Field Day After Donald Trump Literally Said He \"Doesn't Believe In Building Libraries\"",
+        "image": "https://media.zenfs.com/en/buzzfeed_articles_778/7a23858d27d9567e690ee3083209d580",
+        "link": "https://www.yahoo.com/news/articles/internet-having-field-day-donald-214902550.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Myanmar coup leader Min Aung Hlaing elected president",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/myanmar-coup-leader-min-aung-hlaing-elected-president/a-76651408?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Myanmar's parliament has elected junta chief Min Aung Hlaing as president of the Southeast Asian country. He has effectively led Myanmar since the 202..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: New Delhi urges Hormuz reopening at UK-hosted summit",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-new-delhi-urges-hormuz-reopening-at-uk-hosted-summit/live-76650039?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "At a meeting of over 60 countries hosted by the UK, India pointed out that it is the only country to have lost mariners in attacks on merchant shippin..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/are-iran-allied-paramilitaries-dragging-iraq-into-the-war/a-76643752?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "After a large convoy of Iraqis crossed into Iran this week, observers worried they would join Iran's war effort against the US and Israel. But, expert..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Artemis II astronauts leave Earth's orbit, rocket towards moon",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/artemis-ii-astronauts-leave-earth-s-orbit-rocket-towards-moon/a-76649996?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Artemis II astronauts have officially begun their journey to the moon after conducting a successful thruster firing. Humans are set to fly around the ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: UNSC to vote on Gulf-led resolution to open Hormuz",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-unsc-to-vote-on-gulf-led-resolution-to-open-hormuz/live-76649854?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The UN Security Council will vote on a Bahraini proposal on the use of \"defensive means\" to open the Strait of Hormuz. Donald Trump has warned the US ..."
     },
     {
         "source": "Leafly",
