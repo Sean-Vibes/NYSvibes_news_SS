@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran army chief tells commanders to prepare for any attack, state media reports",
-        "image": "https://media.zenfs.com/en/reuters.com/a1394e1dcb684bdea0553adacf2a5ad9",
-        "link": "https://www.yahoo.com/news/articles/iran-army-chief-tells-commanders-082934448.html",
+        "title": "Fox News Throws Pam Bondi Under the Bus After Brutal Firing",
+        "image": "https://media.zenfs.com/en/video.dailybeast.com/5ee8e351c7834cb2118d114a9ce2a844",
+        "link": "https://www.yahoo.com/news/videos/fox-news-throws-pam-bondi-060259803.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/buzzfeed_articles_778/7a23858d27d9567e690ee3083209d580",
         "link": "https://www.yahoo.com/news/articles/internet-having-field-day-donald-214902550.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Cuba: 2,000 prisoners pardoned in Holy Week gesture",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/cuba-2-000-prisoners-pardoned-in-holy-week-gesture/a-76652679?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The move, which Cuba has described as a \"humanitarian\" gesture, comes after the United States allowed a Russian oil tanker to deliver crude to the isl..."
     },
     {
         "source": "Deutsche Welle",
@@ -85,10 +92,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "India news: New Delhi urges Hormuz reopening at UK-hosted summit",
+        "title": "India news: Modi, Gandhi invoke Jesus Christ's teachings on Good Friday",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-new-delhi-urges-hormuz-reopening-at-uk-hosted-summit/live-76650039?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "At a meeting of over 60 countries hosted by the UK, India pointed out that it is the only country to have lost mariners in attacks on merchant shippin..."
+        "link": "https://www.dw.com/en/india-news-modi-gandhi-invoke-jesus-christ-s-teachings-on-good-friday/live-76650039?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Indian leaders marked Good Friday with messages of reflection, compassion and unity. Meanwhile, an Iranian crude oil tanker bound for India has divert..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-easter-peace-marches-planned-in-shadow-of-war/a-76644793?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Germany's peace movement is gearing up for its traditional Easter peace marches, with the war in the Middle East and the reintroduction of conscriptio..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Economist suggests autobahn speed limit amid Iran-enduced fuel price spike",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-economist-suggests-autobahn-speed-limit-amid-iran-enduced-fuel-price-spike/live-76650036?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A leading economist has recommended a temporary highway speed limit due to rising fuel costs amid the Iran war. Meanwhile, protesters are gearing up f..."
     },
     {
         "source": "Leafly",
