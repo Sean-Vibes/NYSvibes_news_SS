@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Switzerland says cancelling U.S. Patriot missile system order an option",
-        "image": "https://media.zenfs.com/en/reuters.com/6cc4c735b8235511fa9d730ef6135305",
-        "link": "https://www.yahoo.com/news/articles/switzerland-says-cancelling-u-patriot-151909367.html",
+        "title": "Exclusive: Universities of Wisconsin leaders looking to oust system president who refuses to quit",
+        "image": "https://media.zenfs.com/en/ap.org/a5e66f0f233a72ef7bc6342ff302cf07",
+        "link": "https://www.yahoo.com/news/articles/university-wisconsin-president-refuses-leave-171810898.html",
         "summary": "..."
     },
     {
@@ -57,24 +57,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive: Universities of Wisconsin leaders looking to oust system president who refuses to quit",
-        "image": "https://media.zenfs.com/en/ap.org/a5e66f0f233a72ef7bc6342ff302cf07",
-        "link": "https://www.yahoo.com/news/articles/university-wisconsin-president-refuses-leave-171810898.html",
+        "title": "Iran army chief tells commanders to prepare for any attack, state media reports",
+        "image": "https://media.zenfs.com/en/reuters.com/a1394e1dcb684bdea0553adacf2a5ad9",
+        "link": "https://www.yahoo.com/news/articles/iran-army-chief-tells-commanders-082934448.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump Tells Karoline Leavitt \u2018You\u2019re Doing a Terrible Job\u2019 While Complaining About Bad Publicity | Video",
-        "image": "https://media.zenfs.com/en/thewrap.com/e5d4b2ee5855be015e822130e0835c0a",
-        "link": "https://www.yahoo.com/news/articles/trump-tells-karoline-leavitt-doing-024802257.html",
+        "title": "RKLB and Hypersonics: HASTE Missions Point to Defense Upside",
+        "image": "https://media.zenfs.com/en/zacks.com/899f4a67c16739337bd5e2385d087b15",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/rklb-hypersonics-haste-missions-point-143000500.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Are Iran-allied paramilitaries dragging Iraq into the war?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/are-iran-allied-paramilitaries-dragging-iraq-into-the-war/a-76643752?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After a large convoy of Iraqis crossed into Iran this week, observers worried they would join Iran's war effort against the US and Israel. But, expert..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Artemis II astronauts leave Earth's orbit, rocket towards moon",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/artemis-ii-astronauts-leave-earth-s-orbit-rocket-towards-moon/a-76649996?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Artemis II astronauts have officially begun their journey to the moon after conducting a successful thruster firing. Humans are set to fly around the ..."
     },
     {
         "source": "Deutsche Welle",
         "title": "Iran war: UNSC to vote on Gulf-led resolution to open Hormuz",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-unsc-to-vote-on-gulf-led-resolution-to-open-hormuz/live-76649854?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The UN Security Council is set to vote on a Bahraini resolution to allow countries to use \"defensive means\" to open the Strait of Hormuz. DW has the l..."
+        "summary": "The UN Security Council will vote on a Bahraini proposal on the use of \"defensive means\" to open the Strait of Hormuz. Donald Trump warned the US will..."
     },
     {
         "source": "Deutsche Welle",
@@ -85,24 +99,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Trump removes Attorney General Pam Bondi",
+        "title": "Hungary's government accused of spying on opposition as key election nears",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-removes-attorney-general-pam-bondi/a-76648584?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Bondi has faced criticism in Washington over her handling of investigative files related to the late financier and sex offender Jeffrey Epstein...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Burkina Faso: Army behind most civilian deaths \u2014 report",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/burkina-faso-army-behind-most-civilian-deaths-report/a-76648315?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Human Rights Watch says Burkina Faso's security forces and allied militias \"appear to be more brutal and violent\" than militant groups. The Fulani eth..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Middle East war: Few solutions to fuel shortages in Africa",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/middle-east-war-few-solutions-to-fuel-shortages-in-africa/a-76642504?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Africa is running low on fuel. The US-Israel-Iran war has sent fuel prices skyrocketing. Are African countries doing enough to calm the fuel market?..."
+        "link": "https://www.dw.com/en/hungary-s-government-accused-of-spying-on-opposition-as-key-election-nears/a-76630921?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Prime Minister Viktor Orban's government used the country's intelligence service to spy on the opposition Tisza Party, says investigative platform Dir..."
     },
     {
         "source": "Leafly",
