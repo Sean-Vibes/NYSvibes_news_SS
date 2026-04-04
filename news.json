@@ -36,30 +36,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "FBI team arrives in Cuba to investigate fatal shooting of US-flagged speedboat",
-        "image": "https://media.zenfs.com/en/ap.org/8e30d03122ae6c4a486342cd21d7daff",
-        "link": "https://www.yahoo.com/news/articles/fbi-team-arrives-cuba-investigate-153855715.html",
+        "title": "President Trump delivers new executive order attempting to regulate college sports",
+        "image": "https://s.yimg.com/uu/api/res/1.2/QOTsZFcWK_jIvUywvrlCIg--~B/aD0zODI1O3c9NTc5NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-03/70230763-7bab-4eb4-ae1e-913100c865ab",
+        "link": "https://sports.yahoo.com/mens-college-basketball/article/president-trump-delivers-new-executive-order-attempting-to-regulate-college-sports-165338483.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Rosenblatt Bullish on Micron Technology (MU) Amid Strong Revenue Growth",
-        "image": "https://media.zenfs.com/en/insidermonkey.com/c026ccdca6f77118883500c54b4c5b9e",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/rosenblatt-bullish-micron-technology-mu-185850281.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "MDOT: US-131 shut down as tanker truck burns",
-        "image": "https://media.zenfs.com/en/wood_articles_694/5c5538383c81f4dd1859f8a191f577d8",
-        "link": "https://www.yahoo.com/news/articles/mdot-us-131-shut-down-124718000.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hegseth says he will allow troops to take personal weapons onto military bases",
-        "image": "https://media.zenfs.com/en/ap.org/8ca36ab69218819c88e3bb0cdba50a77",
-        "link": "https://www.yahoo.com/news/articles/hegseth-says-allow-troops-personal-235216850.html",
+        "title": "Florida Man Stops to Help Crash Victim Near Disney World, Gets Brutally Attacked for His Trouble",
+        "image": "https://media.zenfs.com/en/guessing_headlights_178/d09661d7f56b3d2de851db09df982fbb",
+        "link": "https://www.yahoo.com/news/articles/florida-man-stops-help-crash-120034380.html",
         "summary": "..."
     },
     {
@@ -68,6 +54,34 @@
         "image": "https://media.zenfs.com/en/forbes_contributor_845/372968dde0b3895e635c945593c26e15",
         "link": "https://www.yahoo.com/news/articles/fbi-warns-iphone-android-users-053319444.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Exclusive: Universities of Wisconsin leaders looking to oust system president who refuses to quit",
+        "image": "https://media.zenfs.com/en/ap.org/a5e66f0f233a72ef7bc6342ff302cf07",
+        "link": "https://www.yahoo.com/news/articles/university-wisconsin-president-refuses-leave-171810898.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "TSMC reportedly plans to build 12 fabs, four packaging facilities in Arizona \u2014 plan purportedly part of Taiwan's agreed $500 million investment in the US",
+        "image": "https://media.zenfs.com/en/toms_hardware_319/6020fbbe18840d4a005ac31248365fcd",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/tsmc-reportedly-plans-build-12-115507922.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Kenya: Energy  executives step down amid fuel manipulation probe",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/kenya-energy-executives-step-down-amid-fuel-manipulation-probe/a-76663649?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Five senior figures were arrested on allegations of purchasing an emergency fuel shipment at inflated prices. They are accused of trying to exploit th..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Displaced in Lebanon: 'Lives turned upside down'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/displaced-in-lebanon-lives-turned-upside-down/a-76662137?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Over 1.1 million Lebanese have fled their homes due to fighting in the south of the country and Israeli bombing of Beirut's suburbs. DW met a family s..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/young-german-men-refusing-military-service/a-76593888?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Military service remains voluntary in Germany. However, with the Bundeswehr needing more soldiers, conscription could soon return. But an increasing n..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Peru: Stadium crush leaves one dead, dozens injured",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/peru-stadium-crush-leaves-one-dead-dozens-injured/a-76660551?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The incident occurred as a large crowd of soccer fans gathered for a \"flag-waving event\" at Alejandro Villanueva Stadium in Lima...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why have US-South Africa relations soured?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-have-us-south-africa-relations-soured/a-76655817?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US President Donald Trump wants to sideline South Africa on the world stage. What is his issue with the country and when did things start going south?..."
     },
     {
         "source": "Leafly",
