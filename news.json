@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hegseth says he will allow troops to take personal weapons onto military bases",
-        "image": "https://media.zenfs.com/en/ap.org/8ca36ab69218819c88e3bb0cdba50a77",
-        "link": "https://www.yahoo.com/news/articles/hegseth-says-allow-troops-personal-235216850.html",
+        "title": "President Trump delivers new executive order attempting to regulate college sports",
+        "image": "https://s.yimg.com/uu/api/res/1.2/QOTsZFcWK_jIvUywvrlCIg--~B/aD0zODI1O3c9NTc5NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-03/70230763-7bab-4eb4-ae1e-913100c865ab",
+        "link": "https://sports.yahoo.com/mens-college-basketball/article/president-trump-delivers-new-executive-order-attempting-to-regulate-college-sports-165338483.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "How we came to be: Scientists get first look at the evolution of early complex animals",
-        "image": "https://media.zenfs.com/en/ap.org/f4a9398ca544b9b22529f6ad31ffb548",
-        "link": "https://www.yahoo.com/news/articles/came-scientists-first-look-evolution-175953126.html",
+        "title": "FBI team arrives in Cuba to investigate fatal shooting of US-flagged speedboat",
+        "image": "https://media.zenfs.com/en/ap.org/8e30d03122ae6c4a486342cd21d7daff",
+        "link": "https://www.yahoo.com/news/articles/fbi-team-arrives-cuba-investigate-153855715.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,27 @@
         "image": "https://media.zenfs.com/en/kswb_articles_601/f3dc1754881a98562f41798bbaa57a1d",
         "link": "https://www.yahoo.com/news/articles/crash-blocks-multiple-lanes-northbound-143834334.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: LPG tanker headed for Mumbai crosses Strait of Hormuz",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-lpg-tanker-headed-for-mumbai-crosses-strait-of-hormuz/live-76658437?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Green Sanvi becomes the seventh India-bound LPG vessel through the strait amid Iran war disruptions, as New Delhi scrambles to secure fuel supplies. D..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine: 14 people killed in 'massive' Russian attack on 1,500th day of war",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-14-people-killed-in-massive-russian-attack-on-1-500th-day-of-war/a-76652096?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ukrainian authorities say Russia is deploying \"new tactics\" as the country came under rolling aerial daytime assaults from missiles and drones fitted ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "'Drill baby drill': Trump opens wilderness to big energy",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/drill-baby-drill-trump-opens-wilderness-to-big-energy/a-76411423?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "America's beloved national parks and public lands face conservation rollbacks and sell-offs as the Trump administration pushes for fossil fuel and tim..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/afghanistan-earthquake-of-magnitude-5-9-kills-at-least-8/a-76657899?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Authorities said that damage remains under assessment and may be delayed because of the remoteness of the center of the quake. Tremors were also felt ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Search on for missing crew member of downed US jet",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-search-on-for-missing-crew-member-of-downed-us-jet/live-76657680?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US is racing against time and Iranian forces to recover a missing crew member of an F-15 fighter jet that was downed over Iran. Meanwhile, the UN ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump seeks $1.5T for defense, 10% cut to domestic programs",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-seeks-1-5t-for-defense-10-cut-to-domestic-programs/a-76657289?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US budget proposals come as Washington faces rising costs from the Iran war and seeks to rebuild weapons stockpiles. The president said he also wa..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Turkey and Armenia: When will the border crossings open?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/turkey-and-armenia-when-will-the-border-crossings-open/a-76648630?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Hostility between the two neighbors isolated them from each other for decades. Now Turkey's business community hopes the recent rapprochement will bri..."
     },
     {
         "source": "Leafly",
