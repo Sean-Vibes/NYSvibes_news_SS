@@ -36,9 +36,30 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "President Trump delivers new executive order attempting to regulate college sports",
-        "image": "https://s.yimg.com/uu/api/res/1.2/QOTsZFcWK_jIvUywvrlCIg--~B/aD0zODI1O3c9NTc5NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-03/70230763-7bab-4eb4-ae1e-913100c865ab",
-        "link": "https://sports.yahoo.com/mens-college-basketball/article/president-trump-delivers-new-executive-order-attempting-to-regulate-college-sports-165338483.html",
+        "title": "Exclusive: Universities of Wisconsin leaders looking to oust system president who refuses to quit",
+        "image": "https://media.zenfs.com/en/ap.org/a5e66f0f233a72ef7bc6342ff302cf07",
+        "link": "https://www.yahoo.com/news/articles/university-wisconsin-president-refuses-leave-171810898.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "South Carolina Boutique Owner Arrested Again \u2014 for 15th Time in 2026 \u2014 After Customer Complaints",
+        "image": "https://media.zenfs.com/en/us_magazine_896/66df4a472c04ad3fe29152f4357869d7",
+        "link": "https://www.yahoo.com/news/articles/south-carolina-boutique-owner-arrested-165510792.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Heartbreak on I-64: Toddler Dies After 14-Year-Old Mother Crashes While Driving Drunk",
+        "image": "https://media.zenfs.com/en/guessing_headlights_178/be5ddd4372719684514f7ec709664c2e",
+        "link": "https://www.yahoo.com/news/articles/heartbreak-64-toddler-dies-14-182924052.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "How we came to be: Scientists get first look at the evolution of early complex animals",
+        "image": "https://media.zenfs.com/en/ap.org/f4a9398ca544b9b22529f6ad31ffb548",
+        "link": "https://www.yahoo.com/news/articles/came-scientists-first-look-evolution-175953126.html",
         "summary": "..."
     },
     {
@@ -49,25 +70,11 @@
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Navy Researchers Scanned the Seafloor and Tracked a Ping. Then They Found a Staggering 500-Year-Old Shipwreck.",
-        "image": "https://media.zenfs.com/en/popular_mechanics_642/e87d176d8ae548c2c0711fa6f08b591c",
-        "link": "https://www.yahoo.com/news/articles/navy-researchers-scanned-seafloor-tracked-141946852.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive: Universities of Wisconsin leaders looking to oust system president who refuses to quit",
-        "image": "https://media.zenfs.com/en/ap.org/a5e66f0f233a72ef7bc6342ff302cf07",
-        "link": "https://www.yahoo.com/news/articles/university-wisconsin-president-refuses-leave-171810898.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Once-booming cookie chain closes all stores after Chapter 11 filing",
-        "image": "https://media.zenfs.com/en/thestreet_881/9adb5491951a9575d494d902eb661c45",
-        "link": "https://finance.yahoo.com/sectors/healthcare/articles/once-booming-cookie-chain-closes-170400254.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Iran war: Search on for missing crew member of downed US jet",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-search-on-for-missing-crew-member-of-downed-us-jet/live-76657680?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US is racing against time and Iranian forces to recover a missing crew member of an F-15 fighter jet that was downed over Iran. Meanwhile, the UN ..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/greek-ministers-resign-over-eu-farming-subsidy-scandal/a-76654731?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A scandal over the misuse of EU subsidies has triggered ministerial resignations in Greece. Beneficiaries allegedly made claims for land and livestock..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Cuba: 2,000 prisoners pardoned in Holy Week gesture",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/cuba-2-000-prisoners-pardoned-in-holy-week-gesture/a-76652679?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The move, which Cuba has described as a \"humanitarian\" gesture, comes after the United States allowed a Russian oil tanker to deliver crude to the isl..."
     },
     {
         "source": "Leafly",
