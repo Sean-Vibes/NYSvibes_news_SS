@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hegseth says he will allow troops to take personal weapons onto military bases",
-        "image": "https://media.zenfs.com/en/ap.org/8ca36ab69218819c88e3bb0cdba50a77",
-        "link": "https://www.yahoo.com/news/articles/hegseth-says-allow-troops-personal-235216850.html",
+        "title": "President Trump delivers new executive order attempting to regulate college sports",
+        "image": "https://s.yimg.com/uu/api/res/1.2/QOTsZFcWK_jIvUywvrlCIg--~B/aD0zODI1O3c9NTc5NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-03/70230763-7bab-4eb4-ae1e-913100c865ab",
+        "link": "https://sports.yahoo.com/mens-college-basketball/article/president-trump-delivers-new-executive-order-attempting-to-regulate-college-sports-165338483.html",
         "summary": "..."
     },
     {
@@ -71,6 +71,13 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Germany news: People change Easter holiday plans amid crises",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-people-change-easter-holiday-plans-amid-crises/live-76650036?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germans are altering their travel plans for Easter and the months ahead due to conflicts, a new survey shows. The economy minister has rejected tax re..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Artemis II passes halfway point to Moon, sends Earth photos",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/artemis-ii-passes-halfway-point-to-moon-sends-earth-photos/a-76658844?maca=en-rss-en-all-1573-xml-mrss",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/drill-baby-drill-trump-opens-wilderness-to-big-energy/a-76411423?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "America's beloved national parks and public lands face conservation rollbacks and sell-offs as the Trump administration pushes for fossil fuel and tim..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Beauty as strategy: Why K-beauty is also a political success",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/beauty-as-strategy-why-k-beauty-is-also-a-political-success/a-76652311?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "K-beauty is more than just a cosmetics trend. South Korea has combined popular culture, innovation and national strategy to create a business model wh..."
     },
     {
         "source": "Leafly",
