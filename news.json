@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive: Universities of Wisconsin leaders looking to oust system president who refuses to quit",
-        "image": "https://media.zenfs.com/en/ap.org/a5e66f0f233a72ef7bc6342ff302cf07",
-        "link": "https://www.yahoo.com/news/articles/university-wisconsin-president-refuses-leave-171810898.html",
+        "title": "President Trump delivers new executive order attempting to regulate college sports",
+        "image": "https://s.yimg.com/uu/api/res/1.2/QOTsZFcWK_jIvUywvrlCIg--~B/aD0zODI1O3c9NTc5NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-03/70230763-7bab-4eb4-ae1e-913100c865ab",
+        "link": "https://sports.yahoo.com/mens-college-basketball/article/president-trump-delivers-new-executive-order-attempting-to-regulate-college-sports-165338483.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "How we came to be: Scientists get first look at the evolution of early complex animals",
-        "image": "https://media.zenfs.com/en/ap.org/f4a9398ca544b9b22529f6ad31ffb548",
-        "link": "https://www.yahoo.com/news/articles/came-scientists-first-look-evolution-175953126.html",
+        "title": "Exclusive: Universities of Wisconsin leaders looking to oust system president who refuses to quit",
+        "image": "https://media.zenfs.com/en/ap.org/a5e66f0f233a72ef7bc6342ff302cf07",
+        "link": "https://www.yahoo.com/news/articles/university-wisconsin-president-refuses-leave-171810898.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/kswb_articles_601/f3dc1754881a98562f41798bbaa57a1d",
         "link": "https://www.yahoo.com/news/articles/crash-blocks-multiple-lanes-northbound-143834334.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Afghanistan earthquake of magnitude 5.9 kills at least 8",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/afghanistan-earthquake-of-magnitude-5-9-kills-at-least-8/a-76657899?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Authorities said that damage remains under assessment and may be delayed because of the remoteness of the center of the quake. Tremors were also felt ..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-one-downed-us-fighter-jet-pilot-rescued/live-76649854?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "One crew member of a US fighter jet downed over Iran has been rescued and an operation to find another is still underway, according to US and Israeli ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Greek ministers resign over EU farming subsidy scandal",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/greek-ministers-resign-over-eu-farming-subsidy-scandal/a-76654731?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A scandal over the misuse of EU subsidies has triggered ministerial resignations in Greece. Beneficiaries allegedly made claims for land and livestock..."
     },
     {
         "source": "Leafly",
