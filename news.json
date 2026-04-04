@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Missouri Lawmakers Pass Bill To Ban Intoxicating Hemp THC Products, Sending It To Governor",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/missouri-lawmakers-pass-bill-to-ban-intoxicating-hemp-thc-products-sending-it-to-governor/",
+        "summary": "<p>The legislation also has provisions to protect marijuana consumers\u2019 privacy and cannabis workers\u2019 right to unionize. By Rebecca Rivas, Missouri... ..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Hawaii Senators Push Congress To Federally Legalize Marijuana And Clear Past Convictions",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/hawaii-senators-push-congress-to-federally-legalize-marijuana-and-clear-past-convictions/",
@@ -28,17 +35,17 @@
         "summary": "<p>A governor-appointed cannabis commission in North Carolina has issued an interim report after holding months of meetings focused on the... <a class..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "FBI Says Agents Can Invest And Work In Hemp Companies But Not Marijuana Industry, Newly Declassified Memo Shows",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/fbi-says-agents-can-invest-and-work-in-hemp-companies-but-not-marijuana-industry-newly-declassified-memo-shows/",
-        "summary": "<p>FBI agents received specific guidance prohibiting them investing in marijuana companies\u2014but not necessarily those that make hemp or CBD products\u2014ac..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "President Trump delivers new executive order attempting to regulate college sports",
         "image": "https://s.yimg.com/uu/api/res/1.2/QOTsZFcWK_jIvUywvrlCIg--~B/aD0zODI1O3c9NTc5NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-03/70230763-7bab-4eb4-ae1e-913100c865ab",
         "link": "https://sports.yahoo.com/mens-college-basketball/article/president-trump-delivers-new-executive-order-attempting-to-regulate-college-sports-165338483.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Rosenblatt Bullish on Micron Technology (MU) Amid Strong Revenue Growth",
+        "image": "https://media.zenfs.com/en/insidermonkey.com/c026ccdca6f77118883500c54b4c5b9e",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/rosenblatt-bullish-micron-technology-mu-185850281.html",
         "summary": "..."
     },
     {
@@ -50,13 +57,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "South Carolina Boutique Owner Arrested Again \u2014 for 15th Time in 2026 \u2014 After Customer Complaints",
-        "image": "https://media.zenfs.com/en/us_magazine_896/66df4a472c04ad3fe29152f4357869d7",
-        "link": "https://www.yahoo.com/news/articles/south-carolina-boutique-owner-arrested-165510792.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "FBI team arrives in Cuba to investigate fatal shooting of US-flagged speedboat",
         "image": "https://media.zenfs.com/en/ap.org/8e30d03122ae6c4a486342cd21d7daff",
         "link": "https://www.yahoo.com/news/articles/fbi-team-arrives-cuba-investigate-153855715.html",
@@ -64,10 +64,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Heartbreak on I-64: Toddler Dies After 14-Year-Old Mother Crashes While Driving Drunk",
-        "image": "https://media.zenfs.com/en/guessing_headlights_178/be5ddd4372719684514f7ec709664c2e",
-        "link": "https://www.yahoo.com/news/articles/heartbreak-64-toddler-dies-14-182924052.html",
+        "title": "Florida Man Stops to Help Crash Victim Near Disney World, Gets Brutally Attacked for His Trouble",
+        "image": "https://media.zenfs.com/en/guessing_headlights_178/d09661d7f56b3d2de851db09df982fbb",
+        "link": "https://www.yahoo.com/news/articles/florida-man-stops-help-crash-120034380.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "German, EU finance ministers call for energy windfall tax",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/german-eu-finance-ministers-call-for-energy-windfall-tax/a-76662099?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The war in Iran has sent oil and gas prices soaring, boosting profits for energy companies, but burdening consumers. The EU is looking for a way to re..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Young German men refusing military service",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/young-german-men-refusing-military-service/a-76593888?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Military service remains voluntary in Germany. However, with the Bundeswehr needing more soldiers, conscription could soon return. But an increasing n..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-people-change-easter-holiday-plans-amid-crises/live-76650036?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Germans are altering their travel plans for Easter and the months ahead due to conflicts, a new survey shows. The economy minister has rejected tax re..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Artemis II passes halfway point to Moon, sends Earth photos",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/artemis-ii-passes-halfway-point-to-moon-sends-earth-photos/a-76658844?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Artemis II is now closer to the Moon than the Earth. The astronauts on board have sent back eye-catching photos of our planet, and fixed a malfunction..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: LPG tanker headed for Mumbai crosses Strait of Hormuz",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-lpg-tanker-headed-for-mumbai-crosses-strait-of-hormuz/live-76658437?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Green Sanvi becomes the seventh India-bound LPG vessel through the strait amid Iran war disruptions, as New Delhi scrambles to secure fuel supplies. D..."
     },
     {
         "source": "Leafly",
