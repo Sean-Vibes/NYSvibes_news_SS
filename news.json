@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "How we came to be: Scientists get first look at the evolution of early complex animals",
-        "image": "https://media.zenfs.com/en/ap.org/f4a9398ca544b9b22529f6ad31ffb548",
-        "link": "https://www.yahoo.com/news/articles/came-scientists-first-look-evolution-175953126.html",
+        "title": "FBI team arrives in Cuba to investigate fatal shooting of US-flagged speedboat",
+        "image": "https://media.zenfs.com/en/ap.org/8e30d03122ae6c4a486342cd21d7daff",
+        "link": "https://www.yahoo.com/news/articles/fbi-team-arrives-cuba-investigate-153855715.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/guessing_headlights_178/be5ddd4372719684514f7ec709664c2e",
         "link": "https://www.yahoo.com/news/articles/heartbreak-64-toddler-dies-14-182924052.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Peru: Stadium crush leaves one dead, dozens injured",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/peru-stadium-crush-leaves-one-dead-dozens-injured/a-76660551?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The incident occurred as a large crowd of soccer fans gathered for a \"flag-waving event\" at Alejandro Villanueva Stadium in Lima...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-news-lpg-tanker-headed-for-mumbai-crosses-strait-of-hormuz/live-76658437?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Green Sanvi becomes the seventh India-bound LPG vessel through the strait amid Iran war disruptions, as New Delhi scrambles to secure fuel supplies. D..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine: 14 people killed in 'massive' Russian attack on 1,500th day of war",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-14-people-killed-in-massive-russian-attack-on-1-500th-day-of-war/a-76652096?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukrainian authorities say Russia is deploying \"new tactics\" as the country came under rolling aerial daytime assaults from missiles and drones fitted ..."
     },
     {
         "source": "Leafly",
