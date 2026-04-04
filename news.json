@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "President Trump delivers new executive order attempting to regulate college sports",
-        "image": "https://s.yimg.com/uu/api/res/1.2/QOTsZFcWK_jIvUywvrlCIg--~B/aD0zODI1O3c9NTc5NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-03/70230763-7bab-4eb4-ae1e-913100c865ab",
-        "link": "https://sports.yahoo.com/mens-college-basketball/article/president-trump-delivers-new-executive-order-attempting-to-regulate-college-sports-165338483.html",
+        "title": "Hegseth says he will allow troops to take personal weapons onto military bases",
+        "image": "https://media.zenfs.com/en/ap.org/8ca36ab69218819c88e3bb0cdba50a77",
+        "link": "https://www.yahoo.com/news/articles/hegseth-says-allow-troops-personal-235216850.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive: Universities of Wisconsin leaders looking to oust system president who refuses to quit",
-        "image": "https://media.zenfs.com/en/ap.org/a5e66f0f233a72ef7bc6342ff302cf07",
-        "link": "https://www.yahoo.com/news/articles/university-wisconsin-president-refuses-leave-171810898.html",
+        "title": "How we came to be: Scientists get first look at the evolution of early complex animals",
+        "image": "https://media.zenfs.com/en/ap.org/f4a9398ca544b9b22529f6ad31ffb548",
+        "link": "https://www.yahoo.com/news/articles/came-scientists-first-look-evolution-175953126.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/kswb_articles_601/f3dc1754881a98562f41798bbaa57a1d",
         "link": "https://www.yahoo.com/news/articles/crash-blocks-multiple-lanes-northbound-143834334.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Beauty as strategy: Why K-beauty is also a political success",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/beauty-as-strategy-why-k-beauty-is-also-a-political-success/a-76652311?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "K-beauty is more than just a cosmetics trend. South Korea has combined popular culture, innovation and national strategy to create a business model wh..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/turkey-and-armenia-when-will-the-border-crossings-open/a-76648630?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Hostility between the two neighbors isolated them from each other for decades. Now Turkey's business community hopes the recent rapprochement will bri..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: One downed US fighter jet pilot rescued",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-one-downed-us-fighter-jet-pilot-rescued/live-76649854?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "One crew member of a US fighter jet downed over Iran has been rescued and an operation to find another is still underway, according to US and Israeli ..."
     },
     {
         "source": "Leafly",
