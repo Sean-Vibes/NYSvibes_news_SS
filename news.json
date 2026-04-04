@@ -36,9 +36,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "President Trump delivers new executive order attempting to regulate college sports",
-        "image": "https://s.yimg.com/uu/api/res/1.2/QOTsZFcWK_jIvUywvrlCIg--~B/aD0zODI1O3c9NTc5NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-03/70230763-7bab-4eb4-ae1e-913100c865ab",
-        "link": "https://sports.yahoo.com/mens-college-basketball/article/president-trump-delivers-new-executive-order-attempting-to-regulate-college-sports-165338483.html",
+        "title": "Hegseth says he will allow troops to take personal weapons onto military bases",
+        "image": "https://media.zenfs.com/en/ap.org/8ca36ab69218819c88e3bb0cdba50a77",
+        "link": "https://www.yahoo.com/news/articles/hegseth-says-allow-troops-personal-235216850.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "FBI Warns iPhone And Android Users\u2014Do Not Install These Apps",
+        "image": "https://media.zenfs.com/en/forbes_contributor_845/372968dde0b3895e635c945593c26e15",
+        "link": "https://www.yahoo.com/news/articles/fbi-warns-iphone-android-users-053319444.html",
         "summary": "..."
     },
     {
@@ -50,13 +57,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Heartbreak on I-64: Toddler Dies After 14-Year-Old Mother Crashes While Driving Drunk",
-        "image": "https://media.zenfs.com/en/guessing_headlights_178/be5ddd4372719684514f7ec709664c2e",
-        "link": "https://www.yahoo.com/news/articles/heartbreak-64-toddler-dies-14-182924052.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "FBI team arrives in Cuba to investigate fatal shooting of US-flagged speedboat",
         "image": "https://media.zenfs.com/en/ap.org/8e30d03122ae6c4a486342cd21d7daff",
         "link": "https://www.yahoo.com/news/articles/fbi-team-arrives-cuba-investigate-153855715.html",
@@ -64,10 +64,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Crash blocks multiple lanes on northbound I-5 in San Diego",
-        "image": "https://media.zenfs.com/en/kswb_articles_601/f3dc1754881a98562f41798bbaa57a1d",
-        "link": "https://www.yahoo.com/news/articles/crash-blocks-multiple-lanes-northbound-143834334.html",
+        "title": "Heartbreak on I-64: Toddler Dies After 14-Year-Old Mother Crashes While Driving Drunk",
+        "image": "https://media.zenfs.com/en/guessing_headlights_178/be5ddd4372719684514f7ec709664c2e",
+        "link": "https://www.yahoo.com/news/articles/heartbreak-64-toddler-dies-14-182924052.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Artemis II passes halfway point to Moon, sends Earth photos",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/artemis-ii-passes-halfway-point-to-moon-sends-earth-photos/a-76658844?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Artemis II is now closer to the Moon than the Earth. The astronauts on board have sent back eye-catching photos of our planet, and fixed a malfunction..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/beauty-as-strategy-why-k-beauty-is-also-a-political-success/a-76652311?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "K-beauty is more than just a cosmetics trend. South Korea has combined popular culture, innovation and national strategy to create a business model wh..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Afghanistan earthquake of magnitude 5.9 kills at least 8",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/afghanistan-earthquake-of-magnitude-5-9-kills-at-least-8/a-76657899?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Authorities said that damage remains under assessment and may be delayed because of the remoteness of the center of the quake. Tremors were also felt ..."
     },
     {
         "source": "Leafly",
