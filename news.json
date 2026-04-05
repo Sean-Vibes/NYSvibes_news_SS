@@ -64,10 +64,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "50-year-old pizza chain closes all restaurants, files Chapter 7",
-        "image": "https://media.zenfs.com/en/thestreet_881/a4218c60a90162257368408029895854",
-        "link": "https://finance.yahoo.com/economy/articles/50-old-pizza-chain-closes-184700411.html",
+        "title": "Is SpaceX the Once\u2011in\u2011a\u2011Generation Investment Everyone Will Wish They Bought?",
+        "image": "https://media.zenfs.com/en/motleyfool.com/c487c1a5aa5940d8bae8134734c68f9e",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-once-generation-investment-everyone-090600995.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Dozens missing after migrant boat capsizes in Mediterranean",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/dozens-missing-after-migrant-boat-capsizes-in-mediterranean/a-76674357?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A boat departed from Libya carrying more than 100 people. Only 32 people are confirmed to have survived its voyage in the Mediterranean Sea...."
     },
     {
         "source": "Deutsche Welle",
@@ -92,17 +99,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "'People's Republic' rumors: Does an Estonian city really want to join Russia?",
+        "title": "Does the Estonian city of Narva really want to join Russia?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/people-s-republic-rumors-does-an-estonian-city-really-want-to-join-russia/a-76663710?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/does-the-estonian-city-of-narva-really-want-to-join-russia/a-76663710?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Estonian city of Narva is on Europe's eastern border, right next to Russia. Recently there have been online rumors that some locals want to secede..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany's new religious diversity",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-new-religious-diversity/a-76645829?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In Germany, many Christian churches are abandoned. In their place, other religious buildings are emerging. Immigrants from India or Syria bring their ..."
     },
     {
         "source": "Leafly",
