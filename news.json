@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "As Trump orders UFO data released, a question hangs: If aliens exist, what would they think of us?",
-        "image": "https://media.zenfs.com/en/ap.org/8855d03d2755a8ef20dc9e54221d9002",
-        "link": "https://www.yahoo.com/news/articles/trump-orders-ufo-data-released-040248905.html",
+        "title": "President Trump delivers new executive order attempting to regulate college sports",
+        "image": "https://s.yimg.com/uu/api/res/1.2/QOTsZFcWK_jIvUywvrlCIg--~B/aD0zODI1O3c9NTc5NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-03/70230763-7bab-4eb4-ae1e-913100c865ab",
+        "link": "https://sports.yahoo.com/mens-college-basketball/article/president-trump-delivers-new-executive-order-attempting-to-regulate-college-sports-165338483.html",
         "summary": "..."
     },
     {
@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Desperate Trump Pleads With World to Help Him \u2018Make a Fortune\u2019 With His War",
-        "image": "https://media.zenfs.com/en/thedailybeast.com/8137d7f1aaae08cb703bb2580362bcc5",
-        "link": "https://www.yahoo.com/news/articles/desperate-trump-pleads-world-help-124144349.html",
+        "title": "3 killed, 2 injured in southern Idaho shooting",
+        "image": "https://media.zenfs.com/en/ktvx_articles_781/1a8bf67587f1b82025be242e18dc3227",
+        "link": "https://www.yahoo.com/news/articles/3-killed-2-injured-southern-191942398.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "3 killed, 2 injured in southern Idaho shooting",
-        "image": "https://media.zenfs.com/en/ktvx_articles_781/1a8bf67587f1b82025be242e18dc3227",
-        "link": "https://www.yahoo.com/news/articles/3-killed-2-injured-southern-191942398.html",
+        "title": "Florida Man Stops to Help Crash Victim Near Disney World, Gets Brutally Attacked for His Trouble",
+        "image": "https://media.zenfs.com/en/guessing_headlights_178/d09661d7f56b3d2de851db09df982fbb",
+        "link": "https://www.yahoo.com/news/articles/florida-man-stops-help-crash-120034380.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Pope's Easter message: Leaders must choose peace over war",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/pope-s-easter-message-leaders-must-choose-peace-over-war/a-76669610?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Pope Leo XIV celebrated his first Easter Mass as pontiff on Sunday. In the traditional \"Urbi et Orbi\" blessing, he called for world leaders to wage pe..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/france-thousands-join-paris-suburb-mayor-to-protest-racism/a-76663818?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Left-wing Mayor Bally Bagayoko has been subjected to racist abuse since winning a clear majority in the first-round vote. Prosecutors are investigatin..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Kenya: Energy  executives step down amid fuel manipulation probe",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/kenya-energy-executives-step-down-amid-fuel-manipulation-probe/a-76663649?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Five senior figures were arrested on allegations of purchasing an emergency fuel shipment at inflated prices. They are accused of trying to exploit th..."
     },
     {
         "source": "Leafly",
