@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Here's What Happens To McDonald's Leftover Food",
-        "image": "https://media.zenfs.com/en/the_daily_meal_185/cc4059710284409b2a904cb6fa379711",
-        "link": "https://www.yahoo.com/lifestyle/articles/heres-happens-mcdonalds-leftover-food-103900399.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "As Trump orders UFO data released, a question hangs: If aliens exist, what would they think of us?",
-        "image": "https://media.zenfs.com/en/ap.org/8855d03d2755a8ef20dc9e54221d9002",
-        "link": "https://www.yahoo.com/news/articles/trump-orders-ufo-data-released-040248905.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Supreme Court Clears Path For Extremely Dangerous Practice \u2014 And Now More Young People Will Die",
         "image": "https://media.zenfs.com/en/the_huffington_post_584/67780700cf6f184a70e52fe053aa1fa2",
         "link": "https://www.yahoo.com/news/articles/supreme-court-clears-path-extremely-121322247.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump administration signals it will offer broad tariff refunds. That could mean millions for companies.",
+        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-02/335fe420-0e9e-11f1-bfb7-6ae21170d07a",
+        "link": "https://finance.yahoo.com/markets/commodities/article/trump-administration-signals-it-will-offer-broad-tariff-refunds-that-could-mean-millions-for-companies-124645811.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Dodge Might Build a Sports Car Cheaper Than the Miata",
+        "image": "https://media.zenfs.com/en/autoblog_arena_articles_145/b6bdc58644cd0324def215a4c83f280d",
+        "link": "https://autos.yahoo.com/new-vehicles-and-reviews/articles/dodge-might-build-sports-car-143000594.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Serbia, Hungary say explosives found at Russian gas pipeline",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/serbia-hungary-say-explosives-found-at-russian-gas-pipeline/a-76674841?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Serbian President Alexandar Vucic said detonators and explosives \"of devastating power\" were found near the Balkan Stream pipeline, which runs through..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/pope-s-easter-message-leaders-must-choose-peace-over-war/a-76669610?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Pope Leo XIV celebrated his first Easter Mass as pontiff on Sunday. In the traditional \"Urbi et Orbi\" blessing, he called for world leaders to wage pe..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Does the Estonian city of Narva really want to join Russia?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/does-the-estonian-city-of-narva-really-want-to-join-russia/a-76663710?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Estonian city of Narva is on Europe's eastern border, right next to Russia. Recently there have been online rumors that some locals want to secede..."
     },
     {
         "source": "Leafly",
