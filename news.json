@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Medvedev says Russia should drop its 'tolerant attitude' towards Ukraine's EU drive",
-        "image": "https://media.zenfs.com/en/reuters.com/0dced024d0ef7692bcf25ed8eb764e03",
-        "link": "https://www.yahoo.com/news/articles/medvedev-says-russia-drop-tolerant-080839882.html",
+        "title": "President Trump delivers new executive order attempting to regulate college sports",
+        "image": "https://s.yimg.com/uu/api/res/1.2/QOTsZFcWK_jIvUywvrlCIg--~B/aD0zODI1O3c9NTc5NjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-03/70230763-7bab-4eb4-ae1e-913100c865ab",
+        "link": "https://sports.yahoo.com/mens-college-basketball/article/president-trump-delivers-new-executive-order-attempting-to-regulate-college-sports-165338483.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "SpaceX delays next Starship test launch by a month, Musk says",
-        "image": "https://s.yimg.com/os/creatr-uploaded-images/2024-11/29a310f0-a6c7-11ef-bff7-4c24b31f6ef3",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-delays-next-starship-test-171326421.html",
+        "title": "As Trump orders UFO data released, a question hangs: If aliens exist, what would they think of us?",
+        "image": "https://media.zenfs.com/en/ap.org/8855d03d2755a8ef20dc9e54221d9002",
+        "link": "https://www.yahoo.com/news/articles/trump-orders-ufo-data-released-040248905.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "50-year-old pizza chain closes all restaurants, files Chapter 7",
-        "image": "https://media.zenfs.com/en/thestreet_881/a4218c60a90162257368408029895854",
-        "link": "https://finance.yahoo.com/economy/articles/50-old-pizza-chain-closes-184700411.html",
+        "title": "Desperate Trump Pleads With World to Help Him \u2018Make a Fortune\u2019 With His War",
+        "image": "https://media.zenfs.com/en/thedailybeast.com/8137d7f1aaae08cb703bb2580362bcc5",
+        "link": "https://www.yahoo.com/news/articles/desperate-trump-pleads-world-help-124144349.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "'People's Republic' rumors: Does an Estonian city really want to join Russia?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/people-s-republic-rumors-does-an-estonian-city-really-want-to-join-russia/a-76663710?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Estonian city of Narva is on Europe's eastern border, right next to Russia. Recently there have been online rumors that some locals want to secede..."
     },
     {
         "source": "Deutsche Welle",
@@ -78,10 +85,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Donald Trump says missing crew member from F-15E jet that was shot down in Iran has been rescued \u2014 follow live",
+        "title": "Iran war: US says missing crew member from downed jet found",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/donald-trump-says-missing-crew-member-from-f-15e-jet-that-was-shot-down-in-iran-has-been-rescued-follow-live/live-76665046?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After a frantic search, the co-pilot of the F-15E that Iran shot down has been rescued, US officials have said. Donald Trump said he sustained injurie..."
+        "link": "https://www.dw.com/en/iran-war-us-says-missing-crew-member-from-downed-jet-found/live-76665046?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After a frantic search, the airman from the F-15E that Iran shot down has been rescued, US officials have said. Donald Trump said he sustained injurie..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/kenya-energy-executives-step-down-amid-fuel-manipulation-probe/a-76663649?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Five senior figures were arrested on allegations of purchasing an emergency fuel shipment at inflated prices. They are accused of trying to exploit th..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Displaced in Lebanon: 'Lives turned upside down'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/displaced-in-lebanon-lives-turned-upside-down/a-76662137?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Over 1.1 million Lebanese have fled their homes due to fighting in the south of the country and Israeli bombing of Beirut's suburbs. DW met a family s..."
     },
     {
         "source": "Leafly",
