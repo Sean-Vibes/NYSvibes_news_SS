@@ -43,9 +43,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nancy Guthrie Update: TSA Found Undeclared Loaded Gun in Chris Nanos' Luggage",
-        "image": "https://media.zenfs.com/en/parade_250/a9e78bef9d4f078628d6eea665a27e73",
-        "link": "https://www.yahoo.com/news/articles/nancy-guthrie-tsa-found-undeclared-190200032.html",
+        "title": "These 39 Hilarious Fails From Last Week Made Me Laugh So Hard I Shed A Single Tear",
+        "image": "https://media.zenfs.com/en/buzzfeed_articles_778/7acf6126801b5656184b24273003d8e8",
+        "link": "https://www.yahoo.com/entertainment/articles/39-hilarious-fails-last-week-195619228.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russian grain ship believed sunk in Ukrainian drone attack is found and towed to shore, TASS says",
-        "image": "https://media.zenfs.com/en/reuters.com/feaa8bf56a6a393bc72c123cc030cd40",
-        "link": "https://www.yahoo.com/news/articles/russian-grain-ship-believed-sunk-150915954.html",
+        "title": "Goldman Sachs' blunt warning to laid-off tech workers: It will take time and earnings loss to find a new job",
+        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-04/a1a26330-31bd-11f1-977b-2d04ae54a87b",
+        "link": "https://finance.yahoo.com/news/goldman-sachs-blunt-warning-to-laid-off-tech-workers-it-will-take-time-and-earnings-loss-to-find-a-new-job-143808064.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Supreme Court Clears Path For Extremely Dangerous Practice \u2014 And Now More Young People Will Die",
-        "image": "https://media.zenfs.com/en/the_huffington_post_584/67780700cf6f184a70e52fe053aa1fa2",
-        "link": "https://www.yahoo.com/news/articles/supreme-court-clears-path-extremely-121322247.html",
+        "title": "Kristi Noem\u2019s 'Paramour' Corey Lewandowski Reportedly Under Investigation Amid Her Family Scandal",
+        "image": "https://media.zenfs.com/en/globe_458/46b8939de3ce6b63d2e3da036082bb38",
+        "link": "https://www.yahoo.com/entertainment/videos/kristi-noem-paramour-corey-lewandowski-001539913.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Congo joins US list of third-country deportation destinations",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/congo-joins-us-list-of-third-country-deportation-destinations/a-76682094?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The DRC said it would \"temporarily\" receive migrants from the US, becoming the latest African nation to agree to do so...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/bombing-of-iran-s-pharma-producers-threatens-patients-lives/a-76680086?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "As the US and Israel continue their war with Iran, airstrikes on Iranian pharmaceutical and medical facilities are harming thousands of people by deny..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine: 3 killed in Odesa, Kyiv targets Russian oil exports",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-3-killed-in-odesa-kyiv-targets-russian-oil-exports/a-76679304?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russian drone strikes on the southern Ukrainian city of Odesa left at least three people dead overnight, including a 2-year-old girl. Meanwhile, Ukrai..."
     },
     {
         "source": "Leafly",
