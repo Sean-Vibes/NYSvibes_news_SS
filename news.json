@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Missouri Lawmakers Pass Bill Supporting Psychedelics Research To Aid Military Veterans And First Responders",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/missouri-lawmakers-pass-bill-supporting-psychedelics-research-to-aid-military-veterans-and-first-responders/",
+        "summary": "<p>\u201cThis is a careful bill for people, our veterans and first responders, who have carried extraordinary burdens.\u201d By Rebecca Rivas,... <a class=\"smal..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "Marijuana Rescheduling Could \u2018Unlock Research\u2019 To Treat Rare Diseases, Father Of Terminally Ill Child Tells Congressional Committee",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/marijuana-rescheduling-could-unlock-research-to-treat-rare-diseases-father-of-terminally-ill-child-tells-congressional-committee/",
+        "summary": "<p>Congressional lawmakers were recently presented with a unique argument in favor of expanding therapeutic access to cannabis and rescheduling mariju..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Trump puts medical cannabis protections in budget (Newsletter: April 6, 2026)",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/trump-puts-medical-cannabis-protections-in-budget-newsletter-april-6-2026/",
@@ -19,20 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/missouri-lawmakers-pass-bill-to-ban-intoxicating-hemp-thc-products-sending-it-to-governor/",
         "summary": "<p>The legislation also has provisions to protect marijuana consumers\u2019 privacy and cannabis workers\u2019 right to unionize. By Rebecca Rivas, Missouri... ..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Hawaii Senators Push Congress To Federally Legalize Marijuana And Clear Past Convictions",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/hawaii-senators-push-congress-to-federally-legalize-marijuana-and-clear-past-convictions/",
-        "summary": "<p>Hawaii senators have approved a pair of resolutions calling on Congress to federally legalize marijuana, support state efforts to clear... <a class..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Trump Proposes To Keep Protecting State Medical Marijuana Laws From Federal Interference While Blocking DC From Legalizing Recreational Sales",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/trump-proposes-to-keep-protecting-state-medical-marijuana-laws-from-federal-interference-while-blocking-dc-from-legalizing-recreational-sales/",
-        "summary": "<p>President Donald Trump is requesting that Congress continue to protect state medical marijuana programs from federal interference while also mainta..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "3-year-old immigrant suffered alleged sexual abuse during months in federal custody, family says",
-        "image": "https://media.zenfs.com/en/ap.org/904bd880d5ef9a19ede2b3cbfaa6fff9",
-        "link": "https://www.yahoo.com/news/articles/3-old-immigrant-suffered-alleged-040337058.html",
+        "title": "North Korea says South Korea's Lee is 'wise' for expressing regret about drones",
+        "image": "https://media.zenfs.com/en/reuters.com/24596cfe2e6b868d526ea74a196e67ef",
+        "link": "https://www.yahoo.com/news/articles/north-korea-says-south-koreas-130321873.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,27 @@
         "image": "https://media.zenfs.com/en/ct_insider_187/7167c8588b41e5fa623bf0f0084f90ff",
         "link": "https://www.yahoo.com/news/articles/wife-ct-man-charged-sexual-183508897.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Myanmar junta chief elected president \u2014 what comes next?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/myanmar-junta-chief-elected-president-what-comes-next/a-76679169?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The head of the Myanmar's junta Min Aung Hlaing has swapped his uniform for the top civilian office, but the move is unlikely to bring peace or even c..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "North Korea welcomes Seoul regret over drones as 'wise'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/north-korea-welcomes-seoul-regret-over-drones-as-wise/a-76676137?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Pyongyang leader Kim Jong Un's sister says it was \"very fortunate and wise\" for South Korea's president to express regret for drone incursions into th..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Bombing of Iran's pharma producers threatens patients' lives",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/bombing-of-iran-s-pharma-producers-threatens-patients-lives/a-76680086?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "As the US and Israel continue their war with Iran, airstrikes on Iranian pharmaceutical and medical facilities are harming thousands of people by deny..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-news-pm-modi-addresses-election-rallies-in-assam/live-76676770?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "An election race is in full swing in Assam as it goes to polls this week. Prime Minister Narendra Modi is attending three campaign rallies in the nort..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Artemis II mission enters moon's gravitational influence",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/artemis-ii-mission-enters-moon-s-gravitational-influence/a-76677687?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Orion spacecraft is in its final phase and has entered the moon's gravitational sphere. The astronauts are expected to soon break the record for t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Mediterranean sharks are vanishing in a legal void",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/mediterranean-sharks-are-vanishing-in-a-legal-void/a-76594337?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Along Libya's coast, sharks \u2014 including breeding females \u2014 are being sold unchecked. With little enforcement and growing financial pressure on fisherm..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russians living in exile cope with grief far from home",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russians-living-in-exile-cope-with-grief-far-from-home/a-76597851?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Since the start of the war against Ukraine, many Russians living in exile have been unable to return home for security reasons. Three of them told DW ..."
     },
     {
         "source": "Leafly",
