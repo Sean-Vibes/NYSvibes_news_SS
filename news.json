@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump administration signals it will offer broad tariff refunds. That could mean millions for companies.",
-        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-02/335fe420-0e9e-11f1-bfb7-6ae21170d07a",
-        "link": "https://finance.yahoo.com/markets/commodities/article/trump-administration-signals-it-will-offer-broad-tariff-refunds-that-could-mean-millions-for-companies-124645811.html",
+        "title": "Ukrainian drones attacked cargo vessel that sank, killing one, Russia-installed official says",
+        "image": "https://media.zenfs.com/en/reuters.com/3efc875306f530c577a023ef30f99952",
+        "link": "https://www.yahoo.com/news/articles/vessel-wheat-cargo-sinks-sea-113934280.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Dollywood Co. president to speak at Radford University\u2019s 2026 graduation ceremonies",
-        "image": "https://media.zenfs.com/en/wfxr_roanoke_articles_319/c176f456700c8369ce830f3a07ca1111",
-        "link": "https://www.yahoo.com/news/articles/dollywood-co-president-speak-radford-172845655.html",
+        "title": "Supreme Court Clears Path For Extremely Dangerous Practice \u2014 And Now More Young People Will Die",
+        "image": "https://media.zenfs.com/en/the_huffington_post_584/67780700cf6f184a70e52fe053aa1fa2",
+        "link": "https://www.yahoo.com/news/articles/supreme-court-clears-path-extremely-121322247.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "3-year-old immigrant suffered alleged sexual abuse during months in federal custody, family says",
-        "image": "https://media.zenfs.com/en/ap.org/904bd880d5ef9a19ede2b3cbfaa6fff9",
-        "link": "https://www.yahoo.com/news/articles/3-old-immigrant-suffered-alleged-040337058.html",
+        "title": "Group of armed men search Iran\u2019s rocky terrain for missing US pilot: \u2018He will be found\u2019",
+        "image": "https://media.zenfs.com/en/ny_post_videos_491/41d9423f5d6c4c3e6ce7d5bb02ede602",
+        "link": "https://www.yahoo.com/news/videos/group-armed-men-search-iran-235700582.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "FBI Warns iPhone And Android Users\u2014Do Not Install These Apps",
-        "image": "https://media.zenfs.com/en/forbes_contributor_845/372968dde0b3895e635c945593c26e15",
-        "link": "https://www.yahoo.com/news/articles/fbi-warns-iphone-android-users-053319444.html",
+        "title": "Florida Man Stops to Help Crash Victim Near Disney World, Gets Brutally Attacked for His Trouble",
+        "image": "https://media.zenfs.com/en/guessing_headlights_178/d09661d7f56b3d2de851db09df982fbb",
+        "link": "https://www.yahoo.com/news/articles/florida-man-stops-help-crash-120034380.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Displaced in Lebanon: 'Lives turned upside down'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/displaced-in-lebanon-lives-turned-upside-down/a-76662137?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Over 1.1 million Lebanese have fled their homes due to fighting in the south of the country and Israeli bombing of Beirut's suburbs. DW met a family s..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-trump-sees-good-chance-of-deal-warns-of-hell/live-76665046?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "US President Donald Trump both threatened to bomb Iran \"to Hell\" and claimed there was a chance of reaching a ceasefire deal soon. The statements came..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India's growth forecast slashed to 6% amid Iran war",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-s-growth-forecast-slashed-to-6-amid-iran-war/live-76658437?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Iran war and its impact on global energy supply will dampen India\u2019s growth momentum, said the Moody's credit ratings agency...."
     },
     {
         "source": "Leafly",
