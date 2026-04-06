@@ -43,13 +43,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran threatens \u2018complete and utter annihilation\u2019 of OpenAI's $30B Stargate AI data center in Abu Dhabi \u2014 regime posts video with satellite imagery of ChatGPT-maker's premier 1GW data center",
-        "image": "https://media.zenfs.com/en/toms_hardware_319/e6476f1623c70311e8db085f61033afa",
-        "link": "https://www.yahoo.com/news/articles/iran-threatens-complete-utter-annihilation-150245538.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Nancy Guthrie Update: TSA Found Undeclared Loaded Gun in Chris Nanos' Luggage",
         "image": "https://media.zenfs.com/en/parade_250/a9e78bef9d4f078628d6eea665a27e73",
         "link": "https://www.yahoo.com/news/articles/nancy-guthrie-tsa-found-undeclared-190200032.html",
@@ -57,16 +50,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "North Korea says South Korea's Lee is 'wise' for expressing regret about drones",
-        "image": "https://media.zenfs.com/en/reuters.com/24596cfe2e6b868d526ea74a196e67ef",
-        "link": "https://www.yahoo.com/news/articles/north-korea-says-south-koreas-130321873.html",
+        "title": "Mom of girl found dead in Enfield home was 'not aware' husband allegedly sexually assaulted daughter",
+        "image": "https://media.zenfs.com/en/ct_insider_187/7167c8588b41e5fa623bf0f0084f90ff",
+        "link": "https://www.yahoo.com/news/articles/wife-ct-man-charged-sexual-183508897.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mom of girl found dead in Enfield home was 'not aware' husband allegedly sexually assaulted daughter",
-        "image": "https://media.zenfs.com/en/ct_insider_187/7167c8588b41e5fa623bf0f0084f90ff",
-        "link": "https://www.yahoo.com/news/articles/wife-ct-man-charged-sexual-183508897.html",
+        "title": "Ukrainian drones attacked cargo vessel that sank, killing one, Russia-installed official says",
+        "image": "https://media.zenfs.com/en/reuters.com/3efc875306f530c577a023ef30f99952",
+        "link": "https://www.yahoo.com/news/articles/vessel-wheat-cargo-sinks-sea-113934280.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Iran threatens \u2018complete and utter annihilation\u2019 of OpenAI's $30B Stargate AI data center in Abu Dhabi \u2014 regime posts video with satellite imagery of ChatGPT-maker's premier 1GW data center",
+        "image": "https://media.zenfs.com/en/toms_hardware_319/e6476f1623c70311e8db085f61033afa",
+        "link": "https://www.yahoo.com/news/articles/iran-threatens-complete-utter-annihilation-150245538.html",
         "summary": "..."
     },
     {
