@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukrainian drones attacked cargo vessel that sank, killing one, Russia-installed official says",
-        "image": "https://media.zenfs.com/en/reuters.com/3efc875306f530c577a023ef30f99952",
-        "link": "https://www.yahoo.com/news/articles/vessel-wheat-cargo-sinks-sea-113934280.html",
+        "title": "India makes first Iranian oil buy in seven years with no payment problems",
+        "image": "https://media.zenfs.com/en/reuters.com/49e86fb2dd22662c9384d9ef3d027d9e",
+        "link": "https://finance.yahoo.com/news/india-says-crude-oil-supplies-083030170.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Group of armed men search Iran\u2019s rocky terrain for missing US pilot: \u2018He will be found\u2019",
-        "image": "https://media.zenfs.com/en/ny_post_videos_491/41d9423f5d6c4c3e6ce7d5bb02ede602",
-        "link": "https://www.yahoo.com/news/videos/group-armed-men-search-iran-235700582.html",
+        "title": "Judge halts Trump effort requiring colleges to show they aren\u2019t considering race in admissions",
+        "image": "https://media.zenfs.com/en/ap.org/41dc13bb0efaeff0bacaf5fbc6a1a90f",
+        "link": "https://www.yahoo.com/news/articles/judge-halts-trump-effort-requiring-155932048.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Florida Man Stops to Help Crash Victim Near Disney World, Gets Brutally Attacked for His Trouble",
-        "image": "https://media.zenfs.com/en/guessing_headlights_178/d09661d7f56b3d2de851db09df982fbb",
-        "link": "https://www.yahoo.com/news/articles/florida-man-stops-help-crash-120034380.html",
+        "title": "Mom of girl found dead in Enfield home was 'not aware' husband allegedly sexually assaulted daughter",
+        "image": "https://media.zenfs.com/en/ct_insider_187/7167c8588b41e5fa623bf0f0084f90ff",
+        "link": "https://www.yahoo.com/news/articles/wife-ct-man-charged-sexual-183508897.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "South Korea president says regrets drones sent to North",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/south-korea-president-says-regrets-drones-sent-to-north/a-76676137?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Seoul initially denied it was behind a surveillance drone downed by North Korea in January. But a probe later revealed government officials had been i..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Democrats slam Trump's 'unhinged' threat to Iran",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-democrats-slam-trump-s-unhinged-threat-to-iran/live-76675879?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Democrats have sharply criticized Donald Trump's expletive-laden threat to Iran. Meanwhile, at least 13 people were killed in an airstrike near Tehran..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/serbia-hungary-say-explosives-found-at-russian-gas-pipeline/a-76674841?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Serbian President Aleksandar Vucic said detonators and explosives \"of devastating power\" were found near the Balkan Stream pipeline, which runs throug..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Dozens missing after migrant boat capsizes in Mediterranean",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/dozens-missing-after-migrant-boat-capsizes-in-mediterranean/a-76674357?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A boat departed from Libya carrying more than 100 people. Only 32 people are confirmed to have survived its voyage in the Mediterranean Sea...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Trump sees 'good chance' of deal, warns of 'hell'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-trump-sees-good-chance-of-deal-warns-of-hell/live-76665046?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US President Donald Trump both threatened to bomb Iran \"to Hell\" and claimed there was a chance of reaching a ceasefire deal soon. The statements came..."
     },
     {
         "source": "Leafly",
