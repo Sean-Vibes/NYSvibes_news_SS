@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "India makes first Iranian oil buy in seven years with no payment problems",
-        "image": "https://media.zenfs.com/en/reuters.com/49e86fb2dd22662c9384d9ef3d027d9e",
-        "link": "https://finance.yahoo.com/news/india-says-crude-oil-supplies-083030170.html",
+        "title": "South Korea says 'credible intelligence' indicates North Korean leader's daughter is successor",
+        "image": "https://media.zenfs.com/en/reuters.com/db8cc63a1b7802130113fbd9f30889dc",
+        "link": "https://www.yahoo.com/news/articles/south-korea-says-credible-intelligence-064619383.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Judge halts Trump effort requiring colleges to show they aren\u2019t considering race in admissions",
-        "image": "https://media.zenfs.com/en/ap.org/41dc13bb0efaeff0bacaf5fbc6a1a90f",
-        "link": "https://www.yahoo.com/news/articles/judge-halts-trump-effort-requiring-155932048.html",
+        "title": "Russia and Ukraine trade deadly strikes as Zelenskyy travels to Istanbul for talks with Erdogan",
+        "image": "https://media.zenfs.com/en/ap.org/7d2af40b76e22f2cb133fd530785d504",
+        "link": "https://www.yahoo.com/news/articles/russian-strikes-ukraine-kill-5-105616884.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,27 @@
         "image": "https://media.zenfs.com/en/ct_insider_187/7167c8588b41e5fa623bf0f0084f90ff",
         "link": "https://www.yahoo.com/news/articles/wife-ct-man-charged-sexual-183508897.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: PM Modi to address election rallies in Assam",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-pm-modi-to-address-election-rallies-in-assam/live-76676770?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "An election race is in full swing in Assam as it goes to polls this week. Prime Minister Narendra Modi is expected to attend three campaign rallies in..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Mediterranean sharks are vanishing in a legal void",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/mediterranean-sharks-are-vanishing-in-a-legal-void/a-76594337?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Along Libya's coast, sharks \u2014 including breeding females \u2014 are being sold unchecked. With little enforcement and growing financial pressure on fisherm..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Russians living in exile cope with grief far from home",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/russians-living-in-exile-cope-with-grief-far-from-home/a-76597851?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Since the start of the war against Ukraine, many Russians living in exile have been unable to return home for security reasons. Three of them told DW ..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-democrats-slam-trump-s-unhinged-threat-to-iran/live-76675879?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Democrats have sharply criticized Donald Trump's expletive-laden threat to Iran. Meanwhile, at least 13 people were killed in an airstrike near Tehran..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Displaced in Lebanon: 'Lives turned upside down'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/displaced-in-lebanon-lives-turned-upside-down/a-76662137?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Over 1.1 million Lebanese have fled their homes due to fighting in the south of the country and Israeli bombing of Beirut's suburbs. DW met a family s..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nigeria's army rescues 31 hostages after church attack",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nigeria-s-army-rescues-31-hostages-after-church-attack/a-76675665?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The army \u200bsaid the attack had occurred \u200cduring Easter celebrations at a church in northwestern Kaduna state. Northwest Nigeria has struggled with viol..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Serbia, Hungary say explosives found at Russian gas pipeline",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/serbia-hungary-say-explosives-found-at-russian-gas-pipeline/a-76674841?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Serbian President Aleksandar Vucic said detonators and explosives \"of devastating power\" were found near the Balkan Stream pipeline, which runs throug..."
     },
     {
         "source": "Leafly",
