@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Trump puts medical cannabis protections in budget (Newsletter: April 6, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/trump-puts-medical-cannabis-protections-in-budget-newsletter-april-6-2026/",
+        "summary": "<p>FBI memo on marijuana investments; Another Medicare hemp coverage rule; NC governor pushes legalization; HI cannabis resolutions Subscribe\u00a0to recei..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Louisiana Senators Approve Bill To Allow Medical Marijuana Use In Hospitals For Terminally Ill Patients",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/louisiana-senators-approve-bill-to-allow-medical-marijuana-use-in-hospitals-for-terminally-ill-patients/",
@@ -28,17 +35,17 @@
         "summary": "<p>President Donald Trump is requesting that Congress continue to protect state medical marijuana programs from federal interference while also mainta..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Feds Finalize New Rule Allowing Some Hemp Products As Medicare Advantage Benefits",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/feds-finalize-new-rule-allowing-some-hemp-products-as-medicare-advantage-benefits/",
-        "summary": "<p>Federal officials have finalized a rule that will allow coverage of some hemp products as specialized, non-primarily health-related benefits throug..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "South Korea says 'credible intelligence' indicates North Korean leader's daughter is successor",
         "image": "https://media.zenfs.com/en/reuters.com/db8cc63a1b7802130113fbd9f30889dc",
         "link": "https://www.yahoo.com/news/articles/south-korea-says-credible-intelligence-064619383.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Iran threatens \u2018complete and utter annihilation\u2019 of OpenAI's $30B Stargate AI data center in Abu Dhabi \u2014 regime posts video with satellite imagery of ChatGPT-maker's premier 1GW data center",
+        "image": "https://media.zenfs.com/en/toms_hardware_319/e6476f1623c70311e8db085f61033afa",
+        "link": "https://www.yahoo.com/news/articles/iran-threatens-complete-utter-annihilation-150245538.html",
         "summary": "..."
     },
     {
@@ -50,16 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Supreme Court Clears Path For Extremely Dangerous Practice \u2014 And Now More Young People Will Die",
-        "image": "https://media.zenfs.com/en/the_huffington_post_584/67780700cf6f184a70e52fe053aa1fa2",
-        "link": "https://www.yahoo.com/news/articles/supreme-court-clears-path-extremely-121322247.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russia and Ukraine trade deadly strikes as Zelenskyy travels to Istanbul for talks with Erdogan",
-        "image": "https://media.zenfs.com/en/ap.org/7d2af40b76e22f2cb133fd530785d504",
-        "link": "https://www.yahoo.com/news/articles/russian-strikes-ukraine-kill-5-105616884.html",
+        "title": "3-year-old immigrant suffered alleged sexual abuse during months in federal custody, family says",
+        "image": "https://media.zenfs.com/en/ap.org/904bd880d5ef9a19ede2b3cbfaa6fff9",
+        "link": "https://www.yahoo.com/news/articles/3-old-immigrant-suffered-alleged-040337058.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/ct_insider_187/7167c8588b41e5fa623bf0f0084f90ff",
         "link": "https://www.yahoo.com/news/articles/wife-ct-man-charged-sexual-183508897.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine: 3 killed in Odesa, Kyiv targets Russian oil exports",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-3-killed-in-odesa-kyiv-targets-russian-oil-exports/a-76679304?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Russian drone strikes on the southern Ukrainian city of Odesa left at least three people dead overnight, including a 2-year-old girl. Meanwhile, Ukrai..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/russians-living-in-exile-cope-with-grief-far-from-home/a-76597851?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Since the start of the war against Ukraine, many Russians living in exile have been unable to return home for security reasons. Three of them told DW ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "South Korea president says regrets drones sent to North",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/south-korea-president-says-regrets-drones-sent-to-north/a-76676137?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Seoul initially denied it was behind a surveillance drone downed by North Korea in January. But a probe later revealed government officials had been i..."
     },
     {
         "source": "Leafly",
