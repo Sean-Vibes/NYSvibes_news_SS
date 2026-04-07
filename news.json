@@ -43,6 +43,13 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Woman Rescues Struggling Swimmer, Then Learns He's Believed to Be Wanted For Double Murder",
+        "image": "https://media.zenfs.com/en/oxygen_166/e0cbd4820031cd9c86788cd1a449efe4",
+        "link": "https://www.yahoo.com/news/articles/woman-rescues-struggling-swimmer-then-181949018.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Bald-headed killer smiles as prosecutors reveal what she did before dad walked in",
         "image": "https://media.zenfs.com/en/fox_news_text_979/4674c90e24f6419c1f172bbaf0743295",
         "link": "https://www.yahoo.com/news/articles/bald-headed-killer-smiles-prosecutors-233514632.html",
@@ -50,24 +57,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Howard Stern\u2019s former assistant sues claiming famed radio personality created hostile workplace",
-        "image": "https://media.zenfs.com/en/the_independent_635/6a02a175f346ddd32a318e62f046d91c",
-        "link": "https://www.yahoo.com/entertainment/celebrity/articles/howard-stern-former-assistant-sues-230736487.html",
+        "title": "Hungary's Orb\u00e1n has long annoyed the European Union. Now some hope he faces defeat",
+        "image": "https://media.zenfs.com/en/ap.org/a1635f9f5b80d0dfc395a218837c6c04",
+        "link": "https://www.yahoo.com/news/articles/hungarys-orb-n-long-annoyed-051121409.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russian grain ship believed sunk in Ukrainian drone attack is found and towed to shore, TASS says",
-        "image": "https://media.zenfs.com/en/reuters.com/feaa8bf56a6a393bc72c123cc030cd40",
-        "link": "https://www.yahoo.com/news/articles/russian-grain-ship-believed-sunk-150915954.html",
+        "title": "WATCH: Chilling Video Shows Just How Close the Artemis II Crew Got to the Moon",
+        "image": "https://media.zenfs.com/en/men_s_journal_718/af51d85c519be87c474321318265b034",
+        "link": "https://www.yahoo.com/news/articles/watch-chilling-video-shows-just-023123037.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "The Growing Black Bear Population Spreading Across New Hampshire Forests",
-        "image": "https://media.zenfs.com/en/a_z_animals_articles_598/54c40e3ac2b190f75684f4cb15d2582b",
-        "link": "https://www.yahoo.com/lifestyle/articles/growing-black-bear-population-spreading-110200663.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "South Korea turns to EU to revive talks with the North",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/south-korea-turns-to-eu-to-revive-talks-with-the-north/a-76690973?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Seoul's unification minister has urged Brussels to act as mediator in North-South discussions, but Pyongyang still seems to show little appetite for i..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US citizens beat rising energy bills with homegrown power",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-citizens-beat-rising-energy-bills-with-homegrown-power/a-76566780?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "In times of skyrocketing energy prices, record-breaking heat waves and blackouts, producing electricity at home has never been more appealing...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Inside India's courts, AI's growing role sparks concern",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/inside-india-s-courts-ai-s-growing-role-sparks-concern/a-76653611?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The increasing use of artificial intelligence in courtrooms raises worries that the technology may aggravate bias and structural distortions in the le..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/why-have-us-south-africa-relations-soured/a-76655817?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "US President Donald Trump wants to sideline South Africa on the world stage. What is his issue with the country and when did things start going south?..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "France: One killed as high-speed TGV train derails after truck crash",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/france-one-killed-as-high-speed-tgv-train-derails-after-truck-crash/a-76690044?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The driver of a high-speed train has died in northern France after his train collided with a truck transporting military material. The train was carry..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Europe mulls the prospect of a NATO without the US",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/europe-mulls-the-prospect-of-a-nato-without-the-us/a-76682522?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As the US president escalates threats to destroy Iran, will NATO be collateral damage? A former American ambassador says the alliance is \u201cnot dead\u201d bu..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hungary: US dispatches JD Vance to aid Orban reelection bid",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hungary-us-dispatches-jd-vance-to-aid-orban-reelection-bid/a-76685625?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US is deploying Vice President JD Vance to stump for longtime Hungarian PM Viktor Orban who trails in election polls. Orban is a symbol of the glo..."
     },
     {
         "source": "Leafly",
