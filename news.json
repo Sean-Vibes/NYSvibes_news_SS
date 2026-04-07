@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump backs away from seizing Iran's oil: 'Unfortunately, the American people would like to see us come home'",
-        "image": "https://s.yimg.com/uu/api/res/1.2/ghPHggC4gxR9f_PXGeXR_Q--~B/aD01Mzc5O3c9ODA2NzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/d4226269-9303-4808-b39b-ca3ae6373779",
-        "link": "https://finance.yahoo.com/sectors/energy/article/trump-backs-away-from-seizing-irans-oil-unfortunately-the-american-people-would-like-to-see-us-come-home-201041843.html",
+        "title": "Goldman Sachs' blunt warning to laid-off tech workers: It will take time and earnings loss to find a new job",
+        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-04/a1a26330-31bd-11f1-977b-2d04ae54a87b",
+        "link": "https://finance.yahoo.com/news/goldman-sachs-blunt-warning-to-laid-off-tech-workers-it-will-take-time-and-earnings-loss-to-find-a-new-job-143808064.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/ct_insider_187/7167c8588b41e5fa623bf0f0084f90ff",
         "link": "https://www.yahoo.com/news/articles/wife-ct-man-charged-sexual-183508897.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Minister floats fare-dodging decriminalization",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-minister-floats-fare-dodging-decriminalization/live-76683746?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A debate is brewing about whether fare-evasion on trams, buses and trains in Germany should no longer be a criminal offense. Meanwhile, companies are ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Nuclear reactor in Kalpakkam attains criticality",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-nuclear-reactor-in-kalpakkam-attains-criticality/live-76682852?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "India is advancing its civil nuclear program with its Fast Breeder Reactor at Kalpakkam now able to self-sustain a nuclear chain reaction. In other ne..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/can-small-modular-nuclear-reactors-solve-europe-s-energy-woes/a-76623404?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Supporters say modular nuclear reactors are essential to meeting energy and climate goals, but critics slam them as a \"costly distraction\" that \"won't..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Australia arrests decorated veteran Ben Roberts-Smith on war crimes charges",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/australia-arrests-decorated-veteran-ben-roberts-smith-on-war-crimes-charges/a-76682712?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ben Roberts-Smith is a Victoria Cross recipient and had been linked to the murder of unarmed civilians while deployed in Afghanistan...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Vietnam elects Communist Party leader To Lam as president",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/vietnam-elects-communist-party-leader-to-lam-as-president/a-76682860?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The election of To Lam as the state president marks a shift in Vietnam's power structure where party leadership and state presidency were held by diff..."
     },
     {
         "source": "Leafly",
