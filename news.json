@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Pennsylvania Governor Says Legalizing Marijuana Will Raise Revenue To Support Kids And Public Safety Programs",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/pennsylvania-governor-says-legalizing-marijuana-will-raise-revenue-to-support-kids-and-public-safety-programs/",
+        "summary": "<p>Pennsylvania\u2019s governor is increasing pressure on lawmakers to send him a bill to legalize marijuana in the state, saying that... <a class=\"small f..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Idaho Lawmakers Approve Resolution Asking Voters To Reject Medical Cannabis Ballot Measure",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/idaho-lawmakers-approve-resolution-asking-voters-to-reject-medical-cannabis-ballot-measure/",
@@ -28,17 +35,10 @@
         "summary": "<p>The Drug Enforcement Administration (DEA) says the marijuana rescheduling appeal process \u201cremains pending\u201d despite President Donald Trump issuing a..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "GOP Congressman Says States Should Be Able To Legalize Marijuana, Even If He Prefers \u2018Medical Margaritas\u2019",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/gop-congressman-says-states-should-be-able-to-legalize-marijuana-even-if-he-prefers-medical-margaritas/",
-        "summary": "<p>A Republican congressman who President Donald Trump is campaigning to defeat in a primary election next month says states should... <a class=\"small..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russian grain ship believed sunk in Ukrainian drone attack is found and towed to shore, TASS says",
-        "image": "https://media.zenfs.com/en/reuters.com/feaa8bf56a6a393bc72c123cc030cd40",
-        "link": "https://www.yahoo.com/news/articles/russian-grain-ship-believed-sunk-150915954.html",
+        "title": "Iraqi armed group says it will release abducted US journalist, says she must leave Iraq immediately",
+        "image": "https://media.zenfs.com/en/reuters.com/cdd9b1de6da60ab58781141ac87340ca",
+        "link": "https://www.yahoo.com/news/articles/iraqi-armed-group-says-release-185732372.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Florida Woman\u2019s Mugshot Goes Viral and the Internet Wants to Save Her",
+        "image": "https://media.zenfs.com/en/where_is_the_buzz_814/53175b9367e34cd8b34669133f80725a",
+        "link": "https://www.yahoo.com/news/articles/florida-woman-mugshot-goes-viral-142558772.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "American journalist Shelly Kittleson has been released, Iraqi officials tell the AP",
+        "image": "https://media.zenfs.com/en/ap.org/85a03ec3aff05d380933dea9d0a39d63",
+        "link": "https://www.yahoo.com/news/articles/iraqi-officials-believe-powerful-iran-140222163.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "19-Year-Old Oklahoma Woman Dies After Leaning Out of Car Window and Falling onto Interstate",
         "image": "https://media.zenfs.com/en/people_218/11d727e0754cbc33205b9ae84259dd6c",
         "link": "https://www.yahoo.com/news/articles/19-old-oklahoma-woman-dies-131814532.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "American journalist Shelly Kittleson has been released, an Iraqi official tells the AP",
-        "image": "https://media.zenfs.com/en/ap.org/c3ea1a49dafae178987200d3ac11f1a7",
-        "link": "https://www.yahoo.com/news/articles/iraqi-officials-believe-powerful-iran-140222163.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Afghanistan, Pakistan held 'useful' peace talks, Kabul says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/afghanistan-pakistan-held-useful-peace-talks-kabul-says/a-76698827?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Clashes between the Afghan Taliban and Pakistan reignited in February. Pakistan accuses Afghanistan of harboring hostile militants, which Kabul denies..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Florida Woman\u2019s Mugshot Goes Viral and the Internet Wants to Save Her",
-        "image": "https://media.zenfs.com/en/where_is_the_buzz_814/53175b9367e34cd8b34669133f80725a",
-        "link": "https://www.yahoo.com/news/articles/florida-woman-mugshot-goes-viral-142558772.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Virtual Romanian singer goes viral but sparks criticism",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/virtual-romanian-singer-goes-viral-but-sparks-criticism/a-76697967?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "In Romania, an AI-generated singer inspired by poems about the Roma community has become an overnight success. But critics say her creator is monetizi..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/uk-denies-kanye-west-entry-music-festival-canceled/a-76696623?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "US rapper Ye, formerly called Kanye West, has been denied entry into the UK over his numerous antisemitic outbursts. He had been scheduled to headline..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Gunman killed in shootout near Israel's Istanbul consulate",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/gunman-killed-in-shootout-near-israel-s-istanbul-consulate/a-76695392?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Israel has said it will \"not be intimidated\" after an apparent failed attack on its consulate in Istanbul. One man was killed who the Turkish governme..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "South Korea turns to EU to revive talks with the North",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/south-korea-turns-to-eu-to-revive-talks-with-the-north/a-76690973?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Seoul's unification minister has urged Brussels to act as mediator in North-South discussions, but Pyongyang still seems to show little appetite for i..."
     },
     {
         "source": "Leafly",
