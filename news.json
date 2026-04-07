@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Goldman Sachs' blunt warning to laid-off tech workers: It will take time and earnings loss to find a new job",
-        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-04/a1a26330-31bd-11f1-977b-2d04ae54a87b",
-        "link": "https://finance.yahoo.com/news/goldman-sachs-blunt-warning-to-laid-off-tech-workers-it-will-take-time-and-earnings-loss-to-find-a-new-job-143808064.html",
+        "title": "Russian grain ship believed sunk in Ukrainian drone attack is found and towed to shore, TASS says",
+        "image": "https://media.zenfs.com/en/reuters.com/feaa8bf56a6a393bc72c123cc030cd40",
+        "link": "https://www.yahoo.com/news/articles/russian-grain-ship-believed-sunk-150915954.html",
         "summary": "..."
     },
     {
@@ -71,10 +71,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany news: Minister floats fare-dodging decriminalization",
+        "title": "Hungary: US dispatches JD Vance to aid Orban reelection bid",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-minister-floats-fare-dodging-decriminalization/live-76683746?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A debate is brewing about whether fare-evasion on trams, buses and trains in Germany should no longer be a criminal offense. Meanwhile, companies are ..."
+        "link": "https://www.dw.com/en/hungary-us-dispatches-jd-vance-to-aid-orban-reelection-bid/a-76685625?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US is deploying Vice President JD Vance to stump for longtime Hungarian PM Viktor Orban who trails in election polls. Orban is a symbol of the glo..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,6 +82,13 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-news-nuclear-reactor-in-kalpakkam-attains-criticality/live-76682852?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "India is advancing its civil nuclear program with its Fast Breeder Reactor at Kalpakkam now able to self-sustain a nuclear chain reaction. In other ne..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Minister floats fare-dodging decriminalization",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-minister-floats-fare-dodging-decriminalization/live-76683746?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A debate is brewing about whether fare-evasion on trams, buses and trains in Germany should no longer be a criminal offense. Meanwhile, companies are ..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/taiwan-opposition-leader-heads-to-china-for-peace/a-76683490?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Kuomintang's chairwoman Cheng Li-wun hopes to meet Xi Jinping during her visit to China. Her goal, she said, is to \"to preserve peace is to preserve T..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Can small modular nuclear reactors solve Europe's energy woes?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/can-small-modular-nuclear-reactors-solve-europe-s-energy-woes/a-76623404?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Supporters say modular nuclear reactors are essential to meeting energy and climate goals, but critics slam them as a \"costly distraction\" that \"won't..."
     },
     {
         "source": "Leafly",
