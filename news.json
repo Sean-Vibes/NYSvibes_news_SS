@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russian grain ship believed sunk in Ukrainian drone attack is found and towed to shore, TASS says",
-        "image": "https://media.zenfs.com/en/reuters.com/feaa8bf56a6a393bc72c123cc030cd40",
-        "link": "https://www.yahoo.com/news/articles/russian-grain-ship-believed-sunk-150915954.html",
+        "title": "Trump backs away from seizing Iran's oil: 'Unfortunately, the American people would like to see us come home'",
+        "image": "https://s.yimg.com/uu/api/res/1.2/ghPHggC4gxR9f_PXGeXR_Q--~B/aD01Mzc5O3c9ODA2NzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/d4226269-9303-4808-b39b-ca3ae6373779",
+        "link": "https://finance.yahoo.com/sectors/energy/article/trump-backs-away-from-seizing-irans-oil-unfortunately-the-american-people-would-like-to-see-us-come-home-201041843.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/ct_insider_187/7167c8588b41e5fa623bf0f0084f90ff",
         "link": "https://www.yahoo.com/news/articles/wife-ct-man-charged-sexual-183508897.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Artemis II breaks record for farthest human spaceflight",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/artemis-ii-breaks-record-for-farthest-human-spaceflight/a-76677687?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Orion spacecraft is in its final phase, with NASA saying astronauts have broken Apollo 13's record for traveling the farthest distance from Earth...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/north-korea-welcomes-seoul-regret-over-drones-as-wise/a-76676137?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Pyongyang leader Kim Jong Un's sister says it was \"very fortunate and wise\" for South Korea's president to express regret for drone incursions into th..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Bombing of Iran's pharma producers threatens patients' lives",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/bombing-of-iran-s-pharma-producers-threatens-patients-lives/a-76680086?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As the US and Israel continue their war with Iran, airstrikes on Iranian pharmaceutical and medical facilities are harming thousands of people by deny..."
     },
     {
         "source": "Leafly",
