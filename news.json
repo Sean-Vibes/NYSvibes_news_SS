@@ -57,16 +57,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "American journalist Shelly Kittleson has been released, Iraqi officials tell the AP",
-        "image": "https://media.zenfs.com/en/ap.org/85a03ec3aff05d380933dea9d0a39d63",
-        "link": "https://www.yahoo.com/news/articles/iraqi-officials-believe-powerful-iran-140222163.html",
+        "title": "Russian grain ship believed sunk in Ukrainian drone attack is found and towed to shore, TASS says",
+        "image": "https://media.zenfs.com/en/reuters.com/feaa8bf56a6a393bc72c123cc030cd40",
+        "link": "https://www.yahoo.com/news/articles/russian-grain-ship-believed-sunk-150915954.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "19-Year-Old Oklahoma Woman Dies After Leaning Out of Car Window and Falling onto Interstate",
-        "image": "https://media.zenfs.com/en/people_218/11d727e0754cbc33205b9ae84259dd6c",
-        "link": "https://www.yahoo.com/news/articles/19-old-oklahoma-woman-dies-131814532.html",
+        "title": "Teen who went to photograph L.A. 'No Kings' rally shot, blinded by Homeland Security agent, attorney says",
+        "image": "https://media.zenfs.com/en/la_times_articles_853/06228b1627283b36ed54f4e7ca778e5a",
+        "link": "https://www.yahoo.com/news/articles/teen-went-photograph-l-no-181423079.html",
         "summary": "..."
     },
     {
@@ -106,6 +106,13 @@
     },
     {
         "source": "Leafly",
+        "title": "Support the Last Prisoner Project this 420 and beyond",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.leafly.com/news/lifestyle/support-the-last-prisoner-project",
+        "summary": "<p>Make a donation to Last Prisoner Project this 420 to help support cannabis criminal justice reform.</p>\n<p>The post <a href=\"https://www.leafly.com..."
+    },
+    {
+        "source": "Leafly",
         "title": "PurLife is offering big bags and big deals this 420",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.leafly.com/news/strains-products/purlife-is-offering-big-bags-and-big-deals-this-420",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.leafly.com/news/strains-products/star-signs-and-cannabis-strains-april-2026-horoscopes",
         "summary": "<p>It's time for your April 2026 horoscopes, and this month wastes no time! Take some time to reconnect with what you want versus what you need.</p>\n<..."
-    },
-    {
-        "source": "Leafly",
-        "title": "The best autoflowering seeds from Fast Buds for cannabis extraction",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.leafly.com/news/strains-products/the-best-autoflowering-seeds-from-fast-buds-for-cannabis-extraction",
-        "summary": "<p>Fast Buds has become a trusted source for stable, high-resin autoflowers that perform reliably from the garden and into the extraction lab. </p>\n<p..."
     }
 ]
