@@ -36,9 +36,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iraqi armed group says it will release abducted US journalist, says she must leave Iraq immediately",
-        "image": "https://media.zenfs.com/en/reuters.com/cdd9b1de6da60ab58781141ac87340ca",
-        "link": "https://www.yahoo.com/news/articles/iraqi-armed-group-says-release-185732372.html",
+        "title": "Russian grain ship believed sunk in Ukrainian drone attack is found and towed to shore, TASS says",
+        "image": "https://media.zenfs.com/en/reuters.com/feaa8bf56a6a393bc72c123cc030cd40",
+        "link": "https://www.yahoo.com/news/articles/russian-grain-ship-believed-sunk-150915954.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Former FedEx driver pleads guilty to killing 7-year-old girl after making delivery at her Texas home",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/ddf9f6c8d0d91af7dc27d90b8ca3e81f",
+        "link": "https://www.yahoo.com/news/articles/former-fedex-driver-pleads-guilty-221433035.html",
         "summary": "..."
     },
     {
@@ -50,24 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Florida Woman\u2019s Mugshot Goes Viral and the Internet Wants to Save Her",
-        "image": "https://media.zenfs.com/en/where_is_the_buzz_814/53175b9367e34cd8b34669133f80725a",
-        "link": "https://www.yahoo.com/news/articles/florida-woman-mugshot-goes-viral-142558772.html",
+        "title": "Massive explosion seen at Panama's Bridge of the Americas",
+        "image": "https://s.yimg.com/uu/api/res/1.2/RXz1I.4nE0RMKGfXTNKBdg--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/defceb66-f785-4fdf-b66b-e262d00169e6/main/1280x720/12s666ms/match/image.jpg",
+        "link": "https://www.yahoo.com/news/videos/massive-explosion-seen-panamas-bridge-090014197.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russian grain ship believed sunk in Ukrainian drone attack is found and towed to shore, TASS says",
-        "image": "https://media.zenfs.com/en/reuters.com/feaa8bf56a6a393bc72c123cc030cd40",
-        "link": "https://www.yahoo.com/news/articles/russian-grain-ship-believed-sunk-150915954.html",
+        "title": "Tesla just pulled off an EV shocker no one saw coming",
+        "image": "https://media.zenfs.com/en/thestreet_881/a103d2a43a66af1ae8f4f52b4d922697",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/tesla-just-pulled-off-ev-143700246.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Woman Rescues Struggling Swimmer, Then Learns He's Believed to Be Wanted For Double Murder",
-        "image": "https://media.zenfs.com/en/oxygen_166/e0cbd4820031cd9c86788cd1a449efe4",
-        "link": "https://www.yahoo.com/news/articles/woman-rescues-struggling-swimmer-then-181949018.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Iran war: Trump announces two-week ceasefire",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-trump-announces-two-week-ceasefire/live-76700191?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US President Donald Trump has pulled back from threats to annihilate Iran and announced a two-week ceasefire with Iran after receiving a 10-point prop..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukraine-several-killed-as-russia-strikes-bus-other-targets/a-76697817?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Meanwhile, Ukrainian drone strikes on Russia and Russian-occupied regions killed at least five, including a 12-year-old boy. Ukraine has been pushing ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UK denies Kanye West entry, music festival canceled",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-denies-kanye-west-entry-music-festival-canceled/a-76696623?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US rapper Ye, formerly called Kanye West, has been denied entry into the UK over his numerous antisemitic outbursts. He had been scheduled to headline..."
     },
     {
         "source": "Leafly",
