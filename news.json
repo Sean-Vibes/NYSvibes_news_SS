@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Texas officials investigating hundreds of complaints against Camp Mystic amid license renewal bid",
-        "image": "https://media.zenfs.com/en/ap.org/f9a6f74ce991c6f56fd8210519c6b64b",
-        "link": "https://www.yahoo.com/news/articles/texas-officials-investigating-hundreds-complaints-222930687.html",
+        "title": "Trump tariffs live updates: Trump announces 50% tariffs on any country supplying weapons to Iran",
+        "image": "https://s.yimg.com/uu/api/res/1.2/eaIgcAxuQMb5QdgVAI.12Q--~B/aD0zNTY1O3c9NTUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/99ba3427-4998-4a99-a55b-3ae07b8e8567",
+        "link": "https://finance.yahoo.com/economy/policy/article/trump-tariffs-live-updates-trump-announces-50-tariffs-on-any-country-supplying-weapons-to-iran-223100659.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Fired Universities of Wisconsin President Jay Rothman tells AP he was 'blindsided' by his ouster",
-        "image": "https://media.zenfs.com/en/ap.org/55f5b628c9fd3a2068557840d5e04810",
-        "link": "https://www.yahoo.com/news/articles/fired-universities-wisconsin-president-jay-145159736.html",
+        "title": "Cameroon says Russia has confirmed 16 Cameroonian soldiers died in Ukraine",
+        "image": "https://media.zenfs.com/en/ap.org/63dbc978a960794d5c5afb5a17afc294",
+        "link": "https://www.yahoo.com/news/articles/cameroon-says-russia-confirmed-16-112148572.html",
         "summary": "..."
     },
     {
@@ -106,6 +106,13 @@
     },
     {
         "source": "Leafly",
+        "title": "How ALTERD helps you expand your mind through intentional cannabis consumption",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.leafly.com/news/strains-products/how-alterd-helps-you-expand-your-mind-through-internional-cannabis-consumption",
+        "summary": "<p>Meet ALTERD: the new app to help you explore higher states of mind. </p>\n<p>The post <a href=\"https://www.leafly.com/news/strains-products/how-alte..."
+    },
+    {
+        "source": "Leafly",
         "title": "Support the Last Prisoner Project this 420 and beyond",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.leafly.com/news/lifestyle/support-the-last-prisoner-project",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.leafly.com/news/strains-products/from-the-earth-is-your-best-bud-this-420",
         "summary": "<p>Save all month long with these limited-time deals on Illicit products This 420, it pays to have good buds. That&#8217;s why From the Earth is pulli..."
-    },
-    {
-        "source": "Leafly",
-        "title": "Star signs and cannabis strains: April 2026 horoscopes",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.leafly.com/news/strains-products/star-signs-and-cannabis-strains-april-2026-horoscopes",
-        "summary": "<p>It's time for your April 2026 horoscopes, and this month wastes no time! Take some time to reconnect with what you want versus what you need.</p>\n<..."
     }
 ]
