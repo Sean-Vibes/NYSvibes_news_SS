@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Maryland Bill To Extend Psychedelics Task Force Through 2027 Heads To Governor\u2019s Desk",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/maryland-bill-to-extend-psychedelics-task-force-through-2027-heads-to-governors-desk/",
+        "summary": "<p>Maryland lawmakers have sent the governor a bill to extend a psychedelics task force through the end of 2027, charging... <a class=\"small font-mont..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "Pennsylvania governor steps up cannabis legalization push (Newsletter: April 8, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/pennsylvania-governor-steps-up-cannabis-legalization-push-newsletter-april-8-2026/",
+        "summary": "<p>DEA: marijuana rescheduling appeal still \u201cpending\u201d; GOP congressman: let states legalize; MO gov on hemp THC ban; ID medical cannabis... <a class=\"..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Pennsylvania Governor Says Legalizing Marijuana Will Raise Revenue To Support Kids And Public Safety Programs",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/pennsylvania-governor-says-legalizing-marijuana-will-raise-revenue-to-support-kids-and-public-safety-programs/",
@@ -21,24 +35,10 @@
         "summary": "<p>A Sandusky County court of common pleas judge has ruled that Ohio\u2019s new law banning the sale of intoxicating hemp-derived... <a class=\"small font-m..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Missouri Governor Says Restricting Hemp THC Products Is \u2018Something We Need To Get Done\u2019 As Ban Bill Heads To His Desk",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/missouri-governor-says-restricting-hemp-thc-products-is-something-we-need-to-get-done-as-ban-bill-heads-to-his-desk/",
-        "summary": "<p>Missouri\u2019s governor says the state needs to take steps to restrict the availability of intoxicating hemp-derived THC products in line... <a class=\"..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Marijuana Rescheduling Appeal Process \u2018Remains Pending\u2019 Despite Trump\u2019s Executive Order, DEA Says In New Filing",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/marijuana-rescheduling-appeal-process-remains-pending-despite-trumps-executive-order-dea-says-in-new-filing/",
-        "summary": "<p>The Drug Enforcement Administration (DEA) says the marijuana rescheduling appeal process \u201cremains pending\u201d despite President Donald Trump issuing a..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Pope says Trump's threat to destroy Iranian civilization is 'truly unacceptable'",
-        "image": "https://media.zenfs.com/en/ap.org/cc226b5fdd5779a0569f4b7423f14ccf",
-        "link": "https://www.yahoo.com/news/articles/pope-says-trumps-threat-destroy-185014702.html",
+        "title": "Russian grain ship believed sunk in Ukrainian drone attack is found and towed to shore, TASS says",
+        "image": "https://media.zenfs.com/en/reuters.com/feaa8bf56a6a393bc72c123cc030cd40",
+        "link": "https://www.yahoo.com/news/articles/russian-grain-ship-believed-sunk-150915954.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "McDonald's is getting eaten alive by revamped Burger King Whopper",
-        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-02/b2672100-135f-11f1-a75f-b3c02062e173",
-        "link": "https://finance.yahoo.com/news/mcdonalds-is-getting-eaten-alive-by-revamped-burger-king-whopper-155430561.html",
+        "title": "Pope says Trump's threat to destroy Iranian civilization is 'truly unacceptable'",
+        "image": "https://media.zenfs.com/en/ap.org/cc226b5fdd5779a0569f4b7423f14ccf",
+        "link": "https://www.yahoo.com/news/articles/pope-says-trumps-threat-destroy-185014702.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "NASA\u2019s Moon Mission Is A Total Failure, And A Complete Embarrassment",
-        "image": "https://media.zenfs.com/en/giant_freakin_robot_articles_628/111a57b0f0d8f4da4bf9721d8048712e",
-        "link": "https://www.yahoo.com/news/articles/nasa-moon-mission-total-failure-023847074.html",
+        "title": "McDonald's rival franchisee files Chapter 11, 65 restaurants at risk",
+        "image": "https://media.zenfs.com/en/thestreet_881/82cd92be24fa02ba1588ac60b86887e6",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-rival-franchisee-files-chapter-202300083.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "What's next after the US-Iran ceasefire?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/what-s-next-after-the-us-iran-ceasefire/a-76706834?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US, Israel and Iran have agreed to cease hostilities for two weeks after Islamabad mediated a temporary truce. The deal is a major achievement for..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "How farmers adapt as Iran war fertilizer crunch heats up",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/how-farmers-adapt-as-iran-war-fertilizer-crunch-heats-up/a-76705488?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The war in Iran has sparked a global fertilizer shortage and is threatening food security. What are farmers around the world doing to save their crops..."
     },
     {
         "source": "Deutsche Welle",
@@ -78,31 +92,17 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Taiwan opposition leader makes rare visit to China",
+        "title": "Taiwan opposition leader Cheng Li-wun makes rare China visit",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/taiwan-opposition-leader-makes-rare-visit-to-china/a-76704627?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/taiwan-opposition-leader-cheng-li-wun-makes-rare-china-visit/a-76704627?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "During a visit to a memorial for Taiwan's founding father in Nanjing, KMT leader Cheng Li-wun called for \"reconciliation and unity\" with Beijing. Taiw..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Should Western travel influencers be promoting Afghanistan?",
+        "title": "Should Western travel influencers promote Taliban-ruled Afghanistan?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/should-western-travel-influencers-be-promoting-afghanistan/a-76652902?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In the race for clicks, likes and followers, some travel influencers are being criticized for promoting Afghanistan while ignoring the harsh reality o..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "60 years after the Indonesian mass killings: Is the Cold War back?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/60-years-after-the-indonesian-mass-killings-is-the-cold-war-back/a-76504740?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Six decades after helping the Indonesian army crush one of the biggest communist parties in the world, the US is once again meddling in countries it c..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Will AI doom office space to history?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/will-ai-doom-office-space-to-history/a-76609217?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Artificial intelligence's potential for disruption is being felt across multiple industries. Now commercial real estate is feeling the heat from what ..."
+        "link": "https://www.dw.com/en/should-western-travel-influencers-promote-taliban-ruled-afghanistan/a-76652902?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "In the race for clicks, likes and followers, some travel content creators are being criticized for promoting Afghanistan while ignoring the harsh real..."
     },
     {
         "source": "Leafly",
