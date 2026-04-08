@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Cameroon says Russia has confirmed 16 Cameroonian soldiers died in Ukraine",
-        "image": "https://media.zenfs.com/en/ap.org/63dbc978a960794d5c5afb5a17afc294",
-        "link": "https://www.yahoo.com/news/articles/cameroon-says-russia-confirmed-16-112148572.html",
+        "title": "Pope says Trump's threat to destroy Iranian civilization is 'truly unacceptable'",
+        "image": "https://media.zenfs.com/en/ap.org/cc226b5fdd5779a0569f4b7423f14ccf",
+        "link": "https://www.yahoo.com/news/articles/pope-says-trumps-threat-destroy-185014702.html",
         "summary": "..."
     },
     {
@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "NASA\u2019s Moon Mission Is A Total Failure, And A Complete Embarrassment",
-        "image": "https://media.zenfs.com/en/giant_freakin_robot_articles_628/111a57b0f0d8f4da4bf9721d8048712e",
-        "link": "https://www.yahoo.com/news/articles/nasa-moon-mission-total-failure-023847074.html",
+        "title": "Hannity Awkwardly Tells DeSantis, \u2018I Didn\u2019t Know That It Was Legal to Marry a First Cousin\u2019 in Florida",
+        "image": "https://media.zenfs.com/en/mediaite_845/4b999a4e48ac285e1b8fac2be9208247",
+        "link": "https://www.yahoo.com/entertainment/celebrity/articles/hannity-awkwardly-tells-desantis-didn-025008403.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Tesla just pulled off an EV shocker no one saw coming",
-        "image": "https://media.zenfs.com/en/thestreet_881/a103d2a43a66af1ae8f4f52b4d922697",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/tesla-just-pulled-off-ev-143700246.html",
+        "title": "NASA\u2019s Moon Mission Is A Total Failure, And A Complete Embarrassment",
+        "image": "https://media.zenfs.com/en/giant_freakin_robot_articles_628/111a57b0f0d8f4da4bf9721d8048712e",
+        "link": "https://www.yahoo.com/news/articles/nasa-moon-mission-total-failure-023847074.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India's digital census prompts fear of hidden agendas",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-s-digital-census-prompts-fear-of-hidden-agendas/a-76693150?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The world's most populous country has launched a fully digital census which involves millions of enumerators and also allows the people to report thei..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Taiwan opposition leader makes rare visit to China",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/taiwan-opposition-leader-makes-rare-visit-to-china/a-76704627?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "During a visit to a memorial for Taiwan's founding father in Nanjing, KMT leader Cheng Li-wun called for \"reconciliation and unity\" with Beijing. Taiw..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/will-ai-doom-office-space-to-history/a-76609217?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Artificial intelligence's potential for disruption is being felt across multiple industries. Now commercial real estate is feeling the heat from what ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Military travel rule for young men put on hold",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-military-travel-rule-for-young-men-put-on-hold/live-76701957?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany's defense minister says a requirement for men aged 17 to 45 to seek permission for long stays abroad will not apply \u2014 for now. Meanwhile, Germ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: Assam, Kerala, Puducherry gear up for elections",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-assam-kerala-puducherry-gear-up-for-elections/live-76701889?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Voters across two states and one union territory in India will cast their ballot in Assembly elections tomorrow...."
     },
     {
         "source": "Leafly",
