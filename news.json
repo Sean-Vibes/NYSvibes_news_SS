@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Pope says Trump's threat to destroy Iranian civilization is 'truly unacceptable'",
-        "image": "https://media.zenfs.com/en/ap.org/cc226b5fdd5779a0569f4b7423f14ccf",
-        "link": "https://www.yahoo.com/news/articles/pope-says-trumps-threat-destroy-185014702.html",
+        "title": "Trump, 79, Grips Onto Melania for Dear Life Down White House Steps",
+        "image": "https://media.zenfs.com/en/video.dailybeast.com/8fc28bf1debf21ec589caca12c7055b1",
+        "link": "https://www.yahoo.com/news/videos/trump-79-grips-onto-melania-175836485.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Woman Rescues Struggling Swimmer, Then Learns He's Believed to Be Wanted For Double Murder",
-        "image": "https://media.zenfs.com/en/oxygen_166/e0cbd4820031cd9c86788cd1a449efe4",
-        "link": "https://www.yahoo.com/news/articles/woman-rescues-struggling-swimmer-then-181949018.html",
+        "title": "Tesla just pulled off an EV shocker no one saw coming",
+        "image": "https://media.zenfs.com/en/thestreet_881/a103d2a43a66af1ae8f4f52b4d922697",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/tesla-just-pulled-off-ev-143700246.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Turkey: DW correspondent Alican Uludag remains in custody",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/turkey-dw-correspondent-alican-uludag-remains-in-custody/a-76698562?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "DW correspondent Alican Uludag has been in pre-trial detention in Istanbul for six weeks, charged with 'insulting the president.' His lawyers say this..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "North Korea fires ballistic missiles toward sea",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/north-korea-fires-ballistic-missiles-toward-sea/a-76700950?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "North Korea has fired more missiles toward the sea for a second day. The back-to-back launches came as Pyongyang reiterated that it has no intentions ..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/virtual-romanian-singer-goes-viral-but-sparks-criticism/a-76697967?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "In Romania, an AI-generated singer inspired by poems about the Roma community has become an overnight success. But critics say her creator is monetizi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Artemis II: Crew snaps 'Earthset' in throwback to Apollo 8",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/artemis-ii-crew-snaps-earthset-in-throwback-to-apollo-8/a-76698514?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Artemis II astronauts photographed the moment when the Earth dips below the moon's horizon, as they prepare to return to our planet's gravitationa..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine: Several killed as Russia strikes bus, other targets",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-several-killed-as-russia-strikes-bus-other-targets/a-76697817?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Meanwhile, Ukrainian drone strikes on Russia and Russian-occupied regions killed at least five, including a 12-year-old boy. Ukraine has been pushing ..."
     },
     {
         "source": "Leafly",
