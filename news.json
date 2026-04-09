@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Texas officials investigating hundreds of complaints against Camp Mystic amid license renewal bid",
-        "image": "https://media.zenfs.com/en/ap.org/f9a6f74ce991c6f56fd8210519c6b64b",
-        "link": "https://www.yahoo.com/news/articles/texas-officials-investigating-hundreds-complaints-222930687.html",
+        "title": "Cameroon says Russia has confirmed 16 Cameroonian soldiers died in Ukraine",
+        "image": "https://media.zenfs.com/en/ap.org/63dbc978a960794d5c5afb5a17afc294",
+        "link": "https://www.yahoo.com/news/articles/cameroon-says-russia-confirmed-16-112148572.html",
         "summary": "..."
     },
     {
@@ -71,6 +71,13 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Iran threatens new hostilities as Israel pounds Lebanon",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-threatens-new-hostilities-as-israel-pounds-lebanon/live-76715205?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The two-week truce between the US, Israel and Iran has started showing cracks as the sides disagreed on Lebanon's inclusion in the ceasefire agreement..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Trump criticizes NATO over Iran in meeting with Rutte",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/trump-criticizes-nato-over-iran-in-meeting-with-rutte/a-76715197?maca=en-rss-en-all-1573-xml-mrss",
@@ -78,7 +85,7 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iran war: who gained ground, who lost influence",
+        "title": "Iran war: Who gained ground, who lost influence",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-who-gained-ground-who-lost-influence/a-76712134?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "While civilians in the region pay the highest price, the Iran war has reshaped power balances far beyond the Gulf. Some states have gained leverage. O..."
@@ -98,17 +105,10 @@
         "summary": "A Swedish non-profit has filed a class action lawsuit against Norway's Telenor, accusing it of endangering customers in Myanmar by sharing their data ..."
     },
     {
-        "source": "Deutsche Welle",
-        "title": "Nigeria: At least 20 killed in attack, residents say",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nigeria-at-least-20-killed-in-attack-residents-say/a-76711053?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Authorities in Nigeria's restive north put the death toll at three, but residents and humanitarians point to a higher toll. The attack occurred in an ..."
-    },
-    {
         "source": "Leafly",
         "title": "How ALTERD helps you expand your mind through intentional cannabis consumption",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.leafly.com/news/strains-products/how-alterd-helps-you-expand-your-mind-through-internional-cannabis-consumption",
+        "link": "https://www.leafly.com/news/strains-products/how-alterd-helps-you-expand-your-mind-through-intentional-cannabis-consumption",
         "summary": "<p>Meet ALTERD: the new app to help you explore higher states of mind. </p>\n<p>The post <a href=\"https://www.leafly.com/news/strains-products/how-alte..."
     },
     {
