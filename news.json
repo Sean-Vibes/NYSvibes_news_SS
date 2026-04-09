@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Massachusetts Bill Letting People Possess Twice As Much Legal Marijuana And Revising Industry Rules Heads To Governor",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/massachusetts-bill-letting-people-possess-twice-as-much-legal-marijuana-and-revising-industry-rules-heads-to-governor/",
+        "summary": "<p>Massachusetts lawmakers have passed a bill to double the legal marijuana possession limit for adults and revise the regulatory framework... <a clas..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "Connecticut Senate Votes To Expand Psychedelics Pilot Program In Anticipation Of FDA Approval",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/connecticut-senate-votes-to-expand-psychedelics-pilot-program-in-anticipation-of-fda-approval/",
+        "summary": "<p>The Connecticut Senate has passed a bill to expand a pilot program that\u2019s meant to explore the therapeutic potential of... <a class=\"small font-mon..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Louisiana Senate Passes Bill To Let Terminally Ill Patients Use Medical Marijuana In Hospitals",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/louisiana-senate-passes-bill-to-let-terminally-ill-patients-use-medical-marijuana-in-hospitals/",
@@ -21,31 +35,10 @@
         "summary": "<p>DOJ funds marijuana breathalyzer research; MA cannabis restructuring vote; TX hemp lawsuit; VA gov signs psilocybin bill; MD psychedelics bill... <..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Massachusetts Lawmakers Unanimously Pass Bill To Double Marijuana Possession Limit And Restructure Cannabis Commission",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/massachusetts-lawmakers-unanimously-pass-bill-to-double-marijuana-possession-limit-and-restructure-cannabis-commission/",
-        "summary": "<p>Massachusetts House lawmakers have unanimously passed a bill to double the legal marijuana possession limit for adults and revise the... <a class=\"..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Virginia Governor Signs Bills To Automatically Legalize Psilocybin Following Federal Approval Of The Psychedelic",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/virginia-governor-signs-bills-to-automatically-legalize-psilocybin-following-federal-approval-of-the-psychedelic/",
-        "summary": "<p>Virginia\u2019s governor has signed a pair of bills that will legalize a form of psilocybin under state law if and... <a class=\"small font-montserrat fo..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Trump tariffs live updates: Trump announces 50% tariffs on any country supplying weapons to Iran",
         "image": "https://s.yimg.com/uu/api/res/1.2/eaIgcAxuQMb5QdgVAI.12Q--~B/aD0zNTY1O3c9NTUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/99ba3427-4998-4a99-a55b-3ae07b8e8567",
         "link": "https://finance.yahoo.com/economy/policy/article/trump-tariffs-live-updates-trump-announces-50-tariffs-on-any-country-supplying-weapons-to-iran-223100659.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Dunkin\u2019 exits an entire market in 2026 after 14 years",
-        "image": "https://media.zenfs.com/en/thestreet_881/4eefc8d58f465b4e88be074a2a936c55",
-        "link": "https://finance.yahoo.com/economy/policy/articles/dunkin-exits-entire-market-2026-181700110.html",
         "summary": "..."
     },
     {
@@ -57,17 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "More than 15 countries planning to facilitate Strait of Hormuz access, Macron says",
-        "image": "https://media.zenfs.com/en/reuters.com/0617d1ef48ef740b479672198f3eca58",
-        "link": "https://www.yahoo.com/news/articles/more-15-countries-planning-facilitate-080152140.html",
+        "title": "Dunkin\u2019 exits an entire market in 2026 after 14 years",
+        "image": "https://media.zenfs.com/en/thestreet_881/4eefc8d58f465b4e88be074a2a936c55",
+        "link": "https://finance.yahoo.com/economy/policy/articles/dunkin-exits-entire-market-2026-181700110.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Apple Warns All iPhone Users\u2014Do Not Answer These Calls And Texts",
-        "image": "https://media.zenfs.com/en/forbes_contributor_845/daa93ffd6c4323a1401649be5449dba0",
-        "link": "https://tech.yahoo.com/cybersecurity/articles/apple-warns-iphone-users-not-220917210.html",
+        "title": "Russia says it welcomes Iran ceasefire, hopes US will now resume Ukraine talks",
+        "image": "https://media.zenfs.com/en/reuters.com/9aee3ca776825f50ed14abe038ac8b25",
+        "link": "https://www.yahoo.com/news/articles/russia-says-welcomes-iran-ceasefire-095820811.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "JD Vance Spent All Night in Iran Peace Talks as Trump Threatens He\u2019s \u2018Blowing Up Everything\u2019",
+        "image": "https://media.zenfs.com/en/national_enquirer_328/48c97f9f85c54959d3f49c290d1eab9d",
+        "link": "https://www.yahoo.com/entertainment/videos/jd-vance-spent-night-iran-130109899.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Israel says it will hold talks with Lebanon 'soon'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-israel-says-it-will-hold-talks-with-lebanon-soon/live-76715205?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran had accused Israel of violating the ceasefire by launching massive attacks on Lebanon on Wednesday. Meanwhile, Germany has said it is ready to re..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Russia labels human rights group Memorial 'extremist'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/russia-labels-human-rights-group-memorial-extremist/a-76726398?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Russia's Supreme Court deemed the storied rights organization Memorial \"clearly anti-Russian\" in a closed-door ruling. Memorial said the decision mark..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/fragile-iran-truce-brings-brief-relief-to-african-markets/a-76690956?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The truce between the US, Israel and Iran has eased pressure on African markets. But economists warn that deep\u2011rooted vulnerabilities mean the rebound..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Fact check: Orban points to Ukraine over pipeline bomb",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fact-check-orban-points-to-ukraine-over-pipeline-bomb/a-76690990?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Orban strongly suggests explosives found near a key gas pipeline in Serbia are evidence of Ukrainian sabotage. Serbia's intelligence chief publicly di..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Southeast Asia trusts the EU more, but Brussels still has work to do",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/southeast-asia-trusts-the-eu-more-but-brussels-still-has-work-to-do/a-76721986?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Southeast Asia increasingly sees the European Union as a trusted hedge against US-China rivalry, but analysts say Brussels will need stronger politica..."
     },
     {
         "source": "Leafly",
