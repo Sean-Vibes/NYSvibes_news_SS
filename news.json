@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump tariffs live updates: Trump announces 50% tariffs on any country supplying weapons to Iran",
-        "image": "https://s.yimg.com/uu/api/res/1.2/eaIgcAxuQMb5QdgVAI.12Q--~B/aD0zNTY1O3c9NTUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/99ba3427-4998-4a99-a55b-3ae07b8e8567",
-        "link": "https://finance.yahoo.com/economy/policy/article/trump-tariffs-live-updates-trump-announces-50-tariffs-on-any-country-supplying-weapons-to-iran-223100659.html",
+        "title": "Cameroon says Russia has confirmed 16 Cameroonian soldiers died in Ukraine",
+        "image": "https://media.zenfs.com/en/ap.org/63dbc978a960794d5c5afb5a17afc294",
+        "link": "https://www.yahoo.com/news/articles/cameroon-says-russia-confirmed-16-112148572.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Dunkin\u2019 exits an entire market in 2026 after 14 years",
+        "image": "https://media.zenfs.com/en/thestreet_881/4eefc8d58f465b4e88be074a2a936c55",
+        "link": "https://finance.yahoo.com/economy/policy/articles/dunkin-exits-entire-market-2026-181700110.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump tariffs live updates: Trump announces 50% tariffs on any country supplying weapons to Iran",
+        "image": "https://s.yimg.com/uu/api/res/1.2/eaIgcAxuQMb5QdgVAI.12Q--~B/aD0zNTY1O3c9NTUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/99ba3427-4998-4a99-a55b-3ae07b8e8567",
+        "link": "https://finance.yahoo.com/economy/policy/article/trump-tariffs-live-updates-trump-announces-50-tariffs-on-any-country-supplying-weapons-to-iran-223100659.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "McDonald's rival franchisee files Chapter 11, 65 restaurants at risk",
         "image": "https://media.zenfs.com/en/thestreet_881/82cd92be24fa02ba1588ac60b86887e6",
         "link": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-rival-franchisee-files-chapter-202300083.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran shoots down US Air Force A-10 Warthog in a firefight during fighter jet rescue mission",
-        "image": "https://media.zenfs.com/en/business_insider_video_319/61589f1dfabfe0af280dadd4a4200e35",
-        "link": "https://www.yahoo.com/news/videos/iran-shoots-down-us-air-172537795.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Artemis II crew emotional as mission prepares for reentry",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/artemis-ii-crew-emotional-as-mission-prepares-for-reentry/a-76717707?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "In less than 48 hours, the Orion spacecraft is due to splash down in the Pacific Ocean. Crew members have said what they saw in space will forever cha..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Dunkin\u2019 exits an entire market in 2026 after 14 years",
-        "image": "https://media.zenfs.com/en/thestreet_881/4eefc8d58f465b4e88be074a2a936c55",
-        "link": "https://finance.yahoo.com/economy/policy/articles/dunkin-exits-entire-market-2026-181700110.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Germany news: Gas price hike higher than other EU countries",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-gas-price-hike-higher-than-other-eu-countries/live-76716252?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Fueled by the Middle East war, German petrol prices have risen more sharply than in neighboring EU countries. Follow DW...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Guinea-Bissau on edge after activist's killing",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/guinea-bissau-on-edge-after-activist-s-killing/a-76704388?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The death of activist Vigario Luis Balanta, found with signs of extreme violence, has triggered protests and accusations against Guinea-Bissau's milit..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-news-kerala-assam-and-puducherry-head-to-polls/live-76715999?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "It's election season in India with voters in two states and a union territory headed to polls. Meanwhile, Dhaka has once again asked India to extradit..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Matthew Perry's 'Ketamine Queen' dealer jailed for 15 years",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/matthew-perry-s-ketamine-queen-dealer-jailed-for-15-years/a-76715711?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Jasveen Sangha, a British-American dual citizen, had pleaded guilty to supplying the \"Friends\" star with the drugs that led to the actor's death in 20..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran threatens new hostilities as Israel pounds Lebanon",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-threatens-new-hostilities-as-israel-pounds-lebanon/live-76715205?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The two-week truce between the US, Israel and Iran has started showing cracks as the sides disagreed on Lebanon's inclusion in the ceasefire agreement..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump criticizes NATO over Iran in meeting with Rutte",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-criticizes-nato-over-iran-in-meeting-with-rutte/a-76715197?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "President Donald Trump said NATO \"wasn't there\" after the US and Israel launched attacks on Iran. But NATO head Mark Rutte said \"a large majority of E..."
     },
     {
         "source": "Leafly",
