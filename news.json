@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Cameroon says Russia has confirmed 16 Cameroonian soldiers died in Ukraine",
-        "image": "https://media.zenfs.com/en/ap.org/63dbc978a960794d5c5afb5a17afc294",
-        "link": "https://www.yahoo.com/news/articles/cameroon-says-russia-confirmed-16-112148572.html",
+        "title": "Iran shoots down US Air Force A-10 Warthog in a firefight during fighter jet rescue mission",
+        "image": "https://media.zenfs.com/en/business_insider_video_319/61589f1dfabfe0af280dadd4a4200e35",
+        "link": "https://www.yahoo.com/news/videos/iran-shoots-down-us-air-172537795.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,27 @@
         "image": "https://media.zenfs.com/en/thestreet_881/4eefc8d58f465b4e88be074a2a936c55",
         "link": "https://finance.yahoo.com/economy/policy/articles/dunkin-exits-entire-market-2026-181700110.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Hungarian election: How football has helped Orban keep power",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/hungarian-election-how-football-has-helped-orban-keep-power/a-76705555?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Viktor Orban is a football fanatic but has long used the sport as a political tool, both at home and abroad. With polls predicting election defeat, he..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Kerala, Assam and Puducherry head to polls",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-kerala-assam-and-puducherry-head-to-polls/live-76715999?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "It's election season in India with voters in two states and a union territory headed to polls. Meanwhile, Dhaka has once again asked India to extradit..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Matthew Perry's 'Ketamine Queen' dealer jailed for 15 years",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/matthew-perry-s-ketamine-queen-dealer-jailed-for-15-years/a-76715711?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Jasveen Sangha, a British-American dual citizen, had pleaded guilty to supplying the \"Friends\" star with the drugs that led to the actor's death in 20..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/trump-criticizes-nato-over-iran-in-meeting-with-rutte/a-76715197?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "President Donald Trump said NATO \"wasn't there\" after the US and Israel launched attacks on Iran. But NATO head Mark Rutte said \"a large majority of E..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Who gained ground, who lost influence",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-who-gained-ground-who-lost-influence/a-76712134?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "While civilians in the region pay the highest price, the Iran war has reshaped power balances far beyond the Gulf. Some states have gained leverage. O..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Lufthansa cabin crew to strike on Friday, UFO trade union says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-lufthansa-cabin-crew-to-strike-on-friday-ufo-trade-union-says/live-76701957?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The latest strike to hit Germany's flagship carrier hails from the cabin crew union UFO. Meanwhile, Berlin is walking back a contentious plan about yo..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Norway's Telenor faces lawsuit for giving junta data from its customers in Myanmar",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/norway-s-telenor-faces-lawsuit-for-giving-junta-data-from-its-customers-in-myanmar/a-76710104?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A Swedish non-profit has filed a class action lawsuit against Norway's Telenor, accusing it of endangering customers in Myanmar by sharing their data ..."
     },
     {
         "source": "Leafly",
