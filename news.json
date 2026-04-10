@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Palantir stock plunges after 'Big Short' investor Michael Burry says Anthropic is eating its lunch",
-        "image": "https://s.yimg.com/os/creatr-uploaded-images/2021-02/ddc0fec0-6ae5-11eb-8fff-ee2032cdaf88",
-        "link": "https://finance.yahoo.com/news/palantir-stock-plunges-after-big-short-investor-michael-burry-says-anthropic-is-eating-its-lunch-171120431.html",
+        "title": "Louisiana GOP races to eliminate an elected office won by an exonerated man",
+        "image": "https://media.zenfs.com/en/ap.org/e36b475d95bf3e5a4b6fc83b5a8986b0",
+        "link": "https://www.yahoo.com/news/articles/louisiana-gop-races-eliminate-elected-195323755.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump tariffs live updates: Trump announces 50% tariffs on any country supplying weapons to Iran",
-        "image": "https://s.yimg.com/uu/api/res/1.2/eaIgcAxuQMb5QdgVAI.12Q--~B/aD0zNTY1O3c9NTUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/99ba3427-4998-4a99-a55b-3ae07b8e8567",
-        "link": "https://finance.yahoo.com/economy/policy/article/trump-tariffs-live-updates-trump-announces-50-tariffs-on-any-country-supplying-weapons-to-iran-223100659.html",
+        "title": "Palantir stock plunges after 'Big Short' investor Michael Burry says Anthropic is eating its lunch",
+        "image": "https://s.yimg.com/os/creatr-uploaded-images/2021-02/ddc0fec0-6ae5-11eb-8fff-ee2032cdaf88",
+        "link": "https://finance.yahoo.com/news/palantir-stock-plunges-after-big-short-investor-michael-burry-says-anthropic-is-eating-its-lunch-171120431.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Renowned Southern California chef killed in car crash",
-        "image": "https://media.zenfs.com/en/ktla_articles_362/881da6a30bbca2e5b81699936629af84",
-        "link": "https://www.yahoo.com/news/articles/renowned-southern-california-chef-killed-225908182.html",
+        "title": "Russia's AK-47 manufacturer is making special bullets for its assault rifles to knock drones out of the sky",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/acc6832edb267d9ae0855588297e7d6b",
+        "link": "https://www.yahoo.com/news/articles/russias-ak-47-manufacturer-making-043813349.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Recycling's next big thing \u2014 or big bluff?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/recycling-s-next-big-thing-or-big-bluff/a-76509313?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "An advanced recycling process claims it can handle hard-to-recycle plastics, like packaging. But critics say it's not worth the effort...."
     },
     {
         "source": "Deutsche Welle",
@@ -85,24 +92,17 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Zambia: Is the US trading HIV treatment for resources?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/zambia-is-the-us-trading-hiv-treatment-for-resources/a-76713048?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US is reportedly leveraging health aid to gain access to Zambia's critical minerals. Millions depend on US funding for HIV, tuberculosis and malar..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "From the Nile to the Euphrates: Inside Israel's expansionist ambitions",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/from-the-nile-to-the-euphrates-inside-israel-s-expansionist-ambitions/a-76711994?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Israel has never officially defined its borders, but Israeli settlers and ministers are flirting with the biblical idea of extending them far beyond t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Zambia: Is the US trading HIV treatment for minerals?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/zambia-is-the-us-trading-hiv-treatment-for-minerals/a-76713048?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US is reportedly leveraging health aid to gain access to Zambia's critical minerals. Millions depend on US funding for HIV, tuberculosis, and mala..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: Rubio to visit India for trade, Quad talks",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-rubio-to-visit-india-for-trade-quad-talks/live-76730062?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US Secretary of State's visit to India is likely to center around the Quad alliance and energy trade. Meanwhile, India-bound crude tankers have re..."
     },
     {
         "source": "Leafly",
