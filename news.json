@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "More than 15 countries planning to facilitate Strait of Hormuz access, Macron says",
-        "image": "https://media.zenfs.com/en/reuters.com/0617d1ef48ef740b479672198f3eca58",
-        "link": "https://www.yahoo.com/news/articles/more-15-countries-planning-facilitate-080152140.html",
+        "title": "BofA hikes 2026 chips forecast to $1.3 trillion, names Nvidia, Broadcom, Marvell, AMD as top drivers",
+        "image": "https://s.yimg.com/uu/api/res/1.2/DnvekzT9alHyd5XmmnPViA--~B/aD00NDkyO3c9NjU4MTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-03/c0058f78-ba81-4474-9dac-685473a1ef3c",
+        "link": "https://finance.yahoo.com/news/bofa-hikes-2026-chips-forecast-to-13-trillion-names-nvidia-broadcom-marvell-amd-as-top-drivers-164800203.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Accidental lab discovery reveals bed bugs are terrified of this simple thing",
-        "image": "https://media.zenfs.com/en/the_independent_635/634e0d01c1708a811c54534933a29146",
-        "link": "https://www.yahoo.com/news/articles/accidental-discovery-reveals-simple-thing-043813138.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "NASA Artemis II astronauts prepare to end moon mission in 'fireball' re-entry",
-        "image": "https://media.zenfs.com/en/reuters.com/dbd587cd33f3a1f4f391bf017376f797",
-        "link": "https://www.yahoo.com/news/articles/nasa-artemis-ii-astronauts-speak-212333874.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Renowned Southern California chef killed in car crash",
         "image": "https://media.zenfs.com/en/ktla_articles_362/881da6a30bbca2e5b81699936629af84",
         "link": "https://www.yahoo.com/news/articles/renowned-southern-california-chef-killed-225908182.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Russia says it welcomes Iran ceasefire, hopes US will now resume Ukraine talks",
+        "image": "https://media.zenfs.com/en/reuters.com/9aee3ca776825f50ed14abe038ac8b25",
+        "link": "https://www.yahoo.com/news/articles/russia-says-welcomes-iran-ceasefire-095820811.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Waxers, doctors, and nurses share their unfiltered inner thoughts about your \u2018privates.\u2019",
+        "image": "https://media.zenfs.com/en/upworthy_219/8a79c39cc5cf6fe4be41c9b352f81512",
+        "link": "https://www.yahoo.com/lifestyle/articles/waxers-doctors-nurses-share-unfiltered-214107135.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: US to host Israel, Lebanon peace talks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-us-to-host-israel-lebanon-peace-talks/live-76729523?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Even as Israel has continued its attacks on Lebanon and Hezbollah has launched rockets into Israel, the US State Department reportedly said it will ho..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Lufthansa cabin crew begin strike",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/lufthansa-cabin-crew-begin-strike/a-76729592?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Hundreds of flights have been canceled as cabin crew members walk out. This is Lufthansa's third major strike this year...."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/melania-trump-denies-ties-to-epstein-in-white-house-video/a-76728289?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "President Donald Trump's wife, Melania, denied having been friends with late sex offender Jeffrey Epstein and his associate Ghislaine Maxwell. The pre..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine and Syria tighten relations",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-and-syria-tighten-relations/a-76727981?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukrainian President Volodymyr Zelenskyy\u2019s visit to Syria was not only a diplomatic gesture but motivated by strategic considerations regarding Russia,..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "International development aid suffers unprecedented 2025 dip, led by Trump gutting USAID",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/international-development-aid-suffers-unprecedented-2025-dip-led-by-trump-gutting-usaid/a-76726606?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "International development aid spending fell by more than one-fifth in real terms last year, the biggest dip on record. The US slashing its outlay by m..."
     },
     {
         "source": "Leafly",
