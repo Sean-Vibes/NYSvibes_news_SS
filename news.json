@@ -57,17 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Taiwan's opposition leader meets China's Xi Jinping as both sides call for peace",
-        "image": "https://media.zenfs.com/en/ap.org/1116f129d065eac1d25b7f34afedc471",
-        "link": "https://www.yahoo.com/news/articles/taiwans-opposition-leader-meets-chinas-054517751.html",
+        "title": "NASA Artemis II astronauts prepare to end moon mission in 'fireball' re-entry",
+        "image": "https://media.zenfs.com/en/reuters.com/dbd587cd33f3a1f4f391bf017376f797",
+        "link": "https://www.yahoo.com/news/articles/nasa-artemis-ii-astronauts-speak-212333874.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ex-University of Kentucky Cheerleader Laken Snelling Accused of Killing Newborn Pleads Not Guilty",
-        "image": "https://media.zenfs.com/en/globe_458/0158936126d5c43c6d24174c6875823b",
-        "link": "https://www.yahoo.com/news/articles/ex-university-kentucky-cheerleader-laken-133808256.html",
+        "title": "Home Depot Is Clearing Out Ryobi Power Tools for Spring Black Friday\u2014Save Up to 60% Off Drills, Sanders, Combo Kits, and More",
+        "image": "https://media.zenfs.com/en/bob_vila_530/cd416a66313c62cb2edbd32686c4e756",
+        "link": "https://shopping.yahoo.com/home-garden/home-improvement/articles/home-depot-clearing-ryobi-power-154002000.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "As Hungary gears up for a historic election, DW answers a few key questions",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/as-hungary-gears-up-for-a-historic-election-dw-answers-a-few-key-questions/a-76723501?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Hungary's election on April 12 is the most important for the state since 1989, and also of historic significance for the EU. DW takes a more detailed ..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-rifts-in-regime-bigger-threat-to-ceasefire/a-76739876?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "As the US and Iran gear up for high-stakes talks, the bigger question is whether Tehran can hold the line amid signs of fractures within the regime...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Xi sells 'peace' message to Taiwan opposition ahead of Trump visit",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/xi-sells-peace-message-to-taiwan-opposition-ahead-of-trump-visit/a-76738826?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "China's leader Xi Jinping promoted \"peaceful development\" in talks with Taiwan's opposition chief, a move analysts say could be aimed at US President ..."
     },
     {
         "source": "Leafly",
