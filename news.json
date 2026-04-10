@@ -36,16 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Palantir stock plunges after 'Big Short' investor Michael Burry says Anthropic is eating its lunch",
-        "image": "https://s.yimg.com/os/creatr-uploaded-images/2021-02/ddc0fec0-6ae5-11eb-8fff-ee2032cdaf88",
-        "link": "https://finance.yahoo.com/news/palantir-stock-plunges-after-big-short-investor-michael-burry-says-anthropic-is-eating-its-lunch-171120431.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Common Vitamin May Reduce Buildup of Alzheimer's Proteins, Study Finds",
-        "image": "https://media.zenfs.com/en/sciencealert_160/6b9958dcdbeaaf5eab89c39c6a315c61",
-        "link": "https://www.yahoo.com/news/articles/common-vitamin-may-reduce-buildup-110058151.html",
+        "title": "Louisiana GOP races to eliminate an elected office won by an exonerated man",
+        "image": "https://media.zenfs.com/en/ap.org/e36b475d95bf3e5a4b6fc83b5a8986b0",
+        "link": "https://www.yahoo.com/news/articles/louisiana-gop-races-eliminate-elected-195323755.html",
         "summary": "..."
     },
     {
@@ -57,6 +50,13 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Fire shuts down Horry County hardware store. When will it reopen?",
+        "image": "https://media.zenfs.com/en/myrtle_beach_sun_news_mcclatchy_articles_833/b5593217d6b54153a38bbc51fec9aee1",
+        "link": "https://www.yahoo.com/news/articles/fire-shuts-down-horry-county-142611481.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Trump tariffs live updates: Trump announces 50% tariffs on any country supplying weapons to Iran",
         "image": "https://s.yimg.com/uu/api/res/1.2/eaIgcAxuQMb5QdgVAI.12Q--~B/aD0zNTY1O3c9NTUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/99ba3427-4998-4a99-a55b-3ae07b8e8567",
         "link": "https://finance.yahoo.com/economy/policy/article/trump-tariffs-live-updates-trump-announces-50-tariffs-on-any-country-supplying-weapons-to-iran-223100659.html",
@@ -64,17 +64,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Billionaire Mark Cuban Says When He Got Rich, First Splurge Was A $125K American Airlines Lifetime Pass \u2014'I Don't Care About Cars or Houses'",
-        "image": "https://media.zenfs.com/en/Benzinga/e4e935855e6de1f420a3b799cf290a64",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/billionaire-mark-cuban-says-got-140113658.html",
+        "title": "Russia's AK-47 manufacturer is making special bullets for its assault rifles to knock drones out of the sky",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/acc6832edb267d9ae0855588297e7d6b",
+        "link": "https://www.yahoo.com/news/articles/russias-ak-47-manufacturer-making-043813349.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Protesters block Rheinmetall arms plant",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-protesters-block-rheinmetall-arms-plant/live-76731144?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Police have removed pro-Palestinian protesters who glued themselves to the entrance of a Berlin arms factory. Meanwhile, inflation is tracking back up..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "German Bundeswehr says military-aged men can travel freely",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/german-bundeswehr-says-military-aged-men-can-travel-freely/a-76738187?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A new rule requiring men to get permission to travel abroad recently put Defense Minister Boris Pistorius under pressure. He says he has fixed the sit..."
     },
     {
         "source": "Deutsche Welle",
         "title": "NASA's billion-dollar space race goes into overdrive",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/nasa-s-billion-dollar-space-race-goes-into-overdrive/a-76716821?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "NASA's renewed push to get a human mission to the Moon and Mars is not cheap or for the faint of heart. But who ends up covering the costs and what do..."
+        "summary": "NASA's renewed push to get a human mission to the moon and Mars is neither cheap, nor for the faint of heart. But who ends up covering the costs and w..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-police-suspect-antisemitism-in-israeli-restaurant-attack-in-munich/a-76736160?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Police and the restaurant owners believe antisemitism motivated the attack. Nobody was hurt, but three windows were broken, causing damage worth sever..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "NATO's eastern members brace for US disengagement",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nato-s-eastern-members-brace-for-us-disengagement/a-76732419?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Donald Trump has once again questioned the value of NATO. Russia's neighbors in the Baltic region are watching his statements with concern...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Recycling's next big thing \u2014 or big bluff?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/recycling-s-next-big-thing-or-big-bluff/a-76509313?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "An advanced recycling process claims it can handle hard-to-recycle plastics, like packaging. But critics say it's not worth the effort...."
     },
     {
         "source": "Leafly",
