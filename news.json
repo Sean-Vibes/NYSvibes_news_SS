@@ -64,10 +64,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Texas Teen Died Due to \u2018Enlarged Heart\u2019 Caused by \u2018Large Amounts of Caffeine\u2019 from Energy Drink, Attorney Claims: Reports",
-        "image": "https://media.zenfs.com/en/people_218/9eb4037a86e4b9854af6801f11512572",
-        "link": "https://www.yahoo.com/news/articles/texas-teen-died-due-enlarged-152724838.html",
+        "title": "I found out I didn't get a job from a Facebook post. I told the employer it was wrong not to tell me directly.",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/820f424fd18be74ed77e821814c12639",
+        "link": "https://www.yahoo.com/lifestyle/articles/found-didnt-job-facebook-post-090401147.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Nigeria terror trial: Nearly 400 terror suspects convicted",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/nigeria-terror-trial-nearly-400-terror-suspects-convicted/a-76748309?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Hundreds of Islamist militants went on trial with prosecutors securing 386 convictions. Nigeria is in the midst of an insurgency involving extremist m..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-lufthansa-pilots-union-call-for-two-day-strike/a-76748571?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The pilot's union said Lufthansa had shown \"no discernible willingness to reach a solution\" in several collective bargaining disputes...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russian Memorial human rights NGO labeled 'extremist'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russian-memorial-human-rights-ngo-labeled-extremist/a-76748467?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russia's Supreme Court has labeled the human rights organization Memorial as \"extremist.\" Experts say this represents a new level of repression in Rus..."
     },
     {
         "source": "Leafly",
