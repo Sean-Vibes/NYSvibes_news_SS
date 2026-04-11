@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran's new supreme leader has severe and disfiguring wounds, sources say",
-        "image": "https://media.zenfs.com/en/reuters.com/f373596d03460d7cf6ccf5ca5560d46c",
-        "link": "https://www.yahoo.com/news/articles/irans-supreme-leader-severe-disfiguring-060141990.html",
+        "title": "Louisiana GOP races to eliminate an elected office won by an exonerated man",
+        "image": "https://media.zenfs.com/en/ap.org/e36b475d95bf3e5a4b6fc83b5a8986b0",
+        "link": "https://www.yahoo.com/news/articles/louisiana-gop-races-eliminate-elected-195323755.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Texas Teen Died Due to \u2018Enlarged Heart\u2019 Caused by \u2018Large Amounts of Caffeine\u2019 from Energy Drink, Attorney Claims: Reports",
-        "image": "https://media.zenfs.com/en/people_218/9eb4037a86e4b9854af6801f11512572",
-        "link": "https://www.yahoo.com/news/articles/texas-teen-died-due-enlarged-152724838.html",
+        "title": "Are You Looking for a High-Growth Dividend Stock?",
+        "image": "https://media.zenfs.com/en/zacks.com/737ffb82e07dc8bffb77e72d153c91f2",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/looking-high-growth-dividend-stock-154502441.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Palantir stock plunges after 'Big Short' investor Michael Burry says Anthropic is eating its lunch",
-        "image": "https://s.yimg.com/os/creatr-uploaded-images/2021-02/ddc0fec0-6ae5-11eb-8fff-ee2032cdaf88",
-        "link": "https://finance.yahoo.com/news/palantir-stock-plunges-after-big-short-investor-michael-burry-says-anthropic-is-eating-its-lunch-171120431.html",
+        "title": "Trump says US forces are 'clearing' Strait of Hormuz",
+        "image": "https://media.zenfs.com/en/reuters.com/3937f3c44facd622808d0443f09d1d0c",
+        "link": "https://www.yahoo.com/news/articles/trump-says-us-forces-clearing-134312020.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former Sen. Ben Sasse, Bleeding from His Face, Shares Brutal Reality of Terminal Cancer at Age 54",
-        "image": "https://media.zenfs.com/en/people_218/200f3a63a5039c2df9c2d9db838e6742",
-        "link": "https://www.yahoo.com/news/articles/former-sen-ben-sasse-bleeding-195629667.html",
+        "title": "\u2018I Literally Don\u2019t Know a Word You\u2019re Saying\u2019: Anderson Cooper Mystified by Neil deGrasse Tyson During Artemis Crew Recovery",
+        "image": "https://media.zenfs.com/en/mediaite_845/49a13b61d301cc06cf75990c71b292d7",
+        "link": "https://www.yahoo.com/entertainment/tv/articles/literally-don-t-know-word-033805474.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukrainian civilians abducted, tortured in Russian prisons",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukrainian-civilians-abducted-tortured-in-russian-prisons/a-76742350?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Russia has been holding thousands of Ukrainian civilians behind bars for years, in breach of international humanitarian law. Families have been fighti..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Is this Syrian doctor one of the 80% Germany wants to remove?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/is-this-syrian-doctor-one-of-the-80-germany-wants-to-remove/a-76739903?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Chancellor Friedrich Merz has ignited a debate by declaring that 80% of Syrians would be repatriated. Does this mean that Germany also intends to depo..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UK: Sudanese man held over migrant drownings in Channel",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/uk-sudanese-man-held-over-migrant-drownings-in-channel/a-76747934?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "UK authorities have detained a 27-year-old man in the aftermath of migrant drownings in the English Channel. Four people died on Thursday attempting t..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-coalition-split-widens-over-fuel-price-relief/live-76746587?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "There's trouble at the top of Europe's largest economy as a dispute over fuel price relief for consumers intensifies. Meanwhile, figures appear to sho..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: Delhi looks to ban fossil fuel two-wheelers from 2028",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-delhi-looks-to-ban-fossil-fuel-two-wheelers-from-2028/live-76745829?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "India's capital is gearing up to ban non-electric two-wheelers as it looks to tackle chronic smog and high pollution. In other news, PM Modi is campai..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump says plans filed for huge triumphal arch in Washington",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-says-plans-filed-for-huge-triumphal-arch-in-washington/a-76746081?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US arch would be over 50% taller than the famous Arc de Triomphe in Paris, according to the official plans. The US president has described the pro..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "First gay rights movement: Berlin's wild 1920s queer history",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/first-gay-rights-movement-berlin-s-wild-1920s-queer-history/a-76712016?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Before the Nazis took power, Berlin was a center of LGBTQ+ rights and queer culture, with research institutes, a flourishing nightlife and one of the ..."
     },
     {
         "source": "Leafly",
