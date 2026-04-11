@@ -43,13 +43,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former Sen. Ben Sasse, Bleeding from His Face, Shares Brutal Reality of Terminal Cancer at Age 54",
-        "image": "https://media.zenfs.com/en/people_218/200f3a63a5039c2df9c2d9db838e6742",
-        "link": "https://www.yahoo.com/news/articles/former-sen-ben-sasse-bleeding-195629667.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Texas Teen Died Due to \u2018Enlarged Heart\u2019 Caused by \u2018Large Amounts of Caffeine\u2019 from Energy Drink, Attorney Claims: Reports",
         "image": "https://media.zenfs.com/en/people_218/9eb4037a86e4b9854af6801f11512572",
         "link": "https://www.yahoo.com/news/articles/texas-teen-died-due-enlarged-152724838.html",
@@ -57,9 +50,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran's new supreme leader has severe and disfiguring wounds, sources say",
-        "image": "https://media.zenfs.com/en/reuters.com/f373596d03460d7cf6ccf5ca5560d46c",
-        "link": "https://www.yahoo.com/news/articles/irans-supreme-leader-severe-disfiguring-060141990.html",
+        "title": "Former Sen. Ben Sasse, Bleeding from His Face, Shares Brutal Reality of Terminal Cancer at Age 54",
+        "image": "https://media.zenfs.com/en/people_218/200f3a63a5039c2df9c2d9db838e6742",
+        "link": "https://www.yahoo.com/news/articles/former-sen-ben-sasse-bleeding-195629667.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Former Trump White House insider says she\u2019d bet the President did not get a heads up about the First Lady\u2019s Epstein remarks",
+        "image": "https://media.zenfs.com/en/cnn_videos_177/cb3a3dceb2263ea7569b8376de3f8ddc",
+        "link": "https://www.yahoo.com/news/videos/former-trump-white-house-insider-043942746.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/mediaite_845/49a13b61d301cc06cf75990c71b292d7",
         "link": "https://www.yahoo.com/entertainment/tv/articles/literally-don-t-know-word-033805474.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine: Attacks continue as Orthodox Easter ceasefire nears",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-attacks-continue-as-orthodox-easter-ceasefire-nears/a-76746629?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Russia has continued to pound Ukraine in the hours leading up to a 36-hour pause in its war of aggression. Three Ukrainians were killed overnight and ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Coalition split widens over fuel price relief",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-coalition-split-widens-over-fuel-price-relief/live-76746587?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "There's trouble at the top of Europe's largest economy as a dispute over fuel price relief for consumers intensifies. Meanwhile, figures appear to sho..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/first-gay-rights-movement-berlin-s-wild-1920s-queer-history/a-76712016?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Before the Nazis took power, Berlin was a center of LGBTQ+ rights and queer culture, with research institutes, a flourishing nightlife and one of the ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hungary: Scandal, fear and hope ahead of vote",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hungary-scandal-fear-and-hope-ahead-of-vote/a-76744298?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Fake news and a growing number of political scandals: Hungary hasn't seen an election this fraught since after 1989's collapse of the Soviet Union...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US, Iran set for high-stakes talks in Pakistan",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-iran-set-for-high-stakes-talks-in-pakistan/live-76745065?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The negotiations come amid a fragile two-week ceasefire that has paused US-Israeli strikes on Iran, but failed to reopen the Strait of Hormuz or halt ..."
     },
     {
         "source": "Leafly",
