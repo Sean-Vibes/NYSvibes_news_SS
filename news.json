@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Louisiana GOP races to eliminate an elected office won by an exonerated man",
-        "image": "https://media.zenfs.com/en/ap.org/e36b475d95bf3e5a4b6fc83b5a8986b0",
-        "link": "https://www.yahoo.com/news/articles/louisiana-gop-races-eliminate-elected-195323755.html",
+        "title": "US military 'setting conditions' to clear mines from Strait of Hormuz",
+        "image": "https://media.zenfs.com/en/reuters.com/fcd0de19ff311c98d19f38dec1191636",
+        "link": "https://www.yahoo.com/news/articles/trump-says-us-forces-clearing-134312020.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/people_218/9eb4037a86e4b9854af6801f11512572",
         "link": "https://www.yahoo.com/news/articles/texas-teen-died-due-enlarged-152724838.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "How much sway does Trump have over Hungarian voters?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/how-much-sway-does-trump-have-over-hungarian-voters/a-76739861?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US President Trump has backed Hungarian PM Orban. It's unclear whether the endorsement will help in Hungary's election \u2014 the European hard-right has s..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UFOs: 'Most are reported by people out for an evening smoke'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ufos-most-are-reported-by-people-out-for-an-evening-smoke/a-76711858?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Hansj\u00fcrgen K\u00f6hler has been a volunteer UFO hunter for more than 50 years. He sees his work as scientific investigation, but sometimes also as caring f..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/russian-memorial-human-rights-ngo-labeled-extremist/a-76748467?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Russia's Supreme Court has labeled the human rights organization Memorial as \"extremist.\" Experts say this represents a new level of repression in Rus..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germans see little progress on cutting red tape",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germans-see-little-progress-on-cutting-red-tape/a-76747976?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Most people and businesses in Germany say they've seen little change in bureaucracy despite Chancellor Friedrich Merz's government promises to reduce ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukrainian civilians abducted, tortured in Russian prisons",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukrainian-civilians-abducted-tortured-in-russian-prisons/a-76742350?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russia has been holding thousands of Ukrainian civilians behind bars for years, in breach of international humanitarian law. Families have been fighti..."
     },
     {
         "source": "Leafly",
