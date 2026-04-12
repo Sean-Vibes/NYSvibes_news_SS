@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Tesla driver reveals 52k miles of EV driving cost him $2,300; Gas cost for 52k miles? Much more",
+        "title": "\u2018I\u2019m afraid I\u2019m not gonna let you leave\u2019: Hernando Co. Student accused of holding classmates at knifepoint",
+        "image": "https://media.zenfs.com/en/wfla_article_174/ea19e53ea7969c555c473d47f5e811a0",
+        "link": "https://www.yahoo.com/news/articles/m-afraid-m-not-gonna-200008433.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Analysis: Trump declares victory, no matter what, and the Iran war is the latest example",
+        "image": "https://media.zenfs.com/en/ap.org/c953b0d004a37cb6e13bc848740833d4",
+        "link": "https://www.yahoo.com/news/articles/analysis-trump-declares-victory-no-115639016.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Tesla driver reveals 52k miles of EV driving cost him $2,300. Gas cost for 52k miles? Much more",
         "image": "https://media.zenfs.com/en/the_cool_down_737/c2bdddfb5a46fdba7b1b8ab07c99ed27",
         "link": "https://autos.yahoo.com/ev-and-future-tech/articles/tesla-driver-reveals-52k-miles-220000753.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Eric Adams, former 'international mayor' of NYC, becomes an honorary Albanian citizen",
-        "image": "https://media.zenfs.com/en/ap.org/23cef71696eb50cc0114f1e729ba0356",
-        "link": "https://www.yahoo.com/news/articles/eric-adams-former-international-mayor-195911880.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nancy Guthrie Sheriff Given 10-Day Deadline as Officials Reveal How Close the Case Is to Going Cold",
-        "image": "https://media.zenfs.com/en/stylecaster_935/30383021b585897a967d011c5abba586",
-        "link": "https://www.yahoo.com/news/articles/nancy-guthrie-sheriff-given-10-162937364.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Germany: Betting on elections is illegal \u2014 but possible",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-betting-on-elections-is-illegal-but-possible/a-76712766?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Online gambling is gaining traction in Germany. Using prediction markets like Polymarket to bet on political events remains illegal, but it is almost ..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/china-boosts-ties-with-taiwan-after-opposition-leader-visits/a-76752265?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "China said it would resume flights between Taiwan and more cities on the mainland, as well as easing bans on Taiwanese food and TV shows...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Most Germans see decline in public manners",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-most-germans-see-decline-in-public-manners/live-76746587?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Most Germans think people's manners are getting worse, although most rate themselves as polite. Meawhile, there's trouble at the top of Europe's large..."
     },
     {
         "source": "Leafly",
