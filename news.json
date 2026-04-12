@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "A 23-story hotel in exclusive Miami locale vanishes in seconds with implosion",
-        "image": "https://media.zenfs.com/en/ap.org/3b95719c2f2d3cd76f277755aafec8f6",
-        "link": "https://www.yahoo.com/news/articles/23-story-miami-hotel-set-040511007.html",
+        "title": "Iran's new supreme leader has severe and disfiguring wounds, sources say",
+        "image": "https://media.zenfs.com/en/reuters.com/f373596d03460d7cf6ccf5ca5560d46c",
+        "link": "https://www.yahoo.com/news/articles/irans-supreme-leader-severe-disfiguring-060141990.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "\u2018I\u2019m afraid I\u2019m not gonna let you leave\u2019: Hernando Co. Student accused of holding classmates at knifepoint",
+        "image": "https://media.zenfs.com/en/wfla_article_174/ea19e53ea7969c555c473d47f5e811a0",
+        "link": "https://www.yahoo.com/news/articles/m-afraid-m-not-gonna-200008433.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Saudi Arabia restores full capacity on East-West oil pipeline to 7 million bpd after attacks",
+        "image": "https://media.zenfs.com/en/reuters.com/9b8d0e69c43e89297d5749cd0d81aeef",
+        "link": "https://finance.yahoo.com/news/saudi-arabia-restores-full-capacity-071614305.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Tesla driver reveals 52k miles of EV driving cost him $2,300. Gas cost for 52k miles? Much more",
         "image": "https://media.zenfs.com/en/the_cool_down_737/c2bdddfb5a46fdba7b1b8ab07c99ed27",
         "link": "https://autos.yahoo.com/ev-and-future-tech/articles/tesla-driver-reveals-52k-miles-220000753.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran's new supreme leader has severe and disfiguring wounds, sources say",
-        "image": "https://media.zenfs.com/en/reuters.com/f373596d03460d7cf6ccf5ca5560d46c",
-        "link": "https://www.yahoo.com/news/articles/irans-supreme-leader-severe-disfiguring-060141990.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018This is the last warning:\u2019 Iran radioes US during Strait of Hormuz demining effort: Report",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/cd676446b189cf58bf5620c4008b43ca",
-        "link": "https://www.yahoo.com/news/articles/last-warning-iran-radioes-us-124214298.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Nigeria: Many dead after military bombs village market",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/nigeria-many-dead-after-military-bombs-village-market/a-76756309?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "An airstrike on a market in Yobe, in northeastern Nigeria, has left scores of people dead and wounded, though details remain unclear. The military sai..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/benin-election-finance-minister-wadagni-expected-to-win/a-76754222?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Finance Minister Romuald Wadagni is the favourite to win after being endorsed by outgoing president Patrice Talon. Wadagni's only rival, Paul Hounkpe,..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Does age verification for social media help protect kids?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/does-age-verification-for-social-media-help-protect-kids/a-76713278?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A number of countries want to bring in age restrictions for social media platforms like TikTok and Instagram. But can such bans really tackle the prob..."
     },
     {
         "source": "Leafly",
