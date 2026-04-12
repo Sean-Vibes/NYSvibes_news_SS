@@ -57,17 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Analysis: Trump declares victory, no matter what, and the Iran war is the latest example",
-        "image": "https://media.zenfs.com/en/ap.org/c953b0d004a37cb6e13bc848740833d4",
-        "link": "https://www.yahoo.com/news/articles/analysis-trump-declares-victory-no-115639016.html",
+        "title": "Exclusive-Iranian source says US has agreed to unfreeze Iranian funds, Washington denies it",
+        "image": "https://media.zenfs.com/en/reuters.com/0b808e2d68abaedcdcbcc30b282b11af",
+        "link": "https://www.yahoo.com/news/articles/exclusive-iranian-source-says-us-091841966.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nancy Guthrie Sheriff Given 10-Day Deadline as Officials Reveal How Close the Case Is to Going Cold",
-        "image": "https://media.zenfs.com/en/stylecaster_935/30383021b585897a967d011c5abba586",
-        "link": "https://www.yahoo.com/news/articles/nancy-guthrie-sheriff-given-10-162937364.html",
+        "title": "Sleeping Passenger Dies After Thief Steals Running Car From Las Vegas Walmart Parking Lot",
+        "image": "https://media.zenfs.com/en/guessing_headlights_178/2745b246747e3537fa2e655c8ef11387",
+        "link": "https://www.yahoo.com/news/articles/sleeping-passenger-dies-thief-steals-160022575.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US-Iran talks: What prevented a deal and what's next?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-iran-talks-what-prevented-a-deal-and-what-s-next/a-76755660?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The United States and Iran concluded 21 hours of direct talks in Pakistan on Sunday without reaching a deal to end the war, casting uncertainty over a..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/does-age-verification-for-social-media-help-protect-kids/a-76713278?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A number of countries want to bring in age restrictions for social media platforms like TikTok and Instagram. But can such bans really tackle the prob..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany: Betting on elections is illegal \u2014 but possible",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-betting-on-elections-is-illegal-but-possible/a-76712766?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Online gambling is gaining traction in Germany. Using prediction markets like Polymarket to bet on political events remains illegal, but it is almost ..."
     },
     {
         "source": "Leafly",
