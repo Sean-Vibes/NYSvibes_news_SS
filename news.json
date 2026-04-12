@@ -50,16 +50,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018I\u2019m afraid I\u2019m not gonna let you leave\u2019: Hernando Co. Student accused of holding classmates at knifepoint",
-        "image": "https://media.zenfs.com/en/wfla_article_174/ea19e53ea7969c555c473d47f5e811a0",
-        "link": "https://www.yahoo.com/news/articles/m-afraid-m-not-gonna-200008433.html",
+        "title": "Frozen ocean world discovered lurking between Mars and Jupiter",
+        "image": "https://media.zenfs.com/en/the_brighter_side_of_news_articles_781/cb08e775b2a50607fcd73b84e0edd311",
+        "link": "https://www.yahoo.com/news/articles/frozen-ocean-world-discovered-lurking-115100934.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Analysis: Trump declares victory, no matter what, and the Iran war is the latest example",
-        "image": "https://media.zenfs.com/en/ap.org/c953b0d004a37cb6e13bc848740833d4",
-        "link": "https://www.yahoo.com/news/articles/analysis-trump-declares-victory-no-115639016.html",
+        "title": "Exclusive-Iranian source says US has agreed to unfreeze Iranian funds, Washington denies it",
+        "image": "https://media.zenfs.com/en/reuters.com/0b808e2d68abaedcdcbcc30b282b11af",
+        "link": "https://www.yahoo.com/news/articles/exclusive-iranian-source-says-us-091841966.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,27 @@
         "image": "https://media.zenfs.com/en/the_cool_down_737/c2bdddfb5a46fdba7b1b8ab07c99ed27",
         "link": "https://autos.yahoo.com/ev-and-future-tech/articles/tesla-driver-reveals-52k-miles-220000753.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Hacking women's political underrepresentation, Dutch-style",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/hacking-women-s-political-underrepresentation-dutch-style/a-76699402?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Some 504 women were elected in recent Dutch local elections, with a \"Vote for a Woman\" campaign boosting their chances to gather preferential votes. D..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Benin heads to the polls to elect a new president",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/benin-heads-to-the-polls-to-elect-a-new-president/a-76754222?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Finance Minister Romuald Wadagni is the favourite to win after being endorsed by outgoing president Patrice Talon. Wadagni's only rival, Paul Hounkpe,..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Does age verification for social media help protect kids?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/does-age-verification-for-social-media-help-protect-kids/a-76713278?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A number of countries want to bring in age restrictions for social media platforms like TikTok and Instagram. But can such bans really tackle the prob..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/haiti-more-than-30-killed-in-stampede-at-historical-fort/a-76753125?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A deadly stampede broke out during an annual event to celebrate Citadelle Laferriere, a UNESCO-listed fort that is a symbol of Haiti's hard-won indepe..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany: Bundesliga side Union Berlin appoint first female head coach",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-bundesliga-side-union-berlin-appoint-first-female-head-coach/a-76752630?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Marie-Louise Eta has become the first-ever female head coach of a senior men's side in European football's top five leagues. The 34-year-old already h..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India: Legendary playback singer Asha Bhosle dies at 92",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-legendary-playback-singer-asha-bhosle-dies-at-92/a-76752404?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Asha Bhosle was one of the world's most prolific recording artists, with some 11,000 songs. She is one of the most celebrated voices of Bollywood song..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "China boosts ties with Taiwan after opposition leader visits",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/china-boosts-ties-with-taiwan-after-opposition-leader-visits/a-76752265?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "China said it would resume flights between Taiwan and more cities on the mainland, as well as easing bans on Taiwanese food and TV shows...."
     },
     {
         "source": "Leafly",
