@@ -43,9 +43,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "XRP Price Prediction: Will 10,000 XRP Make You a Millionaire?",
-        "image": "https://media.zenfs.com/en/24_7_wall_st__718/21a0bbd48064a3716546460f774e67fc",
-        "link": "https://finance.yahoo.com/markets/crypto/articles/xrp-price-prediction-10-000-203657938.html",
+        "title": "Trump, 79, Raises Fresh Health Concerns After Unbelievable Mix-Up",
+        "image": "https://media.zenfs.com/en/thedailybeast.com/ac1abfa187ffc2a6308e931888d39553",
+        "link": "https://www.yahoo.com/news/articles/trump-79-raises-fresh-health-184535182.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018This is the last warning:\u2019 Iran radioes US during Strait of Hormuz demining effort: Report",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/cd676446b189cf58bf5620c4008b43ca",
-        "link": "https://www.yahoo.com/news/articles/last-warning-iran-radioes-us-124214298.html",
+        "title": "McDonald's Customers Hate The 'Small Order Fee.' Here's How To Remove It",
+        "image": "https://media.zenfs.com/en/food_republic_969/114e980bf21e5394f924345a79f9087f",
+        "link": "https://www.yahoo.com/lifestyle/articles/mcdonalds-customers-hate-small-order-181700788.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US judge dismisses Trump's lawsuit against Wall Street Journal",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-judge-dismisses-trump-s-lawsuit-against-wall-street-journal/a-76769257?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The judge threw out Donald Trump's lawsuit against the Wall Street Journal over a story on the US president's ties to late sex offender Jeffrey Epstei..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/lufthansa-pilots-launch-2-day-strike-cabin-crew-say-they-will-strike-right-after/a-76760890?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Pilots who are members of the Vereinigung Cockpit trade union are striking on Monday and Tuesday. As hundreds of flights were canceled, the UFO cabin ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UK finds attack on Taylor Swift-themed class 'preventable'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-finds-attack-on-taylor-swift-themed-class-preventable/a-76767586?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A new report on the stabbing that left little three girls dead in UK's Southport concluded that the killer's parents and state authorities failed to a..."
     },
     {
         "source": "Leafly",
