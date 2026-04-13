@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran's new supreme leader has severe and disfiguring wounds, sources say",
-        "image": "https://media.zenfs.com/en/reuters.com/f373596d03460d7cf6ccf5ca5560d46c",
-        "link": "https://www.yahoo.com/news/articles/irans-supreme-leader-severe-disfiguring-060141990.html",
+        "title": "Saudi Arabia restores full capacity on East-West oil pipeline to 7 million bpd after attacks",
+        "image": "https://media.zenfs.com/en/reuters.com/9b8d0e69c43e89297d5749cd0d81aeef",
+        "link": "https://finance.yahoo.com/news/saudi-arabia-restores-full-capacity-071614305.html",
         "summary": "..."
     },
     {
@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Micron Is Investing in SiMa.ai. What Does That Mean for MU Stock?",
-        "image": "https://media.zenfs.com/en/barchart_com_477/366b125be554b7b60102f8bd3370f86a",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/micron-investing-sima-ai-does-134502804.html",
+        "title": "Father Confronts School Board Member Who Told Teen Student \u2018God, You\u2019re Hot\u2019",
+        "image": "https://media.zenfs.com/en/people_218/ffd3a966ecd3f46c3d3508dc38775c9b",
+        "link": "https://www.yahoo.com/news/articles/father-confronts-school-board-member-202710118.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Father Confronts School Board Member Who Told Teen Student \u2018God, You\u2019re Hot\u2019",
-        "image": "https://media.zenfs.com/en/people_218/ffd3a966ecd3f46c3d3508dc38775c9b",
-        "link": "https://www.yahoo.com/news/articles/father-confronts-school-board-member-202710118.html",
+        "title": "How Trump Just Proved He Is History\u2019s Most Powerful Idiot",
+        "image": "https://media.zenfs.com/en/video.dailybeast.com/04547c7cbf3b7f28732df49ec88ce702",
+        "link": "https://www.yahoo.com/news/videos/trump-just-proved-history-most-201918366.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Merz announces cut fuel tax to ease price surge",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-merz-announces-cut-fuel-tax-to-ease-price-surge/live-76759123?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "German Chancellor Friedrich Merz says he expects oil firms to pass on a fuel duty cut to consumers. DW has the latest...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Why Africa remains divided over Macky Sall's UN bid",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/why-africa-remains-divided-over-macky-sall-s-un-bid/a-76739197?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Burundi nominated former Senegal president Macky Sall for UN chief, but Africa's backing fractured. AU procedural disputes, objections and regional po..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: US military to blockade Iranian ports",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-us-military-to-blockade-iranian-ports/live-76758809?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "President Donald Trump wants to use the blockade to stop Iran from collecting transit fees and to cut off its oil revenue. Oil prices rose sharply aft..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Hungary: Orban's ouster heralds thaw in EU ties",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/hungary-orban-s-ouster-heralds-thaw-in-eu-ties/a-76758641?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Hungarian voters have chosen the pro-EU course of Peter Magyar, ending 16 years of rule by Russia-friendly Viktor Orban. Europe is now waiting to see ..."
     },
     {
         "source": "Deutsche Welle",
@@ -75,34 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/merck-s-keytruda-a-lifesaving-drug-a-global-divide/a-76743753?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A cross-border investigation by DW and ICIJ reveals how pricing and patents helped turn a life-saving medicine into one of the world's best selling dr..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Peru general elections: No clear frontrunner, runoff likely",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/peru-general-elections-no-clear-frontrunner-runoff-likely/a-76756162?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "More than 30 candidates are in contention or the presidency, with no clear frontrunner going into Sunday's vote...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nigeria: Many dead after military bombs village market",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nigeria-many-dead-after-military-bombs-village-market/a-76756309?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "An airstrike on a market in Yobe, in northeastern Nigeria, has left scores of people dead and wounded, though details remain unclear. The military sai..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US-Iran talks: What prevented a deal and what's next?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-iran-talks-what-prevented-a-deal-and-what-s-next/a-76755660?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The United States and Iran concluded 21 hours of direct talks in Pakistan on Sunday without reaching a deal to end the war, casting uncertainty over a..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Zelenskyy, Putin mark Easter amid truce breach allegations",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/zelenskyy-putin-mark-easter-amid-truce-breach-allegations/a-76754232?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Orthodox Christians have been celebrating Easter in both Ukraine and Russia, with both countries' armed forces accusing each other of breaching a ceas..."
     },
     {
         "source": "Leafly",
