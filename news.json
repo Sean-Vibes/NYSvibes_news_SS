@@ -36,16 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Saudi Arabia restores full capacity on East-West oil pipeline to 7 million bpd after attacks",
-        "image": "https://media.zenfs.com/en/reuters.com/9b8d0e69c43e89297d5749cd0d81aeef",
-        "link": "https://finance.yahoo.com/news/saudi-arabia-restores-full-capacity-071614305.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Woman Diagnosed with Vulvar, Cervical and Anal Cancer After Learning Her Husband of 30 Years Had Cheated on Her",
-        "image": "https://media.zenfs.com/en/people_218/c57ba2d9181d50fed71bf7912100ae1a",
-        "link": "https://www.yahoo.com/lifestyle/articles/woman-diagnosed-vulvar-cervical-anal-100000362.html",
+        "title": "US, Indonesia discussing proposal allowing US military overflight in Indonesian airspace, defence ministry says",
+        "image": "https://media.zenfs.com/en/reuters.com/b71fede15daedbc7bbcf57d44fdffb8a",
+        "link": "https://www.yahoo.com/news/articles/us-indonesia-discussing-agreement-allowing-061250042.html",
         "summary": "..."
     },
     {
@@ -57,17 +50,52 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump lambasts Pope Leo XIV, extending feud over Iran war with first American pontiff",
-        "image": "https://media.zenfs.com/en/ap.org/0fd2ae4c512b26212ec2b0b6db8e2c0e",
-        "link": "https://www.yahoo.com/news/articles/trump-lambasts-pope-leo-xiv-012053532.html",
+        "title": "\u2018This is the last warning:\u2019 Iran radioes US during Strait of Hormuz demining effort: Report",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/cd676446b189cf58bf5620c4008b43ca",
+        "link": "https://www.yahoo.com/news/articles/last-warning-iran-radioes-us-124214298.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "How Trump Just Proved He Is History\u2019s Most Powerful Idiot",
-        "image": "https://media.zenfs.com/en/video.dailybeast.com/04547c7cbf3b7f28732df49ec88ce702",
-        "link": "https://www.yahoo.com/news/videos/trump-just-proved-history-most-201918366.html",
+        "title": "Saudi Arabia restores full capacity on East-West oil pipeline to 7 million bpd after attacks",
+        "image": "https://media.zenfs.com/en/reuters.com/9b8d0e69c43e89297d5749cd0d81aeef",
+        "link": "https://finance.yahoo.com/news/saudi-arabia-restores-full-capacity-071614305.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Tesla driver reveals 52k miles of EV driving cost him $2,300. Gas cost for 52k miles? Much more",
+        "image": "https://media.zenfs.com/en/the_cool_down_737/c2bdddfb5a46fdba7b1b8ab07c99ed27",
+        "link": "https://autos.yahoo.com/ev-and-future-tech/articles/tesla-driver-reveals-52k-miles-220000753.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Lufthansa pilots launch 2-day strike, the fourth this year; hundreds of flights canceled",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/lufthansa-pilots-launch-2-day-strike-the-fourth-this-year-hundreds-of-flights-canceled/a-76760890?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Pilots who are members of the Vereinigung Cockpit trade union are striking on Monday and Tuesday. It's the fourth strike to hit Lufthansa and some of ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Peru general elections: Fujimori leading, runoff likely",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/peru-general-elections-fujimori-leading-runoff-likely/a-76756162?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Keiko Fujimori looked set to face a conservative rival in a runoff vote. More than 30 candidates had been contention for the presidency...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "World's oldest gorilla celebrates 69th birthday at Berlin Zoo",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/world-s-oldest-gorilla-celebrates-69th-birthday-at-berlin-zoo/a-76760115?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Lady Fatou, known as the \"grand dame\" of the Berlin Zoo, was certified last year by Guiness as the oldest living gorilla in the world...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Pope Leo starts first Africa tour",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/pope-leo-starts-first-africa-tour/a-76758688?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Africa is the fastest-growing region within the Catholic Church. The pontiff is launching his first African tour with a visit to Algeria, a majority M..."
     },
     {
         "source": "Deutsche Welle",
@@ -75,34 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-merz-announces-cut-fuel-tax-to-ease-price-surge/live-76759123?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "German Chancellor Friedrich Merz says he expects oil firms to pass on a fuel duty cut to consumers. DW has the latest...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why Africa remains divided over Macky Sall's UN bid",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-africa-remains-divided-over-macky-sall-s-un-bid/a-76739197?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Burundi nominated former Senegal president Macky Sall for UN chief, but Africa's backing fractured. AU procedural disputes, objections and regional po..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: US military to blockade Iranian ports",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-us-military-to-blockade-iranian-ports/live-76758809?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "President Donald Trump wants to use the blockade to stop Iran from collecting transit fees and to cut off its oil revenue. Oil prices rose sharply aft..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hungary: Orban's ouster heralds thaw in EU ties",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hungary-orban-s-ouster-heralds-thaw-in-eu-ties/a-76758641?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Hungarian voters have chosen the pro-EU course of Peter Magyar, ending 16 years of rule by Russia-friendly Viktor Orban. Europe is now waiting to see ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Merck's Keytruda: A lifesaving drug, a global divide",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/merck-s-keytruda-a-lifesaving-drug-a-global-divide/a-76743753?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A cross-border investigation by DW and ICIJ reveals how pricing and patents helped turn a life-saving medicine into one of the world's best selling dr..."
     },
     {
         "source": "Leafly",
