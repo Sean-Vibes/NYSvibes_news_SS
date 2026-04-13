@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Nebraska Senator Pushes Back Against Restrictive Hemp Rules Proposed By State Regulators",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/nebraska-senator-pushes-back-against-restrictive-hemp-rules-proposed-by-state-regulators/",
+        "summary": "<p>\u201cThe governor, the attorney general, and now, apparently, the Department of Agriculture are going around the law to try to... <a class=\"small font-..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "The Hemp Industry Is Being Killed By Market Consolidation Disguised As Consumer Protection (Op-Ed)",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/the-hemp-industry-is-being-killed-by-market-consolidation-disguised-as-consumer-protection-op-ed/",
@@ -28,38 +35,10 @@
         "summary": "<p>Federal health officials are asking a court to dismiss marijuana legalization opponents\u2019 lawsuit challenging a new Trump administration initiative ..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Texas hemp product ban paused by judge (Newsletter: April 13, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/texas-hemp-product-ban-paused-by-judge-newsletter-april-13-2026/",
-        "summary": "<p>OR gov signs medical marijuana in hospices bill; HI Senate pushes federal legalization; Poll: Americans support cannabis homegrow; Hemp industry......"
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China says Strait of Hormuz blockade against global interests, urges restraint",
-        "image": "https://media.zenfs.com/en/reuters.com/4494d46fb3db0fd3efb8d766b1daf36b",
-        "link": "https://www.yahoo.com/news/articles/china-urges-restraint-over-us-091314440.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Major brand buys former Greyhound bus station in downtown Tallahassee",
-        "image": "https://media.zenfs.com/en/tallahassee-democrat/f5e6165db074818f2b12724db611b4b8",
-        "link": "https://www.yahoo.com/news/articles/major-brand-buys-former-greyhound-152532044.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "My Husband Killed Himself Just Hours After I Asked For A Divorce. Here\u2019s What I Wish I\u2019d Known Then.",
-        "image": "https://media.zenfs.com/en/the_huffington_post_584/9c1a2612ce60f9681559fbdf75c4843f",
-        "link": "https://www.yahoo.com/lifestyle/articles/husband-killed-himself-just-hours-112304166.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "US, Indonesia discussing proposal allowing US military overflight in Indonesian airspace, defence ministry says",
-        "image": "https://media.zenfs.com/en/reuters.com/b71fede15daedbc7bbcf57d44fdffb8a",
-        "link": "https://www.yahoo.com/news/articles/us-indonesia-discussing-agreement-allowing-061250042.html",
+        "title": "Trump family deal spree could open door for future presidents to profit from office",
+        "image": "https://media.zenfs.com/en/ap.org/2a8917e7b14fe391c2c97dadfb216f31",
+        "link": "https://www.yahoo.com/news/articles/trump-family-deal-spree-could-110327533.html",
         "summary": "..."
     },
     {
@@ -70,39 +49,60 @@
         "summary": "..."
     },
     {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "McDonald's Customers Hate The 'Small Order Fee.' Here's How To Remove It",
+        "image": "https://media.zenfs.com/en/food_republic_969/114e980bf21e5394f924345a79f9087f",
+        "link": "https://www.yahoo.com/lifestyle/articles/mcdonalds-customers-hate-small-order-181700788.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Morning Bid: Blockade takes its toll",
+        "image": "https://media.zenfs.com/en/reuters.com/6f828a11e2f992796fa7b9ca08826366",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/morning-bid-blockade-takes-toll-105044692.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Section of Tunnel of Trees road Up North collapses after excessive rainfall",
+        "image": "https://media.zenfs.com/en/detroit_free_press_natl_articles_245/27fa1dde7118ecec6abc417f565d1612",
+        "link": "https://www.yahoo.com/news/articles/section-tunnel-trees-road-north-133823760.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Dieselgate: Audi bosses, engineers set for long trial as plea deal fails",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/dieselgate-audi-bosses-engineers-set-for-long-trial-as-plea-deal-fails/a-76768350?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Two former Audi bosses and two engineers are facing charges over \"Dieselgate,\" a massive emissions scandal that still haunts Germany's automobile sect..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Lufthansa pilots launch 2-day strike, cabin crew say they will strike right after",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/lufthansa-pilots-launch-2-day-strike-cabin-crew-say-they-will-strike-right-after/a-76760890?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Pilots who are members of the Vereinigung Cockpit trade union are striking on Monday and Tuesday. As hundreds of flights were canceled, the UFO cabin ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UK finds attack on Taylor Swift-themed class 'preventable'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/uk-finds-attack-on-taylor-swift-themed-class-preventable/a-76767586?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A new report on the stabbing that left little three girls dead in UK's Southport concluded that the killer's parents and state authorities failed to a..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US maritime restrictions increase economic pressure on Iran",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-maritime-restrictions-increase-economic-pressure-on-iran/a-76760110?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A US naval blockade will cut off Iran's main source of hard currency by halting most of its oil exports. Will Donald Trump's pressure force Tehran bac..."
+    },
+    {
         "source": "Deutsche Welle",
         "title": "Iran war: Talks collapse is bad news for ordinary Iranians",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-talks-collapse-is-bad-news-for-ordinary-iranians/a-76767100?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The collapse of the US-Iran talks has cast fresh doubt over whether the two sides can bridge the gap dividing them. But whether diplomacy will succeed..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "End of the Orban era: Hungary and Europe breathe again",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/end-of-the-orban-era-hungary-and-europe-breathe-again/a-76766410?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Viktor Orban's Fidesz party was swept aside in Hungary's parliamentary election. His defeat is a blow for Putin, Trump and populists the world over. E..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hungary's Magyar outlines policy in first news conference",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hungary-s-magyar-outlines-policy-in-first-news-conference/a-76766682?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Prospective prime minister Peter Magyar has promised to move Budapest back towards the European Union and away from Russia. However, he is likely to c..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany's Buchenwald: Remembering Nazi atrocities",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-buchenwald-remembering-nazi-atrocities/a-76764802?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Buchenwald was one of the largest concentration camps on German soil. Eighty\u2011one years ago, it was liberated. The commemoration included moving words ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US-Iran war: Is Pakistan a real peacemaker?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-iran-war-is-pakistan-a-real-peacemaker/a-76765623?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Islamabad has been praised for mediating the conflict between Iran and the US, but with an ongoing war with Kabul and a crackdown on the opposition at..."
     },
     {
         "source": "Leafly",
