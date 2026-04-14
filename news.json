@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Virginia Governor Wants Amendments To Marijuana Sales Legalization Bill, Including Delayed Market Launch",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/virginia-governor-wants-amendments-to-marijuana-sales-legalization-bill-including-delayed-market-launch/",
+        "summary": "<p>Virginia\u2019s governor is requesting that legislators make amendments to a bill to legalize recreational marijuana sales that they sent to... <a class..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Virginia Governor Signs Bills To Protect Marijuana Users\u2019 Parental Rights And Allow Medical Use In Hospitals",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/virginia-governor-signs-bills-to-protect-marijuana-users-parental-rights-and-allow-medical-use-in-hospitals/",
@@ -28,17 +35,17 @@
         "summary": "<p>\u201cSomething real\u2014something built with care\u2014is being dismantled by people who never had to love it to profit from it.\u201d By... <a class=\"small font-mon..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Pennsylvania Voters Support Marijuana Legalization Across Party Lines, New Poll Shows",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/pennsylvania-voters-support-marijuana-legalization-across-party-lines-new-poll-shows/",
-        "summary": "<p>Seven out of ten Pennsylvania likely voters support legalizing marijuana, according to a new poll. That includes majority backing for... <a class=\"..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "China says Strait of Hormuz blockade against global interests, urges restraint",
         "image": "https://media.zenfs.com/en/reuters.com/4494d46fb3db0fd3efb8d766b1daf36b",
         "link": "https://www.yahoo.com/news/articles/china-urges-restraint-over-us-091314440.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Portland man dies on highway after crashing into semi truck",
+        "image": "https://media.zenfs.com/en/koin_articles_940/4456d75734b46fe06751120658a40126",
+        "link": "https://www.yahoo.com/news/articles/portland-man-dies-highway-crashing-043620223.html",
         "summary": "..."
     },
     {
@@ -50,24 +57,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Hezbollah official says the group won't abide by any agreements from Lebanon-Israel talks in the US",
+        "image": "https://media.zenfs.com/en/ap.org/e699591e04c61b015c79b8107b741fd3",
+        "link": "https://www.yahoo.com/news/articles/hezbollah-official-says-group-wont-174815234.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "McDonald's Customers Hate The 'Small Order Fee.' Here's How To Remove It",
         "image": "https://media.zenfs.com/en/food_republic_969/114e980bf21e5394f924345a79f9087f",
         "link": "https://www.yahoo.com/lifestyle/articles/mcdonalds-customers-hate-small-order-181700788.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Dozens arrested as protesters demand Schumer and Gillibrand block sale of bombs to Israel",
-        "image": "https://media.zenfs.com/en/ap.org/08116d9bed0d285824151e4001c3e17f",
-        "link": "https://www.yahoo.com/news/articles/dozens-arrested-protesters-demand-schumer-201522059.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Colombia approves cull of Pablo Escobar-legacy wild hippos",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/colombia-approves-cull-of-pablo-escobar-legacy-wild-hippos/a-76769831?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Decades after the drug lord brought in the first hippos for his private zoo, their descendants have become a threat to Colombia's ecosytem...."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Archaeologists Found a 440-Year-Old Coin that Marked the Lost Site of a Doomed Colony",
-        "image": "https://media.zenfs.com/en/popular_mechanics_642/4c9269e3dfb983034a736ebe3ef35166",
-        "link": "https://www.yahoo.com/news/articles/archaeologists-found-440-old-coin-133000753.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Canada: Carney secures majority after special election",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/canada-carney-secures-majority-after-special-election/a-76770243?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Liberal Party's two by-election wins secured a majority in Canada's parliament, allowing them to pass legislation without opposition support...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "China: Evergrande property developer founder pleads guilty",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/china-evergrande-property-developer-founder-pleads-guilty/a-76770242?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "China's property developer giant has become its also its most indebted and defaulted on most of its liabilities and payments in 2021. Founder Hui Ka Y..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Tehran slams US port blockade",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-tehran-slams-us-port-blockade/live-76769832?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran has called the US blockade of its ports a \"grave violation\" of its sovereignty. US President Donald Trump has said Iranian representatives have a..."
     },
     {
         "source": "Deutsche Welle",
@@ -75,34 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-news-ambedkar-and-the-idea-of-dalit-upliftment/live-76769509?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "As India marks the 135th birth anniversary of BR Ambedkar, DW's special coverage explores the gap between the promise of Dalit upliftment and the real..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Benin's finance minister wins presidential election with 94%",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/benin-s-finance-minister-wins-presidential-election-with-94/a-76769500?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "According to provisional results, Romuald Wadagni, the election favorite, won a landslide victory in Benin's presidential election...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US: Fugitive Brazilian ex-spy chief arrested by ICE",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-fugitive-brazilian-ex-spy-chief-arrested-by-ice/a-76769371?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Former Brazilian intelligence chief Alexandre Ramagem has been detained by ICE in the United States. Brazil formally requested his extradition in Dece..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US judge dismisses Trump's lawsuit against Wall Street Journal",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-judge-dismisses-trump-s-lawsuit-against-wall-street-journal/a-76769257?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The judge threw out Donald Trump's lawsuit against the Wall Street Journal over a story on the US president's ties to late sex offender Jeffrey Epstei..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "EU applauds Hungary\u2019s election result",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-applauds-hungary-s-election-result/a-76767107?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After Hungary\u2019s opposition ousted Viktor Orban after 16 years in power, hopes rise in Brussels that Budapest may abandon its obstructionist course. Wh..."
     },
     {
         "source": "Leafly",
