@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Feds Launch Campaign Warning Against Marijuana-Impaired Driving Ahead Of 4/20",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/feds-launch-campaign-warning-against-marijuana-impaired-driving-ahead-of-4-20/",
+        "summary": "<p>Federal transportation officials are rolling out a public education campaign aimed at encouraging people not to drive under the influence... <a cla..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "Tennessee Lawmakers Vote To Block Potential State Medical Marijuana Legalization After Federal Rescheduling",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/tennessee-lawmakers-vote-to-block-potential-state-medical-marijuana-legalization-after-federal-rescheduling/",
+        "summary": "<p>Tennessee lawmakers have passed a bill to block an automatic review that could potentially legalize medical marijuana under state law... <a class=\"..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Pennsylvania Lawmakers Approve Bill To Allow Medical Marijuana Use In Hospitals For Terminally Ill Patients",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/pennsylvania-lawmakers-approve-bill-to-allow-medical-marijuana-use-in-hospitals-for-terminally-ill-patients/",
@@ -21,31 +35,10 @@
         "summary": "<p>Maryland lawmakers have sent the governor a bill to protect firefighters and rescue workers from being penalized over their lawful... <a class=\"sma..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Virginia governor wants cannabis bill changes (Newsletter: April 14, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/virginia-governor-wants-cannabis-bill-changes-newsletter-april-14-2026/",
-        "summary": "<p>Feds want anti-marijuana groups\u2019 lawsuit dismissed; PA legalization poll; Target adds new hemp THC drink licenses; NORML consumer freedom survey......"
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Virginia Governor Wants Amendments To Marijuana Sales Legalization Bill, Including Delayed Market Launch",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/virginia-governor-wants-amendments-to-marijuana-sales-legalization-bill-including-delayed-market-launch/",
-        "summary": "<p>Virginia\u2019s governor is requesting that legislators make amendments to a bill to legalize recreational marijuana sales that they sent to... <a class..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US details bounds of Hormuz blockade as at least two ships turn around",
-        "image": "https://media.zenfs.com/en/reuters.com/62173de13101dd592a16318ba022549b",
-        "link": "https://www.yahoo.com/news/articles/us-military-enforce-blockade-gulf-115534084.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "A Woman Met Her Husband in a Bible Group. Six Kids Later, She Found Out He Was Keeping a Couple Captive in a Basement",
-        "image": "https://media.zenfs.com/en/people_218/9c45a07ee5e96dfa6f29fac92c330507",
-        "link": "https://www.yahoo.com/entertainment/tv/articles/woman-met-her-husband-bible-110000481.html",
+        "title": "Dozens arrested as protesters demand Schumer and Gillibrand block sale of bombs to Israel",
+        "image": "https://media.zenfs.com/en/ap.org/08116d9bed0d285824151e4001c3e17f",
+        "link": "https://www.yahoo.com/news/articles/dozens-arrested-protesters-demand-schumer-201522059.html",
         "summary": "..."
     },
     {
@@ -57,24 +50,52 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Miami edge Rueben Bain, projected top 10 NFL Draft pick, was reportedly involved in deadly 2024 vehicular crash",
-        "image": "https://s.yimg.com/uu/api/res/1.2/2CIO3SCAICxPN3r7f7PPhA--~B/aD0xOTU5O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/06b0aeb9-9660-4282-b434-2f86a9265718",
-        "link": "https://sports.yahoo.com/nfl/article/miami-edge-rueben-bain-projected-top-10-nfl-draft-pick-was-reportedly-involved-in-deadly-2024-vehicular-crash-004918544.html",
+        "title": "A Woman Met Her Husband in a Bible Group. Six Kids Later, She Found Out He Was Keeping a Couple Captive in a Basement",
+        "image": "https://media.zenfs.com/en/people_218/9c45a07ee5e96dfa6f29fac92c330507",
+        "link": "https://www.yahoo.com/entertainment/tv/articles/woman-met-her-husband-bible-110000481.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Dad of three suffers burns to 90% of his body after \u2018bursting into flames\u2019 near California mall",
-        "image": "https://media.zenfs.com/en/the_independent_635/4fc467720490764981e0aeafffd0bf54",
-        "link": "https://www.yahoo.com/news/articles/dad-three-suffers-burns-90-131353890.html",
+        "title": "Hungarian election victor Magyar says he\u2019d speak with Putin and ask him to end the war in Ukraine",
+        "image": "https://media.zenfs.com/en/ap.org/dd909d01421a0d142ceb98b40d8c3d56",
+        "link": "https://www.yahoo.com/news/articles/european-leaders-celebrate-p-ter-233500641.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Commander says some Ukrainian Patriot crews are breaking from the norm and fighting Russian threats with fewer missiles",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/9296b05295df08b1563a20dea2bd4dfd",
+        "link": "https://www.yahoo.com/news/articles/ukraines-patriot-crews-breaking-norm-141148979.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Antisemitic violence at record high for Jews outside Israel",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/antisemitic-violence-at-record-high-for-jews-outside-israel/a-76781707?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "As Israel marks Holocaust Remembrance Day, a new report by Tel Aviv University shows surging cases of severe violence against Jews in the West in 2025..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Sudan: Iran war prompts 'massive' food, fuel price rises; drones kill hundreds of civilians in 2026",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/sudan-iran-war-prompts-massive-food-fuel-price-rises-drones-kill-hundreds-of-civilians-in-2026/a-76779824?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "German charities warn of increases of 70-80% in the costs of essentials in wartorn Sudan amid the unrest in the Middle East. Donors gather in Berlin o..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Venezuela: 100 days with acting President Delcy Rodriguez",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/venezuela-100-days-with-acting-president-delcy-rodriguez/a-76779305?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After the US ousted Venezuela's leader Nicolas Maduro, Washington outlined a three-phase plan for the country. Now, 100 days into interim President De..."
     },
     {
         "source": "Deutsche Welle",
         "title": "Germany's aid to Ukraine faces challenges",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-s-aid-to-ukraine-faces-challenges/a-76780797?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukrainian-German government talks in Berlin on Tuesday, were overshadowed by worries about continuing support for Ukraine. Political resistance is gro..."
+        "summary": "At Ukrainian-German government talks, Berlin reassures Kyiv it can continue counting on military, civilian, and humanitarian aid, even as political op..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-us-blockade-of-hormuz-tests-china-s-restraint/a-76777251?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "China, the largest buyer of Iranian oil, is weighing the fallout of the US naval blockade of Iran's ports and ships in the Strait of Hormuz. Could Bei..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why India walked away from its bid to host COP33",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-india-walked-away-from-its-bid-to-host-cop33/a-76778682?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "India has quietly abandoned its bid to host the UN's top-tier climate conference COP33, marking a shift from PM Narendra Modi's pledge in 2023. Expert..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany debates rape law to tackle AI and online abuse",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-debates-rape-law-to-tackle-ai-and-online-abuse/a-76531016?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Calls are growing for Germany to update its rape law after a celebrity case involving \"deepfakes\" caused an uproar. Campaigners are also pushing for a..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "The German who recovered from a stroke to seal Olympic first",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/the-german-who-recovered-from-a-stroke-to-seal-olympic-first/a-76775080?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Kathrin Marchand was an elite rower for years before becoming a doctor. But a stroke at the age of 30 changed everything. Despite the challenges, she ..."
     },
     {
         "source": "Leafly",
