@@ -43,13 +43,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Portland man dies on highway after crashing into semi truck",
-        "image": "https://media.zenfs.com/en/koin_articles_940/4456d75734b46fe06751120658a40126",
-        "link": "https://www.yahoo.com/news/articles/portland-man-dies-highway-crashing-043620223.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Trump, 79, Raises Fresh Health Concerns After Unbelievable Mix-Up",
         "image": "https://media.zenfs.com/en/thedailybeast.com/ac1abfa187ffc2a6308e931888d39553",
         "link": "https://www.yahoo.com/news/articles/trump-79-raises-fresh-health-184535182.html",
@@ -57,9 +50,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hezbollah official says the group won't abide by any agreements from Lebanon-Israel talks in the US",
-        "image": "https://media.zenfs.com/en/ap.org/e699591e04c61b015c79b8107b741fd3",
-        "link": "https://www.yahoo.com/news/articles/hezbollah-official-says-group-wont-174815234.html",
+        "title": "Archaeologists Found a 440-Year-Old Coin that Marked the Lost Site of a Doomed Colony",
+        "image": "https://media.zenfs.com/en/popular_mechanics_642/4c9269e3dfb983034a736ebe3ef35166",
+        "link": "https://www.yahoo.com/news/articles/archaeologists-found-440-old-coin-133000753.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump family deal spree could open door for future presidents to profit from office",
+        "image": "https://media.zenfs.com/en/ap.org/2a8917e7b14fe391c2c97dadfb216f31",
+        "link": "https://www.yahoo.com/news/articles/trump-family-deal-spree-could-110327533.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,27 @@
         "image": "https://media.zenfs.com/en/food_republic_969/114e980bf21e5394f924345a79f9087f",
         "link": "https://www.yahoo.com/lifestyle/articles/mcdonalds-customers-hate-small-order-181700788.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "The world ditched wasteful toilets, the US stayed behind",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/the-world-ditched-wasteful-toilets-the-us-stayed-behind/a-76639304?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US toilets use far more water than many of their global counterparts. President Donald Trump is pushing to loosen water pressure standards that critic..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Merz hosts Zelenskyy in Berlin",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-merz-hosts-zelenskyy-in-berlin/live-76770415?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ukrainian President Volodymyr Zelenskyy and his cabinet are expected in Berlin on Tuesday for broad talks with German Chancellor Friedrich Merz and Ge..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Spanish PM Sanchez' wife charged with corruption",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/spanish-pm-sanchez-wife-charged-with-corruption/a-76770986?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The case is based on a complaint by an anti-corruption group with far-right ties, and is the latest in a string of corruption allegations which have p..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/canada-carney-secures-majority-after-special-election/a-76770243?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Liberal Party's two by-election wins secured a majority in Canada's parliament, allowing them to pass legislation without opposition support...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "China: Evergrande property developer founder pleads guilty",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/china-evergrande-property-developer-founder-pleads-guilty/a-76770242?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "China's property developer giant has become its also its most indebted and defaulted on most of its liabilities and payments in 2021. Founder Hui Ka Y..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Tehran slams US port blockade",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-tehran-slams-us-port-blockade/live-76769832?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Iran has called the US blockade of its ports a \"grave violation\" of its sovereignty. US President Donald Trump has said Iranian representatives have a..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: Ambedkar and the idea of Dalit upliftment",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-ambedkar-and-the-idea-of-dalit-upliftment/live-76769509?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As India marks the 135th birth anniversary of BR Ambedkar, DW's special coverage explores the gap between the promise of Dalit upliftment and the real..."
     },
     {
         "source": "Leafly",
