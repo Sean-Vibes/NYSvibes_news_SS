@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Maryland Governor Signs Bills To Protect Veterinarians Who Recommend Medical Marijuana For Animals",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/maryland-governor-signs-bills-to-protect-veterinarians-who-recommend-medical-marijuana-for-animals/",
+        "summary": "<p>Maryland\u2019s governor has signed legislation to provide legal protections for veterinarians who recommend medical marijuana for animals. Gov. Wes Moo..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Marijuana Budtenders Could Qualify For \u2018No Tax On Tips,\u2019 IRS Says, But Only After Federal Legalization",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/marijuana-budtenders-could-qualify-for-no-tax-on-tips-irs-says-but-only-after-federal-legalization/",
@@ -28,17 +35,10 @@
         "summary": "<p>Supporters of a proposed medical cannabis ballot initiative in Idaho said they have gathered more than 100,000 signatures and are... <a class=\"smal..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Virginia Marijuana Bill Sponsors Push Back Against Governor\u2019s Proposed Changes",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/virginia-marijuana-bill-sponsors-push-back-against-governors-proposed-changes/",
-        "summary": "<p>Virginia lawmakers who sponsored bills to legalize recreational marijuana sales are pushing back forcefully against the governor\u2019s suggested change..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Dozens arrested as protesters demand Schumer and Gillibrand block sale of bombs to Israel",
-        "image": "https://media.zenfs.com/en/ap.org/08116d9bed0d285824151e4001c3e17f",
-        "link": "https://www.yahoo.com/news/articles/dozens-arrested-protesters-demand-schumer-201522059.html",
+        "title": "Appeals court orders judge to end contempt investigation of Trump administration deportation flights",
+        "image": "https://media.zenfs.com/en/ap.org/157700b81e5b72e675909401d64a66b6",
+        "link": "https://www.yahoo.com/news/articles/appeals-court-orders-judge-end-152107036.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hezbollah official says the group won't abide by any agreements from Lebanon-Israel talks in the US",
-        "image": "https://media.zenfs.com/en/ap.org/99cc7573be9cac7c841c00961f6f0d04",
-        "link": "https://www.yahoo.com/news/articles/hezbollah-official-says-group-wont-174815234.html",
+        "title": "World Liberty investor Justin Sun claims Trump crypto venture 'secretly' installed tool to freeze user holdings",
+        "image": "https://media.zenfs.com/en/reuters.com/d106184e5de76a0e5e6d389251d05407",
+        "link": "https://finance.yahoo.com/news/world-liberty-investor-justin-sun-192026601.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "CNN's Kaitlan Collins Straight-Up Asks Ex-Trump Ally MTG 'Do You Really Think The President Should Be Removed?'",
-        "image": "https://media.zenfs.com/en/mediaite_videos_432/bcc795c4c744993214b4b3171e71534a",
-        "link": "https://www.yahoo.com/news/videos/cnns-kaitlan-collins-straight-asks-121334860.html",
+        "title": "Florida doctor indicted and accused of removing patient's liver instead of spleen in fatal surgery",
+        "image": "https://media.zenfs.com/en/nbc_news_122/c902dff85ebbe3dfdd306580e63742b6",
+        "link": "https://www.yahoo.com/news/articles/florida-doctor-indicted-allegedly-removing-150557990.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "German health minister announces billions in cutbacks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/german-health-minister-announces-billions-in-cutbacks/a-76796338?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The comprehensive reform package aims to plug a multi-billion-euro hole in Germany's expensive healthcare system. The reforms include mandatory second..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "What's behind Israel's attacks along Lebanon's Litani River?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/what-s-behind-israel-s-attacks-along-lebanon-s-litani-river/a-76783514?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Israel is pushing forward with plans to remove Lebanese homes and residents from between the Litani River and its own border, creating a buffer zone. ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran: Hundreds of thousands of jobs lost due to war",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-hundreds-of-thousands-of-jobs-lost-due-to-war/a-76794860?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After six weeks of war, job losses are growing in Iran. Destroyed industrial facilities have brought production in many sectors to a standstill, hitti..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/attacks-on-academics-in-the-us-a-microcosm-of-a-larger-threat-to-democracy/a-76777273?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "In the new DW documentary \"Democracy Under Attack: Can D\u00fcndar and Trump's America,\" the Turkish press freedom icon looks at the parallels between the ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India's aviation boom hits turbulence amid Iran war",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-s-aviation-boom-hits-turbulence-amid-iran-war/a-76790258?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "From longer routes to higher fares, the Middle East conflict is exposing vulnerabilities in India's fast-growing airline sector...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Turkey: School shooting leaves 4 dead",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/turkey-school-shooting-leaves-4-dead/a-76791529?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The deadly shooting comes just a day after a similar incident in the country in which 16 people were injured...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Tehran threatens Red Sea, Gulf trade",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-tehran-threatens-red-sea-gulf-trade/live-76783967?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Iranian military said it will seek to disrupt trade in the Red Sea and the Persian Gulf if a US naval blockade continues. Meanwhile, Israel and He..."
     },
     {
         "source": "Leafly",
