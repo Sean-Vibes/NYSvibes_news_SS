@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hezbollah official says the group won't abide by any agreements from Lebanon-Israel talks in the US",
-        "image": "https://media.zenfs.com/en/ap.org/99cc7573be9cac7c841c00961f6f0d04",
-        "link": "https://www.yahoo.com/news/articles/hezbollah-official-says-group-wont-174815234.html",
+        "title": "Prince Harry and Meghan arrive in Australia to a muted welcome",
+        "image": "https://media.zenfs.com/en/reuters.com/648b8e594910297cf3bd005a3a450f83",
+        "link": "https://www.yahoo.com/news/articles/prince-harry-meghan-arrive-australia-140234166.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump family deal spree could open door for future presidents to profit from office",
-        "image": "https://media.zenfs.com/en/ap.org/2a8917e7b14fe391c2c97dadfb216f31",
-        "link": "https://www.yahoo.com/news/articles/trump-family-deal-spree-could-110327533.html",
+        "title": "Appeals court orders judge to end contempt investigation of Trump administration deportation flights",
+        "image": "https://media.zenfs.com/en/ap.org/157700b81e5b72e675909401d64a66b6",
+        "link": "https://www.yahoo.com/news/articles/appeals-court-orders-judge-end-152107036.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "CNN's Kaitlan Collins Straight-Up Asks Ex-Trump Ally MTG 'Do You Really Think The President Should Be Removed?'",
-        "image": "https://media.zenfs.com/en/mediaite_videos_432/bcc795c4c744993214b4b3171e71534a",
-        "link": "https://www.yahoo.com/news/videos/cnns-kaitlan-collins-straight-asks-121334860.html",
+        "title": "Florida doctor indicted and accused of removing patient's liver instead of spleen in fatal surgery",
+        "image": "https://media.zenfs.com/en/nbc_news_122/c902dff85ebbe3dfdd306580e63742b6",
+        "link": "https://www.yahoo.com/news/articles/florida-doctor-indicted-allegedly-removing-150557990.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany, Ukraine discuss drone deal as Merz hosts Zelenskyy",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-ukraine-discuss-drone-deal-as-merz-hosts-zelenskyy/live-76770415?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "EU membership for Ukraine, European involvement in peace talks and a comprehensive \u200bbilateral drone deal were all on the agenda as Chancellor Merz hos..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "France's Renault slashes engineer jobs amid pressure from Chinese carmakers",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/france-s-renault-slashes-engineer-jobs-amid-pressure-from-chinese-carmakers/a-76783924?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The French carmaker said it would cut up to 2,400 engineering jobs as the company tries to catch up to Chinese electric vehicles in terms of price and..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/lebanon-debate-over-fake-plot-to-overthrow-government/a-76782219?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Locals are questioning stories about whether Israel saved Lebanon from a coup to overthrow its government when it bombed Beirut. The debate underscore..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Antisemitic violence at record high for Jews outside Israel",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/antisemitic-violence-at-record-high-for-jews-outside-israel/a-76781707?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As Israel marks Holocaust Remembrance Day, a new report by Tel Aviv University shows surging cases of severe violence against Jews in the West in 2025..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Sudan: Iran war prompts 'massive' food, fuel price rises; drones kill hundreds of civilians in 2026",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/sudan-iran-war-prompts-massive-food-fuel-price-rises-drones-kill-hundreds-of-civilians-in-2026/a-76779824?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "German charities warn of increases of 70-80% in the costs of essentials in wartorn Sudan amid the unrest in the Middle East. Donors gather in Berlin o..."
     },
     {
         "source": "Leafly",
