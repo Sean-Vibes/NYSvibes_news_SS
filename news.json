@@ -36,9 +36,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kremlin says US has rejected its proposal that Russia take Iranian uranium stocks",
-        "image": "https://media.zenfs.com/en/reuters.com/5274a7b8b924584b08600cc86caad42c",
-        "link": "https://www.yahoo.com/news/articles/kremlin-says-us-rejected-proposal-175235172.html",
+        "title": "Exclusive-China moves to block entrance to disputed South China Sea shoal, images show",
+        "image": "https://media.zenfs.com/en/reuters.com/9dfb37ed01854f2455c327ddbf956cc9",
+        "link": "https://www.yahoo.com/news/articles/exclusive-china-moves-block-entrance-085143484.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Police Return to Savannah\u2019s Sister & Brother-in-Law\u2019s Neighborhood After Report \u2018Walls\u2019 Are Finally \u2018Closing in\u2019 on Nancy\u2019s Kidnappers",
+        "image": "https://media.zenfs.com/en/stylecaster_935/fdcff46758729129696c44779cf8e5d9",
+        "link": "https://www.yahoo.com/news/articles/police-return-savannah-sister-brother-153619903.html",
         "summary": "..."
     },
     {
@@ -50,13 +57,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China tests deep-sea electro-hydrostatic actuator that can cut undersea cables at a depth of 3,500 meters \u2014 state hails successful trial and hints at deployment readiness",
-        "image": "https://media.zenfs.com/en/toms_hardware_319/9a29680e204f1dbab02c9bcce966b5e1",
-        "link": "https://www.yahoo.com/news/articles/china-tests-deep-sea-electro-120358658.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Homeland Security worker and another woman are killed in a series of Atlanta-area attacks",
         "image": "https://media.zenfs.com/en/ap.org/da2f572dcedbf95b0521e280c8cad015",
         "link": "https://www.yahoo.com/news/articles/homeland-security-worker-another-woman-182403508.html",
@@ -64,10 +64,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Police Return to Savannah\u2019s Sister & Brother-in-Law\u2019s Neighborhood After Report \u2018Walls\u2019 Are Finally \u2018Closing in\u2019 on Nancy\u2019s Kidnappers",
-        "image": "https://media.zenfs.com/en/stylecaster_935/fdcff46758729129696c44779cf8e5d9",
-        "link": "https://www.yahoo.com/news/articles/police-return-savannah-sister-brother-153619903.html",
+        "title": "Fact Check: Image of Melania Trump kissing Epstein isn't what it seems",
+        "image": "https://media.zenfs.com/en/snopes_632/6a1eb6fc54801eec4c9e1288343d9201",
+        "link": "https://www.yahoo.com/news/articles/fact-check-image-melania-trump-130000195.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Several killed in Russian strikes across Ukraine, many more injured",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/several-killed-in-russian-strikes-across-ukraine-many-more-injured/a-76803204?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A 12-year-old was among those killed as Russian missile and drone attacks hit Ukrainian cities of Kyiv, Odesa and Dnipro...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Israel, Lebanon agree 10-day ceasefire, Trump says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/israel-lebanon-agree-10-day-ceasefire-trump-says/live-76802532?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Trump made the announcement after he spoke with Lebanese President Joseph Aoun and Israeli Prime Minister Benjamin Netanyahu. Hezbollah says its commi..."
     },
     {
         "source": "Deutsche Welle",
@@ -85,24 +99,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iran war: US ready to attack if no Iran deal reached",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-us-ready-to-attack-if-no-iran-deal-reached/live-76802532?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Pentagon chief Hegseth has warned that US forces are ready to restart combat if Iran rejects a deal. Meanwhile, Iranian state media reported that Paki..."
-    },
-    {
-        "source": "Deutsche Welle",
         "title": "How the Hormuz Strait crisis is squeezing India's SMEs",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/how-the-hormuz-strait-crisis-is-squeezing-india-s-smes/a-76810797?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Since the blockade of the vital shipping route, spice hub Kerala and ceramics manufacturing center Morbi are two of regional sites in India affected. ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Senegal: The Goethe-Institut opens its new building in Dakar",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/senegal-the-goethe-institut-opens-its-new-building-in-dakar/a-76792644?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Goethe-Institut's new building in Dakar champions sustainable architecture, made from the earth. Star architect Francis Kere has blended local mat..."
     },
     {
         "source": "Leafly",
