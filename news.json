@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump-backed World Liberty Financial's early investors won\u2019t be able to fully cash out until after Trump\u2019s term",
-        "image": "https://media.zenfs.com/en/reuters.com/430cd623a6e48ff173b27a326f1cc25c",
-        "link": "https://finance.yahoo.com/news/trump-backed-world-liberty-financials-184511958.html",
+        "title": "Homeland Security worker and another woman are killed in a series of Atlanta-area attacks",
+        "image": "https://media.zenfs.com/en/ap.org/da2f572dcedbf95b0521e280c8cad015",
+        "link": "https://www.yahoo.com/news/articles/homeland-security-worker-another-woman-182403508.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Dad of three suffers burns to 90% of his body after \u2018bursting into flames\u2019 near California mall",
+        "image": "https://media.zenfs.com/en/the_independent_635/4fc467720490764981e0aeafffd0bf54",
+        "link": "https://www.yahoo.com/news/articles/dad-three-suffers-burns-90-131353890.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Ukraine deploys new combat model, commander says Russian-held areas recaptured",
+        "image": "https://media.zenfs.com/en/reuters.com/921504e90be5b9fdc2394ef1e860839f",
+        "link": "https://www.yahoo.com/news/articles/ukraine-retakes-50-sq-km-113219350.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "A 15-year-old pleaded for his life as investigators say an elaborate plot lured him to his death",
         "image": "https://media.zenfs.com/en/cnn_articles_875/415b46bace36a753f50a634aa5bdcb1f",
         "link": "https://www.yahoo.com/news/articles/15-old-pleaded-life-investigators-205523861.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Justice Jackson chides Supreme Court conservatives over 'oblivious' pro-Trump emergency orders",
-        "image": "https://media.zenfs.com/en/ap.org/46c54e1a8834b678801c30413f34c8cb",
-        "link": "https://www.yahoo.com/news/articles/justice-jackson-chides-supreme-court-190732495.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "World Cup 2026: Fans with disabilities 'excluded'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/world-cup-2026-fans-with-disabilities-excluded/a-76796915?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Complaints that the 2026 World Cup, hosted largely by the USA, is a rip off have been widespread and constant. But it's not just the prices that are m..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Dad of three suffers burns to 90% of his body after \u2018bursting into flames\u2019 near California mall",
-        "image": "https://media.zenfs.com/en/the_independent_635/4fc467720490764981e0aeafffd0bf54",
-        "link": "https://www.yahoo.com/news/articles/dad-three-suffers-burns-90-131353890.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "German news: Teacher group urges action over pupil violence",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/german-news-teacher-group-urges-action-over-pupil-violence/live-76803825?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A German teachers' group says decisive action is need to counter a surge in violence in classrooms and corridors. Meanwhile, the Greens say a blanket ..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-faces-energy-squeeze-as-us-ends-iran-russia-oil-waivers/live-76802535?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Washington's decision to let Iranian and Russian oil waivers expire threatens to tighten India's crude oil supply, as New Delhi had relied on temporar..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UK signs deal to rejoin EU's Erasmus exchange scheme",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-signs-deal-to-rejoin-eu-s-erasmus-exchange-scheme/a-76802456?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Britain will rejoin the popular Europe-wide student exchange program six years after leaving it...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Firefighters battle huge blaze at Australian oil refinery",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/firefighters-battle-huge-blaze-at-australian-oil-refinery/a-76801562?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The fire is burning out of control at the Geelong oil refinery, one of only two in Australia...."
     },
     {
         "source": "Leafly",
