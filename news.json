@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Homeland Security worker and another woman are killed in a series of Atlanta-area attacks",
-        "image": "https://media.zenfs.com/en/ap.org/da2f572dcedbf95b0521e280c8cad015",
-        "link": "https://www.yahoo.com/news/articles/homeland-security-worker-another-woman-182403508.html",
+        "title": "Exclusive-Iran offers proposal allowing ships to exit Oman side of Hormuz free of attack, source says",
+        "image": "https://media.zenfs.com/en/reuters.com/cc32ee31baf31abd72d3e568226d2f00",
+        "link": "https://www.yahoo.com/news/articles/exclusive-iran-offers-proposal-allowing-180333606.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukraine deploys new combat model, commander says Russian-held areas recaptured",
-        "image": "https://media.zenfs.com/en/reuters.com/921504e90be5b9fdc2394ef1e860839f",
-        "link": "https://www.yahoo.com/news/articles/ukraine-retakes-50-sq-km-113219350.html",
+        "title": "Exclusive-Starlink outage hit drone tests, exposing Pentagon\u2019s growing reliance on SpaceX",
+        "image": "https://media.zenfs.com/en/reuters-finance.com/b1a3bd1fe6f25261a1d90f60283dc711",
+        "link": "https://www.yahoo.com/news/articles/exclusive-starlink-outage-hit-drone-100305265.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/cnn_articles_875/415b46bace36a753f50a634aa5bdcb1f",
         "link": "https://www.yahoo.com/news/articles/15-old-pleaded-life-investigators-205523861.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "South Africa's Malema sentenced to jail on gun charges",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/south-africa-s-malema-sentenced-to-jail-on-gun-charges/a-76805868?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The EFF opposition politician was convicted of firing a rifle at a political rally eight years ago. The court has granted him leave to appeal the sent..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-pakistan-delegation-in-tehran-to-continue-talks/live-76802532?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A high-level delegation from Pakistan is to continue talks in Tehran to push for fresh US-Iran negotiations. Follow DW for more...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India faces energy squeeze as US ends Iran, Russia oil waivers",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-faces-energy-squeeze-as-us-ends-iran-russia-oil-waivers/live-76802535?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Washington's decision to let Iranian and Russian oil waivers expire threatens to tighten India's crude oil supply, as New Delhi had relied on temporar..."
     },
     {
         "source": "Leafly",
