@@ -43,13 +43,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "A 15-year-old pleaded for his life as investigators say an elaborate plot lured him to his death",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/415b46bace36a753f50a634aa5bdcb1f",
-        "link": "https://www.yahoo.com/news/articles/15-old-pleaded-life-investigators-205523861.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Rep. Lauren Boebert Just Told Every Congressional Staffer to Come to Her Office If They\u2019re Being Mistreated",
         "image": "https://media.zenfs.com/en/where_is_the_buzz_814/42ed9aef6259c2628975fa6e4364dabc",
         "link": "https://www.yahoo.com/news/articles/rep-lauren-boebert-just-told-225640175.html",
@@ -57,17 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Justice Jackson chides Supreme Court conservatives over 'oblivious' pro-Trump emergency orders",
-        "image": "https://media.zenfs.com/en/ap.org/46c54e1a8834b678801c30413f34c8cb",
-        "link": "https://www.yahoo.com/news/articles/justice-jackson-chides-supreme-court-190732495.html",
+        "title": "A 15-year-old pleaded for his life as investigators say an elaborate plot lured him to his death",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/415b46bace36a753f50a634aa5bdcb1f",
+        "link": "https://www.yahoo.com/news/articles/15-old-pleaded-life-investigators-205523861.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "A Woman Met Her Husband in a Bible Group. Six Kids Later, She Found Out He Was Keeping a Couple Captive in a Basement",
-        "image": "https://media.zenfs.com/en/people_218/9c45a07ee5e96dfa6f29fac92c330507",
-        "link": "https://www.yahoo.com/entertainment/tv/articles/woman-met-her-husband-bible-110000481.html",
+        "title": "Trump-backed World Liberty Financial's early investors won\u2019t be able to fully cash out until after Trump\u2019s term",
+        "image": "https://media.zenfs.com/en/reuters.com/430cd623a6e48ff173b27a326f1cc25c",
+        "link": "https://finance.yahoo.com/news/trump-backed-world-liberty-financials-184511958.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Arizona town facing severe water restrictions as supply could run out by summer",
+        "image": "https://media.zenfs.com/en/ksaz_fox_local_article_698/829e253cde269e3bdeaab8f2476c3ffe",
+        "link": "https://www.yahoo.com/news/articles/arizona-town-facing-severe-water-215908577.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Pakistan delegation in Tehran to continue talks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-pakistan-delegation-in-tehran-to-continue-talks/live-76802532?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A high-level delegation from Pakistan is to continue talks in Tehran to push for fresh US-Iran negotiations. Follow DW for more...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India faces energy squeeze as US ends Iran, Russia oil waivers",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-faces-energy-squeeze-as-us-ends-iran-russia-oil-waivers/live-76802535?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Washington's decision to let Iranian and Russian oil waivers expire threatens to tighten India's crude oil supply, as New Delhi had relied on temporar..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/can-trump-get-a-better-iran-deal-than-obama/a-76798388?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The 2015 Iran deal curbed Tehran's nuclear program until the US pulled out. After years of failed diplomacy and 40 days of war, talks are back on. Don..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany, the UK warn the Iran war distracts from Ukraine and oil price rises help Russia",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-the-uk-warn-the-iran-war-distracts-from-ukraine-and-oil-price-rises-help-russia/a-76797004?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany's defense minister warned that Russia \"benefits from current developments in the Middle East,\" as the Ukraine Defense Contact Group met in Ber..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Berlin hosts Sudan Conference: a brutal, forgotten conflict",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/berlin-hosts-sudan-conference-a-brutal-forgotten-conflict/a-76798246?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The war in Sudan has been raging for the past three years, and a ceasefire is nowhere in sight. Participants at a conference of donors in Berlin hope ..."
     },
     {
         "source": "Leafly",
