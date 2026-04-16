@@ -57,17 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive-China moves to block entrance to disputed South China Sea shoal, images show",
-        "image": "https://media.zenfs.com/en/reuters.com/9dfb37ed01854f2455c327ddbf956cc9",
-        "link": "https://www.yahoo.com/news/articles/exclusive-china-moves-block-entrance-085143484.html",
+        "title": "Kremlin says US has rejected its proposal that Russia take Iranian uranium stocks",
+        "image": "https://media.zenfs.com/en/reuters.com/5274a7b8b924584b08600cc86caad42c",
+        "link": "https://www.yahoo.com/news/articles/kremlin-says-us-rejected-proposal-175235172.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Rep. Lauren Boebert Just Told Every Congressional Staffer to Come to Her Office If They\u2019re Being Mistreated",
-        "image": "https://media.zenfs.com/en/where_is_the_buzz_814/42ed9aef6259c2628975fa6e4364dabc",
-        "link": "https://www.yahoo.com/news/articles/rep-lauren-boebert-just-told-225640175.html",
+        "title": "CNN Anchor Calls Out Scott Jennings For Saying Bonkers Trump Post 'Didn't Happen': 'Let Me Just Reiterate To the Audience'",
+        "image": "https://media.zenfs.com/en/mediaite_videos_432/c8c980f78e8023e6ae855cd66adbf272",
+        "link": "https://www.yahoo.com/news/videos/cnn-anchor-calls-scott-jennings-174515827.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Temporary Israel-Lebanon ceasefire takes effect",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-temporary-israel-lebanon-ceasefire-takes-effect/live-76816644?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "As a 10-day ceasefire deal between Lebanon and Israel took effect, the Israeli military said its forces are going to remain in southern Lebanon. DW ha..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/pope-leo-excoriates-tyrants-waging-war-instead-of-peace/a-76813305?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Pope Leo XIV has admonished those waging war in the name of god and slammed \"tyrants\" destroying the world and its resources. The pontiff has stepped ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "The immense cost of Iran's nuclear program",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/the-immense-cost-of-iran-s-nuclear-program/a-76810402?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Iran insists that its nuclear program is for peaceful, civilian purposes, including energy production. But the figures and statistics paint a differen..."
     },
     {
         "source": "Leafly",
