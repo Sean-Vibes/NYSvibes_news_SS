@@ -36,9 +36,30 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kremlin says US has rejected its proposal that Russia take Iranian uranium stocks",
-        "image": "https://media.zenfs.com/en/reuters.com/5274a7b8b924584b08600cc86caad42c",
-        "link": "https://www.yahoo.com/news/articles/kremlin-says-us-rejected-proposal-175235172.html",
+        "title": "Appeals court orders judge to end contempt investigation of Trump administration deportation flights",
+        "image": "https://media.zenfs.com/en/ap.org/157700b81e5b72e675909401d64a66b6",
+        "link": "https://www.yahoo.com/news/articles/appeals-court-orders-judge-end-152107036.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "A 15-year-old pleaded for his life as investigators say an elaborate plot lured him to his death",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/415b46bace36a753f50a634aa5bdcb1f",
+        "link": "https://www.yahoo.com/news/articles/15-old-pleaded-life-investigators-205523861.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Rep. Lauren Boebert Just Told Every Congressional Staffer to Come to Her Office If They\u2019re Being Mistreated",
+        "image": "https://media.zenfs.com/en/where_is_the_buzz_814/42ed9aef6259c2628975fa6e4364dabc",
+        "link": "https://www.yahoo.com/news/articles/rep-lauren-boebert-just-told-225640175.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Justice Jackson chides Supreme Court conservatives over 'oblivious' pro-Trump emergency orders",
+        "image": "https://media.zenfs.com/en/ap.org/46c54e1a8834b678801c30413f34c8cb",
+        "link": "https://www.yahoo.com/news/articles/justice-jackson-chides-supreme-court-190732495.html",
         "summary": "..."
     },
     {
@@ -49,25 +70,11 @@
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Secret Service Agent Tasked With Protecting Former First Lady Jill Biden Accidentally Shoots Himself",
-        "image": "https://media.zenfs.com/en/globe_458/177e6734151c2098dc46b1f168e49c59",
-        "link": "https://www.yahoo.com/news/articles/secret-agent-tasked-protecting-former-114021864.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "When will mortgage rates go down to 5%?",
-        "image": "https://s.yimg.com/os/creatr-uploaded-images/2024-03/589485c0-e13c-11ee-bddf-ed1ab68c7f18",
-        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/when-will-mortgage-rates-go-down-to-5-201806162.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "A 15-year-old pleaded for his life as investigators say an elaborate plot lured him to his death",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/415b46bace36a753f50a634aa5bdcb1f",
-        "link": "https://www.yahoo.com/news/articles/15-old-pleaded-life-investigators-205523861.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "UK signs deal to rejoin EU's Erasmus exchange scheme",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/uk-signs-deal-to-rejoin-eu-s-erasmus-exchange-scheme/a-76802456?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Britain will rejoin the popular Europe-wide student exchange program six years after leaving it...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/berlin-hosts-sudan-conference-a-brutal-forgotten-conflict/a-76798246?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The war in Sudan has been raging for the past three years, and a ceasefire is nowhere in sight. Participants at a conference of donors in Berlin hope ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany: Sudan aid conference in Berlin raises \u20ac1.3B",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-sudan-aid-conference-in-berlin-raises-\u20ac1-3b/a-76786563?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The war in Sudan is entering its fourth year with international attention focused on other conflicts. The conference in Berlin is aiming to bring back..."
     },
     {
         "source": "Leafly",
