@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Appeals court orders judge to end contempt investigation of Trump administration deportation flights",
-        "image": "https://media.zenfs.com/en/ap.org/157700b81e5b72e675909401d64a66b6",
-        "link": "https://www.yahoo.com/news/articles/appeals-court-orders-judge-end-152107036.html",
+        "title": "Trump-backed World Liberty Financial's early investors won\u2019t be able to fully cash out until after Trump\u2019s term",
+        "image": "https://media.zenfs.com/en/reuters.com/430cd623a6e48ff173b27a326f1cc25c",
+        "link": "https://finance.yahoo.com/news/trump-backed-world-liberty-financials-184511958.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump-backed World Liberty Financial's early investors won\u2019t be able to fully cash out until after Trump\u2019s term",
-        "image": "https://media.zenfs.com/en/reuters.com/430cd623a6e48ff173b27a326f1cc25c",
-        "link": "https://finance.yahoo.com/news/trump-backed-world-liberty-financials-184511958.html",
+        "title": "Justice Jackson chides Supreme Court conservatives over 'oblivious' pro-Trump emergency orders",
+        "image": "https://media.zenfs.com/en/ap.org/46c54e1a8834b678801c30413f34c8cb",
+        "link": "https://www.yahoo.com/news/articles/justice-jackson-chides-supreme-court-190732495.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Arizona town facing severe water restrictions as supply could run out by summer",
-        "image": "https://media.zenfs.com/en/ksaz_fox_local_article_698/829e253cde269e3bdeaab8f2476c3ffe",
-        "link": "https://www.yahoo.com/news/articles/arizona-town-facing-severe-water-215908577.html",
+        "title": "Dad of three suffers burns to 90% of his body after \u2018bursting into flames\u2019 near California mall",
+        "image": "https://media.zenfs.com/en/the_independent_635/4fc467720490764981e0aeafffd0bf54",
+        "link": "https://www.yahoo.com/news/articles/dad-three-suffers-burns-90-131353890.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Several killed in Russian strikes across Ukraine, many more injured",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/several-killed-in-russian-strikes-across-ukraine-many-more-injured/a-76803204?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A 12-year-old was among those killed as Russian missile and drone attacks hit Ukrainian cities of Kyiv, Odesa and Dnipro...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/firefighters-battle-huge-blaze-at-australian-oil-refinery/a-76801562?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The fire is burning out of control at the Geelong oil refinery, one of only two in Australia...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Can Trump get a better Iran deal than Obama?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/can-trump-get-a-better-iran-deal-than-obama/a-76798388?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The 2015 Iran deal curbed Tehran's nuclear program until the US pulled out. After years of failed diplomacy and 40 days of war, talks are back on. Don..."
     },
     {
         "source": "Leafly",
