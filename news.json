@@ -36,16 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kremlin says US has rejected its proposal that Russia take Iranian uranium stocks",
-        "image": "https://media.zenfs.com/en/reuters.com/5274a7b8b924584b08600cc86caad42c",
-        "link": "https://www.yahoo.com/news/articles/kremlin-says-us-rejected-proposal-175235172.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "High-end steakhouse chain files for Chapter 11 bankruptcy",
-        "image": "https://media.zenfs.com/en/thestreet_881/aeb890e3d1720d27d320d60be9761dc3",
-        "link": "https://finance.yahoo.com/economy/articles/high-end-steakhouse-chain-files-170700258.html",
+        "title": "Iran-US talks turn to interim deal amid rifts over nuclear work, Iranian sources say",
+        "image": "https://media.zenfs.com/en/reuters.com/e4ec2d6dd39342d798ed507af20deafa",
+        "link": "https://www.yahoo.com/news/articles/iran-us-narrow-differences-pakistani-085019261.html",
         "summary": "..."
     },
     {
@@ -53,6 +46,13 @@
         "title": "Police Return to Savannah\u2019s Sister & Brother-in-Law\u2019s Neighborhood After Report \u2018Walls\u2019 Are Finally \u2018Closing in\u2019 on Nancy\u2019s Kidnappers",
         "image": "https://media.zenfs.com/en/stylecaster_935/fdcff46758729129696c44779cf8e5d9",
         "link": "https://www.yahoo.com/news/articles/police-return-savannah-sister-brother-153619903.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "High-end steakhouse chain files for Chapter 11 bankruptcy",
+        "image": "https://media.zenfs.com/en/thestreet_881/aeb890e3d1720d27d320d60be9761dc3",
+        "link": "https://finance.yahoo.com/economy/articles/high-end-steakhouse-chain-files-170700258.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/where_is_the_buzz_814/42ed9aef6259c2628975fa6e4364dabc",
         "link": "https://www.yahoo.com/news/articles/rep-lauren-boebert-just-told-225640175.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "IMF, World Bank restore relations with Venezuela",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/imf-world-bank-restore-relations-with-venezuela/a-76817169?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The IMF and World Bank have resumed formal engagement with Venezuela. The move further legitimizes the Latin American country's interim government and..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/10-day-ceasefire-between-israel-lebanon-goes-into-effect/live-76802532?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The temporary ceasefire came after US President Trump spoke with Lebanese President Aoun and Israeli Prime Minister Netanyahu. Hezbollah says its comm..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pope Leo excoriates 'tyrants' waging war instead of peace",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pope-leo-excoriates-tyrants-waging-war-instead-of-peace/a-76813305?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Pope Leo XIV has admonished those waging war in the name of god and slammed \"tyrants\" destroying the world and its resources. The pontiff has stepped ..."
     },
     {
         "source": "Leafly",
