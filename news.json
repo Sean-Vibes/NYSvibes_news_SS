@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Louisiana Senate Passes Bill To Create Psychedelic Therapy Pilot Program Funded By Opioid Settlement Dollars",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/louisiana-senate-passes-bill-to-create-psychedelic-therapy-pilot-program-funded-by-opioid-settlement-dollars/",
+        "summary": "<p>The Louisiana Senate has passed\u00a0a bill to create a psychedelic-assisted therapy pilot program, using opioid settlement dollars to fund clinical... ..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Marijuana Is Safer Than McDonald\u2019s French Fries, Cory Booker Says",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/marijuana-is-safer-than-mcdonalds-french-fries-cory-booker-says/",
@@ -28,17 +35,10 @@
         "summary": "<p>President Donald Trump is reportedly planning to issue an executive order as soon as this week signaling the administration\u2019s willingness... <a cla..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "When It Comes To Marijuana And Hemp, If You Believe In One Plant You Need To Believe In One Rule (Op-Ed)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/when-it-comes-to-marijuana-and-hemp-if-you-believe-in-one-plant-you-need-to-believe-in-one-rule-op-ed/",
-        "summary": "<p>\u201cIf the loophole persists, that trust erodes. Not because the hemp farmers are bad people. But because a system that... <a class=\"small font-montse..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "New York loses nearly $74 million for not revoking 33,000 illegal licenses for immigrant truckers",
-        "image": "https://media.zenfs.com/en/ap.org/bd17eb9f84f2600836df3f80a9e7a971",
-        "link": "https://www.yahoo.com/news/articles/york-loses-nearly-74-million-194641714.html",
+        "title": "Starmer faces calls to resign as UK government admits ambassador to US failed vetting process",
+        "image": "https://media.zenfs.com/en/ap.org/78b4f59d929ddd38689263fb7d211a58",
+        "link": "https://www.yahoo.com/news/articles/starmer-faces-calls-resign-uk-185204183.html",
         "summary": "..."
     },
     {
@@ -50,30 +50,44 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018We keep our finances separate\u2019: My boyfriend is in his 50s with no retirement savings \u2014 how worried should I be?",
-        "image": "https://media.zenfs.com/en/marketwatch_hosted_869/21b2785c59cf61cfcfb5871dfd82bec6",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/keep-finances-separate-boyfriend-50s-221400543.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Confused Trump, 79, Looks for Someone to Blame After Tripping Up on Simple Phrase",
-        "image": "https://media.zenfs.com/en/video.dailybeast.com/c6b8604cf9f5d3731c5367c74493405d",
-        "link": "https://www.yahoo.com/news/videos/confused-trump-79-looks-someone-081638037.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Remains found in car ID'd as family who mysteriously vanished in 1958",
         "image": "https://media.zenfs.com/en/cbs_news_897/03d65b61b9d41b757687e42f206e6762",
         "link": "https://www.yahoo.com/news/articles/remains-found-car-idd-family-104902556.html",
         "summary": "..."
     },
     {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Kremlin says US has rejected its proposal that Russia take Iranian uranium stocks",
+        "image": "https://media.zenfs.com/en/reuters.com/5274a7b8b924584b08600cc86caad42c",
+        "link": "https://www.yahoo.com/news/articles/kremlin-says-us-rejected-proposal-175235172.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Idaho elected official accused of stabbing girl in attack along Payette River",
+        "image": "https://media.zenfs.com/en/idaho_statesman_mcclatchy_articles_842/6def90e832f0ce03a1d73d98ede4e441",
+        "link": "https://www.yahoo.com/news/articles/idaho-elected-official-accused-stabbing-211123303.html",
+        "summary": "..."
+    },
+    {
         "source": "Deutsche Welle",
-        "title": "Iran war: Temporary Israel-Lebanon ceasefire takes effect",
+        "title": "Iran war: What does Tehran expect from fresh talks with US?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-temporary-israel-lebanon-ceasefire-takes-effect/live-76816644?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/iran-war-what-does-tehran-expect-from-fresh-talks-with-us/a-76835484?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Amid talk of a second round of negotiations between Iran and the US, experts say a breakthrough between the two sides is possible, but far from certai..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India\u2019s harvest festivals under climate strain",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-s-harvest-festivals-under-climate-strain/a-76821351?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "As people across India celebrate traditional agrarian spring festivals, climate change has become an unwanted guest at the table. How are communities ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Strait of Hormuz open amid Israel-Lebanon truce",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-strait-of-hormuz-open-amid-israel-lebanon-truce/live-76816644?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "As a 10-day ceasefire deal between Lebanon and Israel took effect, the Israeli military said its forces are going to remain in southern Lebanon. Iran ..."
     },
     {
@@ -81,7 +95,7 @@
         "title": "Hannover Messe 2026: Brazilian flair awaits visitors",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/hannover-messe-2026-brazilian-flair-awaits-visitors/a-76810602?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "With war in Iran on hold, the world's largest industrial trade fair opens in Hannover. And Brazil, this year's partner country, is pulling out all the..."
+        "summary": "With war in Iran on hold, the world's largest industrial trade fair opens in Hannover. And Brazil, this year's partner country, is pulling out all sto..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/uk-furious-pm-starmer-refuses-to-step-down-over-mandelson/a-76829190?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Pressure on Prime Minister Keir Starmer is growing over his naming of Peter Mandelson as US ambassador despite red flags. The PM says he was not told ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Cyprus: Global politics felt at Candidates chess tournaments",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/cyprus-global-politics-felt-at-candidates-chess-tournaments/a-76824991?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The FIDE Candidates tournaments are two of the most important events in the chess calendar. This year, they took place in Cyprus. But tension relating..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nigeria: Students abducted enroute to Uni entrance exams",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nigeria-students-abducted-enroute-to-uni-entrance-exams/a-76819530?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The governor did not specify the exact number of those kidnapped, but local media said it was 17. The incident comes amid a surge in violence in diffe..."
     },
     {
         "source": "Leafly",
