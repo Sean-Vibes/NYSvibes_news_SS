@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former Virginia Lt. Gov Justin Fairfax kills wife, then himself, police say",
-        "image": "https://s.yimg.com/uu/api/res/1.2/XekZaO5n52HFEkQvmz7CIA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/fairfax_7664.jpg",
-        "link": "https://www.yahoo.com/news/us/article/former-virginia-lt-gov-justin-fairfax-kills-wife-then-himself-police-say-135809026.html",
+        "title": "New York loses nearly $74 million for not revoking 33,000 illegal licenses for immigrant truckers",
+        "image": "https://media.zenfs.com/en/ap.org/bd17eb9f84f2600836df3f80a9e7a971",
+        "link": "https://www.yahoo.com/news/articles/york-loses-nearly-74-million-194641714.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Artemis astronaut describes charring on heat shield during crew's fiery return to Earth",
-        "image": "https://media.zenfs.com/en/reuters.com/6b55e768dc5b553d99dd99e19ebcab54",
-        "link": "https://www.yahoo.com/news/articles/artemis-astronaut-describes-charring-heat-222153216.html",
+        "title": "Former Virginia Lt. Gov Justin Fairfax kills wife, then himself, police say",
+        "image": "https://s.yimg.com/uu/api/res/1.2/XekZaO5n52HFEkQvmz7CIA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/fairfax_7664.jpg",
+        "link": "https://www.yahoo.com/news/us/article/former-virginia-lt-gov-justin-fairfax-kills-wife-then-himself-police-say-135809026.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/cbs_news_897/03d65b61b9d41b757687e42f206e6762",
         "link": "https://www.yahoo.com/news/articles/remains-found-car-idd-family-104902556.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine: Gunman kills several people in Kyiv",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-gunman-kills-several-people-in-kyiv/a-76843205?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A gunman has shot dead \"several\" people and wounded others in the Ukrainian capital, authorities said. Police have launched a manhunt to find the susp..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-attacks-on-ships-reported-as-strait-of-hormuz-recloses/live-76839599?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Iran has accused the US of violating the ceasefire agreement by maintaining a blockade on its ports. Meanwhile, a French peacekeeper was killed in sou..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Rutte dismisses speculation about US leaving NATO",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/rutte-dismisses-speculation-about-us-leaving-nato/a-76841349?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "NATO chief Mark Rutte said he understands Donald Trump's frustration with NATO. He also called on Europe to boost its defense industry...."
     },
     {
         "source": "Leafly",
