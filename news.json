@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "New York loses nearly $74 million for not revoking 33,000 illegal licenses for immigrant truckers",
-        "image": "https://media.zenfs.com/en/ap.org/bd17eb9f84f2600836df3f80a9e7a971",
-        "link": "https://www.yahoo.com/news/articles/york-loses-nearly-74-million-194641714.html",
+        "title": "Kremlin acknowledges criticism after blogger warns Putin 'squeezed' Russians could erupt",
+        "image": "https://media.zenfs.com/en/reuters.com/5f174e7f5f46f640ad984a2146b42d98",
+        "link": "https://www.yahoo.com/news/articles/kremlin-acknowledges-criticism-blogger-warns-150531295.html",
         "summary": "..."
     },
     {
@@ -71,6 +71,13 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "India: Parliament fails to pass women's quota bill after delimitation uproar",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-parliament-fails-to-pass-women-s-quota-bill-after-delimitation-uproar/live-76840035?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Indian government's bid to redraw voting boundaries tied to quotas for women legislators was blocked in a parliament vote. It is the first major legis..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "US extends waiver allowing purchase of Russian oil",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-extends-waiver-allowing-purchase-of-russian-oil/a-76839756?maca=en-rss-en-all-1573-xml-mrss",
@@ -78,10 +85,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iran vows to close Strait of Hormuz if US blockade continues",
+        "title": "Iranian military says it has again closed the Strait of Hormuz, accusing US of truce violation",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-vows-to-close-strait-of-hormuz-if-us-blockade-continues/live-76839599?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After announcing that the Strait of Hormuz is open, Iran said it would close the vital waterway again unless the United States lifted its blockade. DW..."
+        "link": "https://www.dw.com/en/iranian-military-says-it-has-again-closed-the-strait-of-hormuz-accusing-us-of-truce-violation/live-76839599?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran has accused the US of violating the ceasefire agreement by maintaining a blockade on its ports. Meanwhile the US has renewed a waiver of sanction..."
     },
     {
         "source": "Deutsche Welle",
@@ -92,17 +99,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "As Strait of Hormuz reopens, Europe looks to secure shipping",
+        "title": "Europe looks to secure shipping in Strait of Hormuz",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/as-strait-of-hormuz-reopens-europe-looks-to-secure-shipping/a-76838636?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/europe-looks-to-secure-shipping-in-strait-of-hormuz/a-76838636?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A coalition of nonbelligerent states led by France and the UK has said it is ready to lead an international mission to restore navigation in the Strai..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Can the 25th Amendment remove Donald Trump from office?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/can-the-25th-amendment-remove-donald-trump-from-office/a-76835018?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After Donald Trump threatened to wipe out \"an entire civilization,\" clashed with the pope and posted an AI image of himself as Jesus, US Democrats and..."
     },
     {
         "source": "Leafly",
