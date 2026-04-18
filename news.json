@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Trump Complains DOJ Is \u2018Slow-Walking\u2019 Marijuana Rescheduling, Four Months After He Issued An Order To Get It Done",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/trump-complains-doj-is-slow-walking-marijuana-rescheduling-four-months-after-he-issued-an-order-to-get-it-done/",
+        "summary": "<p>President Donald Trump on Saturday appeared to complain that federal officials are \u201cslow-walking\u201d following through on an executive order he... <a ..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Trump Signs Order To Accelerate Legal Access To Psychedelics For Patients With Mental Health Conditions",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/trump-signs-order-to-accelerate-legal-access-to-psychedelics-for-patients-with-mental-health-conditions/",
@@ -28,17 +35,10 @@
         "summary": "<p>Texas voters strongly support legalizing medical marijuana yet are largely unaware of their own state\u2019s existing program that provides limited... <..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "States Could Opt Out Of Federal Hemp THC Product Ban Under New Bipartisan Senate Bill",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/states-could-opt-out-of-federal-hemp-thc-product-ban-under-new-bipartisan-senate-bill/",
-        "summary": "<p>A newly filed bipartisan bill in the U.S. Senate would effectively let states opt out of the federal recriminalization of... <a class=\"small font-m..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "New York loses nearly $74 million for not revoking 33,000 illegal licenses for immigrant truckers",
-        "image": "https://media.zenfs.com/en/ap.org/bd17eb9f84f2600836df3f80a9e7a971",
-        "link": "https://www.yahoo.com/news/articles/york-loses-nearly-74-million-194641714.html",
+        "title": "Judge sides with Arizona election official in ruling that has implications for midterms voting",
+        "image": "https://media.zenfs.com/en/ap.org/df9280d94566a5be414a59f26e2b8ec6",
+        "link": "https://www.yahoo.com/news/articles/judge-sides-arizona-election-official-185242687.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former Virginia Lt. Gov Justin Fairfax kills wife, then himself, police say",
-        "image": "https://s.yimg.com/uu/api/res/1.2/XekZaO5n52HFEkQvmz7CIA--~B/aD0xMzMzO3c9MjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/fairfax_7664.jpg",
-        "link": "https://www.yahoo.com/news/us/article/former-virginia-lt-gov-justin-fairfax-kills-wife-then-himself-police-say-135809026.html",
+        "title": "The Supreme Court hands a win to oil and gas companies fighting environmental lawsuits in Louisiana",
+        "image": "https://media.zenfs.com/en/wgno_new_orleans_283/90487e10d576406d2a0d3c354a9353a7",
+        "link": "https://www.yahoo.com/news/articles/us--supreme-court-louisiana-chevron-154606337.html",
         "summary": "..."
     },
     {
@@ -71,10 +71,17 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Ukraine: Gunman kills several people in Kyiv",
+        "title": "Ukraine: Police shoot dead gunman who killed several in Kyiv",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-gunman-kills-several-people-in-kyiv/a-76843205?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A gunman has shot dead \"several\" people and wounded others in the Ukrainian capital, authorities said. Police have launched a manhunt to find the susp..."
+        "link": "https://www.dw.com/en/ukraine-police-shoot-dead-gunman-who-killed-several-in-kyiv/a-76843205?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The gunman who shot dead \"several\" people and wounded others in the Ukrainian capital has been killed during an attempt to arrest him, authorities sai..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Pope Leo plays down rift with Trump, doubles down on peace",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/pope-leo-plays-down-rift-with-trump-doubles-down-on-peace/a-76842971?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "En route to Angola for a three-day visit, Pope Leo XIV said he has no desire to debate with US President Donald Trump. The two leaders have traded bar..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/record-fuel-prices-how-are-governments-responding/a-76805635?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "In Germany, a liter of diesel costs up to 40% more than before the Iran war and other countries have seen even bigger price jumps. What are government..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran: Attacks on ships reported as Strait of Hormuz recloses",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-attacks-on-ships-reported-as-strait-of-hormuz-recloses/live-76839599?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Iran has accused the US of violating the ceasefire agreement by maintaining a blockade on its ports. Meanwhile, a French peacekeeper was killed in sou..."
     },
     {
         "source": "Leafly",
