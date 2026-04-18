@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Colorado Marijuana Officials Announce Crackdown On Sales Of Hemp Products Amid \u2018Risks To Public Safety\u2019",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/colorado-marijuana-officials-announce-crackdown-on-sales-of-hemp-products-amid-risks-to-public-safety/",
+        "summary": "<p>These issues \u201cpresent serious risks to public safety, market integrity and the tax revenue framework that supports Colorado\u2019s regulated cannabis......"
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Trump Complains DOJ Is \u2018Slow-Walking\u2019 Marijuana Rescheduling, Four Months After He Issued An Order To Get It Done",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/trump-complains-doj-is-slow-walking-marijuana-rescheduling-four-months-after-he-issued-an-order-to-get-it-done/",
@@ -28,13 +35,6 @@
         "summary": "<p>Using medical marijuana appears to help people reduce the use of other medications, including opioids, sleeping aids and antidepressants, according..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Texas Voters Support Legal Medical Marijuana Access But Are Largely Unaware Of The State\u2019s Existing Program, Poll Shows",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/texas-voters-support-legal-medical-marijuana-access-but-are-largely-unaware-of-the-states-existing-program-poll-shows/",
-        "summary": "<p>Texas voters strongly support legalizing medical marijuana yet are largely unaware of their own state\u2019s existing program that provides limited... <..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Judge sides with Arizona election official in ruling that has implications for midterms voting",
         "image": "https://media.zenfs.com/en/ap.org/df9280d94566a5be414a59f26e2b8ec6",
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Oil prices plunge as Iran reopens Strait of Hormuz, but 'pre-war levels' could take longer: Analyst",
-        "image": "https://media.zenfs.com/en/nbcu_713/c1b03e3d899139bad45fe46bf610e565",
-        "link": "https://www.yahoo.com/news/videos/oil-prices-plunge-iran-reopens-203819438.html",
+        "title": "The Supreme Court hands a win to oil and gas companies fighting environmental lawsuits in Louisiana",
+        "image": "https://media.zenfs.com/en/wgno_new_orleans_283/90487e10d576406d2a0d3c354a9353a7",
+        "link": "https://www.yahoo.com/news/articles/us--supreme-court-louisiana-chevron-154606337.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,27 @@
         "image": "https://media.zenfs.com/en/cbs_news_897/03d65b61b9d41b757687e42f206e6762",
         "link": "https://www.yahoo.com/news/articles/remains-found-car-idd-family-104902556.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US strikes on drug boats spark legal controversy",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-strikes-on-drug-boats-spark-legal-controversy/a-76844186?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US has carried out further attacks on alleged drug boats. Critics say the strikes are not only ineffective, they are also largely about appealing ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UNIFIL: Why are UN peacekeepers in Lebanon?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/unifil-why-are-un-peacekeepers-in-lebanon/a-70471965?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A French UN peacekeeper has been killed in Lebanon, highlighting rising risks for UNIFIL. The UN mission has been in the country for nearly 50 years \u2014..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Modi slams Congress over women's quota vote",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-modi-slams-congress-over-women-s-quota-vote/live-76840035?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Indian prime minister blamed the main opposition party for failing to pass a law reserving a third of parliamentary seats for women. The plan was ..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/pope-leo-plays-down-rift-with-trump-doubles-down-on-peace/a-76842971?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "En route to Angola for a three-day visit, Pope Leo XIV said he has no desire to debate with US President Donald Trump. The two leaders have traded bar..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "British police probe another arson attack in London",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/british-police-probe-another-arson-attack-in-london/a-76842584?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The UK has seen a spate of similar incidents in recent weeks, heightening concerns over growing antisemitism in the country...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "The German who recovered from a stroke to seal Olympic first",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/the-german-who-recovered-from-a-stroke-to-seal-olympic-first/a-76775080?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Kathrin Marchand was an elite rower for years before becoming a doctor. But a stroke at the age of 30 changed everything. Despite the challenges, she ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Record fuel prices: How are governments responding?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/record-fuel-prices-how-are-governments-responding/a-76805635?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In Germany, a liter of diesel costs up to 40% more than before the Iran war and other countries have seen even bigger price jumps. What are government..."
     },
     {
         "source": "Leafly",
