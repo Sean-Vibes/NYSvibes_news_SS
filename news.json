@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kremlin acknowledges criticism after blogger warns Putin 'squeezed' Russians could erupt",
-        "image": "https://media.zenfs.com/en/reuters.com/5f174e7f5f46f640ad984a2146b42d98",
-        "link": "https://www.yahoo.com/news/articles/kremlin-acknowledges-criticism-blogger-warns-150531295.html",
+        "title": "New York loses nearly $74 million for not revoking 33,000 illegal licenses for immigrant truckers",
+        "image": "https://media.zenfs.com/en/ap.org/bd17eb9f84f2600836df3f80a9e7a971",
+        "link": "https://www.yahoo.com/news/articles/york-loses-nearly-74-million-194641714.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/e7143acf43c849bc1e44ff9021035d17",
         "link": "https://finance.yahoo.com/economy/policy/articles/nyc-cooked-business-leaders-wall-040201404.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Iran war not causing migration wave \u2014 Dobrindt",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-iran-war-not-causing-migration-wave-dobrindt/live-76840275?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "German Interior Minister Dobrindt says that no increased migration to Europe has so far occurred amid the Iran war. An explosion in an underpass in a ..."
     },
     {
         "source": "Deutsche Welle",
@@ -85,9 +92,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iranian military says it has again closed the Strait of Hormuz, accusing US of truce violation",
+        "title": "Iran closes Strait of Hormuz again over US blockade",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iranian-military-says-it-has-again-closed-the-strait-of-hormuz-accusing-us-of-truce-violation/live-76839599?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/iran-closes-strait-of-hormuz-again-over-us-blockade/live-76839599?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Iran has accused the US of violating the ceasefire agreement by maintaining a blockade on its ports. Meanwhile the US has renewed a waiver of sanction..."
     },
     {
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/world-cup-2026-fans-to-pay-150-for-train-ticket-to-stadium/a-76839579?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Transportation costs for World Cup fans traveling to US stadiums could be more than 10 times higher than regular fares. Local officials and FIFA bosse..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Europe looks to secure shipping in Strait of Hormuz",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/europe-looks-to-secure-shipping-in-strait-of-hormuz/a-76838636?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A coalition of nonbelligerent states led by France and the UK has said it is ready to lead an international mission to restore navigation in the Strai..."
     },
     {
         "source": "Leafly",
