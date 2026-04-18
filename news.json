@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Justin Fairfax killed his estranged wife and himself 2 weeks before a court deadline to move out",
-        "image": "https://media.zenfs.com/en/ap.org/91a5eab1f868e6586eab70a92f8c443e",
-        "link": "https://www.yahoo.com/news/articles/police-former-virginia-lieutenant-governor-132420060.html",
+        "title": "Kremlin acknowledges criticism after blogger warns Putin 'squeezed' Russians could erupt",
+        "image": "https://media.zenfs.com/en/reuters.com/5f174e7f5f46f640ad984a2146b42d98",
+        "link": "https://www.yahoo.com/news/articles/kremlin-acknowledges-criticism-blogger-warns-150531295.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kremlin acknowledges criticism after blogger warns Putin 'squeezed' Russians could erupt",
-        "image": "https://media.zenfs.com/en/reuters.com/5f174e7f5f46f640ad984a2146b42d98",
-        "link": "https://www.yahoo.com/news/articles/kremlin-acknowledges-criticism-blogger-warns-150531295.html",
+        "title": "UK's Starmer says more than a dozen countries ready to join Hormuz defensive mission",
+        "image": "https://media.zenfs.com/en/reuters.com/e091029d28566c43e32ac9ad68059dbb",
+        "link": "https://www.yahoo.com/news/articles/uks-starmer-says-more-dozen-142237073.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Remains found in car ID'd as family who mysteriously vanished in 1958",
-        "image": "https://media.zenfs.com/en/cbs_news_897/03d65b61b9d41b757687e42f206e6762",
-        "link": "https://www.yahoo.com/news/articles/remains-found-car-idd-family-104902556.html",
+        "title": "Germany already told its workers to ditch four-day weeks and work-life balance. Now the government wants to cut their pay for calling in sick, too",
+        "image": "https://media.zenfs.com/en/fortune_175/b3787ec49f11ebd1dfd5827fe7e9355e",
+        "link": "https://www.yahoo.com/news/articles/germany-already-told-workers-ditch-070500839.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran vows to close Strait of Hormuz if US blockade continues",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-vows-to-close-strait-of-hormuz-if-us-blockade-continues/live-76839599?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After announcing that the Strait of Hormuz is open, Iran said it would close the vital waterway again unless the United States lifted its blockade. DW..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "World Cup 2026: Fans to pay $150 for train ticket to stadium",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/world-cup-2026-fans-to-pay-150-for-train-ticket-to-stadium/a-76839579?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Transportation costs for World Cup fans traveling to US stadiums could be more than 10 times higher than regular fares. Local officials and FIFA bosse..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/teen-discovers-first-ancient-greek-artifact-found-in-berlin/a-76833757?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A 13-year-old stumbled upon a coin from ancient Troy \u2014 an extremely rare find in Germany. Experts say it may offer new clues about little-known links ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Kanye West concert canceled in Poland",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/kanye-west-concert-canceled-in-poland/a-76838266?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Polish government had urged organizers \"not to make public space available to promoters of a criminal ideology.\" Kanye has disavowed and apologize..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India: Modi plan for women's quota in parliament fails vote",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-modi-plan-for-women-s-quota-in-parliament-fails-vote/a-76818089?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Opposition parties accused the government of using the quota to increase its own influence in the Indian parliament. The proposal would have seen hund..."
     },
     {
         "source": "Leafly",
