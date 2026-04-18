@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The Supreme Court hands a win to oil and gas companies fighting environmental lawsuits in Louisiana",
-        "image": "https://media.zenfs.com/en/wgno_new_orleans_283/90487e10d576406d2a0d3c354a9353a7",
-        "link": "https://www.yahoo.com/news/articles/us--supreme-court-louisiana-chevron-154606337.html",
+        "title": "China urges travelers to avoid Seattle airport after 20 scholars were denied entry to the US",
+        "image": "https://media.zenfs.com/en/ap.org/b04b8fdaf43eb48324ad18246de4cdfc",
+        "link": "https://www.yahoo.com/news/articles/china-urges-travelers-avoid-seattle-201435718.html",
         "summary": "..."
     },
     {
@@ -71,10 +71,24 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Pope Leo plays down rift with Trump, doubles down on peace",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/pope-leo-plays-down-rift-with-trump-doubles-down-on-peace/a-76842971?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "En route to Angola for a three-day visit, Pope Leo XIV said he has no desire to debate with US President Donald Trump. The two leaders have traded bar..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "US strikes on drug boats spark legal controversy",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-strikes-on-drug-boats-spark-legal-controversy/a-76844186?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The US has carried out further attacks on alleged drug boats. Critics say the strikes are not only ineffective, they are also largely about appealing ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Trump says Tehran cannot 'blackmail us'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-trump-says-tehran-cannot-blackmail-us/live-76839599?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "President Donald Trump has warned Iran not to \"blackmail\" the US by shutting the Strait of Hormuz once again. Meanwhile, Tehran has slammed Washington..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-news-modi-slams-congress-over-women-s-quota-vote/live-76840035?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Indian prime minister blamed the main opposition party for failing to pass a law reserving a third of parliamentary seats for women. The plan was ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine: Police shoot dead gunman who killed several in Kyiv",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-police-shoot-dead-gunman-who-killed-several-in-kyiv/a-76843205?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The gunman who shot dead \"several\" people and wounded others in the Ukrainian capital has been killed during an attempt to arrest him, authorities sai..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pope Leo plays down rift with Trump, doubles down on peace",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pope-leo-plays-down-rift-with-trump-doubles-down-on-peace/a-76842971?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "En route to Angola for a three-day visit, Pope Leo XIV said he has no desire to debate with US President Donald Trump. The two leaders have traded bar..."
     },
     {
         "source": "Leafly",
