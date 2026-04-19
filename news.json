@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Motorway reopens after multi-vehicle crash closure",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/80bee931a511cffd8e01a84379b8730d",
-        "link": "https://www.yahoo.com/news/articles/motorway-closed-multi-vehicle-crash-172205186.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran Reasserts Control Over Strait of Hormuz as Negotiations Stall",
-        "image": "https://media.zenfs.com/en/nbcu_713/00a6ac1e22d4d02ae05b8f4ffdb22607",
-        "link": "https://www.yahoo.com/news/videos/iran-reasserts-control-over-strait-124437299.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Zelenskiy: Ukraine believes Russia will try again to involve Belarus in the war",
         "image": "https://media.zenfs.com/en/reuters.com/5bd363e1bf5e3d7dd5f4a0f78f3aebc7",
         "link": "https://www.yahoo.com/news/articles/zelenskiy-ukraine-believes-russia-try-174107373.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Judge sides with Arizona election official in ruling that has implications for midterms voting",
+        "image": "https://media.zenfs.com/en/ap.org/df9280d94566a5be414a59f26e2b8ec6",
+        "link": "https://www.yahoo.com/news/articles/judge-sides-arizona-election-official-185242687.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Remains found in car ID'd as family who mysteriously vanished in 1958",
+        "image": "https://media.zenfs.com/en/cbs_news_897/03d65b61b9d41b757687e42f206e6762",
+        "link": "https://www.yahoo.com/news/articles/remains-found-car-idd-family-104902556.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Trump threatens to strike bridges and power plants",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-trump-threatens-to-strike-bridges-and-power-plants/live-76845923?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US forces have seized an Iranian-flagged cargo ship near the Hormuz Strait, President Trump has said. Earlier, he threatened to destroy every bridge a..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-mass-shooting-leaves-8-children-dead-in-louisiana/a-76849556?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A \"domestic disturbance\" in the US state of Louisiana has claimed the lives of eight children, including a 1-year-old, police have said...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Mines in the Strait of Hormuz: How dangerous are they?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/mines-in-the-strait-of-hormuz-how-dangerous-are-they/a-76847658?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Iran says it has placed mines in the Straight of Hormuz to discourage independent traffic. How dangerous are naval mines, and what can be done to clea..."
     },
     {
         "source": "Leafly",
