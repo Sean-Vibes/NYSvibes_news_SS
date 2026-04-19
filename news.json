@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "New Jersey Hemp Product Restrictions Take Effect",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/new-jersey-hemp-product-restrictions-take-effect/",
+        "summary": "<p>Intoxicating THC products are now only available for legal purchase through licensed marijuana dispensaries. By Phillip Smith, The American Hemp......"
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Colorado Marijuana Officials Announce Crackdown On Sales Of Hemp Products Amid \u2018Risks To Public Safety\u2019",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/colorado-marijuana-officials-announce-crackdown-on-sales-of-hemp-products-amid-risks-to-public-safety/",
@@ -28,17 +35,10 @@
         "summary": "<p>\u201cThe judge here is concerned about retailers that have made big investments in inventory, and they can\u2019t move it, they... <a class=\"small font-mont..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Medical Marijuana Helps People Stop Using Opioids, Sleeping Aids And Other Prescription Drugs, Study Shows",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/medical-marijuana-helps-people-stop-using-opioids-sleeping-aids-and-other-prescription-drugs-study-shows/",
-        "summary": "<p>Using medical marijuana appears to help people reduce the use of other medications, including opioids, sleeping aids and antidepressants, according..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump's lawyers are in talks with the IRS to resolve president's $10B lawsuit",
-        "image": "https://media.zenfs.com/en/ap.org/67905d7df003be3fb3dca6886c3972e0",
-        "link": "https://www.yahoo.com/news/articles/trumps-lawyers-talks-irs-resolve-190109463.html",
+        "title": "Chernobyl's radioactive landscape is testament to nature\u2019s resilience and survival spirit",
+        "image": "https://media.zenfs.com/en/ap.org/757e03ef38f7e35e6768bc89e05d8153",
+        "link": "https://www.yahoo.com/news/articles/chernobyls-radioactive-landscape-testament-nature-051849297.html",
         "summary": "..."
     },
     {
@@ -57,23 +57,37 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Rapper Tory Lanez sues California prison system for $100 million over stabbing by inmate",
-        "image": "https://media.zenfs.com/en/ap.org/2df35b3558eb8f3df835a931cfcb32ce",
-        "link": "https://www.yahoo.com/news/articles/rapper-tory-lanez-sues-california-022426611.html",
+        "title": "Patients and dental community mourn Dr. Cerina Fairfax, killed by Virginia's ex-lieutenant governor",
+        "image": "https://media.zenfs.com/en/ap.org/3d0f2d090f20d4f6df6f7e7a4c4d2d48",
+        "link": "https://www.yahoo.com/news/articles/patients-dental-community-mourn-dr-165440276.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Pete Hegseth Wants the D.C. Circuit To Let Him Punish a Senator for Criticizing Him",
-        "image": "https://media.zenfs.com/en/reason_com_245/c68e4f72b7fac877cf15e9d86bfc0877",
-        "link": "https://www.yahoo.com/news/articles/pete-hegseth-wants-d-c-205549374.html",
+        "title": "\u2018Big sigh of relief\u2019: Republicans finally get some good news. Can it last?",
+        "image": "https://media.zenfs.com/en/politico_453/ca7bc8e2d46cf0245ec049f5f9e9e58d",
+        "link": "https://www.yahoo.com/news/articles/big-sigh-relief-republicans-finally-110000594.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iran war: US, Iranian leaders trade accusations of ceasefire violations, more talks scheduled for next week. Follow DW for more",
+        "title": "Germany News: Neighbor attacked for pounding schnitzel too loudly",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-us-iranian-leaders-trade-accusations-of-ceasefire-violations-more-talks-scheduled-for-next-week-follow-dw-for-more/live-76845923?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/germany-news-neighbor-attacked-for-pounding-schnitzel-too-loudly/live-76840275?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Police in southern Germany were called in to settle the schnitzel dispute that then reportedly turned violent, with a man slapping his neighbor for po..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India\u2019s harvest festivals under climate strain",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-s-harvest-festivals-under-climate-strain/a-76821351?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "As people across India celebrate traditional agrarian spring festivals, climate change has become an unwanted guest at the table. How are communities ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Trump threatens Iranian bridges as talks set to continue",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-threatens-iranian-bridges-as-talks-set-to-continue/live-76845923?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "US President Donald Trump said the US would destroy every bridge and power plant in Iran if Tehran does not accept a peace proposal. Negotiations are ..."
     },
     {
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/french-billionaire-defiant-as-authors-quit-top-publisher/a-76847132?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Vincent Bollore has vowed to find new authors for publisher Grasset after 170 left, alleging political interference. French President Macron has weigh..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "German crime statistics: false blame on migrants?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/german-crime-statistics-false-blame-on-migrants/a-76832148?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Is it true that the crime rate in Germany is higher among immigrants? Statistics suggest as much, but numbers by themselves can be misleading. An expe..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Austria: Police find rat poison in recalled baby food jar",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/austria-police-find-rat-poison-in-recalled-baby-food-jar/a-76846811?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Germany-based HiPP had recalled the jars, suggesting they were tampered with. The contaminated jars were also found in the Czech Republic and Slov..."
     },
     {
         "source": "Leafly",
