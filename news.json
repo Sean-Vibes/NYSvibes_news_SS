@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The Supreme Court hands a win to oil and gas companies fighting environmental lawsuits in Louisiana",
-        "image": "https://media.zenfs.com/en/wgno_new_orleans_283/90487e10d576406d2a0d3c354a9353a7",
-        "link": "https://www.yahoo.com/news/articles/us--supreme-court-louisiana-chevron-154606337.html",
+        "title": "Trump's lawyers are in talks with the IRS to resolve president's $10B lawsuit",
+        "image": "https://media.zenfs.com/en/ap.org/67905d7df003be3fb3dca6886c3972e0",
+        "link": "https://www.yahoo.com/news/articles/trumps-lawyers-talks-irs-resolve-190109463.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "A humanoid robot sprints to victory in Beijing, beating the human half-marathon world record",
-        "image": "https://media.zenfs.com/en/ap.org/08895ff751e33a5911bc6e75ccb3bd9c",
-        "link": "https://www.yahoo.com/news/articles/humanoid-robot-sprints-victory-beijing-040036560.html",
+        "title": "Pilot says Hawaii tour helicopter vibrated and spun before crash killed 3",
+        "image": "https://media.zenfs.com/en/ap.org/260a183b7f2a80b5742fdc53511c61ed",
+        "link": "https://www.yahoo.com/news/articles/pilot-says-hawaii-tour-helicopter-202413391.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/politico_453/ca7bc8e2d46cf0245ec049f5f9e9e58d",
         "link": "https://www.yahoo.com/news/articles/big-sigh-relief-republicans-finally-110000594.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Malaysia: Fire in impoverished village destroys 1,000 homes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/malaysia-fire-in-impoverished-village-destroys-1-000-homes/a-76847720?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The fire ripped through makeshift homes in a \"water village\" in Malaysia's Sabah \u200cstate \u2060on \u2060Borneo island. The area is home to some of the country's ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "French billionaire defiant as authors quit top publisher",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/french-billionaire-defiant-as-authors-quit-top-publisher/a-76847132?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Vincent Bollore has vowed to find new authors for publisher Grasset after 170 left, alleging political interference. French President Macron has weigh..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/robot-runners-beat-humans-in-beijing-half-marathon/a-76846520?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "For the first time, humanoid robots have outclassed humans in a half-marathon held in Beijing. The winner beat the men's record for the distance set b..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Attacks on US academics: A microcosm of a larger threat to democracy",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/attacks-on-us-academics-a-microcosm-of-a-larger-threat-to-democracy/a-76777273?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In the new DW documentary \"Democracy Under Attack: Can D\u00fcndar and Trump's America,\" the Turkish press freedom icon looks at the parallels between the ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India protests Iran fire on two vessels in Strait of Hormuz",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-protests-iran-fire-on-two-vessels-in-strait-of-hormuz/live-76846282?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "New Delhi summoned Iran's envoy after two India-flagged vessels were attacked while attempting to cross the Strait of Hormuz. DW has the latest...."
     },
     {
         "source": "Leafly",
