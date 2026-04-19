@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Transgender athlete focuses on what may be her last track season as Supreme Court ruling looms",
-        "image": "https://media.zenfs.com/en/ap.org/aa92e3f57e3a690f5e733cd36dd975b7",
-        "link": "https://sports.yahoo.com/articles/transgender-athlete-focuses-may-her-175210554.html",
+        "title": "Judge sides with Arizona election official in ruling that has implications for midterms voting",
+        "image": "https://media.zenfs.com/en/ap.org/df9280d94566a5be414a59f26e2b8ec6",
+        "link": "https://www.yahoo.com/news/articles/judge-sides-arizona-election-official-185242687.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Rapper Tory Lanez sues California prison system for $100 million over stabbing by inmate",
-        "image": "https://media.zenfs.com/en/ap.org/2df35b3558eb8f3df835a931cfcb32ce",
-        "link": "https://www.yahoo.com/news/articles/rapper-tory-lanez-sues-california-022426611.html",
+        "title": "8 children between the ages of 1 and 14 are dead after a mass shooting in Louisiana, police say",
+        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-01/bb13f1d0-ebe5-11f0-bdba-975a2c629515",
+        "link": "https://www.yahoo.com/news/articles/8-children-between-ages-1-155906012.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/politico_453/ca7bc8e2d46cf0245ec049f5f9e9e58d",
         "link": "https://www.yahoo.com/news/articles/big-sigh-relief-republicans-finally-110000594.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Bayern Munich clinch 35th Bundesliga title",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/bayern-munich-clinch-35th-bundesliga-title/a-76849660?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Bayern Munich have won the Bundesliga for a record-extending 35th time after a 4-2 victory over Stuttgart...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Bulgaria: Pro-Russian Radev leading after parliamentary vote, exit polls show",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/bulgaria-pro-russian-radev-leading-after-parliamentary-vote-exit-polls-show/a-76846189?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Exit polls put Rumen Radev's new, left-leaning, pro-Russian party far ahead following Bulgaria's eighth election in five years. Radev, a former fighte..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/mines-in-the-strait-of-hormuz-how-dangerous-are-they/a-76847658?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Iran says it has placed mines in the Straight of Hormuz to discourage independent traffic. How dangerous are naval mines, and what can be done to clea..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany News: Neighbor attacked for pounding schnitzel too loudly",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-neighbor-attacked-for-pounding-schnitzel-too-loudly/live-76840275?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Police in southern Germany were called in to settle a schnitzel dispute that had turned violent, with a man reportedly slapping his neighbor for pound..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India\u2019s harvest festivals under climate strain",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-s-harvest-festivals-under-climate-strain/a-76821351?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As people across India celebrate traditional agrarian spring festivals, climate change has become an unwanted guest at the table. How are communities ..."
     },
     {
         "source": "Leafly",
