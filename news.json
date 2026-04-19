@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Zelenskiy: Ukraine believes Russia will try again to involve Belarus in the war",
+        "image": "https://media.zenfs.com/en/reuters.com/5bd363e1bf5e3d7dd5f4a0f78f3aebc7",
+        "link": "https://www.yahoo.com/news/articles/zelenskiy-ukraine-believes-russia-try-174107373.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Rapper Tory Lanez sues California prison system for $100 million over stabbing by inmate",
+        "image": "https://media.zenfs.com/en/ap.org/2df35b3558eb8f3df835a931cfcb32ce",
+        "link": "https://www.yahoo.com/news/articles/rapper-tory-lanez-sues-california-022426611.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Pete Hegseth Wants the D.C. Circuit To Let Him Punish a Senator for Criticizing Him",
         "image": "https://media.zenfs.com/en/reason_com_245/c68e4f72b7fac877cf15e9d86bfc0877",
         "link": "https://www.yahoo.com/news/articles/pete-hegseth-wants-d-c-205549374.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Pilot says Hawaii tour helicopter vibrated and spun before crash killed 3",
-        "image": "https://media.zenfs.com/en/ap.org/260a183b7f2a80b5742fdc53511c61ed",
-        "link": "https://www.yahoo.com/news/articles/pilot-says-hawaii-tour-helicopter-202413391.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018Big sigh of relief\u2019: Republicans finally get some good news. Can it last?",
-        "image": "https://media.zenfs.com/en/politico_453/ca7bc8e2d46cf0245ec049f5f9e9e58d",
-        "link": "https://www.yahoo.com/news/articles/big-sigh-relief-republicans-finally-110000594.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Iran war: US, Iranian leaders trade accusations of ceasefire violations, more talks scheduled for next week. Follow DW for more",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-us-iranian-leaders-trade-accusations-of-ceasefire-violations-more-talks-scheduled-for-next-week-follow-dw-for-more/live-76845923?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US President Donald Trump said the US would destroy every bridge and power plant in Iran if Tehran does not accept a peace proposal. Negotiations are ..."
     },
     {
         "source": "Deutsche Welle",
@@ -85,9 +92,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany's crime figures: Comparing apples to oranges?",
+        "title": "German crime statistics: false blame on migrants?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-crime-figures-comparing-apples-to-oranges/a-76832148?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/german-crime-statistics-false-blame-on-migrants/a-76832148?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Is it true that the crime rate in Germany is higher among immigrants? Statistics suggest as much, but numbers by themselves can be misleading. An expe..."
     },
     {
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/austria-police-find-rat-poison-in-recalled-baby-food-jar/a-76846811?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Germany-based HiPP had recalled the jars, suggesting they were tampered with. The contaminated jars were also found in the Czech Republic and Slov..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Robot runners beat humans in Beijing half-marathon",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/robot-runners-beat-humans-in-beijing-half-marathon/a-76846520?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "For the first time, humanoid robots have outclassed humans in a half-marathon held in Beijing. The winner beat the men's record for the distance set b..."
     },
     {
         "source": "Leafly",
