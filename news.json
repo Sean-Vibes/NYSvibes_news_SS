@@ -43,13 +43,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "'NYC is cooked': Business leaders and Wall Streeters erupt over proposed luxury second-home tax",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/e7143acf43c849bc1e44ff9021035d17",
-        "link": "https://finance.yahoo.com/economy/policy/articles/nyc-cooked-business-leaders-wall-040201404.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Remains found in car ID'd as family who mysteriously vanished in 1958",
         "image": "https://media.zenfs.com/en/cbs_news_897/03d65b61b9d41b757687e42f206e6762",
         "link": "https://www.yahoo.com/news/articles/remains-found-car-idd-family-104902556.html",
@@ -57,16 +50,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "UK's Starmer says more than a dozen countries ready to join Hormuz defensive mission",
-        "image": "https://media.zenfs.com/en/reuters.com/e091029d28566c43e32ac9ad68059dbb",
-        "link": "https://www.yahoo.com/news/articles/uks-starmer-says-more-dozen-142237073.html",
+        "title": "Zelenskiy: Ukraine believes Russia will try again to involve Belarus in the war",
+        "image": "https://media.zenfs.com/en/reuters.com/5bd363e1bf5e3d7dd5f4a0f78f3aebc7",
+        "link": "https://www.yahoo.com/news/articles/zelenskiy-ukraine-believes-russia-try-174107373.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Stocks surge and oil prices plummet after Strait of Hormuz opens",
-        "image": "https://media.zenfs.com/en/nbcu_713/3c0ce764759aa70b9754db653eae2201",
-        "link": "https://www.yahoo.com/news/videos/stocks-surge-oil-prices-plummet-134523237.html",
+        "title": "Judge sides with Arizona election official in ruling that has implications for midterms voting",
+        "image": "https://media.zenfs.com/en/ap.org/df9280d94566a5be414a59f26e2b8ec6",
+        "link": "https://www.yahoo.com/news/articles/judge-sides-arizona-election-official-185242687.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "UPS plane aborts landing as jet nears runway: \"What are you doing?\"",
+        "image": "https://media.zenfs.com/en/cbs_news_897/c95b32b56541e52d1fc7a288586fb047",
+        "link": "https://www.yahoo.com/news/articles/ups-plane-aborts-landing-jet-140542800.html",
         "summary": "..."
     },
     {
