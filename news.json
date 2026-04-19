@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Judge sides with Arizona election official in ruling that has implications for midterms voting",
-        "image": "https://media.zenfs.com/en/ap.org/df9280d94566a5be414a59f26e2b8ec6",
-        "link": "https://www.yahoo.com/news/articles/judge-sides-arizona-election-official-185242687.html",
+        "title": "Trump's lawyers are in talks with the IRS to resolve president's $10B lawsuit",
+        "image": "https://media.zenfs.com/en/ap.org/67905d7df003be3fb3dca6886c3972e0",
+        "link": "https://www.yahoo.com/news/articles/trumps-lawyers-talks-irs-resolve-190109463.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Zelenskiy: Ukraine believes Russia will try again to involve Belarus in the war",
-        "image": "https://media.zenfs.com/en/reuters.com/5bd363e1bf5e3d7dd5f4a0f78f3aebc7",
-        "link": "https://www.yahoo.com/news/articles/zelenskiy-ukraine-believes-russia-try-174107373.html",
+        "title": "Stocks surge and oil prices plummet after Strait of Hormuz opens",
+        "image": "https://media.zenfs.com/en/nbcu_713/3c0ce764759aa70b9754db653eae2201",
+        "link": "https://www.yahoo.com/news/videos/stocks-surge-oil-prices-plummet-134523237.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Tehran says 'progress' made in talks with US",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-tehran-says-progress-made-in-talks-with-us/live-76845923?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran's top negotiator Mohammad Bagher Ghalibaf said there was still \"a big distance\" between the two sides. Iran on Saturday again closed the Strait o..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Bodies of 50 babies, 6 adults found in Trinidad and Tobago",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/bodies-of-50-babies-6-adults-found-in-trinidad-and-tobago/a-76845914?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Police made the grim discovery at a cemetery in Cumuto on the island of Trinidad. Initial probes suggest it was a case of \"unlawful disposal of unclai..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Spain, Brazil, Mexico vow to boost Cuba aid amid US threats",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/spain-brazil-mexico-vow-to-boost-cuba-aid-amid-us-threats/a-76845646?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The pledge comes amid a US oil embargo and Donald Trump's threats to invade the island. Leftist leaders meeting in Barcelona also spoke against the gl..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/pope-leo-plays-down-rift-with-trump-doubles-down-on-peace/a-76842971?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "En route to Angola for a three-day visit, Pope Leo XIV said he has no desire to debate with US President Donald Trump. The two leaders have traded bar..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US strikes on drug boats spark legal controversy",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-strikes-on-drug-boats-spark-legal-controversy/a-76844186?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US has carried out further attacks on alleged drug boats. Critics say the strikes are not only ineffective, they are also largely about appealing ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Trump says Tehran cannot 'blackmail us'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-trump-says-tehran-cannot-blackmail-us/live-76839599?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "President Donald Trump has warned Iran not to \"blackmail\" the US by shutting the Strait of Hormuz once again. Meanwhile, Tehran has slammed Washington..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UNIFIL: Why are UN peacekeepers in Lebanon?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/unifil-why-are-un-peacekeepers-in-lebanon/a-70471965?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A French UN peacekeeper has been killed in Lebanon, highlighting rising risks for UNIFIL. The UN mission has been in the country for nearly 50 years \u2014..."
     },
     {
         "source": "Leafly",
