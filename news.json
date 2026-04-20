@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Missouri Officials File Rules To Create New Marijuana Research Licenses",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/missouri-officials-file-rules-to-create-new-marijuana-research-licenses/",
+        "summary": "<p>\u201cWe\u2019re all very interested in any research on cannabis and safety or its impact on the human body\u2026 We\u2019re interested... <a class=\"small font-montser..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "Politicians And Major Brands Celebrate Cannabis Culture On 4/20",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/politicians-and-major-brands-celebrate-cannabis-culture-on-4-20/",
+        "summary": "<p>Tom Angell is the editor of Marijuana Moment. A 25-year veteran in the cannabis and drug law reform movement, he... <a class=\"small font-montserrat..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Federal Agencies Would Have To Study State Marijuana Laws Under New Directive From Congressional Committee",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/federal-agencies-would-have-to-study-state-marijuana-laws-under-new-directive-from-congressional-committee/",
@@ -21,20 +35,6 @@
         "summary": "<p>Delaware lawmakers have passed a bill to let terminally ill patients use medical cannabis in hospitals, sending the measure to... <a class=\"small f..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "New Marijuana Report Shows Arrests Are Plummeting As Legalization Spreads, But Criminalized States Still Send Thousands To Jail Each Year",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/new-marijuana-report-shows-arrests-are-plummeting-as-legalization-spreads-but-criminalized-states-still-send-thousands-to-jail-each-year/",
-        "summary": "<p>As more states pass laws legalizing marijuana, arrests for cannabis are dropping considerably, a new report from an advocacy organization... <a cla..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Cannabis is safer than McDonald\u2019s, senator says (Newsletter: April 20, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/cannabis-is-safer-than-mcdonalds-senator-says-newsletter-april-20-2026/",
-        "summary": "<p>Trump on psychedelics &#38; marijuana rescheduling; New hemp bill lets states opt out of ban; TX cannabis poll; Study: Marijuana... <a class=\"small..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Seized Iranian ship likely carrying equipment deemed dual-use by US, sources say",
         "image": "https://media.zenfs.com/en/reuters.com/11c90ede8f974911e41f0beddc29ff7b",
@@ -43,9 +43,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukraine is betting big on war robots, with plans to buy 25,000 and remove humans from front-line supply runs",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/75c43f997d3808cffbfb75f43183bcc3",
-        "link": "https://www.yahoo.com/news/articles/ukraine-betting-big-war-robots-152705700.html",
+        "title": "6 missing after U.S.-flagged ship found overturned following typhoon",
+        "image": "https://media.zenfs.com/en/cbs_news_897/d8b032c8f98fce6bbefdbd570b7bf4ed",
+        "link": "https://www.yahoo.com/news/articles/6-missing-u-flagged-ship-111643378.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Maryland to become first state to ban \u2018dynamic pricing\u2019 in grocery stores",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/583cc3eaab9e4f647f9c2e51428b39c4",
+        "link": "https://www.yahoo.com/news/articles/maryland-become-first-state-ban-150854726.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "China's Xi, in call with Saudi crown prince, calls for Strait of Hormuz to remain\u00a0open",
+        "image": "https://media.zenfs.com/en/reuters.com/9ea490e13f0b24de031cf20bcc35e91f",
+        "link": "https://www.yahoo.com/news/articles/chinas-xi-call-saudi-crown-120213699.html",
         "summary": "..."
     },
     {
@@ -56,18 +70,18 @@
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump's U.N. Ambassador Mike Waltz says bombing every bridge and power plant in Iran wouldn't be a war crime",
-        "image": "https://s.yimg.com/uu/api/res/1.2/lgtjFER6LVfzfzz8VSJLqQ--~B/aD0xOTEwO3c9Mjk1MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/39df37eb-90b4-4108-b1ec-f4e40373aa62",
-        "link": "https://www.yahoo.com/news/us/article/trumps-un-ambassador-mike-waltz-says-bombing-every-bridge-and-power-plant-in-iran-wouldnt-be-a-war-crime-185206658.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "UK: Starmer says he would't have appointed Mandelson as US envoy if he'd known he failed vetting process",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/uk-starmer-says-he-would-t-have-appointed-mandelson-as-us-envoy-if-he-d-known-he-failed-vetting-process/a-76864691?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Under-fire Prime Minister Keir Starmer told the House of Commons that neither he nor his ministers were told that the former ambassador to the US and ..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Survey finds nearly one-third of Long Island residents say Jews should 'move on' from the Holocaust",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/88f4ccb8afea584e6533acddb2b7a31e",
-        "link": "https://www.yahoo.com/news/articles/survey-finds-nearly-one-third-213518518.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Elon Musk skips probe as France investigates X",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/elon-musk-skips-probe-as-france-investigates-x/a-76864163?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "French prosecutors are investigating whether content generated by X's AI chatbot Grok contributed to the spread of child sexual abuse material, explic..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/sudan-war-enters-fourth-year-as-child-hunger-crisis-deepens/a-76837481?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Sudan\u2019s war has displaced millions, leaving parts of the country facing famine. Aid agencies warn children are bearing the brunt as food shortages wor..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Is To Lam's Vietnam turning into Xi Jinping's China?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/is-to-lam-s-vietnam-turning-into-xi-jinping-s-china/a-76858522?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After Vietnam's lawmakers unanimously elected Communist Party chief To Lam as the country's president, analysts are asking whether Vietnam aims to cop..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Bundesliga debut by female coach marred by misogyny",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/bundesliga-debut-by-female-coach-marred-by-misogyny/a-76856610?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Marie-Louise Eta's historic debut as a head coach in the men's Bundesliga ended in defeat. While her appointment is a sign of progress, the reactions ..."
     },
     {
         "source": "Leafly",
