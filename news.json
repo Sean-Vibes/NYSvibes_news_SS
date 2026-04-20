@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Pennsylvania Governor Pushes Lawmakers To Legalize Marijuana On 4/20",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/pennsylvania-governor-pushes-lawmakers-to-legalize-marijuana-on-4-20/",
+        "summary": "<p>The governor of Pennsylvania is using the unofficial cannabis holiday 4/20 to press lawmakers once again to send him a... <a class=\"small font-mont..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Missouri Officials File Rules To Create New Marijuana Research Licenses",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/missouri-officials-file-rules-to-create-new-marijuana-research-licenses/",
@@ -28,17 +35,17 @@
         "summary": "<p>California should ease up on taxes for marijuana businesses like the one they own together, Woody Harrelson and Bill Maher... <a class=\"small font-..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Delaware Lawmakers Pass Bill To Allow Medical Marijuana Use In Hospitals For Terminally Ill Patients, Sending It To Governor",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/delaware-lawmakers-pass-bill-to-allow-medical-marijuana-use-in-hospitals-for-terminally-ill-patients-sending-it-to-governor/",
-        "summary": "<p>Delaware lawmakers have passed a bill to let terminally ill patients use medical cannabis in hospitals, sending the measure to... <a class=\"small f..."
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "California says Amazon pressured retailers to boost prices on their websites to not undercut it",
+        "image": "https://media.zenfs.com/en/ap.org/c16ac8cfa2d13e1930b0225c41315a74",
+        "link": "https://finance.yahoo.com/economy/policy/articles/california-says-amazon-pressured-retailers-195046406.html",
+        "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Seized Iranian ship likely carrying equipment deemed dual-use by US, sources say",
-        "image": "https://media.zenfs.com/en/reuters.com/11c90ede8f974911e41f0beddc29ff7b",
-        "link": "https://www.yahoo.com/news/articles/seized-iranian-ship-likely-carrying-150535105.html",
+        "title": "Nvidia\u2019s Jensen Huang says AI assistants will act more like overbearing managers rather than job destroyers: \u2018They\u2019ll be micromanaging you\u2019",
+        "image": "https://media.zenfs.com/en/fortune_175/2efbd12428098edc25c09505ff5c08fc",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-jensen-huang-says-ai-150112554.html",
         "summary": "..."
     },
     {
@@ -50,16 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Maryland to become first state to ban \u2018dynamic pricing\u2019 in grocery stores",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/583cc3eaab9e4f647f9c2e51428b39c4",
-        "link": "https://www.yahoo.com/news/articles/maryland-become-first-state-ban-150854726.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "China's Xi, in call with Saudi crown prince, calls for Strait of Hormuz to remain\u00a0open",
-        "image": "https://media.zenfs.com/en/reuters.com/9ea490e13f0b24de031cf20bcc35e91f",
-        "link": "https://www.yahoo.com/news/articles/chinas-xi-call-saudi-crown-120213699.html",
+        "title": "Mexico's Sheinbaum demands explanation after US officials die assisting operation in Chihuahua",
+        "image": "https://media.zenfs.com/en/ap.org/c5d2b1e81a9f89124c16b708cb334eac",
+        "link": "https://www.yahoo.com/news/articles/mexicos-sheinbaum-demands-explanations-us-173751450.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/fortune_175/041bd675f048aa5b1e5c94e3ecea937c",
         "link": "https://finance.yahoo.com/economy/articles/putin-finally-admits-russia-economy-215355032.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Mexico: Canadian killed in shouting at Teotihuacan pyramid",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/mexico-canadian-killed-in-shouting-at-teotihuacan-pyramid/a-76872804?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A gunman opened fire at the popular tourist and archeological site outside of Mexico city...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/unpacking-the-2026-venice-biennale-controversies-and-highlights/a-76807499?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Russia's return to the international contemporary art exhibition, as well as the participation of Israel and the US, have sparked politicized backlash..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Sudan war enters fourth year as child hunger crisis deepens",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/sudan-war-enters-fourth-year-as-child-hunger-crisis-deepens/a-76837481?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Sudan\u2019s war has displaced millions, leaving parts of the country facing famine. Aid agencies warn children are bearing the brunt as food shortages wor..."
     },
     {
         "source": "Leafly",
