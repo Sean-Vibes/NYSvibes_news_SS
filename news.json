@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Delaware Lawmakers Pass Bill To Allow Medical Marijuana Use In Hospitals For Terminally Ill Patients, Sending It To Governor",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/delaware-lawmakers-pass-bill-to-allow-medical-marijuana-use-in-hospitals-for-terminally-ill-patients-sending-it-to-governor/",
+        "summary": "<p>Delaware lawmakers have passed a bill to let terminally ill patients use medical cannabis in hospitals, sending the measure to... <a class=\"small f..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "New Marijuana Report Shows Arrests Are Plummeting As Legalization Spreads, But Criminalized States Still Send Thousands To Jail Each Year",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/new-marijuana-report-shows-arrests-are-plummeting-as-legalization-spreads-but-criminalized-states-still-send-thousands-to-jail-each-year/",
@@ -28,17 +35,10 @@
         "summary": "<p>A wide range of bipartisan lawmakers, federal officials, state leaders and celebrities are weighing in after President Donald Trump issued... <a cl..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "New Jersey Hemp Product Restrictions Take Effect",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/new-jersey-hemp-product-restrictions-take-effect/",
-        "summary": "<p>Intoxicating THC products are now only available for legal purchase through licensed marijuana dispensaries. By Phillip Smith, The American Hemp......"
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump's U.N. Ambassador Mike Waltz says bombing every bridge and power plant in Iran wouldn't be a war crime",
-        "image": "https://s.yimg.com/uu/api/res/1.2/lgtjFER6LVfzfzz8VSJLqQ--~B/aD0xOTEwO3c9Mjk1MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-04/39df37eb-90b4-4108-b1ec-f4e40373aa62",
-        "link": "https://www.yahoo.com/news/us/article/trumps-un-ambassador-mike-waltz-says-bombing-every-bridge-and-power-plant-in-iran-wouldnt-be-a-war-crime-185206658.html",
+        "title": "Here's what to know about Timmy, the humpback whale that's sick and stranded in the Baltic Sea",
+        "image": "https://media.zenfs.com/en/ap.org/dd42ee13597f6d123aee288fdfee9dc3",
+        "link": "https://www.yahoo.com/news/articles/heres-know-timmy-humpback-whale-125043886.html",
         "summary": "..."
     },
     {
@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "I'm a millennial pastor in Hawaii who started renting out my car to pay for diapers. I made $3 million last year.",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/108fc5f3a87ec1ea1c8eaf321a52190b",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/im-millennial-pastor-hawaii-started-081101481.html",
+        "title": "Survey finds nearly one-third of Long Island residents say Jews should 'move on' from the Holocaust",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/88f4ccb8afea584e6533acddb2b7a31e",
+        "link": "https://www.yahoo.com/news/articles/survey-finds-nearly-one-third-213518518.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Jenna Bush Hager Sits Down With Former US Presidents",
-        "image": "https://media.zenfs.com/en/nbcu_713/18fd8884a32783d574bfc3b2b3b14b0d",
-        "link": "https://www.yahoo.com/news/videos/jenna-bush-hager-sits-down-115926613.html",
+        "title": "I'm a millennial pastor in Hawaii who started renting out my car to pay for diapers. I made $3 million last year.",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/108fc5f3a87ec1ea1c8eaf321a52190b",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/im-millennial-pastor-hawaii-started-081101481.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ugandan military reports rescue of some 200 hostages from ADF militants in eastern DRC",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ugandan-military-reports-rescue-of-some-200-hostages-from-adf-militants-in-eastern-drc/a-76863450?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Uganda's military has said that it and forces from the neighboring Democratic Republic of Congo freed some 200 hostages in eastern DRC in a joint oper..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Unpacking the 2026 Venice Biennale controversies and highlights",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/unpacking-the-2026-venice-biennale-controversies-and-highlights/a-76807499?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Russia's return to the international contemporary art exhibition, as well as the participation of Israel and the US, have sparked politicized backlash..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/bundesliga-debut-by-female-coach-marred-by-misogyny/a-76856610?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Marie-Louise Eta's historic debut as a head coach in the men's Bundesliga ended in defeat. While her appointment is a sign of progress, the reactions ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "South Korea, India agree to boost trade ties amid global tensions",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/south-korea-india-agree-to-boost-trade-ties-amid-global-tensions/a-76852123?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Prime Minister Narendra Modi hosts South Korean President Lee Jae Myung this week as both countries target $50 billion in trade by 2030...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Bulgaria enters uncharted territory as Radev wins big",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/bulgaria-enters-uncharted-territory-as-radev-wins-big/a-76856059?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Preliminary results show that former President Rumen Radev has won Bulgaria's general election with a clear majority and the biggest result for a sing..."
     },
     {
         "source": "Leafly",
