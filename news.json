@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "New Marijuana Report Shows Arrests Are Plummeting As Legalization Spreads, But Criminalized States Still Send Thousands To Jail Each Year",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/new-marijuana-report-shows-arrests-are-plummeting-as-legalization-spreads-but-criminalized-states-still-send-thousands-to-jail-each-year/",
+        "summary": "<p>As more states pass laws legalizing marijuana, arrests for cannabis are dropping considerably, a new report from an advocacy organization... <a cla..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "Cannabis is safer than McDonald\u2019s, senator says (Newsletter: April 20, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/cannabis-is-safer-than-mcdonalds-senator-says-newsletter-april-20-2026/",
+        "summary": "<p>Trump on psychedelics &#38; marijuana rescheduling; New hemp bill lets states opt out of ban; TX cannabis poll; Study: Marijuana... <a class=\"small..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Massachusetts Governor Signs Bill Doubling Legal Marijuana Possession Limit And Revising Industry Rules",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/massachusetts-governor-signs-bill-doubling-legal-marijuana-possession-limit-and-revising-industry-rules/",
@@ -19,20 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/new-jersey-hemp-product-restrictions-take-effect/",
         "summary": "<p>Intoxicating THC products are now only available for legal purchase through licensed marijuana dispensaries. By Phillip Smith, The American Hemp......"
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Colorado Marijuana Officials Announce Crackdown On Sales Of Hemp Products Amid \u2018Risks To Public Safety\u2019",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/colorado-marijuana-officials-announce-crackdown-on-sales-of-hemp-products-amid-risks-to-public-safety/",
-        "summary": "<p>These issues \u201cpresent serious risks to public safety, market integrity and the tax revenue framework that supports Colorado\u2019s regulated cannabis......"
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Trump Complains DOJ Is \u2018Slow-Walking\u2019 Marijuana Rescheduling, Four Months After He Issued An Order To Get It Done",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/trump-complains-doj-is-slow-walking-marijuana-rescheduling-four-months-after-he-issued-an-order-to-get-it-done/",
-        "summary": "<p>President Donald Trump on Saturday appeared to complain that federal officials are \u201cslow-walking\u201d following through on an executive order he... <a ..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
@@ -64,10 +64,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Survey finds nearly one-third of Long Island residents say Jews should 'move on' from the Holocaust",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/88f4ccb8afea584e6533acddb2b7a31e",
-        "link": "https://www.yahoo.com/news/articles/survey-finds-nearly-one-third-213518518.html",
+        "title": "Jenna Bush Hager Sits Down With Former US Presidents",
+        "image": "https://media.zenfs.com/en/nbcu_713/18fd8884a32783d574bfc3b2b3b14b0d",
+        "link": "https://www.yahoo.com/news/videos/jenna-bush-hager-sits-down-115926613.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Sudan war enters fourth year as child hunger crisis deepens",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/sudan-war-enters-fourth-year-as-child-hunger-crisis-deepens/a-76837481?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Sudan\u2019s war has displaced millions, leaving parts of the country facing famine. Aid agencies warn children are bearing the brunt as food shortages wor..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Is To Lam's Vietnam turning into Xi Jinping's China?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/is-to-lam-s-vietnam-turning-into-xi-jinping-s-china/a-76858522?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After Vietnam's lawmakers unanimously elected Communist Party chief To Lam as the country's president, analysts are asking whether Vietnam aims to cop..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Bundesliga debut by female coach marred by misogyny",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/bundesliga-debut-by-female-coach-marred-by-misogyny/a-76856610?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Marie-Louise Eta's historic debut as a head coach in the men's Bundesliga ended in defeat. While her appointment is a sign of progress, the reactions ..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/bulgaria-enters-uncharted-territory-as-radev-wins-big/a-76856059?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Preliminary results show that former President Rumen Radev has won Bulgaria's general election with a clear majority and the biggest result for a sing..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How China is reshaping the global chip industry",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-china-is-reshaping-the-global-chip-industry/a-76056790?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US curbs on advanced chips pushed China to focus on its own semiconductor ecosystem. And while it trails at the very cutting edge, China's \"good\u2011enoug..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Japan issues tsunami alert after strong earthquake",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/japan-issues-tsunami-alert-after-strong-earthquake/a-76854726?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The 7.4-magnitude quake off northern Iwate prefecture could be felt as far as Tokyo. Residents have been urged to evacuate northern coastal regions ah..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Bulgaria: Pro-Russia Rumen Radev on course to win election",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/bulgaria-pro-russia-rumen-radev-on-course-to-win-election/a-76846189?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Rumen Radev's new center-left party, Progressive Bulgaria, is on course to win Bulgaria's eighth general election in five years. But Radev's pro-Mosco..."
     },
     {
         "source": "Leafly",
