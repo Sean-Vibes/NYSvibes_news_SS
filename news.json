@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018Big sigh of relief\u2019: Republicans finally get some good news. Can it last?",
-        "image": "https://media.zenfs.com/en/politico_453/ca7bc8e2d46cf0245ec049f5f9e9e58d",
-        "link": "https://www.yahoo.com/news/articles/big-sigh-relief-republicans-finally-110000594.html",
+        "title": "I'm a millennial pastor in Hawaii who started renting out my car to pay for diapers. I made $3 million last year.",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/108fc5f3a87ec1ea1c8eaf321a52190b",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/im-millennial-pastor-hawaii-started-081101481.html",
         "summary": "..."
     },
     {
@@ -64,24 +64,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Renowned physicist alarmed by 'unheard of' number of scientists dying or vanishing now on White House's radar",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/34f2675a2b8a31ae7459e68231eb34ff",
-        "link": "https://www.yahoo.com/news/articles/renowned-physicist-alarmed-unheard-number-110015603.html",
+        "title": "Survey finds nearly one-third of Long Island residents say Jews should 'move on' from the Holocaust",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/88f4ccb8afea584e6533acddb2b7a31e",
+        "link": "https://www.yahoo.com/news/articles/survey-finds-nearly-one-third-213518518.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Ukraine hits Russian Black Sea port city, 1 dead",
+        "title": "South Korea, India agree to boost trade ties amid global tensions",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-hits-russian-black-sea-port-city-1-dead/live-76854298?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russian authorities said one man was killed in a Ukrainian drone raid on city of Tuapse. Meanwhile, Russia arrested a German woman in an alleged bomb ..."
+        "link": "https://www.dw.com/en/south-korea-india-agree-to-boost-trade-ties-amid-global-tensions/a-76852123?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Prime Minister Narendra Modi hosts South Korean President Lee Jae Myung this week as both countries target $50 billion in trade by 2030...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iran war: 'No plans' for fresh peace talks, Tehran says",
+        "title": "Bulgaria enters uncharted territory as Radev wins big",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-no-plans-for-fresh-peace-talks-tehran-says/live-76853963?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Pakistan is preparing to host a second round of negotiations, but doubts remain as to whether they will take place, after the US seizure of an Iranian..."
+        "link": "https://www.dw.com/en/bulgaria-enters-uncharted-territory-as-radev-wins-big/a-76856059?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Preliminary results show that former President Rumen Radev has won Bulgaria's general election with a clear majority and the biggest result for a sing..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "How China is reshaping the global chip industry",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/how-china-is-reshaping-the-global-chip-industry/a-76056790?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US curbs on advanced chips pushed China to focus on its own semiconductor ecosystem. And while it trails at the very cutting edge, China's \"good\u2011enoug..."
     },
     {
         "source": "Deutsche Welle",
@@ -92,17 +99,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "US strike on alleged drug boat in Caribbean kills 3",
+        "title": "Bulgaria: Pro-Russia Rumen Radev on course to win election",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-strike-on-alleged-drug-boat-in-caribbean-kills-3/a-76852936?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Trump has said that the US is in \"armed conflict\" with cartels, as its military campaign has killed at least 180 people since last year amid criticism..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Timmy the stranded whale back on the move",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-timmy-the-stranded-whale-back-on-the-move/live-76853641?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The struggling humpback whale is due to be fitted with a radio transmitter to help follow his recovery. Meanwhile, Chancellor Merz has promised that G..."
+        "link": "https://www.dw.com/en/bulgaria-pro-russia-rumen-radev-on-course-to-win-election/a-76846189?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Rumen Radev's new center-left party, Progressive Bulgaria, is on course to win Bulgaria's eighth general election in five years. But Radev's pro-Mosco..."
     },
     {
         "source": "Leafly",
