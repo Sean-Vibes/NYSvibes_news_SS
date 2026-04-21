@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Epstein's other house of 'horrors': Zorro Ranch",
-        "image": "https://media.zenfs.com/en/nbcu_713/13aec73048a5bfd9cc30fabb86e706d0",
-        "link": "https://www.yahoo.com/news/videos/epsteins-other-house-horrors-zorro-232249573.html",
+        "title": "US Air Force says key Iran warplane, the A-10 Warthog, will live on to 2030",
+        "image": "https://media.zenfs.com/en/reuters.com/9dfb033d5617d0c439ecbf697d94687c",
+        "link": "https://www.yahoo.com/news/articles/us-air-force-says-key-223837234.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/f83c099512980e3b05451a2a952fc2c9",
         "link": "https://www.yahoo.com/news/articles/mob-teens-chases-college-student-194731025.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Mexican pyramid gunman had materials tied to Columbine shooting, officials say",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/mexican-pyramid-gunman-had-materials-tied-to-columbine-shooting-officials-say/a-76889302?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A 27-year-old suspect who opened fire at the Teotihuacan archaeological site possessed material related to the Columbine school shooting in the United..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/zelenskyy-says-druzhba-oil-pipeline-to-europe-repaired/a-76886727?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A multibillion euro aid package from the EU had been blocked over access to the pipeline, which brings Russian oil to countries like Hungary and Slova..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How grievance turns to violence in a mass shooter's mind",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-grievance-turns-to-violence-in-a-mass-shooter-s-mind/a-76882329?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Attacks like last week's school shooting in Turkey can seem to come out of nowhere, but they rarely do. Instead, a buildup of grievance and fixation o..."
     },
     {
         "source": "Leafly",
