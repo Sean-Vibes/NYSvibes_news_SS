@@ -43,6 +43,13 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Electricity bills targeted in planned shakeup to energy pricing",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/b3495aa63e9d151f4af3186f8a5c36da",
+        "link": "https://www.yahoo.com/news/articles/government-propose-electricity-price-changes-005137865.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "6 missing after U.S.-flagged ship found overturned following typhoon",
         "image": "https://media.zenfs.com/en/cbs_news_897/d8b032c8f98fce6bbefdbd570b7bf4ed",
         "link": "https://www.yahoo.com/news/articles/6-missing-u-flagged-ship-111643378.html",
@@ -50,30 +57,37 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "High electricity bills targeted in planned shakeup to energy pricing",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/c8f59c7778ea3c8a374b55c059f15ec0",
-        "link": "https://www.yahoo.com/news/articles/government-propose-electricity-price-changes-005137865.html",
+        "title": "China's Xi, in call with Saudi crown prince, calls for Strait of Hormuz to remain\u00a0open",
+        "image": "https://media.zenfs.com/en/reuters.com/9ea490e13f0b24de031cf20bcc35e91f",
+        "link": "https://www.yahoo.com/news/articles/chinas-xi-call-saudi-crown-120213699.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Seized Iranian ship likely carrying equipment deemed dual-use by US, sources say",
-        "image": "https://media.zenfs.com/en/reuters.com/1be42cc9dc5729f4a1dbb6a0c506f8b7",
-        "link": "https://www.yahoo.com/news/articles/seized-iranian-ship-likely-carrying-150535105.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mob of teens chases college student into campus dorm, unleashes violent attack as police hunt suspects",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/f83c099512980e3b05451a2a952fc2c9",
-        "link": "https://www.yahoo.com/news/articles/mob-teens-chases-college-student-194731025.html",
+        "title": "Navy warns US sailors to secure social media from Iran online threats",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/dc29c7a44cd23436609695911714eb3c",
+        "link": "https://www.yahoo.com/news/articles/navy-warns-us-sailors-secure-184947150.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany news: Trial to start in Istanbul over tourist deaths",
+        "title": "Why the cloud still runs on coal and gas",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-trial-to-start-in-istanbul-over-tourist-deaths/live-76875561?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/why-the-cloud-still-runs-on-coal-and-gas/a-76873187?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Renewable energy is increasingly being used to supply power-hungry data centers. As the sector grows, much of the electricity demand is being met by p..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Japan loosens long-standing curbs on arms exports",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/japan-loosens-long-standing-curbs-on-arms-exports/a-76874734?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Prime Minister Sanae Takaichi approved new rules expanding Japan's ability to export advanced defense equipment, a major shift as Tokyo boosts defense..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Trial starts in Istanbul over tourist deaths",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-trial-starts-in-istanbul-over-tourist-deaths/live-76875561?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Six people have been charged with negligent homicide over the deaths of four members of a German family at a hotel in Turkey. Meanwhile, a major clima..."
     },
     {
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/south-korea-police-seek-to-arrest-bts-agency-chief-over-fraud-allegations/a-76874782?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Police say HYBE chief Bang Si-hyuk secretly made millions from post-IPO share sales. The case comes as K-pop supergroup BTS embarks on a global tour...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Rat poison found in baby food, extortion suspected",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/rat-poison-found-in-baby-food-extortion-suspected/a-76872799?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Rat poison has been found in HiPP baby food jars across Austria, Czechia and Slovakia in what authorities suspect is a blackmail attempt...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Japan ends decades-old ban on lethal arms exports in major policy shift",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/japan-ends-decades-old-ban-on-lethal-arms-exports-in-major-policy-shift/a-76874734?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Prime Minister Sanae Takaichi approved new rules expanding Japan's ability to export advanced defense equipment, a major shift as Tokyo boosts defense..."
     },
     {
         "source": "Leafly",
