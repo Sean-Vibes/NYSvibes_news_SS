@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China's Xi, in call with Saudi crown prince, calls for Strait of Hormuz to remain\u00a0open",
-        "image": "https://media.zenfs.com/en/reuters.com/9ea490e13f0b24de031cf20bcc35e91f",
-        "link": "https://www.yahoo.com/news/articles/chinas-xi-call-saudi-crown-120213699.html",
+        "title": "Seized Iranian ship likely carrying equipment deemed dual-use by US, sources say",
+        "image": "https://media.zenfs.com/en/reuters.com/1be42cc9dc5729f4a1dbb6a0c506f8b7",
+        "link": "https://www.yahoo.com/news/articles/seized-iranian-ship-likely-carrying-150535105.html",
         "summary": "..."
     },
     {
@@ -71,10 +71,17 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Hungary: Orban-era LGBTQ law infringes human rights, ECJ rules",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/hungary-orban-era-lgbtq-law-infringes-human-rights-ecj-rules/a-76876926?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The EU's top court has found that Hungary's 2021 laws on issues including transgender and homosexual identity and sex offenses breach various EU laws...."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Why the cloud still runs on coal and gas",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/why-the-cloud-still-runs-on-coal-and-gas/a-76873187?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Renewable energy is increasingly being used to supply power-hungry data centers. As the sector grows, much of the electricity demand is being met by p..."
+        "summary": "Renewable energy is increasingly being used to supply power-hungry data centers. As the sector swells, much of the electricity demand is being met by ..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-news-india-us-near-trade-deal-in-washington/live-76875202?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "US officials say an agreement is nearing completion as negotiations resume. Meanwhile, videos of violence inside a German gurudwara are causing a stir..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "South Korea: Police seek to arrest BTS agency chief over fraud allegations",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/south-korea-police-seek-to-arrest-bts-agency-chief-over-fraud-allegations/a-76874782?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Police say HYBE chief Bang Si-hyuk secretly made millions from post-IPO share sales. The case comes as K-pop supergroup BTS embarks on a global tour...."
     },
     {
         "source": "Leafly",
