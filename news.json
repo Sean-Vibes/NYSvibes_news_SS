@@ -43,16 +43,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Government to propose electricity price changes in clean power push",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/c8f59c7778ea3c8a374b55c059f15ec0",
-        "link": "https://www.yahoo.com/news/articles/government-propose-electricity-price-changes-005137865.html",
+        "title": "6 missing after U.S.-flagged ship found overturned following typhoon",
+        "image": "https://media.zenfs.com/en/cbs_news_897/d8b032c8f98fce6bbefdbd570b7bf4ed",
+        "link": "https://www.yahoo.com/news/articles/6-missing-u-flagged-ship-111643378.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "6 missing after U.S.-flagged ship found overturned following typhoon",
-        "image": "https://media.zenfs.com/en/cbs_news_897/d8b032c8f98fce6bbefdbd570b7bf4ed",
-        "link": "https://www.yahoo.com/news/articles/6-missing-u-flagged-ship-111643378.html",
+        "title": "High electricity bills targeted in planned shakeup to energy pricing",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/c8f59c7778ea3c8a374b55c059f15ec0",
+        "link": "https://www.yahoo.com/news/articles/government-propose-electricity-price-changes-005137865.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Prisoners handcuffed and executed: The war crime charges against Australia's most-decorated soldier",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/8ec912228954dd82d9a056259fd22c08",
-        "link": "https://www.yahoo.com/news/articles/war-crime-allegations-against-decorated-002400935.html",
+        "title": "Mob of teens chases college student into campus dorm, unleashes violent attack as police hunt suspects",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/f83c099512980e3b05451a2a952fc2c9",
+        "link": "https://www.yahoo.com/news/articles/mob-teens-chases-college-student-194731025.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Trial to start in Istanbul over tourist deaths",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-trial-to-start-in-istanbul-over-tourist-deaths/live-76875561?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Six people have been charged with negligent homicide over the deaths of four members of a German family at a hotel in Turkey. Meanwhile, a major clima..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: India-US near trade deal in Washington",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-india-us-near-trade-deal-in-washington/live-76875202?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US officials say an agreement is nearing completion as negotiations resume. Meanwhile, videos of violence inside a German gurudwara are causing a stir..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "South Korea: Police seek to arrest BTS agency chief over fraud allegations",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/south-korea-police-seek-to-arrest-bts-agency-chief-over-fraud-allegations/a-76874782?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Police say HYBE chief Bang Si-hyuk secretly made millions from post-IPO share sales. The case comes as K-pop supergroup BTS embarks on a global tour...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Rat poison found in baby food, extortion suspected",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/rat-poison-found-in-baby-food-extortion-suspected/a-76872799?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Rat poison has been found in HiPP baby food jars across Austria, Czechia and Slovakia in what authorities suspect is a blackmail attempt...."
     },
     {
         "source": "Deutsche Welle",
@@ -75,34 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/japan-ends-decades-old-ban-on-lethal-arms-exports-in-major-policy-shift/a-76874734?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Prime Minister Sanae Takaichi approved new rules expanding Japan's ability to export advanced defense equipment, a major shift as Tokyo boosts defense..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Talks in doubt as leaders issue threats",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-talks-in-doubt-as-leaders-issue-threats/live-76874663?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "While the talks remain in limbo, the United States and Iran have been trading threats. Separately, media reports suggest US Vice President JD Vance is..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "FAA grounds Blue Origin's New Glenn after orbital setback",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/faa-grounds-blue-origin-s-new-glenn-after-orbital-setback/a-76874643?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US aviation regulators have ordered Blue Origin, a space company owned by billionaire Jeff Bezos, to investigate a malfunction in the upper stage of i..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Amnesty International paints a grim picture",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/amnesty-international-paints-a-grim-picture/a-76837070?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In its 2025/2026 report, the human rights watchdog Amnesty International calls out the \"predatory behavior of the powerful\" and calls for action to de..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Tim Cook to step down as Apple CEO, John Ternus to take over",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/tim-cook-to-step-down-as-apple-ceo-john-ternus-to-take-over/a-76873245?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "John Ternus, who has long focused \u200bon design and \u200cproducts at Apple, will lead the iPhone maker as it gears up for an industry change spurred by artif..."
     },
     {
         "source": "Leafly",
