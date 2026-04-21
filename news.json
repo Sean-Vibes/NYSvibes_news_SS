@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China's Xi, in call with Saudi crown prince, calls for Strait of Hormuz to remain\u00a0open",
-        "image": "https://media.zenfs.com/en/reuters.com/9ea490e13f0b24de031cf20bcc35e91f",
-        "link": "https://www.yahoo.com/news/articles/chinas-xi-call-saudi-crown-120213699.html",
+        "title": "Seized Iranian ship likely carrying equipment deemed dual-use by US, sources say",
+        "image": "https://media.zenfs.com/en/reuters.com/1be42cc9dc5729f4a1dbb6a0c506f8b7",
+        "link": "https://www.yahoo.com/news/articles/seized-iranian-ship-likely-carrying-150535105.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/bbc_us_articles_995/8ec912228954dd82d9a056259fd22c08",
         "link": "https://www.yahoo.com/news/articles/war-crime-allegations-against-decorated-002400935.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Japan ends decades-old ban on lethal arms exports in major policy shift",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/japan-ends-decades-old-ban-on-lethal-arms-exports-in-major-policy-shift/a-76874734?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Prime Minister Sanae Takaichi approved new rules expanding Japan's ability to export advanced defense equipment, a major shift as Tokyo boosts defense..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Talks in doubt as leaders issue threats",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-talks-in-doubt-as-leaders-issue-threats/live-76874663?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "While the talks remain in limbo, the United States and Iran have been trading threats. Separately, media reports suggest US Vice President JD Vance is..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/tim-cook-to-step-down-as-apple-ceo-john-ternus-to-take-over/a-76873245?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "John Ternus, who has long focused \u200bon design and \u200cproducts at Apple, will lead the iPhone maker as it gears up for an industry change spurred by artif..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Mexico: Canadian killed in shooting at Teotihuacan pyramid",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/mexico-canadian-killed-in-shooting-at-teotihuacan-pyramid/a-76872804?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A gunman opened fire at the popular tourist and archeological site outside Mexico city...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UK: Starmer says he would't have appointed Mandelson as US envoy if he'd known he failed vetting process",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-starmer-says-he-would-t-have-appointed-mandelson-as-us-envoy-if-he-d-known-he-failed-vetting-process/a-76864691?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Under-fire Prime Minister Keir Starmer told the House of Commons that neither he nor his ministers were told that the former ambassador to the US and ..."
     },
     {
         "source": "Leafly",
