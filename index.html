@@ -44,24 +44,27 @@
         .content { 
             position: relative;
             z-index: 2;
-            width: 95%;
+            width: 98%; /* Slightly wider to give text room */
             text-align: center;
-            /* Heavy outlines so it's readable on any background */
-            text-shadow: 4px 4px 0px #000, -2px -2px 0px #000, 0px 0px 20px rgba(0,0,0,1);
         }
 
-        /* 5. TAG (Matches your Neon Gold sign) */
-        .source-tag { 
-            background: #f1c40f; 
-            color: black; 
-            padding: 8px 20px; 
-            border-radius: 4px; 
-            font-size: 1.5rem; 
+        /* 6. THE MASSIVE HEADLINE - Fixed the Double Image */
+        h2 { 
+            font-size: 3.8rem; /* Adjusted slightly to fit better */
+            line-height: 0.95;
             font-weight: 900;
-            text-transform: uppercase; 
-            display: inline-block;
-            margin-bottom: 20px;
-            box-shadow: 0 0 15px rgba(241, 196, 15, 0.5);
+            text-transform: uppercase;
+            letter-spacing: -2px;
+            word-wrap: break-word;
+            
+            /* This creates a clean, tight border instead of a ghost image */
+            color: white;
+            text-shadow: 
+                -2px -2px 0 #000,  
+                 2px -2px 0 #000,
+                -2px  2px 0 #000,
+                 2px  2px 0 #000,
+                 5px  5px 15px rgba(0,0,0,1); /* Deep soft glow for depth */
         }
 
         /* 6. THE MASSIVE HEADLINE */
