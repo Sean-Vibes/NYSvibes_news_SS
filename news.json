@@ -1,10 +1,24 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Six Out Of Ten Americans Support Legalizing Marijuana, New Poll Shows",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/six-out-of-ten-americans-support-legalizing-marijuana-new-poll-shows/",
+        "summary": "<p>Americans broadly favor legalizing marijuana for recreational or medical purposes, with support across party lines, according to a new poll.... <a ..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Alabama Medical Marijuana Sales Set To Finally Begin Next Month, Five Years After Lawmakers Approved Legalization",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/alabama-medical-marijuana-sales-set-to-finally-begin-next-month-five-years-after-lawmakers-approved-legalization/",
         "summary": "<p>\u201cWhat this means for Alabama is patients will be getting the much-needed medicine they need. We\u2019ve had the program now... <a class=\"small font-mont..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "New Congressional Bill Would Let State Agencies Provide Marijuana For Research, Backed By $150 Million In New Funding",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/new-congressional-bill-would-let-state-agencies-provide-marijuana-for-research-backed-by-150-million-in-new-funding/",
+        "summary": "<p>A new congressional bill would provide $150 million in marijuana research funding for universities over five years, while allowing those... <a clas..."
     },
     {
         "source": "GrowCola.com",
@@ -19,20 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/sponsors-of-virginia-marijuana-sales-legalization-bill-ask-colleagues-to-reject-governors-amendments-risking-a-veto/",
         "summary": "<p>The sponsors of Virginia bills to legalize recreational marijuana sales are recommending that fellow lawmakers vote to reject the governor\u2019s... <a ..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Rhode Island Marijuana Regulators Discuss Stalled Licensing Process Following Federal Court Ruling",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/rhode-island-marijuana-regulators-discuss-stalled-licensing-process-following-federal-court-ruling/",
-        "summary": "<p>Commissioners and staff acknowledged applicants\u2019 and cultivators\u2019 frustration over the abrupt halt to the process that would award 20 new... <a cla..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "New GOP Bill Would Require Feds To Study Hospital Costs Caused By Marijuana Use",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/new-gop-bill-would-require-feds-to-study-hospital-costs-caused-by-marijuana-use/",
-        "summary": "<p>A pair of Republican senators have filed a bill that would require the federal government to track the cost of... <a class=\"small font-montserrat f..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US Air Force says key Iran warplane, the A-10 Warthog, will live on to 2030",
-        "image": "https://media.zenfs.com/en/reuters.com/9dfb033d5617d0c439ecbf697d94687c",
-        "link": "https://www.yahoo.com/news/articles/us-air-force-says-key-223837234.html",
+        "title": "Seized Iranian ship likely carrying equipment deemed dual-use by US, sources say",
+        "image": "https://media.zenfs.com/en/reuters.com/1be42cc9dc5729f4a1dbb6a0c506f8b7",
+        "link": "https://www.yahoo.com/news/articles/seized-iranian-ship-likely-carrying-150535105.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/f83c099512980e3b05451a2a952fc2c9",
         "link": "https://www.yahoo.com/news/articles/mob-teens-chases-college-student-194731025.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Pope Leo decries inequality in corrupt Equatorial Guinea",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/pope-leo-decries-inequality-in-corrupt-equatorial-guinea/a-76901607?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Pope Leo XIV continued his tour of Africa with a Mass in Equatorial Guinea. The pontiff called for more justice in the country as the nation's preside..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-fuels-crisis-for-africa-s-aviation-sector/a-76874774?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Iran war is pushing up jet fuel prices, forcing African airlines to raise ticket prices, cancel flights and rethink operations to stay financially..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia to block Kazakh oil flows on key pipeline supplying Berlin",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-to-block-kazakh-oil-flows-on-key-pipeline-supplying-berlin/a-76895743?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany has confirmed that Russia will block flows of Kazakh oil to a vital refinery that supplies much of Berlin's energy needs from May 1...."
     },
     {
         "source": "Leafly",
