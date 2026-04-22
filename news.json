@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mexico's Sheinbaum demands explanation after US officials die after operation in Chihuahua",
-        "image": "https://media.zenfs.com/en/ap.org/f6231e49c07cfb718d69e2bd337b8ec1",
-        "link": "https://www.yahoo.com/news/articles/mexicos-sheinbaum-demands-explanations-us-173751450.html",
+        "title": "China's Xi, in call with Saudi crown prince, calls for Strait of Hormuz to remain\u00a0open",
+        "image": "https://media.zenfs.com/en/reuters.com/9ea490e13f0b24de031cf20bcc35e91f",
+        "link": "https://www.yahoo.com/news/articles/chinas-xi-call-saudi-crown-120213699.html",
         "summary": "..."
     },
     {
@@ -71,6 +71,27 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Australia targets Roblox, Minecraft,  Fortnite and Steam in child safety push",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/australia-targets-roblox-minecraft-fortnite-and-steam-in-child-safety-push/a-76889818?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Roblox, Minecraft, Fortnite and Steam were among the gaming services asked by authorities to explain how they are protecting children from sexual pred..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Virginia voters approve plan that could boost Democrats' seats in Congress",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/virginia-voters-approve-plan-that-could-boost-democrats-seats-in-congress/a-76889656?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The move could increase the Democrats' chances of winning four currently Republican-held seats in Congress in midterm elections in November...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US in talks to send Afghan refugees to DR Congo",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-in-talks-to-send-afghan-refugees-to-dr-congo/a-76889628?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Afghan allies who assisted US forces now face a stark choice: resettle in the war\u2011torn Democratic Republic of Congo or return to Taliban\u2011ruled Afghani..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Mexican pyramid gunman had materials tied to Columbine shooting, officials say",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/mexican-pyramid-gunman-had-materials-tied-to-columbine-shooting-officials-say/a-76889302?maca=en-rss-en-all-1573-xml-mrss",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-trump-says-us-extending-ceasefire-to-give-iran-more-time-to-negotiate/live-76874663?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "President Donald Trump said he was \u200bextending the Iran \u200bceasefire until an Iranian \u2060proposal \u200bis \u200bsubmitted, \u200band discussions \u200care concluded. A US cea..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nigeria charges six over alleged Tinubu overthrow plot",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nigeria-charges-six-over-alleged-tinubu-overthrow-plot/a-76889096?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The alleged plot comes after 16 military officers stood trial in January over a coup attempt against president Bola Tinubu...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Lebanon war puts pregnant women at risk",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/lebanon-war-puts-pregnant-women-at-risk/a-76884533?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Lebanon\u2019s healthcare system is under severe strain despite a temporary ceasefire between Israel and Hezbollah. Thousands of displaced pregnant women a..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Zelenskyy says Druzhba oil pipeline to Europe repaired",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/zelenskyy-says-druzhba-oil-pipeline-to-europe-repaired/a-76886727?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A multibillion euro aid package from the EU had been blocked over access to the pipeline, which brings Russian oil to countries like Hungary and Slova..."
     },
     {
         "source": "Leafly",
