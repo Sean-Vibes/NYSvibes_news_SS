@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Virginia Lawmakers Reject Governor\u2019s Amendments To Marijuana Sales Legalization Bill",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/virginia-lawmakers-reject-governors-amendments-to-marijuana-sales-legalization-bill/",
+        "summary": "<p>Virginia lawmakers on Wednesday voted to reject the governor\u2019s amendments to legislation to legalize recreational marijuana sales, risking a potent..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "Trump Administration Ready To Move Ahead On Marijuana Rescheduling, Four Months After President\u2019s Executive Order, Report Says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/trump-administration-ready-to-move-ahead-on-marijuana-rescheduling-four-months-after-presidents-executive-order-report-says/",
+        "summary": "<p>The Trump administration is reportedly ready to move ahead with marijuana rescheduling. More than four months after President Donald Trump... <a cl..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Six Out Of Ten Americans Support Legalizing Marijuana, New Poll Shows",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/six-out-of-ten-americans-support-legalizing-marijuana-new-poll-shows/",
@@ -21,24 +35,10 @@
         "summary": "<p>A new congressional bill would provide $150 million in marijuana research funding for universities over five years, while allowing those... <a clas..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Federal cannabis reform has \u201cthe votes,\u201d top Dem says (Newsletter: April 22, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/federal-cannabis-reform-has-the-votes-top-dem-says-newsletter-april-22-2026/",
-        "summary": "<p>VA lawmakers: Reject gov\u2019s marijuana amendments; GOP bill links cannabis &#38; health costs; USDA hemp report; Study: Youth use down... <a class=\"s..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Sponsors Of Virginia Marijuana Sales Legalization Bill Ask Colleagues To Reject Governor\u2019s Amendments, Risking A Veto",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/sponsors-of-virginia-marijuana-sales-legalization-bill-ask-colleagues-to-reject-governors-amendments-risking-a-veto/",
-        "summary": "<p>The sponsors of Virginia bills to legalize recreational marijuana sales are recommending that fellow lawmakers vote to reject the governor\u2019s... <a ..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mexico's Sheinbaum demands explanation after US officials die after operation in Chihuahua",
-        "image": "https://media.zenfs.com/en/ap.org/f6231e49c07cfb718d69e2bd337b8ec1",
-        "link": "https://www.yahoo.com/news/articles/mexicos-sheinbaum-demands-explanations-us-173751450.html",
+        "title": "US Air Force says key Iran warplane, the A-10 Warthog, will live on to 2030",
+        "image": "https://media.zenfs.com/en/reuters.com/9dfb033d5617d0c439ecbf697d94687c",
+        "link": "https://www.yahoo.com/news/articles/us-air-force-says-key-223837234.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Seized Iranian ship likely carrying equipment deemed dual-use by US, sources say",
-        "image": "https://media.zenfs.com/en/reuters.com/1be42cc9dc5729f4a1dbb6a0c506f8b7",
-        "link": "https://www.yahoo.com/news/articles/seized-iranian-ship-likely-carrying-150535105.html",
+        "title": "3 soldiers die in a shell explosion inside a tank gun turret during army drill in Japan",
+        "image": "https://media.zenfs.com/en/ap.org/e05d08d605f79990d0f60a95a46beea1",
+        "link": "https://www.yahoo.com/news/articles/3-soldiers-die-shell-explosion-110413471.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/f83c099512980e3b05451a2a952fc2c9",
         "link": "https://www.yahoo.com/news/articles/mob-teens-chases-college-student-194731025.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "EU proposes steps to deal with energy crisis amid Iran war",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eu-proposes-steps-to-deal-with-energy-crisis-amid-iran-war/a-76899373?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Brussels has unveiled a toolbox to manage energy shocks, as concerns grow over fuel supplies and rising costs. It includes a push to decrease the bloc..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Japan: South Korean arrested outside Yasukuni Shrine ceremony for war dead",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/japan-south-korean-arrested-outside-yasukuni-shrine-ceremony-for-war-dead/a-76900830?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Police said a South Korean national holding a banner with political messages was arrested at Tokyo's Yasukuni Shrine to Japan's war dead. Japan's prim..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/nepal-interior-minister-elected-on-anti-corruption-platform-steps-down-amid-financial-investigation/a-76897665?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Nepal's new government elected on an anti-corruption platform after youth protests toppled its predecessor has now lost two ministers in weeks. Sudan ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "ICC blocks ex-Philippine President Duterte release, says it can try him",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/icc-blocks-ex-philippine-president-duterte-release-says-it-can-try-him/a-76894601?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Judges ruled the court has authority to try the former Philippine leader despite the Philippines' exit from the ICC...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war fuels crisis for Africa's aviation sector",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-fuels-crisis-for-africa-s-aviation-sector/a-76874774?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Iran war is pushing up jet fuel prices, forcing African airlines to raise ticket prices, cancel flights and rethink operations to stay financially..."
     },
     {
         "source": "Leafly",
