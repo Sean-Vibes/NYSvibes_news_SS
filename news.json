@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "California Lawmakers Vote To Allow Drive-Thrus At Marijuana Dispensaries",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/california-lawmakers-vote-to-allow-drive-thrus-at-marijuana-dispensaries/",
+        "summary": "<p>A bill that would allow California marijuana stores to offer drive-thru windows to serve customers is advancing in the state... <a class=\"small fon..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Virginia Lawmakers Reject Governor\u2019s Amendments To Marijuana Sales Legalization Bill",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/virginia-lawmakers-reject-governors-amendments-to-marijuana-sales-legalization-bill/",
@@ -28,13 +35,6 @@
         "summary": "<p>\u201cWhat this means for Alabama is patients will be getting the much-needed medicine they need. We\u2019ve had the program now... <a class=\"small font-mont..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "New Congressional Bill Would Let State Agencies Provide Marijuana For Research, Backed By $150 Million In New Funding",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/new-congressional-bill-would-let-state-agencies-provide-marijuana-for-research-backed-by-150-million-in-new-funding/",
-        "summary": "<p>A new congressional bill would provide $150 million in marijuana research funding for universities over five years, while allowing those... <a clas..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "US Air Force says key Iran warplane, the A-10 Warthog, will live on to 2030",
         "image": "https://media.zenfs.com/en/reuters.com/9dfb033d5617d0c439ecbf697d94687c",
@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "6 missing after U.S.-flagged ship found overturned following typhoon",
-        "image": "https://media.zenfs.com/en/cbs_news_897/d8b032c8f98fce6bbefdbd570b7bf4ed",
-        "link": "https://www.yahoo.com/news/articles/6-missing-u-flagged-ship-111643378.html",
+        "title": "The world's biggest airlines are canceling flights as they face jet fuel shortages and rising prices",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/51163f0224ac73bf7477f7d409fa56d4",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/airlines-starting-cancel-flights-face-214736570.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "3 soldiers die in a shell explosion inside a tank gun turret during army drill in Japan",
-        "image": "https://media.zenfs.com/en/ap.org/e05d08d605f79990d0f60a95a46beea1",
-        "link": "https://www.yahoo.com/news/articles/3-soldiers-die-shell-explosion-110413471.html",
+        "title": "Rex Heuermann told ex-wife he murdered Gilgo Beach victims at family's home, documentary reveals",
+        "image": "https://media.zenfs.com/en/ap.org/9dbafc254fd4dad1498d796f441e9a6d",
+        "link": "https://www.yahoo.com/news/articles/rex-heuermann-told-ex-wife-201602060.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mob of teens chases college student into campus dorm, unleashes violent attack as police hunt suspects",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/f83c099512980e3b05451a2a952fc2c9",
-        "link": "https://www.yahoo.com/news/articles/mob-teens-chases-college-student-194731025.html",
+        "title": "A deal to end the Iran war seemed close. Then Trump started posting on social media",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/b1b8f0fdea9a08d2b966321187ae84ff",
+        "link": "https://www.yahoo.com/news/articles/deal-end-iran-war-seemed-225402785.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "School's out in Iran: No phone, no internet, no classes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/school-s-out-in-iran-no-phone-no-internet-no-classes/a-76901420?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran's schools are closed because of the war. Classes are being held via TV programs and the national intranet. Children without a laptop or smartphon..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-s-finance-minister-wants-to-scrap-spousal-tax-splitting/a-76899406?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Highly controversial, but not well understood: German Finance Minister Lars Klingbeil wants to change the tax benefits for married couples...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nepal: Interior minister elected on anti-corruption platform steps down amid financial investigation",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nepal-interior-minister-elected-on-anti-corruption-platform-steps-down-amid-financial-investigation/a-76897665?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Nepal's new government elected on an anti-corruption platform after youth protests toppled its predecessor has now lost two ministers in weeks. Sudan ..."
     },
     {
         "source": "Leafly",
