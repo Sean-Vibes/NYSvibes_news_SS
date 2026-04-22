@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US Air Force says key Iran warplane, the A-10 Warthog, will live on to 2030",
-        "image": "https://media.zenfs.com/en/reuters.com/9dfb033d5617d0c439ecbf697d94687c",
-        "link": "https://www.yahoo.com/news/articles/us-air-force-says-key-223837234.html",
+        "title": "Seized Iranian ship likely carrying equipment deemed dual-use by US, sources say",
+        "image": "https://media.zenfs.com/en/reuters.com/1be42cc9dc5729f4a1dbb6a0c506f8b7",
+        "link": "https://www.yahoo.com/news/articles/seized-iranian-ship-likely-carrying-150535105.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China flexes energy leverage as the Philippines, US start annual war games",
-        "image": "https://media.zenfs.com/en/reuters.com/4c4f40be02c973f1fd059f1b900e9595",
-        "link": "https://www.yahoo.com/news/articles/china-flexes-energy-leverage-philippines-094057787.html",
+        "title": "Supreme Court rules for Michigan in its fight to shut down an aging energy pipeline",
+        "image": "https://media.zenfs.com/en/ap.org/fa064136a8828c662c4d3d28a28a043a",
+        "link": "https://www.yahoo.com/news/articles/supreme-court-rules-michigan-fight-144025318.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/cnn_articles_875/b1b8f0fdea9a08d2b966321187ae84ff",
         "link": "https://www.yahoo.com/news/articles/deal-end-iran-war-seemed-225402785.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany's Merz: Climate protection must not hold economy back",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-s-merz-climate-protection-must-not-hold-economy-back/a-76903241?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "German Chancellor Friedrich Merz said the public would not accept climate policies that lead to deindustrialization, warning that they would hinder pr..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/pope-leo-decries-inequality-in-corrupt-equatorial-guinea/a-76901607?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Pope Leo XIV continued his tour of Africa with a Mass in Equatorial Guinea. The pontiff called for more justice in the country as the nation's preside..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany's finance minister wants to scrap spousal tax splitting",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-finance-minister-wants-to-scrap-spousal-tax-splitting/a-76899406?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Highly controversial, but not well understood: German Finance Minister Lars Klingbeil wants to change the tax benefits for married couples...."
     },
     {
         "source": "Leafly",
