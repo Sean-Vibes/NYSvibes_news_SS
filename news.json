@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Lawmakers And Advocates React To Marijuana Rescheduling Move By Trump Administration",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/lawmakers-and-advocates-react-to-marijuana-rescheduling-move-by-trump-administration/",
+        "summary": "<p>The Trump administration\u2019s announcement that it is moving ahead with the federal reclassification of marijuana on Thursday is generating headlines...."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Tennessee Lawmaker Calls For Special Session Focused On Medical Marijuana As It\u2019s Federally Reclassified Under Trump",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/tennessee-lawmaker-calls-for-special-session-focused-on-medical-marijuana-as-its-federally-reclassified-under-trump/",
@@ -28,24 +35,10 @@
         "summary": "<p>A U.S. Senate committee has scheduled a hearing for next week on a bipartisan\u00a0bill to promote research into the therapeutic... <a class=\"small font..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "GOP Lawmakers\u2019 Hemp Amendments To The Farm Bill Would Allow Continued Legal Sales Of THC Products Under Federal Law",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/gop-lawmakers-hemp-amendments-to-the-farm-bill-would-allow-continued-legal-sales-of-thc-products-under-federal-law/",
-        "summary": "<p>Republican lawmakers have filed amendments to sweeping agriculture legislation that would push back the scheduled federal recriminalization of hemp..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "DeSantis signs Florida law banning local DEI funding, says white men are 'disfavored'",
         "image": "https://media.zenfs.com/en/ap.org/0bddde7f2fa556856e8c25516d9ab3aa",
         "link": "https://www.yahoo.com/news/articles/desantis-signs-florida-law-banning-204733162.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "The world's biggest airlines are canceling flights as they face jet fuel shortages and rising prices",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/51163f0224ac73bf7477f7d409fa56d4",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/airlines-starting-cancel-flights-face-214736570.html",
         "summary": "..."
     },
     {
@@ -57,17 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Supreme Court rules for Michigan in its fight to shut down an aging energy pipeline",
-        "image": "https://media.zenfs.com/en/ap.org/fa064136a8828c662c4d3d28a28a043a",
-        "link": "https://www.yahoo.com/news/articles/supreme-court-rules-michigan-fight-144025318.html",
+        "title": "The world's biggest airlines are canceling flights as they face jet fuel shortages and rising prices",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/51163f0224ac73bf7477f7d409fa56d4",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/airlines-starting-cancel-flights-face-214736570.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Canadian killed, six Americans among injured as gunman shoots tourists at Mexico\u2019s Teotihuacan pyramids",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/d9d4d63ab7623c0b6c947ba8ff08015d",
-        "link": "https://www.yahoo.com/news/articles/gunman-opens-fire-mexico-teotihuacan-213646712.html",
+        "title": "LaGuardia firefighter heard \u2018stop, stop\u2019 before crash but didn\u2019t know who it was for, NTSB says",
+        "image": "https://media.zenfs.com/en/ap.org/417bdd23da9214cabc3a4fe2fb590f64",
+        "link": "https://www.yahoo.com/news/articles/laguardia-firefighter-heard-stop-stop-184239145.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Researcher believes Noah's Ark found in Turkey after new underground scans",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/314a30db97fc28eb0957fd3ea3a16680",
+        "link": "https://www.yahoo.com/news/articles/researcher-believes-noahs-ark-found-150354257.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "What is Europe's plan to secure the Strait of Hormuz?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/what-is-europe-s-plan-to-secure-the-strait-of-hormuz/a-76911137?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "France and the UK are leading efforts to establish a multinational mission to safeguard shipping through the Strait of Hormuz. Questions remain about ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ceasefire extended: What's next in the Iran war?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ceasefire-extended-what-s-next-in-the-iran-war/a-76916900?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "With no fixed ceasefire deadline for now, the US and Iran are looking for ways to safeguard their own interests. DW takes a look at the main sticking ..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/uk-health-data-volunteered-by-500-000-people-to-biobank-charity-listed-for-sale-on-alibaba-in-china/a-76912632?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The British government is investigating how health data volunteered to a charity for research purposes wound up for sale via three vendors on the Alib..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany unveils first ever military strategy for Bundeswehr",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-unveils-first-ever-military-strategy-for-bundeswehr/a-76914837?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "For the first time in its history, the Bundeswehr has adopted a military strategy to prepare Germany for future threats. Large sections of the documen..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Libya oscillates between cooperation and illusion",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/libya-oscillates-between-cooperation-and-illusion/a-76897066?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "For the first time, representatives from both sides of Libya's political divide are participating in Flintlock, a multinational military exercise unde..."
     },
     {
         "source": "Leafly",
