@@ -43,23 +43,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Electricity bills targeted in planned shakeup to energy pricing",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/b3495aa63e9d151f4af3186f8a5c36da",
-        "link": "https://www.yahoo.com/news/articles/government-propose-electricity-price-changes-005137865.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "The world's biggest airlines are canceling flights as they face jet fuel shortages and rising prices",
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/51163f0224ac73bf7477f7d409fa56d4",
         "link": "https://finance.yahoo.com/sectors/energy/articles/airlines-starting-cancel-flights-face-214736570.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Water to surge into drought-depleted Lake Powell but at costs elsewhere",
-        "image": "https://media.zenfs.com/en/ap.org/cb9a535deaa7b9096e63fa6d1a693101",
-        "link": "https://www.yahoo.com/news/articles/water-surge-drought-depleted-lake-191319159.html",
         "summary": "..."
     },
     {
@@ -68,6 +54,27 @@
         "image": "https://media.zenfs.com/en/the_hill_articles_341/0bed9b2cab3d4e8c2a1e80a043a30119",
         "link": "https://www.yahoo.com/news/articles/house-republican-patel-reported-alcohol-133911817.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "DeSantis signs Florida law banning local DEI funding, says white men are 'disfavored'",
+        "image": "https://media.zenfs.com/en/ap.org/0bddde7f2fa556856e8c25516d9ab3aa",
+        "link": "https://www.yahoo.com/news/articles/desantis-signs-florida-law-banning-204733162.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Walz: \u2018Next Democratic president better figure out a way to get universal health care\u2019",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/3dd43617d9abc5b08bfe63585ed89592",
+        "link": "https://www.yahoo.com/news/articles/walz-next-democratic-president-better-213335692.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UK, France agree 3\u2011year deal to curb Channel crossings",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/uk-france-agree-3\u2011year-deal-to-curb-channel-crossings/a-76903367?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "For the first time, the deal links some UK payments to France to performance in stopping migrants. Funding will be halted after one year if targets ar..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/japan-south-korean-arrested-outside-yasukuni-shrine-ceremony-for-war-dead/a-76900830?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Police said a South Korean national holding a banner with political messages was arrested at Tokyo's Yasukuni Shrine to Japan's war dead. Japan's prim..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pope Leo decries inequality in corrupt Equatorial Guinea",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pope-leo-decries-inequality-in-corrupt-equatorial-guinea/a-76901607?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Pope Leo XIV continued his tour of Africa with a Mass in Equatorial Guinea. The pontiff called for more justice in the country as the nation's preside..."
     },
     {
         "source": "Leafly",
