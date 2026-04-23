@@ -50,16 +50,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The world's biggest airlines are canceling flights as they face jet fuel shortages and rising prices",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/51163f0224ac73bf7477f7d409fa56d4",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/airlines-starting-cancel-flights-face-214736570.html",
+        "title": "This San Francisco shop is run completely by an AI agent",
+        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/7fd38645739f72d96040d52bd1bd7e73",
+        "link": "https://tech.yahoo.com/ai/meta-ai/articles/san-francisco-shop-run-completely-210218333.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "LaGuardia firefighter heard \u2018stop, stop\u2019 before crash but didn\u2019t know who it was for, NTSB says",
-        "image": "https://media.zenfs.com/en/ap.org/417bdd23da9214cabc3a4fe2fb590f64",
-        "link": "https://www.yahoo.com/news/articles/laguardia-firefighter-heard-stop-stop-184239145.html",
+        "title": "Islamic militants kill 11 people and burn homes in late night attack in Nigeria, local officials say",
+        "image": "https://media.zenfs.com/en/ap.org/520799e8bb1d037ccaad0cdc01d026fb",
+        "link": "https://www.yahoo.com/news/articles/islamic-militants-kill-11-people-220515554.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/314a30db97fc28eb0957fd3ea3a16680",
         "link": "https://www.yahoo.com/news/articles/researcher-believes-noahs-ark-found-150354257.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Trump says Israel-Lebanon ceasefire extended by three weeks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-says-israel-lebanon-ceasefire-extended-by-three-weeks/live-76903459?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Donald Trump's remarks follow a meeting at the White House with senior officials from Israel and Lebanon. The extension comes after Israel bombed sout..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Warner Bros shareholders greenlight sale to Paramount",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/warner-bros-shareholders-greenlight-sale-to-paramount/a-76917707?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The deal would combine two major Hollywood studios and bring CBS and CNN under one roof, tightening an already concentrated media landscape, critics s..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/is-ethiopia-bracing-for-war/a-76900905?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Analysts say the war in Iran has temporarily delayed an escalation in smoldering tensions between Ethiopia and Eritrea. But renewed armed conflict can..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Samsung workers rally, call for larger share of AI profits",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/samsung-workers-rally-call-for-larger-share-of-ai-profits/a-76912797?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Unions at Samsung are threatening a weekslong strike if demands are not met. A production halt at one of the world's largest memory chipmakers could d..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UK: Health data volunteered by 500,000 people to Biobank charity listed for sale on Alibaba in China",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-health-data-volunteered-by-500-000-people-to-biobank-charity-listed-for-sale-on-alibaba-in-china/a-76912632?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The British government is investigating how health data volunteered to a charity for research purposes wound up for sale via three vendors on the Alib..."
     },
     {
         "source": "Leafly",
