@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Seized Iranian ship likely carrying equipment deemed dual-use by US, sources say",
-        "image": "https://media.zenfs.com/en/reuters.com/1be42cc9dc5729f4a1dbb6a0c506f8b7",
-        "link": "https://www.yahoo.com/news/articles/seized-iranian-ship-likely-carrying-150535105.html",
+        "title": "3 soldiers die in a shell explosion inside a tank gun turret during army drill in Japan",
+        "image": "https://media.zenfs.com/en/ap.org/e05d08d605f79990d0f60a95a46beea1",
+        "link": "https://www.yahoo.com/news/articles/3-soldiers-die-shell-explosion-110413471.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "DeSantis signs Florida law banning local DEI funding, says white men are 'disfavored'",
-        "image": "https://media.zenfs.com/en/ap.org/0bddde7f2fa556856e8c25516d9ab3aa",
-        "link": "https://www.yahoo.com/news/articles/desantis-signs-florida-law-banning-204733162.html",
+        "title": "Water to surge into drought-depleted Lake Powell but at costs elsewhere",
+        "image": "https://media.zenfs.com/en/ap.org/cb9a535deaa7b9096e63fa6d1a693101",
+        "link": "https://www.yahoo.com/news/articles/water-surge-drought-depleted-lake-191319159.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Walz: \u2018Next Democratic president better figure out a way to get universal health care\u2019",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/3dd43617d9abc5b08bfe63585ed89592",
-        "link": "https://www.yahoo.com/news/articles/walz-next-democratic-president-better-213335692.html",
+        "title": "Canadian killed, six Americans among injured as gunman shoots tourists at Mexico\u2019s Teotihuacan pyramids",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/d9d4d63ab7623c0b6c947ba8ff08015d",
+        "link": "https://www.yahoo.com/news/articles/gunman-opens-fire-mexico-teotihuacan-213646712.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Palantir: Why its political manifesto is causing a stir",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/palantir-why-its-political-manifesto-is-causing-a-stir/a-76895480?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US tech company has posted a 22-point manifesto on X that goes well beyond typical corporate communications. Critics say it is evidence of \"techno..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Standoff at Hormuz casts shadow over Iran ceasefire talks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-standoff-at-hormuz-casts-shadow-over-iran-ceasefire-talks/live-76903459?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The prospects for renewed peace talks wavered after Iran seized two international vessels in the Strait of Hormuz. DW has the latest...."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/school-s-out-in-iran-no-phone-no-internet-no-classes/a-76901420?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Iran's schools are closed because of the war. Classes are being held via TV programs and the national intranet. Children without a laptop or smartphon..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "EU proposes steps to deal with energy crisis amid Iran war",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-proposes-steps-to-deal-with-energy-crisis-amid-iran-war/a-76899373?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Brussels has unveiled a toolbox to manage energy shocks, as concerns grow over fuel supplies and rising costs. It includes a push to decrease the bloc..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Japan: South Korean arrested outside Yasukuni Shrine ceremony for war dead",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/japan-south-korean-arrested-outside-yasukuni-shrine-ceremony-for-war-dead/a-76900830?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Police said a South Korean national holding a banner with political messages was arrested at Tokyo's Yasukuni Shrine to Japan's war dead. Japan's prim..."
     },
     {
         "source": "Leafly",
