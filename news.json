@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Water to surge into drought-depleted Lake Powell but at costs elsewhere",
-        "image": "https://media.zenfs.com/en/ap.org/cb9a535deaa7b9096e63fa6d1a693101",
-        "link": "https://www.yahoo.com/news/articles/water-surge-drought-depleted-lake-191319159.html",
+        "title": "Rex Heuermann told ex-wife he murdered Gilgo Beach victims at family's home, documentary reveals",
+        "image": "https://media.zenfs.com/en/ap.org/9dbafc254fd4dad1498d796f441e9a6d",
+        "link": "https://www.yahoo.com/news/articles/rex-heuermann-told-ex-wife-201602060.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,27 @@
         "image": "https://media.zenfs.com/en/cnn_articles_875/d9d4d63ab7623c0b6c947ba8ff08015d",
         "link": "https://www.yahoo.com/news/articles/gunman-opens-fire-mexico-teotihuacan-213646712.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Lebanon says Israel targeted journalist killed in airstrike",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/lebanon-says-israel-targeted-journalist-killed-in-airstrike/a-76904701?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Amal Khalil was killed when a house she was sheltering in was hit by an Israeli airstrike. Lebanon has accused Israel of targeting media workers as pa..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Tamil Nadu, West Bengal cast votes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-tamil-nadu-west-bengal-cast-votes/live-76904233?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Polling has begun in Tamil Nadu and West Bengal in high-stakes assembly elections. DW has more...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Denmark: Two trains collide injuring several",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/denmark-two-trains-collide-injuring-several/a-76904246?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Two trains have crashed into each other in Denmark, leaving several people injured, according to media reports...."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-standoff-at-hormuz-casts-shadow-over-iran-ceasefire-talks/live-76903459?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The prospects for renewed peace talks wavered after Iran seized two international vessels in the Strait of Hormuz. DW has the latest...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UK, France agree 3\u2011year deal to curb Channel crossings",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-france-agree-3\u2011year-deal-to-curb-channel-crossings/a-76903367?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "For the first time, the deal links some UK payments to France to performance in stopping migrants. Funding will be halted after one year if targets ar..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany's Merz: Climate protection must not hold economy back",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-merz-climate-protection-must-not-hold-economy-back/a-76903241?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "German Chancellor Friedrich Merz said the public would not accept climate policies that lead to deindustrialization, warning that they would hinder pr..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "School's out in Iran: No phone, no internet, no classes",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/school-s-out-in-iran-no-phone-no-internet-no-classes/a-76901420?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Iran's schools are closed because of the war. Classes are being held via TV programs and the national intranet. Children without a laptop or smartphon..."
     },
     {
         "source": "Leafly",
