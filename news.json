@@ -43,13 +43,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nvidia CEO Jensen Huang says you won\u2019t lose your job to AI\u2014you\u2019ll lose it to your coworker who uses it",
-        "image": "https://media.zenfs.com/en/fortune_175/f2f632584ffdd533c67ddbf6990ff2f0",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-jensen-huang-says-153235637.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Mother charged after teen on e-motorcycle accused of injuring veteran",
         "image": "https://media.zenfs.com/en/usa_today_news_641/2bd8f8e158bb8d5e6ea4872323d9dcac",
         "link": "https://www.yahoo.com/news/articles/mother-charged-teen-e-motorcycle-051838235.html",
@@ -57,17 +50,52 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kremlin says Putin can meet Zelenskiy only to agree final conflict arrangements",
-        "image": "https://media.zenfs.com/en/reuters.com/008910ebf9cd6d52e0d358db38470bf0",
-        "link": "https://www.yahoo.com/news/articles/kremlin-says-putin-meet-zelenskiy-190059247.html",
+        "title": "Nvidia CEO Jensen Huang says you won\u2019t lose your job to AI\u2014you\u2019ll lose it to your coworker who uses it",
+        "image": "https://media.zenfs.com/en/fortune_175/f2f632584ffdd533c67ddbf6990ff2f0",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-jensen-huang-says-153235637.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Researcher believes Noah's Ark found in Turkey after new underground scans",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/314a30db97fc28eb0957fd3ea3a16680",
-        "link": "https://www.yahoo.com/news/articles/researcher-believes-noahs-ark-found-150354257.html",
+        "title": "Islamic militants kill 11 people and burn homes in late night attack in Nigeria, local officials say",
+        "image": "https://media.zenfs.com/en/ap.org/520799e8bb1d037ccaad0cdc01d026fb",
+        "link": "https://www.yahoo.com/news/articles/islamic-militants-kill-11-people-220515554.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "How This Recycling Facility is Giving New Life to Old Tech",
+        "image": "https://media.zenfs.com/en/nbcu_713/3493b887184cebf5712279a11583c428",
+        "link": "https://www.yahoo.com/news/videos/recycling-facility-giving-life-old-115637460.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Natural molecule could provide Ozempic, Wegovy alternative",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/natural-molecule-could-provide-ozempic-wegovy-alternative/a-76916940?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Discovered using AI, a naturally occurring molecule appears to act directly in the brain\u2019s appetite center. Scientists hope it could refine treatments..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "German economy growth forecasts halved",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/german-economy-growth-forecasts-halved/a-76921673?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany's economy continues to falter under the shock of soaring energy prices. In the wake of the Iran war, the German economy minister has had to cu..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran talks should include nuclear experts: EU top diplomat",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-talks-should-include-nuclear-experts-eu-top-diplomat/a-76921103?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Kaja Kallas said failing to bring nuclear experts to the table in talks with Tehran could result in \"a more dangerous \u2060Iran.\" EU leaders meeting in Cy..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Nepal: Mount Everest ice block obstructs large group of spring climbers",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/nepal-mount-everest-ice-block-obstructs-large-group-of-spring-climbers/a-76920047?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A chunk of ice suspended above the Khumbu Icefall near Base Camp on Mount Everest means it's not safe either for climbers or the specialist \"icefall d..."
     },
     {
         "source": "Deutsche Welle",
@@ -75,34 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-news-record-turnout-in-bengal-tamil-nadu-polls/live-76919355?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "West Bengal and Tamil Nadu recorded the highest-ever voter turnout in state polls after controversial voter roll revision. DW has more...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Amid fuel crisis, a bold move to leave oil and gas behind",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/amid-fuel-crisis-a-bold-move-to-leave-oil-and-gas-behind/a-76891719?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "At an unprecedented meeting in Colombia, delegates from more than 50 countries want to chart a practical path to wean the world off fossil fuels. Can ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Thai opposition figures face trial over attempt to change royal defamation law",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/thai-opposition-figures-face-trial-over-attempt-to-change-royal-defamation-law/a-76919378?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Forty-four lawmakers could be banned from office for seeking to change Thailand's strict lese-majeste law, which criminalizes criticism of the monarch..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "China's DeepSeek launches preview of new AI model",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/china-s-deepseek-launches-preview-of-new-ai-model/a-76919223?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "DeepSeek, the startup behind a low-cost chatbot that sent shockwaves through the AI community last year, has released its highly anticipated V4 model...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Israel, Lebanon to extend ceasefire as US-Iran talks stall",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/israel-lebanon-to-extend-ceasefire-as-us-iran-talks-stall/live-76918799?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The announcement came after a rare meeting between Israeli and Lebanese officials at the White House. Meanwhile, the Strait of Hormuz is still closed ..."
     },
     {
         "source": "Leafly",
