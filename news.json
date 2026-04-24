@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kremlin says Putin can meet Zelenskiy only to agree final conflict arrangements",
-        "image": "https://media.zenfs.com/en/reuters.com/008910ebf9cd6d52e0d358db38470bf0",
-        "link": "https://www.yahoo.com/news/articles/kremlin-says-putin-meet-zelenskiy-190059247.html",
+        "title": "DeSantis signs Florida law banning local DEI funding, says white men are 'disfavored'",
+        "image": "https://media.zenfs.com/en/ap.org/0bddde7f2fa556856e8c25516d9ab3aa",
+        "link": "https://www.yahoo.com/news/articles/desantis-signs-florida-law-banning-204733162.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Mother charged after teen on e-motorcycle accused of injuring veteran",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/2bd8f8e158bb8d5e6ea4872323d9dcac",
+        "link": "https://www.yahoo.com/news/articles/mother-charged-teen-e-motorcycle-051838235.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Kremlin says Putin can meet Zelenskiy only to agree final conflict arrangements",
+        "image": "https://media.zenfs.com/en/reuters.com/008910ebf9cd6d52e0d358db38470bf0",
+        "link": "https://www.yahoo.com/news/articles/kremlin-says-putin-meet-zelenskiy-190059247.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Researcher believes Noah's Ark found in Turkey after new underground scans",
         "image": "https://media.zenfs.com/en/fox_news_text_979/314a30db97fc28eb0957fd3ea3a16680",
         "link": "https://www.yahoo.com/news/articles/researcher-believes-noahs-ark-found-150354257.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Dutch are facing biggest security threat in decades, intelligence agency says",
-        "image": "https://media.zenfs.com/en/reuters.com/2f3bfa0bf66ca4224ba1eacb1460d577",
-        "link": "https://www.yahoo.com/news/articles/dutch-facing-biggest-security-threat-113209596.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "India news: Record turnout in Bengal, Tamil Nadu polls",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-record-turnout-in-bengal-tamil-nadu-polls/live-76919355?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "West Bengal and Tamil Nadu recorded the highest-ever voter turnout in state polls after controversial voter roll revision. DW has more...."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ships seized by Iranians 'armed to the teeth' along Strait of Hormuz have been taken toward port: report",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/212068aeaeb7e3d31a428acfccc7cdf8",
-        "link": "https://www.yahoo.com/news/articles/ships-seized-iranians-armed-teeth-174745988.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Amid fuel crisis, a bold move to leave oil and gas behind",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/amid-fuel-crisis-a-bold-move-to-leave-oil-and-gas-behind/a-76891719?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "At an unprecedented meeting in Colombia, delegates from more than 50 countries want to chart a practical path to wean the world off fossil fuels. Can ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Thai opposition figures face trial over attempt to change royal defamation law",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/thai-opposition-figures-face-trial-over-attempt-to-change-royal-defamation-law/a-76919378?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Forty-four lawmakers could be banned from office for seeking to change Thailand's strict lese-majeste law, which criminalizes criticism of the monarch..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/israel-lebanon-to-extend-ceasefire-as-us-iran-talks-stall/live-76918799?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The announcement came after a rare meeting between Israeli and Lebanese officials at the White House. Meanwhile, the Strait of Hormuz is still closed ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Meta, Microsoft purge jobs amid AI build-up",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/meta-microsoft-purge-jobs-amid-ai-build-up/a-76918848?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Facebook's parent company said it would slash 10% of its workforce, while Microsoft is offering an early retirement scheme. The cuts come as both tech..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US soldier allegedly made $400k on Polymarket betting on Maduro raid",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-soldier-allegedly-made-400k-on-polymarket-betting-on-maduro-raid/a-76918858?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Prosecutors say the soldier used classified information of the Maduro operation to place winning bets on Polymarket. The case comes amid other inciden..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "ICC says Philippines' Duterte can stand trial over war on drugs",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/icc-says-philippines-duterte-can-stand-trial-over-war-on-drugs/a-76918608?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The ICC has said there is enough evidence linking former Philippines president Rodrigo Duterte to crimes against humanity over his role in orchestrati..."
     },
     {
         "source": "Leafly",
