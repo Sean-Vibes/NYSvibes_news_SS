@@ -36,16 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Water to surge into drought-depleted Lake Powell but at costs elsewhere",
-        "image": "https://media.zenfs.com/en/ap.org/cb9a535deaa7b9096e63fa6d1a693101",
-        "link": "https://www.yahoo.com/news/articles/water-surge-drought-depleted-lake-191319159.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "mRNA vaccine shedding new light on cancer treatments",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/681648390099e67a68e2661308ca77f1",
-        "link": "https://www.yahoo.com/news/articles/mrna-vaccine-shedding-light-cancer-042522314.html",
+        "title": "Kremlin says Putin can meet Zelenskiy only to agree final conflict arrangements",
+        "image": "https://media.zenfs.com/en/reuters.com/008910ebf9cd6d52e0d358db38470bf0",
+        "link": "https://www.yahoo.com/news/articles/kremlin-says-putin-meet-zelenskiy-190059247.html",
         "summary": "..."
     },
     {
@@ -57,17 +50,52 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China, India place strategic bets on clean energy out of favour in the West",
-        "image": "https://media.zenfs.com/en/reuters.com/15da8c89edf624fd88e9206479ff1ece",
-        "link": "https://finance.yahoo.com/news/china-india-place-strategic-bets-050258556.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Researcher believes Noah's Ark found in Turkey after new underground scans",
         "image": "https://media.zenfs.com/en/fox_news_text_979/314a30db97fc28eb0957fd3ea3a16680",
         "link": "https://www.yahoo.com/news/articles/researcher-believes-noahs-ark-found-150354257.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Dutch are facing biggest security threat in decades, intelligence agency says",
+        "image": "https://media.zenfs.com/en/reuters.com/2f3bfa0bf66ca4224ba1eacb1460d577",
+        "link": "https://www.yahoo.com/news/articles/dutch-facing-biggest-security-threat-113209596.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Ships seized by Iranians 'armed to the teeth' along Strait of Hormuz have been taken toward port: report",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/212068aeaeb7e3d31a428acfccc7cdf8",
+        "link": "https://www.yahoo.com/news/articles/ships-seized-iranians-armed-teeth-174745988.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "China's DeepSeek launches preview of new AI model",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/china-s-deepseek-launches-preview-of-new-ai-model/a-76919223?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "DeepSeek, the startup behind a low-cost chatbot that sent shockwaves through the AI community last year, has released its highly anticipated V4 model...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Israel, Lebanon to extend ceasefire as US-Iran talks stall",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/israel-lebanon-to-extend-ceasefire-as-us-iran-talks-stall/live-76918799?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The announcement came after a rare meeting between Israeli and Lebanese officials at the White House. Meanwhile, the Strait of Hormuz is still closed ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Meta, Microsoft purge jobs amid AI build-up",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/meta-microsoft-purge-jobs-amid-ai-build-up/a-76918848?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Facebook's parent company said it would slash 10% of its workforce, while Microsoft is offering an early retirement scheme. The cuts come as both tech..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US soldier allegedly made $400k on Polymarket betting on Maduro raid",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-soldier-allegedly-made-400k-on-polymarket-betting-on-maduro-raid/a-76918858?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Prosecutors say the soldier used classified information of the Maduro operation to place winning bets on Polymarket. The case comes amid other inciden..."
     },
     {
         "source": "Deutsche Welle",
@@ -75,34 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/icc-says-philippines-duterte-can-stand-trial-over-war-on-drugs/a-76918608?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The ICC has said there is enough evidence linking former Philippines president Rodrigo Duterte to crimes against humanity over his role in orchestrati..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump says Israel-Lebanon ceasefire extended by three weeks",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-says-israel-lebanon-ceasefire-extended-by-three-weeks/live-76903459?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Donald Trump's remarks follow a meeting at the White House with high-ranking officials from Israel and Lebanon. The extension comes after Israel struc..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Warner Bros shareholders greenlight sale to Paramount",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/warner-bros-shareholders-greenlight-sale-to-paramount/a-76917707?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The deal would combine two major Hollywood studios and bring CBS and CNN under one roof, tightening an already concentrated media landscape, critics s..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "What is Europe's plan to secure the Strait of Hormuz?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/what-is-europe-s-plan-to-secure-the-strait-of-hormuz/a-76911137?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "France and the UK are leading efforts to establish a multinational mission to safeguard shipping through the Strait of Hormuz. Questions remain about ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ceasefire extended: What's next in the Iran war?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ceasefire-extended-what-s-next-in-the-iran-war/a-76916900?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "With no fixed ceasefire deadline for now, the US and Iran are looking for ways to safeguard their own interests. DW takes a look at the main sticking ..."
     },
     {
         "source": "Leafly",
