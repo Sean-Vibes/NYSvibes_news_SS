@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Trump talks benefits of medical cannabis after rescheduling announcement (Newsletter: April 24, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/trump-talks-benefits-of-medical-cannabis-after-rescheduling-announcement-newsletter-april-24-2026/",
+        "summary": "<p>Marijuana gun rights case not impacted by rescheduling, DOJ says; Federal hemp amendments; Senate psychedelics hearing; TN medical cannabis push......"
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Trump Pushes Congress To Keep Full-Spectrum CBD Legal While Restricting Hemp Products That Pose \u2018Health Risks\u2019",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/trump-pushes-congress-to-keep-full-spectrum-cbd-legal-while-restricting-hemp-products-that-pose-health-risks/",
@@ -28,17 +35,10 @@
         "summary": "<p>The Trump administration\u2019s announcement that it is moving ahead with the federal reclassification of marijuana on Thursday is generating headlines...."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Tennessee Lawmaker Calls For Special Session Focused On Medical Marijuana As It\u2019s Federally Reclassified Under Trump",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/tennessee-lawmaker-calls-for-special-session-focused-on-medical-marijuana-as-its-federally-reclassified-under-trump/",
-        "summary": "<p>A Tennessee lawmaker is calling on the governor and legislative leaders to convene a special session focused on legalizing medical... <a class=\"sma..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "DeSantis signs Florida law banning local DEI funding, says white men are 'disfavored'",
-        "image": "https://media.zenfs.com/en/ap.org/0bddde7f2fa556856e8c25516d9ab3aa",
-        "link": "https://www.yahoo.com/news/articles/desantis-signs-florida-law-banning-204733162.html",
+        "title": "Water to surge into drought-depleted Lake Powell but at costs elsewhere",
+        "image": "https://media.zenfs.com/en/ap.org/cb9a535deaa7b9096e63fa6d1a693101",
+        "link": "https://www.yahoo.com/news/articles/water-surge-drought-depleted-lake-191319159.html",
         "summary": "..."
     },
     {
@@ -57,24 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Islamic militants kill 11 people and burn homes in late night attack in Nigeria, local officials say",
-        "image": "https://media.zenfs.com/en/ap.org/520799e8bb1d037ccaad0cdc01d026fb",
-        "link": "https://www.yahoo.com/news/articles/islamic-militants-kill-11-people-220515554.html",
+        "title": "Canada's prime minister says the US does not get to dictate terms for a trade agreement",
+        "image": "https://media.zenfs.com/en/ap.org/6993cc08350be7e5815fdee329dcf5cc",
+        "link": "https://www.yahoo.com/news/articles/canadas-prime-minister-says-us-212614183.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "How This Recycling Facility is Giving New Life to Old Tech",
-        "image": "https://media.zenfs.com/en/nbcu_713/3493b887184cebf5712279a11583c428",
-        "link": "https://www.yahoo.com/news/videos/recycling-facility-giving-life-old-115637460.html",
+        "title": "Ships seized by Iranians 'armed to the teeth' along Strait of Hormuz have been taken toward port: report",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/212068aeaeb7e3d31a428acfccc7cdf8",
+        "link": "https://www.yahoo.com/news/articles/ships-seized-iranians-armed-teeth-174745988.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Lawmakers vote to lower fuel tax amid high gas prices",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-lawmakers-vote-to-lower-fuel-tax-amid-high-gas-prices/live-76921522?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "People in Germany could see gas prices fall next week after lawmakers approved a bill to lower the fuel tax by \u20ac0.17 per liter. Follow DW for these st..."
     },
     {
         "source": "Deutsche Welle",
         "title": "Natural molecule could provide Ozempic, Wegovy alternative",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/natural-molecule-could-provide-ozempic-wegovy-alternative/a-76916940?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Discovered using AI, a naturally occurring molecule appears to act directly in the brain\u2019s appetite center. Scientists hope it could refine treatments..."
+        "summary": "Discovered using AI, a naturally occurring molecule appears to act directly in the brain's appetite center. Scientists hope it could refine treatments..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/nepal-mount-everest-ice-block-obstructs-large-group-of-spring-climbers/a-76920047?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A chunk of ice suspended above the Khumbu Icefall near Base Camp on Mount Everest means it's not safe either for climbers or the specialist \"icefall d..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: Record turnout in Bengal, Tamil Nadu polls",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-record-turnout-in-bengal-tamil-nadu-polls/live-76919355?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "West Bengal and Tamil Nadu recorded the highest-ever voter turnout in state polls after controversial voter roll revision. DW has more...."
     },
     {
         "source": "Leafly",
