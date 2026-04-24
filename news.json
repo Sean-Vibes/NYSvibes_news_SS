@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mysterious golden orb discovered on the ocean floor near Alaska is identified over 2 years later",
-        "image": "https://s.yimg.com/uu/api/res/1.2/67lluLasQYvQUE3D9tgYuA--~B/aD05MTI7dz0xNjIwO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/xlorb-hires_0364.jpg",
-        "link": "https://www.yahoo.com/news/science/article/mysterious-golden-orb-discovered-on-the-ocean-floor-near-alaska-is-identified-over-2-years-later-181650641.html",
+        "title": "At Beijing auto show, Chinese carmakers flaunt new technologies as global competition heats up",
+        "image": "https://media.zenfs.com/en/ap.org/80c1a3bdae3cb27f23ef2c2f5e26635b",
+        "link": "https://autos.yahoo.com/auto-shows/articles/beijing-auto-show-chinese-carmakers-115357403.html",
         "summary": "..."
     },
     {
@@ -81,7 +81,7 @@
         "title": "Iran war: Second attempt at peace talks takes shape",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-second-attempt-at-peace-talks-takes-shape/live-76918799?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Steve Witkoff and Jared Kushner are set to depart for Islamabad on Saturday with the intention of talks with Iran, the White House said. Iran's Foreig..."
+        "summary": "US officials Steve Witkoff and Jared Kushner are set to depart for Islamabad on Saturday with the intention of talks with Iran, the White House said. ..."
     },
     {
         "source": "Deutsche Welle",
@@ -103,6 +103,13 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/the-silent-power-of-memes/a-76927503?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "They are funny, provocative and sometimes tasteless. But memes are also powerful political tool, shaping our perception \u2014 usually without us noticing...."
+    },
+    {
+        "source": "Leafly",
+        "title": "Department of Justice makes good on Trump\u2019s rescheduling order",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.leafly.com/news/politics/department-of-justice-makes-good-on-trumps-rescheduling-order",
+        "summary": "<p>The Acting Attorney General is getting the ball rolling on the rescheduling of cannabis from Schedule 1 to Schedule 3, earning praise from the cann..."
     },
     {
         "source": "Leafly",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.leafly.com/news/lifestyle/support-the-last-prisoner-project",
         "summary": "<p>Make a donation to Last Prisoner Project this 420 to help support cannabis criminal justice reform.</p>\n<p>The post <a href=\"https://www.leafly.com..."
-    },
-    {
-        "source": "Leafly",
-        "title": "PurLife is offering big bags and big deals this 420",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.leafly.com/news/strains-products/purlife-is-offering-big-bags-and-big-deals-this-420",
-        "summary": "<p>Happy 420, New Mexico! PurLife is pulling out all the stops to make this year&#8217;s celebration super. They&#8217;re offering big deals, big bags..."
     }
 ]
