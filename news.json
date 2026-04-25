@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Top general shares new details on how a US destroyer shot out the engine of an Iran blockade runner",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/67ae7e95734b36804311a1bdcd242a3e",
+        "link": "https://www.yahoo.com/news/articles/top-general-shares-details-us-141345376.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Dutch are facing biggest security threat in decades, intelligence agency says",
+        "image": "https://media.zenfs.com/en/reuters.com/2f3bfa0bf66ca4224ba1eacb1460d577",
+        "link": "https://www.yahoo.com/news/articles/dutch-facing-biggest-security-threat-113209596.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Satellite images reveal that Russia built out a base for a new generation of jet-powered drones",
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/297f78ce6c44b2985b39bc1a445eebad",
         "link": "https://www.yahoo.com/news/articles/satellite-images-reveal-russia-built-130101000.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Firefighter heard \u2018stop, stop\u2019 before LaGuardia jet crash, but didn\u2019t know who it was for, NTSB says",
-        "image": "https://media.zenfs.com/en/ap.org/a9306c3a507c3e0a60ab91fa923cf2cd",
-        "link": "https://www.yahoo.com/news/articles/laguardia-firefighter-heard-stop-stop-184239145.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Top general shares new details on how a US destroyer shot out the engine of an Iran blockade runner",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/67ae7e95734b36804311a1bdcd242a3e",
-        "link": "https://www.yahoo.com/news/articles/top-general-shares-details-us-141345376.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Palestinians vote in municipal elections in Gaza, West Bank",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/palestinians-vote-in-municipal-elections-in-gaza-west-bank/a-76930149?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Palestinians are going to the polls in the occupied West Bank and a part of Gaza in a first vote since the Gaza war...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/who-approves-first-malaria-drug-for-babies/a-76929581?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Children under five account for more than two-thirds of malaria deaths. A new drug offers hope for this vulnerable group...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US: Justice Department drops investigation into Fed Chair Powell",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-justice-department-drops-investigation-into-fed-chair-powell/a-76929212?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The closing of the investigation into Federal Reserve Chair Jerome Powell removes an obstacle to the appointment of Kevin Warsh, US President Donald T..."
     },
     {
         "source": "Leafly",
