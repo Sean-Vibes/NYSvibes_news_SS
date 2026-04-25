@@ -43,16 +43,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hakeem Jeffries left scrambling after child reporter asks why voters view Democrats so negatively",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/5f91e3252b4a99558525b12bf972264b",
-        "link": "https://www.yahoo.com/news/articles/hakeem-jeffries-left-scrambling-child-211849280.html",
+        "title": "U.S. oil producers aren\u2019t coming to the rescue despite high prices as mistrust and chaos hit outlook. The \u2018market is being manipulated\u2019",
+        "image": "https://media.zenfs.com/en/fortune_175/42116c0a1a34a84c764fb88028d4fdcc",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/u-oil-producers-aren-t-173306250.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Top general shares new details on how a US destroyer shot out the engine of an Iran blockade runner",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/67ae7e95734b36804311a1bdcd242a3e",
-        "link": "https://www.yahoo.com/news/articles/top-general-shares-details-us-141345376.html",
+        "title": "Hakeem Jeffries left scrambling after child reporter asks why voters view Democrats so negatively",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/5f91e3252b4a99558525b12bf972264b",
+        "link": "https://www.yahoo.com/news/articles/hakeem-jeffries-left-scrambling-child-211849280.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Satellite images reveal that Russia built out a base for a new generation of jet-powered drones",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/297f78ce6c44b2985b39bc1a445eebad",
-        "link": "https://www.yahoo.com/news/articles/satellite-images-reveal-russia-built-130101000.html",
+        "title": "Top general shares new details on how a US destroyer shot out the engine of an Iran blockade runner",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/67ae7e95734b36804311a1bdcd242a3e",
+        "link": "https://www.yahoo.com/news/articles/top-general-shares-details-us-141345376.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Mexico says alleged CIA agents 'not authorized' to operate on its soil",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/mexico-says-alleged-cia-agents-not-authorized-to-operate-on-its-soil/a-76937822?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Two US citizens believed to be CIA agents were killed in a car accident following an anti-drug trafficking operation. Mexico says they entered the cou..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/mali-explosions-gunfire-rock-main-military-camp-near-capital/a-76931743?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Mali's army said unidentified \"terrorist\" groups had attacked several positions in the capital and elsewhere in the country...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Japan: Raging wildfires cause mass evacuations",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/japan-raging-wildfires-cause-mass-evacuations/a-76930771?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "More than 1,000 firefighters are battling two blazes in northern Japan, with some 3,000 people urged to leave their homes. The fires come as the count..."
     },
     {
         "source": "Leafly",
