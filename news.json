@@ -43,9 +43,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "US embassy in London warns to 'exercise increased caution' near Jewish sites in UK, Europe after attacks",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/656d8085281d1f9f53f2da2c445b4b7b",
+        "link": "https://www.yahoo.com/news/articles/us-embassy-london-warns-exercise-061734330.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Hakeem Jeffries left scrambling after child reporter asks why voters view Democrats so negatively",
         "image": "https://media.zenfs.com/en/fox_news_text_979/5f91e3252b4a99558525b12bf972264b",
         "link": "https://www.yahoo.com/news/articles/hakeem-jeffries-left-scrambling-child-211849280.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Mysterious golden orb discovered on the ocean floor near Alaska is identified over 2 years later",
+        "image": "https://s.yimg.com/uu/api/res/1.2/67lluLasQYvQUE3D9tgYuA--~B/aD05MTI7dz0xNjIwO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/xlorb-hires_0364.jpg",
+        "link": "https://www.yahoo.com/news/science/article/mysterious-golden-orb-discovered-on-the-ocean-floor-near-alaska-is-identified-over-2-years-later-181650641.html",
         "summary": "..."
     },
     {
@@ -56,18 +70,11 @@
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "At Beijing auto show, Chinese carmakers flaunt new technologies as global competition heats up",
-        "image": "https://media.zenfs.com/en/ap.org/80c1a3bdae3cb27f23ef2c2f5e26635b",
-        "link": "https://autos.yahoo.com/auto-shows/articles/beijing-auto-show-chinese-carmakers-115357403.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Top general shares new details on how a US destroyer shot out the engine of an Iran blockade runner",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/67ae7e95734b36804311a1bdcd242a3e",
-        "link": "https://www.yahoo.com/news/articles/top-general-shares-details-us-141345376.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Palestinians vote in municipal elections in Gaza, West Bank",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/palestinians-vote-in-municipal-elections-in-gaza-west-bank/a-76930149?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Palestinians headed to the polls in the occupied West Bank and a part of Gaza in a first vote since the Gaza war...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/tunisia-suspends-rights-group-amid-widening-repression/a-76931737?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Tunisian authorities have ordered one of Africa's oldest rights groups to cease its activities for a month. The move comes as critics say the country ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Mali: Explosions, gunfire rock main military camp near capital",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/mali-explosions-gunfire-rock-main-military-camp-near-capital/a-76931743?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Mali's army said unidentified \"terrorist\" groups had attacked several positions in the capital and elsewhere in the country...."
     },
     {
         "source": "Leafly",
