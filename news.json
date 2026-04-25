@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mysterious golden orb discovered on the ocean floor near Alaska is identified over 2 years later",
-        "image": "https://s.yimg.com/uu/api/res/1.2/67lluLasQYvQUE3D9tgYuA--~B/aD05MTI7dz0xNjIwO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/xlorb-hires_0364.jpg",
-        "link": "https://www.yahoo.com/news/science/article/mysterious-golden-orb-discovered-on-the-ocean-floor-near-alaska-is-identified-over-2-years-later-181650641.html",
+        "title": "Trump administration to re-terminate legal status of migrants who used Biden-era app",
+        "image": "https://media.zenfs.com/en/reuters.com/32085adc502bb44aa91c7772afbd7831",
+        "link": "https://www.yahoo.com/news/articles/trump-administration-terminate-legal-status-183331987.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Satellite images reveal that Russia built out a base for a new generation of jet-powered drones",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/297f78ce6c44b2985b39bc1a445eebad",
-        "link": "https://www.yahoo.com/news/articles/satellite-images-reveal-russia-built-130101000.html",
+        "title": "Ships seized by Iranians 'armed to the teeth' along Strait of Hormuz have been taken toward port: report",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/212068aeaeb7e3d31a428acfccc7cdf8",
+        "link": "https://www.yahoo.com/news/articles/ships-seized-iranians-armed-teeth-174745988.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Mali: Explosions, gunfire rock main military camp near capital",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/mali-explosions-gunfire-rock-main-military-camp-near-capital/a-76931743?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The cause of the explosions and gunfire near Mali's main military base is still unclear, as no group has taken responsibility yet...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Japan: Raging wildfires cause mass evacuations",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/japan-raging-wildfires-cause-mass-evacuations/a-76930771?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "More than 1,000 firefighters are battling two blazes in northern Japan, with some 3,000 people urged to leave their homes. The fires come as the count..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Raghav Chadha, 6 other AAP MPs join BJP",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-raghav-chadha-6-other-aap-mps-join-bjp/live-76930748?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The exit of seven Aam Aadmi Party MPs has dented the party's strength in the upper house of parliament, sparking fears of political instability. DW ha..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Ships to head to Med for possible Hormuz role",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-ships-to-head-to-med-for-possible-hormuz-role/live-76930770?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "German Defense Minister Pistorius has said German naval ships will deploy to the Mediterranean. Berlin has pledged support in the Strait of Hormuz, po..."
     },
     {
         "source": "Deutsche Welle",
@@ -75,34 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/palestinians-vote-in-municipal-elections-in-gaza-west-bank/a-76930149?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Palestinians are going to the polls in the occupied West Bank and a part of Gaza in a first vote since the Gaza war...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Colombia, Venezuela hold  key talks in post-Maduro visit",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/colombia-venezuela-hold-key-talks-in-post-maduro-visit/a-76930133?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Colombia and Venezuela announced military cooperation to combat border \"mafias\" during President Gustavo Petro's visit to Caracas. Petro is the first ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "OpenAI apologizes for not reporting Canada mass shooter",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/openai-apologizes-for-not-reporting-canada-mass-shooter/a-76929817?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "British Colombia Premier David Eby said at the time that OpenAI had the opportunity to prevent the mass shooting...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: No direct talks in Islamabad expected",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-no-direct-talks-in-islamabad-expected/live-76929720?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Iran's foreign ministry has ruled out direct talks as US envoys are due to arrive in Pakistan amid hopes for progress on a ceasefire deal. More on DW...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "WHO approves first Malaria drug for babies",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/who-approves-first-malaria-drug-for-babies/a-76929581?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Children under five account for more than two-thirds of malaria deaths. A new drug offers hope for this vulnerable group...."
     },
     {
         "source": "Leafly",
