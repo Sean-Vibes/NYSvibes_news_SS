@@ -36,23 +36,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump administration to re-terminate legal status of migrants who used Biden-era app",
-        "image": "https://media.zenfs.com/en/reuters.com/32085adc502bb44aa91c7772afbd7831",
-        "link": "https://www.yahoo.com/news/articles/trump-administration-terminate-legal-status-183331987.html",
+        "title": "Mississippi will reexamine judicial redistricts after US Supreme Court rules in voting rights case",
+        "image": "https://media.zenfs.com/en/ap.org/6842faf02e1fb0a39b840b2883e2e85c",
+        "link": "https://www.yahoo.com/news/articles/mississippi-reexamine-judicial-redistricts-us-002019869.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Target is ordering more of its remote workers to relocate to its Minneapolis HQ",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/84d3984ca95808bb11f1e0bc559be8f4",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/target-ordering-more-remote-workers-221059365.html",
+        "title": "Mega Millions $150M jackpot. See winning numbers for April 24 drawing",
+        "image": "https://media.zenfs.com/en/usa_today_money_325/090ebffac861b94744dcac11dfae1a19",
+        "link": "https://www.yahoo.com/news/articles/mega-millions-150m-jackpot-see-015209241.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Satellite images reveal that Russia built out a base for a new generation of jet-powered drones",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/297f78ce6c44b2985b39bc1a445eebad",
-        "link": "https://www.yahoo.com/news/articles/satellite-images-reveal-russia-built-130101000.html",
+        "title": "Hakeem Jeffries left scrambling after child reporter asks why voters view Democrats so negatively",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/5f91e3252b4a99558525b12bf972264b",
+        "link": "https://www.yahoo.com/news/articles/hakeem-jeffries-left-scrambling-child-211849280.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ships seized by Iranians 'armed to the teeth' along Strait of Hormuz have been taken toward port: report",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/212068aeaeb7e3d31a428acfccc7cdf8",
-        "link": "https://www.yahoo.com/news/articles/ships-seized-iranians-armed-teeth-174745988.html",
+        "title": "Spirit Airlines Nears Bankruptcy Bailout From Trump Administration",
+        "image": "https://media.zenfs.com/en/nbcu_713/9446f90cadfd6eae1a1854c5fd537e44",
+        "link": "https://www.yahoo.com/news/videos/spirit-airlines-nears-bankruptcy-bailout-115249898.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "OpenAI apologizes for not reporting Canada mass shooter",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/openai-apologizes-for-not-reporting-canada-mass-shooter/a-76929817?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "British Colombia Premier David Eby said at the time that OpenAI had the opportunity to prevent the mass shooting...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: No direct talks in Islamabad expected",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-no-direct-talks-in-islamabad-expected/live-76929720?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran's foreign ministry has ruled out direct talks as US envoys are due to arrive in Pakistan amid hopes for progress on a ceasefire deal. More on DW...."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-second-attempt-at-peace-talks-takes-shape/live-76918799?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "US officials Steve Witkoff and Jared Kushner are set to depart for Islamabad on Saturday with the intention of talks with Iran, the White House said. ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine: Zelenskyy visits Saudi Arabia, Putin weighs G20 attendance",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-zelenskyy-visits-saudi-arabia-putin-weighs-g20-attendance/a-76928614?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russian President Putin \"may or not may not\" attend the G20 in Miami in December, says the Kremlin. Meanwhile, after securing an EU loan, Ukrainian Pr..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Is the far-right AfD misusing its parliamentary questions?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/is-the-far-right-afd-misusing-its-parliamentary-questions/a-76924310?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Alternative for Germany (AfD) has submitted thousands of official questions in state parliaments \u2014 a right of any elected party. But critics argue..."
     },
     {
         "source": "Leafly",
