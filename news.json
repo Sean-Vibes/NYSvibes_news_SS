@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Wisconsin Democratic Candidates For Governor Call For Marijuana Legalization",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/wisconsin-democratic-candidates-for-governor-call-for-marijuana-legalization/",
+        "summary": "<p>\u201cWisconsin is falling behind. Legalizing marijuana is about fairness, growth, and common sense.\u201d By Benjamin Yount, The Center Square There... <a c..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Pennsylvania Governor Says Trump\u2019s Marijuana Rescheduling Move Is An \u2018Important Step\u2019 That Helps The Push To Legalize In The State",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/pennsylvania-governor-says-trumps-marijuana-rescheduling-move-is-an-important-step-that-helps-the-push-to-legalize-in-the-state/",
@@ -28,34 +35,6 @@
         "summary": "<p>Federal health officials are taking steps that they say will help with \u201caccelerating\u201d therapeutic access to psychedelics for patients dealing... <a..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Trump talks benefits of medical cannabis after rescheduling announcement (Newsletter: April 24, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/trump-talks-benefits-of-medical-cannabis-after-rescheduling-announcement-newsletter-april-24-2026/",
-        "summary": "<p>Marijuana gun rights case not impacted by rescheduling, DOJ says; Federal hemp amendments; Senate psychedelics hearing; TN medical cannabis push......"
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump administration to re-terminate legal status of migrants who used Biden-era app",
-        "image": "https://media.zenfs.com/en/reuters.com/32085adc502bb44aa91c7772afbd7831",
-        "link": "https://www.yahoo.com/news/articles/trump-administration-terminate-legal-status-183331987.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Factbox-Airlines cancel flights amid Middle East conflict",
-        "image": "https://media.zenfs.com/en/reuters.com/d3f56ed79eace3ea2a8535131c4d02b9",
-        "link": "https://finance.yahoo.com/news/factbox-airlines-cancel-flights-us-123532820.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hakeem Jeffries left scrambling after child reporter asks why voters view Democrats so negatively",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/5f91e3252b4a99558525b12bf972264b",
-        "link": "https://www.yahoo.com/news/articles/hakeem-jeffries-left-scrambling-child-211849280.html",
-        "summary": "..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "What's all the buzz about? Melania Trump is growing the White House honey program with a new beehive",
         "image": "https://media.zenfs.com/en/ap.org/9dba5987f77997938ce2bd902db33167",
@@ -70,6 +49,48 @@
         "summary": "..."
     },
     {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Hakeem Jeffries left scrambling after child reporter asks why voters view Democrats so negatively",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/5f91e3252b4a99558525b12bf972264b",
+        "link": "https://www.yahoo.com/news/articles/hakeem-jeffries-left-scrambling-child-211849280.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Afghanistan calls on Afghans who helped US in war and are now stuck in Qatar to return home",
+        "image": "https://media.zenfs.com/en/ap.org/caf7144086d0cc6cace49b5179a574b1",
+        "link": "https://www.yahoo.com/news/articles/afghanistan-calls-afghans-helped-us-083842422.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Suspect who fled US arrested in caught-on-camera killing of 15-year-old in NYC park",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/a2bdaee693094f382e4ed9e85d1e2bfd",
+        "link": "https://www.yahoo.com/news/articles/suspect-fled-us-arrested-connection-165200661.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Syria: First trial of Assad-era officials opens in Damascus",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/syria-first-trial-of-assad-era-officials-opens-in-damascus/a-76944735?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A court in Damascus is trying one official in former President Bashar Assad's government in person, and several more in absentia. Assad and his brothe..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "White House gunman was targeting Trump team, says official",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/white-house-gunman-was-targeting-trump-team-says-official/live-76938867?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The suspect in the attempted attack at the White House Correspondents' dinner is believed to have been targeting members of the Trump administration. ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Is Germany's pension system still secure?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/is-germany-s-pension-system-still-secure/a-76925722?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Chancellor Friedrich Merz has sparked controversy by describing Germany's state pension as no more than \"basic cover.\" What did he mean by that? And h..."
+    },
+    {
         "source": "Deutsche Welle",
         "title": "Germany news: S\u00f6der calls for compulsory military service",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/sawe-smashes-2-hour-mark-setting-record-at-london-marathon/a-76943171?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Kenya's Sabastian Sawe has made history in London as the first man to run a marathon in under two hours. He beat the world record by more than a minut..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Mali: Fighting continues as Tuareg separatists claim Kidal",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/mali-fighting-continues-as-tuareg-separatists-claim-kidal/a-76942012?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A spate of attacks was coordinated by Tuareg separatists and jihadis with links to al-Qaeda. Among them, a car bomb in Bamako killed Mali's defense mi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Queer as folk: The gay scandal that shook the German Empire",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/queer-as-folk-the-gay-scandal-that-shook-the-german-empire/a-76940939?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany's last emperor, a gilded porcelain vase and a general who had a heart attack in a pink tutu: The Eulenburg Affair shook the German Empire to i..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: Modi targets TMC in Bengal rally",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-modi-targets-tmc-in-bengal-rally/live-76939808?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "PM Modi addressed rallies in West Bengal, taking jibes at the opposition party TMC ahead of the second phase of the state poll. Meanwhile, fresh clash..."
     },
     {
         "source": "Leafly",
