@@ -57,17 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "At Beijing auto show, Chinese carmakers flaunt new technologies as global competition heats up",
-        "image": "https://media.zenfs.com/en/ap.org/80c1a3bdae3cb27f23ef2c2f5e26635b",
-        "link": "https://autos.yahoo.com/auto-shows/articles/beijing-auto-show-chinese-carmakers-115357403.html",
+        "title": "What's all the buzz about? Melania Trump is growing the White House honey program with a new beehive",
+        "image": "https://media.zenfs.com/en/ap.org/9dba5987f77997938ce2bd902db33167",
+        "link": "https://www.yahoo.com/news/articles/whats-buzz-melania-trump-growing-152426341.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Satellite images reveal that Russia built out a base for a new generation of jet-powered drones",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/297f78ce6c44b2985b39bc1a445eebad",
-        "link": "https://www.yahoo.com/news/articles/satellite-images-reveal-russia-built-130101000.html",
+        "title": "This is a \u2018come to Jesus moment\u2019: Ford CEO says American carmakers are battling a perfect storm",
+        "image": "https://media.zenfs.com/en/fortune_175/6261c08aadaa52ed0b3090bd360dd26e",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/come-jesus-moment-ford-ceo-193135589.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: S\u00f6der calls for compulsory military service",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-s\u00f6der-calls-for-compulsory-military-service/live-76930770?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Bavarian state premier has criticized the government's voluntary plan. Meanwhile, Chancellor Friedrich Merz condemned the shooting in Washington. ..."
     },
     {
         "source": "Deutsche Welle",
@@ -81,7 +88,7 @@
         "title": "Mali: Fighting continues as Tuareg separatists claim Kidal",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/mali-fighting-continues-as-tuareg-separatists-claim-kidal/a-76942012?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A spate of attacks was coordinated by Tuareg separatists and jihadis with links to al-Qaeda. It's the most serious fighting to rock the Sahel nation i..."
+        "summary": "A spate of attacks was coordinated by Tuareg separatists and jihadis with links to al-Qaeda. Among them, a car bomb in Bamako killed Mali's defense mi..."
     },
     {
         "source": "Deutsche Welle",
@@ -92,17 +99,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "India news: Modi wishes Trump safety after shooting incident",
+        "title": "India news: Modi targets TMC in Bengal rally",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-modi-wishes-trump-safety-after-shooting-incident/live-76939808?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Indian Prime Minister Narendra Modi condemned the shooting incident at the annual White House Correspondents' Dinner. Meanwhile, fresh clashes have er..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Is Germany's pension system still secure?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/is-germany-s-pension-system-still-secure/a-76925722?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Chancellor Friedrich Merz has sparked controversy by describing Germany's state pension as no more than \"basic cover.\" What did he mean by that? And h..."
+        "link": "https://www.dw.com/en/india-news-modi-targets-tmc-in-bengal-rally/live-76939808?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "PM Modi addressed rallies in West Bengal, taking jibes at the opposition party TMC ahead of the second phase of the state poll. Meanwhile, fresh clash..."
     },
     {
         "source": "Leafly",
