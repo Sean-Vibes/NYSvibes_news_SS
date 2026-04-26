@@ -43,16 +43,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "This CEO lived on canned soup and took just two days off for his daughter\u2019s birth. Now he admits he lost sight of proper work-life balance",
-        "image": "https://media.zenfs.com/en/fortune_175/5551178b14495cadd6a9a1e754d002cf",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/ceo-lived-canned-soup-took-080000920.html",
+        "title": "Elon Musk says saving for retirement is irrelevant because AI is going to create a world of abundance: \u2018It won\u2019t matter\u2019",
+        "image": "https://media.zenfs.com/en/fortune_175/2fd6e6e2434118a57d778480024fc890",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-saving-retirement-174705539.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Suspect who fled US arrested in caught-on-camera killing of 15-year-old in NYC park",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/a2bdaee693094f382e4ed9e85d1e2bfd",
-        "link": "https://www.yahoo.com/news/articles/suspect-fled-us-arrested-connection-165200661.html",
+        "title": "This CEO lived on canned soup and took just two days off for his daughter\u2019s birth. Now he admits he lost sight of proper work-life balance",
+        "image": "https://media.zenfs.com/en/fortune_175/5551178b14495cadd6a9a1e754d002cf",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/ceo-lived-canned-soup-took-080000920.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "I thought I'd retire from Intel. Then I got laid off in my 60s \u2014 and I'm still struggling to find a job.",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/49da291e67d959f6fde9e90cd2d98941",
-        "link": "https://www.yahoo.com/lifestyle/articles/thought-id-retire-intel-then-090701929.html",
+        "title": "Suspect who fled US arrested in caught-on-camera killing of 15-year-old in NYC park",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/a2bdaee693094f382e4ed9e85d1e2bfd",
+        "link": "https://www.yahoo.com/news/articles/suspect-fled-us-arrested-connection-165200661.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "SIPRI: Record arms spending, again",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/sipri-record-arms-spending-again/a-76901397?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Global military spending hit a record high in 2025. The Stockholm International Peace Research Institute (SIPRI) warns the trend is likely to continue..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/syria-first-trial-of-assad-era-officials-opens-in-damascus/a-76944735?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A court in Damascus is trying one official in former President Bashar Assad's government in person, and several more in absentia. Assad and his brothe..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Is Germany's pension system still secure?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/is-germany-s-pension-system-still-secure/a-76925722?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Chancellor Friedrich Merz has sparked controversy by describing Germany's state pension as no more than \"basic cover.\" What did he mean by that? And h..."
     },
     {
         "source": "Leafly",
