@@ -36,9 +36,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Afghanistan calls on Afghans who helped US in war and are now stuck in Qatar to return home",
-        "image": "https://media.zenfs.com/en/ap.org/caf7144086d0cc6cace49b5179a574b1",
-        "link": "https://www.yahoo.com/news/articles/afghanistan-calls-afghans-helped-us-083842422.html",
+        "title": "Trump administration to re-terminate legal status of migrants who used Biden-era app",
+        "image": "https://media.zenfs.com/en/reuters.com/32085adc502bb44aa91c7772afbd7831",
+        "link": "https://www.yahoo.com/news/articles/trump-administration-terminate-legal-status-183331987.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Suspect sent \"manifesto\" to family before dinner, source tells CBS News",
+        "image": "https://media.zenfs.com/en/cbs_news_897/561b11645267b9b69c1e24b6db830205",
+        "link": "https://www.yahoo.com/news/articles/suspect-sent-manifesto-family-dinner-150800967.html",
         "summary": "..."
     },
     {
@@ -50,13 +57,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hakeem Jeffries left scrambling after child reporter asks why voters view Democrats so negatively",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/5f91e3252b4a99558525b12bf972264b",
-        "link": "https://www.yahoo.com/news/articles/hakeem-jeffries-left-scrambling-child-211849280.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Mysterious golden orb discovered on the ocean floor near Alaska is identified over 2 years later",
         "image": "https://s.yimg.com/uu/api/res/1.2/67lluLasQYvQUE3D9tgYuA--~B/aD05MTI7dz0xNjIwO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/xlorb-hires_0364.jpg",
         "link": "https://www.yahoo.com/news/science/article/mysterious-golden-orb-discovered-on-the-ocean-floor-near-alaska-is-identified-over-2-years-later-181650641.html",
@@ -64,16 +64,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Preliminary investigation suggests WHCD shooter was targeting Trump admin, Acting AG Blanche says",
-        "image": "https://media.zenfs.com/en/nbcu_713/80898795766c3a08b8228570998c3437",
-        "link": "https://www.yahoo.com/news/videos/preliminary-investigation-suggests-whcd-shooter-125523331.html",
+        "title": "Hakeem Jeffries left scrambling after child reporter asks why voters view Democrats so negatively",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/5f91e3252b4a99558525b12bf972264b",
+        "link": "https://www.yahoo.com/news/articles/hakeem-jeffries-left-scrambling-child-211849280.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Gunman was likely targeting Trump and his team, says official",
+        "title": "Colombia highway bomb attack kills 19",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/gunman-was-likely-targeting-trump-and-his-team-says-official/live-76938867?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/colombia-highway-bomb-attack-kills-19/a-76939450?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Suspected guerillas carried out a deadly explosives attack on the Pan-American Highway in southwest Colombia. The region has been gripped by violence ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Gunman was likely targeting Trump team, says official",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/gunman-was-likely-targeting-trump-team-says-official/live-76938867?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The suspect in the attempted attack at the White House Correspondents' dinner is believed to have been targeting US President Donald Trump and members..."
     },
     {
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-s\u00f6der-calls-for-compulsory-military-service/live-76930770?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Bavarian state premier has criticized the government's voluntary plan. Meanwhile, Chancellor Friedrich Merz condemned the shooting in Washington. ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Sawe smashes 2-hour mark setting record at London Marathon",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/sawe-smashes-2-hour-mark-setting-record-at-london-marathon/a-76943171?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Kenya's Sabastian Sawe has made history in London as the first man to run a marathon in under two hours. He beat the world record by more than a minut..."
     },
     {
         "source": "Leafly",
