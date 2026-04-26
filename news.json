@@ -43,16 +43,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Suspect sent \"manifesto\" to family before dinner, source tells CBS News",
-        "image": "https://media.zenfs.com/en/cbs_news_897/561b11645267b9b69c1e24b6db830205",
-        "link": "https://www.yahoo.com/news/articles/suspect-sent-manifesto-family-dinner-150800967.html",
+        "title": "This is a \u2018come to Jesus moment\u2019: Ford CEO says American carmakers are battling a perfect storm",
+        "image": "https://media.zenfs.com/en/fortune_175/6261c08aadaa52ed0b3090bd360dd26e",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/come-jesus-moment-ford-ceo-193135589.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "This is a \u2018come to Jesus moment\u2019: Ford CEO says American carmakers are battling a perfect storm",
-        "image": "https://media.zenfs.com/en/fortune_175/6261c08aadaa52ed0b3090bd360dd26e",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/come-jesus-moment-ford-ceo-193135589.html",
+        "title": "Suspect sent \"manifesto\" to family before dinner, source tells CBS News",
+        "image": "https://media.zenfs.com/en/cbs_news_897/561b11645267b9b69c1e24b6db830205",
+        "link": "https://www.yahoo.com/news/articles/suspect-sent-manifesto-family-dinner-150800967.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hakeem Jeffries left scrambling after child reporter asks why voters view Democrats so negatively",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/5f91e3252b4a99558525b12bf972264b",
-        "link": "https://www.yahoo.com/news/articles/hakeem-jeffries-left-scrambling-child-211849280.html",
+        "title": "This CEO lived on canned soup and took just two days off for his daughter\u2019s birth. Now he admits he lost sight of proper work-life balance",
+        "image": "https://media.zenfs.com/en/fortune_175/5551178b14495cadd6a9a1e754d002cf",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/ceo-lived-canned-soup-took-080000920.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Russia, North Korea agree 'long-term' military cooperation",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/russia-north-korea-agree-long-term-military-cooperation/a-76945404?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Russia's defense minister and the chairman of the State Duma are both visiting North Korea. One helped inaugurate a memorial to North Korean soldiers ..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/is-germany-s-pension-system-still-secure/a-76925722?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Chancellor Friedrich Merz has sparked controversy by describing Germany's state pension as no more than \"basic cover.\" What did he mean by that? And h..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: S\u00f6der calls for compulsory military service",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-s\u00f6der-calls-for-compulsory-military-service/live-76930770?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Bavarian state premier has criticized the government's voluntary plan. Meanwhile, Chancellor Friedrich Merz condemned the shooting in Washington. ..."
     },
     {
         "source": "Leafly",
