@@ -36,16 +36,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "What's all the buzz about? Melania Trump is growing the White House honey program with a new beehive",
-        "image": "https://media.zenfs.com/en/ap.org/9dba5987f77997938ce2bd902db33167",
-        "link": "https://www.yahoo.com/news/articles/whats-buzz-melania-trump-growing-152426341.html",
+        "title": "At Beijing auto show, Chinese carmakers flaunt new technologies as global competition heats up",
+        "image": "https://media.zenfs.com/en/ap.org/80c1a3bdae3cb27f23ef2c2f5e26635b",
+        "link": "https://autos.yahoo.com/auto-shows/articles/beijing-auto-show-chinese-carmakers-115357403.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US embassy in London warns to 'exercise increased caution' near Jewish sites in UK, Europe after attacks",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/656d8085281d1f9f53f2da2c445b4b7b",
-        "link": "https://www.yahoo.com/news/articles/us-embassy-london-warns-exercise-061734330.html",
+        "title": "This is a \u2018come to Jesus moment\u2019: Ford CEO says American carmakers are battling a perfect storm",
+        "image": "https://media.zenfs.com/en/fortune_175/6261c08aadaa52ed0b3090bd360dd26e",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/come-jesus-moment-ford-ceo-193135589.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mysterious golden orb discovered on the ocean floor near Alaska is identified over 2 years later",
-        "image": "https://s.yimg.com/uu/api/res/1.2/67lluLasQYvQUE3D9tgYuA--~B/aD05MTI7dz0xNjIwO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/xlorb-hires_0364.jpg",
-        "link": "https://www.yahoo.com/news/science/article/mysterious-golden-orb-discovered-on-the-ocean-floor-near-alaska-is-identified-over-2-years-later-181650641.html",
+        "title": "Trump administration to re-terminate legal status of migrants who used Biden-era app",
+        "image": "https://media.zenfs.com/en/reuters.com/32085adc502bb44aa91c7772afbd7831",
+        "link": "https://www.yahoo.com/news/articles/trump-administration-terminate-legal-status-183331987.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,27 @@
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/297f78ce6c44b2985b39bc1a445eebad",
         "link": "https://www.yahoo.com/news/articles/satellite-images-reveal-russia-built-130101000.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Trump evacuated from White House Correspondents' Dinner",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-evacuated-from-white-house-correspondents-dinner/live-76938867?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "President Donald Trump was evacuated from the Washington Hilton hotel, where journalists and celebrities were gathered for the annual White House Corr..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Trump cancels envoys' trip to Islamabad",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-trump-cancels-envoys-trip-to-islamabad/live-76929720?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Donald Trump said that he didn't want US officials to \"sit around talking about nothing\" in Islamabad. It comes after Iran said that there would be no..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "40 years after Chernobyl: Pripyat today",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/40-years-after-chernobyl-pripyat-today/a-76925905?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After the catastrophic accident in the nearby nuclear reactor, the city of Pripyat had to be completely evacuated. Some 50,000 people left their homes..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/mexico-says-alleged-cia-agents-not-authorized-to-operate-on-its-soil/a-76937822?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Two US citizens believed to be CIA agents were killed in a car accident following an anti-drug trafficking operation. Mexico says they entered the cou..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UK-US ties tested: Britain courts Trump with King Charles",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-us-ties-tested-britain-courts-trump-with-king-charles/a-76928978?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "On a state visit to the US, the British monarch is being deployed to help steady increasingly strained US-UK relations. Can King Charles help repair t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Zelenskyy ready to hold Ukraine-Russia talks in Azerbaijan",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/zelenskyy-ready-to-hold-ukraine-russia-talks-in-azerbaijan/a-76933298?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukrainian President Volodymyr Zelenskyy said his country is ready to hold talks with Russia in Azerbaijan. Meanwhile, Russian attacks killed several p..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Tunisia suspends rights group amid widening repression",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/tunisia-suspends-rights-group-amid-widening-repression/a-76931737?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Tunisian authorities have ordered one of Africa's oldest rights groups to cease its activities for a month. The move comes as critics say the country ..."
     },
     {
         "source": "Leafly",
