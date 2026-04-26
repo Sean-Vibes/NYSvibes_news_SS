@@ -36,6 +36,27 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Afghanistan calls on Afghans who helped US in war and are now stuck in Qatar to return home",
+        "image": "https://media.zenfs.com/en/ap.org/caf7144086d0cc6cace49b5179a574b1",
+        "link": "https://www.yahoo.com/news/articles/afghanistan-calls-afghans-helped-us-083842422.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Hakeem Jeffries left scrambling after child reporter asks why voters view Democrats so negatively",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/5f91e3252b4a99558525b12bf972264b",
+        "link": "https://www.yahoo.com/news/articles/hakeem-jeffries-left-scrambling-child-211849280.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Satellite images reveal that Russia built out a base for a new generation of jet-powered drones",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/297f78ce6c44b2985b39bc1a445eebad",
+        "link": "https://www.yahoo.com/news/articles/satellite-images-reveal-russia-built-130101000.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Mysterious golden orb discovered on the ocean floor near Alaska is identified over 2 years later",
         "image": "https://s.yimg.com/uu/api/res/1.2/67lluLasQYvQUE3D9tgYuA--~B/aD05MTI7dz0xNjIwO2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/xlorb-hires_0364.jpg",
         "link": "https://www.yahoo.com/news/science/article/mysterious-golden-orb-discovered-on-the-ocean-floor-near-alaska-is-identified-over-2-years-later-181650641.html",
@@ -49,25 +70,25 @@
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Satellite images reveal that Russia built out a base for a new generation of jet-powered drones",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/297f78ce6c44b2985b39bc1a445eebad",
-        "link": "https://www.yahoo.com/news/articles/satellite-images-reveal-russia-built-130101000.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "India news: Modi wishes Trump safety after shooting incident",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-modi-wishes-trump-safety-after-shooting-incident/live-76939808?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Indian Prime Minister Narendra Modi condemned the shooting incident at the annual White House Correspondents' Dinner. Meanwhile, fresh clashes have er..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russia's Lavrov says US discarding international conventions, pursuing its own interests",
-        "image": "https://media.zenfs.com/en/reuters.com/f7e6456c8f4c3649ec0e94aadd19cf87",
-        "link": "https://www.yahoo.com/news/articles/russias-lavrov-says-us-discarding-220613853.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Is Germany's pension system still secure?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/is-germany-s-pension-system-still-secure/a-76925722?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Chancellor Friedrich Merz has sparked controversy by describing Germany's state pension as no more than \"basic cover.\" What did he mean by that? And h..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hakeem Jeffries left scrambling after child reporter asks why voters view Democrats so negatively",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/5f91e3252b4a99558525b12bf972264b",
-        "link": "https://www.yahoo.com/news/articles/hakeem-jeffries-left-scrambling-child-211849280.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Iran war: Peace talks on hold, what's next?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-peace-talks-on-hold-what-s-next/live-76939472?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "No direct talks took place between US and Iranian negotiators in Islamabad. A ceasefire in the Iran war continues to exist, but a roadmap to lasting p..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/trump-uninjured-after-shooting-at-correspondents-dinner/live-76938867?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "President Donald Trump was evacuated after gunfire at the Washington Hilton hotel, where journalists and celebrities were gathered for the annual Whit..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Trump cancels envoys' trip to Islamabad",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-trump-cancels-envoys-trip-to-islamabad/live-76929720?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Donald Trump said that he didn't want US officials to \"sit around talking about nothing\" in Islamabad. It comes after Iran said that there would be no..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "40 years after Chernobyl: Pripyat today",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/40-years-after-chernobyl-pripyat-today/a-76925905?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After the catastrophic accident in the nearby nuclear reactor, the city of Pripyat had to be completely evacuated. Some 50,000 people left their homes..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Palestinians vote in municipal elections in Gaza, West Bank",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/palestinians-vote-in-municipal-elections-in-gaza-west-bank/a-76930149?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Palestinians headed to the polls in the occupied West Bank and a part of Gaza in a first vote since the Gaza war...."
     },
     {
         "source": "Leafly",
