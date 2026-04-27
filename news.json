@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump portrays shooting as proof of his presidency's power",
-        "image": "https://media.zenfs.com/en/reuters.com/9a1bd30faaeb45c1a2fd1cd4ed415078",
-        "link": "https://www.yahoo.com/news/articles/trump-portrays-shooting-proof-presidencys-230852629.html",
+        "title": "Iran offers to end chokehold on Strait of Hormuz and asks US to end blockade, officials say",
+        "image": "https://media.zenfs.com/en/ap.org/d9f2d4e43da1eda40caa4abcce5ac8e7",
+        "link": "https://www.yahoo.com/news/articles/iran-offers-end-chokehold-strait-070942841.html",
         "summary": "..."
     },
     {
@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "This CEO lived on canned soup and took just two days off for his daughter\u2019s birth. Now he admits he lost sight of proper work-life balance",
-        "image": "https://media.zenfs.com/en/fortune_175/5551178b14495cadd6a9a1e754d002cf",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/ceo-lived-canned-soup-took-080000920.html",
+        "title": "I thought I'd retire from Intel. Then I got laid off in my 60s \u2014 and I'm still struggling to find a job.",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/49da291e67d959f6fde9e90cd2d98941",
+        "link": "https://www.yahoo.com/lifestyle/articles/thought-id-retire-intel-then-090701929.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "I thought I'd retire from Intel. Then I got laid off in my 60s \u2014 and I'm still struggling to find a job.",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/49da291e67d959f6fde9e90cd2d98941",
-        "link": "https://www.yahoo.com/lifestyle/articles/thought-id-retire-intel-then-090701929.html",
+        "title": "Roommate charged with killing two University of South Florida doctoral students after one of their bodies was found",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/b7e307b78dae7536f8108c5b7429f667",
+        "link": "https://www.yahoo.com/news/articles/one-two-missing-university-south-192913745.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Portugal's arms industry is taking off",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/portugal-s-arms-industry-is-taking-off/a-76946304?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Portugal has built up a surprisingly large, independent arms industry over the past five years. But whether it can be truly autonomous with the US as ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Rise in young people refusing military service",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-rise-in-young-people-refusing-military-service/live-76948211?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Amid talk of a possible return of compulsory military service, more young Germans are applying for conscientious objector status. Meanwhile, Germany h..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Delhi to get respite, heat wave persists in other parts",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-delhi-to-get-respite-heat-wave-persists-in-other-parts/live-76947762?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Storms are expected in the capital, but severe heat across multiple states would continue, India's weather department said. DW has the latest...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war deadline heats up Trump-Congress showdown",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-deadline-heats-up-trump-congress-showdown/a-76939852?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A US president can order a military operation without congressional approval, but only for 60 days. After that they must seek formal approval from Con..."
     },
     {
         "source": "Deutsche Welle",
@@ -75,34 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-s-araghchi-visits-russia-as-talks-with-us-on-hold/a-76947020?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Iran's foreign minister is continuing his diplomatic drive amid the war against his country with a trip to Russia. It comes after planned talks with t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "SIPRI: Record arms spending, again",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/sipri-record-arms-spending-again/a-76901397?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Global military spending hit a record high in 2025. The Stockholm International Peace Research Institute (SIPRI) warns the trend is likely to continue..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia, North Korea agree 'long-term' military cooperation",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-north-korea-agree-long-term-military-cooperation/a-76945404?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russia's defense minister and the chairman of the State Duma are both visiting North Korea. One helped inaugurate a memorial to North Korean soldiers ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Colombia highway bomb attack kills at least 19",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/colombia-highway-bomb-attack-kills-at-least-19/a-76939450?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Suspected guerillas carried out a deadly explosives attack on the Pan-American Highway in southwest Colombia. The region has been gripped by violence ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Gunman was likely targeting Trump team, says official",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/gunman-was-likely-targeting-trump-team-says-official/live-76938867?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The suspect in the attempted attack at the White House Correspondents' dinner is believed to have been targeting US President Donald Trump and members..."
     },
     {
         "source": "Leafly",
