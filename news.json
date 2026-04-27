@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Tennessee Governor Signs Bill Blocking State Medical Marijuana Legalization Review Following Federal Rescheduling",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/tennessee-governor-signs-bill-blocking-state-medical-marijuana-legalization-review-following-federal-rescheduling/",
+        "summary": "<p>Tennessee\u2019s governor has signed a bill to block an automatic review that could have potentially legalized medical marijuana under state... <a class..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Federal Marijuana Rescheduling Will End Discrimination In Housing, Healthcare And Employment For Medical Cannabis Patients (Op-Ed)",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/federal-marijuana-rescheduling-will-end-discrimination-in-housing-healthcare-and-employment-for-medical-cannabis-patients-op-ed/",
@@ -28,17 +35,10 @@
         "summary": "<p>\u201cThese drugs honestly have been always illegal, but we brought clarity to the law and we brought reinforcement to the... <a class=\"small font-monts..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Wisconsin Democratic Candidates For Governor Call For Marijuana Legalization",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/wisconsin-democratic-candidates-for-governor-call-for-marijuana-legalization/",
-        "summary": "<p>\u201cWisconsin is falling behind. Legalizing marijuana is about fairness, growth, and common sense.\u201d By Benjamin Yount, The Center Square There... <a c..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Congo creates a paramilitary mining guard backed by US and UAE funding",
-        "image": "https://media.zenfs.com/en/ap.org/7fe8a6a2856e9342a39b30d849497b3f",
-        "link": "https://www.yahoo.com/news/articles/congo-creates-paramilitary-mining-guard-130611142.html",
+        "title": "Nations meet to discuss fossil fuel exit as Iran war drives up prices",
+        "image": "https://media.zenfs.com/en/reuters.com/faed26ed5c0bfdb8854d5fd578697b1e",
+        "link": "https://www.yahoo.com/news/articles/nations-meet-discuss-fossil-fuel-132503544.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nations meet to discuss fossil fuel exit as Iran war drives up prices",
-        "image": "https://media.zenfs.com/en/reuters.com/b3adeabdae93d33bef13992db49f6a01",
-        "link": "https://www.yahoo.com/news/articles/nations-meet-discuss-fossil-fuel-132503544.html",
+        "title": "New Round of Severe Storms, Deadly Tornadoes Rip Across South",
+        "image": "https://media.zenfs.com/en/nbcu_713/1f97c7843e0f1ce3fde8f1b154823819",
+        "link": "https://www.yahoo.com/news/videos/round-severe-storms-deadly-tornadoes-113813882.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,27 @@
         "image": "https://media.zenfs.com/en/cnn_articles_875/b7e307b78dae7536f8108c5b7429f667",
         "link": "https://www.yahoo.com/news/articles/one-two-missing-university-south-192913745.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Clashes over water resources in Chad kill over 40 people",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/clashes-over-water-resources-in-chad-kill-over-40-people/a-76950445?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Community clashes over water resources are becoming increasingly common in Chad, feuled by extreme weather. The latest violence spread across a wide a..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "EU weighs giving US data for fewer travel restrictions",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eu-weighs-giving-us-data-for-fewer-travel-restrictions/a-76912370?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The European Union is negotiating a framework that could allow US authorities to search national databases across much of the bloc as the price for ke..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Putin pledges support for Iran in talks with FM Araghchi",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/putin-pledges-support-for-iran-in-talks-with-fm-araghchi/a-76947020?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Russia's Vladimir Putin told Iran's Abbas Araghchi that Iranians would navigate the \"difficult period\" of war and he hoped for peace soon. Araghchi is..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/china-seeks-southeast-asia-gains-as-us-influence-falters/a-76954075?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Foreign Minister Wang Yi's visit to Southeast Asia shows how Beijing is trying to present itself as a steady regional partner as Southeast Asia grappl..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why anti-US sentiment is quietly growing in India",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-anti-us-sentiment-is-quietly-growing-in-india/a-76952514?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Indians are facing economic pain from the US-Israel war with Iran, and public sentiment toward President Donald Trump is turning sour. But experts say..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Merz says US 'humiliated,' lacks strategy in Iran conflict",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/merz-says-us-humiliated-lacks-strategy-in-iran-conflict/a-76952959?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany's Friedrich Merz says Iran has appeared more resilient than the US expected and warned that the conflict is escalating without a clear exit st..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US news: Suspect in DC gala shooting to appear in court",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-news-suspect-in-dc-gala-shooting-to-appear-in-court/live-76948331?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A suspect in the shooting at the White House Correspondents' Dinner is set to be formally charged in court. Plus, Britain's King Charles III is headed..."
     },
     {
         "source": "Leafly",
