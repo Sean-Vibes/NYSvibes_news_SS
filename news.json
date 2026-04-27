@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Leaders of France and Greece say the EU's defense splurge is no alternative to the NATO alliance",
-        "image": "https://media.zenfs.com/en/ap.org/581082021f451e45af403e93d843c274",
-        "link": "https://www.yahoo.com/news/articles/leaders-france-greece-eus-defense-135303520.html",
+        "title": "Trump portrays shooting as proof of his presidency's power",
+        "image": "https://media.zenfs.com/en/reuters.com/9a1bd30faaeb45c1a2fd1cd4ed415078",
+        "link": "https://www.yahoo.com/news/articles/trump-portrays-shooting-proof-presidencys-230852629.html",
         "summary": "..."
     },
     {
@@ -71,6 +71,13 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Iran's Araghchi visits Russia as talks with US on hold",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-s-araghchi-visits-russia-as-talks-with-us-on-hold/a-76947020?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran's foreign minister is continuing his diplomatic drive amid the war against his country with a trip to Russia. It comes after planned talks with t..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "SIPRI: Record arms spending, again",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/sipri-record-arms-spending-again/a-76901397?maca=en-rss-en-all-1573-xml-mrss",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/gunman-was-likely-targeting-trump-team-says-official/live-76938867?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The suspect in the attempted attack at the White House Correspondents' dinner is believed to have been targeting US President Donald Trump and members..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Syria: First trial of Assad-era officials opens in Damascus",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/syria-first-trial-of-assad-era-officials-opens-in-damascus/a-76944735?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A court in Damascus is trying one official in former President Bashar Assad's government in person, and several more in absentia. Assad and his brothe..."
     },
     {
         "source": "Leafly",
