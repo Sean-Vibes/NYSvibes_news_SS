@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Nebraska Officials React To Federal Marijuana Rescheduling As State Slowly Implements Voter-Approved Legalization",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/nebraska-officials-react-to-federal-marijuana-rescheduling-as-state-slowly-implements-voter-approved-legalization/",
+        "summary": "<p>\u201cMy stance on this issue has been clear. I remain committed to combatting the growing public health and safety threat... <a class=\"small font-monts..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Virginia Marijuana Bill Sponsor Hopes Governor Doesn\u2019t Veto After Lawmakers Rejected Her Changes",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/virginia-marijuana-bill-sponsor-hopes-governor-doesnt-veto-after-lawmakers-rejected-her-changes/",
@@ -28,17 +35,17 @@
         "summary": "<p>China\u2019s agricultural history with cannabis is deeper than previously believed, with a new study placing the staple crop among \u201cthe... <a class=\"sma..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "North Carolina Could Legalize Medical Marijuana Now That It\u2019s Been Federally Rescheduled, Senate Leader Says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/north-carolina-could-legalize-medical-marijuana-now-that-its-been-federally-rescheduled-senate-leader-says/",
-        "summary": "<p>North Carolina lawmakers will take a more serious look at legalizing medical marijuana in the state following the Trump administration\u2019s... <a clas..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "'Dances With Wolves' actor Nathan Chasing Horse sentenced to life in prison for sexual assault",
         "image": "https://s.yimg.com/uu/api/res/1.2/4dBgiisrBSefqPIwWyCeug--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/af1b4596-eba4-45d5-8bb6-e4b49c6c62c4/main/1280x720/8s938ms/match/image.jpg",
         "link": "https://www.yahoo.com/news/us/articles/dances-wolves-actor-nathan-chasing-225433866.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Swiss money laundering trial of Uzbekistan's Karimova and Lombard Odier begins",
+        "image": "https://media.zenfs.com/en/reuters.com/9e054c3dbcd832f899b4f8321dff9e6a",
+        "link": "https://www.yahoo.com/news/articles/swiss-money-laundering-trial-uzbekistans-100710788.html",
         "summary": "..."
     },
     {
@@ -50,13 +57,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nations meet to discuss fossil fuel exit as Iran war drives up prices",
-        "image": "https://media.zenfs.com/en/reuters.com/faed26ed5c0bfdb8854d5fd578697b1e",
-        "link": "https://www.yahoo.com/news/articles/nations-meet-discuss-fossil-fuel-132503544.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Judge rules that fired prosecutor Maurene Comey's lawsuit belongs in federal court",
         "image": "https://media.zenfs.com/en/ap.org/26cb3f09fc1538c820560237b26ee3ea",
         "link": "https://www.yahoo.com/news/articles/judge-rules-fired-prosecutor-maurene-140828811.html",
@@ -64,10 +64,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran live updates: Trump says Iran 'informed' US that it's in a 'state of collapse'",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/e6e9a471f38ef21f934b5e1e916b5a41",
-        "link": "https://www.yahoo.com/news/articles/iran-live-updates-rubio-dismisses-072910448.html",
+        "title": "Reading Food Labels: How to Tell if What You're Eating is Healthy",
+        "image": "https://media.zenfs.com/en/nbcu_713/eca3de6351c038ab1135620396166812",
+        "link": "https://www.yahoo.com/news/videos/reading-food-labels-tell-youre-133109657.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "EU Parliament approves common definition of rape",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eu-parliament-approves-common-definition-of-rape/a-76972748?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Until now, definitions of what constitutes rape under criminal law had varied significantly across the EU, ranging from \"only yes means yes\" to \"only ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "How a controversial gas pipeline deal could further stall Bosnia's EU accession",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/how-a-controversial-gas-pipeline-deal-could-further-stall-bosnia-s-eu-accession/a-76965210?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A US backed gas pipeline could help Bosnia cut reliance on Russian energy. But Brussels warns that a deal with a company linked to Trump allies could ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Venezuela: German entrepreneurs bet on business boom",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/venezuela-german-entrepreneurs-bet-on-business-boom/a-76968518?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Venezuela was once a key destination for German industry. However, after nearly 30 years of socialism, only a handful of German companies remain activ..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-benefits-from-work-with-ukraine-defense-minister/a-76973080?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The German defense minister said Ukraine was quick to develop new, battlefield-tested technologies. And the German government announced several measur..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany: Stranded whale 'Timmy' being transported towards ocean in special barge",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-stranded-whale-timmy-being-transported-towards-ocean-in-special-barge/a-76970765?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Rescue teams are celebrating what they hope is a major win weeks into efforts to assist a stranded humpback whale. \"Timmy\" has been coaxed onto a spec..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "What Renault's new EV reveals about the global auto industry",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/what-renault-s-new-ev-reveals-about-the-global-auto-industry/a-76823988?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "French carmaker Renault no longer sells its brand in the Chinese market, but it's not afraid to design and develop them there. It's just one more sign..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany's birth rate reached lowest level on record in 2025",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-birth-rate-reached-lowest-level-on-record-in-2025/a-76965865?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As the number of women of childbearing age declines in Germany, birth rates are projected to continue falling. The German Family Association says fami..."
     },
     {
         "source": "Leafly",
