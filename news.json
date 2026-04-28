@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Virginia Marijuana Bill Sponsor Hopes Governor Doesn\u2019t Veto After Lawmakers Rejected Her Changes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/virginia-marijuana-bill-sponsor-hopes-governor-doesnt-veto-after-lawmakers-rejected-her-changes/",
+        "summary": "<p>\u201cI am a little bit frustrated, but she is the governor, I\u2019m not the governor. It\u2019s a long process, but... <a class=\"small font-montserrat font-weig..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "Maryland Governor Signs Bill To Let Firefighters And Rescue Workers Use Medical Marijuana Off Duty Without Being Punished For It",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/maryland-governor-signs-bill-to-let-firefighters-and-rescue-workers-use-medical-marijuana-off-duty-without-being-punished-for-it/",
+        "summary": "<p>Maryland\u2019s governor has signed a bill to protect firefighters and rescue workers from being penalized over their lawful use of... <a class=\"small f..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "The Cannabis Beverage Industry Has An Evidence Problem, With Too Few Companies Submitting Products For Independent Scrutiny (Op-Ed)",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/the-cannabis-beverage-industry-has-an-evidence-problem-with-too-few-companies-submitting-products-for-independent-scrutiny-op-ed/",
@@ -21,31 +35,10 @@
         "summary": "<p>North Carolina lawmakers will take a more serious look at legalizing medical marijuana in the state following the Trump administration\u2019s... <a clas..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Cannabis businesses can apply for federal protections with DEA this week (Newsletter: April 28, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/cannabis-businesses-can-apply-for-federal-protections-with-dea-this-week-newsletter-april-28-2026/",
-        "summary": "<p>WH press secretary: Marijuana reform \u201coverwhelmingly popular\u201d; TN gov signs bill blocking medical cannabis review; IN gov directs marijuana meeting..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Indiana GOP Governor Directs State Agencies To Meet With Medical Marijuana Advocates As Federal Rescheduling Takes Effect",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/indiana-gop-governor-directs-state-agencies-to-meet-with-medical-marijuana-advocates-as-federal-rescheduling-takes-effect/",
-        "summary": "<p>Indiana state officials are holding a series of meetings with medical marijuana advocates at the direction of the Republican governor.... <a class=..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "'Dances With Wolves' actor Nathan Chasing Horse sentenced to life in prison for sexual assault",
         "image": "https://s.yimg.com/uu/api/res/1.2/4dBgiisrBSefqPIwWyCeug--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/af1b4596-eba4-45d5-8bb6-e4b49c6c62c4/main/1280x720/8s938ms/match/image.jpg",
         "link": "https://www.yahoo.com/news/us/articles/dances-wolves-actor-nathan-chasing-225433866.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Elon Musk says saving for retirement is irrelevant because AI is going to create a world of abundance: \u2018It won\u2019t matter\u2019",
-        "image": "https://media.zenfs.com/en/fortune_175/2fd6e6e2434118a57d778480024fc890",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-saving-retirement-174705539.html",
         "summary": "..."
     },
     {
@@ -57,9 +50,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump administration fires entire National Science Board",
-        "image": "https://media.zenfs.com/en/reuters.com/3100c36cb150735b4922c2177eab6829",
-        "link": "https://www.yahoo.com/news/articles/trump-administration-fires-entire-national-013731212.html",
+        "title": "Nations meet to discuss fossil fuel exit as Iran war drives up prices",
+        "image": "https://media.zenfs.com/en/reuters.com/faed26ed5c0bfdb8854d5fd578697b1e",
+        "link": "https://www.yahoo.com/news/articles/nations-meet-discuss-fossil-fuel-132503544.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Judge rules that fired prosecutor Maurene Comey's lawsuit belongs in federal court",
+        "image": "https://media.zenfs.com/en/ap.org/26cb3f09fc1538c820560237b26ee3ea",
+        "link": "https://www.yahoo.com/news/articles/judge-rules-fired-prosecutor-maurene-140828811.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/us.abcnews.go.com/e6e9a471f38ef21f934b5e1e916b5a41",
         "link": "https://www.yahoo.com/news/articles/iran-live-updates-rubio-dismisses-072910448.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ex-FBI Director James Comey indicted again \u2014 reports",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ex-fbi-director-james-comey-indicted-again-reports/a-76973087?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "It would be the second time the Justice Department under Donald Trump has indicted Comey. Comey is a frequent critic of the president...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany benefits from work with Ukraine \u2014 defense minister",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-benefits-from-work-with-ukraine-defense-minister/a-76973080?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The German defense minister said Ukraine was quick to develop new, battlefield-tested technologies. And the German government announced several measur..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-s-birth-rate-reached-lowest-level-on-record-in-2025/a-76965865?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "As the number of women of childbearing age declines in Germany, birth rates are projected to continue falling. The German Family Association says fami..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "King Charles to address joint meeting of US Congress",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/king-charles-to-address-joint-meeting-of-us-congress/live-76968757?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "King Charles is set to become the second British monarch to address both chambers of the US Congress. Charles and his wife, Queen Camilla, are visitin..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine's Zelenskyy rebukes Israel for buying grain 'stolen' by Russia",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-s-zelenskyy-rebukes-israel-for-buying-grain-stolen-by-russia/a-76966917?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "President Volodymyr Zelenskyy has accused Israel of \"purchasing stolen goods,\" namely grain from regions occupied by Russia. Ukraine summoned Israel's..."
     },
     {
         "source": "Leafly",
