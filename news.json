@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russian superyacht crosses blockaded Strait of Hormuz",
-        "image": "https://media.zenfs.com/en/reuters.com/55eb8d9834a586b04b8242f22d756093",
-        "link": "https://www.yahoo.com/news/articles/russian-superyacht-crosses-blockaded-strait-132817042.html",
+        "title": "\u2018Dances With Wolves\u2019 actor Nathan Chasing Horse sentenced to life in prison for sexual assault",
+        "image": "https://media.zenfs.com/en/ap.org/c618ca5e1b749cf4a494b52873c0852a",
+        "link": "https://www.yahoo.com/entertainment/celebrity/articles/dances-wolves-actor-nathan-chasing-225433866.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Archaeologists at Pompeii use AI to reconstruct the face of a man killed in the volcano's eruption",
-        "image": "https://media.zenfs.com/en/ap.org/d6bde9d6324d98fe60315a03b213b1f2",
-        "link": "https://www.yahoo.com/news/articles/archaeologists-pompeii-artificial-intelligence-reveal-160424100.html",
+        "title": "Trump administration to pay 2 more companies to walk away from US offshore wind leases",
+        "image": "https://media.zenfs.com/en/ap.org/005228940e04cf57705a426d6b77f553",
+        "link": "https://finance.yahoo.com/news/trump-administration-pay-2-more-204522610.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/reuters.com/faed26ed5c0bfdb8854d5fd578697b1e",
         "link": "https://www.yahoo.com/news/articles/nations-meet-discuss-fossil-fuel-132503544.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Indonesia: Many killed in train collision near Jakarta",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/indonesia-many-killed-in-train-collision-near-jakarta/a-76959000?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A long-distance train crashed into the rear car of a stopped commuter train outside Jakarta, killing at least 14 people...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/clashes-over-water-resources-in-chad-kill-over-40-people/a-76950445?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Community clashes over water resources are becoming increasingly common in Chad, feuled by extreme weather. The latest violence spread across a wide a..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "EU weighs giving US data for fewer travel restrictions",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-weighs-giving-us-data-for-fewer-travel-restrictions/a-76912370?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The European Union is negotiating a framework that could allow US authorities to search national databases across much of the bloc as the price for ke..."
     },
     {
         "source": "Leafly",
