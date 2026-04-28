@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump administration to pay 2 more companies to walk away from US offshore wind leases",
-        "image": "https://media.zenfs.com/en/ap.org/005228940e04cf57705a426d6b77f553",
-        "link": "https://finance.yahoo.com/news/trump-administration-pay-2-more-204522610.html",
+        "title": "Prosecutors say Wisconsin police chief helped California gun dealers' illegal ammo import scheme",
+        "image": "https://media.zenfs.com/en/ap.org/ef2959318eaaac155492e2e09a575fe2",
+        "link": "https://www.yahoo.com/news/articles/prosecutors-wisconsin-police-chief-helped-204046801.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/reuters.com/faed26ed5c0bfdb8854d5fd578697b1e",
         "link": "https://www.yahoo.com/news/articles/nations-meet-discuss-fossil-fuel-132503544.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Major raids carried out against Hells Angels",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-major-raids-carried-out-against-hells-angels/live-76959182?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A large-scale police operation in the western state of North Rhine-Westphalia has targeted biker gang crime. Germany is to bid again for a non-permane..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/gala-shooting-suspect-charged-with-attempt-to-murder-trump/live-76948331?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A suspect in the shooting at the White House Correspondents' Dinner made his first court appearance. Meanwhile, Britain's King Charles III arrived in ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Clashes over water resources in Chad kill over 40 people",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/clashes-over-water-resources-in-chad-kill-over-40-people/a-76950445?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Community clashes over water resources are becoming increasingly common in Chad, feuled by extreme weather. The latest violence spread across a wide a..."
     },
     {
         "source": "Leafly",
