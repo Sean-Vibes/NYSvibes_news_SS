@@ -64,10 +64,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "After third assassination attempt, debate grows over whether Trump attack warrants another investigation",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/478c0ab9c15cadd62bb05ba88601652f",
-        "link": "https://www.yahoo.com/news/articles/third-assassination-attempt-debate-grows-175117773.html",
+        "title": "Elon Musk Testifies in Trial Against OpenAI and CEO Sam Altman",
+        "image": "https://media.zenfs.com/en/nbcu_713/c3ddb97e147a4a11b74353e0d797c75f",
+        "link": "https://www.yahoo.com/news/videos/elon-musk-testifies-trial-against-121904935.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Trump threatens US troop cuts in Germany",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-threatens-us-troop-cuts-in-germany/a-76987910?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Donald Trump says the US is considering a \"possible reduction\" of its forces in Germany just days after German Chancellor Friedrich Merz said the US w..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "King Charles commemorates 9/11 victims in New York visit",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/king-charles-commemorates-9-11-victims-in-new-york-visit/a-76987864?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The royal couple laid a bouquet at the September 11 Memorial and met with victim's families...."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/usa-ex-fbi-chief-comey-appears-in-court-over-trump-threat/a-76987435?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Comey is charged with acting \"knowingly and willfully\" to threaten the life of the president and of transmitting threats across state lines. His attor..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Mali: France urges citizens to leave amid Tuareg advance",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/mali-france-urges-citizens-to-leave-amid-tuareg-advance/a-76986837?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "With Tuareg-led rebels saying the ruling junta in Mali will fall \"sooner or later\" and demanding the withdrawal of Russian troops, the French Foreign ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Teenage bullying increases in Ukrainian schools",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/teenage-bullying-increases-in-ukrainian-schools/a-76982830?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The number of teenage victims of bullying is rising in Ukrainian schools. Experts attribute this to war trauma and chronic stress among teenagers...."
     },
     {
         "source": "Leafly",
