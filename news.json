@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Republicans In Congress Are Still Trying To Block Marijuana Rescheduling Even As Trump Moves Forward",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/republicans-in-congress-are-still-trying-to-block-marijuana-rescheduling-even-as-trump-moves-forward/",
+        "summary": "<p>Republican leaders of a powerful congressional committee are advancing legislation aimed at blocking the federal rescheduling of marijuana\u2014even tho..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "AOC Supports Trump\u2019s Marijuana Rescheduling Move, Even If It \u2018Doesn\u2019t Quite Make All The Wrongs Right\u2019",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/aoc-supports-trumps-marijuana-rescheduling-move-even-if-it-doesnt-quite-make-all-the-wrongs-right/",
+        "summary": "<p>Rep. Alexandria Ocasio-Cortez (D-NY) supports the Trump administration\u2019s move to reschedule marijuana under federal law\u2014but she also worries that e..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "There\u2019s \u2018Strong Public Demand\u2019 For Bigger Marijuana Reform Than Trump\u2019s Rescheduling Move, Federally Funded Study Shows",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/theres-strong-public-demand-for-bigger-marijuana-reform-than-trumps-rescheduling-move-federally-funded-study-shows/",
@@ -21,23 +35,9 @@
         "summary": "<p>Louisiana lawmakers have approved a bill that threatens to send people to jail for up to one year if they... <a class=\"small font-montserrat font-w..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Indiana Is \u2018More Likely\u2019 To Legalize Marijuana Now That It\u2019s Been Federally Rescheduled, Governor Says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/indiana-is-more-likely-to-legalize-marijuana-now-that-its-been-federally-rescheduled-governor-says/",
-        "summary": "<p>\u201cYou\u2019ve got to take what\u2019s evolved over time. [If you] stick your head in the sand, you\u2019re generally going to... <a class=\"small font-montserrat fo..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Hemp amendments stall in Congress, for now (Newsletter: April 29, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/hemp-amendments-stall-in-congress-for-now-newsletter-april-29-2026/",
-        "summary": "<p>MD gov signs marijuana workplace rights bill; NC medical cannabis momentum; Study: Cannabis as ancient \u201ccore crop\u201d Subscribe\u00a0to receive Marijuana....."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Supreme Court sides with anti-abortion center raising 1st Amendment fears about state investigation",
-        "image": "https://media.zenfs.com/en/ap.org/8d4a91da854ed57d9a82b9937e81c8a5",
+        "image": "https://media.zenfs.com/en/ap.org/96ff9510800310f1978916fddc9e570d",
         "link": "https://www.yahoo.com/news/articles/supreme-court-sides-anti-abortion-140853654.html",
         "summary": "..."
     },
@@ -50,31 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "House Republican on Comey indictment \u2018There\u2019s something called dangerous speak\u2019",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/96b210254a910a4d293449d2db02b111",
+        "link": "https://www.yahoo.com/news/articles/house-republican-comey-indictment-something-140341276.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Former Fauci adviser indicted for allegedly concealing communications related to COVID-19 research",
+        "image": "https://media.zenfs.com/en/ap.org/099897931f7d416d3646573e8bf46e5b",
+        "link": "https://www.yahoo.com/news/articles/former-fauci-adviser-indicted-allegedly-174129253.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Jamie Dimon gets candid about national debt: \u2018There will be a bond crisis, and then we\u2019ll have to deal with it\u2019",
         "image": "https://media.zenfs.com/en/fortune_175/bd3a316a051455706e063f4a7a32888f",
         "link": "https://finance.yahoo.com/economy/policy/articles/jamie-dimon-gets-candid-national-105506202.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Storms Pummel Millions in Midwest With Hail and Damaging Winds",
-        "image": "https://media.zenfs.com/en/nbcu_713/e8da97274ceec6df5a91570df75fc74f",
-        "link": "https://www.yahoo.com/news/videos/storms-pummel-millions-midwest-hail-114540872.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "She married her brother, then he died. The monument to her grief was a Wonder of the Ancient World",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/5b5d487a388d7a51ec747a09b64839a2",
-        "link": "https://www.yahoo.com/news/articles/she-married-her-brother-then-121713779.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Teenage bullying increases in Ukrainian schools",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/teenage-bullying-increases-in-ukrainian-schools/a-76982830?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The number of teenage victims of bullying is rising in Ukrainian schools. Experts attribute this to war trauma and chronic stress among teenagers...."
     },
     {
         "source": "Deutsche Welle",
         "title": "Russia to hold Victory Day parade without weaponry display",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/russia-to-hold-victory-day-parade-without-weaponry-display/a-76986067?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The scaled back parade comes amid increasing Ukrainian attacks deep into mainland Russia, including the capital Moscow. The last time a Victory day pa..."
+        "summary": "The scaled back parade comes amid increasing Ukrainian attacks deep into mainland Russia, including the capital Moscow. The last time a Victory Day pa..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/why-ghana-walked-away-from-a-us-health-deal/a-76982515?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Talks between Ghana and the US over a bilateral healthcare deal have stalled, after Accra voiced concerns regarding sensitive data sharing. Several Af..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Firetrucks swarm Cologne Cathedral after smell of smoke",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/firetrucks-swarm-cologne-cathedral-after-smell-of-smoke/a-76984432?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A large number of firetrucks were mobilized to the Cologne Cathedral after a churchwarden reported the smell of smoke...."
     },
     {
         "source": "Leafly",
