@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "State-Licensed Marijuana Businesses Can Now Apply For Federal Protections Using New DEA Form",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/state-licensed-marijuana-businesses-can-now-apply-for-federal-protections-using-new-dea-form/",
+        "summary": "<p>State-licensed medical marijuana businesses can now apply for federal protections in line with the Trump administration\u2019s cannabis rescheduling pro..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Republicans In Congress Are Still Trying To Block Marijuana Rescheduling Even As Trump Moves Forward",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/republicans-in-congress-are-still-trying-to-block-marijuana-rescheduling-even-as-trump-moves-forward/",
@@ -28,16 +35,9 @@
         "summary": "<p>South Carolina patients could get legal access to medical marijuana under a little-known state law that could be triggered by... <a class=\"small fo..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Louisiana Lawmakers Pass Bill To Send People To Jail For Smoking Marijuana Near College Campuses",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/louisiana-lawmakers-pass-bill-to-send-people-to-jail-for-smoking-marijuana-near-college-campuses/",
-        "summary": "<p>Louisiana lawmakers have approved a bill that threatens to send people to jail for up to one year if they... <a class=\"small font-montserrat font-w..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Supreme Court sides with anti-abortion center raising 1st Amendment fears about state investigation",
-        "image": "https://media.zenfs.com/en/ap.org/96ff9510800310f1978916fddc9e570d",
+        "title": "Supreme Court sides with anti-abortion center raising First Amendment fears about state probe",
+        "image": "https://media.zenfs.com/en/ap.org/839dff03a3b84c0b557a49340126359f",
         "link": "https://www.yahoo.com/news/articles/supreme-court-sides-anti-abortion-140853654.html",
         "summary": "..."
     },
@@ -57,17 +57,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former Fauci adviser indicted for allegedly concealing communications related to COVID-19 research",
-        "image": "https://media.zenfs.com/en/ap.org/099897931f7d416d3646573e8bf46e5b",
-        "link": "https://www.yahoo.com/news/articles/former-fauci-adviser-indicted-allegedly-174129253.html",
+        "title": "Ukraine strikes\u00a0Russia's Tuapse refinery, Putin says attacks intensifying on civilian targets",
+        "image": "https://media.zenfs.com/en/reuters.com/4915eedb035330a7f4985ec4419f5ef7",
+        "link": "https://www.yahoo.com/news/articles/drone-attack-causes-fire-russias-053112628.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Jamie Dimon gets candid about national debt: \u2018There will be a bond crisis, and then we\u2019ll have to deal with it\u2019",
-        "image": "https://media.zenfs.com/en/fortune_175/bd3a316a051455706e063f4a7a32888f",
-        "link": "https://finance.yahoo.com/economy/policy/articles/jamie-dimon-gets-candid-national-105506202.html",
+        "title": "She married her brother, then he died. The monument to her grief was a Wonder of the Ancient World",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/5b5d487a388d7a51ec747a09b64839a2",
+        "link": "https://www.yahoo.com/news/articles/she-married-her-brother-then-121713779.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US top court mulls scrapping Syrians', Haitians' protection",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-top-court-mulls-scrapping-syrians-haitians-protection/a-76987440?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Trump administration is appealing lower court orders that blocked it from immediately ending temporary protected status for people from Haiti and ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "What are the sticking points for the EU's new budget?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/what-are-the-sticking-points-for-the-eu-s-new-budget/a-76987127?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The battle over the next long-term EU budget has begun. The EU's institutions have staked out their positions and are seeking significantly more fundi..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "USA: Ex-FBI chief Comey appears in court over Trump threat",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/usa-ex-fbi-chief-comey-appears-in-court-over-trump-threat/a-76987435?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Comey is charged with acting \"knowingly and willfully\" to threaten the life of the president and of transmitting threats across state lines. His attor..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Mali: France urges citizens to leave amid Tuareg advance",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/mali-france-urges-citizens-to-leave-amid-tuareg-advance/a-76986837?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "With Tuareg-led rebels saying the ruling junta in Mali will fall \"sooner or later\" and demanding the withdrawal of Russian troops, the French Foreign ..."
     },
     {
         "source": "Deutsche Welle",
@@ -75,34 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/teenage-bullying-increases-in-ukrainian-schools/a-76982830?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The number of teenage victims of bullying is rising in Ukrainian schools. Experts attribute this to war trauma and chronic stress among teenagers...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia to hold Victory Day parade without weaponry display",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-to-hold-victory-day-parade-without-weaponry-display/a-76986067?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The scaled back parade comes amid increasing Ukrainian attacks deep into mainland Russia, including the capital Moscow. The last time a Victory Day pa..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany: Merz hails 'historic' health care reform",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-merz-hails-historic-health-care-reform/a-76984736?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Cabinet has greenlit a health care draft law designed to lower insurance rates. The bill heads to parliament next, but doctors' associations and p..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Football: Afghan women's team recognized in blow to Taliban",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/football-afghan-women-s-team-recognized-in-blow-to-taliban/a-76979827?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Banned from playing football and sent into exile, Afghanistan's women's team has had to fight to regain international status. That newly awarded recog..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why Ghana walked away from a US health deal",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-ghana-walked-away-from-a-us-health-deal/a-76982515?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Talks between Ghana and the US over a bilateral healthcare deal have stalled, after Accra voiced concerns regarding sensitive data sharing. Several Af..."
     },
     {
         "source": "Leafly",
