@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "GOP-Led Congressional Committee Votes To Block Marijuana Rescheduling, Defying Trump",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/gop-led-congressional-committee-votes-to-block-marijuana-rescheduling-defying-trump/",
+        "summary": "<p>A key congressional panel has voted to block the federal rescheduling of marijuana\u2014even though the Trump administration announced last week... <a c..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Trump Administration May Stop Pursuing Prosecutions Of Marijuana Users For Possessing Guns, Attorney General Says",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/trump-administration-may-stop-pursuing-prosecutions-of-marijuana-users-for-possessing-guns-attorney-general-says/",
@@ -28,17 +35,10 @@
         "summary": "<p>DEA marijuana registrations launch; AOC on rescheduling; SC medical cannabis impact; IN gov on legalization momentum; LA marijuana penalties Subscr..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "State-Licensed Marijuana Businesses Can Now Apply For Federal Protections Using New DEA Form",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/state-licensed-marijuana-businesses-can-now-apply-for-federal-protections-using-new-dea-form/",
-        "summary": "<p>State-licensed medical marijuana businesses can now apply for federal protections in line with the Trump administration\u2019s cannabis rescheduling pro..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukraine strikes\u00a0Russia's Tuapse refinery, Putin says attacks intensifying on civilian targets",
-        "image": "https://media.zenfs.com/en/reuters.com/4915eedb035330a7f4985ec4419f5ef7",
-        "link": "https://www.yahoo.com/news/articles/drone-attack-causes-fire-russias-053112628.html",
+        "title": "Mexico president says U.S. extradition requests against Sinaloa governor and others require\u00a0\"overwhelming evidence\"",
+        "image": "https://media.zenfs.com/en/reuters.com/f9fff4104192f0a7b93bb7078b0cf0e1",
+        "link": "https://www.yahoo.com/news/articles/mexico-president-says-u-extradition-142528268.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "The tables have turned. Ukraine is now readying the West for modern war with its weapons and combat expertise.",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/161cbf2d8cb017c3d0d23588a67f7501",
+        "link": "https://www.yahoo.com/news/articles/tables-turned-ukraine-now-readying-101201314.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Supreme Court sides with anti-abortion center raising First Amendment fears about state probe",
+        "image": "https://media.zenfs.com/en/ap.org/839dff03a3b84c0b557a49340126359f",
+        "link": "https://www.yahoo.com/news/articles/supreme-court-sides-anti-abortion-140853654.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Kim Jong Un said North Korean troops chose 'self-detonation' to avoid capture by Ukraine",
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/5656e456564a23837b60f431810111a2",
         "link": "https://www.yahoo.com/news/articles/kim-jong-un-said-true-041041782.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Many Democrats are stressed out by the news. They still can't turn away, a new poll finds",
-        "image": "https://media.zenfs.com/en/ap.org/77491aa6a04ab69f6ec1fecc4dec2c78",
-        "link": "https://www.yahoo.com/news/articles/many-democrats-stressed-news-still-040614966.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "The tables have turned. Ukraine is now readying the West for modern war with its weapons and combat expertise.",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/161cbf2d8cb017c3d0d23588a67f7501",
-        "link": "https://www.yahoo.com/news/articles/tables-turned-ukraine-now-readying-101201314.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "UAE oil exit from OPEC signals focus on domestic priorities",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/uae-oil-exit-from-opec-signals-focus-on-domestic-priorities/a-76998152?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Abu Dhabi's exit from OPEC signals a geopolitical shift and a pointed message to Saudi Arabia. What are the ripple effects on ties with Riyadh, the US..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/belgium-seeks-nationalization-of-nuclear-power-plants/a-76993170?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Belgium is reversing its decadeslong phasing-out course, seeking more energy independence by reviving its nuclear plants...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "First dots on the roadmap to exiting fossil fuels",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/first-dots-on-the-roadmap-to-exiting-fossil-fuels/a-76992981?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The message from inaugural talks on exiting fossil fuels was clear. It's not if, but when and how...."
     },
     {
         "source": "Leafly",
