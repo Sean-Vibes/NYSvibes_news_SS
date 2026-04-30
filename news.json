@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump administration fires entire National Science Board",
-        "image": "https://media.zenfs.com/en/krqe-albuquerque/7359001867c5f38061422d5386c06fdd",
-        "link": "https://www.yahoo.com/news/articles/trump-administration-fires-entire-national-science-board-203336778.html",
+        "title": "Gulf leaders meet in Saudi Arabia to discuss response to Iranian strikes",
+        "image": "https://media.zenfs.com/en/reuters.com/5d8d0e129bf37474e05f04f227cd9fb3",
+        "link": "https://www.yahoo.com/news/articles/gulf-leaders-meet-saudi-arabia-104929175.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kim Jong Un said it's true that North Korean troops chose 'self-detonation' to avoid capture by Ukraine",
+        "title": "Kim Jong Un said North Korean troops chose 'self-detonation' to avoid capture by Ukraine",
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/5656e456564a23837b60f431810111a2",
         "link": "https://www.yahoo.com/news/articles/kim-jong-un-said-true-041041782.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukraine strikes\u00a0Russia's Tuapse refinery, Putin says attacks intensifying on civilian targets",
-        "image": "https://media.zenfs.com/en/reuters.com/4915eedb035330a7f4985ec4419f5ef7",
-        "link": "https://www.yahoo.com/news/articles/drone-attack-causes-fire-russias-053112628.html",
+        "title": "Genome study reveals what happened after the Roman Empire fell",
+        "image": "https://media.zenfs.com/en/reuters.com/6897963966318f81f4ff6a2251767987",
+        "link": "https://www.yahoo.com/news/articles/genome-study-reveals-happened-roman-150512686.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Man who kept eating salad during WHCA dinner shooting says he \u2018wasn\u2019t scared\u2019",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/287a1474064a5dd767e4c9314305ebe7",
-        "link": "https://www.yahoo.com/news/articles/man-kept-eating-salad-during-150122294.html",
+        "title": "House Republican on Comey indictment \u2018There\u2019s something called dangerous speak\u2019",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/96b210254a910a4d293449d2db02b111",
+        "link": "https://www.yahoo.com/news/articles/house-republican-comey-indictment-something-140341276.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "First dots on the roadmap to exiting fossil fuels",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/first-dots-on-the-roadmap-to-exiting-fossil-fuels/a-76992981?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The message from inaugural talks on exiting fossil fuels was clear. It's not if, but when and how...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Will EU bring in a windfall tax on oil companies?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/will-eu-bring-in-a-windfall-tax-on-oil-companies/a-76920556?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Five countries, including Germany, want the EU to bring in a so-called windfall tax to target energy companies benefiting from the price crisis. It ca..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Pezeshkian says US blockade 'doomed to fail,' Centcom admiral argues otherwise",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-pezeshkian-says-us-blockade-doomed-to-fail-centcom-admiral-argues-otherwise/live-76992263?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran's president has said the US naval blockade both violates international law and will not succeed. The US military, meanwhile, is hailing its effic..."
     },
     {
         "source": "Deutsche Welle",
@@ -81,28 +102,7 @@
         "title": "Germany news: Economy shows surprise growth despite Iran war",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-economy-shows-surprise-growth-despite-iran-war/live-76991183?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany's economy is growing more than expected, against a backdrop of rising energy costs and uncertain export markets. Meanwhile, VW reports a sharp..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Israel stops Gaza-bound aid flotilla in international waters",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/israel-stops-gaza-bound-aid-flotilla-in-international-waters/a-76990054?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "More than 20 ships were intercepted in a mission aimed at challenging the blockade of the Gaza Strip. Israel dismissed those on board as \"attention-se..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: Exit polls out in key state elections",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-exit-polls-out-in-key-state-elections/live-76990473?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Projections suggest mixed outcomes in West Bengal, Kerala, Assam, Puducherry and Tamil Nadu. Narendra Modi's BJP is trying to make inroads in three st..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why UAE's OPEC exit is a blow to Saudi Arabia",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-uae-s-opec-exit-is-a-blow-to-saudi-arabia/a-76975354?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The United Arab Emirates is leaving OPEC to pump more oil on its own terms. The break strips Saudi Arabia of a key partner and adds to growing uncerta..."
+        "summary": "Germany's economy has grown more than expected, against a backdrop of rising energy costs and uncertain export markets. Meanwhile, VW reports a sharp ..."
     },
     {
         "source": "Leafly",
