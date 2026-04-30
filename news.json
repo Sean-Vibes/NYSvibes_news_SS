@@ -43,13 +43,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mark Cuban warns the biggest career mistake right now is letting AI do your thinking for you",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/ee367df759c87bb0f47e9f923eec30e8",
-        "link": "https://tech.yahoo.com/ai/articles/mark-cuban-warns-biggest-career-105944285.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "The tables have turned. Ukraine is now readying the West for modern war with its weapons and combat expertise.",
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/161cbf2d8cb017c3d0d23588a67f7501",
         "link": "https://www.yahoo.com/news/articles/tables-turned-ukraine-now-readying-101201314.html",
@@ -57,16 +50,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mexico's Sheinbaum says proof needed after US charges Sinaloa governor for cartel ties",
-        "image": "https://media.zenfs.com/en/reuters.com/7bae51a625a892fce0a889b1d368a3be",
-        "link": "https://www.yahoo.com/news/articles/mexico-president-says-u-extradition-142528268.html",
+        "title": "Man found in Michigan State building with substances used to make meth: Police",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/c998e5cbb1d533e885eec9e2ff2b3086",
+        "link": "https://www.yahoo.com/news/articles/man-found-michigan-state-building-205404708.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kim Jong Un said North Korean troops chose 'self-detonation' to avoid capture by Ukraine",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/5656e456564a23837b60f431810111a2",
-        "link": "https://www.yahoo.com/news/articles/kim-jong-un-said-true-041041782.html",
+        "title": "US company aims to resurrect bluebuck antelope that was hunted to extinction",
+        "image": "https://media.zenfs.com/en/reuters.com/ad2fa70b0fbc973974a27a8a5a372178",
+        "link": "https://www.yahoo.com/news/articles/us-company-aims-resurrect-bluebuck-120243460.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Mark Cuban warns the biggest career mistake right now is letting AI do your thinking for you",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/ee367df759c87bb0f47e9f923eec30e8",
+        "link": "https://tech.yahoo.com/ai/articles/mark-cuban-warns-biggest-career-105944285.html",
         "summary": "..."
     },
     {
