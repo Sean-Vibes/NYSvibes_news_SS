@@ -36,30 +36,30 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump administration fires entire National Science Board",
-        "image": "https://media.zenfs.com/en/krqe-albuquerque/7359001867c5f38061422d5386c06fdd",
-        "link": "https://www.yahoo.com/news/articles/trump-administration-fires-entire-national-science-board-203336778.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "She married her brother, then he died. The monument to her grief was a Wonder of the Ancient World",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/5b5d487a388d7a51ec747a09b64839a2",
-        "link": "https://www.yahoo.com/news/articles/she-married-her-brother-then-121713779.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hegseth says $400M in Ukraine support released after McConnell\u2019s angry op-ed",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/2c912c1cc98811ab61c50b06076ef7c3",
-        "link": "https://www.yahoo.com/news/articles/hegseth-says-400m-ukraine-support-211856590.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Ukraine strikes\u00a0Russia's Tuapse refinery, Putin says attacks intensifying on civilian targets",
         "image": "https://media.zenfs.com/en/reuters.com/4915eedb035330a7f4985ec4419f5ef7",
         "link": "https://www.yahoo.com/news/articles/drone-attack-causes-fire-russias-053112628.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Zoo animal killed, cars damaged in Missouri hail storm",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/7822fda4e2dacce4ba954ec115aa31fb",
+        "link": "https://www.yahoo.com/news/articles/zoo-animal-killed-cars-damaged-132350142.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "'Are you effing kidding me?': California residents react to street being renamed after Charlie Kirk",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/89348ef5ae63636485aa278db8eb5864",
+        "link": "https://www.yahoo.com/news/articles/effing-kidding-california-residents-react-010028454.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Storms Pummel Millions in Midwest With Hail and Damaging Winds",
+        "image": "https://media.zenfs.com/en/nbcu_713/e8da97274ceec6df5a91570df75fc74f",
+        "link": "https://www.yahoo.com/news/videos/storms-pummel-millions-midwest-hail-114540872.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,27 @@
         "image": "https://media.zenfs.com/en/fortune_175/bd3a316a051455706e063f4a7a32888f",
         "link": "https://finance.yahoo.com/economy/policy/articles/jamie-dimon-gets-candid-national-105506202.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "North Korea faces food shortages as drought threatens crops",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/north-korea-faces-food-shortages-as-drought-threatens-crops/a-76990431?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The country's state-run news has said much of the country has been hit by an unusually severe drought. The largely isolated country, with a population..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "World press freedom declines as authoritarianism rises",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/world-press-freedom-declines-as-authoritarianism-rises/a-76948348?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "With three in four countries \"problematic\" or worse, the 2026 World Press Freedom Index offers a bleak picture for global media. The conditions for pr..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ecuador starts fracking in Amazon rainforest",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ecuador-starts-fracking-in-amazon-rainforest/a-76990028?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ecuador is pushing to increase its production of crude oil but faces a backlash from environmentalists and Indigenous groups...."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/whale-timmy-reaches-denmark-in-rescue-effort-in-pictures/a-76989600?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A barge carrying a humpback whale stranded in Germany for weeks has reached Danish waters on its journey to the North Sea...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump threatens US troop cuts in Germany",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-threatens-us-troop-cuts-in-germany/a-76987910?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Donald Trump says the US is considering a \"possible reduction\" of its forces in Germany just days after German Chancellor Friedrich Merz said the US w..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "King Charles commemorates 9/11 victims in New York visit",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/king-charles-commemorates-9-11-victims-in-new-york-visit/a-76987864?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The royal couple laid a bouquet at the September 11 Memorial and met with victim's families...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US top court mulls scrapping Syrians', Haitians' protection",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-top-court-mulls-scrapping-syrians-haitians-protection/a-76987440?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Trump administration is appealing lower court orders that blocked it from immediately ending temporary protected status for people from Haiti and ..."
     },
     {
         "source": "Leafly",
