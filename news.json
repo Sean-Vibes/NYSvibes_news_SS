@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Trump\u2019s New Surgeon General Pick Said Using Marijuana Can Give You \u2018Man Boobs\u2019",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/trumps-new-surgeon-general-pick-said-using-marijuana-can-give-you-man-boobs/",
+        "summary": "<p>President Donald Trump\u2019s new nominee for surgeon general has expressed concerns about marijuana, saying at one point that using it... <a class=\"sma..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "House Passes Farm Bill Including Hemp Provisions, But Without Delaying THC Product Ban Scheduled For This Year",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/house-passes-farm-bill-including-hemp-provisions-but-without-delaying-thc-product-ban-scheduled-for-this-year/",
@@ -28,17 +35,17 @@
         "summary": "<p>A U.S. Senate committee is taking up a bipartisan bill to promote research into the therapeutic potential psychedelics by creating... <a class=\"sma..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Congressional Committee Wants Feds To Go After Cannabis Product Manufacturers Making Unlawful Health Claims",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/congressional-committee-wants-feds-to-go-after-cannabis-product-manufacturers-making-unlawful-health-claims/",
-        "summary": "<p>A powerful congressional committee has approved a spending bill and an attached report that expresses concerns about health risks from... <a class=..."
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Supreme Court sides with anti-abortion center raising First Amendment fears about state probe",
+        "image": "https://media.zenfs.com/en/ap.org/839dff03a3b84c0b557a49340126359f",
+        "link": "https://www.yahoo.com/news/articles/supreme-court-sides-anti-abortion-140853654.html",
+        "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mexico's Sheinbaum says proof needed after US charges Sinaloa governor for cartel ties",
-        "image": "https://media.zenfs.com/en/reuters.com/7bae51a625a892fce0a889b1d368a3be",
-        "link": "https://www.yahoo.com/news/articles/mexico-president-says-u-extradition-142528268.html",
+        "title": "Mark Cuban warns the biggest career mistake right now is letting AI do your thinking for you",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/ee367df759c87bb0f47e9f923eec30e8",
+        "link": "https://tech.yahoo.com/ai/articles/mark-cuban-warns-biggest-career-105944285.html",
         "summary": "..."
     },
     {
@@ -50,24 +57,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Mexico's Sheinbaum says proof needed after US charges Sinaloa governor for cartel ties",
+        "image": "https://media.zenfs.com/en/reuters.com/7bae51a625a892fce0a889b1d368a3be",
+        "link": "https://www.yahoo.com/news/articles/mexico-president-says-u-extradition-142528268.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Kim Jong Un said North Korean troops chose 'self-detonation' to avoid capture by Ukraine",
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/5656e456564a23837b60f431810111a2",
         "link": "https://www.yahoo.com/news/articles/kim-jong-un-said-true-041041782.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Grand jury indicts Comey for alleged threat against Trump",
-        "image": "https://media.zenfs.com/en/nbcu_713/f62928c5543ca62382ef6d7af4a4b553",
-        "link": "https://www.yahoo.com/news/videos/grand-jury-indicts-comey-alleged-225755723.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Kosovo to hold snap elections in June",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Kosovo will soon hold its third parliamentary election in a year and a half. Prime Minister Albin Kurti was able to form a government in February, but..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "House Republican on Comey indictment \u2018There\u2019s something called dangerous speak\u2019",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/96b210254a910a4d293449d2db02b111",
-        "link": "https://www.yahoo.com/news/articles/house-republican-comey-indictment-something-140341276.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "US: House passes DHS funding bill to end partial shutdown",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-house-passes-dhs-funding-bill-to-end-partial-shutdown/a-77005913?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Once signed into law, the legislation will end a partial government shutdown and restore funding to key agencies. But Republicans are unhappy that ICE..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "How Serbia's government dominates the country's media",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/how-serbia-s-government-dominates-the-country-s-media/a-77004243?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Since Serbia's ruling SNS party came to power, it has tightened its grip on the media. With an election expected soon, experts fear that authorities w..."
     },
     {
         "source": "Deutsche Welle",
@@ -78,31 +99,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "UK raises terror threat level after antisemitic attack",
+        "title": "UK raises terror threat level following antisemitic attack",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-raises-terror-threat-level-after-antisemitic-attack/a-77005386?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Joint Terrorism Analysis Center said the terror level has been raised to severe, which means that an attack is highly likely in the next six month..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UAE oil exit from OPEC signals focus on domestic priorities",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uae-oil-exit-from-opec-signals-focus-on-domestic-priorities/a-76998152?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Abu Dhabi's exit from OPEC signals a geopolitical shift and a pointed message to Saudi Arabia. What are the ripple effects on ties with Riyadh, the US..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran's Vafaei playing for more than snooker glory",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-s-vafaei-playing-for-more-than-snooker-glory/a-76998832?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After years lost to visa battles, Hossein Vafaei is finally delivering on his early promise as a snooker prodigy. He's hoping to inspire people back h..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Study busts myth: German 'spring fatigue' doesn't exist",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/study-busts-myth-german-spring-fatigue-doesn-t-exist/a-76985131?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Do we really feel more tired in spring? Researchers in Switzerland say, \"there's no such thing as spring fatigue.\" But it is a deep cultural phenomeno..."
+        "link": "https://www.dw.com/en/uk-raises-terror-threat-level-following-antisemitic-attack/a-77005386?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Joint Terrorism Analysis Center raised the terror threat level to severe, which indicates that there's a high likelihood of an attack in the next ..."
     },
     {
         "source": "Leafly",
