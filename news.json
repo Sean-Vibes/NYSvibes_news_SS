@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "DOJ rethinks cannabis & gun prosecutions (Newsletter: May 1, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/doj-rethinks-cannabis-gun-prosecutions-newsletter-may-1-2026/",
+        "summary": "<p>Trump surgeon general pick on marijuana; Farm Bill passes with hemp provisions; Senate psychedelics hearing; Anti-rescheduling bill advances in Con..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Trump\u2019s New Surgeon General Pick Said Using Marijuana Can Give You \u2018Man Boobs\u2019",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/trumps-new-surgeon-general-pick-said-using-marijuana-can-give-you-man-boobs/",
@@ -28,13 +35,6 @@
         "summary": "<p>The Trump administration, like the Biden administration before it, has been aggressively defending the federal law that criminalizes gun possession..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Senate Committee Takes Up Veterans-Focused Psychedelics Bill, With VA Officials Expressing Concerns",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/senate-committee-takes-up-veterans-focused-psychedelics-bill-with-va-officials-expressing-concerns/",
-        "summary": "<p>A U.S. Senate committee is taking up a bipartisan bill to promote research into the therapeutic potential psychedelics by creating... <a class=\"sma..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Trump administration says its war in Iran has been 'terminated' before 60-day deadline",
         "image": "https://media.zenfs.com/en/ap.org/4e09aaedf551a634f64a62716b63fe2e",
@@ -50,23 +50,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China Blocks Tech Acquisitions To Weaken America. The U.S. Shouldn't Follow Suit.",
-        "image": "https://media.zenfs.com/en/reason_com_245/7a720d6dae06ddc1a42acbb79a1054eb",
-        "link": "https://finance.yahoo.com/economy/policy/articles/china-blocks-tech-acquisitions-weaken-202547572.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "New Orleans sheriff indicted after investigation into brazen jailbreak and escape of 10 inmates",
-        "image": "https://media.zenfs.com/en/ap.org/540a2c18d7ae56027f51dc8643e59c30",
-        "link": "https://www.yahoo.com/news/articles/orleans-sheriff-indicted-investigation-brazen-231100399.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "I left my full-time job at 50 and retired to Mexico. After 3 years, I've built a life I love and clear plans to sustain it.",
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/d95b162be55566cc1990c8fdec3b92c8",
         "link": "https://finance.yahoo.com/markets/currencies/articles/left-full-time-job-50-170301898.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Supreme Court sides with anti-abortion center raising First Amendment fears about state probe",
+        "image": "https://media.zenfs.com/en/ap.org/839dff03a3b84c0b557a49340126359f",
+        "link": "https://www.yahoo.com/news/articles/supreme-court-sides-anti-abortion-140853654.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "China Blocks Tech Acquisitions To Weaken America. The U.S. Shouldn't Follow Suit.",
+        "image": "https://media.zenfs.com/en/reason_com_245/7a720d6dae06ddc1a42acbb79a1054eb",
+        "link": "https://finance.yahoo.com/economy/policy/articles/china-blocks-tech-acquisitions-weaken-202547572.html",
         "summary": "..."
     },
     {
@@ -78,10 +78,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iran in an information vacuum as war expands press crackdown",
+        "title": "Iran war expands press crackdown, leaving information vacuum",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-in-an-information-vacuum-as-war-expands-press-crackdown/a-77008882?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "For many journalists in Iran, the truth increasingly treated as a security threat as authorities tighten an already repressive reporting environment w..."
+        "link": "https://www.dw.com/en/iran-war-expands-press-crackdown-leaving-information-vacuum/a-77008882?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "For many journalists in Iran, the truth is increasingly being treated as a security threat. Authorities are tightening an already repressive reporting..."
     },
     {
         "source": "Deutsche Welle",
