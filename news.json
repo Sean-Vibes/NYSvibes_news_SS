@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "DEA Clarifies That The Synthetic Cannabis Compound HHC Is Federally Banned, And Doesn\u2019t Count As Legal Hemp",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/dea-clarifies-that-the-synthetic-cannabis-compound-hhc-is-federally-banned-and-doesnt-count-as-legal-hemp/",
+        "summary": "<p>Federal drug officials are clarifying that a cannabinoid produced synthetically from components of the cannabis plant is federally illegal. The... ..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "California Officials Make It Easier For Marijuana Businesses To Access Federal Benefits Under Trump\u2019s Rescheduling Move",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/california-officials-make-it-easier-for-marijuana-businesses-to-access-federal-benefits-under-trumps-rescheduling-move/",
+        "summary": "<p>California regulators are adopting changes to the state\u2019s marijuana licensing process that are intended to make it easier for businesses... <a clas..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Maryland Psychedelics Task Force Is Extended Through 2027 With Governor\u2019s Signature",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/maryland-psychedelics-task-force-is-extended-through-2027-with-governors-signature/",
@@ -21,20 +35,6 @@
         "summary": "<p>Trump surgeon general pick on marijuana; Farm Bill passes with hemp provisions; Senate psychedelics hearing; Anti-rescheduling bill advances in Con..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Trump\u2019s New Surgeon General Pick Said Using Marijuana Can Give You \u2018Man Boobs\u2019",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/trumps-new-surgeon-general-pick-said-using-marijuana-can-give-you-man-boobs/",
-        "summary": "<p>President Donald Trump\u2019s new nominee for surgeon general has expressed concerns about marijuana, saying at one point that using it... <a class=\"sma..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "House Passes Farm Bill Including Hemp Provisions, But Without Delaying THC Product Ban Scheduled For This Year",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/house-passes-farm-bill-including-hemp-provisions-but-without-delaying-thc-product-ban-scheduled-for-this-year/",
-        "summary": "<p>The U.S. House of Representatives has passed large-scale agriculture legislation that contains provisions aimed at reducing regulatory burdens for ..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "US company aims to resurrect bluebuck antelope that was hunted to extinction",
         "image": "https://media.zenfs.com/en/reuters.com/ad2fa70b0fbc973974a27a8a5a372178",
@@ -50,24 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "OpenAI CFO Sees \u2018Vertical Wall of Demand\u2019 for Products",
+        "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/48fa1c9c1665472e5037b090b5e968ef",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/openai-cfo-sees-vertical-wall-081940334.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "James Comey makes initial appearance in federal court",
+        "image": "https://media.zenfs.com/en/nbcu_713/a0fe17480e1852aab5126ad63d70ea7d",
+        "link": "https://www.yahoo.com/news/videos/james-comey-makes-initial-appearance-174559826.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "I left my full-time job at 50 and retired to Mexico. After 3 years, I've built a life I love and clear plans to sustain it.",
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/d95b162be55566cc1990c8fdec3b92c8",
         "link": "https://finance.yahoo.com/markets/currencies/articles/left-full-time-job-50-170301898.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "New Orleans sheriff indicted after investigation into brazen jailbreak and escape of 10 inmates",
-        "image": "https://media.zenfs.com/en/ap.org/540a2c18d7ae56027f51dc8643e59c30",
-        "link": "https://www.yahoo.com/news/articles/orleans-sheriff-indicted-investigation-brazen-231100399.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "May Day marked by protests, celebrations, arrests",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/may-day-marked-by-protests-celebrations-arrests/a-77013669?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Labor Day comes as rising energy costs and shrinking purchasing triggered by the Iran war has hurt workers around the world...."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "China dominates the world\u2019s lithium supply. The U.S. just found 328 years\u2019 worth in its own backyard",
-        "image": "https://media.zenfs.com/en/fortune_175/ddcf87f7682d02c2b56a6366e138f50c",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/china-dominates-world-lithium-supply-182419477.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Pentagon inks deals with AI giants, but not Anthropic",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/pentagon-inks-deals-with-ai-giants-but-not-anthropic/a-77012715?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The pacts enable OpenAI, Google and SpaceX to bring top-tier artificial intelligence (AI) models onto the US military\u2019s secure classified networks...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany needs no tips from Donald Trump, says Merz's deputy",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-needs-no-tips-from-donald-trump-says-merz-s-deputy/a-77013396?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany's vice chancellor says US President Donald Trump has made a mess of the Iran war and that his focus should be on ending it. As fuel prices soa..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-expands-press-crackdown-leaving-information-vacuum/a-77008882?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "For many journalists in Iran, the truth is increasingly being treated as a security threat. Authorities are tightening an already repressive reporting..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UK: Golders Green suspect charged in stabbings of Jewish men",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-golders-green-suspect-charged-in-stabbings-of-jewish-men/a-77008394?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Golders Green stabbings are the latest in a string of attacks on London's Jewish community in recent weeks...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Greens and CDU agree Baden-W\u00fcrttemberg deal",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-greens-and-cdu-agree-baden-w\u00fcrttemberg-deal/live-77008112?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The state of Baden-W\u00fcrttemberg's Greens and conservatives have forged a coalition deal after weeks of talks. Meanwhile, unions are staging May Day ral..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Myanmar: Ex-leader Aung San Suu Kyi moved to house arrest",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/myanmar-ex-leader-aung-san-suu-kyi-moved-to-house-arrest/a-77008296?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Aung San Suu Kyi's son said the transfer did not mean freedom and called for the military junta to provide \"proof of life.\" The former leader has not ..."
     },
     {
         "source": "Leafly",
