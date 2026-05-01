@@ -36,9 +36,30 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Supreme Court sides with anti-abortion center raising First Amendment fears about state probe",
-        "image": "https://media.zenfs.com/en/ap.org/839dff03a3b84c0b557a49340126359f",
-        "link": "https://www.yahoo.com/news/articles/supreme-court-sides-anti-abortion-140853654.html",
+        "title": "US company aims to resurrect bluebuck antelope that was hunted to extinction",
+        "image": "https://media.zenfs.com/en/reuters.com/ad2fa70b0fbc973974a27a8a5a372178",
+        "link": "https://www.yahoo.com/news/articles/us-company-aims-resurrect-bluebuck-120243460.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Prep school teacher filmed sex with student she was tutoring: \u2018Not my best thinking\u2019",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/ec4691f724e1c354d9cfa0d82504a181",
+        "link": "https://www.yahoo.com/news/articles/prep-school-teacher-filmed-sex-211549899.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "China Blocks Tech Acquisitions To Weaken America. The U.S. Shouldn't Follow Suit.",
+        "image": "https://media.zenfs.com/en/reason_com_245/7a720d6dae06ddc1a42acbb79a1054eb",
+        "link": "https://finance.yahoo.com/economy/policy/articles/china-blocks-tech-acquisitions-weaken-202547572.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Vessel carrying grain Ukraine says stolen by Russia will not unload in Israel, Kyiv says",
+        "image": "https://media.zenfs.com/en/reuters.com/fbca516416492fb5d20e02574edac59f",
+        "link": "https://www.yahoo.com/news/articles/vessel-carrying-grain-ukraine-says-082740064.html",
         "summary": "..."
     },
     {
@@ -49,25 +70,18 @@
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "'Are you effing kidding me?': California residents react to street being renamed after Charlie Kirk",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/89348ef5ae63636485aa278db8eb5864",
-        "link": "https://www.yahoo.com/news/articles/effing-kidding-california-residents-react-010028454.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "US prosecutors release new footage of Trump shooting suspect",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-prosecutors-release-new-footage-of-trump-shooting-suspect/a-77006783?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Justice Department has released unseen footage in an attempt to show that the secret service agent injured in the attack was not shot by friendly ..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "US company aims to resurrect bluebuck antelope that was hunted to extinction",
-        "image": "https://media.zenfs.com/en/reuters.com/ad2fa70b0fbc973974a27a8a5a372178",
-        "link": "https://www.yahoo.com/news/articles/us-company-aims-resurrect-bluebuck-120243460.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mark Cuban warns the biggest career mistake right now is letting AI do your thinking for you",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/ee367df759c87bb0f47e9f923eec30e8",
-        "link": "https://tech.yahoo.com/ai/articles/mark-cuban-warns-biggest-career-105944285.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "US: Trump signs DHS funding bill, ending partial shutdown",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-trump-signs-dhs-funding-bill-ending-partial-shutdown/a-77005913?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The legislation ends a partial government shutdown and restores funding to key government agencies. But Republicans are unhappy that ICE and Border Pa..."
     },
     {
         "source": "Deutsche Welle",
@@ -75,13 +89,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Kosovo will soon hold its third parliamentary election in a year and a half. Prime Minister Albin Kurti was able to form a government in February, but..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US: House passes DHS funding bill to end partial shutdown",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-house-passes-dhs-funding-bill-to-end-partial-shutdown/a-77005913?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Once signed into law, the legislation will end a partial government shutdown and restore funding to key agencies. But Republicans are unhappy that ICE..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/saudi-arabia-s-public-fund-to-withdraw-liv-golf-funding/a-77005158?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Public Investment Fund cites \"current macro dynamics\" as it slashes funding for breakaway golf tour. LIV isn't the only casualty of changing Saudi \"in..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UK raises terror threat level following antisemitic attack",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-raises-terror-threat-level-following-antisemitic-attack/a-77005386?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Joint Terrorism Analysis Center raised the terror threat level to severe, which indicates that there's a high likelihood of an attack in the next ..."
     },
     {
         "source": "Leafly",
