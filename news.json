@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US company aims to resurrect bluebuck antelope that was hunted to extinction",
-        "image": "https://media.zenfs.com/en/reuters.com/ad2fa70b0fbc973974a27a8a5a372178",
-        "link": "https://www.yahoo.com/news/articles/us-company-aims-resurrect-bluebuck-120243460.html",
+        "title": "Trump administration says its war in Iran has been 'terminated' before 60-day deadline",
+        "image": "https://media.zenfs.com/en/ap.org/4e09aaedf551a634f64a62716b63fe2e",
+        "link": "https://www.yahoo.com/news/articles/trump-administration-says-war-iran-003504739.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Vessel carrying grain Ukraine says stolen by Russia will not unload in Israel, Kyiv says",
-        "image": "https://media.zenfs.com/en/reuters.com/fbca516416492fb5d20e02574edac59f",
-        "link": "https://www.yahoo.com/news/articles/vessel-carrying-grain-ukraine-says-082740064.html",
+        "title": "New Orleans sheriff indicted after investigation into brazen jailbreak and escape of 10 inmates",
+        "image": "https://media.zenfs.com/en/ap.org/540a2c18d7ae56027f51dc8643e59c30",
+        "link": "https://www.yahoo.com/news/articles/orleans-sheriff-indicted-investigation-brazen-231100399.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The tables have turned. Ukraine is now readying the West for modern war with its weapons and combat expertise.",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/161cbf2d8cb017c3d0d23588a67f7501",
-        "link": "https://www.yahoo.com/news/articles/tables-turned-ukraine-now-readying-101201314.html",
+        "title": "I left my full-time job at 50 and retired to Mexico. After 3 years, I've built a life I love and clear plans to sustain it.",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/d95b162be55566cc1990c8fdec3b92c8",
+        "link": "https://finance.yahoo.com/markets/currencies/articles/left-full-time-job-50-170301898.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Is Myanmar's military winning the civil war?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/is-myanmar-s-military-winning-the-civil-war/a-77009903?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After five years of war, armed resistance groups still challenge Myanmar's military across much of the country. But the generals are now stemming loss..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran in an information vacuum as war expands press crackdown",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-in-an-information-vacuum-as-war-expands-press-crackdown/a-77008882?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "For many journalists in Iran, the truth increasingly treated as a security threat as authorities tighten an already repressive reporting environment w..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UK: Golders Green suspect charged in stabbings of Jewish men",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/uk-golders-green-suspect-charged-in-stabbings-of-jewish-men/a-77008394?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Golders Green stabbings are the latest in a string of attacks on London's Jewish community in recent weeks...."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/myanmar-ex-leader-aung-san-suu-kyi-moved-to-house-arrest/a-77008296?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Aung San Suu Kyi's son said the transfer did not mean freedom and called for the military junta to provide \"proof of life.\" The former leader has not ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: Commercial LPG prices hiked, new cylinder rules take effect",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-commercial-lpg-prices-hiked-new-cylinder-rules-take-effect/live-77007624?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "India has increased the prices of LPG used by the restraunt and hotel industry. It is the third such monthly hike since the Iran war upended global su..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hungary: What will become of Orban and his system?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hungary-what-will-become-of-orban-and-his-system/a-77000968?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Outgoing Hungarian Prime Minister Viktor Orban and his Fidesz party are still reeling from their election defeat earlier this month. There is much spe..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Truce stops clock on Congress approval, says Trump's White House",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-truce-stops-clock-on-congress-approval-says-trump-s-white-house/live-77007473?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Under war powers legislation, US President Trump has until a Friday deadline to end the Iran war or seek approval from Congress. But the White House s..."
     },
     {
         "source": "Leafly",
