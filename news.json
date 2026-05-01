@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US company aims to resurrect bluebuck antelope that was hunted to extinction",
-        "image": "https://media.zenfs.com/en/reuters.com/ad2fa70b0fbc973974a27a8a5a372178",
-        "link": "https://www.yahoo.com/news/articles/us-company-aims-resurrect-bluebuck-120243460.html",
+        "title": "New Orleans sheriff indicted after investigation into brazen jailbreak and escape of 10 inmates",
+        "image": "https://media.zenfs.com/en/ap.org/540a2c18d7ae56027f51dc8643e59c30",
+        "link": "https://www.yahoo.com/news/articles/orleans-sheriff-indicted-investigation-brazen-231100399.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "New Orleans sheriff indicted after investigation into brazen jailbreak and escape of 10 inmates",
-        "image": "https://media.zenfs.com/en/ap.org/540a2c18d7ae56027f51dc8643e59c30",
-        "link": "https://www.yahoo.com/news/articles/orleans-sheriff-indicted-investigation-brazen-231100399.html",
+        "title": "US company aims to resurrect bluebuck antelope that was hunted to extinction",
+        "image": "https://media.zenfs.com/en/reuters.com/ad2fa70b0fbc973974a27a8a5a372178",
+        "link": "https://www.yahoo.com/news/articles/us-company-aims-resurrect-bluebuck-120243460.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/bbc_us_articles_995/64f68d93b7ec1b82597074ef63dcf9ba",
         "link": "https://www.yahoo.com/news/articles/two-men-arrested-illegal-drugs-121006061.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US to withdraw thousands of troops from Germany",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-to-withdraw-thousands-of-troops-from-germany/a-77016071?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The decision to cut US troops comes amid rising tensions after German Chancellor Friedrich Merz said the US was being \"humiliated\" by Iran's leadershi..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-lufthansa-apologizes-for-lost-oscar-statuette/a-77014459?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Lusthansa said it would conduct \"an internal review\" to find out how the Oscar statuette belonging to Russian director Pavel Talankin went missing in ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "May Day marked by protests, celebrations, arrests",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/may-day-marked-by-protests-celebrations-arrests/a-77013669?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Labor Day comes as rising energy costs and shrinking purchasing triggered by the Iran war has hurt workers around the world...."
     },
     {
         "source": "Leafly",
