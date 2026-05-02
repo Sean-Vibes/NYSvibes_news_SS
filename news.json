@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Camp Mystic Withdraws Its Application to Reopen This Summer",
-        "image": "https://media.zenfs.com/en/nbcu_713/b4b786e7040337f38fe092b617fff98e",
-        "link": "https://www.yahoo.com/news/videos/camp-mystic-withdraws-application-reopen-112856841.html",
+        "title": "Criminal cases dropped against Minnesota women who say they helped ICE agent having seizure",
+        "image": "https://media.zenfs.com/en/nbcu_713/a812c1ebb0276c01445f23949ecc5f9e",
+        "link": "https://www.yahoo.com/news/videos/minnesota-dismisses-criminal-cases-against-142106155.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/fortune_175/ddcf87f7682d02c2b56a6366e138f50c",
         "link": "https://finance.yahoo.com/sectors/energy/articles/china-dominates-world-lithium-supply-182419477.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Alex Zanardi, F1 driver and multiple CART and Paralympic champion, dies at 59",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/alex-zanardi-f1-driver-and-multiple-cart-and-paralympic-champion-dies-at-59/a-77018399?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Italian race driver turned Paralympian Alex Zanardi has died aged 59. The former Formula 1 driver and two-time CART champion lost his legs in a horrif..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-to-withdraw-thousands-of-troops-from-germany/a-77016071?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The decision to cut US troops comes amid rising tensions after German Chancellor Friedrich Merz said the US was being \"humiliated\" by Iran's leadershi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Kosovo to hold snap elections in June",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Kosovo will soon hold its third parliamentary election in a year and a half. Prime Minister Albin Kurti was able to form a government in February, but..."
     },
     {
         "source": "Leafly",
