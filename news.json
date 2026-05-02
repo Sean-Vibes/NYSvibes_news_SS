@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "After NASCAR's Greg Biffle and family died, police now think 'friends' stole from them",
-        "image": "https://media.zenfs.com/en/ap.org/0ae66ceec1089063179b4302118d8c87",
-        "link": "https://www.yahoo.com/news/articles/nascars-greg-biffle-family-died-215905211.html",
+        "title": "Trump, Secret Service director say agent at dinner not shot by friendly fire",
+        "image": "https://media.zenfs.com/en/reuters.com/0bf136c3ae4ed07ccd7ba839d8cd6991",
+        "link": "https://www.yahoo.com/news/articles/trump-says-secret-agent-dinner-195625940.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran threatens painful response if US renews attacks",
-        "image": "https://media.zenfs.com/en/reuters.com/566ba3f0e606b044e583c6452de8daee",
-        "link": "https://www.yahoo.com/news/articles/us-seeks-international-help-reopen-103203927.html",
+        "title": "Trump says he's dissatisfied with Iranian proposal as rift with allies deepens",
+        "image": "https://media.zenfs.com/en/reuters.com/0f6be2344c5477574d582100981e09c9",
+        "link": "https://www.yahoo.com/news/articles/uae-says-iran-cannot-trusted-095314297.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China dominates the world\u2019s lithium supply. The U.S. just found 328 years\u2019 worth in its own backyard",
-        "image": "https://media.zenfs.com/en/fortune_175/ddcf87f7682d02c2b56a6366e138f50c",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/china-dominates-world-lithium-supply-182419477.html",
+        "title": "Black conservative unleashes on Obama for 'constantly whining' after SCOTUS voting rights decision",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/4802dffac7d5607b2fd53cd66d70949e",
+        "link": "https://www.yahoo.com/news/articles/black-conservative-unleashes-obama-constantly-213512219.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Austria: Police arrest suspect over poisoned HiPP baby food",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/austria-police-arrest-suspect-over-poisoned-hipp-baby-food/a-77021390?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A 39-year-old man has been arrested in Austria for his alleged involvement in an attempt to blackmail a German baby food manufacturer...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/mali-probes-soldiers-over-role-in-jihadi-attacks/a-77018413?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "At least five soldiers and an exiled politician are being investigated over their alleged involvement in coordinated attacks across Mali last weekend...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Alex Zanardi, F1 driver and multiple CART and Paralympic champion, dies at 59",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/alex-zanardi-f1-driver-and-multiple-cart-and-paralympic-champion-dies-at-59/a-77018399?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Italian race driver turned Paralympian Alex Zanardi has died aged 59. The former Formula 1 driver and two-time CART champion lost his legs in a horrif..."
     },
     {
         "source": "Leafly",
