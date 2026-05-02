@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran threatens painful response if US renews attacks",
-        "image": "https://media.zenfs.com/en/reuters.com/566ba3f0e606b044e583c6452de8daee",
-        "link": "https://www.yahoo.com/news/articles/us-seeks-international-help-reopen-103203927.html",
+        "title": "Vessel carrying grain Ukraine says stolen by Russia will not unload in Israel, Kyiv says",
+        "image": "https://media.zenfs.com/en/reuters.com/fbca516416492fb5d20e02574edac59f",
+        "link": "https://www.yahoo.com/news/articles/vessel-carrying-grain-ukraine-says-082740064.html",
         "summary": "..."
     },
     {
@@ -71,6 +71,13 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Taiwan's president visits Eswatini despite China's objection",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/taiwan-s-president-visits-eswatini-despite-china-s-objection/a-77019778?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The visit of Taiwan's President Lai Ching-te to the African country was delayed after several countries reportedly withdrew permission for him to fly ..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Mali probes soldiers over role in Jihadi attacks",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/mali-probes-soldiers-over-role-in-jihadi-attacks/a-77018413?maca=en-rss-en-all-1573-xml-mrss",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-jailed-nobel-winner-narges-mohammadi-hospitalized/a-77017010?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Iranian activist Narges Mohammadi is in hospital after suffering a \"cardiac crisis\" in prison, her family says. Mohammadi won the 2023 Nobel Peace Pri..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How the Iran war is hurting travelers, airline industry",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-the-iran-war-is-hurting-travelers-airline-industry/a-77000742?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Europeans may have to reconsider their summer travel plans, as a jet fuel shortage triggered by the blockade of the Strait of Hormuz could lead airlin..."
     },
     {
         "source": "Leafly",
