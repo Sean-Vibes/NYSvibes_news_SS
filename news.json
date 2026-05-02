@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump, Secret Service director say agent at dinner not shot by friendly fire",
-        "image": "https://media.zenfs.com/en/reuters.com/0bf136c3ae4ed07ccd7ba839d8cd6991",
-        "link": "https://www.yahoo.com/news/articles/trump-says-secret-agent-dinner-195625940.html",
+        "title": "Ukraine strikes Russian port of Tuapse again as environment crisis deepens",
+        "image": "https://media.zenfs.com/en/reuters.com/22138b790b570ab70f391fbb225dd979",
+        "link": "https://www.yahoo.com/news/articles/ukrainian-drones-spark-blaze-russian-112020958.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump says he's dissatisfied with Iranian proposal as rift with allies deepens",
-        "image": "https://media.zenfs.com/en/reuters.com/0f6be2344c5477574d582100981e09c9",
-        "link": "https://www.yahoo.com/news/articles/uae-says-iran-cannot-trusted-095314297.html",
+        "title": "After NASCAR's Greg Biffle and family died, police now think 'friends' stole from them",
+        "image": "https://media.zenfs.com/en/ap.org/0ae66ceec1089063179b4302118d8c87",
+        "link": "https://www.yahoo.com/news/articles/nascars-greg-biffle-family-died-215905211.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Black conservative unleashes on Obama for 'constantly whining' after SCOTUS voting rights decision",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/4802dffac7d5607b2fd53cd66d70949e",
-        "link": "https://www.yahoo.com/news/articles/black-conservative-unleashes-obama-constantly-213512219.html",
+        "title": "I'm an ex-Amazon recruiter. My advice for job seekers: Don't come across as trying too hard \u2014 be found or referred.",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/660f1f6693158b85d3561b81176bd6a2",
+        "link": "https://www.yahoo.com/lifestyle/articles/im-former-amazon-recruiter-heres-091001214.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: US troop pullout 'expected' \u2014 Pistorius",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-us-troop-pullout-expected-pistorius/live-77018194?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Defense Minister Boris Pistorius says Europe must do more for its own security after the US withdrawal announcement. Police have said some violence ma..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Why Russia\u2019s Northern Sea Route remains a risky bet for global shipping",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/why-russia-s-northern-sea-route-remains-a-risky-bet-for-global-shipping/a-76987400?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Russia wants its Northern Sea Route to become an important artery of global trade. However, the arctic shortcut between Europe and Asia is fraught wit..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/why-ukraine-and-israel-are-arguing-over-grain/a-77018771?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Cargo ships have docked in Haifa, Israel, carrying grain thought to originate from Russian-occupied parts of Ukraine. Kyiv considers the cargo to be s..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Taiwan's president visits Eswatini despite China's objection",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/taiwan-s-president-visits-eswatini-despite-china-s-objection/a-77019778?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The visit of Taiwan's President Lai Ching-te to the African country was delayed after several countries reportedly withdrew permission for him to fly ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Mali probes soldiers over role in Jihadi attacks",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/mali-probes-soldiers-over-role-in-jihadi-attacks/a-77018413?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "At least five soldiers and an exiled politician are being investigated over their alleged involvement in coordinated attacks across Mali last weekend...."
     },
     {
         "source": "Leafly",
