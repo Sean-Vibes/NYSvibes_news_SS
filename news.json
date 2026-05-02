@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Vessel carrying grain Ukraine says stolen by Russia will not unload in Israel, Kyiv says",
-        "image": "https://media.zenfs.com/en/reuters.com/fbca516416492fb5d20e02574edac59f",
-        "link": "https://www.yahoo.com/news/articles/vessel-carrying-grain-ukraine-says-082740064.html",
+        "title": "Camp Mystic Withdraws Its Application to Reopen This Summer",
+        "image": "https://media.zenfs.com/en/nbcu_713/b4b786e7040337f38fe092b617fff98e",
+        "link": "https://www.yahoo.com/news/videos/camp-mystic-withdraws-application-reopen-112856841.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/fortune_175/ddcf87f7682d02c2b56a6366e138f50c",
         "link": "https://finance.yahoo.com/sectors/energy/articles/china-dominates-world-lithium-supply-182419477.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: US troop pullout 'expected' \u2014 Pistorius",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-us-troop-pullout-expected-pistorius/live-77018194?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Defense Minister Boris Pistorius says Europe must do more for its own security after the US withdrawal announcement. Police have said some violence ma..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Kosovo will soon hold its third parliamentary election in a year and a half. Prime Minister Albin Kurti was able to form a government in February, but..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Humpback whale Timmy released in North Sea but risk remains",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/humpback-whale-timmy-released-in-north-sea-but-risk-remains/a-77016789?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After weeks of drama, the stranded humpback whale is back in his natural habitat, but still not out of harm's way...."
     },
     {
         "source": "Leafly",
