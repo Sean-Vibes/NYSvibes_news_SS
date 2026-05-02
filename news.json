@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US company aims to resurrect bluebuck antelope that was hunted to extinction",
-        "image": "https://media.zenfs.com/en/reuters.com/ad2fa70b0fbc973974a27a8a5a372178",
-        "link": "https://www.yahoo.com/news/articles/us-company-aims-resurrect-bluebuck-120243460.html",
+        "title": "India central bank's FX forward book balloons to over $100 billion as Iran war pummels rupee",
+        "image": "https://media.zenfs.com/en/reuters.com/02b51b9c524fe43968872a6f135c979c",
+        "link": "https://finance.yahoo.com/news/india-central-banks-fx-forward-132354288.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Vessel carrying grain Ukraine says stolen by Russia will not unload in Israel, Kyiv says",
-        "image": "https://media.zenfs.com/en/reuters.com/fbca516416492fb5d20e02574edac59f",
-        "link": "https://www.yahoo.com/news/articles/vessel-carrying-grain-ukraine-says-082740064.html",
+        "title": "US company aims to resurrect bluebuck antelope that was hunted to extinction",
+        "image": "https://media.zenfs.com/en/reuters.com/ad2fa70b0fbc973974a27a8a5a372178",
+        "link": "https://www.yahoo.com/news/articles/us-company-aims-resurrect-bluebuck-120243460.html",
         "summary": "..."
     },
     {
@@ -71,38 +71,38 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Kosovo to hold snap elections in June",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/kosovo-to-hold-snap-elections-in-june/a-77003278?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Kosovo will soon hold its third parliamentary election in a year and a half. Prime Minister Albin Kurti was able to form a government in February, but..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "'Timmy' the whale swims free in the North Sea",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/timmy-the-whale-swims-free-in-the-north-sea/a-77016789?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After weeks of drama, the stranded humpback whale is back in his natural habitat \u2014 but still not out of harm's way...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "The significance of US military bases in Germany",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/the-significance-of-us-military-bases-in-germany/a-77015428?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "President Trump is planning to cut US troop numbers in Germany. How many US bases are there in the country and what's their strategic importance?..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Spirit Airlines says they are going out of business",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/spirit-airlines-says-they-are-going-out-of-business/a-77016867?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "All flights by the troubled US carrier Spirit Airlines have been cancelled, with the company saying it was ending operations \"immediately\" after talks..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "New Oscars rules exclude AI performers, require scripts written by human",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/new-oscars-rules-exclude-ai-performers-require-scripts-written-by-human/a-77016539?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "AI performers will not qualify for Oscars under new Academy rules that also overhaul the international film category and acting nominations...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US to withdraw thousands of troops from Germany",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-to-withdraw-thousands-of-troops-from-germany/a-77016071?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The decision to cut US troops comes amid rising tensions after German Chancellor Friedrich Merz said the US was being \"humiliated\" by Iran's leadershi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Can Iran withstand the US naval blockade?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/can-iran-withstand-the-us-naval-blockade/a-77014627?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Trump administration is trying to force Iran into concessions by cutting off its oil exports. Will it prevail?..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine plans army pay hikes, phased discharge \u2014 Zelenskyy",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-plans-army-pay-hikes-phased-discharge-zelenskyy/a-77014629?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Ukrainian President Volodymyr Zelenskyy announced reforms to boost morale and address military complaints about exhaustion and uneven workloads on..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump to raise tariffs on cars, trucks from EU to 25%",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-to-raise-tariffs-on-cars-trucks-from-eu-to-25/a-77014772?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "President Donald Trump said he's raising tariffs on cars and trucks from the European Union to 25%, claiming the bloc was not complying with its trade..."
     },
     {
         "source": "Leafly",
