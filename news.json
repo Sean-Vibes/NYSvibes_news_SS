@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US company aims to resurrect bluebuck antelope that was hunted to extinction",
-        "image": "https://media.zenfs.com/en/reuters.com/ad2fa70b0fbc973974a27a8a5a372178",
-        "link": "https://www.yahoo.com/news/articles/us-company-aims-resurrect-bluebuck-120243460.html",
+        "title": "Vessel carrying grain Ukraine says stolen by Russia will not unload in Israel, Kyiv says",
+        "image": "https://media.zenfs.com/en/reuters.com/fbca516416492fb5d20e02574edac59f",
+        "link": "https://www.yahoo.com/news/articles/vessel-carrying-grain-ukraine-says-082740064.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Criminal cases dropped against Minnesota women who say they helped ICE agent having seizure",
-        "image": "https://media.zenfs.com/en/nbcu_713/a812c1ebb0276c01445f23949ecc5f9e",
-        "link": "https://www.yahoo.com/news/videos/minnesota-dismisses-criminal-cases-against-142106155.html",
+        "title": "Trump, Secret Service director say agent at dinner not shot by friendly fire",
+        "image": "https://media.zenfs.com/en/reuters.com/0bf136c3ae4ed07ccd7ba839d8cd6991",
+        "link": "https://www.yahoo.com/news/articles/trump-says-secret-agent-dinner-195625940.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/fortune_175/ddcf87f7682d02c2b56a6366e138f50c",
         "link": "https://finance.yahoo.com/sectors/energy/articles/china-dominates-world-lithium-supply-182419477.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Mali probes soldiers over role in Jihadi attacks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/mali-probes-soldiers-over-role-in-jihadi-attacks/a-77018413?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "At least five soldiers and an exiled politician are being investigated over their alleged involvement in coordinated attacks across Mali last weekend...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/how-the-iran-war-is-hurting-travelers-airline-industry/a-77000742?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Europeans may have to reconsider their summer travel plans, as a jet fuel shortage triggered by the blockade of the Strait of Hormuz could lead airlin..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US to withdraw thousands of troops from Germany",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-to-withdraw-thousands-of-troops-from-germany/a-77016071?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The decision to cut US troops comes amid rising tensions after German Chancellor Friedrich Merz said the US was being \"humiliated\" by Iran's leadershi..."
     },
     {
         "source": "Leafly",
