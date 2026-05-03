@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Air Force says former Qatari 747 will be ready to fly Trump as Air Force One this summer",
-        "image": "https://media.zenfs.com/en/ap.org/d9baf36429cab6d02136c104f013db45",
-        "link": "https://www.yahoo.com/news/articles/air-force-says-former-qatari-004501346.html",
+        "title": "Germany says US troop drawdown should spur Europe, but top Republicans worried",
+        "image": "https://media.zenfs.com/en/reuters.com/03399051119c5ef0facbf52f0a5d4a4e",
+        "link": "https://www.yahoo.com/news/articles/us-troop-drawback-underlines-european-080323479.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/660f1f6693158b85d3561b81176bd6a2",
         "link": "https://www.yahoo.com/lifestyle/articles/im-former-amazon-recruiter-heres-091001214.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "How Serbia's government dominates the country's media",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/how-serbia-s-government-dominates-the-country-s-media/a-77004243?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Since Serbia's ruling SNS party came to power in 2012, it has tightened its grip on the media. With an election expected soon, experts fear authoritie..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/millions-sway-as-free-shakira-concert-lights-up-copacabana/a-77022547?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Colombian superstar delivers one of the biggest shows of her career, as fans flock from Brazil and beyond for her \"Women No Longer Cry\" world tour..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump says cutting US troops in Germany 'a lot further'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-says-cutting-us-troops-in-germany-a-lot-further/a-77022292?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany's defense minister has said Europe needs to take more responsibility for its own security. Top Republicans warn reducing troop numbers sends t..."
     },
     {
         "source": "Leafly",
