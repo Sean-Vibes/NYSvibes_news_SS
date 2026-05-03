@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Israel approves plan to buy F-35 and F-15IA fighter jets from Lockheed, Boeing",
-        "image": "https://media.zenfs.com/en/reuters.com/73427b5ad470c0e6ecd9ff067738d96e",
-        "link": "https://www.yahoo.com/news/articles/israel-approves-plan-buy-f-071919416.html",
+        "title": "Air Force says former Qatari 747 will be ready to fly Trump as Air Force One this summer",
+        "image": "https://media.zenfs.com/en/ap.org/d9baf36429cab6d02136c104f013db45",
+        "link": "https://www.yahoo.com/news/articles/air-force-says-former-qatari-004501346.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/660f1f6693158b85d3561b81176bd6a2",
         "link": "https://www.yahoo.com/lifestyle/articles/im-former-amazon-recruiter-heres-091001214.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukrainian drones hit Russia's Primorsk oil terminal",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukrainian-drones-hit-russia-s-primorsk-oil-terminal/a-77023217?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ukrainian President Volodymyr Zelenskyy said Kyiv also hit two of Russia's shadow fleet tankers near the Black Sea port of Novorossiysk. Two sides hav..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/trump-says-cutting-us-troops-in-germany-a-lot-further/a-77022292?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Germany's defense minister has said Europe needs to take more responsibility for its own security. Top Republicans warn reducing troop numbers sends t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Where Germany's economy still excels",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/where-germany-s-economy-still-excels/a-77020320?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "German industry is being lapped in key sectors like solar panels, semiconductors and even cars \u2014 but the country's midsize businesses suggest the econ..."
     },
     {
         "source": "Leafly",
