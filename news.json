@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Germany says US troop drawdown should spur Europe, but top Republicans worried",
-        "image": "https://media.zenfs.com/en/reuters.com/03399051119c5ef0facbf52f0a5d4a4e",
-        "link": "https://www.yahoo.com/news/articles/us-troop-drawback-underlines-european-080323479.html",
+        "title": "Israel approves plan to buy F-35 and F-15IA fighter jets from Lockheed, Boeing",
+        "image": "https://media.zenfs.com/en/reuters.com/73427b5ad470c0e6ecd9ff067738d96e",
+        "link": "https://www.yahoo.com/news/articles/israel-approves-plan-buy-f-071919416.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/660f1f6693158b85d3561b81176bd6a2",
         "link": "https://www.yahoo.com/lifestyle/articles/im-former-amazon-recruiter-heres-091001214.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Philippines' Mayon volcano spews ash \u2014 Pictures",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/philippines-mayon-volcano-spews-ash-pictures/a-77022712?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The most active volcano in the Philippines is erupting, sending lava down its slope and covering surrounding villages in ash...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/where-germany-s-economy-still-excels/a-77020320?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "German industry is being lapped in key sectors like solar panels, semiconductors and even cars \u2014 but the country's midsize businesses suggest the econ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "North Korea rejects US cybercrime claims as 'absurd slander'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/north-korea-rejects-us-cybercrime-claims-as-absurd-slander/a-77021832?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Pyongyang refutes allegations of hacking and crypto theft, even as a UN panel estimated billions stolen by North Korea-linked cyberattacks...."
     },
     {
         "source": "Leafly",
