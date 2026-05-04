@@ -36,16 +36,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Amid leaks, Justice Gorsuch says US Supreme Court needs room for 'candid conversations'",
-        "image": "https://media.zenfs.com/en/reuters.com/e563e98ac452e48b90045900c4553e98",
-        "link": "https://www.yahoo.com/news/articles/amid-leaks-justice-gorsuch-says-161823574.html",
+        "title": "America In Focus: Inflation jumps and gas soars but American consumers seemed to take it in stride",
+        "image": "https://media.zenfs.com/en/ap.org/95c4a35e7bcb687412242f87b8e11935",
+        "link": "https://finance.yahoo.com/economy/articles/america-focus-inflation-jumps-gas-152511301.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Police officer lowered into crocodile-infested river to recover human remains",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/3201ea266e659bd557d22f04255a10d7",
-        "link": "https://www.yahoo.com/news/articles/police-officer-lowered-crocodile-infested-154227633.html",
+        "title": "As economic despair mounts, Russian official admits the country has had enough of Putin\u2019s war on Ukraine. \u2018We can\u2019t even take one region\u2019",
+        "image": "https://media.zenfs.com/en/fortune_175/c8c82a90bb18a528587f4f2ff637af6c",
+        "link": "https://finance.yahoo.com/economy/articles/economic-despair-mounts-russian-official-204712062.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "FEMA tells court it is offering jobs back to employees who were let go in January",
-        "image": "https://media.zenfs.com/en/ap.org/38491189034be81f71507a2937bdf785",
-        "link": "https://www.yahoo.com/news/articles/fema-tells-court-offering-jobs-024907505.html",
+        "title": "'I never saw such a weak case': Adam Schiff slams James Comey indictment",
+        "image": "https://media.zenfs.com/en/nbcu_713/cd807c3cf521c8f2fdd1de0133880ab7",
+        "link": "https://www.yahoo.com/news/videos/never-saw-weak-case-adam-134305933.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "My Spirit Airlines flight was canceled at 2 a.m. I paid $800 extra to get my mom and me home.",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/98dec38bf97eab94fbedfaf15968431a",
-        "link": "https://travel.yahoo.com/flights/articles/spirit-airlines-flight-canceled-2-191944792.html",
+        "title": "I'm an ex-Amazon recruiter. My advice for job seekers: Don't come across as trying too hard \u2014 be found or referred.",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/660f1f6693158b85d3561b81176bd6a2",
+        "link": "https://www.yahoo.com/lifestyle/articles/im-former-amazon-recruiter-heres-091001214.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ex-New York Mayor Giuliani in hospital, condition 'critical'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ex-new-york-mayor-giuliani-in-hospital-condition-critical/a-77026193?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Rudy Giuliani was dubbed \"America\u2019s mayor\" for leading New York City through the aftermath of the 9/11 terror attacks in 2001. But his reputation took..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Suspected Hantavirus outbreak on Atlantic cruise ship kills 3, WHO says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/suspected-hantavirus-outbreak-on-atlantic-cruise-ship-kills-3-who-says/a-77026143?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The virus usually spreads by contact with the urine or feces of infected rodents like rats and mice. It can cause a severe and sometimes deadly lung i..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/how-serbia-s-government-dominates-the-country-s-media/a-77004243?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Since Serbia's ruling SNS party came to power in 2012, it has tightened its grip on the media. With an election expected soon, experts fear authoritie..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukrainian drones hit Russia's Primorsk oil terminal",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukrainian-drones-hit-russia-s-primorsk-oil-terminal/a-77023217?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukrainian President Volodymyr Zelenskyy said Kyiv also hit two of Russia's shadow fleet tankers near the Black Sea port of Novorossiysk. Two sides hav..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Philippines' Mayon volcano spews ash \u2014 Pictures",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/philippines-mayon-volcano-spews-ash-pictures/a-77022712?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The most active volcano in the Philippines is erupting, sending lava down its slope and covering surrounding villages in ash...."
     },
     {
         "source": "Leafly",
