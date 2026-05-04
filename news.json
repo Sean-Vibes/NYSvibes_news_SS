@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "America In Focus: Inflation jumps and gas soars but American consumers seemed to take it in stride",
-        "image": "https://media.zenfs.com/en/ap.org/95c4a35e7bcb687412242f87b8e11935",
-        "link": "https://finance.yahoo.com/economy/articles/america-focus-inflation-jumps-gas-152511301.html",
+        "title": "Israel approves plan to buy F-35 and F-15IA fighter jets from Lockheed, Boeing",
+        "image": "https://media.zenfs.com/en/reuters.com/cfe7d0a29f196bb37a0a55e43f954100",
+        "link": "https://www.yahoo.com/news/articles/israel-approves-plan-buy-f-071919416.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "'I never saw such a weak case': Adam Schiff slams James Comey indictment",
-        "image": "https://media.zenfs.com/en/nbcu_713/cd807c3cf521c8f2fdd1de0133880ab7",
-        "link": "https://www.yahoo.com/news/videos/never-saw-weak-case-adam-134305933.html",
+        "title": "America In Focus: Inflation jumps and gas soars but American consumers seemed to take it in stride",
+        "image": "https://media.zenfs.com/en/ap.org/95c4a35e7bcb687412242f87b8e11935",
+        "link": "https://finance.yahoo.com/economy/articles/america-focus-inflation-jumps-gas-152511301.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/660f1f6693158b85d3561b81176bd6a2",
         "link": "https://www.yahoo.com/lifestyle/articles/im-former-amazon-recruiter-heres-091001214.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: State polls test Modi's political might",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-state-polls-test-modi-s-political-might/live-77026483?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Vote counting begins in West Bengal, Tamil Nadu, Kerala, Assam and Puducherry as Prime Minister Narendra Modi's Hindu nationalist party hopes to make ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "North Korea women's soccer club to make rare South Korea visit",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/north-korea-women-s-soccer-club-to-make-rare-south-korea-visit/a-77026239?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A rare inter-Korean sports clash will take place in South Korea this month. For the first time in 8 years, a North Korean sports team will play in the..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/merz-not-giving-up-on-germany-s-relationship-with-us/a-77026062?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The German chancellor said there was \"no connection\" between disagreements over the Iran war and the pullout of US troops from Germany. He insisted he..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nigeria summons South Africa envoy over xenophobic incidents",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nigeria-summons-south-africa-envoy-over-xenophobic-incidents/a-77023858?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Nigeria joins other international voices warning against rising anti-migrant sentiment targeting Africans in South Africa...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How Serbia's government dominates the country's media",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-serbia-s-government-dominates-the-country-s-media/a-77004243?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Since Serbia's ruling SNS party came to power in 2012, it has tightened its grip on the media. With an election expected soon, experts fear authoritie..."
     },
     {
         "source": "Leafly",
