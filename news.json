@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Israel approves plan to buy F-35 and F-15IA fighter jets from Lockheed, Boeing",
-        "image": "https://media.zenfs.com/en/reuters.com/cfe7d0a29f196bb37a0a55e43f954100",
-        "link": "https://www.yahoo.com/news/articles/israel-approves-plan-buy-f-071919416.html",
+        "title": "European leaders see Trump's troop drawdown from Germany as new proof they must go it alone",
+        "image": "https://media.zenfs.com/en/ap.org/67df59101dadeabbaa134b70294cd053",
+        "link": "https://www.yahoo.com/news/articles/european-leaders-see-trumps-troop-065941526.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "America In Focus: Inflation jumps and gas soars but American consumers seemed to take it in stride",
-        "image": "https://media.zenfs.com/en/ap.org/95c4a35e7bcb687412242f87b8e11935",
-        "link": "https://finance.yahoo.com/economy/articles/america-focus-inflation-jumps-gas-152511301.html",
+        "title": "Israel approves plan to buy F-35 and F-15IA fighter jets from Lockheed, Boeing",
+        "image": "https://media.zenfs.com/en/reuters.com/cfe7d0a29f196bb37a0a55e43f954100",
+        "link": "https://www.yahoo.com/news/articles/israel-approves-plan-buy-f-071919416.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "I'm an ex-Amazon recruiter. My advice for job seekers: Don't come across as trying too hard \u2014 be found or referred.",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/660f1f6693158b85d3561b81176bd6a2",
-        "link": "https://www.yahoo.com/lifestyle/articles/im-former-amazon-recruiter-heres-091001214.html",
+        "title": "Police officer lowered into crocodile-infested river to recover human remains",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/3201ea266e659bd557d22f04255a10d7",
+        "link": "https://www.yahoo.com/news/articles/police-officer-lowered-crocodile-infested-154227633.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Women's Champions League: Bayern fall to Barcelona in semis",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/women-s-champions-league-bayern-fall-to-barcelona-in-semis/a-77030846?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Bayern Munich have come up short in their bid to win the Women's Champions League for the first time after losing to Barcelona in the semifinals...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: US to escort ships through the Strait of Hormuz",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-us-to-escort-ships-through-the-strait-of-hormuz/live-77026618?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US President Donald Trump has announced the \"Project Freedom\" operation to \"help free up\" ships stuck in the Strait of Hormuz. Iran says that amounts ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US transfers crew of seized Iranian ship to Pakistan",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-transfers-crew-of-seized-iranian-ship-to-pakistan/a-77028457?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Pakistan's Foreign Ministry said that the \"confidence-building measure\" was supported by both sides...."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/north-korea-women-s-soccer-club-to-make-rare-south-korea-visit/a-77026239?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A rare inter-Korean sports clash will take place in South Korea this month. For the first time in 8 years, a North Korean sports team will play in the..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ex-New York Mayor Giuliani in hospital, condition 'critical'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ex-new-york-mayor-giuliani-in-hospital-condition-critical/a-77026193?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Rudy Giuliani was dubbed \"America\u2019s mayor\" for leading New York City through the aftermath of the 9/11 terror attacks in 2001. But his reputation took..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Suspected Hantavirus outbreak on Atlantic cruise ship kills 3, WHO says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/suspected-hantavirus-outbreak-on-atlantic-cruise-ship-kills-3-who-says/a-77026143?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The virus usually spreads by contact with the urine or feces of infected rodents like rats and mice. It can cause a severe and sometimes deadly lung i..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Merz 'not giving up' on Germany's relationship with US",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/merz-not-giving-up-on-germany-s-relationship-with-us/a-77026062?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The German chancellor said there was \"no connection\" between disagreements over the Iran war and the pullout of US troops from Germany. He insisted he..."
     },
     {
         "source": "Leafly",
