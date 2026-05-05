@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Florida 12-year-old accused of threatening teacher, saying she will 'shoot up' school",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/ece5d2c69cdcb57ab78ccd5d71a3183a",
+        "link": "https://www.yahoo.com/news/articles/florida-12-old-accused-threatening-181925973.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "US, Gulf allies threaten Iran with sanctions in UN proposal if it doesn't release Hormuz chokehold",
+        "image": "https://media.zenfs.com/en/ap.org/b30593af2905e033fbaea5cfd3637ac0",
+        "link": "https://www.yahoo.com/news/articles/proposed-un-resolution-threatens-iran-165935687.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Video shows Florida mom\u2019s heated arrest after she allegedly kicked child at youth football game",
         "image": "https://media.zenfs.com/en/fox_news_text_979/68b6e7737c002a960eb7f2add2a608a2",
         "link": "https://www.yahoo.com/news/articles/video-shows-florida-mom-heated-201404916.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Proposed UN resolution threatens Iran with sanctions if it doesn't allow freedom of navigation",
-        "image": "https://media.zenfs.com/en/ap.org/9e0c7e53c072d15441cde0226348a664",
-        "link": "https://www.yahoo.com/news/articles/proposed-un-resolution-threatens-iran-165935687.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump's plan to transfer millions of student-loan accounts to the Treasury is in the works, officials confirm",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/560a3a22fa728ac19c110990b7e20799",
-        "link": "https://www.yahoo.com/news/articles/trumps-plan-transfer-millions-student-191712696.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Spain to receive hantavirus-hit ship in Canary Islands",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/spain-to-receive-hantavirus-hit-ship-in-canary-islands/a-77059425?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Three passengers abord the MV Hondius have died after a hantavirus outbreak onboard. The cruise ship has been stuck off the coast of Cape Verde since ..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/boko-haram-militants-kill-at-least-23-troops-in-chad-attack/a-77057854?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Chad's President Mahamat Idriss Deby Itno vowed to eradicate Boko Haram after the \"cowardly\" attack. Boko Haram is one of several armed groups operati..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Armenia balances on the tightrope between Russia and the EU",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/armenia-balances-on-the-tightrope-between-russia-and-the-eu/a-77055231?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Armenia is moving closer to the EU politically and strategically. But its clear orientation toward the West while keeping close ties with Russia remai..."
     },
     {
         "source": "Leafly",
