@@ -64,10 +64,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Video shows Florida mom\u2019s heated arrest after she allegedly kicked child at youth football game",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/68b6e7737c002a960eb7f2add2a608a2",
-        "link": "https://www.yahoo.com/news/articles/video-shows-florida-mom-heated-201404916.html",
+        "title": "Ukrainian pilots are breaking from Soviet-era tactics and learning to fly with a Western mindset, trainers say",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/a8e842ff71650b7449de2261e9fd16a3",
+        "link": "https://www.yahoo.com/news/articles/ukrainian-pilots-breaking-soviet-era-131322319.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Operation Epic Fury is 'over,' Rubio says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-operation-epic-fury-is-over-rubio-says/live-77059422?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US Secretary of State says that US forces will now only operate defensively to enforce a naval blockade of Iran, which in turn has denied attackin..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-west-bengal-election-win-boosts-modi-s-bjp/a-77058088?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The election outcome allows Prime Minister Narendra Modi's Bharatiya Janata Party to further expand its political dominance...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Boko Haram militants kill at least 23 troops in Chad attack",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/boko-haram-militants-kill-at-least-23-troops-in-chad-attack/a-77057854?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Chad's President Mahamat Idriss Deby Itno vowed to eradicate Boko Haram after the \"cowardly\" attack. Boko Haram is one of several armed groups operati..."
     },
     {
         "source": "Leafly",
