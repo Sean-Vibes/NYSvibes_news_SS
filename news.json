@@ -50,24 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Police officer lowered into crocodile-infested river to recover human remains",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/3201ea266e659bd557d22f04255a10d7",
+        "link": "https://www.yahoo.com/news/articles/police-officer-lowered-crocodile-infested-154227633.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Astronomers believe they've detected an atmosphere around a tiny, icy world beyond Pluto",
+        "image": "https://media.zenfs.com/en/ap.org/f46818c6b111dc1595778a8ad168139b",
+        "link": "https://www.yahoo.com/news/articles/astronomers-believe-theyve-detected-atmosphere-150221528.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Video shows Florida mom\u2019s heated arrest after she allegedly kicked child at youth football game",
         "image": "https://media.zenfs.com/en/fox_news_text_979/68b6e7737c002a960eb7f2add2a608a2",
         "link": "https://www.yahoo.com/news/articles/video-shows-florida-mom-heated-201404916.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Israel approves plan to buy F-35 and F-15IA fighter jets from Lockheed, Boeing",
-        "image": "https://media.zenfs.com/en/reuters.com/cfe7d0a29f196bb37a0a55e43f954100",
-        "link": "https://www.yahoo.com/news/articles/israel-approves-plan-buy-f-071919416.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Iran war: Germany condemns attacks on UAE",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-germany-condemns-attacks-on-uae/live-77045752?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "German Chancellor Friedrich Merz has urged Iran to return to the negotiating table after the UAE was targeted by drone and missile attacks. DW has the..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Police officer lowered into crocodile-infested river to recover human remains",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/3201ea266e659bd557d22f04255a10d7",
-        "link": "https://www.yahoo.com/news/articles/police-officer-lowered-crocodile-infested-154227633.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "China: Explosion at fireworks factory kills at least 21",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/china-explosion-at-fireworks-factory-kills-at-least-21/a-77045835?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A blast at a fireworks factory in China has killed 21 people and wounded 61 others. President Xi Jinping has called for a thorough probe...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: UAE reports first Iranian missile and drone attacks in weeks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-uae-reports-first-iranian-missile-and-drone-attacks-in-weeks/live-77026618?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The United Arab Emirates has reported missile and drone attacks from Iran, the first of their kind since the April ceasefire. This comes as the US see..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/russia-offers-ukraine-may-8-9-ceasefire-amid-wwii-anniversary-but-threatens-major-reprisals-in-same-breath/a-77045078?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "President Putin has unilaterally declared a two-day truce amid commemorations of the end of World War II in Moscow. Ukraine's President Zelenskyy prop..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: UAE reports first Iranian missile and drone attacks in weeks",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-uae-reports-first-iranian-missile-and-drone-attacks-in-weeks/live-77026618?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The United Arab Emirates has reported missile and drone attacks from Iran, the first of their kind since the April ceasefire. This comes as the US see..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Leipzig: 2 killed after car drives into crowd",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/leipzig-2-killed-after-car-drives-into-crowd/a-77043222?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The driver was a 33-year-old German national who has now been detained. The incident occurred on Grimmaische Street in the heart of Leipzig...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Dubai's image as a financial hub faces its biggest test yet",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/dubai-s-image-as-a-financial-hub-faces-its-biggest-test-yet/a-76959753?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Amid the smoldering Iran war, wealthy elites are quietly shifting capital and other assets out of Dubai and heading to Singapore and Switzerland. Just..."
     },
     {
         "source": "Leafly",
