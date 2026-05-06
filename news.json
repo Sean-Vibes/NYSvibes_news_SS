@@ -1,6 +1,27 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Arizona Anti-Marijuana Campaign Drops Effort To Put Legalization Rollback On Ballot",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/arizona-anti-marijuana-campaign-drops-effort-to-put-legalization-rollback-on-ballot/",
+        "summary": "<p>An Arizona campaign that had been seeking to place an initiative on the ballot to repeal of key provisions of... <a class=\"small font-montserrat fo..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "Congressional Report Explains Implications\u2014And Limitations\u2014Of Trump\u2019s Marijuana Rescheduling Move For Users And Industry",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/congressional-report-explains-implications-and-limitations-of-trumps-marijuana-rescheduling-move-for-users-and-industry/",
+        "summary": "<p>Congressional researchers are laying out the scope and limitations of the Trump administration\u2019s marijuana rescheduling action\u2014explaining that whil..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "Lawsuit seeks to reverse cannabis rescheduling (Newsletter: May 6, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/lawsuit-seeks-to-reverse-cannabis-rescheduling-newsletter-may-6-2026/",
+        "summary": "<p>GOP senator on marijuana banking; PA cannabis regulatory vote; SC medical marijuana access; NC cannabis ballot bill; Groups push VA... <a class=\"sm..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Marijuana Opponents File Lawsuit To Block Trump Administration\u2019s Federal Rescheduling Move",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/marijuana-opponents-file-lawsuit-to-block-trump-administrations-federal-rescheduling-move/",
@@ -14,38 +35,10 @@
         "summary": "<p>The Republican senator who heads up the Banking Committee says the fact that marijuana remains illegal at the federal level... <a class=\"small font..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Pennsylvania Senate Panel Approves Bill To Regulate Marijuana And Hemp, With New Amendments",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/pennsylvania-senate-panel-approves-bill-to-regulate-marijuana-and-hemp-with-new-amendments/",
-        "summary": "<p>A Pennsylvania Senate committee has approved a bill to create a new Cannabis Control Board (CCB) to oversee the state\u2019s... <a class=\"small font-mon..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "North Carolina Voters Could Decide To Legalize Marijuana At The Ballot In November Under New Senate Bill",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/north-carolina-voters-could-decide-to-legalize-marijuana-at-the-ballot-in-november-under-new-senate-bill/",
-        "summary": "<p>North Carolina senators have filed a new bill that, if enacted, would allow voters to decide whether to legalize marijuana... <a class=\"small font-..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "\u2018Medical Marijuana Is Now Legal In South Carolina,\u2019 GOP Senator Declares As Republican Governor Candidate Calls It A \u2018Gateway Drug\u2019",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/medical-marijuana-is-now-legal-in-south-carolina-gop-senator-declares-as-republican-governor-candidate-calls-it-a-gateway-drug/",
-        "summary": "<p>A Republican South Carolina state senator says that \u201cmedical marijuana is now legal\u201d in the state following the Trump administration\u2019s... <a class=..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "German defence ministry says no 'definitive cancellation' of US weapons deployment",
-        "image": "https://media.zenfs.com/en/reuters.com/260688f377324209bc8d4a3bc75334eb",
-        "link": "https://www.yahoo.com/news/articles/german-defence-ministry-says-no-123754773.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Newly released documents reveal more than $300,000 in taxpayer-funded sexual harassment settlements involving lawmakers",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/d89da0985ec7693f95f875c36c285b55",
-        "link": "https://www.yahoo.com/news/articles/newly-released-documents-reveal-more-040150883.html",
+        "title": "Some iPhone owners could get up to $95 payment after Apple agrees to settle case for $250 million",
+        "image": "https://media.zenfs.com/en/ap.org/ffa665bf6b6ed05df5e2818cd929e6cb",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/iphone-owners-could-95-payment-105002550.html",
         "summary": "..."
     },
     {
@@ -57,6 +50,13 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Newly released documents reveal more than $300,000 in taxpayer-funded sexual harassment settlements involving lawmakers",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/d89da0985ec7693f95f875c36c285b55",
+        "link": "https://www.yahoo.com/news/articles/newly-released-documents-reveal-more-040150883.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Astronomers believe they've detected an atmosphere around a tiny, icy world beyond Pluto",
         "image": "https://media.zenfs.com/en/ap.org/f46818c6b111dc1595778a8ad168139b",
         "link": "https://www.yahoo.com/news/articles/astronomers-believe-theyve-detected-atmosphere-150221528.html",
@@ -64,45 +64,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Newsmax reporter to Hegseth: \u2018When did the president decide to capitulate?\u2019",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/32aa0ba943f33e5ed67b4d5a35b7c5f2",
-        "link": "https://www.yahoo.com/news/articles/newsmax-reporter-hegseth-did-president-161926180.html",
+        "title": "Trump's plan to transfer millions of student-loan accounts to the Treasury is in the works, officials confirm",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/560a3a22fa728ac19c110990b7e20799",
+        "link": "https://www.yahoo.com/news/articles/trumps-plan-transfer-millions-student-191712696.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Romania's government falls, far-right firewall crumbles",
+        "title": "Historic Lebanon-Israel talks: A no-win situation?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/romania-s-government-falls-far-right-firewall-crumbles/a-77064565?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Romania's Social Democrats have joined forces with the far right to oust the pro-reform government of Ilie Bolojan. The economic impact will be seriou..."
+        "link": "https://www.dw.com/en/historic-lebanon-israel-talks-a-no-win-situation/a-77067522?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Despite recent talks between Israel and Lebanon, experts don't see much hope for a positive outcome \u2014 nor do locals in southern Lebanon, who are most ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Ghana debates ban on 'sex for jobs' practices",
+        "title": "Germany news: Far-right youth groups raided by police",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ghana-debates-ban-on-sex-for-jobs-practices/a-77062838?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "President John Mahama wants to make it illegal for employers to demand sexual favors in exchange for jobs. A new law could close a major gap in workpl..."
+        "link": "https://www.dw.com/en/germany-news-far-right-youth-groups-raided-by-police/live-77060993?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The groups are considered to be prone to violence and are accused by prosecutors of forming a criminal organization. Meanwhile, Friedrich Merz has com..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Hantavirus: Canary Islands objects to docking of cruise ship",
+        "title": "How close is the United Kingdom to breaking up?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hantavirus-canary-islands-objects-to-docking-of-cruise-ship/live-77063670?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Spain has given the green light for the cruise ship hit by a deadly hantavirus outbreak to dock on the island of Tenerife. However, officials in the C..."
+        "link": "https://www.dw.com/en/how-close-is-the-united-kingdom-to-breaking-up/a-77062505?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The May 7 elections could see nationalist gains in Scotland and Wales, while Sinn Fein already leads in Northern Ireland. Is the UK's unity at risk?..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Dozens killed as Ukraine accuses Russia of breaking unilateral ceasefire",
+        "title": "Venice Biennale in crisis: The controversies explained",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/dozens-killed-as-ukraine-accuses-russia-of-breaking-unilateral-ceasefire/a-77059886?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Russian strikes came just hours before a unilaterally proposed Ukrainian ceasefire and days before Russia itself intends to observe a ceasefire. V..."
+        "link": "https://www.dw.com/en/venice-biennale-in-crisis-the-controversies-explained/a-76807499?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Following the resignation of the jury over Russia's and Israel's disputed participation, the traditional Golden Lion will not be awarded this year...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Hungary's new government pushes for euro by 2030",
+        "title": "How India uses remote island to show strength against China",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hungary-s-new-government-pushes-for-euro-by-2030/a-77053959?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Hungary's new leadership wants the country to adopt the euro by the end of the decade while repairing strained ties with Brussels. But with a weak eco..."
+        "link": "https://www.dw.com/en/how-india-uses-remote-island-to-show-strength-against-china/a-77064418?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "At the edge of the Indian Ocean, the far-flung Great Nicobar Island is being turned into a strategic hub that New Delhi hopes will shape trade routes ..."
     },
     {
         "source": "Leafly",
