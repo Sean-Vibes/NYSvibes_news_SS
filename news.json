@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran reviewing US proposal to end war, though key demands remain unaddressed",
-        "image": "https://media.zenfs.com/en/reuters.com/d85ae8c277b540268ec2198c63affba9",
-        "link": "https://www.yahoo.com/news/articles/iran-says-wants-comprehensive-agreement-071044769.html",
+        "title": "Poland warns Russia is moving from low-cost recruits to professional sabotage cells",
+        "image": "https://media.zenfs.com/en/ap.org/34b1433b4f55c78aa0a35b8ba711408e",
+        "link": "https://www.yahoo.com/news/articles/poland-warns-russia-moving-low-104044177.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Zelenskyy slams Russia's \u2018utter cynicism\u2019 as strikes kill 22 in Ukraine before announced ceasefire",
-        "image": "https://media.zenfs.com/en/ap.org/c48bdebf2af0785a72dae60d2568d3cc",
-        "link": "https://www.yahoo.com/news/articles/zelenskyy-slams-russias-utter-cynicism-100818107.html",
+        "title": "Iran reviewing US proposal to end war, though key demands remain unaddressed",
+        "image": "https://media.zenfs.com/en/reuters.com/d85ae8c277b540268ec2198c63affba9",
+        "link": "https://www.yahoo.com/news/articles/iran-says-wants-comprehensive-agreement-071044769.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/cnn_articles_875/d89da0985ec7693f95f875c36c285b55",
         "link": "https://www.yahoo.com/news/articles/newly-released-documents-reveal-more-040150883.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Bayern Munich exit Champions League in semifinal to PSG",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/bayern-munich-exit-champions-league-in-semifinal-to-psg/a-77072250?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Holders Paris Saint-Germain are one game away from retaining the Champions League after knocking out German champions Bayern Munich. Bayern can still ..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/myanmar-what-s-behind-suu-kyi-s-transfer-to-house-arrest/a-77066625?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The transfer of Aung San Suu Kyi from prison to house arrest has been welcomed cautiously abroad, but experts say Myanmar's military may be using it t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Historic Lebanon-Israel talks: A no-win situation?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/historic-lebanon-israel-talks-a-no-win-situation/a-77067522?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Despite recent talks between Israel and Lebanon, experts don't see much hope for a positive outcome \u2014 nor do locals in southern Lebanon, who are most ..."
     },
     {
         "source": "Leafly",
