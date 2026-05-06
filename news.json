@@ -43,23 +43,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Newsmax reporter to Hegseth: \u2018When did the president decide to capitulate?\u2019",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/32aa0ba943f33e5ed67b4d5a35b7c5f2",
-        "link": "https://www.yahoo.com/news/articles/newsmax-reporter-hegseth-did-president-161926180.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Dying former congressman Barney Frank tells Democrats their far-left messaging is costing them voters",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/d864cff744205c93264a778233b2c9df",
-        "link": "https://www.yahoo.com/news/articles/dying-former-congressman-barney-frank-100031979.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Sweden arrests Chinese captain of suspected Russia-linked vessel",
-        "image": "https://media.zenfs.com/en/reuters.com/e5c63a0f9c4cb04e41f10a3300637002",
-        "link": "https://www.yahoo.com/news/articles/sweden-arrests-chinese-captain-suspected-093058239.html",
+        "title": "Newly released documents reveal more than $300,000 in taxpayer-funded sexual harassment settlements involving lawmakers",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/d89da0985ec7693f95f875c36c285b55",
+        "link": "https://www.yahoo.com/news/articles/newly-released-documents-reveal-more-040150883.html",
         "summary": "..."
     },
     {
@@ -70,32 +56,39 @@
         "summary": "..."
     },
     {
-        "source": "Deutsche Welle",
-        "title": "Hungary moves back to EU mainstream with eurozone bid",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hungary-moves-back-to-eu-mainstream-with-eurozone-bid/a-77053959?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Hungary's new leadership wants the country to adopt the euro by the end of the decade while repairing strained ties with Brussels. But with a weak eco..."
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Astronomers believe they've detected an atmosphere around a tiny, icy world beyond Pluto",
+        "image": "https://media.zenfs.com/en/ap.org/f46818c6b111dc1595778a8ad168139b",
+        "link": "https://www.yahoo.com/news/articles/astronomers-believe-theyve-detected-atmosphere-150221528.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Newsmax reporter to Hegseth: \u2018When did the president decide to capitulate?\u2019",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/32aa0ba943f33e5ed67b4d5a35b7c5f2",
+        "link": "https://www.yahoo.com/news/articles/newsmax-reporter-hegseth-did-president-161926180.html",
+        "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany news: Far-right youth groups raided by police",
+        "title": "Romania's government falls, far-right firewall crumbles",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-far-right-youth-groups-raided-by-police/live-77060993?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The groups are considered to be prone to violence and are accused by prosecutors of forming a criminal organization. Meanwhile, Friedrich Merz has com..."
+        "link": "https://www.dw.com/en/romania-s-government-falls-far-right-firewall-crumbles/a-77064565?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Romania's Social Democrats have joined forces with the far right to oust the pro-reform government of Ilie Bolojan. The economic impact will be seriou..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iran War: How the jet fuel shortage affects air travel",
+        "title": "Ghana debates ban on 'sex for jobs' practices",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-how-the-jet-fuel-shortage-affects-air-travel/a-77047977?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Jet fuel supply could become a problem for the aviation industry. Passengers should expect disruption beyond higher prices...."
+        "link": "https://www.dw.com/en/ghana-debates-ban-on-sex-for-jobs-practices/a-77062838?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "President John Mahama wants to make it illegal for employers to demand sexual favors in exchange for jobs. A new law could close a major gap in workpl..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "How Rosalia became a global pop force",
+        "title": "Hantavirus: Canary Islands objects to docking of cruise ship",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-rosalia-became-a-global-pop-force/a-77052783?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "From a small town in Spain to sold-out global arenas, Spanish singer Rosalia has built her career with precision rather than luck. How did she do it?..."
+        "link": "https://www.dw.com/en/hantavirus-canary-islands-objects-to-docking-of-cruise-ship/live-77063670?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Spain has given the green light for the cruise ship hit by a deadly hantavirus outbreak to dock on the island of Tenerife. However, officials in the C..."
     },
     {
         "source": "Deutsche Welle",
@@ -103,6 +96,13 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/dozens-killed-as-ukraine-accuses-russia-of-breaking-unilateral-ceasefire/a-77059886?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Russian strikes came just hours before a unilaterally proposed Ukrainian ceasefire and days before Russia itself intends to observe a ceasefire. V..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Hungary's new government pushes for euro by 2030",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/hungary-s-new-government-pushes-for-euro-by-2030/a-77053959?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Hungary's new leadership wants the country to adopt the euro by the end of the decade while repairing strained ties with Brussels. But with a weak eco..."
     },
     {
         "source": "Leafly",
