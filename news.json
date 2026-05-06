@@ -36,16 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US, Gulf allies threaten Iran with sanctions in UN proposal if it doesn't release Hormuz chokehold",
-        "image": "https://media.zenfs.com/en/ap.org/b30593af2905e033fbaea5cfd3637ac0",
-        "link": "https://www.yahoo.com/news/articles/proposed-un-resolution-threatens-iran-165935687.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Dying former congressman Barney Frank tells Democrats their far-left messaging is costing them voters",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/d864cff744205c93264a778233b2c9df",
-        "link": "https://www.yahoo.com/news/articles/dying-former-congressman-barney-frank-100031979.html",
+        "title": "German defence ministry says no 'definitive cancellation' of US weapons deployment",
+        "image": "https://media.zenfs.com/en/reuters.com/260688f377324209bc8d4a3bc75334eb",
+        "link": "https://www.yahoo.com/news/articles/german-defence-ministry-says-no-123754773.html",
         "summary": "..."
     },
     {
@@ -57,9 +50,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "German defence ministry says no 'definitive cancellation' of US weapons deployment",
-        "image": "https://media.zenfs.com/en/reuters.com/260688f377324209bc8d4a3bc75334eb",
-        "link": "https://www.yahoo.com/news/articles/german-defence-ministry-says-no-123754773.html",
+        "title": "Dying former congressman Barney Frank tells Democrats their far-left messaging is costing them voters",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/d864cff744205c93264a778233b2c9df",
+        "link": "https://www.yahoo.com/news/articles/dying-former-congressman-barney-frank-100031979.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Sweden arrests Chinese captain of suspected Russia-linked vessel",
+        "image": "https://media.zenfs.com/en/reuters.com/e5c63a0f9c4cb04e41f10a3300637002",
+        "link": "https://www.yahoo.com/news/articles/sweden-arrests-chinese-captain-suspected-093058239.html",
         "summary": "..."
     },
     {
@@ -71,38 +71,38 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Australia: Suspect in Bondi massacre to face more charges",
+        "title": "Hungary moves back to EU mainstream with eurozone bid",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/australia-suspect-in-bondi-massacre-to-face-more-charges/a-77060769?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Nineteen extra charges have been laid against a 24-year-old man accused of carrying out a deadly mass shooting on a Jewish festival in 2025. The attac..."
+        "link": "https://www.dw.com/en/hungary-moves-back-to-eu-mainstream-with-eurozone-bid/a-77053959?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Hungary's new leadership wants the country to adopt the euro by the end of the decade while repairing strained ties with Brussels. But with a weak eco..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Australia says 13 IS-linked citizens to fly back from Syria",
+        "title": "Germany news: Far-right youth groups raided by police",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/australia-says-13-is-linked-citizens-to-fly-back-from-syria/a-77060174?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A group of four Australian women and nine children related to \"Islamic State\" group have booked their flights from Syria to Australia. Some of them wi..."
+        "link": "https://www.dw.com/en/germany-news-far-right-youth-groups-raided-by-police/live-77060993?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The groups are considered to be prone to violence and are accused by prosecutors of forming a criminal organization. Meanwhile, Friedrich Merz has com..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Ukraine: Dozens killed hours before Kyiv-proposed ceasefire",
+        "title": "Iran War: How the jet fuel shortage affects air travel",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-dozens-killed-hours-before-kyiv-proposed-ceasefire/a-77059886?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/iran-war-how-the-jet-fuel-shortage-affects-air-travel/a-77047977?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Jet fuel supply could become a problem for the aviation industry. Passengers should expect disruption beyond higher prices...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "How Rosalia became a global pop force",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/how-rosalia-became-a-global-pop-force/a-77052783?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "From a small town in Spain to sold-out global arenas, Spanish singer Rosalia has built her career with precision rather than luck. How did she do it?..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Dozens killed as Ukraine accuses Russia of breaking unilateral ceasefire",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/dozens-killed-as-ukraine-accuses-russia-of-breaking-unilateral-ceasefire/a-77059886?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Russian strikes came just hours before a unilaterally proposed Ukrainian ceasefire and days before Russia itself intends to observe a ceasefire. V..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Trump says Project Freedom 'paused'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-trump-says-project-freedom-paused/live-77059422?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US President Trump says the US effort to escort ships through the Strait of Hormuz is on pause amid a push for an Iran deal. The US says it will now o..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Spain to receive hantavirus-hit ship in Canary Islands",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/spain-to-receive-hantavirus-hit-ship-in-canary-islands/a-77059425?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Three passengers abord the MV Hondius have died after a hantavirus outbreak onboard. The cruise ship has been stuck off the coast of Cape Verde since ..."
     },
     {
         "source": "Leafly",
