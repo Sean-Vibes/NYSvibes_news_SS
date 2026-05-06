@@ -36,16 +36,30 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russia declares a truce in Ukraine to mark Victory Day. Kyiv says it'll cease fire two days earlier",
-        "image": "https://media.zenfs.com/en/ap.org/00df3b5fa929f8802fe312591622cc09",
-        "link": "https://www.yahoo.com/news/articles/russia-declares-unilateral-ceasefire-ukraine-185250849.html",
+        "title": "US, Gulf allies threaten Iran with sanctions in UN proposal if it doesn't release Hormuz chokehold",
+        "image": "https://media.zenfs.com/en/ap.org/b30593af2905e033fbaea5cfd3637ac0",
+        "link": "https://www.yahoo.com/news/articles/proposed-un-resolution-threatens-iran-165935687.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Manhunt underway for special forces veteran with extensive survival training accused of shooting his wife",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/3d3fe67df5dc5c283d24da0b3d52562d",
-        "link": "https://www.yahoo.com/news/articles/manhunt-underway-special-forces-veteran-144653967.html",
+        "title": "Dying former congressman Barney Frank tells Democrats their far-left messaging is costing them voters",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/d864cff744205c93264a778233b2c9df",
+        "link": "https://www.yahoo.com/news/articles/dying-former-congressman-barney-frank-100031979.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Newsmax reporter to Hegseth: \u2018When did the president decide to capitulate?\u2019",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/32aa0ba943f33e5ed67b4d5a35b7c5f2",
+        "link": "https://www.yahoo.com/news/articles/newsmax-reporter-hegseth-did-president-161926180.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "German defence ministry says no 'definitive cancellation' of US weapons deployment",
+        "image": "https://media.zenfs.com/en/reuters.com/260688f377324209bc8d4a3bc75334eb",
+        "link": "https://www.yahoo.com/news/articles/german-defence-ministry-says-no-123754773.html",
         "summary": "..."
     },
     {
@@ -56,25 +70,18 @@
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "US, Gulf allies threaten Iran with sanctions in UN proposal if it doesn't release Hormuz chokehold",
-        "image": "https://media.zenfs.com/en/ap.org/b30593af2905e033fbaea5cfd3637ac0",
-        "link": "https://www.yahoo.com/news/articles/proposed-un-resolution-threatens-iran-165935687.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukrainian pilots are breaking from Soviet-era tactics and learning to fly with a Western mindset, trainers say",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/a8e842ff71650b7449de2261e9fd16a3",
-        "link": "https://www.yahoo.com/news/articles/ukrainian-pilots-breaking-soviet-era-131322319.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Ukraine: Dozens killed hours before Kyiv-proposed ceasefire",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-dozens-killed-hours-before-kyiv-proposed-ceasefire/a-77059886?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Russian strikes came just hours before a unilaterally proposed Ukrainian ceasefire and days before Russia itself intends to observe a ceasefire. V..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iran war: Operation Epic Fury is 'over,' Rubio says",
+        "title": "Iran war: Trump says Project Freedom 'paused'",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-operation-epic-fury-is-over-rubio-says/live-77059422?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US Secretary of State says that US forces will now only operate defensively to enforce a naval blockade of Iran, which in turn has denied attackin..."
+        "link": "https://www.dw.com/en/iran-war-trump-says-project-freedom-paused/live-77059422?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US President Trump says the US effort to escort ships through the Strait of Hormuz is on pause amid a push for an Iran deal. The US says it will now o..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/strategic-neutrality-how-syria-is-winning-in-the-iran-war/a-77053362?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Syria's new government has deliberately not become directly involved in the Iran war. It's presenting itself as neutral and as a possible solution to ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India: West Bengal election win boosts Modi's BJP",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-west-bengal-election-win-boosts-modi-s-bjp/a-77058088?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The election outcome allows Prime Minister Narendra Modi's Bharatiya Janata Party to further expand its political dominance...."
     },
     {
         "source": "Leafly",
