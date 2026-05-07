@@ -36,9 +36,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Rutgers University withdraws invite to a graduation speaker over his criticism of Israel",
-        "image": "https://media.zenfs.com/en/ap.org/3d457847aecd9bcceb4cee14709be0c4",
-        "link": "https://www.yahoo.com/news/articles/rutgers-university-withdraws-invite-graduation-151125868.html",
+        "title": "Hungary returns a seized cash and gold shipment worth $82 million to Ukraine",
+        "image": "https://media.zenfs.com/en/ap.org/c3659e221480d0a66d430f74a107505e",
+        "link": "https://www.yahoo.com/news/articles/hungary-returns-seized-cash-gold-152332379.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "SIM swap scam drained Florida woman's bank account in minutes",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/83db2cf84cf3f64775e66e740fc2facd",
+        "link": "https://tech.yahoo.com/cybersecurity/articles/sim-swap-scam-drained-florida-124357745.html",
         "summary": "..."
     },
     {
@@ -50,24 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Russia says Ukraine launched a major drone attack after Moscow shunned ceasefire offer",
+        "image": "https://media.zenfs.com/en/ap.org/9eafb557aa57f38e98a45071fd1e4afc",
+        "link": "https://www.yahoo.com/news/articles/russia-says-ukraine-launched-major-083827335.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Newly released documents reveal more than $300,000 in taxpayer-funded sexual harassment settlements involving lawmakers",
         "image": "https://media.zenfs.com/en/cnn_articles_875/d89da0985ec7693f95f875c36c285b55",
         "link": "https://www.yahoo.com/news/articles/newly-released-documents-reveal-more-040150883.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Venezuela tells the World Court it has no jurisdiction in dispute with Guyana over oil-rich territory",
-        "image": "https://media.zenfs.com/en/reuters.com/78437326d8b98bb7b3d2b2d9393c046b",
-        "link": "https://www.yahoo.com/news/articles/venezuela-tells-world-court-no-101735546.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Hantavirus: Cruise company says no symptomatic guests on ship",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/hantavirus-cruise-company-says-no-symptomatic-guests-on-ship/live-77063670?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The company that operates the cruise ship struck by the hantavirus said that no passengers showing symptoms have remained on board. It also said 30 gu..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Florida 12-year-old accused of threatening teacher, saying she will 'shoot up' school",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/ece5d2c69cdcb57ab78ccd5d71a3183a",
-        "link": "https://www.yahoo.com/news/articles/florida-12-old-accused-threatening-181925973.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Solar sabotage: Why Europe sees security risks in solar power",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/solar-sabotage-why-europe-sees-security-risks-in-solar-power/a-77066865?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Europe's reliance on Chinese-made solar technology has triggered cybersecurity warnings over possible remote access to power grids. With EU funding cu..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/dark-patterns-investigating-online-manipulation/a-77072137?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Ireland's media regulator is investigating Facebook and Instagram on suspicion that so-called dark patterns are used to manipulate users...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UK votes in key local and regional elections",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-votes-in-key-local-and-regional-elections/a-77073410?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Prime Minister Keir Starmer's Labour Party is expected to face major losses, perhaps spelling the end of his premiership. Reform, the Greens, Plaid Cy..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India: Modi vows to 'defeat terrorism' on anniversary of India-Pakistan conflict",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-modi-vows-to-defeat-terrorism-on-anniversary-of-india-pakistan-conflict/live-77073167?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Indian Prime Minister Narendra Modi said Operation Sindoor showcased the country's military strength and resolved against terrorism after last year's ..."
     },
     {
         "source": "Leafly",
