@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Poland warns Russia is moving from low-cost recruits to professional sabotage cells",
-        "image": "https://media.zenfs.com/en/ap.org/34b1433b4f55c78aa0a35b8ba711408e",
-        "link": "https://www.yahoo.com/news/articles/poland-warns-russia-moving-low-104044177.html",
+        "title": "China sentences former defence ministers to death with reprieve",
+        "image": "https://media.zenfs.com/en/reuters.com/e5f4b3526701adcde33ef5017bcd51dc",
+        "link": "https://www.yahoo.com/news/articles/china-sentences-former-defense-ministers-101301970.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Brown-Forman, Pernod deal collapsed over family pride, not price",
-        "image": "https://media.zenfs.com/en/semafor_310/189fb52fac9b9e82bcf5d28b13d3c1bd",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/brown-forman-pernod-deal-collapsed-212213829.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Man charged in US with stealing $450 million from Mexican billionaire in loan scheme",
-        "image": "https://media.zenfs.com/en/ap.org/114d4f030789f5bcf541fdb3a0c9d7a2",
-        "link": "https://www.yahoo.com/news/articles/man-charged-us-stealing-450-010442874.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Melania Trump interrupted by laughter after mentioning husband's empathy",
         "image": "https://media.zenfs.com/en/usa_today_news_641/610ad0a10f302a42d392a01cbf4c5301",
         "link": "https://www.yahoo.com/news/articles/melania-trump-interrupted-laughter-mentioning-151616955.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Poland warns Russia is moving from low-cost recruits to professional sabotage cells",
+        "image": "https://media.zenfs.com/en/ap.org/34b1433b4f55c78aa0a35b8ba711408e",
+        "link": "https://www.yahoo.com/news/articles/poland-warns-russia-moving-low-104044177.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Dem representative admits to working with Mexico to sneak oil into Cuba, despite blockade",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/82865bd8270d301785085594643b178d",
+        "link": "https://www.yahoo.com/news/articles/dem-representative-admits-working-mexico-213619309.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Zelenskyy warns Russia's friends against attending parade",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/zelenskyy-warns-russia-s-friends-against-attending-parade/a-77087963?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Zelenskyy said he did \"not recommend\" that representatives of states allied with Russia attend the May 9 parade. Russian authorities also said they we..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US says it struck targets in Iran after attack on warships",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-says-it-struck-targets-in-iran-after-attack-on-warships/live-77088159?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US military said it targeted Iranian military facilities after Iran attacked three US destroyers transiting the Strait of Hormuz. DW has more...."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/vilseck-germany-a-town-on-edge-over-us-troop-withdrawal/a-77081982?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "If US President Donald Trump is serious, 5,000 US soldiers could be withdrawn from Germany. This would include the Stryker Brigade in Vilseck. The tow..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "South Africa: A timeline of recurring waves of xenophobic violence",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/south-africa-a-timeline-of-recurring-waves-of-xenophobic-violence/a-77077874?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "For nearly two decades, South Africa has suffered recurring bouts of xenophobic attacks. From deadly riots in 2008 to the rise of Operation Dudula, th..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "World Cup 'prices will drop' but too late for traveling fans",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/world-cup-prices-will-drop-but-too-late-for-traveling-fans/a-77064560?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Among many firsts at World Cup 2026, FIFA has tried its hand at dynamic pricing and acting as a secondary seller. The tactic has seen a ticket listed ..."
     },
     {
         "source": "Leafly",
