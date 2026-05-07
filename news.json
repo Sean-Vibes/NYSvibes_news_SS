@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China sentences former defence ministers to death with reprieve",
-        "image": "https://media.zenfs.com/en/reuters.com/e5f4b3526701adcde33ef5017bcd51dc",
-        "link": "https://www.yahoo.com/news/articles/china-sentences-former-defense-ministers-101301970.html",
+        "title": "Poland warns Russia is moving from low-cost recruits to professional sabotage cells",
+        "image": "https://media.zenfs.com/en/ap.org/34b1433b4f55c78aa0a35b8ba711408e",
+        "link": "https://www.yahoo.com/news/articles/poland-warns-russia-moving-low-104044177.html",
         "summary": "..."
     },
     {
@@ -50,23 +50,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Brown-Forman, Pernod deal collapsed over family pride, not price",
+        "image": "https://media.zenfs.com/en/semafor_310/189fb52fac9b9e82bcf5d28b13d3c1bd",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/brown-forman-pernod-deal-collapsed-212213829.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Man charged in US with stealing $450 million from Mexican billionaire in loan scheme",
+        "image": "https://media.zenfs.com/en/ap.org/114d4f030789f5bcf541fdb3a0c9d7a2",
+        "link": "https://www.yahoo.com/news/articles/man-charged-us-stealing-450-010442874.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Melania Trump interrupted by laughter after mentioning husband's empathy",
         "image": "https://media.zenfs.com/en/usa_today_news_641/610ad0a10f302a42d392a01cbf4c5301",
         "link": "https://www.yahoo.com/news/articles/melania-trump-interrupted-laughter-mentioning-151616955.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Poland warns Russia is moving from low-cost recruits to professional sabotage cells",
-        "image": "https://media.zenfs.com/en/ap.org/34b1433b4f55c78aa0a35b8ba711408e",
-        "link": "https://www.yahoo.com/news/articles/poland-warns-russia-moving-low-104044177.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Newly released documents reveal more than $300,000 in taxpayer-funded sexual harassment settlements involving lawmakers",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/d89da0985ec7693f95f875c36c285b55",
-        "link": "https://www.yahoo.com/news/articles/newly-released-documents-reveal-more-040150883.html",
         "summary": "..."
     },
     {
@@ -81,7 +81,7 @@
         "title": "War and peace: key themes of Pope Leo's first year in office",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/war-and-peace-key-themes-of-pope-leo-s-first-year-in-office/a-77082601?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "One year after his election, Pope Leo XIV is regarded as an important counterpart to US President Trump. His intended direction for the Catholic Churc..."
+        "summary": "One year after his election, Pope Leo XIV is regarded as an important counterweight to US President Trump. His intended direction for the Catholic Chu..."
     },
     {
         "source": "Deutsche Welle",
@@ -103,6 +103,13 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/world-cup-prices-will-drop-but-too-late-for-traveling-fans/a-77064560?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Among many firsts at World Cup 2026, FIFA has tried its hand at dynamic pricing and acting as a secondary seller. The tactic has seen a ticket listed ..."
+    },
+    {
+        "source": "Leafly",
+        "title": "The best travel weed gear of 2026",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.leafly.com/news/strains-products/best-travel-weed-gear",
+        "summary": "<p>Recommendations on the best travel weed gear are made by Leafly Picks editors after firsthand tests, extensive research, and internal debate. If yo..."
     },
     {
         "source": "Leafly",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.leafly.com/news/growing/how-to-grow-hash-burger-seeds",
         "summary": "<p>If you are thinking about growing Hash Burger, look no further; this guide has all you need to know.</p>\n<p>The post <a href=\"https://www.leafly.co..."
-    },
-    {
-        "source": "Leafly",
-        "title": "CBD, delta-9, and hemp THCA 420 deals to make the most of the big day",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.leafly.com/news/strains-products/cbd-delta-9-and-hemp-thca-420-deals-to-make-the-most-of-the-big-day",
-        "summary": "<p>From gummies, sips, and fast-acting shooters, we\u2019ve rounded up great deals, limited drops, bundles, and standout products to help you celebrate the..."
     }
 ]
