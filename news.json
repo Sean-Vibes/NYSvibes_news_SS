@@ -1,10 +1,31 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "A Single Dose Of Psilocybin Appears To Safely Treat Cocaine Addiction, New Study Published By American Medical Association Study Shows",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/a-single-dose-of-psilocybin-appears-to-safely-treat-cocaine-addiction-new-study-published-by-american-medical-association-study-shows/",
+        "summary": "<p>A single dose of psilocybin, coupled with psychotherapy, appears to be a \u201csafe and efficacious\u201d treatment option for people with... <a class=\"small..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "Military Veterans Could Get Medical Marijuana Recommendations Through The VA Under New Congressional Amendment",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/military-veterans-could-get-medical-marijuana-recommendations-through-the-va-under-new-congressional-amendment/",
+        "summary": "<p>Bipartisan congressional lawmakers have filed an amendment that would allow military veterans to receive recommendations for medical marijuana thro..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Ohio Court Hears Arguments On Blocking New Hemp Product Restrictions",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/ohio-court-hears-arguments-on-blocking-new-hemp-product-restrictions/",
         "summary": "<p>\u201cThis bill completely put my clients out of business. There were no ways to get rid of the inventory except... <a class=\"small font-montserrat font..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "GOP Senator Urges Indiana Governor Not To Legalize Marijuana Despite Federal Rescheduling",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/gop-senator-urges-indiana-governor-not-to-legalize-marijuana-despite-federal-rescheduling/",
+        "summary": "<p>Indiana\u2019s Republican governor recently said that his state is \u201cmore likely\u201d to legalize marijuana now that the Trump administration is... <a class=..."
     },
     {
         "source": "GrowCola.com",
@@ -14,31 +35,10 @@
         "summary": "<p>ID medical marijuana ballot sigs; AZ legalization rollback stalls; FL gov candidates on cannabis; Target expands hemp THC drink sales;... <a class=..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Florida Republican Governor Candidates Are United In Opposing Marijuana Legalization",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/florida-republican-governor-candidates-are-united-in-opposing-marijuana-legalization/",
-        "summary": "<p>\u201cI do not support recreational marijuana. I think the current regulatory system around medicinal use is fine.\u201d By Mitch Perry,... <a class=\"small f..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Idaho Medical Marijuana Campaign Turns In 150,000 Signatures For Legalization Ballot Measure",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/idaho-medical-marijuana-campaign-turns-in-150000-signatures-for-legalization-ballot-measure/",
-        "summary": "<p>An Idaho medical marijuana campaign has announced that it turned in more than 150,000 signatures for a proposed legalization initiative... <a class..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Louisiana Bill To Jail People For Smoking Marijuana Near College Campuses Advances In Senate",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/louisiana-bill-to-jail-people-for-smoking-marijuana-near-college-campuses-advances-in-senate/",
-        "summary": "<p>A Louisiana Senate committee has approved a House-passed\u00a0bill that threatens to send people to jail for up to one year... <a class=\"small font-mont..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Poland warns Russia is moving from low-cost recruits to professional sabotage cells",
-        "image": "https://media.zenfs.com/en/ap.org/34b1433b4f55c78aa0a35b8ba711408e",
-        "link": "https://www.yahoo.com/news/articles/poland-warns-russia-moving-low-104044177.html",
+        "title": "Paraguay\u2019s president visits Taiwan as pressure from China grows",
+        "image": "https://media.zenfs.com/en/ap.org/15a9f7320d2e00f1d1ef58d18a60ce92",
+        "link": "https://www.yahoo.com/news/articles/paraguay-president-visits-taiwan-pressure-054252039.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "What's the minimum you're required to withdraw on a $1 million retirement account?",
+        "image": "https://media.zenfs.com/en/cbs_news_897/c6fa0c0cfea4863e10db97452f5ce391",
+        "link": "https://finance.yahoo.com/markets/options/articles/whats-minimum-youre-required-withdraw-145010452.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "China sentences former defence ministers to death with reprieve",
+        "image": "https://media.zenfs.com/en/reuters.com/c5c805e7337d5c8fea41f58aad733eab",
+        "link": "https://www.yahoo.com/news/articles/china-sentences-former-defense-ministers-101301970.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Newly released documents reveal more than $300,000 in taxpayer-funded sexual harassment settlements involving lawmakers",
         "image": "https://media.zenfs.com/en/cnn_articles_875/d89da0985ec7693f95f875c36c285b55",
         "link": "https://www.yahoo.com/news/articles/newly-released-documents-reveal-more-040150883.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "US, Gulf allies threaten Iran with sanctions in UN proposal if it doesn't release Hormuz chokehold",
-        "image": "https://media.zenfs.com/en/ap.org/b30593af2905e033fbaea5cfd3637ac0",
-        "link": "https://www.yahoo.com/news/articles/proposed-un-resolution-threatens-iran-165935687.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Vilseck, Germany: A town on edge over US troop withdrawal",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/vilseck-germany-a-town-on-edge-over-us-troop-withdrawal/a-77081982?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Is US President Donald Trump really serious? 5,000 US soldiers are reportedly to be withdrawn from Germany. This may include the Stryker Brigade in Vi..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018Muslim only\u2019 event at Texas water park canceled after Abbott threatens to pull $530K in state grants",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/b4378b47163140b05e322e5d0d3a5748",
-        "link": "https://www.yahoo.com/news/articles/texas-water-park-changes-muslim-213043766.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "South Africa: A timeline of recurring waves of xenophobic violence",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/south-africa-a-timeline-of-recurring-waves-of-xenophobic-violence/a-77077874?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "For nearly two decades, South Africa has suffered recurring bouts of xenophobic attacks. From deadly riots in 2008 to the rise of Operation Dudula, th..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "World Cup 'prices will drop' but too late for traveling fans",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/world-cup-prices-will-drop-but-too-late-for-traveling-fans/a-77064560?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Among many firsts at World Cup 2026, FIFA has tried its hand at dynamic pricing and acting as a secondary seller. The tactic has seen a ticket listed ..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/austria-police-report-3-dead-in-shooting-in-linz-say-no-further-danger-to-public/a-77081505?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Police in Austria report that three people have died after gunfire was heard in the city. Local media reported a large police presence in the north of..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Is Russian oil becoming a lifeline for Southeast Asia?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/is-russian-oil-becoming-a-lifeline-for-southeast-asia/a-77079277?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "With oil, gas and fertilizer imports squeezed by the Iran war, Southeast Asian governments are brushing off EU pressure and treating Russian energy as..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Marco Rubio meets Pope Leo at the Vatican",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/marco-rubio-meets-pope-leo-at-the-vatican/a-77073372?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The visit by the US secretary of state to the Vatican comes as President Donald Trump continues to disparage the Catholic leader over criticism of the..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Eurovision 2026: Politics collide with a blockbuster show",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eurovision-2026-politics-collide-with-a-blockbuster-show/a-77069828?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Controversy over Israel's participation and boycotts unprecedented in scale are already weighing on the Eurovision Song Contest before it even kicks o..."
     },
     {
         "source": "Leafly",
