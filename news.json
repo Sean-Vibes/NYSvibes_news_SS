@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Ohio Court Hears Arguments On Blocking New Hemp Product Restrictions",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/ohio-court-hears-arguments-on-blocking-new-hemp-product-restrictions/",
+        "summary": "<p>\u201cThis bill completely put my clients out of business. There were no ways to get rid of the inventory except... <a class=\"small font-montserrat font..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "Congressional report on what cannabis rescheduling does\u2014and doesn\u2019t do (Newsletter: May 7, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/congressional-report-on-what-cannabis-rescheduling-does-and-doesnt-do-newsletter-may-7-2026/",
+        "summary": "<p>ID medical marijuana ballot sigs; AZ legalization rollback stalls; FL gov candidates on cannabis; Target expands hemp THC drink sales;... <a class=..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Florida Republican Governor Candidates Are United In Opposing Marijuana Legalization",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/florida-republican-governor-candidates-are-united-in-opposing-marijuana-legalization/",
@@ -21,31 +35,10 @@
         "summary": "<p>A Louisiana Senate committee has approved a House-passed\u00a0bill that threatens to send people to jail for up to one year... <a class=\"small font-mont..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Target Is Launching Hemp THC Drink Sales In Three Of The U.S.\u2019s Most Populous States",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/target-is-launching-hemp-thc-drink-sales-in-three-of-the-u-s-s-most-populous-states/",
-        "summary": "<p>Major retailer Target is deepening its involvement in the hemp-derived THC beverage market by launching sales in three more states\u2014significantly......"
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Arizona Anti-Marijuana Campaign Drops Effort To Put Legalization Rollback On Ballot",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/arizona-anti-marijuana-campaign-drops-effort-to-put-legalization-rollback-on-ballot/",
-        "summary": "<p>An Arizona campaign that had been seeking to place an initiative on the ballot to repeal of key provisions of... <a class=\"small font-montserrat fo..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hungary returns a seized cash and gold shipment worth $82 million to Ukraine",
-        "image": "https://media.zenfs.com/en/ap.org/c3659e221480d0a66d430f74a107505e",
-        "link": "https://www.yahoo.com/news/articles/hungary-returns-seized-cash-gold-152332379.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "SIM swap scam drained Florida woman's bank account in minutes",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/83db2cf84cf3f64775e66e740fc2facd",
-        "link": "https://tech.yahoo.com/cybersecurity/articles/sim-swap-scam-drained-florida-124357745.html",
+        "title": "Poland warns Russia is moving from low-cost recruits to professional sabotage cells",
+        "image": "https://media.zenfs.com/en/ap.org/34b1433b4f55c78aa0a35b8ba711408e",
+        "link": "https://www.yahoo.com/news/articles/poland-warns-russia-moving-low-104044177.html",
         "summary": "..."
     },
     {
@@ -57,52 +50,59 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russia says Ukraine launched a major drone attack after Moscow shunned ceasefire offer",
-        "image": "https://media.zenfs.com/en/ap.org/9eafb557aa57f38e98a45071fd1e4afc",
-        "link": "https://www.yahoo.com/news/articles/russia-says-ukraine-launched-major-083827335.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Newly released documents reveal more than $300,000 in taxpayer-funded sexual harassment settlements involving lawmakers",
         "image": "https://media.zenfs.com/en/cnn_articles_875/d89da0985ec7693f95f875c36c285b55",
         "link": "https://www.yahoo.com/news/articles/newly-released-documents-reveal-more-040150883.html",
         "summary": "..."
     },
     {
-        "source": "Deutsche Welle",
-        "title": "Hantavirus: Cruise company says no symptomatic guests on ship",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hantavirus-cruise-company-says-no-symptomatic-guests-on-ship/live-77063670?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The company that operates the cruise ship struck by the hantavirus said that no passengers showing symptoms have remained on board. It also said 30 gu..."
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "US, Gulf allies threaten Iran with sanctions in UN proposal if it doesn't release Hormuz chokehold",
+        "image": "https://media.zenfs.com/en/ap.org/b30593af2905e033fbaea5cfd3637ac0",
+        "link": "https://www.yahoo.com/news/articles/proposed-un-resolution-threatens-iran-165935687.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "\u2018Muslim only\u2019 event at Texas water park canceled after Abbott threatens to pull $530K in state grants",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/b4378b47163140b05e322e5d0d3a5748",
+        "link": "https://www.yahoo.com/news/articles/texas-water-park-changes-muslim-213043766.html",
+        "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Solar sabotage: Why Europe sees security risks in solar power",
+        "title": "Australia: 3 women with IS links arrested on return home",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/solar-sabotage-why-europe-sees-security-risks-in-solar-power/a-77066865?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Europe's reliance on Chinese-made solar technology has triggered cybersecurity warnings over possible remote access to power grids. With EU funding cu..."
+        "link": "https://www.dw.com/en/australia-3-women-with-is-links-arrested-on-return-home/a-77079473?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The women flew back to Australia from Syria after years in a refugee camp. Children were also among the returnees...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany news: Coalition at odds over pay rises for MPs",
+        "title": "Austria: Police report 3 dead in shooting in Linz, say no further danger to public",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-coalition-at-odds-over-pay-rises-for-mps/live-77073798?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "German conservatives want to hold on to automatic pay increases for lawmakers, while the center-left thinks they should skip it this year in light of ..."
+        "link": "https://www.dw.com/en/austria-police-report-3-dead-in-shooting-in-linz-say-no-further-danger-to-public/a-77081505?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Police in Austria report that three people have died after gunfire was heard in the city. Local media reported a large police presence in the north of..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "EU reaches tentative deal on simpler AI rules, plans ban on 'nudifier' apps",
+        "title": "Is Russian oil becoming a lifeline for Southeast Asia?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-reaches-tentative-deal-on-simpler-ai-rules-plans-ban-on-nudifier-apps/a-77073411?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In a provisional deal, the European Union has agreed on a ban on the use of AI for creating pornographic deepfakes and sexualized imagery. It has also..."
+        "link": "https://www.dw.com/en/is-russian-oil-becoming-a-lifeline-for-southeast-asia/a-77079277?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "With oil, gas and fertilizer imports squeezed by the Iran war, Southeast Asian governments are brushing off EU pressure and treating Russian energy as..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "'Dark patterns': Investigating online manipulation",
+        "title": "Marco Rubio meets Pope Leo at the Vatican",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/dark-patterns-investigating-online-manipulation/a-77072137?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ireland's media regulator is investigating Facebook and Instagram on suspicion that so-called dark patterns are used to manipulate users...."
+        "link": "https://www.dw.com/en/marco-rubio-meets-pope-leo-at-the-vatican/a-77073372?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The visit by the US secretary of state to the Vatican comes as President Donald Trump continues to disparage the Catholic leader over criticism of the..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Eurovision 2026: Politics collide with a blockbuster show",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eurovision-2026-politics-collide-with-a-blockbuster-show/a-77069828?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Controversy over Israel's participation and boycotts unprecedented in scale are already weighing on the Eurovision Song Contest before it even kicks o..."
     },
     {
         "source": "Leafly",
