@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Poland warns Russia is moving from low-cost recruits to professional sabotage cells",
-        "image": "https://media.zenfs.com/en/ap.org/34b1433b4f55c78aa0a35b8ba711408e",
-        "link": "https://www.yahoo.com/news/articles/poland-warns-russia-moving-low-104044177.html",
+        "title": "Alaska wildlife agents can kill bears from helicopters in an effort to protect caribou, judge says",
+        "image": "https://media.zenfs.com/en/ap.org/07350fe0bf9411c5116249fcd7db3e53",
+        "link": "https://www.yahoo.com/news/articles/alaska-wildlife-agents-kill-bears-005955348.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Quotes by Ted Turner",
-        "image": "https://media.zenfs.com/en/reuters.com/306761dcd57a95ce10cf0d039ac48cba",
-        "link": "https://www.yahoo.com/news/articles/quotes-ted-turner-144020128.html",
+        "title": "Crude oil prices fall over Iran deal optimism as gas prices continue to rise",
+        "image": "https://media.zenfs.com/en/nbcu_713/d92d84c51e396a8bfad4b51bbca157b5",
+        "link": "https://www.yahoo.com/news/videos/crude-oil-prices-fall-over-184537954.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Trump optimistic for deal as Tehran yet to respond",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-trump-optimistic-for-deal-as-tehran-yet-to-respond/live-77072632?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran is reviewing the latest US proposal and will pass its response to Pakistan after \"finalizing its views.\" Trump claimed the latest round of talks ..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/biontech-faces-its-biggest-post-pandemic-crisis/a-77061364?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "BioNTech, once celebrated for its COVID-19 vaccines, is grappling with falling demand, restructuring and the departure of its founders. Can its ambiti..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Myanmar: What's behind Suu Kyi's transfer to house arrest?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/myanmar-what-s-behind-suu-kyi-s-transfer-to-house-arrest/a-77066625?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The transfer of Aung San Suu Kyi from prison to house arrest has been welcomed cautiously abroad, but experts say Myanmar's military may be using it t..."
     },
     {
         "source": "Leafly",
