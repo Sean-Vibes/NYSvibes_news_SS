@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Alaska wildlife agents can kill bears from helicopters in an effort to protect caribou, judge says",
-        "image": "https://media.zenfs.com/en/ap.org/07350fe0bf9411c5116249fcd7db3e53",
-        "link": "https://www.yahoo.com/news/articles/alaska-wildlife-agents-kill-bears-005955348.html",
+        "title": "Rutgers University withdraws invite to a graduation speaker over his criticism of Israel",
+        "image": "https://media.zenfs.com/en/ap.org/3d457847aecd9bcceb4cee14709be0c4",
+        "link": "https://www.yahoo.com/news/articles/rutgers-university-withdraws-invite-graduation-151125868.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Some iPhone owners could get up to $95 payment after Apple agrees to settle case for $250 million",
-        "image": "https://media.zenfs.com/en/ap.org/d6c6ed59a68d583d42194c44548994a9",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/iphone-owners-could-95-payment-105002550.html",
+        "title": "Man charged in US with stealing $450 million from Mexican billionaire in loan scheme",
+        "image": "https://media.zenfs.com/en/ap.org/114d4f030789f5bcf541fdb3a0c9d7a2",
+        "link": "https://www.yahoo.com/news/articles/man-charged-us-stealing-450-010442874.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Crude oil prices fall over Iran deal optimism as gas prices continue to rise",
-        "image": "https://media.zenfs.com/en/nbcu_713/d92d84c51e396a8bfad4b51bbca157b5",
-        "link": "https://www.yahoo.com/news/videos/crude-oil-prices-fall-over-184537954.html",
+        "title": "Newly released documents reveal more than $300,000 in taxpayer-funded sexual harassment settlements involving lawmakers",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/d89da0985ec7693f95f875c36c285b55",
+        "link": "https://www.yahoo.com/news/articles/newly-released-documents-reveal-more-040150883.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Celebrated broadcaster and naturalist David Attenborough turns 100",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/celebrated-broadcaster-and-naturalist-david-attenborough-turns-100/a-76880848?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The still-sprightly centenarian has been knighted twice, nominated for the 2022 Nobel Peace Prize, and is perhaps the world's most recognizable nature..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US: New York judge makes alleged Esptein suicide note public",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-new-york-judge-makes-alleged-esptein-suicide-note-public/a-77072765?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The handwritten document was reportedly found after late sex offender Jeffrey Epstein's first suicide attempt. It could not be verified if the note wa..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-cracks-down-on-neo-nazi-networks/a-77070868?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Police and prosecutors have launched a nationwide crackdown on young right-wing extremists. They are alleged to have formed criminal organizations and..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "CNN founder Ted Turner has died at 87",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/cnn-founder-ted-turner-has-died-at-87/a-77069817?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ted Turner revolutionized news media and became one of the most prominent business leaders and philanthropists of his era...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "BioNTech faces its biggest post pandemic crisis",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/biontech-faces-its-biggest-post-pandemic-crisis/a-77061364?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "BioNTech, once celebrated for its COVID-19 vaccines, is grappling with falling demand, restructuring and the departure of its founders. Can its ambiti..."
     },
     {
         "source": "Leafly",
