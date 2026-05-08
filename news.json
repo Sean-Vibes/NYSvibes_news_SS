@@ -50,24 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "California farmers must destroy 420,000 peach trees after Del Monte closes its canneries and cancels more than $550 million in long-term contracts",
+        "image": "https://media.zenfs.com/en/fortune_175/7ba28855cfc0ddeab9c6ffa5b437d336",
+        "link": "https://finance.yahoo.com/economy/policy/articles/california-farmers-must-destroy-420-202332529.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Exclusive-Kennedy's health officials explored US ban of some widely used antidepressants, sources say",
+        "image": "https://media.zenfs.com/en/reuters.com/1845ced203cbbb48846730d5024fd385",
+        "link": "https://www.yahoo.com/news/articles/exclusive-kennedys-health-officials-explored-155656054.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Risk of $5 Gas \u2018Can No Longer Be Dismissed,\u2019 JPMorgan Says",
         "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/94ad2be0c258b12ab5eb297519a8db35",
         "link": "https://finance.yahoo.com/sectors/energy/articles/risk-5-gas-no-longer-165433513.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive-Kennedy's health officials explored US ban of some widely used antidepressants, sources say",
-        "image": "https://media.zenfs.com/en/reuters.com/3a74145e2cb35f6e21739abe9fbf0565",
-        "link": "https://www.yahoo.com/news/articles/exclusive-kennedys-health-officials-explored-155656054.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Canvas education platform back online after cyberattack",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/canvas-education-platform-back-online-after-cyberattack/a-77101219?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The hacker group ShinyHunters had sought to extort universities before the cyberattack on the Canvas education platform took place...."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Scores of online resellers are using AI to pretend to be mom-and-pop stores",
-        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/4bf2216d3c13d2bf3ebbd1b5ca7c329b",
-        "link": "https://www.yahoo.com/news/articles/scores-online-resellers-using-ai-100313346.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Pakistan: Drop in Gulf remittances puts families on edge",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/pakistan-drop-in-gulf-remittances-puts-families-on-edge/a-77098364?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "For millions of households, money sent by Pakistani workers in the Gulf offers a lifeline, helping their families cover basic needs such as food and e..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/how-real-is-a-coup-threat-against-russia-s-president/a-77098085?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Increased security around Vladimir Putin and a scaling back of public appearances have given rise to suspicions of a coup or assassination attempt. Ye..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hantavirus: US plans evacuation flight for American cruise passengers",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hantavirus-us-plans-evacuation-flight-for-american-cruise-passengers/live-77063670?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US says it is planning a repatriation flight for American citizens aboard the hantavirus-hit MV Hondius. The cruise ship is heading for the Spanis..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Christians decry persecution in India's heartland",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/christians-decry-persecution-in-india-s-heartland/a-77095929?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "With Christians in India increasingly targeted by Hindu vigilantes, victims say police often side with their attackers...."
     },
     {
         "source": "Leafly",
