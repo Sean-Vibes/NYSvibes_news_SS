@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Minnesota Lawmakers Pass Bill To Legalize Psilocybin Therapy",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/minnesota-lawmakers-pass-bill-to-legalize-psilocybin-therapy/",
+        "summary": "<p>Minnesota House lawmakers have voted to legalize the regulated therapeutic use of psilocybin for adults 21 and older. The reform... <a class=\"small..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "More Older Adults Are Using Marijuana As An Alternative To Pharmaceuticals, Federally Funded Study From American Medical Association Shows",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/more-older-adults-are-using-marijuana-as-an-alternative-to-pharmaceuticals-federally-funded-study-from-american-medical-association-shows/",
@@ -28,13 +35,6 @@
         "summary": "<p>\u201cEven if the the court ultimately rules against the plaintiffs and allows the petition to be placed on the ballot,... <a class=\"small font-montserr..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Congress considers veterans\u2019 medical cannabis amendment (Newsletter: May 8, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/congress-considers-veterans-medical-cannabis-amendment-newsletter-may-8-2026/",
-        "summary": "<p>GOP senator urges IN gov not to legalize; Lawmakers push FDA on psychedelics; CA marijuana drive-thrus vote; Study: Psilocybin for... <a class=\"sma..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Judge rules Trump administration's cancellation of humanities grants was unconstitutional",
         "image": "https://media.zenfs.com/en/ap.org/561e81e299ae1a136e114b62cc0a3b12",
@@ -50,24 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former sheriff's deputy convicted of reckless homicide in shooting of Casey Goodson",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/81181b959a121a7b15ba7907acf79d65",
-        "link": "https://www.yahoo.com/news/articles/former-sheriffs-deputy-convicted-reckless-202010811.html",
+        "title": "Risk of $5 Gas \u2018Can No Longer Be Dismissed,\u2019 JPMorgan Says",
+        "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/94ad2be0c258b12ab5eb297519a8db35",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/risk-5-gas-no-longer-165433513.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive-Hungry to sell, UAE slips hidden oil tankers through Strait of Hormuz",
-        "image": "https://media.zenfs.com/en/reuters.com/dbf0c59b70c4c65f32515e148c59d33f",
-        "link": "https://finance.yahoo.com/news/exclusive-hungry-sell-uae-slips-104739397.html",
+        "title": "Exclusive-Kennedy's health officials explored US ban of some widely used antidepressants, sources say",
+        "image": "https://media.zenfs.com/en/reuters.com/3a74145e2cb35f6e21739abe9fbf0565",
+        "link": "https://www.yahoo.com/news/articles/exclusive-kennedys-health-officials-explored-155656054.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "U.S. fires on 2 more tankers as Washington expects Iran response on deal",
-        "image": "https://media.zenfs.com/en/cbs_news_897/c257003974bbb9af2579348120c84bdc",
-        "link": "https://www.yahoo.com/news/articles/iran-says-u-crossed-point-111459421.html",
+        "title": "Scores of online resellers are using AI to pretend to be mom-and-pop stores",
+        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/4bf2216d3c13d2bf3ebbd1b5ca7c329b",
+        "link": "https://www.yahoo.com/news/articles/scores-online-resellers-using-ai-100313346.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Trump announces 3-day ceasefire between Ukraine and Russia",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-announces-3-day-ceasefire-between-ukraine-and-russia/live-77091251?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US president said both sides had agreed to halt fighting from May 9 to 11 and to exchange 1,000 prisoners each. Both Ukraine and Russia confirmed ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US: Pentagon releases trove of classified UFO files",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-pentagon-releases-trove-of-classified-ufo-files/a-77100163?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US President Donald Trump hailed his government's move to release over a 100 UFO-related documents as \"complete and maximum transparency.\"..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/christians-decry-persecution-in-india-s-heartland/a-77095929?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "With Christians in India increasingly targeted by Hindu vigilantes, victims say police often side with their attackers...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pakistan: Drop in Gulf remittances puts families on edge",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pakistan-drop-in-gulf-remittances-puts-families-on-edge/a-77098364?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "For millions of households, money sent by Pakistani workers in the Gulf offers a lifeline, helping their families cover basic needs such as food and e..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "New film portrays Thomas and Erika Mann \u2014 with an oddly twisted premise",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Premiering at Cannes and starring Sandra H\u00fcller, Pawel Pawlikowski's \"Fatherland\" is set during the Cold War \u2014 a complex period for the prominent anti..."
     },
     {
         "source": "Leafly",
