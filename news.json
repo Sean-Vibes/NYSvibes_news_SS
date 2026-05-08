@@ -36,16 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China sentences former defence ministers to death with reprieve",
-        "image": "https://media.zenfs.com/en/reuters.com/e5f4b3526701adcde33ef5017bcd51dc",
-        "link": "https://www.yahoo.com/news/articles/china-sentences-former-defense-ministers-101301970.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Online sleuths are raising more red flags around suspiciously timed Iran-war oil trades",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/b3188fcd043612aec547be80c5fb5a50",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/online-sleuths-raising-more-red-162434388.html",
+        "title": "Judge rules Trump administration's cancellation of humanities grants was unconstitutional",
+        "image": "https://media.zenfs.com/en/ap.org/561e81e299ae1a136e114b62cc0a3b12",
+        "link": "https://www.yahoo.com/news/articles/judge-rules-trump-administrations-cancellation-002646150.html",
         "summary": "..."
     },
     {
@@ -57,17 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Poland warns Russia is moving from low-cost recruits to professional sabotage cells",
-        "image": "https://media.zenfs.com/en/ap.org/34b1433b4f55c78aa0a35b8ba711408e",
-        "link": "https://www.yahoo.com/news/articles/poland-warns-russia-moving-low-104044177.html",
+        "title": "Online sleuths are raising more red flags around suspiciously timed Iran-war oil trades",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/b3188fcd043612aec547be80c5fb5a50",
+        "link": "https://finance.yahoo.com/markets/commodities/articles/online-sleuths-raising-more-red-162434388.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Dem representative admits to working with Mexico to sneak oil into Cuba, despite blockade",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/82865bd8270d301785085594643b178d",
-        "link": "https://www.yahoo.com/news/articles/dem-representative-admits-working-mexico-213619309.html",
+        "title": "China sentences former defence ministers to death with reprieve",
+        "image": "https://media.zenfs.com/en/reuters.com/e5f4b3526701adcde33ef5017bcd51dc",
+        "link": "https://www.yahoo.com/news/articles/china-sentences-former-defense-ministers-101301970.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "California farmers must destroy 420,000 peach trees after Del Monte closes its canneries and cancels more than $550 million in long-term contracts",
+        "image": "https://media.zenfs.com/en/fortune_175/7ba28855cfc0ddeab9c6ffa5b437d336",
+        "link": "https://finance.yahoo.com/economy/policy/articles/california-farmers-must-destroy-420-202332529.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Shakira teases official 2026 FIFA World Cup song",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/shakira-teases-official-2026-fifa-world-cup-song/a-77088590?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Colombian star unveils a clip of her singing the official World Cup 2026 song \"Dai Dai\" featuring Afrobeats artist Burna Boy...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US court deals fresh blow to Trump's 10% global tariff policy",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-court-deals-fresh-blow-to-trump-s-10-global-tariff-policy/a-77088575?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A US federal court said President Donald Trump overstepped his authority when he invoked a section of a 1974 trade law to enact the 10% global tariff ..."
     },
     {
         "source": "Deutsche Welle",
@@ -81,28 +95,14 @@
         "title": "US says it struck targets in Iran after attack on warships",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-says-it-struck-targets-in-iran-after-attack-on-warships/live-77088159?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US military said it targeted Iranian military facilities after Iran attacked three US destroyers transiting the Strait of Hormuz. DW has more...."
+        "summary": "The US military said it targeted Iranian military facilities after Iran attacked three US destroyers transiting the Strait of Hormuz. President Donald..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Trump gives EU until Jul 4 to implement trade deal",
+        "title": "Trump gives EU until July 4 to implement trade deal",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-gives-eu-until-jul-4-to-implement-trade-deal/a-77087158?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/trump-gives-eu-until-july-4-to-implement-trade-deal/a-77087158?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Trump has threatened to impose higher tariffs on the bloc if it doesn't implement the trade deal agreed last year by his deadline...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "War and peace: key themes of Pope Leo's first year in office",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/war-and-peace-key-themes-of-pope-leo-s-first-year-in-office/a-77082601?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "One year after his election, Pope Leo XIV is regarded as an important counterweight to US President Trump. His intended direction for the Catholic Chu..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Vilseck, Germany: A town on edge over US troop withdrawal",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/vilseck-germany-a-town-on-edge-over-us-troop-withdrawal/a-77081982?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "If US President Donald Trump is serious, 5,000 US soldiers could be withdrawn from Germany. This would include the Stryker Brigade in Vilseck. The tow..."
     },
     {
         "source": "Leafly",
