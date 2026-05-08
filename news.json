@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "More Older Adults Are Using Marijuana As An Alternative To Pharmaceuticals, Federally Funded Study From American Medical Association Shows",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/more-older-adults-are-using-marijuana-as-an-alternative-to-pharmaceuticals-federally-funded-study-from-american-medical-association-shows/",
+        "summary": "<p>Most older adults who seek out marijuana do so to avoid negative effects associated with traditional pharmaceuticals or because they\u2019ve... <a class..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "White House Drug Czar Clarifies That Marijuana Is \u2018Still Illegal\u2019 Following Trump Administration\u2019s Rescheduling Move",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/white-house-drug-czar-clarifies-that-marijuana-is-still-illegal-following-trump-administrations-rescheduling-move/",
+        "summary": "<p>The Trump administration\u2019s drug czar is clarifying that move to federally reschedule marijuana doesn\u2019t make cannabis broadly legal. \u201cIt\u2019s still... ..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Louisiana House Passes Bill To Create Psychedelic Therapy Pilot Program Funded By Opioid Settlement Dollars",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/louisiana-house-passes-bill-to-create-psychedelic-therapy-pilot-program-funded-by-opioid-settlement-dollars/",
@@ -21,20 +35,6 @@
         "summary": "<p>GOP senator urges IN gov not to legalize; Lawmakers push FDA on psychedelics; CA marijuana drive-thrus vote; Study: Psilocybin for... <a class=\"sma..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Bipartisan Lawmakers Push FDA To Speed Up Approval Of Psychedelic Therapies",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/bipartisan-lawmakers-push-fda-to-speed-up-approval-of-psychedelic-therapies/",
-        "summary": "<p>A bipartisan coalition of 32 members of Congress is urging federal health officials to expedite ongoing reviews of psychedelic therapies.... <a cla..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "California Bill To Allow Drive-Thrus At Marijuana Dispensaries Advances To Assembly Floor Vote",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/california-bill-to-allow-drive-thrus-at-marijuana-dispensaries-advances-to-assembly-floor-vote/",
-        "summary": "<p>A bill that would allow California marijuana stores to offer drive-thru windows to serve customers is heading to a floor... <a class=\"small font-mo..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Judge rules Trump administration's cancellation of humanities grants was unconstitutional",
         "image": "https://media.zenfs.com/en/ap.org/561e81e299ae1a136e114b62cc0a3b12",
@@ -50,24 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Online sleuths are raising more red flags around suspiciously timed Iran-war oil trades",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/b3188fcd043612aec547be80c5fb5a50",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/online-sleuths-raising-more-red-162434388.html",
+        "title": "Former sheriff's deputy convicted of reckless homicide in shooting of Casey Goodson",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/81181b959a121a7b15ba7907acf79d65",
+        "link": "https://www.yahoo.com/news/articles/former-sheriffs-deputy-convicted-reckless-202010811.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China sentences former defence ministers to death with reprieve",
-        "image": "https://media.zenfs.com/en/reuters.com/e5f4b3526701adcde33ef5017bcd51dc",
-        "link": "https://www.yahoo.com/news/articles/china-sentences-former-defense-ministers-101301970.html",
+        "title": "Exclusive-Hungry to sell, UAE slips hidden oil tankers through Strait of Hormuz",
+        "image": "https://media.zenfs.com/en/reuters.com/dbf0c59b70c4c65f32515e148c59d33f",
+        "link": "https://finance.yahoo.com/news/exclusive-hungry-sell-uae-slips-104739397.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran says U.S. \"crossed the point of no return\" with attacks on ports",
-        "image": "https://media.zenfs.com/en/cbs_news_897/f41e2adc09d167f9a80864b5c1969354",
+        "title": "U.S. fires on 2 more tankers as Washington expects Iran response on deal",
+        "image": "https://media.zenfs.com/en/cbs_news_897/c257003974bbb9af2579348120c84bdc",
         "link": "https://www.yahoo.com/news/articles/iran-says-u-crossed-point-111459421.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "How real is a coup threat against Russia's president?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/how-real-is-a-coup-threat-against-russia-s-president/a-77098085?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Increased security around Vladimir Putin and a scaling back of public appearances have given rise to suspicions of a coup or assassination attempt. Ye..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Hantavirus: US plans evacuation flight for American cruise passengers",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/hantavirus-us-plans-evacuation-flight-for-american-cruise-passengers/live-77063670?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US says it is planning a repatriation flight for American citizens aboard the hantavirus-hit MV Hondius. The cruise ship is heading for the Spanis..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Premiering at Cannes and starring Sandra H\u00fcller, Pawel Pawlikowski's \"Fatherland\" is set during the Cold War \u2014 a complex period for the prominent anti..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UAE charts its own course across the Middle East and Africa",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uae-charts-its-own-course-across-the-middle-east-and-africa/a-77095790?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Close relations with Israel and the United States have placed the United Arab Emirates in Iran's crosshairs as Abu Dhabi pursues a more independent fo..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hungary: New govt intent on initiating swift systemic change",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hungary-new-govt-intent-on-initiating-swift-systemic-change/a-77095598?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Peter Magyar and his government are determined to push ahead with change at full throttle. But even before the cabinet is sworn in, there has been a \"..."
     },
     {
         "source": "Leafly",
