@@ -57,17 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China sentences former defence ministers to death with reprieve",
-        "image": "https://media.zenfs.com/en/reuters.com/e5f4b3526701adcde33ef5017bcd51dc",
-        "link": "https://www.yahoo.com/news/articles/china-sentences-former-defense-ministers-101301970.html",
+        "title": "Hungary returns a seized cash and gold shipment worth $82 million to Ukraine",
+        "image": "https://media.zenfs.com/en/ap.org/c3659e221480d0a66d430f74a107505e",
+        "link": "https://www.yahoo.com/news/articles/hungary-returns-seized-cash-gold-152332379.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "California farmers must destroy 420,000 peach trees after Del Monte closes its canneries and cancels more than $550 million in long-term contracts",
-        "image": "https://media.zenfs.com/en/fortune_175/7ba28855cfc0ddeab9c6ffa5b437d336",
-        "link": "https://finance.yahoo.com/economy/policy/articles/california-farmers-must-destroy-420-202332529.html",
+        "title": "Special forces veteran accused of shooting wife found dead",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/cd84128a8b889097a162f91b6c72aa8a",
+        "link": "https://www.yahoo.com/news/articles/special-forces-veteran-accused-shooting-212730919.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Celebrated broadcaster and naturalist David Attenborough turns 100",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/celebrated-broadcaster-and-naturalist-david-attenborough-turns-100/a-76880848?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The still-sprightly centenarian has been knighted twice, nominated for the 2022 Nobel Peace Prize, and is perhaps the world's most recognizable nature..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-says-it-struck-targets-in-iran-after-attack-on-warships/live-77088159?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The US military said it targeted Iranian military facilities after Iran attacked three US destroyers transiting the Strait of Hormuz. President Donald..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump gives EU until July 4 to implement trade deal",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-gives-eu-until-july-4-to-implement-trade-deal/a-77087158?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Trump has threatened to impose higher tariffs on the bloc if it doesn't implement the trade deal agreed last year by his deadline...."
     },
     {
         "source": "Leafly",
