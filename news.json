@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hungary returns a seized cash and gold shipment worth $82 million to Ukraine",
-        "image": "https://media.zenfs.com/en/ap.org/c3659e221480d0a66d430f74a107505e",
-        "link": "https://www.yahoo.com/news/articles/hungary-returns-seized-cash-gold-152332379.html",
+        "title": "Rutgers University withdraws invite to a graduation speaker over his criticism of Israel",
+        "image": "https://media.zenfs.com/en/ap.org/3d457847aecd9bcceb4cee14709be0c4",
+        "link": "https://www.yahoo.com/news/articles/rutgers-university-withdraws-invite-graduation-151125868.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/usa_today_news_641/cd84128a8b889097a162f91b6c72aa8a",
         "link": "https://www.yahoo.com/news/articles/special-forces-veteran-accused-shooting-212730919.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Tamil Nadu struggles to form government",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-tamil-nadu-struggles-to-form-government/live-77089882?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Four days after Tamil Nadu's assembly election results were announced, uncertainty over government formation continues as actor-politician Joseph Vija..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "War and peace: Key themes of Pope Leo's first year in office",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/war-and-peace-key-themes-of-pope-leo-s-first-year-in-office/a-77082601?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "One year after his election, Pope Leo XIV is regarded as an important counterweight to US President Trump. His intended direction for the Catholic Chu..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-court-deals-fresh-blow-to-trump-s-10-global-tariff-policy/a-77088575?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A US federal court said President Donald Trump overstepped his authority when he invoked a section of a 1974 trade law to enact the 10% global tariff ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Zelenskyy warns Russia's friends against attending parade",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/zelenskyy-warns-russia-s-friends-against-attending-parade/a-77087963?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Zelenskyy said he did \"not recommend\" that representatives of states allied with Russia attend the May 9 parade. Russian authorities also said they we..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US says it struck targets in Iran after attack on warships",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-says-it-struck-targets-in-iran-after-attack-on-warships/live-77088159?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US military said it targeted Iranian military facilities after Iran attacked three US destroyers transiting the Strait of Hormuz. President Donald..."
     },
     {
         "source": "Leafly",
