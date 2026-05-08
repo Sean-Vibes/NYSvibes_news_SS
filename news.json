@@ -64,10 +64,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "California farmers must destroy 420,000 peach trees after Del Monte closes its canneries and cancels more than $550 million in long-term contracts",
-        "image": "https://media.zenfs.com/en/fortune_175/7ba28855cfc0ddeab9c6ffa5b437d336",
-        "link": "https://finance.yahoo.com/economy/policy/articles/california-farmers-must-destroy-420-202332529.html",
+        "title": "Iran says U.S. \"crossed the point of no return\" with attacks on ports",
+        "image": "https://media.zenfs.com/en/cbs_news_897/f41e2adc09d167f9a80864b5c1969354",
+        "link": "https://www.yahoo.com/news/articles/iran-says-u-crossed-point-111459421.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Christians decry persecution in India's heartland",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/christians-decry-persecution-in-india-s-heartland/a-77095929?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "With Christians in India increasingly targeted by Hindu vigilantes, victims say police often side with their attackers...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Pakistan: Drop in Gulf remittances puts families on edge",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/pakistan-drop-in-gulf-remittances-puts-families-on-edge/a-77098364?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "For millions of households, money sent by Pakistani workers in the Gulf offers a lifeline, helping their families cover basic needs such as food and e..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "New film portrays Thomas and Erika Mann \u2014 with an oddly twisted premise",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/new-film-portrays-thomas-and-erika-mann-with-an-oddly-twisted-premise/a-76970827?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Premiering at Cannes and starring Sandra H\u00fcller, Pawel Pawlikowski's \"Fatherland\" is set during the Cold War \u2014 a complex period for the prominent anti..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/hungary-new-govt-intent-on-initiating-swift-systemic-change/a-77095598?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Peter Magyar and his government are determined to push ahead with change at full throttle. But even before the cabinet is sworn in, there has been a \"..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Fertilizer shortages: What are Africa's options during the Hormuz crisis?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fertilizer-shortages-what-are-africa-s-options-during-the-hormuz-crisis/a-77094073?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The ongoing blockade of the Strait of Hormuz is affecting African nations particularly badly. But there are potential solutions for mitigating the dra..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pioneer in the fight against AIDS: Botswana's ex-President Festus Mogae died",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pioneer-in-the-fight-against-aids-botswana-s-ex-president-festus-mogae-died/a-77095797?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The former President of the Republic of Botswana, Festus Mogae, has died. The democrat was considered the architect of the Southern African country's ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why Russia has scaled back May 9 Victory Parade",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-russia-has-scaled-back-may-9-victory-parade/a-77085264?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "This year's May 9 military parades in Moscow will be much more modest and have been canceled altogether in other parts of Russia. The Kremlin has blam..."
     },
     {
         "source": "Leafly",
