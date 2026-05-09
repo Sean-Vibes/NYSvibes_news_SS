@@ -50,13 +50,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump blockade squeezing Iran so hard regime may be dumping oil into Gulf, experts say",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/c45c319e9965bc08d18065a94df12180",
-        "link": "https://www.yahoo.com/news/articles/trump-blockade-squeezing-iran-hard-194228841.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "UK deploys warship to Middle East with eye on potential Hormuz mission",
         "image": "https://media.zenfs.com/en/reuters.com/49889e27d4d220d222395351182df9c9",
         "link": "https://www.yahoo.com/news/articles/uk-deploys-warship-middle-east-142514145.html",
@@ -64,17 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "California farmers must destroy 420,000 peach trees after Del Monte closes its canneries and cancels more than $550 million in long-term contracts",
-        "image": "https://media.zenfs.com/en/fortune_175/7ba28855cfc0ddeab9c6ffa5b437d336",
-        "link": "https://finance.yahoo.com/economy/policy/articles/california-farmers-must-destroy-420-202332529.html",
+        "title": "Frontier Plane Aborts Takeoff After Hitting a Person on the Runway",
+        "image": "https://media.zenfs.com/en/nbcu_713/1cb1dcdbcf08cdc66b268629d74a54bc",
+        "link": "https://www.yahoo.com/news/videos/frontier-plane-aborts-takeoff-hitting-114504082.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump blockade squeezing Iran so hard regime may be dumping oil into Gulf, experts say",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/c45c319e9965bc08d18065a94df12180",
+        "link": "https://www.yahoo.com/news/articles/trump-blockade-squeezing-iran-hard-194228841.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Hantavirus: Spain prepares to receive cruise ship",
+        "title": "Hantavirus: WHO chief reassures Tenerife residents as Spain prepares for cruise ship's arrival",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hantavirus-spain-prepares-to-receive-cruise-ship/live-77063670?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Spanish authorities are getting set to receive the MV Hondius, the cruise ship at the center of the hantavirus outbreak. The WHO has confirmed six han..."
+        "link": "https://www.dw.com/en/hantavirus-who-chief-reassures-tenerife-residents-as-spain-prepares-for-cruise-ship-s-arrival/live-77063670?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The WHO chief has reassured Tenerife residents, as Spanish authorities prepare to receive the MV Hondius, the cruise ship at the center of the hantavi..."
     },
     {
         "source": "Deutsche Welle",
