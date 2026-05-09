@@ -50,16 +50,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "UK to summon Chinese ambassador after spying convictions",
-        "image": "https://media.zenfs.com/en/reuters.com/3499a55938e3213d7fc7f9811f5cf877",
-        "link": "https://www.yahoo.com/news/articles/uk-summon-chinese-ambassador-spying-164643306.html",
+        "title": "Trump blockade squeezing Iran so hard regime may be dumping oil into Gulf, experts say",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/c45c319e9965bc08d18065a94df12180",
+        "link": "https://www.yahoo.com/news/articles/trump-blockade-squeezing-iran-hard-194228841.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "A small town in Germany braces for end to decades of life with US troops",
-        "image": "https://media.zenfs.com/en/reuters.com/57e96127a35cbb44f3def27db6a0c460",
-        "link": "https://www.yahoo.com/news/articles/small-town-germany-braces-end-101154519.html",
+        "title": "China sentences former defence ministers to death with reprieve",
+        "image": "https://media.zenfs.com/en/reuters.com/e5f4b3526701adcde33ef5017bcd51dc",
+        "link": "https://www.yahoo.com/news/articles/china-sentences-former-defense-ministers-101301970.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,27 @@
         "image": "https://media.zenfs.com/en/fortune_175/7ba28855cfc0ddeab9c6ffa5b437d336",
         "link": "https://finance.yahoo.com/economy/policy/articles/california-farmers-must-destroy-420-202332529.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Journalist found dead in Colombia's conflict zone",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/journalist-found-dead-in-colombia-s-conflict-zone/a-77102110?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Mateo Perez, a 25-year-old Colombian reporter, reportedly went missing on May 5 after being detained by guerrilla members at a roadblock...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Mexico to shorten school year due to World Cup, summer heat",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/mexico-to-shorten-school-year-due-to-world-cup-summer-heat/a-77101994?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Mexican authorities announced a decision to end the academic year earlier than planned because of the World Cup and a heat wave. But the decision spar..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: US expecting Tehran's response to proposed deal",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-us-expecting-tehran-s-response-to-proposed-deal/live-77102104?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "President Donald Trump said Washington was expecting an answer from Tehran over a proposed deal to set up talks to end the war by Friday night Eastern..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/pakistan-drop-in-gulf-remittances-puts-families-on-edge/a-77098364?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "For millions of households, money sent by Pakistani workers in the Gulf offers a lifeline, helping their families cover basic needs such as food and e..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump announces 3-day ceasefire between Ukraine and Russia",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-announces-3-day-ceasefire-between-ukraine-and-russia/live-77091251?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US president said both sides had agreed to halt fighting from May 9 to 11 and to exchange 1,000 prisoners each. Both Ukraine and Russia confirmed ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US: Pentagon releases trove of classified UFO files",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-pentagon-releases-trove-of-classified-ufo-files/a-77100163?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US President Donald Trump hailed his government's move to release over a 100 UFO-related documents as \"complete and maximum transparency.\"..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How real is a coup threat against Russia's president?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-real-is-a-coup-threat-against-russia-s-president/a-77098085?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Increased security around Vladimir Putin and a scaling back of public appearances have given rise to suspicions of a coup or assassination attempt. Ye..."
     },
     {
         "source": "Leafly",
