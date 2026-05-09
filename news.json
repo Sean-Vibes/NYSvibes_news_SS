@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "A tech founder is using the classic layoff email template for a whole different purpose",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/3f12b369a1beb37b84c1826418f25e81",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/tech-founder-using-classic-layoff-132300003.html",
+        "title": "Justice Department moves to strip 12 Americans of their citizenship",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/4dd546b23861a5b43cc05ae265027093",
+        "link": "https://www.yahoo.com/news/articles/justice-department-moves-strip-12-201013804.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Elizabeth Smart Explains Her Belief That Savannah Guthrie's Mom Nancy May Still Be Alive",
-        "image": "https://media.zenfs.com/en/nbcu_713/619ed1a4e79b6128e78d07de51427177",
-        "link": "https://www.yahoo.com/entertainment/videos/elizabeth-smart-explains-her-belief-225304462.html",
+        "title": "Trump blockade squeezing Iran so hard regime may be dumping oil into Gulf, experts say",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/c45c319e9965bc08d18065a94df12180",
+        "link": "https://www.yahoo.com/news/articles/trump-blockade-squeezing-iran-hard-194228841.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Putin oversees scaled-back Victory Day parade on Red Square",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/putin-oversees-scaled-back-victory-day-parade-on-red-square/a-77103146?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Vladimir Putin has praised Russian troops fighting in Ukraine in a speech at Moscow's May 9 parade. The threat of Ukrainian attacks means tanks, missi..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Suvendu Adhikari takes oath as West Bengal's first BJP chief minister",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-suvendu-adhikari-takes-oath-as-west-bengal-s-first-bjp-chief-minister/live-77102224?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Prime Minister Narendra Modi attended the swearing-in ceremony of Adhikari. Meanwhile, in Tamil Nadu, Vijay is still grappling with the numbers to cla..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Eurovision 2026: Politics collide with a blockbuster show",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eurovision-2026-politics-collide-with-a-blockbuster-show/a-77069828?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Controversy over Israel's participation and boycotts unprecedented in scale are already weighing on the Eurovision Song Contest before it even kicks o..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/journalist-found-dead-in-colombia-s-conflict-zone/a-77102110?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Mateo Perez, a 25-year-old Colombian reporter, reportedly went missing on May 5 after being detained by guerrilla members at a roadblock...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Mexico to shorten school year due to World Cup, summer heat",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/mexico-to-shorten-school-year-due-to-world-cup-summer-heat/a-77101994?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Mexican authorities announced a decision to end the academic year earlier than planned because of the World Cup and a heat wave. But the decision spar..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: US expecting Tehran's response to proposed deal",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-us-expecting-tehran-s-response-to-proposed-deal/live-77102104?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "President Donald Trump said Washington was expecting an answer from Tehran over a proposed deal to set up talks to end the war by Friday night Eastern..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Canvas education platform back online after cyberattack",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/canvas-education-platform-back-online-after-cyberattack/a-77101219?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The hacker group ShinyHunters had sought to extort universities before the cyberattack on the Canvas education platform took place...."
     },
     {
         "source": "Leafly",
