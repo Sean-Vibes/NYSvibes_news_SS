@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive-Hungry to sell, UAE slips hidden oil tankers through Strait of Hormuz",
-        "image": "https://media.zenfs.com/en/reuters.com/dbf0c59b70c4c65f32515e148c59d33f",
-        "link": "https://finance.yahoo.com/news/exclusive-hungry-sell-uae-slips-104739397.html",
+        "title": "US will start revoking passports for thousands of parents who owe child support, AP learns",
+        "image": "https://media.zenfs.com/en/ap.org/a618cc0522665e34b7abc25c442cb6e2",
+        "link": "https://www.yahoo.com/news/articles/us-start-revoking-passports-thousands-192857639.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/c45c319e9965bc08d18065a94df12180",
         "link": "https://www.yahoo.com/news/articles/trump-blockade-squeezing-iran-hard-194228841.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Surf's up again in Munich!",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-surf-s-up-again-in-munich/live-77103139?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Bavarian capital Munich has long been an unlikely travel hotspot for surfers, and the Eisbach wave is open once again. Meanwhile, Germany is about..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-s-sugar-tax-sparks-nanny-state-debate/a-77083208?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Friedrich Merz's government has agreed to introduce a sugar levy on soft drinks as part of its health care reforms. Critics have called it disproporti..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Journalist found dead in Colombia's conflict zone",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/journalist-found-dead-in-colombia-s-conflict-zone/a-77102110?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Mateo Perez, a 25-year-old Colombian reporter, reportedly went missing on May 5 after being detained by guerrilla members at a roadblock...."
     },
     {
         "source": "Leafly",
