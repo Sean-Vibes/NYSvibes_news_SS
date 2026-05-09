@@ -43,13 +43,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "UK deploys warship to Middle East with eye on potential Hormuz mission",
-        "image": "https://media.zenfs.com/en/reuters.com/49889e27d4d220d222395351182df9c9",
-        "link": "https://www.yahoo.com/news/articles/uk-deploys-warship-middle-east-142514145.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Justice Department moves to strip 12 Americans of their citizenship",
         "image": "https://media.zenfs.com/en/the_hill_articles_341/4dd546b23861a5b43cc05ae265027093",
         "link": "https://www.yahoo.com/news/articles/justice-department-moves-strip-12-201013804.html",
@@ -57,9 +50,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China sentences former defence ministers to death with reprieve",
-        "image": "https://media.zenfs.com/en/reuters.com/e5f4b3526701adcde33ef5017bcd51dc",
-        "link": "https://www.yahoo.com/news/articles/china-sentences-former-defense-ministers-101301970.html",
+        "title": "UK deploys warship to Middle East with eye on potential Hormuz mission",
+        "image": "https://media.zenfs.com/en/reuters.com/49889e27d4d220d222395351182df9c9",
+        "link": "https://www.yahoo.com/news/articles/uk-deploys-warship-middle-east-142514145.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Putin says he thinks Russia-Ukraine war is coming to an end",
+        "image": "https://media.zenfs.com/en/reuters.com/18f5146f601eca0495545b18eb30c5aa",
+        "link": "https://www.yahoo.com/news/articles/putin-says-thinks-ukraine-conflict-185200391.html",
         "summary": "..."
     },
     {
