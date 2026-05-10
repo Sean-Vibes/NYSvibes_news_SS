@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "A massive 11,000-carat ruby has been unearthed in Myanmar\u2019s war-scarred gemstone heartland",
-        "image": "https://media.zenfs.com/en/ap.org/a401bf7a8ff813cb042cbaec03862fe0",
-        "link": "https://www.yahoo.com/news/articles/massive-11-000-carat-ruby-131124582.html",
+        "title": "Vatican's careful words on Pope-Rubio meeting imply deep Trump tensions",
+        "image": "https://media.zenfs.com/en/reuters.com/7fe0e1f97943d766364fd3255d80afd3",
+        "link": "https://www.yahoo.com/news/articles/vaticans-careful-words-pope-rubio-090504109.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "North Korea updates constitution to require automatic nuclear strike if Kim Jong Un is assassinated: report",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/829576455c28670743de29018a583846",
+        "link": "https://www.yahoo.com/news/articles/north-korea-updates-constitution-require-035624084.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Putin says he thinks Russia-Ukraine war is coming to an end",
+        "image": "https://media.zenfs.com/en/reuters.com/18f5146f601eca0495545b18eb30c5aa",
+        "link": "https://www.yahoo.com/news/articles/putin-says-thinks-ukraine-conflict-185200391.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Justice Department moves to strip 12 Americans of their citizenship",
         "image": "https://media.zenfs.com/en/the_hill_articles_341/4dd546b23861a5b43cc05ae265027093",
         "link": "https://www.yahoo.com/news/articles/justice-department-moves-strip-12-201013804.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive-Kennedy's health officials explored US ban of some widely used antidepressants, sources say",
-        "image": "https://media.zenfs.com/en/reuters.com/1845ced203cbbb48846730d5024fd385",
-        "link": "https://www.yahoo.com/news/articles/exclusive-kennedys-health-officials-explored-155656054.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Hantavirus: First evacuation flight leaves Tenerife",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/hantavirus-first-evacuation-flight-leaves-tenerife/live-77063670?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Spanish nationals were the first to leave the ship anchored off Tenerife and will be quarantined on arrival in Madrid. Follow DW for more...."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "North Korea updates constitution to require automatic nuclear strike if Kim Jong Un is assassinated: report",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/829576455c28670743de29018a583846",
-        "link": "https://www.yahoo.com/news/articles/north-korea-updates-constitution-require-035624084.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "'No comment' after Schr\u00f6der named by Putin for Ukraine talks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/no-comment-after-schr\u00f6der-named-by-putin-for-ukraine-talks/a-77110295?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Russian President Vladimir Putin suggested that the former German chancellor serve as a mediator in Russia-Ukraine peace talks...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Ceasefire tested by ship fire, drone attack",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-ceasefire-tested-by-ship-fire-drone-attack/live-77102104?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Kuwait detected several drones \u200bin its airspace and a ship was struck off Qatar as the ceasefire between the US and Iran is tested. Follow DW for more..."
     },
     {
         "source": "Deutsche Welle",
@@ -78,31 +99,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Hantavirus: Passengers evacuate off MV Hondius in Tenerife",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hantavirus-passengers-evacuate-off-mv-hondius-in-tenerife/live-77063670?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany and the US are among the countries sending aircraft to fly their citizens home. The ship anchored at a port in Tenerife...."
-    },
-    {
-        "source": "Deutsche Welle",
         "title": "The weaponization of shipping channels",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/the-weaponization-of-shipping-channels/a-77108496?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The crisis around the Strait of Hormuz focused attention on other maritime chokepoints. Experts warn that waterways like the Taiwan Strait or the Stra..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Data centers: Tech boom with downsides",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/data-centers-tech-boom-with-downsides/a-77106191?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Data centers are energy-intensive engines of growth, the backbone and hub of digitalization. Thousands of them are being built all around the world. T..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pakistan: Car bomb attack at checkpoint kills 15",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pakistan-car-bomb-attack-at-checkpoint-kills-15/a-77108185?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The attack occurred in Bannu district of Khyber Pakhtunkhwa province, where militants drove an explosives\u2011laden vehicle into a police checkpoint...."
     },
     {
         "source": "Leafly",
