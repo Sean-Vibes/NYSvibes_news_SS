@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "North Korea updates constitution to require automatic nuclear strike if Kim Jong Un is assassinated: report",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/829576455c28670743de29018a583846",
-        "link": "https://www.yahoo.com/news/articles/north-korea-updates-constitution-require-035624084.html",
+        "title": "Kylie Jenner's BFF shows off new silhouette as top surgeons declare the era of exaggerated curves is over",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/e4372c1969fb00448d4a83a47d1916e2",
+        "link": "https://www.yahoo.com/entertainment/celebrity/articles/kylie-jenners-bff-shows-off-160032912.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Justice Department moves to strip 12 Americans of their citizenship",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/4dd546b23861a5b43cc05ae265027093",
-        "link": "https://www.yahoo.com/news/articles/justice-department-moves-strip-12-201013804.html",
+        "title": "North Korea updates constitution to require automatic nuclear strike if Kim Jong Un is assassinated: report",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/829576455c28670743de29018a583846",
+        "link": "https://www.yahoo.com/news/articles/north-korea-updates-constitution-require-035624084.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Africa summit in Kenya: France seeks new partners",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/africa-summit-in-kenya-france-seeks-new-partners/a-77098131?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Following a withdrawal from the Sahel region, France is seeking to expand its geostrategic influence in Africa by seeking allies. The first Africa Sum..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/berlin-fighting-the-city-s-young-far-right-scene/a-77098275?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A recent police raid on Germany's neo-Nazi scene has revealed how alarmingly young some of its members are. But those targeted by this hatred are figh..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "The weaponization of shipping channels",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/the-weaponization-of-shipping-channels/a-77108496?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The crisis around the Strait of Hormuz focused attention on other maritime chokepoints. Experts warn that waterways like the Taiwan Strait or the Stra..."
     },
     {
         "source": "Leafly",
