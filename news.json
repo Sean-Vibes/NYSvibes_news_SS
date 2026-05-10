@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Putin says he thinks Russia-Ukraine war is coming to an end",
-        "image": "https://media.zenfs.com/en/reuters.com/18f5146f601eca0495545b18eb30c5aa",
-        "link": "https://www.yahoo.com/news/articles/putin-says-thinks-ukraine-conflict-185200391.html",
+        "title": "Iran wants team members who served in the Revolutionary Guard to get visas for the World Cup",
+        "image": "https://media.zenfs.com/en/ap.org/206eac474a1e2fbbb5c76428f70ca492",
+        "link": "https://sports.yahoo.com/articles/iran-wants-team-members-served-202043352.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "California, Nevada and Arizona announce temporary plan to save water from the Colorado River",
-        "image": "https://media.zenfs.com/en/ap.org/a3fa5a717c3f8b231250afc22e8f3128",
-        "link": "https://www.yahoo.com/news/articles/california-nevada-arizona-announce-temporary-192139156.html",
+        "title": "Putin says he thinks Russia-Ukraine war is coming to an end",
+        "image": "https://media.zenfs.com/en/reuters.com/18f5146f601eca0495545b18eb30c5aa",
+        "link": "https://www.yahoo.com/news/articles/putin-says-thinks-ukraine-conflict-185200391.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Reckitt\u2019s Kris Licht on moving at \u2018China speed\u2019",
-        "image": "https://media.zenfs.com/en/semafor_310/2a4aae3086c2f5ae8025353487c1d4ab",
-        "link": "https://finance.yahoo.com/sectors/healthcare/articles/reckitt-kris-licht-moving-china-091726079.html",
+        "title": "Trump blockade squeezing Iran so hard regime may be dumping oil into Gulf, experts say",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/c45c319e9965bc08d18065a94df12180",
+        "link": "https://www.yahoo.com/news/articles/trump-blockade-squeezing-iran-hard-194228841.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "The weaponization of shipping channels",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/the-weaponization-of-shipping-channels/a-77108496?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The crisis around the Strait of Hormuz focused attention on other maritime chokepoints. Experts warn that waterways like the Taiwan Strait or the Stra..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Data centers: Tech boom with downsides",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/data-centers-tech-boom-with-downsides/a-77106191?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Data centers are energy-intensive engines of growth, the backbone and hub of digitalization. Thousands of them are being built all around the world. T..."
     },
     {
         "source": "Deutsche Welle",
@@ -88,21 +102,7 @@
         "title": "Hantavirus: Countries prepare to evacuate ship passengers",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/hantavirus-countries-prepare-to-evacuate-ship-passengers/live-77063670?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany and the US are among the countries sending aircraft to evacuate their citizens from the MV Hondius cruise ship. The ship anchored off Tenerife..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Brazil judge suspends law that reduces Bolsonaro's jail term",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/brazil-judge-suspends-law-that-reduces-bolsonaro-s-jail-term/a-77107420?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Brazil's top court prohibited the implementation of legislation that would drastically cut former President Jair Bolsonaro's prison term...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Greek minister says mystery drone from a 'foreign state'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/greek-minister-says-mystery-drone-from-a-foreign-state/a-77107116?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A Greek military source said the flying robot, found this week off the island of Lefkada, may have been Ukrainian. Kyiv has admitted using drones to t..."
+        "summary": "Germany and the US are among the countries sending aircraft to evacuate their citizens from the MV Hondius cruise ship. The ship anchored at a port in..."
     },
     {
         "source": "Leafly",
