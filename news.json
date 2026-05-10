@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran wants team members who served in the Revolutionary Guard to get visas for the World Cup",
-        "image": "https://media.zenfs.com/en/ap.org/206eac474a1e2fbbb5c76428f70ca492",
-        "link": "https://sports.yahoo.com/articles/iran-wants-team-members-served-202043352.html",
+        "title": "A massive 11,000-carat ruby has been unearthed in Myanmar\u2019s war-scarred gemstone heartland",
+        "image": "https://media.zenfs.com/en/ap.org/a401bf7a8ff813cb042cbaec03862fe0",
+        "link": "https://www.yahoo.com/news/articles/massive-11-000-carat-ruby-131124582.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Putin says he thinks Russia-Ukraine war is coming to an end",
-        "image": "https://media.zenfs.com/en/reuters.com/18f5146f601eca0495545b18eb30c5aa",
-        "link": "https://www.yahoo.com/news/articles/putin-says-thinks-ukraine-conflict-185200391.html",
+        "title": "Exclusive-Kennedy's health officials explored US ban of some widely used antidepressants, sources say",
+        "image": "https://media.zenfs.com/en/reuters.com/1845ced203cbbb48846730d5024fd385",
+        "link": "https://www.yahoo.com/news/articles/exclusive-kennedys-health-officials-explored-155656054.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump blockade squeezing Iran so hard regime may be dumping oil into Gulf, experts say",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/c45c319e9965bc08d18065a94df12180",
-        "link": "https://www.yahoo.com/news/articles/trump-blockade-squeezing-iran-hard-194228841.html",
+        "title": "North Korea updates constitution to require automatic nuclear strike if Kim Jong Un is assassinated: report",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/829576455c28670743de29018a583846",
+        "link": "https://www.yahoo.com/news/articles/north-korea-updates-constitution-require-035624084.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Berlin: Fighting the city's young far-right scene",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/berlin-fighting-the-city-s-young-far-right-scene/a-77098275?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A recent police raid on Germany's neo-Nazi scene has revealed how alarmingly young some of its members are. But those targeted by this hatred are figh..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Hantavirus: Passengers evacuate off MV Hondius in Tenerife",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/hantavirus-passengers-evacuate-off-mv-hondius-in-tenerife/live-77063670?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany and the US are among the countries sending aircraft to fly their citizens home. The ship anchored at a port in Tenerife...."
     },
     {
         "source": "Deutsche Welle",
@@ -85,24 +99,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Pakistan: Car bomb attack at checkpoint kills 12",
+        "title": "Pakistan: Car bomb attack at checkpoint kills 15",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pakistan-car-bomb-attack-at-checkpoint-kills-12/a-77108185?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Images from the scene showed that the checkpoint structure had been reduced to rubble. Bricks, charred wreckage, and mangled automibiles were scattere..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Antisemitism in Germany, and the CDU's search for answers",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/antisemitism-in-germany-and-the-cdu-s-search-for-answers/a-77096960?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "German Chancellor Friedrich Merz's CDU party has been struggling to find the right words on how it intends to protect Jewish life in the capital. A re..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hantavirus: Countries prepare to evacuate ship passengers",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hantavirus-countries-prepare-to-evacuate-ship-passengers/live-77063670?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany and the US are among the countries sending aircraft to evacuate their citizens from the MV Hondius cruise ship. The ship anchored at a port in..."
+        "link": "https://www.dw.com/en/pakistan-car-bomb-attack-at-checkpoint-kills-15/a-77108185?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The attack occurred in Bannu district of Khyber Pakhtunkhwa province, where militants drove an explosives\u2011laden vehicle into a police checkpoint...."
     },
     {
         "source": "Leafly",
