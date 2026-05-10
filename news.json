@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Putin says he thinks Russia-Ukraine war is coming to an end",
-        "image": "https://media.zenfs.com/en/reuters.com/18f5146f601eca0495545b18eb30c5aa",
-        "link": "https://www.yahoo.com/news/articles/putin-says-thinks-ukraine-conflict-185200391.html",
+        "title": "Saudi oil giant Aramco sees 25% jump in Q1 profit after shifting exports from Strait of Hormuz",
+        "image": "https://media.zenfs.com/en/ap.org/8f58291410cbf5035542454de6fddf9e",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/saudi-oil-giant-aramco-sees-150943813.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kylie Jenner's BFF shows off new silhouette as top surgeons declare the era of exaggerated curves is over",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/e4372c1969fb00448d4a83a47d1916e2",
-        "link": "https://www.yahoo.com/entertainment/celebrity/articles/kylie-jenners-bff-shows-off-160032912.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Saudi oil giant Aramco sees Q1 profits rise 25% by shifting exports to its East-West Pipeline",
-        "image": "https://media.zenfs.com/en/ap.org/d3619133c1d93af0eff65b9ca5175ead",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/saudi-oil-giant-aramco-sees-150943813.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "A data center drained 30M gallons of water unnoticed \u2014 until residents complained about low water pressure",
         "image": "https://media.zenfs.com/en/politico_453/3e86d9cd281ff099b89df74fbffccc28",
         "link": "https://www.yahoo.com/news/articles/georgia-residents-seethe-over-30m-180000015.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Anger, confusion as Louisiana Republicans move\u00a0to erase majority-Black US House district",
+        "image": "https://media.zenfs.com/en/reuters.com/b357a719d6a7a826417bf12bf4593867",
+        "link": "https://www.yahoo.com/news/articles/anger-confusion-louisiana-republicans-move-100804619.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Person who jumped perimeter fence is hit and killed by Frontier plane during takeoff on Denver runway, airport says",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/c3fb8e9a4d66e12bdc9e6d8f3238b6db",
+        "link": "https://www.yahoo.com/news/articles/frontier-plane-reportedly-strikes-pedestrian-084707343.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Trump rejects proposal to end conflict",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-trump-rejects-proposal-to-end-conflict/live-77102104?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Donald Trump called Iran's peace plan \"totally unacceptable.\" The fragile ceasefire had been tested earlier in the day by Iranian strikes across the G..."
     },
     {
         "source": "Deutsche Welle",
@@ -85,9 +92,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Criminals or anti-genocide activists? Germany's 'Ulm 5' trial return to court",
+        "title": "Germany: 'Ulm 5' on trial after attack on Israeli arms firm",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/criminals-or-anti-genocide-activists-germany-s-ulm-5-trial-return-to-court/a-77038804?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/germany-ulm-5-on-trial-after-attack-on-israeli-arms-firm/a-77038804?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Five activists have gone on trial in Germany following a break-in at the Israeli arms company Elbit Systems in Ulm. Their lawyers intend to argue they..."
     },
     {
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/rsf-urges-niger-to-ditch-abusive-french-media-ban/a-77110893?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Media watchdog Reporters Without Borders has called on Niger's Russian-backed military government to lift its sudden suspension of nine French media o..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Africa summit in Kenya: France seeks new partners",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/africa-summit-in-kenya-france-seeks-new-partners/a-77098131?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Following a withdrawal from the Sahel region, France is seeking to expand its geostrategic influence in Africa by seeking allies. The first Africa Sum..."
     },
     {
         "source": "Leafly",
