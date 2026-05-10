@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China sentences former defence ministers to death with reprieve",
-        "image": "https://media.zenfs.com/en/reuters.com/e5f4b3526701adcde33ef5017bcd51dc",
-        "link": "https://www.yahoo.com/news/articles/china-sentences-former-defense-ministers-101301970.html",
+        "title": "Putin says he thinks Russia-Ukraine war is coming to an end",
+        "image": "https://media.zenfs.com/en/reuters.com/18f5146f601eca0495545b18eb30c5aa",
+        "link": "https://www.yahoo.com/news/articles/putin-says-thinks-ukraine-conflict-185200391.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,52 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Justice Department moves to strip 12 Americans of their citizenship",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/4dd546b23861a5b43cc05ae265027093",
+        "link": "https://www.yahoo.com/news/articles/justice-department-moves-strip-12-201013804.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "California, Nevada and Arizona announce temporary plan to save water from the Colorado River",
+        "image": "https://media.zenfs.com/en/ap.org/a3fa5a717c3f8b231250afc22e8f3128",
+        "link": "https://www.yahoo.com/news/articles/california-nevada-arizona-announce-temporary-192139156.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Reckitt\u2019s Kris Licht on moving at \u2018China speed\u2019",
         "image": "https://media.zenfs.com/en/semafor_310/2a4aae3086c2f5ae8025353487c1d4ab",
         "link": "https://finance.yahoo.com/sectors/healthcare/articles/reckitt-kris-licht-moving-china-091726079.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Putin says he thinks Russia-Ukraine war is coming to an end",
-        "image": "https://media.zenfs.com/en/reuters.com/18f5146f601eca0495545b18eb30c5aa",
-        "link": "https://www.yahoo.com/news/articles/putin-says-thinks-ukraine-conflict-185200391.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Pakistan: Car bomb attack at checkpoint kills 12",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/pakistan-car-bomb-attack-at-checkpoint-kills-12/a-77108185?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Images from the scene showed that the checkpoint structure had been reduced to rubble. Bricks, charred wreckage, and mangled automibiles were scattere..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Scores of online resellers are using AI to pretend to be mom-and-pop stores",
-        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/4bf2216d3c13d2bf3ebbd1b5ca7c329b",
-        "link": "https://www.yahoo.com/news/articles/scores-online-resellers-using-ai-100313346.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Antisemitism in Germany, and the CDU's search for answers",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/antisemitism-in-germany-and-the-cdu-s-search-for-answers/a-77096960?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "German Chancellor Friedrich Merz's CDU party has been struggling to find the right words on how it intends to protect Jewish life in the capital. A re..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Hantavirus: Countries prepare to evacuate ship passengers",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/hantavirus-countries-prepare-to-evacuate-ship-passengers/live-77063670?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany and the US are among the countries sending aircraft to evacuate their citizens from the MV Hondius cruise ship. The ship anchored off Tenerife..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Brazil judge suspends law that reduces Bolsonaro's jail term",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/brazil-judge-suspends-law-that-reduces-bolsonaro-s-jail-term/a-77107420?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Brazil's top court prohibited the implementation of legislation that would drastically cut former President Jair Bolsonaro's prison term...."
     },
     {
         "source": "Deutsche Welle",
@@ -75,34 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/greek-minister-says-mystery-drone-from-a-foreign-state/a-77107116?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A Greek military source said the flying robot, found this week off the island of Lefkada, may have been Ukrainian. Kyiv has admitted using drones to t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Putin says he thinks Ukraine war is 'coming to an end'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/putin-says-he-thinks-ukraine-war-is-coming-to-an-end/a-77106772?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Russian president made the remarks as Moscow and Kyiv observe a three-day ceasefire in their four-year conflict...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hantavirus: Countries prepare to evacuate ship passengers",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hantavirus-countries-prepare-to-evacuate-ship-passengers/live-77063670?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany and the US are among the countries sending aircraft to evacuate their citizens from the MV Hondius cruise ship. The ship is expected to arrive..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hungary: Peter Magyar sworn in as prime minister",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hungary-peter-magyar-sworn-in-as-prime-minister/a-77104888?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Peter Magyar vowed to implement wide-ranging reforms after winning a landslide election last month, ending Viktor Orban's 16 years in power...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Australian far-right party wins first lower house seat",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/australian-far-right-party-wins-first-lower-house-seat/a-77104689?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The far-right populist One Nation party has won its first seat in Australia's House of Representatives...."
     },
     {
         "source": "Leafly",
