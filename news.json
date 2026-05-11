@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "South Korea condemns attack on cargo ship in Strait of Hormuz, vows response",
-        "image": "https://media.zenfs.com/en/reuters.com/dbd652ee953ab7c73178b33ca9369565",
-        "link": "https://www.yahoo.com/news/articles/south-korea-condemns-attack-cargo-074116123.html",
+        "title": "Michigan groom will spend decades in prison for killing his best friend on his wedding night",
+        "image": "https://media.zenfs.com/en/ap.org/76f0a9758ac1be3a1cbb5c9090c790f9",
+        "link": "https://www.yahoo.com/news/articles/michigan-groom-spend-decades-prison-204615807.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Remains of US soldier who went missing during military exercises in Morocco have been recovered",
-        "image": "https://media.zenfs.com/en/ap.org/54cb7638bb5a39c0e6b412cc313a630a",
-        "link": "https://www.yahoo.com/news/articles/remains-us-soldier-went-missing-184642697.html",
+        "title": "Latvian defence minister resigns after Ukrainian drones hit oil tanks",
+        "image": "https://media.zenfs.com/en/reuters.com/e83c5711193c446e238042786d5b8944",
+        "link": "https://www.yahoo.com/news/articles/latvian-defence-minister-resigns-ukrainian-163916631.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/the_hill_articles_341/66cdee1f5e1b1cb0c4c98274fb1ed506",
         "link": "https://www.yahoo.com/news/articles/pentagon-reveals-location-nuclear-armed-171703119.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Trump says ceasefire 'on life support'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-trump-says-ceasefire-on-life-support/live-77126070?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After rejecting Tehran's response to the US peace proposal, President Donald Trump warned that the ceasefire in the war with Iran was \"on life support..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukrainian children held in Russia: militarized, 'reeducated'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukrainian-children-held-in-russia-militarized-reeducated/a-77124356?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A Ukrainian initiative to repatriate abducted Ukrainian children reports that at least 20,000 girls and boys are being held by Russian families and au..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/hantavirus-how-is-the-outbreak-being-contained-as-passengers-return/a-77122959?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Passengers evacuated from the MV Hondius cruise ship are returning to their home countries, some with symptoms, many without. What happens to these pe..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "EU greenlights sanctions on Israeli West Bank settlers",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-greenlights-sanctions-on-israeli-west-bank-settlers/a-77123631?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Long blocked by Hungary's former government, the punitive EU measures are aimed at \"extremist\" Israeli settlers in the occupied West Bank. Israel has ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Religion steers Bengal politics in Bangladesh, India \u2014 again",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/religion-steers-bengal-politics-in-bangladesh-india-again/a-77123609?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Bengal, a region known for its secular traditions, is seeing a rise of religion in politics as Islamists grow stronger on the Bangladesh side of the b..."
     },
     {
         "source": "Leafly",
