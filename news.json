@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Latvian defence minister resigns after Ukrainian drones hit oil tanks",
-        "image": "https://media.zenfs.com/en/reuters.com/e83c5711193c446e238042786d5b8944",
-        "link": "https://www.yahoo.com/news/articles/latvian-defence-minister-resigns-ukrainian-163916631.html",
+        "title": "Saudi oil giant Aramco sees 25% jump in Q1 profit after shifting exports from Strait of Hormuz",
+        "image": "https://media.zenfs.com/en/ap.org/8f58291410cbf5035542454de6fddf9e",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/saudi-oil-giant-aramco-sees-150943813.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Saudi oil giant Aramco sees 25% jump in Q1 profit after shifting exports from Strait of Hormuz",
-        "image": "https://media.zenfs.com/en/ap.org/8f58291410cbf5035542454de6fddf9e",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/saudi-oil-giant-aramco-sees-150943813.html",
+        "title": "President of Parks and Rec? Trump asserts authority over public spaces in DC",
+        "image": "https://media.zenfs.com/en/ap.org/15762481d2f6f98c6b760b3fa36fdddd",
+        "link": "https://www.yahoo.com/news/articles/president-parks-rec-trump-asserts-113740949.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,27 @@
         "image": "https://media.zenfs.com/en/cbs_news_897/ef9c89d01f3a9b73cfe5311df48eb00b",
         "link": "https://www.yahoo.com/news/articles/sen-mark-kelly-says-pentagons-170928803.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Cut fuel use, gold buys and foreign trips, says Modi, as no end in sight to Iran war",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-cut-fuel-use-gold-buys-and-foreign-trips-says-modi-as-no-end-in-sight-to-iran-war/live-77113618?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Prime Minister Narendra Modi is asking Indians to make a series of changes in their consumption habits to help the country withstand the global econom..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Why is Hollywood missing from Cannes?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/why-is-hollywood-missing-from-cannes/a-77056586?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "There are no US blockbusters premiering at the Cannes Film Festival this year. So who's snubbing who?..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Defense minister Pistorius arrives in Kyiv",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-defense-minister-pistorius-arrives-in-kyiv/live-77114178?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Pistorius plans to discuss building a new weapons system with Ukraine in the unannounced visit. Meanwhile in Stuttgart, five pro-Palestinian activists..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iranian-nobel-winner-mohammadi-moved-to-tehran-hospital/a-77113033?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Human rights activist and Nobel Peace Prize laureate Narges Mohammadi has been released on bail and transferred to Tehran, her foundation said, amid a..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Trump rejects proposal to end conflict",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-trump-rejects-proposal-to-end-conflict/live-77102104?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Donald Trump has called Iran's plan \"totally unacceptable.\" The fragile ceasefire had been tested earlier in the day by Iranian strikes across the Gul..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Syria: Court charges Bashar Assad's cousin Atef Najib with war crimes amid 2011 uprising",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/syria-court-charges-bashar-assad-s-cousin-atef-najib-with-war-crimes-amid-2011-uprising/a-77111373?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Syria's judiciary has charged Atef Najib with acts \"amounting to war crimes\" as Bashar Assad's cousin is accused of orchestrating a crackdown on 2011 ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Could German ex-leader really negotiate Ukraine peace?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/could-german-ex-leader-really-negotiate-ukraine-peace/a-77111372?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Former German chancellor Gerhard Schr\u00f6der is a controversial \u2014 and some critics would even say, unserious \u2014 choice as a negotiator on the Ukraine war...."
     },
     {
         "source": "Leafly",
