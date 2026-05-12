@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Oklahoma Lawmakers Pass Ibogaine Bill, Sending Psychedelic Reform To Governor\u2019s Desk",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/oklahoma-lawmakers-pass-ibogaine-bill-sending-psychedelic-reform-to-governors-desk/",
+        "summary": "<p>\u201cThis bill is more than a policy change\u2014it offers real hope to so many people who desperately need it.\u201d By... <a class=\"small font-montserrat font-..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "California Assembly Passes Bill To Legalize Marijuana Dispensary Drive-Thru Windows",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/california-assembly-passes-bill-to-legalize-marijuana-dispensary-drive-thru-windows/",
+        "summary": "<p>The California Assembly has passed a bill that would allow\u00a0marijuana retailers to offer drive-thru windows to serve customers. The measure,... <a c..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Indiana Board Of Pharmacy Discusses Federal Marijuana Rescheduling\u2019s Impact On State Policy",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/indiana-board-of-pharmacy-discusses-federal-marijuana-reschedulings-impact-on-state-policy/",
@@ -21,24 +35,17 @@
         "summary": "<p>Ohio officials are launching a public education campaign about the risks of marijuana use\u2014an effort that involves partnering with an... <a class=\"s..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Iowa Bill To Double The Number Of Medical Marijuana Dispensaries Heads To Governor\u2019s Desk",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/iowa-bill-to-double-the-number-of-medical-marijuana-dispensaries-heads-to-governors-desk/",
-        "summary": "<p>Iowa lawmakers have sent the governor legislation that would double the number of medical cannabis dispensaries that are allowed to... <a class=\"sm..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "DEA launching new cannabis business registration applications (Newsletter: May 12, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/dea-launching-new-cannabis-business-registration-applications-newsletter-may-12-2026/",
-        "summary": "<p>ATF changes marijuana question on gun form; MA lawmakers pass on anti-cannabis measure; CT psychedelics bill to gov; IN GOP... <a class=\"small font..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Michigan groom will spend decades in prison for killing his best friend on his wedding night",
         "image": "https://media.zenfs.com/en/ap.org/76f0a9758ac1be3a1cbb5c9090c790f9",
         "link": "https://www.yahoo.com/news/articles/michigan-groom-spend-decades-prison-204615807.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump 'seriously considering' plan to make Venezuela and its $40 trillion in oil permanent part of USA",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/3508681a449c45e3f33139f8872fdcf1",
+        "link": "https://www.yahoo.com/news/articles/trump-seriously-considering-plan-venezuela-205543237.html",
         "summary": "..."
     },
     {
@@ -50,24 +57,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "I Used AI for Almost Everything for 1 Year: Here's What I Learned",
+        "image": "https://media.zenfs.com/en/nbcu_713/acb7ebce5c9cd61e3e3032e2ee35ae43",
+        "link": "https://www.yahoo.com/news/videos/used-ai-almost-everything-1-151214350.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Passengers on the Frontier flight that hit a person broke a key rule of airline evacuations",
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/b656a5b37ad24c157612853b7eac6ebf",
         "link": "https://www.yahoo.com/news/articles/passengers-frontier-flight-hit-person-160914077.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Democrats say Republican lawmaker must resign for agreeing with 'cotton-picking' remark",
-        "image": "https://media.zenfs.com/en/wavy-norfolk/2c3d5fb24771e77390ae31844b4c3302",
-        "link": "https://www.yahoo.com/news/articles/democrats-republican-lawmaker-must-resign-025347660.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Iran: Surge of political prisoners amid US-Israel war",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-surge-of-political-prisoners-amid-us-israel-war/a-77136844?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Amid the US-Israel war with Iran, as the world breathlessly watches the Strait of Hormuz, Tehran is quietly increasing pressure on political prisoners..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "A Ukrainian arms maker was surprised to see Russian soldiers surrender to its war robots",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/cf037c2a3bec4d2bf0469296ebe6fc53",
-        "link": "https://www.yahoo.com/news/articles/ukrainian-arms-maker-surprised-see-144002109.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "EU invites Taiban members to discuss Afghan migrant returns",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eu-invites-taiban-members-to-discuss-afghan-migrant-returns/a-77134268?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The European Commission has invited officials from Afghanitan's Taliban to discuss the returns of certain migrants. It's controversial on humanitarian..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "War in Iran: Despite Iranian attacks, Doha steps up mediation efforts",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/war-in-iran-despite-iranian-attacks-doha-steps-up-mediation-efforts/a-77133071?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Qatar is intensifying regional mediation efforts despite the Iran war bringing airstrikes and cutting off Doha's access to global oil markets. But can..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "As super 'El Nino' looms, wildfires are set to heat up",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/as-super-el-nino-looms-wildfires-are-set-to-heat-up/a-77137100?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "More than 150 million hectares \u2014 over twice the size of Texas \u2014 burned globally in the first months of 2026. With a high chance of a supercharged El N..."
     },
     {
         "source": "Deutsche Welle",
@@ -75,34 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/nigeria-airstrike-kills-100-at-market-amnesty-says/a-77135993?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Amnesty International is calling for an investigation, saying the strike was the latest deadly attack to kill civilians. The military denies that civi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "2026 Rainbow Map delivers mixed picture on LGBTQ+ rights",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/2026-rainbow-map-delivers-mixed-picture-on-lgbtq-rights/a-77133454?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "ILGA Europe has released its annual ranking of LGBTQ+ rights across Europe and Central Asia, with Spain taking the top spot for the first time. But be..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Bundesliga: Kathleen Kr\u00fcger appointed Hamburg's head of sport",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/bundesliga-kathleen-kr\u00fcger-appointed-hamburg-s-head-of-sport/a-77135968?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Hamburg have appointed Kathleen Kr\u00fcger as the club's new board member responsible for sport. She becomes the first woman to fill such a role at a Bund..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump-Xi summit: High stakes for the US, China and the world",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-xi-summit-high-stakes-for-the-us-china-and-the-world/a-77134255?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US President Donald Trump is hoping for a foreign policy win at the upcoming summit with China's Xi Jinping. The Iran war, trade deals, and Taiwan are..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Thailand scraps Cambodia naval pact amid sinking ties",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/thailand-scraps-cambodia-naval-pact-amid-sinking-ties/a-77132501?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Bangkok's decision to end MoU 44, a long-stalled maritime agreement with Cambodia, is a win for Thai nationalists. This comes as Cambodia struggles to..."
     },
     {
         "source": "Leafly",
