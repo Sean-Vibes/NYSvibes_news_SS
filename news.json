@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Iowa Bill To Double The Number Of Medical Marijuana Dispensaries Heads To Governor\u2019s Desk",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/iowa-bill-to-double-the-number-of-medical-marijuana-dispensaries-heads-to-governors-desk/",
+        "summary": "<p>Iowa lawmakers have sent the governor legislation that would double the number of medical cannabis dispensaries that are allowed to... <a class=\"sm..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "DEA launching new cannabis business registration applications (Newsletter: May 12, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/dea-launching-new-cannabis-business-registration-applications-newsletter-may-12-2026/",
+        "summary": "<p>ATF changes marijuana question on gun form; MA lawmakers pass on anti-cannabis measure; CT psychedelics bill to gov; IN GOP... <a class=\"small font..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Trump\u2019s Medical Marijuana Move Focused On Helping Ailing Seniors, But Lack Of Coordination Could Cause Backlash (Op-Ed)",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/trumps-medical-marijuana-move-focused-on-helping-ailing-seniors-but-lack-of-coordination-could-cause-backlash-op-ed/",
@@ -21,20 +35,6 @@
         "summary": "<p>The federal Drug Enforcement Administration (DEA) has announced it will soon be rolling out new forms for additional types of... <a class=\"small fo..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Connecticut Bill To Expand Psychedelics Pilot Program In Anticipation Of FDA Approval Heads To Governor\u2019s Desk",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/connecticut-bill-to-expand-psychedelics-pilot-program-in-anticipation-of-fda-approval-heads-to-governors-desk/",
-        "summary": "<p>Connecticut lawmakers have sent the governor a bill to expand a pilot program that\u2019s meant to explore the therapeutic potential... <a class=\"small ..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Massachusetts Lawmakers Decline To Act On Measure To Roll Back Marijuana Legalization",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/massachusetts-lawmakers-decline-to-act-on-measure-to-roll-back-marijuana-legalization/",
-        "summary": "<p>Massachusetts lawmakers have decided not to take up a proposal that would scale back the state\u2019s voter-approved marijuana legalization law,... <a c..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Michigan groom will spend decades in prison for killing his best friend on his wedding night",
         "image": "https://media.zenfs.com/en/ap.org/76f0a9758ac1be3a1cbb5c9090c790f9",
@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran\u2019s top negotiator: Accept our proposal or \u2018American taxpayers will pay for it\u2019",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/10d1998a19b710d32e613f458266bc66",
-        "link": "https://www.yahoo.com/news/articles/iran-top-negotiator-accept-proposal-233339819.html",
+        "title": "A Ukrainian arms maker was surprised to see Russian soldiers surrender to its war robots",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/cf037c2a3bec4d2bf0469296ebe6fc53",
+        "link": "https://www.yahoo.com/news/articles/ukrainian-arms-maker-surprised-see-144002109.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "A Ukrainian arms maker was surprised to see Russian soldiers surrender to its war robots",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/cf037c2a3bec4d2bf0469296ebe6fc53",
-        "link": "https://www.yahoo.com/news/articles/ukrainian-arms-maker-surprised-see-144002109.html",
+        "title": "Passengers on the Frontier flight that hit a person broke a key rule of airline evacuations",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/b656a5b37ad24c157612853b7eac6ebf",
+        "link": "https://www.yahoo.com/news/articles/passengers-frontier-flight-hit-person-160914077.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Sport helping displaced Lebanese living in stadium to cope",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/sport-helping-displaced-lebanese-living-in-stadium-to-cope/a-77080170?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "More than a million people have been forced to flee their homes in southern Lebanon due to fighting between Israeli forces and Hezbollah. As many shel..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "'Work not over,' says WHO after hantavirus evacuation",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/work-not-over-says-who-after-hantavirus-evacuation/a-77130594?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Extensive testing, contact tracing, and quarantine procedures are still needed to contain the outbreak, WHO says. However, it has stressed that the cu..."
     },
     {
         "source": "Deutsche Welle",
@@ -78,10 +92,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "UK: Keir Starmer tells Cabinet he will continue in place, as first junior minister resigns",
+        "title": "UK: Keir Starmer tells Cabinet he will continue in place, as two junior ministers quit",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-keir-starmer-tells-cabinet-he-will-continue-in-place-as-first-junior-minister-resigns/a-77129695?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "British Prime Minister Keir Starmer is meeting with his Cabinet amid continued pressure after election losses. A set piece speech yesterday failed to ..."
+        "link": "https://www.dw.com/en/uk-keir-starmer-tells-cabinet-he-will-continue-in-place-as-two-junior-ministers-quit/a-77129695?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "British Prime Minister Keir Starmer has met with his Cabinet amid continued pressure after election losses. A set piece speech yesterday failed to cal..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/young-hijab-wearing-german-beauty-contestant-takes-on-the-afd/a-77114886?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "As a Miss Germany contestant, B\u00fcsra Sayed wore a hijab on stage. This had never happened before \u2014 and the AfD didn't like it. Her response went viral...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India: New Tamil Nadu Chief Minister Vijay cracks down on state-run TASMAC liquor shops",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-new-tamil-nadu-chief-minister-vijay-cracks-down-on-state-run-tasmac-liquor-shops/a-77128244?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In his first major decision since becoming the chief minister of Tamil Nadu, Vijay has ordered 717 state-run TASMAC liquor stores near religious place..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "What now for the role of high representative in Bosnia?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/what-now-for-the-role-of-high-representative-in-bosnia/a-77128190?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Christian Schmidt's departure as high representative in Bosnia and Herzegovina doesn't look like a routine diplomatic handover. It seems to indicate t..."
     },
     {
         "source": "Leafly",
