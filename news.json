@@ -64,10 +64,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "A Ukrainian arms maker was surprised to see Russian soldiers surrender to its war robots",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/cf037c2a3bec4d2bf0469296ebe6fc53",
-        "link": "https://www.yahoo.com/news/articles/ukrainian-arms-maker-surprised-see-144002109.html",
+        "title": "New Video Released of Frontier Jet Fatally Striking Pedestrian",
+        "image": "https://media.zenfs.com/en/nbcu_713/77c01c95e79a1be55dcfe967c0afa76c",
+        "link": "https://www.yahoo.com/news/videos/video-released-frontier-jet-fatally-113822017.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "EU negotiators agree new rules on vital medicines",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eu-negotiators-agree-new-rules-on-vital-medicines/a-77126715?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A new agreement aims to tackle the drug shortages that have plagued the bloc. Among other things, it would make it easier to use public funds to suppo..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US: LA area mayor to plead guilty to acting as Chinese agent",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-la-area-mayor-to-plead-guilty-to-acting-as-chinese-agent/a-77126713?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The mayor of a Los Angeles suburb with a heavy Chinese-American presence has resigned after admitting to acting as a Chinese propaganda agent. Eileen ..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukrainian-children-held-in-russia-militarized-reeducated/a-77124356?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A Ukrainian initiative to repatriate abducted Ukrainian children reports that at least 20,000 girls and boys are being held by Russian families and au..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Slovenia, Spain and Ireland won't air Eurovision over Israel's participation",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/slovenia-spain-and-ireland-won-t-air-eurovision-over-israel-s-participation/a-77124206?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The three European countries are boycotting the popular song contest over Israel's participation in it. More countries have said they won't be taking ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "White House press dinner shooting suspect pleads not guilty",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/white-house-press-dinner-shooting-suspect-pleads-not-guilty/a-77125420?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A California man has been charged with attempting to assassinate Trump at the White House Correspondents' Association dinner...."
     },
     {
         "source": "Leafly",
