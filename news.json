@@ -43,13 +43,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Pennsylvania Supreme Court justice leaves Democratic Party over antisemitism concerns",
-        "image": "https://media.zenfs.com/en/politico_453/1738410e60c19b6f65c48655edfd55b1",
-        "link": "https://www.yahoo.com/news/articles/pennsylvania-supreme-court-justice-leaves-201543587.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "'The market has jumped the shark': Michael Burry says stocks may finally be at the precipice of a major reversal",
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/820fd5ce2eb5222f801a7844e3f81766",
         "link": "https://finance.yahoo.com/markets/stocks/articles/market-jumped-shark-michael-burry-141727149.html",
@@ -57,17 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Latvian defence minister resigns after Ukrainian drones hit oil tanks",
-        "image": "https://media.zenfs.com/en/reuters.com/e83c5711193c446e238042786d5b8944",
-        "link": "https://www.yahoo.com/news/articles/latvian-defence-minister-resigns-ukrainian-163916631.html",
+        "title": "Pennsylvania Supreme Court justice leaves Democratic Party over antisemitism concerns",
+        "image": "https://media.zenfs.com/en/politico_453/1738410e60c19b6f65c48655edfd55b1",
+        "link": "https://www.yahoo.com/news/articles/pennsylvania-supreme-court-justice-leaves-201543587.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Pentagon reveals location of nuclear-armed submarine after Trump rejects Iran proposal",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/66cdee1f5e1b1cb0c4c98274fb1ed506",
-        "link": "https://www.yahoo.com/news/articles/pentagon-reveals-location-nuclear-armed-171703119.html",
+        "title": "Democrats say Republican lawmaker must resign for agreeing with 'cotton-picking' remark",
+        "image": "https://media.zenfs.com/en/reuters.com/7a00ea740654941c456b17cfb3f7316b",
+        "link": "https://www.yahoo.com/news/articles/democrats-republican-lawmaker-must-resign-025347660.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "A Ukrainian arms maker was surprised to see Russian soldiers surrender to its war robots",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/cf037c2a3bec4d2bf0469296ebe6fc53",
+        "link": "https://www.yahoo.com/news/articles/ukrainian-arms-maker-surprised-see-144002109.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "South Africa's Ramaphosa refuses to resign over cash scandal",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/south-africa-s-ramaphosa-refuses-to-resign-over-cash-scandal/a-77126147?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Despite the establishment of an impeachment committee, South African President Cyril Ramaphosa has ruled out resigning over the cash heist scandal...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/white-house-press-dinner-shooting-suspect-pleads-not-guilty/a-77125420?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A California man has been charged with attempting to assassinate Trump at the White House Correspondents' Association dinner...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hantavirus: How is the outbreak being contained as passengers return?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hantavirus-how-is-the-outbreak-being-contained-as-passengers-return/a-77122959?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Passengers evacuated from the MV Hondius cruise ship are returning to their home countries, some with symptoms, many without. What happens to these pe..."
     },
     {
         "source": "Leafly",
