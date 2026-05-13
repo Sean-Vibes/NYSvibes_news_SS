@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump Mobile quietly rewrote its fine print to say the gold Trump phone may never be made, a year after taking $100 deposits",
+        "image": "https://media.zenfs.com/en/fortune_175/00448e0fc591decf2597105268d1ae60",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/trump-mobile-quietly-rewrote-fine-224114758.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Democrats say Republican lawmaker must resign for agreeing with 'cotton-picking' remark",
+        "image": "https://media.zenfs.com/en/wavy-norfolk/2c3d5fb24771e77390ae31844b4c3302",
+        "link": "https://www.yahoo.com/news/articles/democrats-republican-lawmaker-must-resign-025347660.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "'The market has jumped the shark': Michael Burry says stocks may finally be at the precipice of a major reversal",
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/820fd5ce2eb5222f801a7844e3f81766",
         "link": "https://finance.yahoo.com/markets/stocks/articles/market-jumped-shark-michael-burry-141727149.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Pentagon considers re-naming combat operations in Iran to give Trump \u2018more breathing room\u2019",
-        "image": "https://media.zenfs.com/en/nbcu_713/0ccd2ebba517175a876c310b71e99514",
-        "link": "https://www.yahoo.com/news/videos/pentagon-considers-naming-combat-operations-202437293.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump Mobile quietly rewrote its fine print to say the gold Trump phone may never be made, a year after taking $100 deposits",
-        "image": "https://media.zenfs.com/en/fortune_175/00448e0fc591decf2597105268d1ae60",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/trump-mobile-quietly-rewrote-fine-224114758.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Is caring about the climate unmanly?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/is-caring-about-the-climate-unmanly/a-76779473?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The answer is complex \u2014 and says a lot about how masculinity works in the modern world...."
     },
     {
         "source": "Deutsche Welle",
@@ -78,9 +85,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Nauru moves to changes its name in break from colonial past",
+        "title": "Nauru moves to change its name in break from colonial past",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nauru-moves-to-changes-its-name-in-break-from-colonial-past/a-77140283?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/nauru-moves-to-change-its-name-in-break-from-colonial-past/a-77140283?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The parliament of Nauru has agreed to change the South Pacific microstate's name to \"Naoero\". A referendum will now take place on the constitutional c..."
     },
     {
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/openai-boss-sam-altman-says-musk-wanted-control-of-company/a-77139248?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Sam Altman testified in trial that could determine the future of OpenAI, the company behind ChatGPT...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Canvas owner secures student data in deal with hacking group",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/canvas-owner-secures-student-data-in-deal-with-hacking-group/a-77138028?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The ShinyHunters hacking group stole student data from the popular education platform Canvas last week. Parent company Instructure apologized for the ..."
     },
     {
         "source": "Leafly",
