@@ -50,24 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "'The market has jumped the shark': Michael Burry says stocks may finally be at the precipice of a major reversal",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/820fd5ce2eb5222f801a7844e3f81766",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/market-jumped-shark-michael-burry-141727149.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Pentagon considers re-naming combat operations in Iran to give Trump \u2018more breathing room\u2019",
+        "image": "https://media.zenfs.com/en/nbcu_713/0ccd2ebba517175a876c310b71e99514",
+        "link": "https://www.yahoo.com/news/videos/pentagon-considers-naming-combat-operations-202437293.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Trump Mobile quietly rewrote its fine print to say the gold Trump phone may never be made, a year after taking $100 deposits",
         "image": "https://media.zenfs.com/en/fortune_175/00448e0fc591decf2597105268d1ae60",
         "link": "https://finance.yahoo.com/sectors/technology/articles/trump-mobile-quietly-rewrote-fine-224114758.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Democrats say Republican lawmaker must resign for agreeing with 'cotton-picking' remark",
-        "image": "https://media.zenfs.com/en/wavy-norfolk/2c3d5fb24771e77390ae31844b4c3302",
-        "link": "https://www.yahoo.com/news/articles/democrats-republican-lawmaker-must-resign-025347660.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Trump-Xi Summit: Trump to ask Xi to 'open up' China",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-xi-summit-trump-to-ask-xi-to-open-up-china/live-77140304?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "President Donald Trump is expected to address the Iran war, trade and Taiwan in talks with China's Xi Jinping. DW has more...."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "'The market has jumped the shark': Michael Burry says stocks may finally be at the precipice of a major reversal",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/820fd5ce2eb5222f801a7844e3f81766",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/market-jumped-shark-michael-burry-141727149.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Nauru moves to changes its name in break from colonial past",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/nauru-moves-to-changes-its-name-in-break-from-colonial-past/a-77140283?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The parliament of Nauru has agreed to change the South Pacific microstate's name to \"Naoero\". A referendum will now take place on the constitutional c..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Argentina sees vast protests against Milei's university cuts",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/argentina-sees-vast-protests-against-milei-s-university-cuts/a-77139842?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Organizers estimated that some 600,000 students, university staff, union members and opposition supporters attended the protest in Buenos Aires alone...."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/canvas-owner-secures-student-data-in-deal-with-hacking-group/a-77138028?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The ShinyHunters hacking group stole student data from the popular education platform Canvas last week. Parent company Instructure apologized for the ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran: Surge of political prisoners amid US-Israel war",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-surge-of-political-prisoners-amid-us-israel-war/a-77136844?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Amid the US-Israel war with Iran, as the world breathlessly watches the Strait of Hormuz, Tehran is quietly increasing pressure on political prisoners..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "EU invites Taliban members to discuss Afghan migrant returns",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-invites-taliban-members-to-discuss-afghan-migrant-returns/a-77134268?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The European Commission has invited officials from Afghanitan's Taliban to discuss the returns of certain migrants. It's controversial on humanitarian..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "War in Iran: Despite Iranian attacks, Doha steps up mediation efforts",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/war-in-iran-despite-iranian-attacks-doha-steps-up-mediation-efforts/a-77133071?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Qatar is intensifying regional mediation efforts despite the Iran war bringing airstrikes and cutting off Doha's access to global oil markets. But can..."
     },
     {
         "source": "Leafly",
