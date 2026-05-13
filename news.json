@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Georgia Governor Signs Bill To Expand Medical Marijuana Access By Allowing Vaping And Adding New Qualifying Conditions",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/georgia-governor-signs-bill-to-expand-medical-marijuana-access-by-allowing-vaping-and-adding-new-qualifying-conditions/",
+        "summary": "<p>Georgia\u2019s governor has signed a bill to expand medical marijuana access in the state. SB 220, which Gov. Brian Kemp... <a class=\"small font-montser..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "Congressional Amendment To Let Military Veterans Get Medical Marijuana Recommendations Through The VA Advances To Floor Vote",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/congressional-amendment-to-let-military-veterans-get-medical-marijuana-recommendations-through-the-va-advances-to-floor-vote/",
+        "summary": "<p>A powerful congressional committee is allowing\u00a0an amendment that would let military veterans receive recommendations for medical marijuana through ..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Oklahoma Lawmakers Pass Ibogaine Bill, Sending Psychedelic Reform To Governor\u2019s Desk",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/oklahoma-lawmakers-pass-ibogaine-bill-sending-psychedelic-reform-to-governors-desk/",
@@ -21,20 +35,6 @@
         "summary": "<p>If board members object to a federal change, they must publicly issue their reasons and allow for a hearing process... <a class=\"small font-montser..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Congressional Committee Directs DEA To Crack Down On Unregulated Cannabis Products That \u2018Threaten Consumer Safety\u2019",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/congressional-committee-directs-dea-to-crack-down-on-unregulated-cannabis-products-that-threaten-consumer-safety/",
-        "summary": "<p>A powerful congressional committee is expected to approve a report this week that directs federal officials to take enforcement action... <a class=..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Most Ohioans See Marijuana As \u2018Safe\u2019 And \u2018Acceptable,\u2019 New Poll Shows As State Officials Launch Campaign Highlighting Risks Of Use",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/most-ohioans-see-marijuana-as-safe-and-acceptable-new-poll-shows-as-state-officials-launch-campaign-highlighting-risks-of-use/",
-        "summary": "<p>Ohio officials are launching a public education campaign about the risks of marijuana use\u2014an effort that involves partnering with an... <a class=\"s..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Michigan groom will spend decades in prison for killing his best friend on his wedding night",
         "image": "https://media.zenfs.com/en/ap.org/76f0a9758ac1be3a1cbb5c9090c790f9",
@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "'The market has jumped the shark': Michael Burry says stocks may finally be at the precipice of a major reversal",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/820fd5ce2eb5222f801a7844e3f81766",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/market-jumped-shark-michael-burry-141727149.html",
+        "title": "Trump Mobile quietly rewrote its fine print to say the gold Trump phone may never be made, a year after taking $100 deposits",
+        "image": "https://media.zenfs.com/en/fortune_175/00448e0fc591decf2597105268d1ae60",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/trump-mobile-quietly-rewrote-fine-224114758.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Passengers on the Frontier flight that hit a person broke a key rule of airline evacuations",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/b656a5b37ad24c157612853b7eac6ebf",
-        "link": "https://www.yahoo.com/news/articles/passengers-frontier-flight-hit-person-160914077.html",
+        "title": "'The market has jumped the shark': Michael Burry says stocks may finally be at the precipice of a major reversal",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/820fd5ce2eb5222f801a7844e3f81766",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/market-jumped-shark-michael-burry-141727149.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "OpenAI boss Sam Altman says Musk wanted control of company",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/openai-boss-sam-altman-says-musk-wanted-control-of-company/a-77139248?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Sam Altman testified in trial that could determine the future of OpenAI, the company behind ChatGPT...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/war-in-iran-despite-iranian-attacks-doha-steps-up-mediation-efforts/a-77133071?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Qatar is intensifying regional mediation efforts despite the Iran war bringing airstrikes and cutting off Doha's access to global oil markets. But can..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "As super 'El Nino' looms, wildfires are set to heat up",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/as-super-el-nino-looms-wildfires-are-set-to-heat-up/a-77137100?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "More than 150 million hectares \u2014 over twice the size of Texas \u2014 burned globally in the first months of 2026. With a high chance of a supercharged El N..."
     },
     {
         "source": "Leafly",
