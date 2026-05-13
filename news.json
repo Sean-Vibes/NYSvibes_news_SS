@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Colombian Lawmakers Approve Bill To Legalize Marijuana",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/colombian-lawmakers-approve-bill-to-legalize-marijuana/",
+        "summary": "<p>Lawmakers in Colombia have advanced a bill to legalize marijuana through its first step in the legislative process. The First... <a class=\"small fo..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "It\u2019s \u2018About Damn Time\u2019 The Federal Government Catches Up To Voters On Marijuana Legalization, Congresswoman Says",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/its-about-damn-time-the-federal-government-catches-up-to-voters-on-marijuana-legalization-congresswoman-says/",
@@ -28,13 +35,6 @@
         "summary": "<p>Vets medical marijuana vote; CA cannabis drive-thrus; GA &#38; IA medical marijuana expansion; OH cannabis attitudes poll; IN officials talk... <a ..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Georgia Governor Signs Bill To Expand Medical Marijuana Access By Allowing Vaping And Adding New Qualifying Conditions",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/georgia-governor-signs-bill-to-expand-medical-marijuana-access-by-allowing-vaping-and-adding-new-qualifying-conditions/",
-        "summary": "<p>Georgia\u2019s governor has signed a bill to expand medical marijuana access in the state. SB 220, which Gov. Brian Kemp... <a class=\"small font-montser..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Michigan groom will spend decades in prison for killing his best friend on his wedding night",
         "image": "https://media.zenfs.com/en/ap.org/76f0a9758ac1be3a1cbb5c9090c790f9",
@@ -57,16 +57,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Democrats say Republican lawmaker must resign for agreeing with 'cotton-picking' remark",
-        "image": "https://media.zenfs.com/en/wavy-norfolk/2c3d5fb24771e77390ae31844b4c3302",
-        "link": "https://www.yahoo.com/news/articles/democrats-republican-lawmaker-must-resign-025347660.html",
+        "title": "Sons of Utah woman convicted of murder worry she would hurt them if she was ever freed from prison",
+        "image": "https://media.zenfs.com/en/ap.org/b634f7a4580ae4458c156377fcf48eef",
+        "link": "https://www.yahoo.com/news/articles/sons-utah-author-convicted-murder-233312991.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump 'seriously considering' plan to make Venezuela and its $40 trillion in oil permanent part of USA",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/3508681a449c45e3f33139f8872fdcf1",
-        "link": "https://www.yahoo.com/news/articles/trump-seriously-considering-plan-venezuela-205543237.html",
+        "title": "OpenAI co-founder and Microsoft CEO testify in Elon Musk v OpenAI trial",
+        "image": "https://media.zenfs.com/en/nbcu_713/14fcb160c785dcf516ae34c308549e03",
+        "link": "https://www.yahoo.com/news/videos/openai-co-founder-microsoft-ceo-001452331.html",
         "summary": "..."
     },
     {
@@ -74,7 +74,7 @@
         "title": "Russia unleashes fatal barrage of drones at Ukraine",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/russia-unleashes-fatal-barrage-of-drones-at-ukraine/a-77152246?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "At least six people have died in Ukraine, after Russia launched hundreds of drones as far as Ukraine's western regions bordering NATO...."
+        "summary": "At least six people died in Ukraine after Russia launched a daytime attack of 800 drones of drones as far as western regions bordering NATO. Zelenskyy..."
     },
     {
         "source": "Deutsche Welle",
