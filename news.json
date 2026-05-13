@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "The 2026 Elections Matter More For Cannabis Than The Next Bill Filed In Congress (Op-Ed)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/the-2026-elections-matter-more-for-cannabis-than-the-next-bill-filed-in-congress-op-ed/",
+        "summary": "<p>\u201cThe next phase of cannabis policy will not be decided by a single bill. It will be shaped by the... <a class=\"small font-montserrat font-weight-bo..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "Congress wants crackdown on unregulated cannabis products (Newsletter: May 13, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/congress-wants-crackdown-on-unregulated-cannabis-products-newsletter-may-13-2026/",
+        "summary": "<p>Vets medical marijuana vote; CA cannabis drive-thrus; GA &#38; IA medical marijuana expansion; OH cannabis attitudes poll; IN officials talk... <a ..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Georgia Governor Signs Bill To Expand Medical Marijuana Access By Allowing Vaping And Adding New Qualifying Conditions",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/georgia-governor-signs-bill-to-expand-medical-marijuana-access-by-allowing-vaping-and-adding-new-qualifying-conditions/",
@@ -21,20 +35,6 @@
         "summary": "<p>\u201cThis bill is more than a policy change\u2014it offers real hope to so many people who desperately need it.\u201d By... <a class=\"small font-montserrat font-..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "California Assembly Passes Bill To Legalize Marijuana Dispensary Drive-Thru Windows",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/california-assembly-passes-bill-to-legalize-marijuana-dispensary-drive-thru-windows/",
-        "summary": "<p>The California Assembly has passed a bill that would allow\u00a0marijuana retailers to offer drive-thru windows to serve customers. The measure,... <a c..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Indiana Board Of Pharmacy Discusses Federal Marijuana Rescheduling\u2019s Impact On State Policy",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/indiana-board-of-pharmacy-discusses-federal-marijuana-reschedulings-impact-on-state-policy/",
-        "summary": "<p>If board members object to a federal change, they must publicly issue their reasons and allow for a hearing process... <a class=\"small font-montser..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Michigan groom will spend decades in prison for killing his best friend on his wedding night",
         "image": "https://media.zenfs.com/en/ap.org/76f0a9758ac1be3a1cbb5c9090c790f9",
@@ -43,9 +43,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump 'seriously considering' plan to make Venezuela and its $40 trillion in oil permanent part of USA",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/3508681a449c45e3f33139f8872fdcf1",
-        "link": "https://www.yahoo.com/news/articles/trump-seriously-considering-plan-venezuela-205543237.html",
+        "title": "The AI industry is turning to an old energy favorite to bring its data centers online fast",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/ee1167c59946787b04b316b8548cf1a7",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/ai-industry-turning-old-energy-140648494.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Democrats say Republican lawmaker must resign for agreeing with 'cotton-picking' remark",
-        "image": "https://media.zenfs.com/en/wavy-norfolk/2c3d5fb24771e77390ae31844b4c3302",
-        "link": "https://www.yahoo.com/news/articles/democrats-republican-lawmaker-must-resign-025347660.html",
+        "title": "Sons of Utah woman convicted of murder worry she would hurt them if she was ever freed from prison",
+        "image": "https://media.zenfs.com/en/ap.org/b634f7a4580ae4458c156377fcf48eef",
+        "link": "https://www.yahoo.com/news/articles/sons-utah-author-convicted-murder-233312991.html",
         "summary": "..."
     },
     {
@@ -71,38 +71,38 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Indians growing anxious as Modi asks them to cut on fuel",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/indians-growing-anxious-as-modi-asks-them-to-cut-on-fuel/a-77146787?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "With energy prices rising, India's Narendra Modi has urged his compatriots to embrace voluntary austerity and protect the economy from the Iran war fa..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Gunshots heard at Philippine Senate as ICC arrest expected",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/gunshots-heard-at-philippine-senate-as-icc-arrest-expected/a-77148502?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Gunshots have been reported inside the Philippine Senate as armed troops entered the building. The chaos comes as one senator faces imminent arrest ov..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Trump arrives in China ahead of summit with Xi Jinping",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-arrives-in-china-ahead-of-summit-with-xi-jinping/live-77140304?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "President Donald Trump is expected to address the Iran war, trade and Taiwan in talks with China's Xi Jinping. DW has more...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Fake TikTok fans and the history of 'unethical' music marketing",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/fake-tiktok-fans-and-the-history-of-unethical-music-marketing/a-77091563?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Do indie darlings like Sombr and Geese owe their success to TikTok \"trend simulations\"? The question has sent shockwaves through their fan base. Yet m..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Cem \u00d6zdemir, first German state premier with Turkish roots",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/cem-\u00f6zdemir-first-german-state-premier-with-turkish-roots/a-76252684?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Cem \u00d6zdemir is the first leader of a German federal state to have Turkish roots. His Green Party won elections in the wealthy southwestern region of B..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ceasefire in sight? What's next for Russia's war in Ukraine",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ceasefire-in-sight-what-s-next-for-russia-s-war-in-ukraine/a-77138367?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Four years since Russia's full-scale invasion of Ukraine, is the end finally in sight? DW spoke to US political experts about why they think US home e..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Oil stocks being used up at record pace, IEA warns",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-oil-stocks-being-used-up-at-record-pace-iea-warns/live-77141937?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The International Energy Agency warned of \"rapidly shrinking buffers.\" Meanwhile, Iranian Foreign Minister Araghchi is en route to Delhi for a BRICS g..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Carmakers paint bleak picture on jobs",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-carmakers-paint-bleak-picture-on-jobs/live-77142074?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "German automakers say there is a strong likelihood of huge job losses over the next decade. Meanwhile, Germany's football fans are wondering whether f..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "China\u2019s new rules give the West a new headache",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/china-s-new-rules-give-the-west-a-new-headache/a-77075741?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Beijing now has strong new powers to punish firms for pulling manufacturing out of China. Multinationals are increasingly caught in a web of coercion ..."
     },
     {
         "source": "Leafly",
