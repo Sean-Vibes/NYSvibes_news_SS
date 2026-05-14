@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive-US halting Medicare enrollments for new home healthcare and hospice providers",
-        "image": "https://media.zenfs.com/en/reuters.com/f477963feed6bab18dc1277cff5f48b4",
-        "link": "https://www.yahoo.com/news/articles/exclusive-us-halting-medicare-enrollments-120216722.html",
+        "title": "Judge to weigh Democrats' bid to block Trump's executive order on voting",
+        "image": "https://media.zenfs.com/en/reuters.com/58368d3cd65431fe4fc3f4e337caa59a",
+        "link": "https://www.yahoo.com/news/articles/judge-weigh-democrats-bid-block-160637982.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "UK to send drones, jets and warship to join defensive mission securing Strait of Hormuz",
-        "image": "https://media.zenfs.com/en/reuters.com/31ffc192d789ae396dbdae9bf6daab38",
-        "link": "https://www.yahoo.com/news/articles/uk-send-drones-jets-warship-173008316.html",
+        "title": "Sons of Utah woman convicted of murder worry she would hurt them if she was ever freed from prison",
+        "image": "https://media.zenfs.com/en/ap.org/b634f7a4580ae4458c156377fcf48eef",
+        "link": "https://www.yahoo.com/news/articles/sons-utah-author-convicted-murder-233312991.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran says its small subs deployed to Strait of Hormuz as expert explains threat: \u2018Vulnerable to detection\u2019",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/c828b2afa6961db1cfd3d1582d1015ac",
-        "link": "https://www.yahoo.com/news/articles/iran-says-small-subs-deployed-015858676.html",
+        "title": "Something weird and worrying is happening with rain, study finds",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/2f84bd074c8ce37f667c96fc70b3e813",
+        "link": "https://www.yahoo.com/news/articles/something-weird-worrying-happening-rain-150139858.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "China warns Trump over Taiwan question at high-stakes summit",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/china-warns-trump-over-taiwan-question-at-high-stakes-summit/live-77140304?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Chinese state media reported that Xi Jinping raised the question of Taiwan during his meeting with Donald Trump. The pair held talks for about two hou..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine: 8 dead as Russian strikes pound Kyiv",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-8-dead-as-russian-strikes-pound-kyiv/a-77163392?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Russia has unleashed a massive volley of missiles and drones at Ukrainian cities for the third day in a row, with the latest strikes hitting a Kyiv ap..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Corruption in Ukraine: Will this scandal reach Zelenskyy?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/corruption-in-ukraine-will-this-scandal-reach-zelenskyy/a-77161926?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A drawn-out corruption affair in Ukraine is widening, with authorities now taking action against Andriy Yermak, the former head of the presidential of..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Cuba's power grid 'critical' as US blocks fuel shipments",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/cuba-s-power-grid-critical-as-us-blocks-fuel-shipments/a-77162028?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Protests flared in Havana amid widespread power outages. Cuba's energy minister says fuel has \"run out\" as a four-month US oil blockade chokes off ene..."
     },
     {
         "source": "Deutsche Welle",
@@ -75,34 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/uk-health-secretary-wes-streeting-resigns-likely-in-bid-to-topple-pm-keir-starmer/a-77161937?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Two Labour Party politicians have positioned themselves to challenge Prime Minister Keir Starmer for the leadership. Health Secretary Wes Streeting re..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Lab-grown Tyrannosaurus leather: More chicken than dinosaur?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/lab-grown-tyrannosaurus-leather-more-chicken-than-dinosaur/a-77118050?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A handbag is promoted as the \"world's first T. rex leather product.\" But scientists are questioning its authenticity...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "German intelligence offices snub US-based Palantir software",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany's domestic intelligence agency has reportedly chosen a data analysis system from France, instead of US-based Palantir. Civil society has welco..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Who is Mario Draghi, this year's Charlemagne Prize winner?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/who-is-mario-draghi-this-year-s-charlemagne-prize-winner/a-77115925?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Charlemagne Prize honors those who advance European unity. This year's winner is Italy's Mario Draghi, a former European Central Bank chief and a ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Angela Merkel rejects 'male-killing' label as 'absurd'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/angela-merkel-rejects-male-killing-label-as-absurd/a-77161663?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany's first female chancellor, Angela Merkel, has spoken about her rise to the top. She rejected accusations that she ruthlessly pushed aside male..."
     },
     {
         "source": "Leafly",
