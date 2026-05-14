@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "House Votes To Let Military Veterans Get Medical Marijuana Recommendations From VA Doctors",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/house-votes-to-let-military-veterans-get-medical-marijuana-recommendations-from-va-doctors/",
+        "summary": "<p>The U.S. House of Representatives has voted to\u00a0let military veterans receive recommendations for medical marijuana through their doctors at the... ..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Louisiana Bill To Let Terminally Ill Patients Use Medical Marijuana In Hospitals Advances Toward Final Passage",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/louisiana-bill-to-let-terminally-ill-patients-use-medical-marijuana-in-hospitals-advances-toward-final-passage/",
@@ -28,13 +35,6 @@
         "summary": "<p>A lawmaker who helps to lead the Congressional Cannabis Caucus says there are \u201ca lot\u201d of fellow legislators on Capitol... <a class=\"small font-mont..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Lawmakers push cannabis reform on Capitol Hill (Newsletter: May 14, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/lawmakers-push-cannabis-reform-on-capitol-hill-newsletter-may-14-2026/",
-        "summary": "<p>Congressman: psychedelic \u201cmagic cure\u201d; Colombia legalization; LA marijuana bill; NV casinos &#38; cannabis report; Study: Marijuana as opioid alter..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Emails show FBI Director Kash Patel's Hawaii trip included 'VIP snorkel' at a Pearl Harbor memorial",
         "image": "https://media.zenfs.com/en/ap.org/bdbc58b2c8b38957ce08330b0efe5d2f",
@@ -43,30 +43,30 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "FBI offers $200,000 for information on former Air Force intelligence specialist charged with spying for Iran",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/e27210c09ad9ad83ea5f79dcc6c26f97",
+        "link": "https://www.yahoo.com/news/articles/fbi-offers-200-000-information-172353014.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Ship seized off coast of UAE near Strait of Hormuz may have been 'floating armory': report",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/e06268aa3abc17b23dc1222b67825484",
+        "link": "https://www.yahoo.com/news/articles/ship-seized-off-coast-uae-183522165.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Tennessee Democrats stripped of House committee seats over redistricting protests",
+        "image": "https://media.zenfs.com/en/wkrn-nashville/af7239f4cce4f33c8110153338af5565",
+        "link": "https://www.yahoo.com/news/articles/tennessee-democrats-stripped-of-house-committee-seats-over-redistricting-protests-024156275.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Steve Jobs had a \u2018beer test\u2019 he used for interviews at Apple\u2014if he didn\u2019t want to drink with you, you didn\u2019t get the job",
         "image": "https://media.zenfs.com/en/fortune_175/45ccf0d5411fb3b2a8115fc5aea7c02b",
         "link": "https://finance.yahoo.com/sectors/technology/articles/steve-jobs-had-beer-test-070400434.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Van Hollen posts alcohol use test results after challenging Patel to take survey",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/2854ae4c52822ed28f8598cae91eb7a0",
-        "link": "https://www.yahoo.com/news/articles/van-hollen-posts-alcohol-test-155042506.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nancy Guthrie latest updates: Sheriff says\u00a0an arrest will be made 'at some point' as case passes 100 days",
-        "image": "https://s.yimg.com/uu/api/res/1.2/tRColwtZyZz.ODCDoFv7lg--~B/aD04MDM7dz0xNDI2O2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/xgettyimages-1258716875-1_8924.jpg",
-        "link": "https://www.yahoo.com/news/us/live/nancy-guthrie-latest-updates-sheriff-says-an-arrest-will-be-made-at-some-point-as-case-passes-100-days-154428773.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Something weird and worrying is happening with rain, study finds",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/2f84bd074c8ce37f667c96fc70b3e813",
-        "link": "https://www.yahoo.com/news/articles/something-weird-worrying-happening-rain-150139858.html",
         "summary": "..."
     },
     {
@@ -99,9 +99,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Ukraine: 10 dead as Russian strikes pound Kyiv",
+        "title": "Ukraine: 16 dead as Russian strikes pound Kyiv",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-10-dead-as-russian-strikes-pound-kyiv/a-77163392?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/ukraine-16-dead-as-russian-strikes-pound-kyiv/a-77163392?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Russia has unleashed a massive volley of missiles and drones at Ukrainian cities for the third day in a row, with the latest strikes hitting a Kyiv ap..."
     },
     {
