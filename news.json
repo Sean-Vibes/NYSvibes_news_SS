@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive-US halting Medicare enrollments for new home healthcare and hospice providers",
-        "image": "https://media.zenfs.com/en/reuters.com/f477963feed6bab18dc1277cff5f48b4",
-        "link": "https://www.yahoo.com/news/articles/exclusive-us-halting-medicare-enrollments-120216722.html",
+        "title": "Hantavirus protocol breach at Dutch hospital as medics race to curb spread",
+        "image": "https://media.zenfs.com/en/reuters.com/246effe5d305fcd682c0dc7261edebc4",
+        "link": "https://www.yahoo.com/news/articles/planes-hantavirus-cruise-passengers-land-061821124.html",
         "summary": "..."
     },
     {
@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Senate unanimously advances resolution suspending senators\u2019 pay during shutdown",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/33149946e0a6fa122c6da810ed9a7d9a",
-        "link": "https://www.yahoo.com/news/articles/senate-unanimously-advances-resolution-suspending-172702633.html",
+        "title": "First on CNN: New report details \u2018systematic\u2019 rape and sexual violence during Hamas\u2019 Oct 7 attack on Israel",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/64ca3c5590bfadf7cc1f8b15dcd73597",
+        "link": "https://www.yahoo.com/news/articles/first-cnn-report-details-systematic-040151569.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "First on CNN: New report details \u2018systematic\u2019 rape and sexual violence during Hamas\u2019 Oct 7 attack on Israel",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/64ca3c5590bfadf7cc1f8b15dcd73597",
-        "link": "https://www.yahoo.com/news/articles/first-cnn-report-details-systematic-040151569.html",
+        "title": "Something weird and worrying is happening with rain, study finds",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/2f84bd074c8ce37f667c96fc70b3e813",
+        "link": "https://www.yahoo.com/news/articles/something-weird-worrying-happening-rain-150139858.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Presidents Xi and Trump stress importance of China-US ties at highly anticipated summit in Beijing. Follow live at DW",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/presidents-xi-and-trump-stress-importance-of-china-us-ties-at-highly-anticipated-summit-in-beijing-follow-live-at-dw/live-77140304?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The leaders of the world's two biggest superpowers, China and the United States, have kicked off a meeting amid heightened geopolitical tensions. Foll..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US drops bond requirement for FIFA World Cup ticket holders",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-drops-bond-requirement-for-fifa-world-cup-ticket-holders/a-77155757?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Fans from five African World Cup qualifying nations with valid tickets are exempt from paying a hefty bond. But fans from several other countries stil..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/russia-unleashes-fatal-barrage-of-drones-at-ukraine/a-77152246?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "At least six people died in Ukraine after Russia launched a daytime attack of 800 drones of drones as far as western regions bordering NATO. Zelenskyy..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany's shortfall in medium-range defense capabilities",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-shortfall-in-medium-range-defense-capabilities/a-77151793?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US has announced that it will not be deploying Tomahawk cruise missiles in Germany. Now the German government is looking for alternatives. Could d..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Tigray tensions raise fears of Ethiopia-Eritrea war",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/tigray-tensions-raise-fears-of-ethiopia-eritrea-war/a-77133464?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The TPLF is reasserting control in Tigray after electing Debretsion Gebremichael. Rising tensions with Ethiopia's federal government are fueling fears..."
     },
     {
         "source": "Leafly",
