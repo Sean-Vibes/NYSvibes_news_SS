@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hantavirus protocol breach at Dutch hospital as medics race to curb spread",
-        "image": "https://media.zenfs.com/en/reuters.com/246effe5d305fcd682c0dc7261edebc4",
-        "link": "https://www.yahoo.com/news/articles/planes-hantavirus-cruise-passengers-land-061821124.html",
+        "title": "Exclusive-US halting Medicare enrollments for new home healthcare and hospice providers",
+        "image": "https://media.zenfs.com/en/reuters.com/f477963feed6bab18dc1277cff5f48b4",
+        "link": "https://www.yahoo.com/news/articles/exclusive-us-halting-medicare-enrollments-120216722.html",
         "summary": "..."
     },
     {
@@ -57,24 +57,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Sons of Utah woman convicted of murder worry she would hurt them if she was ever freed from prison",
-        "image": "https://media.zenfs.com/en/ap.org/b634f7a4580ae4458c156377fcf48eef",
-        "link": "https://www.yahoo.com/news/articles/sons-utah-author-convicted-murder-233312991.html",
+        "title": "Hantavirus protocol breach at Dutch hospital as medics race to curb spread",
+        "image": "https://media.zenfs.com/en/reuters.com/246effe5d305fcd682c0dc7261edebc4",
+        "link": "https://www.yahoo.com/news/articles/planes-hantavirus-cruise-passengers-land-061821124.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Something weird and worrying is happening with rain, study finds",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/2f84bd074c8ce37f667c96fc70b3e813",
-        "link": "https://www.yahoo.com/news/articles/something-weird-worrying-happening-rain-150139858.html",
+        "title": "Senate unanimously advances resolution suspending senators\u2019 pay during shutdown",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/33149946e0a6fa122c6da810ed9a7d9a",
+        "link": "https://www.yahoo.com/news/articles/senate-unanimously-advances-resolution-suspending-172702633.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Presidents Xi and Trump stress importance of China-US ties at highly anticipated summit in Beijing. Follow live at DW",
+        "title": "Ukraine court orders arrest of Zelenskyy ally Andriy Yermak",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/presidents-xi-and-trump-stress-importance-of-china-us-ties-at-highly-anticipated-summit-in-beijing-follow-live-at-dw/live-77140304?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The leaders of the world's two biggest superpowers, China and the United States, have kicked off a meeting amid heightened geopolitical tensions. Foll..."
+        "link": "https://www.dw.com/en/ukraine-court-orders-arrest-of-zelenskyy-ally-andriy-yermak/a-77156977?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Andriy Yermak resigned in November 2025, after investigators raided his home in a sweeping corruption probe...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "'Regime change': Hungary's Magyar exposes Orban's decadence",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/regime-change-hungary-s-magyar-exposes-orban-s-decadence/a-77153692?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Prime Minister Peter Magyar has taken power and laid bare his predecessor's luxurious lifestyle. Many Hungarians are keen to see Magyar chart a new po..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "China warns Trump over Taiwan question at high-stakes summit",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/china-warns-trump-over-taiwan-question-at-high-stakes-summit/live-77140304?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Chinese state media reported that Xi Jinping raised the question of Taiwan during his meeting with Donald Trump. The pair held talks for about two hou..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/trump-s-federal-reserve-chair-nominee-confirmed-by-senate/a-77154907?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Kevin Warsh is set to replace outgoing Fed chair Jerome Powell, who has been a frequent target of President Trump's criticism...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "France: Cruise ship on lockdown over stomach bug outbreak",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/france-cruise-ship-on-lockdown-over-stomach-bug-outbreak/a-77154587?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A stomach illness outbreak and the death of a man on board prompted authorities in Bordeaux to place a temporary disembarking ban on the ship...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia unleashes fatal barrage of drones at Ukraine",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-unleashes-fatal-barrage-of-drones-at-ukraine/a-77152246?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "At least six people died in Ukraine after Russia launched a daytime attack of 800 drones of drones as far as western regions bordering NATO. Zelenskyy..."
     },
     {
         "source": "Leafly",
