@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "\u2018There Are A Lot Of People Who Smoke Cannabis In Congress,\u2019 Lawmaker Says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/there-are-a-lot-of-people-who-smoke-cannabis-in-congress-lawmaker-says/",
+        "summary": "<p>A lawmaker who helps to lead the Congressional Cannabis Caucus says there are \u201ca lot\u201d of fellow legislators on Capitol... <a class=\"small font-mont..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "Lawmakers push cannabis reform on Capitol Hill (Newsletter: May 14, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/lawmakers-push-cannabis-reform-on-capitol-hill-newsletter-may-14-2026/",
+        "summary": "<p>Congressman: psychedelic \u201cmagic cure\u201d; Colombia legalization; LA marijuana bill; NV casinos &#38; cannabis report; Study: Marijuana as opioid alter..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Medical Marijuana Helps Pain Patients Reduce Use Of Opioids, New Study Shows",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/medical-marijuana-helps-pain-patients-reduce-use-of-opioids-new-study-shows/",
@@ -21,24 +35,10 @@
         "summary": "<p>A bipartisan pair of members of Congress are continuing their push to expedite the availability of psychedelic therapies that they... <a class=\"sma..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Colombian Lawmakers Approve Bill To Legalize Marijuana",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/colombian-lawmakers-approve-bill-to-legalize-marijuana/",
-        "summary": "<p>Lawmakers in Colombia have advanced a bill to legalize marijuana through its first step in the legislative process. The First... <a class=\"small fo..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "It\u2019s \u2018About Damn Time\u2019 The Federal Government Catches Up To Voters On Marijuana Legalization, Congresswoman Says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/its-about-damn-time-the-federal-government-catches-up-to-voters-on-marijuana-legalization-congresswoman-says/",
-        "summary": "<p>Members of Congress joined activists at a press conference on Wednesday to highlight the need for further federal marijuana policy... <a class=\"sma..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive-US halting Medicare enrollments for new home healthcare and hospice providers",
-        "image": "https://media.zenfs.com/en/reuters.com/f477963feed6bab18dc1277cff5f48b4",
-        "link": "https://www.yahoo.com/news/articles/exclusive-us-halting-medicare-enrollments-120216722.html",
+        "title": "Sons of Utah woman convicted of murder worry she would hurt them if she was ever freed from prison",
+        "image": "https://media.zenfs.com/en/ap.org/b634f7a4580ae4458c156377fcf48eef",
+        "link": "https://www.yahoo.com/news/articles/sons-utah-author-convicted-murder-233312991.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Iran says its small subs deployed to Strait of Hormuz as expert explains threat: \u2018Vulnerable to detection\u2019",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/c828b2afa6961db1cfd3d1582d1015ac",
+        "link": "https://www.yahoo.com/news/articles/iran-says-small-subs-deployed-015858676.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "UK to send drones, jets and warship to join defensive mission securing Strait of Hormuz",
+        "image": "https://media.zenfs.com/en/reuters.com/31ffc192d789ae396dbdae9bf6daab38",
+        "link": "https://www.yahoo.com/news/articles/uk-send-drones-jets-warship-173008316.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "First on CNN: New report details \u2018systematic\u2019 rape and sexual violence during Hamas\u2019 Oct 7 attack on Israel",
         "image": "https://media.zenfs.com/en/cnn_articles_875/64ca3c5590bfadf7cc1f8b15dcd73597",
         "link": "https://www.yahoo.com/news/articles/first-cnn-report-details-systematic-040151569.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Sons of Utah woman convicted of murder worry she would hurt them if she was ever freed from prison",
-        "image": "https://media.zenfs.com/en/ap.org/b634f7a4580ae4458c156377fcf48eef",
-        "link": "https://www.yahoo.com/news/articles/sons-utah-author-convicted-murder-233312991.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Tunisia sliding into authoritarianism, experts say",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/tunisia-sliding-into-authoritarianism-experts-say/a-77155327?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Tunisian government is ramping up pressure on opposition figures, journalists and civil society \u2014 raising fresh fears of deepening repression and ..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Senate unanimously advances resolution suspending senators\u2019 pay during shutdown",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/33149946e0a6fa122c6da810ed9a7d9a",
-        "link": "https://www.yahoo.com/news/articles/senate-unanimously-advances-resolution-suspending-172702633.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Japan: Saving elderly people from 'lonely deaths'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/japan-saving-elderly-people-from-lonely-deaths/a-77160864?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "As Japanese society changes, many elderly people find themselves isolated and facing a \"lonely death.\" Government agencies and private groups are work..."
     },
     {
         "source": "Deutsche Welle",
@@ -78,9 +92,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Latvia's PM Evika Silina resigns in fallout over stray Ukrainian drones and coalition collapse",
+        "title": "Latvia: Prime Minister Evika Silina resigns over handling of drone incidents after coalition ally's withdrawal",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/latvia-s-pm-evika-silina-resigns-in-fallout-over-stray-ukrainian-drones-and-coalition-collapse/a-77159518?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/latvia-prime-minister-evika-silina-resigns-over-handling-of-drone-incidents-after-coalition-ally-s-withdrawal/a-77159518?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Evika Silina says she is resigning her post, following the defense minister's resignation and the coalition government's collapse amid controversy ove..."
     },
     {
@@ -88,21 +102,7 @@
         "title": "Germany news: Merkel urges patience for Merz's coalition",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-merkel-urges-patience-for-merz-s-coalition/live-77157896?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Gormer Chancellor Angela Merkel says she thinks people need to have patience with the coalition government, amid widespread dissatisfaction. Meanwhile..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war tensions, oil shocks dominate BRICS talks in India",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-tensions-oil-shocks-dominate-brics-talks-in-india/a-77158355?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The BRICS bloc faces major challenges as foreign ministers meet in India, bringing Iran and the UAE face-to-face. The conflict in the Gulf and disrupt..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Honda reports first loss since 1957 as it waters down EV strategy, but shares rise on 2026 forecasts",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/honda-reports-first-loss-since-1957-as-it-waters-down-ev-strategy-but-shares-rise-on-2026-forecasts/a-77158590?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Japanese carmaker pursued an aggressive switch towards electric vehicles that it's now trying to walk back. Despite posting its first loss on reco..."
+        "summary": "Former Chancellor Angela Merkel says she thinks people need to have patience with the coalition government, amid widespread dissatisfaction. Meanwhile..."
     },
     {
         "source": "Leafly",
