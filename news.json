@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Virginia Governor Signs Marijuana Resentencing Bill After Lawmakers Rejected Her Amendments",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/virginia-governor-signs-marijuana-resentencing-bill-after-lawmakers-rejected-her-amendments/",
+        "summary": "<p>Virginia\u2019s governor has signed legislation to provide resentencing relief for people with past marijuana convictions\u2014even after lawmakers declined ..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "House Votes To Let Military Veterans Get Medical Marijuana Recommendations From VA Doctors",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/house-votes-to-let-military-veterans-get-medical-marijuana-recommendations-from-va-doctors/",
@@ -28,31 +35,24 @@
         "summary": "<p>A key congressional committee has voted to block the federal rescheduling of marijuana\u2014even after the Trump administration announced last month... ..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "\u2018There Are A Lot Of People Who Smoke Cannabis In Congress,\u2019 Lawmaker Says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/there-are-a-lot-of-people-who-smoke-cannabis-in-congress-lawmaker-says/",
-        "summary": "<p>A lawmaker who helps to lead the Congressional Cannabis Caucus says there are \u201ca lot\u201d of fellow legislators on Capitol... <a class=\"small font-mont..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Emails show FBI Director Kash Patel's Hawaii trip included 'VIP snorkel' at a Pearl Harbor memorial",
-        "image": "https://media.zenfs.com/en/ap.org/bdbc58b2c8b38957ce08330b0efe5d2f",
+        "image": "https://media.zenfs.com/en/ap.org/2d66c7ffe74927348629fbcb83739091",
         "link": "https://www.yahoo.com/news/articles/us--fbi-patel-snorkel-185210331.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "FBI offers $200,000 for information on former Air Force intelligence specialist charged with spying for Iran",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/e27210c09ad9ad83ea5f79dcc6c26f97",
-        "link": "https://www.yahoo.com/news/articles/fbi-offers-200-000-information-172353014.html",
+        "title": "\u2018No idea it was coming\u2019: Pentagon officials stunned by Hegseth decision on troops in Poland",
+        "image": "https://media.zenfs.com/en/politico_453/5bae4ba27ff1ec2c4bbcc8a5ab8be1e5",
+        "link": "https://www.yahoo.com/news/articles/hegseth-again-stuns-pentagon-poland-210535105.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ship seized off coast of UAE near Strait of Hormuz may have been 'floating armory': report",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/e06268aa3abc17b23dc1222b67825484",
-        "link": "https://www.yahoo.com/news/articles/ship-seized-off-coast-uae-183522165.html",
+        "title": "Firefighter testifies he lost most of $110K in retirement savings after investing in companies criticized by Andrew Left",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/a0ce1de8aa4e8d161dec587a68668e3a",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/firefighter-testifies-lost-most-110k-011207598.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Steve Jobs had a \u2018beer test\u2019 he used for interviews at Apple\u2014if he didn\u2019t want to drink with you, you didn\u2019t get the job",
-        "image": "https://media.zenfs.com/en/fortune_175/45ccf0d5411fb3b2a8115fc5aea7c02b",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/steve-jobs-had-beer-test-070400434.html",
+        "title": "FBI offers $200,000 for information on former Air Force intelligence specialist charged with spying for Iran",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/e27210c09ad9ad83ea5f79dcc6c26f97",
+        "link": "https://www.yahoo.com/news/articles/fbi-offers-200-000-information-172353014.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Trump praises strong Xi ties as Beijing trip wraps up",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-praises-strong-xi-ties-as-beijing-trip-wraps-up/live-77140304?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US President Donald Trump stressed his \"good relationship\" to China's leader Xi Jinping despite deep differences on Iran and Taiwan. Follow DW for mor..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "SEC settles lawsuit against Indian billionaire Adani",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/sec-settles-lawsuit-against-indian-billionaire-adani/a-77165011?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US government will settle a lawsuit filed against Gautam Adani, one of the world's richest people, for hiding an alleged bribery scheme. It's just..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-says-chinese-ships-passed-through-hormuz-overnight/a-77163709?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Chinese-flagged vessels were among over 30 ships that crossed the waterway, according to Iran's revolutionary guard. The statement comes as Trump trie..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "China warns Trump over Taiwan question at high-stakes summit",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/china-warns-trump-over-taiwan-question-at-high-stakes-summit/live-77140304?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Chinese state media reported that Xi Jinping raised the question of Taiwan during his meeting with Donald Trump. The pair held talks for about two hou..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine: Over 20 dead as Russian strikes pound Kyiv",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-over-20-dead-as-russian-strikes-pound-kyiv/a-77163392?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russia has unleashed a massive volley of missiles and drones at Ukrainian cities for the third day in a row, with the latest strikes hitting a Kyiv ap..."
     },
     {
         "source": "Leafly",
