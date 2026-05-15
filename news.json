@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "NTSB probing what caused a plane to crash into a home in Akron, killing 2",
-        "image": "https://media.zenfs.com/en/ap.org/5b5e209d3b46b1db1cdd1458576d8571",
-        "link": "https://www.yahoo.com/news/articles/ntsb-probing-caused-plane-crash-162214394.html",
+        "title": "Oklahoma executes a man convicted of killing his ex-girlfriend and her 7-month-old daughter",
+        "image": "https://media.zenfs.com/en/ap.org/e3cc7029469bb4b944a41bfd3087652c",
+        "link": "https://www.yahoo.com/news/articles/oklahoma-man-set-executed-killing-040346873.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "UK lawmaker resigns seat, clearing path for leadership challenger Burnham",
-        "image": "https://media.zenfs.com/en/reuters.com/a14c33d3b954b9232da349eda1f60942",
-        "link": "https://www.yahoo.com/news/articles/uk-lawmaker-resigns-seat-clearing-162148428.html",
+        "title": "Pentagon officials stunned by Hegseth decision on troops in Poland",
+        "image": "https://media.zenfs.com/en/politico_453/5bae4ba27ff1ec2c4bbcc8a5ab8be1e5",
+        "link": "https://www.yahoo.com/news/articles/hegseth-again-stuns-pentagon-poland-210535105.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China's Xi warns Trump that differences over Taiwan could lead to conflict",
-        "image": "https://s.yimg.com/uu/api/res/1.2/ntsFxbby5m9gMoVxPY9eWg--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/e3c66f7f-b3fb-44a1-b03b-f05dadd3e1d5/main/1280x720/18s453ms/match/image.jpg",
-        "link": "https://www.yahoo.com/news/articles/as--china-trump-000017487.html",
+        "title": "Iran and UAE clash at BRICS foreign ministers' meeting",
+        "image": "https://media.zenfs.com/en/reuters.com/2ff2786c1c955fb6fd525a6a5a1e7d9e",
+        "link": "https://www.yahoo.com/news/articles/iran-uae-clash-brics-foreign-104615104.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ship seized off coast of UAE near Strait of Hormuz may have been 'floating armory': report",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/e06268aa3abc17b23dc1222b67825484",
-        "link": "https://www.yahoo.com/news/articles/ship-seized-off-coast-uae-183522165.html",
+        "title": "Steve Jobs used a \u2018beer test\u2019 for interviews at Apple\u2014if he didn\u2019t want to drink with you, you didn\u2019t get the job",
+        "image": "https://media.zenfs.com/en/fortune_175/45ccf0d5411fb3b2a8115fc5aea7c02b",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/steve-jobs-had-beer-test-070400434.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Middle East: Israel, Lebanon agree to extend truce, US says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/middle-east-israel-lebanon-agree-to-extend-truce-us-says/live-77167235?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US says that Israeli and Lebanese delegations have agreed to extend a ceasefire for 45 days. The truce has reduced the volume of fighting, but vio..."
     },
     {
         "source": "Deutsche Welle",
@@ -95,14 +102,7 @@
         "title": "Andreas Rettig: 'You can't separate sports and politics'",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/andreas-rettig-you-can-t-separate-sports-and-politics/a-77171724?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The World Cup in the USA, Canada, and Mexico is sparking discussions beyond the realm of football. DFB Director Andreas Rettig discusses the Germany t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pakistan faces pressure over mediator role in Iran war",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pakistan-faces-pressure-over-mediator-role-in-iran-war/a-77174786?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "With Pakistan stepping in the middle of a major geopolitical conflict, Islamabad is forced to balance between Washington, Tehran, Beijing and key Gulf..."
+        "summary": "The World Cup in the USA, Canada and Mexico is sparking discussions beyond the realm of football. DFB Director Andreas Rettig discusses the Germany te..."
     },
     {
         "source": "Leafly",
