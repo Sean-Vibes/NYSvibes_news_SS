@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "The Launch Of Alabama Medical Marijuana Sales Is Just \u2018Days Away,\u2019 With First Dispensary Preparing To Open Its Doors",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/the-launch-of-alabama-medical-marijuana-sales-is-just-days-away-with-first-dispensary-preparing-to-open-its-doors/",
+        "summary": "<p>\u201cThis is a healthcare program. This is for the health of our patients in Alabama, and it says we are... <a class=\"small font-montserrat font-weight..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "GOP Congressman Says His Hemp Regulation Bill Faces Opposition From Alcohol, Marijuana And Prohibitionist Groups",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/gop-congressman-says-his-hemp-regulation-bill-faces-opposition-from-alcohol-marijuana-and-prohibitionist-groups/",
@@ -28,24 +35,10 @@
         "summary": "<p>Anti-rescheduling provision advances in Congress; Lawmaker: \u201ca lot\u201d of colleagues smoke marijuana; LA medical cannabis in hospitals; Psychedelics p..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Virginia Governor Signs Marijuana Resentencing Bill After Lawmakers Rejected Her Amendments",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/virginia-governor-signs-marijuana-resentencing-bill-after-lawmakers-rejected-her-amendments/",
-        "summary": "<p>Virginia\u2019s governor has signed legislation to provide resentencing relief for people with past marijuana convictions\u2014even after lawmakers declined ..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump says Xi agrees Iran must open strait, China says war should not have started",
-        "image": "https://media.zenfs.com/en/reuters.com/e5f0e18d490db285e90a2b66045dbded",
+        "title": "Trump says Xi agrees Iran must open strait, but no sign China will weigh in",
+        "image": "https://media.zenfs.com/en/reuters.com/79269993621efb7472994b27d17abc73",
         "link": "https://www.yahoo.com/news/articles/trump-says-xi-agrees-iran-071302260.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Pentagon officials stunned by Hegseth decision on troops in Poland",
-        "image": "https://media.zenfs.com/en/politico_453/5bae4ba27ff1ec2c4bbcc8a5ab8be1e5",
-        "link": "https://www.yahoo.com/news/articles/hegseth-again-stuns-pentagon-poland-210535105.html",
         "summary": "..."
     },
     {
@@ -57,17 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Judge to weigh Democrats' bid to block Trump's executive order on voting",
-        "image": "https://media.zenfs.com/en/reuters.com/58368d3cd65431fe4fc3f4e337caa59a",
-        "link": "https://www.yahoo.com/news/articles/judge-weigh-democrats-bid-block-160637982.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Ship seized off coast of UAE near Strait of Hormuz may have been 'floating armory': report",
         "image": "https://media.zenfs.com/en/fox_news_text_979/e06268aa3abc17b23dc1222b67825484",
         "link": "https://www.yahoo.com/news/articles/ship-seized-off-coast-uae-183522165.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Ukrainian drones hit oil refinery in Russia's Ryazan, Ukraine says",
+        "image": "https://media.zenfs.com/en/reuters.com/b7703b109249990399151ed73655828d",
+        "link": "https://www.yahoo.com/news/articles/ukrainian-drones-hit-oil-refinery-120540123.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Ilhan Omar says she thinks \u2018a lot of people\u2019 in Congress smoke marijuana",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/cf63432fe775bd1c243a94dd63fd608b",
+        "link": "https://www.yahoo.com/news/articles/ilhan-omar-says-she-thinks-174203820.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Middle East updates: Big crowds at Nakba Day rally in London",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/middle-east-updates-big-crowds-at-nakba-day-rally-in-london/live-77179563?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Big crowds have gathered in London to honor Nakba Day. Meanwhile, Iran's state TV reports that European countries are discussing the safe transit of s..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Study: Immigrants disadvantaged in German housing market",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/study-immigrants-disadvantaged-in-german-housing-market/a-77171138?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The German housing market crisis is deepening social inequality. Newcomers in particular are struggling to find affordable housing \u2014 with consequences..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/taiwan-urges-trump-to-advance-arms-deal-after-china-summit/a-77178649?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Taiwan reminded the US of its commitment to provide it with arms after the US president warned the democratic, self-governing island against formally ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "China, US, Israel compete in fast-growing laser weapons race",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/china-us-israel-compete-in-fast-growing-laser-weapons-race/a-77174766?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "More Gulf states are turning to laser weapons to combat drones in the Iran war. Israel even loaned the UAE theirs. But do they actually work?..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Nearly half the country wants governing conservative coalition out",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-nearly-half-the-country-wants-governing-conservative-coalition-out/live-77178633?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A survey has shown that just 30% of people in Germany want the coalition government to continue. Meanwhile, pro-Palestinian demonstrators are to hold ..."
     },
     {
         "source": "Leafly",
