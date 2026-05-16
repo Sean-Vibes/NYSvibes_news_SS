@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "South Korea official says unlikely anyone but Iran behind Hormuz ship attack, Yonhap reports",
-        "image": "https://media.zenfs.com/en/reuters.com/8428c2fa79a088eb343d721e4abf3015",
-        "link": "https://www.yahoo.com/news/articles/south-korea-official-says-unlikely-034105935.html",
+        "title": "Judge to weigh Democrats' bid to block Trump's executive order on voting",
+        "image": "https://media.zenfs.com/en/reuters.com/58368d3cd65431fe4fc3f4e337caa59a",
+        "link": "https://www.yahoo.com/news/articles/judge-weigh-democrats-bid-block-160637982.html",
         "summary": "..."
     },
     {
@@ -50,16 +50,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Steve Jobs used a \u2018beer test\u2019 for interviews at Apple\u2014if he didn\u2019t want to drink with you, you didn\u2019t get the job",
-        "image": "https://media.zenfs.com/en/fortune_175/45ccf0d5411fb3b2a8115fc5aea7c02b",
-        "link": "https://finance.yahoo.com/sectors/technology/articles/steve-jobs-had-beer-test-070400434.html",
+        "title": "Fetterman: Democratic base becoming \u2018increasingly anti-American\u2019",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/8de7e399cf2b8cb30342647950b9757d",
+        "link": "https://www.yahoo.com/news/articles/fetterman-democratic-becoming-increasingly-anti-220714101.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Cuba\u2019s power grid collapses and plunges eastern provinces into a major blackout",
-        "image": "https://media.zenfs.com/en/ap.org/854c2caa5d8099e9a728a92f206aa51c",
-        "link": "https://www.yahoo.com/news/articles/cuba-power-grid-collapses-plunges-165714357.html",
+        "title": "Ukrainian drones hit oil refinery in Russia's Ryazan, Ukraine says",
+        "image": "https://media.zenfs.com/en/reuters.com/b7703b109249990399151ed73655828d",
+        "link": "https://www.yahoo.com/news/articles/ukrainian-drones-hit-oil-refinery-120540123.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/e06268aa3abc17b23dc1222b67825484",
         "link": "https://www.yahoo.com/news/articles/ship-seized-off-coast-uae-183522165.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Australia: Man dies after shark attack off holiday island",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/australia-man-dies-after-shark-attack-off-holiday-island/a-77178365?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A 38-year-old man has died after being bitten by a shark in waters off Rottnest Island in Western Australia. It is the second shark death this year am..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: PM Modi visits the Netherlands at start of Europe tour",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-pm-modi-visits-the-netherlands-at-start-of-europe-tour/live-77178271?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Modi is looking to deepen India's trade agreements with its European partners and diversify beyond China-centric supply chains. Meanwhile, Indian farm..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/middle-east-israel-lebanon-agree-to-extend-truce-us-says/live-77167235?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The US says Israeli and Lebanese delegations have agreed to extend a ceasefire for 45 days. The truce has reduced the volume of fighting, but violatio..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Chancellor Merz says he wouldn't advise his kids to go to the US",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-chancellor-merz-says-he-wouldn-t-advise-his-kids-to-go-to-the-us/live-77168830?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Chancellor Friedrich Merz said he wouldn't currently advise young Germans like his children to move to the US to study or work. He cited \"the social c..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Islamic feminism more widespread in Bosnia and Herzegovina",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/islamic-feminism-more-widespread-in-bosnia-and-herzegovina/a-77163017?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Many Bosnian Muslim women want to attend mosque on Fridays and to play a greater role in decision-making. Slowly the official structures of the Islami..."
     },
     {
         "source": "Leafly",
