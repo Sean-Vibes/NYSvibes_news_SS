@@ -36,9 +36,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Zelenskiy says Russia considering plan to attack NATO country from Belarus",
-        "image": "https://media.zenfs.com/en/reuters.com/c061164a13e787b39b515a5225361c6a",
-        "link": "https://www.yahoo.com/news/articles/zelenskiy-says-russia-considering-plan-171657016.html",
+        "title": "A Texas town may offer a preview of a Trump plan to force noncitizens from public housing",
+        "image": "https://media.zenfs.com/en/ap.org/fa1e028eb094da1ff2a42f9656caaa6f",
+        "link": "https://www.yahoo.com/news/articles/texas-town-may-offer-preview-040246878.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Timmy, the stranded humpback whale, found dead off Danish coast",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/dd3763b4da1d844813d9f436a055cd12",
+        "link": "https://www.yahoo.com/news/articles/timmy-stranded-humpback-whale-found-172132196.html",
         "summary": "..."
     },
     {
@@ -50,24 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump says Iran war is worth the economic pain. These rural voters agree",
+        "image": "https://media.zenfs.com/en/reuters.com/73e5c599efbecc31202ba212c372ba31",
+        "link": "https://www.yahoo.com/news/articles/trump-says-iran-war-worth-101412793.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Man who threw 'fatal and sickening' punch outside Wetherspoons pub jailed",
         "image": "https://media.zenfs.com/en/bbc_us_articles_995/2fd4b6d43606bfd762882c91bf585c5c",
         "link": "https://www.yahoo.com/news/articles/man-jailed-fatal-sickening-punch-153921600.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nancy Guthrie latest updates: Sheriff says\u00a0an arrest will be made 'at some point' as case passes 100 days",
-        "image": "https://s.yimg.com/uu/api/res/1.2/tRColwtZyZz.ODCDoFv7lg--~B/aD04MDM7dz0xNDI2O2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/xgettyimages-1258716875-1_8924.jpg",
-        "link": "https://www.yahoo.com/news/us/live/nancy-guthrie-latest-updates-sheriff-says-an-arrest-will-be-made-at-some-point-as-case-passes-100-days-154428773.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Alleged Iran-Backed Terrorist Accused of Planning Attack in the US",
-        "image": "https://media.zenfs.com/en/nbcu_713/08ef1f2842439759af3f770fd3cababa",
-        "link": "https://www.yahoo.com/news/videos/alleged-iran-backed-terrorist-accused-131724727.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Bulgaria's Dara wins Eurovision Song Contest 2026 in Vienna",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/bulgaria-s-dara-wins-eurovision-song-contest-2026-in-vienna/a-77182516?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Bulgaria has won the 70th Eurovision Song Contest. The kitsch pop music extravaganza, the world's biggest live music contest, has again been overshado..."
     },
     {
         "source": "Deutsche Welle",
@@ -75,13 +82,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/eight-injured-after-car-ploughs-into-crowd-in-italy-s-modena/a-77184369?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Investigators are still determining if the driver acted deliberately. Italian Prime Minister Giorgia Meloni called the incident in Modena \"extremely s..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Eurovision: Final kicks off overshadowed by Israel dispute",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eurovision-final-kicks-off-overshadowed-by-israel-dispute/a-77182516?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The kitsch pop music extravaganza, the world's biggest live music contest, has again been overshadowed by protests and a boycott over Israel's partici..."
     },
     {
         "source": "Deutsche Welle",
