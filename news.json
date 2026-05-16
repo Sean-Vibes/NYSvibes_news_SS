@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Judge to weigh Democrats' bid to block Trump's executive order on voting",
-        "image": "https://media.zenfs.com/en/reuters.com/58368d3cd65431fe4fc3f4e337caa59a",
-        "link": "https://www.yahoo.com/news/articles/judge-weigh-democrats-bid-block-160637982.html",
+        "title": "Trump says Xi agrees Iran must open strait, China says war should not have started",
+        "image": "https://media.zenfs.com/en/reuters.com/e5f0e18d490db285e90a2b66045dbded",
+        "link": "https://www.yahoo.com/news/articles/trump-says-xi-agrees-iran-071302260.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Judge blocks Trump administration\u2019s demand for Rhode Island hospital's records of transgender kids",
-        "image": "https://media.zenfs.com/en/ap.org/e52364cfc95f5191a2f1b02fc4a7c003",
-        "link": "https://www.yahoo.com/news/articles/judge-blocks-trump-administration-demand-143811203.html",
+        "title": "Judge to weigh Democrats' bid to block Trump's executive order on voting",
+        "image": "https://media.zenfs.com/en/reuters.com/58368d3cd65431fe4fc3f4e337caa59a",
+        "link": "https://www.yahoo.com/news/articles/judge-weigh-democrats-bid-block-160637982.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Thousands of officers deployed as crowds gather for London protests",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/467c8328c719b8086e251c4e27154047",
-        "link": "https://www.yahoo.com/news/articles/thousands-officers-deployed-crowds-gather-090938205.html",
+        "title": "Ship seized off coast of UAE near Strait of Hormuz may have been 'floating armory': report",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/e06268aa3abc17b23dc1222b67825484",
+        "link": "https://www.yahoo.com/news/articles/ship-seized-off-coast-uae-183522165.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "'From collection to connection': How museums are redefining themselves",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/from-collection-to-connection-how-museums-are-redefining-themselves/a-77095911?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Gone are the days when museums were just places to see art and artifacts. On International Museum Day, DW looks at how museums are becoming unique spa..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-nearly-half-the-country-wants-governing-conservative-coalition-out/live-77178633?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A survey has shown that just 30% of people in Germany want the coalition government to continue. Meanwhile, pro-Palestinian demonstrators are to hold ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Andreas Rettig: 'You can't separate sports and politics'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/andreas-rettig-you-can-t-separate-sports-and-politics/a-77171724?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The World Cup in the USA, Canada and Mexico is sparking discussions beyond the realm of football. DFB Director Andreas Rettig discusses the Germany te..."
     },
     {
         "source": "Leafly",
