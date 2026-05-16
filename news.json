@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Texas\u2019s On-Again, Off-Again Hemp Product Ban Causes Confusion For Businesses And Consumers",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/texass-on-again-off-again-hemp-product-ban-causes-confusion-for-businesses-and-consumers/",
+        "summary": "<p>\u201cThis is what we call the \u2018Texas whiplash.\u2019 These poor guys don\u2019t know what is going to happen one day... <a class=\"small font-montserrat font-weig..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "The Launch Of Alabama Medical Marijuana Sales Is Just \u2018Days Away,\u2019 With First Dispensary Preparing To Open Its Doors",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/the-launch-of-alabama-medical-marijuana-sales-is-just-days-away-with-first-dispensary-preparing-to-open-its-doors/",
@@ -28,13 +35,6 @@
         "summary": "<p>Sen. John Fetterman (D-PA) is giving some across-the-aisle credit to President Donald Trump for his administration\u2019s moves to federally reschedule...."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Amendment to let military vets get medical cannabis approved at VA passes (Newsletter: May 15, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/amendment-to-let-military-vets-get-medical-cannabis-approved-at-va-passes-newsletter-may-15-2026/",
-        "summary": "<p>Anti-rescheduling provision advances in Congress; Lawmaker: \u201ca lot\u201d of colleagues smoke marijuana; LA medical cannabis in hospitals; Psychedelics p..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Trump says Xi agrees Iran must open strait, but no sign China will weigh in",
         "image": "https://media.zenfs.com/en/reuters.com/79269993621efb7472994b27d17abc73",
@@ -43,16 +43,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Fetterman: Democratic base becoming \u2018increasingly anti-American\u2019",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/8de7e399cf2b8cb30342647950b9757d",
-        "link": "https://www.yahoo.com/news/articles/fetterman-democratic-becoming-increasingly-anti-220714101.html",
+        "title": "Search for owners of 25-year-old park handprints",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/64f68d93b7ec1b82597074ef63dcf9ba",
+        "link": "https://www.yahoo.com/lifestyle/articles/search-owners-25-old-park-145310855.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ship seized off coast of UAE near Strait of Hormuz may have been 'floating armory': report",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/e06268aa3abc17b23dc1222b67825484",
-        "link": "https://www.yahoo.com/news/articles/ship-seized-off-coast-uae-183522165.html",
+        "title": "My 29-year-old son had a stomach ache that wouldn't go away. He was diagnosed with stage 4 colon cancer and died 6 months later.",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/a20299f6aad785695f15252101e15c1e",
+        "link": "https://www.yahoo.com/lifestyle/articles/29-old-son-had-stomach-112501895.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ilhan Omar says she thinks \u2018a lot of people\u2019 in Congress smoke marijuana",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/cf63432fe775bd1c243a94dd63fd608b",
-        "link": "https://www.yahoo.com/news/articles/ilhan-omar-says-she-thinks-174203820.html",
+        "title": "Fetterman: Democratic base becoming \u2018increasingly anti-American\u2019",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/8de7e399cf2b8cb30342647950b9757d",
+        "link": "https://www.yahoo.com/news/articles/fetterman-democratic-becoming-increasingly-anti-220714101.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Dead humpback whale off Denmark is 'Timmy,' who spent weeks stranded in Baltic Sea",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-dead-humpback-whale-off-denmark-is-timmy-who-spent-weeks-stranded-in-baltic-sea/live-77178633?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Divers have confirmed that a dead humpback whale spotted off Denmark is the same creature that spent weeks beached off Germany's Baltic coast. Meanwhi..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Thailand: Bangkok rail crossing collision kills at least 8",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/thailand-bangkok-rail-crossing-collision-kills-at-least-8/a-77181604?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A collision between a freight train and a bus occurred in downtown Bangkok. Fatal road accidents are not uncommon in Thailand...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UK far-right group stages anti-immigration protest in London",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/uk-far-right-group-stages-anti-immigration-protest-in-london/a-77180588?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Far-right activist Tommy Robinson gathered thousands in London, urging them to \"get involved\" or \"lose their country forever.\"..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/study-immigrants-disadvantaged-in-german-housing-market/a-77171138?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The German housing market crisis is deepening social inequality. Newcomers in particular are struggling to find affordable housing \u2014 with consequences..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "'From collection to connection': How museums are redefining themselves",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/from-collection-to-connection-how-museums-are-redefining-themselves/a-77095911?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Gone are the days when museums were just places to see art and artifacts. On International Museum Day, DW looks at how museums are becoming unique spa..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US: New York's Long Island railway workers go on strike",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-new-york-s-long-island-railway-workers-go-on-strike/a-77178863?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Nearly 300,000 passengers rely on the LIRR daily to travel between New York City, its boroughs and suburban Long Island...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Taiwan urges Trump to advance arms deal after China summit",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/taiwan-urges-trump-to-advance-arms-deal-after-china-summit/a-77178649?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Taiwan reminded the US of its commitment to provide it with arms after the US president warned the democratic, self-governing island against formally ..."
     },
     {
         "source": "Leafly",
