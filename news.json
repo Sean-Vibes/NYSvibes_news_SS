@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nancy Guthrie latest updates: Sheriff says\u00a0an arrest will be made 'at some point' as case passes 100 days",
-        "image": "https://s.yimg.com/uu/api/res/1.2/tRColwtZyZz.ODCDoFv7lg--~B/aD04MDM7dz0xNDI2O2FwcGlkPXl0YWNoeW9u/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/xgettyimages-1258716875-1_8924.jpg",
-        "link": "https://www.yahoo.com/news/us/live/nancy-guthrie-latest-updates-sheriff-says-an-arrest-will-be-made-at-some-point-as-case-passes-100-days-154428773.html",
+        "title": "Zelenskiy says Russia considering plan to attack NATO country from Belarus",
+        "image": "https://media.zenfs.com/en/reuters.com/c061164a13e787b39b515a5225361c6a",
+        "link": "https://www.yahoo.com/news/articles/zelenskiy-says-russia-considering-plan-171657016.html",
         "summary": "..."
     },
     {
@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Man who threw 'fatal and sickening' punch outside Wetherspoons pub jailed",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/2fd4b6d43606bfd762882c91bf585c5c",
-        "link": "https://www.yahoo.com/news/articles/man-jailed-fatal-sickening-punch-153921600.html",
+        "title": "One-punch killer jailed for 'devastating' attack",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/7e367fe86351b1fd409ef3979e1cddf7",
+        "link": "https://www.yahoo.com/news/articles/one-punch-killer-jailed-devastating-153932095.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Fetterman: Democratic base becoming \u2018increasingly anti-American\u2019",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/8de7e399cf2b8cb30342647950b9757d",
-        "link": "https://www.yahoo.com/news/articles/fetterman-democratic-becoming-increasingly-anti-220714101.html",
+        "title": "Man who threw 'fatal and sickening' punch outside Wetherspoons pub jailed",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/2fd4b6d43606bfd762882c91bf585c5c",
+        "link": "https://www.yahoo.com/news/articles/man-jailed-fatal-sickening-punch-153921600.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Eight injured after car ploughs into crowd in Italy's Modena",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eight-injured-after-car-ploughs-into-crowd-in-italy-s-modena/a-77184369?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Investigators are still determining if the driver acted deliberately. Italian Prime Minister Giorgia Meloni called the incident in Modena \"extremely s..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-dead-humpback-whale-off-denmark-is-timmy-who-spent-weeks-stranded-in-baltic-sea/live-77178633?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Divers have confirmed that a dead humpback whale spotted off Denmark is the same creature that spent weeks beached off Germany's Baltic coast. Meanwhi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Thailand: Bangkok rail crossing collision kills at least 8",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/thailand-bangkok-rail-crossing-collision-kills-at-least-8/a-77181604?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A collision between a freight train and a bus occurred in downtown Bangkok. Fatal road accidents are not uncommon in Thailand...."
     },
     {
         "source": "Leafly",
