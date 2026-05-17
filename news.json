@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Democrats test a new red state strategy: Back independents over their own nominees",
-        "image": "https://media.zenfs.com/en/ap.org/5e01fbf9414846ed6ff29fbb0538cddb",
-        "link": "https://www.yahoo.com/news/articles/democrats-test-red-state-strategy-090023196.html",
+        "title": "Norway defends its decision to cancel missile system sale to Malaysia",
+        "image": "https://media.zenfs.com/en/ap.org/99195c95d6455cc0b8f80eac1cc5ade5",
+        "link": "https://www.yahoo.com/news/articles/norway-defends-decision-cancel-missile-104424889.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/bbc_us_articles_995/2fd4b6d43606bfd762882c91bf585c5c",
         "link": "https://www.yahoo.com/news/articles/man-jailed-fatal-sickening-punch-153921600.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: CNG gas price hiked in Delhi NCR amid Iran war fallout",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-cng-gas-price-hiked-in-delhi-ncr-amid-iran-war-fallout/live-77178271?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The price of CNG has been increase in Delhi and the surrounding regions for the second time in two days, as India grapples with the economic impact of..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "WHO declares international emergency over Ebola outbreak",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/who-declares-international-emergency-over-ebola-outbreak/a-77184899?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The World Health Organization said the Ebola outbreak could be much larger than what is currently being detected and reported. It warned of health ris..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/bulgaria-s-dara-wins-eurovision-song-contest-2026-in-vienna/a-77182516?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Bulgaria has won the 70th Eurovision Song Contest. The kitsch pop music extravaganza, the world's biggest live music contest, has again been overshado..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Eight injured after car ploughs into crowd in Italy's Modena",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eight-injured-after-car-ploughs-into-crowd-in-italy-s-modena/a-77184369?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Investigators are still determining if the driver acted deliberately. Italian Prime Minister Giorgia Meloni called the incident in Modena \"extremely s..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany gets ahead in the new space race",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-gets-ahead-in-the-new-space-race/a-77177359?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "German companies of all sizes and all over the country are developing satellites and space applications. They want to be part of the lucrative industr..."
     },
     {
         "source": "Leafly",
