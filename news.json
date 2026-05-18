@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukraine drones kill four in Russia, Moscow faces biggest attack in over a year",
-        "image": "https://media.zenfs.com/en/reuters.com/b297bfd07409b91f83497e8fa790e2d8",
-        "link": "https://www.yahoo.com/news/articles/least-three-died-ukraine-drone-044324383.html",
+        "title": "'This is the party of Donald Trump': Lindsey Graham says Bill Cassidy lost his primary because he 'tried to destroy' the president",
+        "image": "https://s.yimg.com/uu/api/res/1.2/IbZTYEQCilyr49BVVp8pNQ--~B/aD01NTAzO3c9ODI1NTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/338c21e3-a7c6-4933-ab9f-c14c7eb8603d",
+        "link": "https://www.yahoo.com/news/politics/article/this-is-the-party-of-donald-trump-lindsey-graham-says-bill-cassidy-lost-his-primary-because-he-tried-to-destroy-the-president-155306204.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "My husband was unemployed for 10 months. He finally landed a job when he turned up at an office with a box of doughnuts.",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/9b66d4ffe70cf8a8a19ab5862b7e7f4d",
+        "link": "https://www.yahoo.com/lifestyle/articles/husband-unemployed-10-months-finally-120701244.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Palestinian activist Ramy Shaath says France is seeking to deport him",
+        "image": "https://media.zenfs.com/en/ap.org/a2dccaf6bdcf9f3655decba1d1f17113",
+        "link": "https://www.yahoo.com/news/articles/palestinian-activist-ramy-shaath-says-171545142.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Former top Russian official admits the country is over Putin and can \u2018imagine a future without him\u2019 \u2014 even elites bail as Kremlin seizes their assets",
         "image": "https://media.zenfs.com/en/fortune_175/d0760e0bebcda3a9b37634c02e64bb06",
         "link": "https://www.yahoo.com/news/articles/former-top-russian-official-admits-220706186.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Lindsey Graham: Bill Cassidy's loss shows 'there's no room in this party to destroy' Trump's agenda",
-        "image": "https://media.zenfs.com/en/nbcu_713/65ab7b0f8a3c33a4fa1b306cffd639a5",
-        "link": "https://www.yahoo.com/news/videos/lindsey-graham-bill-cassidys-loss-133048402.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Thousands gather in Washington for America-themed prayer rally",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/thousands-gather-in-washington-for-america-themed-prayer-rally/a-77191869?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Donald Trump and top Cabinet officials addressed the thousands of people gathered at the mass prayer event in Washington...."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "My husband was unemployed for 10 months. He finally landed a job when he turned up at an office with a box of doughnuts.",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/9b66d4ffe70cf8a8a19ab5862b7e7f4d",
-        "link": "https://www.yahoo.com/lifestyle/articles/husband-unemployed-10-months-finally-120701244.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Executions worldwide hit highest level since 1981, Amnesty says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/executions-worldwide-hit-highest-level-since-1981-amnesty-says/a-77175005?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The human rights group Amnesty International confirmed that at least 2,707 people were put to death in 2025 but said the actual number was much higher..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-two-jets-collide-midair-at-idaho-air-show/a-77191396?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Two EA-18G Growler jets crashed near a US Air Force base in Idaho. The pilots ejected safely, organizers said...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "New Epstein victims turn up in French probe \u2014 prosecutor",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/new-epstein-victims-turn-up-in-french-probe-prosecutor/a-77190062?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "France is pursuing its own investigation into the Epstein affair, looking at potential crimes committed in the EU country or involving French national..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Young Czechs drink less beer, but risk other addictions",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/young-czechs-drink-less-beer-but-risk-other-addictions/a-77175549?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Czech Republic, the beer world champion, has seen a record decline in consumption. Younger generations are drinking less. Breweries are worried, b..."
     },
     {
         "source": "Leafly",
