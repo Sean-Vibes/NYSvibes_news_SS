@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Army Reminds Soldiers Of \u2018Zero-Tolerance\u2019 Marijuana Policy, Warning That Even CBD Lotion Remains Banned",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/army-reminds-soldiers-of-zero-tolerance-marijuana-policy-warning-that-even-cbd-lotion-remains-banned/",
+        "summary": "<p>Even as the Trump administration recently finalized a medical marijuana rescheduling rule\u2014and the president has pushed to maintain the legal... <a ..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "Feds warn truck drivers about cannabis use after rescheduling (Newsletter: May 19, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/feds-warn-truck-drivers-about-cannabis-use-after-rescheduling-newsletter-may-19-2026/",
+        "summary": "<p>New congressional bill on marijuana-impaired driving standards; IN gov pushes lawmakers on medical cannabis; Study: Cannabinoids tied to weight los..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Cannabis Advocacy Groups Push Congress For Legalization And Other Reforms Following Trump\u2019s Rescheduling Move",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/cannabis-advocacy-groups-push-congress-for-legalization-and-other-reforms-following-trumps-rescheduling-move/",
@@ -21,20 +35,6 @@
         "summary": "<p>A new federally funded study is challenging a longstanding stereotype about marijuana munchies leading to obesity in lazy stoners\u2014finding that... <..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Indiana Governor Touts Medical Marijuana\u2019s Benefits For Veterans, Saying He Hopes Opposition From GOP Lawmakers \u2018Softens\u2019",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/indiana-governor-touts-medical-marijuanas-benefits-for-veterans-saying-he-hopes-opposition-from-gop-lawmakers-softens/",
-        "summary": "<p>Indiana\u2019s Republican governor says he hopes that opposition to legalizing medical marijuana from GOP leaders in the state legislature \u201csoftens\u201d\u2014poi..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Truckers And Pilots Still Can\u2019t Use Medical Marijuana Even Though Trump Reclassified It, Transportation Department Says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/truckers-and-pilots-still-cant-use-medical-marijuana-even-though-trump-reclassified-it-transportation-department-says/",
-        "summary": "<p>Last month, the Trump administration moved to federally reclassify medical marijuana that is dispensed to patients in accordance with state... <a c..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Exclusive-Pakistan deploys jet squadron, thousands of troops to Saudi Arabia during Iran war",
         "image": "https://media.zenfs.com/en/reuters.com/642ee8c4a418d4ebf0960bf3af53336c",
@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "My husband was unemployed for 10 months. He finally landed a job when he turned up at an office with a box of doughnuts.",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/9b66d4ffe70cf8a8a19ab5862b7e7f4d",
-        "link": "https://www.yahoo.com/lifestyle/articles/husband-unemployed-10-months-finally-120701244.html",
+        "title": "Polls show Cooper with strong lead over Whatley for NC Senate seat",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/d355ebbc64ef0d693910bbd44aecf5ad",
+        "link": "https://www.yahoo.com/news/articles/polls-show-cooper-strong-lead-020712410.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "SpaceX\u2019s Mega-IPO Puts a Price on the Fear of Missing Out",
-        "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/d5c0a96a15cb87d569312227f1272c2e",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-mega-ipo-puts-price-110000597.html",
+        "title": "Forget tariffs and the Iran oil shock\u2014a top economist says the Fed is blind to the real inflation threat",
+        "image": "https://media.zenfs.com/en/fortune_175/7dbe2cd869861cdcf564a3b14db4d146",
+        "link": "https://finance.yahoo.com/economy/policy/articles/forget-tariffs-iran-oil-shock-070000349.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Spanish ex-PM Zapatero investigated over airline bailout",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/spanish-ex-pm-zapatero-investigated-over-airline-bailout/a-77211823?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A Spanish court says it is probing ex-Prime Minister Jose Luis Rodriguez Zapatero for alleged influence peddling. The case puts more pressure on the c..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Czechia: Uproar over Sudeten German gathering in Brno",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The first gathering of Sudeten Germans in Czechia since World War II is set to go ahead this weekend despite a political backlash that has exposed ten..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "WHO concerned by 'scale and speed' of Ebola spread in DRC",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/who-concerned-by-scale-and-speed-of-ebola-spread-in-drc/a-77209749?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Congo's Health Ministry has logged 131 suspected deaths and 513 potential cases in the latest outbreak in the country's east. The World Health Organiz..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "South Korea, Japan agree to boost energy cooperation",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/south-korea-japan-agree-to-boost-energy-cooperation/a-77209237?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The South Korean and Japanese leaders, whose nations have not always had good relations, have vowed deeper ties at talks. They reaffirmed stronger sec..."
     },
     {
         "source": "Deutsche Welle",
@@ -75,34 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/freiburg-s-europa-league-final-proof-another-way-can-work/a-77198696?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Bundesliga side Freiburg are in their first ever European final. Their European run is a reminder that success in football can be achieved without big..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Sweden orders 4 frigates from French company Naval Group",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/sweden-orders-4-frigates-from-french-company-naval-group/a-77208762?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Sweden plans to acquire four new frigates starting in 2030 in a deal worth billions. They will be the largest surface warships in Sweden's navy. The n..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Three missing after G\u00f6rlitz house collapse",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-three-missing-after-g\u00f6rlitz-house-collapse/live-77208112?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Three people are still missing after a house collapsed in the eastern German city of G\u00f6rlitz on Monday evening, while a study has found that one in fi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Top European Parliament honor to be awarded for first time",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/top-european-parliament-honor-to-be-awarded-for-first-time/a-77208111?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany's Angela Merkel and Ukraine's Volodymyr Zelenskyy are among the first laureates of the European Order of Merit. They and other winners will be..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Moscow begins nuclear drills as Russia-Ukraine drone strikes intensify",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/moscow-begins-nuclear-drills-as-russia-ukraine-drone-strikes-intensify/a-77208390?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As Russian and Ukrainian forces carried out fresh cross-border aerial strikes, Moscow launched nationwide nuclear drills...."
     },
     {
         "source": "Leafly",
