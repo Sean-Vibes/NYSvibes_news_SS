@@ -36,16 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump says he's called off Iran strike planned for Tuesday at request of Gulf allies",
-        "image": "https://media.zenfs.com/en/ap.org/c4721ab989deba58b12bd74283a93883",
-        "link": "https://www.yahoo.com/news/articles/trump-says-hes-called-off-191419235.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Tributes flow after Australian shark attack victim named as father-of-two",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/43d710b8c54854e47a7925c91dd47149",
-        "link": "https://www.yahoo.com/news/articles/tributes-flow-australian-shark-attack-032408507.html",
+        "title": "Exclusive-Pakistan deploys jet squadron, thousands of troops to Saudi Arabia during Iran war",
+        "image": "https://media.zenfs.com/en/reuters.com/642ee8c4a418d4ebf0960bf3af53336c",
+        "link": "https://www.yahoo.com/news/articles/exclusive-pakistan-deploys-jet-squadron-111017743.html",
         "summary": "..."
     },
     {
@@ -57,23 +50,44 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive-Pakistan deploys jet squadron, thousands of troops to Saudi Arabia during Iran war",
-        "image": "https://media.zenfs.com/en/reuters.com/642ee8c4a418d4ebf0960bf3af53336c",
-        "link": "https://www.yahoo.com/news/articles/exclusive-pakistan-deploys-jet-squadron-111017743.html",
+        "title": "Tributes flow after Australian shark attack victim named as father-of-two",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/43d710b8c54854e47a7925c91dd47149",
+        "link": "https://www.yahoo.com/news/articles/tributes-flow-australian-shark-attack-032408507.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Louisiana voters reject all 5 constitutional amendments in May election",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/a03747d2c2dd1c238b1df1a9f887fbe9",
-        "link": "https://www.yahoo.com/news/articles/louisiana-voters-reject-5-constitutional-162923387.html",
+        "title": "Trump says he's called off Iran strike planned for Tuesday at request of Gulf allies",
+        "image": "https://media.zenfs.com/en/ap.org/c4721ab989deba58b12bd74283a93883",
+        "link": "https://www.yahoo.com/news/articles/trump-says-hes-called-off-191419235.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "SpaceX\u2019s Mega-IPO Puts a Price on the Fear of Missing Out",
+        "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/d5c0a96a15cb87d569312227f1272c2e",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/spacex-mega-ipo-puts-price-110000597.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Live updates: 3 killed in shooting at San Diego mosque",
+        "title": "How China became the new master of Russia's economy",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/live-updates-3-killed-in-shooting-at-san-diego-mosque/live-77205503?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/how-china-became-the-new-master-of-russia-s-economy/a-77193402?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Hot on the heels of Donald Trump's visit, Russian President Vladimir Putin travels Beijing this week for talks with Xi Jinping. DW explores how China ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Trump says he paused attack on Iran at Gulf leaders' request",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-says-he-paused-attack-on-iran-at-gulf-leaders-request/a-77206834?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "President Donald Trump said he called off a planned attack on Iran after the UAE, Saudi Arabia and Qatar requested Washington to suspend strikes...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Updates: 3 killed in shooting at San Diego's largest mosque",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/updates-3-killed-in-shooting-at-san-diego-s-largest-mosque/live-77205503?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Three people were killed in a shooting at the Islamic Center of San Diego. Two teen suspects were found dead in a car near the mosque. Follow live...."
     },
     {
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/trump-drops-irs-lawsuit-gets-billion-dollar-victim-s-fund/a-77204690?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A new settlement will disburse $1.76 billion to victims of so-callled \"lawfare,\" who were prosecuted under President Joe Biden. Critics have said the ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Belarus launches drills involving Russian nuclear weapons",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/belarus-launches-drills-involving-russian-nuclear-weapons/a-77204498?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Belarusian Defense Ministry said the drills would test its readiness to deploy nuclear weapons. Ukraine decried the exercise as Russia \"de facto l..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Jury rules against Elon Musk in case against OpenAI",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/jury-rules-against-elon-musk-in-case-against-openai/a-77204479?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Elon Musk took on Sam Altman, accusing him of betraying OpenAI's original nonprofit mission...."
     },
     {
         "source": "Leafly",
