@@ -37,15 +37,8 @@
     {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Trump says he's called off Iran strike planned for Tuesday at request of Gulf allies",
-        "image": "https://media.zenfs.com/en/ap.org/6920bb6222c0a1d7ece35d9bac82e971",
+        "image": "https://media.zenfs.com/en/ap.org/c4721ab989deba58b12bd74283a93883",
         "link": "https://www.yahoo.com/news/articles/trump-says-hes-called-off-191419235.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former top Russian official admits the country is over Putin and can \u2018imagine a future without him\u2019 \u2014 even elites bail as Kremlin seizes their assets",
-        "image": "https://media.zenfs.com/en/fortune_175/d0760e0bebcda3a9b37634c02e64bb06",
-        "link": "https://www.yahoo.com/news/articles/former-top-russian-official-admits-220706186.html",
         "summary": "..."
     },
     {
@@ -53,6 +46,13 @@
         "title": "Tributes flow after Australian shark attack victim named as father-of-two",
         "image": "https://media.zenfs.com/en/bbc_us_articles_995/43d710b8c54854e47a7925c91dd47149",
         "link": "https://www.yahoo.com/news/articles/tributes-flow-australian-shark-attack-032408507.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "My husband was unemployed for 10 months. He finally landed a job when he turned up at an office with a box of doughnuts.",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/9b66d4ffe70cf8a8a19ab5862b7e7f4d",
+        "link": "https://www.yahoo.com/lifestyle/articles/husband-unemployed-10-months-finally-120701244.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/the_hill_articles_341/a03747d2c2dd1c238b1df1a9f887fbe9",
         "link": "https://www.yahoo.com/news/articles/louisiana-voters-reject-5-constitutional-162923387.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Live updates: 3 killed in shooting at San Diego mosque",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/live-updates-3-killed-in-shooting-at-san-diego-mosque/live-77205503?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Three people were killed in a shooting at the Islamic Center of San Diego. Two teen suspects were found dead in a car near the mosque. Follow live...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/jury-rules-against-elon-musk-in-case-against-openai/a-77204479?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Elon Musk took on Sam Altman, accusing him of betraying OpenAI's original nonprofit mission...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Kenya fuel protests turn deadly amid Iran war disruptions",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/kenya-fuel-protests-turn-deadly-amid-iran-war-disruptions/a-77202954?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The African country is among many dependent on fuel imports from the Gulf. Last week, authorities in the country hiked fuel prices by 23.5%...."
     },
     {
         "source": "Leafly",
