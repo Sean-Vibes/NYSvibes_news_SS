@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "'Point of no return': A research firm says the oil market is headed for a dire turning point by early June",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/901106045364ca13127a44a593977ac1",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/point-no-return-research-firm-123639885.html",
+        "title": "198 pounds of cocaine found hidden in Kim Kardashian brand underwear",
+        "image": "https://media.zenfs.com/en/cbs_news_897/0d8c64a070ded512993dacb03966002b",
+        "link": "https://www.yahoo.com/news/articles/198-pounds-cocaine-found-hidden-174555158.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "198 pounds of cocaine found hidden in Kim Kardashian brand underwear",
-        "image": "https://media.zenfs.com/en/cbs_news_897/0d8c64a070ded512993dacb03966002b",
-        "link": "https://www.yahoo.com/news/articles/198-pounds-cocaine-found-hidden-174555158.html",
+        "title": "'Point of no return': A research firm says the oil market is headed for a dire turning point by early June",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/901106045364ca13127a44a593977ac1",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/point-no-return-research-firm-123639885.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Millions follow India's viral 'cockroach' movement",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/millions-follow-india-s-viral-cockroach-movement/live-77223897?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "What started as an internet joke is fast becoming young India's newest symbol of resilience, survival and collective frustration. Meanwhile, PM Modi h..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Russian President Vladimir Putin in Beijing for talks with Chinese leader Xi Jinping",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/russian-president-vladimir-putin-in-beijing-for-talks-with-chinese-leader-xi-jinping/live-77220110?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Presidents Xi Jinping and Vladimir Putin each praised their countries' bilateral relations during the Russian leader's visit to Beijing. Follow DW for..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Taiwan's Lai rejects China pressure, pledges stronger defense",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/taiwan-s-lai-rejects-china-pressure-pledges-stronger-defense/a-77223363?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Lai Ching-te defended Taiwan's sovereignty after US President Donald Trump suggested that arms sales to the island could be used as leverage in talks ..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/eu-strikes-deal-on-us-trade-pact-ahead-of-trump-tariff-deadline/a-77222972?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The EU reached a provisional agreement to remove import duties on US goods, keeping the bloc on track to meet Trump's deadline to avoid higher tariffs..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US Senate advances measure to limit Trump's Iran war powers",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-senate-advances-measure-to-limit-trump-s-iran-war-powers/a-77222612?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Louisiana Senator Bill Cassidy joined three other Republican lawmakers in supporting the measure. Though symbolic and unlikely to become law, advancin..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Vance hails 'good progress' in Iran talks",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/vance-hails-good-progress-in-iran-talks/a-77222349?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US Vice President JD Vance said Washington remained \"locked and loaded\" in the event of failed negotiations. It comes a day after Donald Trump said he..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US troop withdrawal from Europe to take 'years' \u2014 general",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-troop-withdrawal-from-europe-to-take-years-general/a-77221778?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "NATO top commander Alexus Grynkewich said the US withdrawal would be \"well-synchronized\" with European allies. It comes after Donald Trump announced a..."
     },
     {
         "source": "Leafly",
