@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "TSA Clarifies That Its Marijuana Policy \u2018Has Not Changed\u2019 Despite Clickbait Headlines",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/tsa-clarifies-that-its-marijuana-policy-has-not-changed-despite-clickbait-headlines/",
+        "summary": "<p>Numerous news organizations over the past week have run exaggerated headlines about a supposed change in the federal government\u2019s policy... <a clas..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "Louisiana Bill To Let Terminally Ill Patients Use Medical Marijuana In Hospitals Heads To Governor Following Legislature\u2019s Approval",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/louisiana-bill-to-let-terminally-ill-patients-use-medical-marijuana-in-hospitals-heads-to-governor-following-legislatures-approval/",
+        "summary": "<p>Louisiana lawmakers have passed a bill to let patients with terminal and irreversible conditions use medical marijuana in hospitals, sending... <a ..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Missouri Marijuana Workers Win Union Vote After Federal Officials Reject Company\u2019s Argument On Blocking Ballots",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/missouri-marijuana-workers-win-union-vote-after-federal-officials-reject-companys-argument-on-blocking-ballots/",
@@ -21,24 +35,10 @@
         "summary": "<p>A lesser known cannabis component known as CBG could represent a novel treatment in the treatment of rheumatoid arthritis (RA),... <a class=\"small ..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Americans Say Marijuana Is Less Cool Than Math And Country Music\u2014But Is Cooler Than Guns Or Cryptocurrency, Survey Shows",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/americans-say-marijuana-is-less-cool-than-math-and-country-music-but-is-cooler-than-guns-or-cryptocurrency-survey-shows/",
-        "summary": "<p>Marijuana legalization might be a popular policy issue in recent polls, but most Americans don\u2019t think cannabis itself is \u201ccool,\u201d... <a class=\"smal..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Virginia cannabis sales bill vetoed by governor (Newsletter: May 20, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/virginia-cannabis-sales-bill-vetoed-by-governor-newsletter-may-20-2026/",
-        "summary": "<p>Army wants soldiers about marijuana, hemp &#38; CBD; CA emergency cannabis rules for rescheduling relief; LA marijuana penalty bill to... <a class=..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The UAE says drones that targeted its Barakah nuclear power plant came from Iraqi territory",
-        "image": "https://media.zenfs.com/en/ap.org/0927b97ef1517e47b2620946969b5f29",
-        "link": "https://www.yahoo.com/news/articles/uae-says-drones-targeted-barakah-142155832.html",
+        "title": "Taiwan says China's military actions are greatest source of regional instability",
+        "image": "https://media.zenfs.com/en/reuters.com/2e6b713c0fbb56aafa3a45b0743c4fb6",
+        "link": "https://www.yahoo.com/news/articles/taiwan-says-chinas-military-actions-035051665.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The GOP's YOLO caucus is small but growing. That may spell trouble for Trump's congressional agenda",
-        "image": "https://media.zenfs.com/en/ap.org/0ed181dcd255fef6f72d2cac7f3b653c",
-        "link": "https://www.yahoo.com/news/articles/gops-yolo-caucus-small-growing-104807400.html",
+        "title": "Poland welcomes U.S. statements that troop reduction there is temporary",
+        "image": "https://media.zenfs.com/en/ap.org/f690aac3f17ec8d3744af7280812541c",
+        "link": "https://www.yahoo.com/news/articles/poland-welcomes-u-statements-troop-121643594.html",
         "summary": "..."
     },
     {
@@ -92,10 +92,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany news: US Ebola patient's family to join him",
+        "title": "Germany: Freiburg loses Europa League final to Aston Villa",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-us-ebola-patient-s-family-to-join-him/live-77225377?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "An American doctor infected with the Ebola virus has been flown to Berlin's Charite hospital for specialist treatment. His family will also join him i..."
+        "link": "https://www.dw.com/en/germany-freiburg-loses-europa-league-final-to-aston-villa/live-77225377?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Bundesliga club hoped on winning its first ever title, but lost to a stronger English side. Meanwhile, an American doctor infected with the Ebola ..."
     },
     {
         "source": "Deutsche Welle",
