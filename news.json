@@ -43,13 +43,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "198 pounds of cocaine found hidden in Kim Kardashian brand underwear",
-        "image": "https://media.zenfs.com/en/cbs_news_897/0d8c64a070ded512993dacb03966002b",
-        "link": "https://www.yahoo.com/news/articles/198-pounds-cocaine-found-hidden-174555158.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "While Trump insisted the Iran war would end \u2018soon,\u2019 an account in his name was buying millions in oil, defense, and gold",
         "image": "https://media.zenfs.com/en/fortune_175/d28ac1e9ef4b8be62649aaaf7a3bfc9b",
         "link": "https://finance.yahoo.com/markets/stocks/articles/while-trump-insisted-iran-war-183638731.html",
@@ -57,17 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Cuba warns US military action would cause 'bloodbath' after drone report",
-        "image": "https://media.zenfs.com/en/video.cbsmiami.com/2b95eb603e44ccdf7bef61a2450ae044",
-        "link": "https://www.yahoo.com/news/articles/cuba-warns-us-military-action-would-cause-39bloodbath39-after-drone-report-160253796.html",
+        "title": "'Point of no return': A research firm says the oil market is headed for a dire turning point by early June",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/901106045364ca13127a44a593977ac1",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/point-no-return-research-firm-123639885.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kentucky primary election results 2026",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/d1feed80726d763073d4c5f5d8b3b7f6",
-        "link": "https://www.yahoo.com/news/articles/kentucky-primary-election-results-2026-100000273.html",
+        "title": "Taiwan says China's military actions are greatest source of regional instability",
+        "image": "https://media.zenfs.com/en/reuters.com/2e6b713c0fbb56aafa3a45b0743c4fb6",
+        "link": "https://www.yahoo.com/news/articles/taiwan-says-chinas-military-actions-035051665.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "198 pounds of cocaine found hidden in Kim Kardashian brand underwear",
+        "image": "https://media.zenfs.com/en/cbs_news_897/0d8c64a070ded512993dacb03966002b",
+        "link": "https://www.yahoo.com/news/articles/198-pounds-cocaine-found-hidden-174555158.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US to reduce troops in Europe to 2021 levels, Pentagon says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-to-reduce-troops-in-europe-to-2021-levels-pentagon-says/a-77222971?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The scaling back would bring the number of US troops on the continent to the level before Russia launched its full-scale invasion of Ukraine. The Pent..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "EU strikes deal on US trade pact ahead of Trump tariff deadline",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eu-strikes-deal-on-us-trade-pact-ahead-of-trump-tariff-deadline/a-77222972?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The EU reached a provisional agreement to remove import duties on US goods, keeping the bloc on track to meet Trump's deadline to avoid higher tariffs..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US Senate advances measure to limit Trump's Iran war powers",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-senate-advances-measure-to-limit-trump-s-iran-war-powers/a-77222612?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Louisiana Senator Bill Cassidy joined three other Republican lawmakers in supporting the measure. Though symbolic and unlikely to become law, advancin..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-troop-withdrawal-from-europe-to-take-years-general/a-77221778?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "NATO top commander Alexus Grynkewich said the US withdrawal would be \"well-synchronized\" with European allies. It comes after Donald Trump announced a..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hungary's new Prime Minister Magyar seeks to fix Poland ties",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hungary-s-new-prime-minister-magyar-seeks-to-fix-poland-ties/a-77215714?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Peter Magyar hopes to mend relations with Poland during his first state visit to Warsaw. What lessons could he learn from Poland's Prime Minister Dona..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "$181.2 million Pollock shatters auction record at Christie's",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/181-2-million-pollock-shatters-auction-record-at-christie-s/a-77221090?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The work from the collection of publishing magnate S.I. Newhouse led auction week at Christie's in New York. The canvas was included in a billion doll..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Rising Cuba-US tensions amid talk of drones, emergency plans",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/rising-cuba-us-tensions-amid-talk-of-drones-emergency-plans/a-77216507?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Cuba\u2019s reported purchase of drones and renewed threats with the US are stoking fears of escalation. Amid blackouts and shortages, many Cubans expresse..."
     },
     {
         "source": "Leafly",
