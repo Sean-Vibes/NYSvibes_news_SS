@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Pennsylvania GOP Lieutenant Governor Candidate Says Marijuana Legalization Would Be \u2018Catastrophic\u2019 For The State",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/pennsylvania-gop-lieutenant-governor-candidate-says-marijuana-legalization-would-be-catastrophic-for-the-state/",
+        "summary": "<p>A Republican running to become Pennsylvania\u2019s lieutenant governor says that legalizing marijuana would be \u201ccatastrophic\u201d for the state, claiming it..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "TSA clarifies \u201cno changes\u201d in medical cannabis policy for airports (Newsletter: May 21, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/tsa-clarifies-no-changes-in-medical-cannabis-policy-for-airports-newsletter-may-21-2026/",
+        "summary": "<p>Poll: Marijuana cooler than crypto; VA hemp biz say veto an \u201copportunity\u201d; LA medical marijuana in hospitals vote; Study: CBG... <a class=\"small fo..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "TSA Clarifies That Its Marijuana Policy \u2018Has Not Changed\u2019 Despite Clickbait Headlines",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/tsa-clarifies-that-its-marijuana-policy-has-not-changed-despite-clickbait-headlines/",
@@ -19,20 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/missouri-marijuana-workers-win-union-vote-after-federal-officials-reject-companys-argument-on-blocking-ballots/",
         "summary": "<p>\u201cPeople in this field definitely need somebody to stick up for them, because it\u2019s a little easy to get steamrolled.\u201d... <a class=\"small font-montse..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Virginia Hemp Groups Say Governor\u2019s Marijuana Sales Veto Is An \u2018Opportunity\u2019",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/virginia-hemp-groups-say-governors-marijuana-sales-veto-is-an-opportunity/",
-        "summary": "<p>A coalition of hemp businesses that asked Virginia\u2019s governor to veto legislation to legalize recreational marijuana sales before she did... <a cla..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "The Cannabis Component CBG Shows Promise In Treating Rheumatoid Arthritis With Its \u2018Anti-Inflammatory Capacity,\u2019 Study Finds",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/the-cannabis-component-cbg-shows-promise-in-treating-rheumatoid-arthritis-with-its-anti-inflammatory-capacity-study-finds/",
-        "summary": "<p>A lesser known cannabis component known as CBG could represent a novel treatment in the treatment of rheumatoid arthritis (RA),... <a class=\"small ..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The UAE says drones that targeted its Barakah nuclear power plant came from Iraqi territory",
-        "image": "https://media.zenfs.com/en/ap.org/0927b97ef1517e47b2620946969b5f29",
-        "link": "https://www.yahoo.com/news/articles/uae-says-drones-targeted-barakah-142155832.html",
+        "title": "Woman Plunges to Her Death Down an Uncovered NYC Manhole",
+        "image": "https://media.zenfs.com/en/nbcu_713/000cba10211be59616da7da98eeff7c6",
+        "link": "https://www.yahoo.com/news/videos/woman-plunges-her-death-down-115722745.html",
         "summary": "..."
     },
     {
@@ -71,24 +71,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany news: Govt reportedly mulls change to retirement age",
+        "title": "French court finds Airbus, Air France guilty in 2009 crash",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-govt-reportedly-mulls-change-to-retirement-age/live-77237513?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A media report that the German government wants to raise the age of retirement has come under hefty criticism. Meanwhile, Chancellor Merz wants to gra..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Philippines orders arrest of senator over ICC 'war on drugs' charges",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/philippines-orders-arrest-of-senator-over-icc-war-on-drugs-charges/a-77236603?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Senator Ronald \"Bato\" dela Rosa was Rodrigo Duterte's top enforcer during the deadly \"war on drugs\" which saw thousands killed...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: Cockroaches overtake Modi's BJP on Instagram",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-cockroaches-overtake-modi-s-bjp-on-instagram/live-77236328?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Millions of young Indians are following the Cockroach Janata Party Instagram account, symbolic of growing frustration towards the current political sy..."
+        "link": "https://www.dw.com/en/french-court-finds-airbus-air-france-guilty-in-2009-crash/a-77246335?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A Paris appeals court has found Airbus and Air \u200cFrance \u2060guilty \u2060of corporate manslaughter over a 2009 air crash. The disaster in the Atlantic Ocean cl..."
     },
     {
         "source": "Deutsche Welle",
@@ -99,10 +85,24 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Colombia: Presidential race overshadowed by rising violence",
+        "title": "Germany 2026 World Cup squad announcement: Neuer returns",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/colombia-presidential-race-overshadowed-by-rising-violence/a-77236018?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "With bombings, assassinations and ceasefire announcements from armed groups, Colombia's presidential candidates are sharply divided over how to confro..."
+        "link": "https://www.dw.com/en/germany-2026-world-cup-squad-announcement-neuer-returns/a-77212854?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Two years after retiring from international football, Manuel Neuer is back in Germany's 2026 World Cup squad...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Thailand revives bill to clear the air of toxic smog",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/thailand-revives-bill-to-clear-the-air-of-toxic-smog/a-77239344?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Seasonal smog is a major public health problem in Thailand. Long-delayed legislation aims to stop air pollution before it starts, but enforcement coul..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Taiwan: Trump prods China with offer of direct Taipei talks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/taiwan-trump-prods-china-with-offer-of-direct-taipei-talks/a-77238712?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Donald Trump has said he will talk with Taiwan's president about purchasing US arms. The move would break over four decades of protocol and be an affr..."
     },
     {
         "source": "Leafly",
