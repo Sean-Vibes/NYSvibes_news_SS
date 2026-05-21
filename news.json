@@ -37,15 +37,8 @@
     {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Residents burn an Ebola treatment center in Congo as anger grows over the outbreak",
-        "image": "https://media.zenfs.com/en/ap.org/198c60a7b1a7eb552ec50502be10ee7c",
+        "image": "https://media.zenfs.com/en/ap.org/2531e47adc583bfc34aeea7f4fabb4a2",
         "link": "https://www.yahoo.com/news/articles/appeals-congo-more-supplies-aid-104737962.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Democrats vow to vote 'every single day' to expel fellow Dem from Congress if she wins midterm",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/8f63808fa93b9acb36f859cc5403b94c",
-        "link": "https://www.yahoo.com/news/articles/democrats-vow-vote-every-single-132231214.html",
         "summary": "..."
     },
     {
@@ -57,9 +50,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Documents show Queen Elizabeth was eager for ex-Prince Andrew to become trade envoy",
-        "image": "https://media.zenfs.com/en/cnn_videos_177/5b7393b6322ef07a4be79953be576a29",
-        "link": "https://www.yahoo.com/news/articles/eu--britain-andrew-101830111.html",
+        "title": "Democrats vow to vote 'every single day' to expel fellow Dem from Congress if she wins midterm",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/8f63808fa93b9acb36f859cc5403b94c",
+        "link": "https://www.yahoo.com/news/articles/democrats-vow-vote-every-single-132231214.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Tips for a Successful Yard Sale: What to Sell, Pricing, Resale Sites",
+        "image": "https://media.zenfs.com/en/nbcu_713/28009e5af24a4eed4834e45f742b3b33",
+        "link": "https://www.yahoo.com/news/videos/tips-successful-yard-sale-sell-130059912.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/3faafe64b63f92b716b0414b557899d4",
         "link": "https://www.yahoo.com/news/articles/russian-fighter-jets-flew-close-160201520.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "France: Part of Eiffel Tower sold at auction for \u20ac450,000",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/france-part-of-eiffel-tower-sold-at-auction-for-\u20ac450-000/a-77253774?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A French collector bought a 14-step staircase section of the Eiffel Tower at an auction in Paris...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ebola-patient-in-berlin-why-germany-s-helping/a-77237887?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "An Ebola\u2011infected American doctor is being treated under the highest safety standards in a specialized isolation unit in the German capital, Berlin. T..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Enhanced Games: Worse than the risk of 'crippling injuries' is the threat of gene editing in sports altering our fundamental human biology",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/enhanced-games-worse-than-the-risk-of-crippling-injuries-is-the-threat-of-gene-editing-in-sports-altering-our-fundamental-human-biology/a-77248463?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Doping in sports is nothing new. Athletes at the Enhanced Games will know the risks \u2014 severe injury, even paralysis. But bioethicists are also concern..."
     },
     {
         "source": "Leafly",
