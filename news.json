@@ -1,6 +1,27 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Alaska Bill To Let People Seal Their Marijuana Convictions Heads To Governor",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/alaska-bill-to-let-people-seal-their-marijuana-convictions-heads-to-governor/",
+        "summary": "<p>Alaska lawmakers this week passed legislation that will shield people\u2019s marijuana conviction records from being publicly released in certain circum..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "Democratic Lawmakers Push Trump To Release Federal Marijuana Prisoners As A Follow-Up To Rescheduling",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/democratic-lawmakers-push-trump-to-release-federal-marijuana-prisoners-as-a-follow-up-to-rescheduling/",
+        "summary": "<p>A coalition of Democratic members of the U.S. House of Representatives and Senate are pushing President Donald Trump to commute... <a class=\"small ..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "GOP Lawmakers And Anti-Marijuana Groups Want Rescheduling \u2018Carve-Out\u2019 To Codify THC Testing Rules For Safety-Sensitive Workers",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/gop-lawmakers-and-anti-marijuana-groups-want-rescheduling-carve-out-to-codify-thc-testing-rules-for-safety-sensitive-workers/",
+        "summary": "<p>Two GOP congressional lawmakers are joining prohibitionist organizations in their call for a \u201ccarve-out\u201d to the Trump administration\u2019s medical mari..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Virginia Governor\u2019s Marijuana Veto Is Very Unpopular With Voters, New Poll Shows",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/virginia-governors-marijuana-veto-is-very-unpopular-with-voters-new-poll-shows/",
@@ -14,31 +35,17 @@
         "summary": "<p>PA GOP lieutenant governor candidate: Legal marijuana \u201ccatastrophic\u201d; DOJ psilocybin rescheduling letter; Tariffs\u2019 impacts on cannabis biz Subscrib..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Tariffs\u2019 Impact On Some Cannabis Businesses May Erase Any Benefits They See From 280E Tax Relief Under Rescheduling (Op-Ed)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/tariffs-impact-on-some-cannabis-businesses-may-erase-any-benefits-they-see-from-280e-tax-relief-under-rescheduling-op-ed/",
-        "summary": "<p>\u201cRescheduling removes a major structural penalty, but tariffs will reshape who captures the gains. All else equal, dispensary-heavy companies may....."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "DEA Should \u2018Promptly Move Forward\u2019 With Psilocybin Rescheduling In Light Of Trump\u2019s Psychedelics Order, Attorney For Doctor Behind Petition Says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/dea-should-promptly-move-forward-with-psilocybin-rescheduling-in-light-of-trumps-psychedelics-order-attorney-for-doctor-behind-petition-says/",
-        "summary": "<p>The Drug Enforcement Administration (DEA) is being put on notice\u2014again\u2014over prolonged delays in processing a petition to reschedule psilocybin from..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Virginia Governor Explains Marijuana Veto, Saying She Worried About \u2018Rushed Timeline\u2019 And Too Many Dispensaries",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/virginia-governor-explains-marijuana-veto-saying-she-worried-about-rushed-timeline-and-too-many-dispensaries/",
-        "summary": "<p>Virginia\u2019s governor is seeking to explain why she vetoed legislation to legalize recreational marijuana sales in the state this week\u2014saying... <a c..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Trump immunity from IRS audit shocks experts, who warn it could undermine trust in tax system",
         "image": "https://media.zenfs.com/en/ap.org/c69ae1b96bbce97611cf374f06530e0c",
         "link": "https://www.yahoo.com/news/politics/articles/trump-immunity-irs-audit-shocks-100630357.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump, who claimed he \"wasn't involved\" in $1.7B fund, now says he allowed it",
+        "image": "https://media.zenfs.com/en/cbs_news_897/ffe960f01923c688334ad36d636b63db",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-claimed-wasnt-involved-1-161120061.html",
         "summary": "..."
     },
     {
@@ -50,13 +57,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Apple cofounder Steve Wozniak got cheers, not boos, after telling students they 'all have AI \u2014 actual intelligence'",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/396370a7d79b467242c2c39ba6e75022",
-        "link": "https://www.yahoo.com/news/science/articles/apple-cofounder-steve-wozniak-got-183942097.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "The teens who attacked the Islamic Center of San Diego were latest to cite prior atrocities",
         "image": "https://media.zenfs.com/en/ap.org/d5298456c267762df31d20cf26c91453",
         "link": "https://www.yahoo.com/news/articles/teens-attacked-islamic-center-san-041428666.html",
@@ -64,10 +64,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Democrats vow to vote 'every single day' to expel fellow Dem from Congress if she wins midterm",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/8f63808fa93b9acb36f859cc5403b94c",
-        "link": "https://www.yahoo.com/news/articles/democrats-vow-vote-every-single-132231214.html",
+        "title": "85-year-old \u2018hero\u2019 stops man posing as utility worker trying to kidnap woman, authorities say",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/d4f19da9f0fa399b9516ee94cd8e7d15",
+        "link": "https://www.yahoo.com/news/us/articles/85-old-hero-stops-man-120023773.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "What is Pentecost?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/what-is-pentecost/a-77213765?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "People new to Germany are often surprised by the number of public holidays in the spring. Pentecost is one of them, but its significance is not well k..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/south-africa-xenophobia-response-under-fire/a-77265909?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "South Africa condemns xenophobic violence when it erupts, but critics say prevention is weak, arrests are limited and political rhetoric sometimes fue..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US bourbon bets big on India's growing market",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-bourbon-bets-big-on-india-s-growing-market/a-77265868?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Bourbon, the uniquely US take on whiskey, is facing its most serious inventory crisis in decades. The industry is increasingly looking to India to boo..."
     },
     {
         "source": "Leafly",
