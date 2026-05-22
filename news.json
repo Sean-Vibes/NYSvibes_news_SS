@@ -43,13 +43,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former CDC director on Ebola outbreak: \u2018I suspect this is going to become a very significant pandemic\u2019",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/131a45c0d7280c88593db767e21f714e",
-        "link": "https://www.yahoo.com/news/articles/former-cdc-director-ebola-outbreak-145549567.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Apple cofounder Steve Wozniak got cheers, not boos, after telling students they 'all have AI \u2014 actual intelligence'",
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/396370a7d79b467242c2c39ba6e75022",
         "link": "https://www.yahoo.com/news/science/articles/apple-cofounder-steve-wozniak-got-183942097.html",
@@ -57,9 +50,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Newsom's office warns Californians to avoid Chevron this holiday weekend, citing high gas prices",
-        "image": "https://media.zenfs.com/en/ap.org/8e2854eb70a54e3b410a6e7c70980c39",
-        "link": "https://www.yahoo.com/news/politics/articles/newsoms-office-warns-californians-avoid-220353497.html",
+        "title": "Former CDC director on Ebola outbreak: \u2018I suspect this is going to become a very significant pandemic\u2019",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/131a45c0d7280c88593db767e21f714e",
+        "link": "https://www.yahoo.com/news/articles/former-cdc-director-ebola-outbreak-145549567.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "The GOP's YOLO caucus is small but growing. That may spell trouble for Trump's congressional agenda",
+        "image": "https://media.zenfs.com/en/ap.org/0ed181dcd255fef6f72d2cac7f3b653c",
+        "link": "https://www.yahoo.com/news/articles/gops-yolo-caucus-small-growing-104807400.html",
         "summary": "..."
     },
     {
@@ -71,10 +71,17 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Honduras: Gunmen open fire in 2 deadly armed attacks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/honduras-gunmen-open-fire-in-2-deadly-armed-attacks/a-77255909?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Two separate attacks in northern Honduras have killed at least 24 people, including four police officers...."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "US to send 5,000 additional troops to Poland \u2013 Trump",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-to-send-5-000-additional-troops-to-poland-trump/a-77255103?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In comments which appear to contradict recent Pentagon announcements, US President Donald Trump says 5,000 additional American troops are to be deploy..."
+        "summary": "Trump said the decision to deploy more troops to Poland was influenced by nationalist Karol Nawrocki winning the Polish presidency last year. His anno..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/saudi-arabia-1-5-million-join-hajj-pilgrimage-despite-war/a-77213872?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Saudi Arabia has been directly hit by missiles and drones during the Iran war, but the country is hosting the all-important Muslim pilgrimage anyway...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Did US aid cuts worsen Ebola outbreak in Central Africa?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/did-us-aid-cuts-worsen-ebola-outbreak-in-central-africa/a-77233437?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Democratic Republic of Congo and Uganda are fighting to contain a dramatic Ebola outbreak, which went unnoticed for a long time. Are US aid cuts t..."
     },
     {
         "source": "Leafly",
