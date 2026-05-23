@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump immunity from IRS audit shocks experts, who warn it could undermine trust in tax system",
-        "image": "https://media.zenfs.com/en/ap.org/c69ae1b96bbce97611cf374f06530e0c",
-        "link": "https://www.yahoo.com/news/politics/articles/us--trump-irs-deal-100630841.html",
+        "title": "Asia's currencies are flashing oil shock alarm",
+        "image": "https://media.zenfs.com/en/reuters.com/b69c82a40828e7981ff32aa2674475e1",
+        "link": "https://finance.yahoo.com/news/analysis-asias-currencies-flashing-oil-092146131.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran's top negotiator says Tehran will not compromise in talks with US",
-        "image": "https://media.zenfs.com/en/reuters.com/082b5ab6ff98c18b053bc1498ac8d55a",
-        "link": "https://www.yahoo.com/news/articles/irans-top-negotiator-says-tehran-123607501.html",
+        "title": "Trump immunity from IRS audit shocks experts, who warn it could undermine trust in tax system",
+        "image": "https://media.zenfs.com/en/ap.org/c69ae1b96bbce97611cf374f06530e0c",
+        "link": "https://www.yahoo.com/news/politics/articles/us--trump-irs-deal-100630841.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kyle Busch died after severe pneumonia progressed into sepsis, his family says",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/a2d484d594be1e400cfc69b5dd3b2ae4",
-        "link": "https://sports.yahoo.com/articles/kyle-busch-died-severe-pneumonia-161504599.html",
+        "title": "Community encouraged to use new knife amnesty bin",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/8578c7019fcd2fb66141e879cb0bdb37",
+        "link": "https://www.yahoo.com/news/us/articles/community-encouraged-knife-amnesty-bin-051804827.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Serbia: Police clash with protesters urging early elections",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/serbia-police-clash-with-protesters-urging-early-elections/a-77274618?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Officers fired teargas and stun grenades as tens of thousands rallied against President Aleksandar Vucic's government. The demonstration went ahead de..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Thousands rally in Madrid to demand Sanchez's resignation",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/thousands-rally-in-madrid-to-demand-sanchez-s-resignation/a-77274803?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Mounting corruption allegations involving Prime Minister Pedro Sanchez\u2019s family, allies and party sparked the protest...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Cyprus election expected to shake up national politics",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/cyprus-election-expected-to-shake-up-national-politics/a-77260976?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Cyprus goes to the polls to elect a new parliament on Sunday. The vote is expected to reshape the country's political landscape, weaken traditional pa..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/couple-remanded-in-custody-after-boys-found-abandoned-by-road-in-portugal/a-77274217?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A French woman is accused of abandoning her children in Portugal after reportedly blindfolding them and leading them into a wooded area during a game...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US, Iran strike upbeat tone as Hormuz deal takes shape",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-iran-strike-upbeat-tone-as-hormuz-deal-takes-shape/a-77274080?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US President Donald Trump flagged progress in talks with Iran, Tehran has warned that major gaps still stand in the way of dialing down the conflict...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "In Iran, internet access becomes a luxury for the few",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/in-iran-internet-access-becomes-a-luxury-for-the-few/a-77231518?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Despite the ongoing internet blockade in Iran, access to \"Internet-Pro\" is available to select groups for a fee. Access to information and communicati..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "France bans Israel minister Ben-Gvir after flotilla video",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/france-bans-israel-minister-ben-gvir-after-flotilla-video/a-77273641?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Israeli far-right minister released a video taunting detained Gaza aid flotilla activists, prompting widespread criticism at home and internationa..."
     },
     {
         "source": "Leafly",
