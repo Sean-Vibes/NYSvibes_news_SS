@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Newsom's office warns Californians to avoid Chevron this holiday weekend, citing high gas prices",
-        "image": "https://media.zenfs.com/en/ap.org/8e2854eb70a54e3b410a6e7c70980c39",
-        "link": "https://www.yahoo.com/news/politics/articles/newsoms-office-warns-californians-avoid-220353497.html",
+        "title": "At one Kentucky bar, young Republicans wrestle with their disappointment in Trump and their party",
+        "image": "https://media.zenfs.com/en/the_hill_videos_993/c807bbcfcb0b1e7babfee5bf7922dc4a",
+        "link": "https://www.yahoo.com/news/articles/us--election-2026-young-republicans-090206844.html",
         "summary": "..."
     },
     {
@@ -71,10 +71,17 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany's 'rapid militarization' threatens basic rights",
+        "title": "Germany: Record numbers take German passport in 2025",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-rapid-militarization-threatens-basic-rights/a-77265460?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ten human rights organizations say security interests are increasingly being prioritized over fundamental rights in Germany. The scathing criticism wa..."
+        "link": "https://www.dw.com/en/germany-record-numbers-take-german-passport-in-2025/a-77271372?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A record number of people received a German passport in 2025, a media report says. Numbers have been rising since Germany lowered citizenship requirem..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Can the Quad stay relevant to boost Indo-Pacific security?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/can-the-quad-stay-relevant-to-boost-indo-pacific-security/a-77261939?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Foreign ministers from the US, India, Japan and Australia \u2014 collectively known as the Quad \u2014 need to put past differences behind them if the alliance ..."
     },
     {
         "source": "Deutsche Welle",
@@ -85,24 +92,17 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "US tells green card seekers to apply from abroad",
+        "title": "Czechia: Uproar over Sudeten German gathering in Brno",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-tells-green-card-seekers-to-apply-from-abroad/a-77270868?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Under the new rule, green cards will be issued in applicants' home countries, though it remains unclear who all will be affected...."
+        "link": "https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The first gathering of Sudeten Germans in Czechia since World War II is set to go ahead this weekend, despite a political backlash that has exposed te..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "China: Dozens dead in coal mine blast \u2014 state media",
+        "title": "Germany's 'rapid militarization' threatens basic rights",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/china-dozens-dead-in-coal-mine-blast-state-media/a-77270811?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "An explosion in a coal mine in northern China has killed at least 82 people, with some still unaccounted for, state media say. President Xi Jinping ha..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "SpaceX launches biggest Starship rocket yet in test flight",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/spacex-launches-biggest-starship-rocket-yet-in-test-flight/a-77270730?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "SpaceX's 12th Starship test flight took place just two days after Elon Musk announced that he was taking the company public...."
+        "link": "https://www.dw.com/en/germany-s-rapid-militarization-threatens-basic-rights/a-77265460?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ten human rights organizations say security interests are increasingly being prioritized over fundamental rights in Germany. The scathing criticism wa..."
     },
     {
         "source": "Leafly",
