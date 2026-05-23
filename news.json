@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump immunity from IRS audit shocks experts, who warn it could undermine trust in tax system",
-        "image": "https://media.zenfs.com/en/ap.org/c69ae1b96bbce97611cf374f06530e0c",
-        "link": "https://www.yahoo.com/news/politics/articles/us--trump-irs-deal-100630841.html",
+        "title": "Iran's top negotiator says Tehran will not compromise in talks with US",
+        "image": "https://media.zenfs.com/en/reuters.com/082b5ab6ff98c18b053bc1498ac8d55a",
+        "link": "https://www.yahoo.com/news/articles/irans-top-negotiator-says-tehran-123607501.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Newsom's office warns Californians to avoid Chevron this holiday weekend, citing high gas prices",
-        "image": "https://media.zenfs.com/en/ap.org/8e2854eb70a54e3b410a6e7c70980c39",
-        "link": "https://www.yahoo.com/news/politics/articles/newsoms-office-warns-californians-avoid-220353497.html",
+        "title": "Travel industry worries after Trump administration reiterates threat to sanctuary city airports",
+        "image": "https://media.zenfs.com/en/ap.org/c8a4559001439d6854aa943d4ef53b3f",
+        "link": "https://www.yahoo.com/news/politics/articles/travel-industry-worries-trump-administration-154120132.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/reuters.com/0552a0b6158c9ea8169a60d6bf81f9ff",
         "link": "https://www.yahoo.com/news/articles/carney-stresses-importance-alberta-separation-135818348.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US: White House locked down after shots fired",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-white-house-locked-down-after-shots-fired/a-77276529?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "There was a massive emergency police response after gunshots were heard near the White House, where President Donald Trump was working on a negotiatin..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Kane's hat trick seals Bayern Munich's 21st German Cup win",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/kane-s-hat-trick-seals-bayern-munich-s-21st-german-cup-win/a-77275987?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Harry Kane scored three times to fire Bayern Munich to a 3-0 victory over Stuttgart in the German Cup final. The win delivered a domestic double for t..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/cyprus-election-expected-to-shake-up-national-politics/a-77260976?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Cyprus goes to the polls to elect a new parliament on Sunday. The vote is expected to reshape the country's political landscape, weaken traditional pa..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Cheap attack drones break through Israel's Iron Dome",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/cheap-attack-drones-break-through-israel-s-iron-dome/a-77235132?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Inexpensive fiber-optic drones are challenging Israel's high-tech defenses, shifting the military balance in the Middle East...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Couple remanded in custody after boys found abandoned by road in Portugal",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/couple-remanded-in-custody-after-boys-found-abandoned-by-road-in-portugal/a-77274217?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A French woman is accused of abandoning her children in Portugal after reportedly blindfolding them and leading them into a wooded area during a game...."
     },
     {
         "source": "Leafly",
