@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "At one Kentucky bar, young Republicans wrestle with their disappointment in Trump and their party",
-        "image": "https://media.zenfs.com/en/the_hill_videos_993/c807bbcfcb0b1e7babfee5bf7922dc4a",
-        "link": "https://www.yahoo.com/news/articles/us--election-2026-young-republicans-090206844.html",
+        "title": "Judges in Maine and Wisconsin dismiss Justice Department's attempts to force turnover of voter rolls",
+        "image": "https://media.zenfs.com/en/ap.org/3b4927f64883dbf9d801d04c45e32a26",
+        "link": "https://www.yahoo.com/news/politics/articles/us--elections-justice-department-211527405.html",
         "summary": "..."
     },
     {
@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "85-year-old \u2018hero\u2019 stops man posing as utility worker trying to kidnap woman, authorities say",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/d4f19da9f0fa399b9516ee94cd8e7d15",
-        "link": "https://www.yahoo.com/news/us/articles/85-old-hero-stops-man-120023773.html",
+        "title": "Trump, who claimed he \"wasn't involved\" in $1.7B fund, now says he allowed it",
+        "image": "https://media.zenfs.com/en/cbs_news_897/ffe960f01923c688334ad36d636b63db",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-claimed-wasnt-involved-1-161120061.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump, who claimed he \"wasn't involved\" in $1.7B fund, now says he allowed it",
-        "image": "https://media.zenfs.com/en/cbs_news_897/ffe960f01923c688334ad36d636b63db",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-claimed-wasnt-involved-1-161120061.html",
+        "title": "85-year-old \u2018hero\u2019 stops man posing as utility worker trying to kidnap woman, authorities say",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/d4f19da9f0fa399b9516ee94cd8e7d15",
+        "link": "https://www.yahoo.com/news/us/articles/85-old-hero-stops-man-120023773.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Germany marks Constitution Day",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-germany-marks-constitution-day/live-77272115?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany is commemorating the day its Basic Law came into effect 77 years ago. And a record number of German passports was issued in 2025, a media repo..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "South Africa xenophobia response under fire",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/south-africa-xenophobia-response-under-fire/a-77265909?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "South Africa condemns xenophobic violence when it erupts, but critics say prevention is weak, arrests are limited and political rhetoric sometimes fue..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-news-marco-rubio-visits-to-repair-ties-boost-quad/live-77271153?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "US Secretary of State Rubio is in India to reset bilateral relations and strengthen the Quad grouping \u2014 an Indo-Pacific strategic alliance which inclu..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Czechia: Uproar over Sudeten German gathering in Brno",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/czechia-uproar-over-sudeten-german-gathering-in-brno/a-77209816?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The first gathering of Sudeten Germans in Czechia since World War II is set to go ahead this weekend, despite a political backlash that has exposed te..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany's 'rapid militarization' threatens basic rights",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-rapid-militarization-threatens-basic-rights/a-77265460?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ten human rights organizations say security interests are increasingly being prioritized over fundamental rights in Germany. The scathing criticism wa..."
     },
     {
         "source": "Leafly",
