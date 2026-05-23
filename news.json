@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Egypt's Great Pyramid of Giza built with sophisticated quake resistance",
-        "image": "https://media.zenfs.com/en/reuters.com/931cedd9a2129ad10985810f5abb2172",
-        "link": "https://www.yahoo.com/news/articles/egypts-great-pyramid-giza-built-150428405.html",
+        "title": "Newsom's office warns Californians to avoid Chevron this holiday weekend, citing high gas prices",
+        "image": "https://media.zenfs.com/en/ap.org/8e2854eb70a54e3b410a6e7c70980c39",
+        "link": "https://www.yahoo.com/news/politics/articles/newsoms-office-warns-californians-avoid-220353497.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "New Weight Loss Drug Retatrutide Delivers Stunning Results",
-        "image": "https://media.zenfs.com/en/nbcu_713/128c5b2e2d1f0378bf77ed0cefe6f5ff",
-        "link": "https://www.yahoo.com/news/videos/weight-loss-drug-retatrutide-delivers-120455301.html",
+        "title": "Lukashenko says Belarus will not be dragged into Ukraine war, but will defend itself with Russia",
+        "image": "https://media.zenfs.com/en/reuters.com/be6f199552358c7cf2d111fd6fdc801c",
+        "link": "https://www.yahoo.com/news/articles/lukashenko-says-belarus-not-dragged-201947150.html",
         "summary": "..."
     },
     {
@@ -71,10 +71,31 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "China: At least 8 dead, dozens trapped in coal mine blast",
+        "title": "Germany's 'rapid militarization' threatens basic rights",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/china-at-least-8-dead-dozens-trapped-in-coal-mine-blast/a-77270811?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Almost 40 people are still trapped underground in a coal mine in northern China. President Xi Jinping has called for an all-out effort to search and r..."
+        "link": "https://www.dw.com/en/germany-s-rapid-militarization-threatens-basic-rights/a-77265460?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ten human rights organizations say security interests are increasingly being prioritized over fundamental rights in Germany. The scathing criticism wa..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Marco Rubio visits to repair ties, boost QUAD",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-marco-rubio-visits-to-repair-ties-boost-quad/live-77271153?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US Secretary of State Rubio is in India to reset bilateral relations and strengthen the Quad grouping \u2014 an Indo-Pacific strategic alliance which inclu..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US tells green card seekers to apply from abroad",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-tells-green-card-seekers-to-apply-from-abroad/a-77270868?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Under the new rule, green cards will be issued in applicants' home countries, though it remains unclear who all will be affected...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "China: Dozens dead in coal mine blast \u2014 state media",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/china-dozens-dead-in-coal-mine-blast-state-media/a-77270811?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "An explosion in a coal mine in northern China has killed at least 82 people, with some still unaccounted for, state media say. President Xi Jinping ha..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/spacex-launches-biggest-starship-rocket-yet-in-test-flight/a-77270730?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "SpaceX's 12th Starship test flight took place just two days after Elon Musk announced that he was taking the company public...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "EU, Mexico sign expanded trade deal",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-mexico-sign-expanded-trade-deal/a-77270446?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The updated accord between the European Union and Mexico removes most remaining barriers to trade and investment. President Sheinbaum said Mexico's re..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Kevin Warsh: Trump ally at the Federal Reserve?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/kevin-warsh-trump-ally-at-the-federal-reserve/a-77248236?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Never before has a chair of the US Federal Reserve been so controversial. Who is Kevin Warsh? Can he preserve the Fed's independence, or will he becom..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "New alliances emerge in Middle East \u2014 which one will 'win'?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/new-alliances-emerge-in-middle-east-which-one-will-win/a-77246663?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The UAE and Israel are getting closer, while Saudi Arabia is enhancing cooperation with Egypt, Turkey and Pakistan. The new alliances represent a rift..."
     },
     {
         "source": "Leafly",
