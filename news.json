@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Newsom's office warns Californians to avoid Chevron this holiday weekend, citing high gas prices",
-        "image": "https://media.zenfs.com/en/ap.org/8e2854eb70a54e3b410a6e7c70980c39",
-        "link": "https://www.yahoo.com/news/politics/articles/newsoms-office-warns-californians-avoid-220353497.html",
+        "title": "Iran's top negotiator says Tehran will not compromise in talks with US",
+        "image": "https://media.zenfs.com/en/reuters.com/082b5ab6ff98c18b053bc1498ac8d55a",
+        "link": "https://www.yahoo.com/news/articles/irans-top-negotiator-says-tehran-123607501.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "85-year-old \u2018hero\u2019 stops man posing as utility worker trying to kidnap woman, authorities say",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/d4f19da9f0fa399b9516ee94cd8e7d15",
-        "link": "https://www.yahoo.com/news/us/articles/85-old-hero-stops-man-120023773.html",
+        "title": "Kyle Busch died after severe pneumonia progressed into sepsis, his family says",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/a2d484d594be1e400cfc69b5dd3b2ae4",
+        "link": "https://sports.yahoo.com/articles/kyle-busch-died-severe-pneumonia-161504599.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Cheap attack drones break through Israel's Iron Dome",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/cheap-attack-drones-break-through-israel-s-iron-dome/a-77235132?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Inexpensive fiber-optic drones are challenging Israel's high-tech defenses, shifting the military balance in the Middle East...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Couple remanded in custody after boys found abandoned by road in Portugal",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/couple-remanded-in-custody-after-boys-found-abandoned-by-road-in-portugal/a-77274217?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A French woman is accused of abandoning her children in Portugal after reportedly blindfolding them and leading them into a wooded area during a game...."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/france-bans-israel-minister-ben-gvir-after-flotilla-video/a-77273641?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Israeli far-right minister released a video taunting detained Gaza aid flotilla activists, prompting widespread criticism at home and internationa..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "What is Pentecost?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/what-is-pentecost/a-77213765?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "People new to Germany are often surprised by the number of public holidays in the spring. Pentecost is one of them, but its significance is not well-k..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Thailand revives bill to clear the air of toxic smog",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/thailand-revives-bill-to-clear-the-air-of-toxic-smog/a-77239344?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Seasonal smog is a major public health problem in Thailand. Long-delayed legislation aims to stop air pollution before it starts, but enforcement coul..."
     },
     {
         "source": "Leafly",
