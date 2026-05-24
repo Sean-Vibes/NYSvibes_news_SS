@@ -50,16 +50,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "UK police drop investigation into pastor arrested while preaching about Islam",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/f4e7a0636b48bf6c10c00822cc37df5f",
-        "link": "https://www.yahoo.com/news/world/articles/uk-police-drop-investigation-pastor-150025781.html",
+        "title": "19 injured in crowd stampede at South Carolina motorcycle festival",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/2549d088a224621a1f463dc6e3923016",
+        "link": "https://www.yahoo.com/news/us/articles/19-injured-crowd-stampede-south-193039779.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Travel industry worries after Trump administration reiterates threat to sanctuary city airports",
-        "image": "https://media.zenfs.com/en/ap.org/f6207f96b89a9ebf4ce354e2e80068b6",
-        "link": "https://www.yahoo.com/news/politics/articles/travel-industry-worries-trump-administration-154120132.html",
+        "title": "Tens of thousands march in Madrid to demand prime minister's resignation",
+        "image": "https://media.zenfs.com/en/reuters.com/0065215a5467c70fc47f5eb2bc4796ce",
+        "link": "https://www.yahoo.com/news/articles/tens-thousands-march-madrid-demand-125729595.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/01f904be0f449056d8750be7cb7d5993",
         "link": "https://www.yahoo.com/news/us/articles/viral-teen-takeovers-unleash-chaos-120028050.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Cuba receives China rice shipment amid US threats, blackouts",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/cuba-receives-china-rice-shipment-amid-us-threats-blackouts/a-77281770?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Chinese aid is expected to alleviate food shortages in Cuba. But the island's economic crisis continues with blackouts and oil embargos are compunded ..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-plans-to-address-growing-use-of-date-rape-drugs/a-77261733?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Germany's justice minister is seeking harsher penalties for the use of date-rape drugs in sexual assaults. But victims say more needs to be done about..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Cyprus votes amid resentment over corruption, living costs",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/cyprus-votes-amid-resentment-over-corruption-living-costs/a-77279514?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Cyprus has begun voting in a parliamentary election that could shift the political balance amid public discontent...."
     },
     {
         "source": "Leafly",
