@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump's Justice Department scrubs its website of news releases about Jan. 6 defendants",
-        "image": "https://media.zenfs.com/en/ap.org/408ca67b453130840d3f8cb25faf011f",
-        "link": "https://www.yahoo.com/news/politics/articles/us--justice-department-jan-6-125533895.html",
+        "title": "Tens of thousands march in Madrid to demand prime minister's resignation",
+        "image": "https://media.zenfs.com/en/reuters.com/0065215a5467c70fc47f5eb2bc4796ce",
+        "link": "https://www.yahoo.com/news/articles/tens-thousands-march-madrid-demand-125729595.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,27 @@
         "image": "https://media.zenfs.com/en/us.abcnews.go.com/89c9ea653b654b1566cd9e8f2cf9c12e",
         "link": "https://www.yahoo.com/news/world/articles/zelenskyy-says-intelligence-indicates-russia-232858884.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany plans to address growing use of date-rape drugs",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-plans-to-address-growing-use-of-date-rape-drugs/a-77261733?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany's justice minister is seeking harsher penalties for the use of date-rape drugs in sexual assaults. But victims say more needs to be done about..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Cyprus votes amid resentment over corruption, living costs",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/cyprus-votes-amid-resentment-over-corruption-living-costs/a-77279514?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Cyprus has begun voting in a parliamentary election that could shift the political balance amid public discontent...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "New Chinese surveillance leaves foreigners nowhere to hide",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/new-chinese-surveillance-leaves-foreigners-nowhere-to-hide/a-77246713?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A Chinese cybersecurity expert has revealed to DW details of China's new high-tech policing. From ski resort facial recognition to seats on a train, t..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/deadly-blast-hits-train-in-pakistan-s-balochistan/a-77278584?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A blast on a train in Pakistan's Balochistan province has killed at least 24 people and injured dozens more. The explosion targeted military personnel..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Philippines: 20 feared trapped after building collapse",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/philippines-20-feared-trapped-after-building-collapse/a-77277732?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The building collapsed before dawn after a severe thunderstorm. Officials said rescuers reported \"hearing voices\" in the rubble...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Most doubt Bundeswehr military readiness \u2014 poll",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-most-doubt-bundeswehr-military-readiness-poll/live-77272115?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A new poll shows widespread doubts about Germany's defense readiness, with stronger fears over cyber threats than military attack. Meanwhile, a record..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Australia: Man dies of shark attack on eastern coast",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/australia-man-dies-of-shark-attack-on-eastern-coast/a-77277961?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The man was bitten by a shark at Kennedy Shoal in Australia's northeastern state of Queensland, in the second shark attack in the country this month...."
     },
     {
         "source": "Leafly",
