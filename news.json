@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Federal Drug Testing Rule Will Require \u2018Directly Observed\u2019 Urine Collection From Truck Drivers",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/federal-drug-testing-rule-will-require-directly-observed-urine-collection-from-truck-drivers/",
+        "summary": "<p>\u201cEvery month that passes without certified oral fluid testing is another month when federal workers with paruresis face anxiety, discrimination,......"
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Delaware Lawmakers Juggle Competing Bills To Regulate Hemp THC Products",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/delaware-lawmakers-juggle-competing-bills-to-regulate-hemp-thc-products/",
@@ -28,13 +35,6 @@
         "summary": "<p>A federal judge has granted the government\u2019s motion to dismiss\u00a0marijuana legalization opponents\u2019 lawsuit challenging a new Trump administration ini..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Alaska Bill To Let People Seal Their Marijuana Convictions Heads To Governor",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/alaska-bill-to-let-people-seal-their-marijuana-convictions-heads-to-governor/",
-        "summary": "<p>Alaska lawmakers this week passed legislation that will shield people\u2019s marijuana conviction records from being publicly released in certain circum..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Iran's top negotiator says Tehran will not compromise in talks with US",
         "image": "https://media.zenfs.com/en/reuters.com/082b5ab6ff98c18b053bc1498ac8d55a",
@@ -50,16 +50,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Inside the \u2018stealth wealth\u2019 playbook: How Silicon Valley\u2019s elite buy multimillion-dollar mansions without leaving a paper trail",
-        "image": "https://media.zenfs.com/en/fortune_175/2488da7969a1ef8311031c1c1ded9147",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/inside-stealth-wealth-playbook-silicon-105600289.html",
+        "title": "UK police drop investigation into pastor arrested while preaching about Islam",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/f4e7a0636b48bf6c10c00822cc37df5f",
+        "link": "https://www.yahoo.com/news/world/articles/uk-police-drop-investigation-pastor-150025781.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hundreds rally in Taipei for defence spending after parliament cuts funds",
-        "image": "https://media.zenfs.com/en/reuters.com/eb4594ffe5e5f27e2277394189cac269",
-        "link": "https://www.yahoo.com/news/politics/articles/hundreds-rally-taipei-defence-spending-081410071.html",
+        "title": "Travel industry worries after Trump administration reiterates threat to sanctuary city airports",
+        "image": "https://media.zenfs.com/en/ap.org/f6207f96b89a9ebf4ce354e2e80068b6",
+        "link": "https://www.yahoo.com/news/politics/articles/travel-industry-worries-trump-administration-154120132.html",
         "summary": "..."
     },
     {
@@ -71,10 +71,17 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Madrid protestors target rising rents and housing shortage",
+        "title": "China mine blast: Search and investigation continue",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/madrid-protestors-target-rising-rents-and-housing-shortage/a-77280884?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Housing has long ranked among voters' top concerns in Spain, where demand has risen due to tourism and immigration-driven population growth...."
+        "link": "https://www.dw.com/en/china-mine-blast-search-and-investigation-continue/a-77280984?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Chinese authorities have launched an investigation into \"serious breaches\" of security regulations after an explosion in a coal mine left at least 82 ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Madrid protesters decry rising rents and housing shortage",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/madrid-protesters-decry-rising-rents-and-housing-shortage/a-77280884?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Housing has long ranked among the top concerns in Spain, where demand has risen because of tourism and immigration-driven population growth...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/cyprus-votes-amid-resentment-over-corruption-living-costs/a-77279514?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Cyprus has begun voting in a parliamentary election that could shift the political balance amid public discontent...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "New Chinese surveillance leaves foreigners nowhere to hide",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/new-chinese-surveillance-leaves-foreigners-nowhere-to-hide/a-77246713?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A Chinese cybersecurity expert has revealed to DW details of China's new high-tech policing. From ski resort facial recognition to seats on a train, t..."
     },
     {
         "source": "Leafly",
