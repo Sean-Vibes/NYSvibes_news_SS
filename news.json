@@ -36,9 +36,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Young men storm a Congo hospital treating Ebola patients to demand bodies of their kin",
-        "image": "https://media.zenfs.com/en/ap.org/946c1296938a1ea5c806667829614838",
-        "link": "https://www.yahoo.com/news/world/articles/young-men-storm-congo-hospital-223212310.html",
+        "title": "Tens of thousands march in Madrid to demand prime minister's resignation",
+        "image": "https://media.zenfs.com/en/reuters.com/0065215a5467c70fc47f5eb2bc4796ce",
+        "link": "https://www.yahoo.com/news/articles/tens-thousands-march-madrid-demand-125729595.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "A Ukrainian crew said its Italian tank gun hit a house that was 120 football fields away",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/aab8be3a274163f613b3277b21a0b43a",
+        "link": "https://www.yahoo.com/news/world/articles/ukrainian-crew-said-italian-tank-050804250.html",
         "summary": "..."
     },
     {
@@ -50,24 +57,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "China launches Shenzhou 23 spacecraft with 1 of 3 astronauts set for yearlong stay",
+        "image": "https://media.zenfs.com/en/ap.org/18fb8c235af59834280f72396c2fc6b1",
+        "link": "https://www.yahoo.com/news/science/articles/china-launches-shenzhou-23-spacecraft-161449820.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "The more generous U.S. ceasefire terms are, the more suspicious Iran becomes they\u2019re a ruse for another attack, expert says",
         "image": "https://media.zenfs.com/en/fortune_175/0b0339cfd020212afe56687555856f9f",
         "link": "https://www.yahoo.com/news/politics/articles/more-generous-u-ceasefire-terms-171117754.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hundreds rally in Taipei for defence spending after parliament cuts funds",
-        "image": "https://media.zenfs.com/en/reuters.com/eb4594ffe5e5f27e2277394189cac269",
-        "link": "https://www.yahoo.com/news/politics/articles/hundreds-rally-taipei-defence-spending-081410071.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "New Zealand: Surfing contest halted after suspected shark attack",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/new-zealand-surfing-contest-halted-after-suspected-shark-attack/a-77283882?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A surfing competition was thrown into chaos after a photographer was bitten in the water, triggering fears of a shark attack. The culprit, later, turn..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Zelenskyy says intelligence indicates Russia could use hypersonic missile",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/89c9ea653b654b1566cd9e8f2cf9c12e",
-        "link": "https://www.yahoo.com/news/world/articles/zelenskyy-says-intelligence-indicates-russia-232858884.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Germany's Dr. Wolff cosmetics company is going all in on AI",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-s-dr-wolff-cosmetics-company-is-going-all-in-on-ai/a-77268215?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "This medium-sized, family-run business has embraced artificial intelligence to stay competitive. All employees are encouraged to learn about and apply..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Trump says US won't 'rush into' deal with Tehran",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-trump-says-us-won-t-rush-into-deal-with-tehran/live-77276381?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US president says negotiations are proceeding in \"an orderly and constructive manner,\" while Iranian officials say key differences still need to b..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Blinded by the light pollution: Cities seek to restore night",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/blinded-by-the-light-pollution-cities-seek-to-restore-night/a-77279415?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Artificial lights are blotting out the moon and stars, harming human health, and disrupting the natural world. Why is this a problem? And how can we s..."
     },
     {
         "source": "Deutsche Welle",
@@ -75,34 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/why-are-europe-s-biggest-defense-projects-in-trouble/a-77263797?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Disputes over leadership, military priorities and industrial control are threatening to fracture Europe's \u20ac100 billion fighter jet project \u2014 with tens..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Peacekeeping missions at risk due to cuts, tensions \u2014 report",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/peacekeeping-missions-at-risk-due-to-cuts-tensions-report/a-77282510?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A \"perfect storm\" of falling troop numbers, geopolitical tensions and funding crises is jeopardizing international peacekeeping efforts, a new study h..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Cuba receives China rice shipment amid US threats, blackouts",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/cuba-receives-china-rice-shipment-amid-us-threats-blackouts/a-77281770?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Chinese aid is expected to alleviate food shortages in Cuba. But the island's economic crisis continues with blackouts and oil embargos are compunded ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "China mine blast: Search and investigation continue",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/china-mine-blast-search-and-investigation-continue/a-77280984?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Chinese authorities have launched an investigation into \"serious breaches\" of security regulations after an explosion in a coal mine left at least 82 ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Madrid protesters decry rising rents and housing shortage",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/madrid-protesters-decry-rising-rents-and-housing-shortage/a-77280884?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Housing has long ranked among the top concerns in Spain, where demand has risen because of tourism and immigration-driven population growth...."
     },
     {
         "source": "Leafly",
