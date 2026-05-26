@@ -36,16 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Pope Leo XIV makes historic apology for Vatican's role in legitimizing slavery",
-        "image": "https://media.zenfs.com/en/ap.org/a783271f5e803212f44162a2973c5b84",
-        "link": "https://www.yahoo.com/news/world/articles/pope-leo-xiv-makes-historic-093114920.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Metal detectorist finds WW2 soldier's silver cigarette case hundreds of miles from where he died",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/fdce045efde26082991716b611e6b4ee",
-        "link": "https://www.yahoo.com/lifestyle/articles/metal-detectorist-finds-ww2-soldiers-102606205.html",
+        "title": "Young men storm a Congo hospital treating Ebola patients to demand bodies of their kin",
+        "image": "https://media.zenfs.com/en/ap.org/d4784ca62affa365fa039710f16839c1",
+        "link": "https://www.yahoo.com/news/world/articles/af--congo-ebola-223212555.html",
         "summary": "..."
     },
     {
@@ -57,24 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China launches Shenzhou 23 spacecraft with 1 of 3 astronauts set for yearlong stay",
-        "image": "https://media.zenfs.com/en/ap.org/18fb8c235af59834280f72396c2fc6b1",
-        "link": "https://www.yahoo.com/news/science/articles/as--china-space-161449243.html",
+        "title": "The more generous U.S. ceasefire terms are, the more suspicious Iran becomes they\u2019re a ruse for another attack, expert says",
+        "image": "https://media.zenfs.com/en/fortune_175/0b0339cfd020212afe56687555856f9f",
+        "link": "https://www.yahoo.com/news/politics/articles/more-generous-u-ceasefire-terms-171117754.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "'I thought it was love - until I feared for my life'",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/aaf3ff2c0afd58dd7a6129e91880efe6",
-        "link": "https://www.yahoo.com/news/us/articles/thought-love-until-feared-life-061834471.html",
+        "title": "Pope Leo XIV makes historic apology for Vatican's role in legitimizing slavery",
+        "image": "https://media.zenfs.com/en/ap.org/a783271f5e803212f44162a2973c5b84",
+        "link": "https://www.yahoo.com/news/world/articles/pope-leo-xiv-makes-historic-093114920.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Christian lifeguard who refused pride flag duties and was suspended is now headed toward trial",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/4c0c06566711dec10837012868850e17",
+        "link": "https://www.yahoo.com/news/us/articles/christian-lifeguard-refused-pride-flag-140053592.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Middle East: Netanyahu vows to increase Lebanon strikes",
+        "title": "Senegal appoints economist as new PM after Sonko's sacking",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/middle-east-netanyahu-vows-to-increase-lebanon-strikes/live-77284965?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Israeli Prime Minister Benjamin Netanyahu is under pressure due to ongoing Hezbollah drone attacks on northern Israel. Netanyahu said he ordered the m..."
+        "link": "https://www.dw.com/en/senegal-appoints-economist-as-new-pm-after-sonko-s-sacking/a-77290692?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Senegal's president has named senior economist Lo as new prime minister days after sacking his predecessor. The move comes as the country grapples wit..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US military says it launched new strikes on southern Iran",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-military-says-it-launched-new-strikes-on-southern-iran/live-77284965?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US military's Central Command said it had carried out \u201cself-defense\u201d strikes in southern Iran. Meanwhile, Israeli PM Netanyahu said he ordered the..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/will-spacex-s-ipo-fund-life-on-mars-and-a-trillionaire/a-77236838?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "SpaceX is launching history's biggest public listing, propelling Elon Musk's wealth into the stratosphere. DW explores whether the firm's out-of-this-..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pope urges 'disarming' of AI in major manifesto",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pope-urges-disarming-of-ai-in-major-manifesto/a-77288369?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Pope Leo XIV called for artificial intelligence to be more strictly regulated, warning that it can help spread misinformation and normalize war. He al..."
     },
     {
         "source": "Leafly",
