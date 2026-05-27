@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Supreme Court rejects Florida's bid to sue Western states over truck licenses for immigrants",
-        "image": "https://media.zenfs.com/en/ap.org/423f1ded1db36108056a720e434e637f",
-        "link": "https://www.yahoo.com/news/politics/articles/supreme-court-rejects-floridas-bid-142638680.html",
+        "title": "Biden sues Justice Department to stop release of audio and transcripts tied to special counsel probe",
+        "image": "https://media.zenfs.com/en/ap.org/4a7e93538e1974e65395582937d20932",
+        "link": "https://www.yahoo.com/news/politics/articles/biden-sues-justice-department-stop-025909740.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "A Ukrainian crew said its Italian tank gun hit a house that was 120 football fields away",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/aab8be3a274163f613b3277b21a0b43a",
-        "link": "https://www.yahoo.com/news/world/articles/ukrainian-crew-said-italian-tank-050804250.html",
+        "title": "\u2018Designated target\u2019 Mojtaba Khamenei to sign Trump deal in \u2018unprecedented\u2019 courier setup",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/545242880732c49643ff71068b3b19d2",
+        "link": "https://www.yahoo.com/news/politics/articles/designated-target-mojtaba-khamenei-sign-203425047.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran condemns US strikes as a show of 'bad faith' and begins restoring internet after long shutdown",
-        "image": "https://media.zenfs.com/en/ap.org/1b15a08c18ddccf99d69ee35869bbd33",
-        "link": "https://www.yahoo.com/news/politics/articles/iran-condemns-us-strikes-show-131000230.html",
+        "title": "Lawyer says tourist accused of hurling rock at Hawaiian monk seal has been doxed and threatened",
+        "image": "https://media.zenfs.com/en/ap.org/83aa6f6ca23028732f202ef49c363ec6",
+        "link": "https://www.yahoo.com/news/us/articles/lawyer-says-tourist-accused-hurling-040213862.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Czech police free Russian Orthodox cleric detained over white substance in car",
-        "image": "https://media.zenfs.com/en/reuters.com/02ce20b04e0c693ce7c84519ba8e1540",
-        "link": "https://www.yahoo.com/news/articles/czech-police-free-russian-orthodox-142118234.html",
+        "title": "Nvidia CEO Jensen Huang admits he criticizes everything his 42,000-plus employees show him: \u2018You can\u2019t go a day without some criticism\u2019",
+        "image": "https://media.zenfs.com/en/fortune_175/fbc39d220ea3f8cad231c48e8fc8ae3c",
+        "link": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo-jensen-huang-admits-145251642.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Samsung avoids strike as workers approve massive bonus deal",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/samsung-avoids-strike-as-workers-approve-massive-bonus-deal/a-77307043?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Amid booming demand for AI chips, the government-backed deal will make more than 60% of the South Korean tech giant's workforce eligible for bonuses o..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "North Korea tests new missile launch system \u2014 report",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/north-korea-tests-new-missile-launch-system-report/a-77306896?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "North Korea has tested a mix of tactical ballistic missiles, artillery and \u2060precision cruise \u2060missiles, state news agency reported. The country has be..."
     },
     {
         "source": "Deutsche Welle",
@@ -91,18 +105,11 @@
         "summary": "Iran's vice president Mohammad Reza Aref said the government has taken the first steps to restore internet access. Meanwhile, Tehran warned US against..."
     },
     {
-        "source": "Deutsche Welle",
-        "title": "Ukraine: EU, Germany summon Russian envoys after Moscow tells diplomats to leave Kyiv",
+        "source": "Leafly",
+        "title": "The most relaxing weed strains",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-eu-germany-summon-russian-envoys-after-moscow-tells-diplomats-to-leave-kyiv/a-77300543?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The EU and Germany both summoned Russian diplomats to protest attacks on Kyiv and orders for diplomats to leave the city. The UN secretary-general als..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Scientists discover new little blue octopus in Galapagos Islands",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/scientists-discover-new-little-blue-octopus-in-galapagos-islands/a-77300108?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Scientists knew they had encountered something special when they first saw the tiny blue octopus in the depths of the Galapagos Islands...."
+        "link": "https://www.leafly.com/news/strains-products/most-relaxing-weed-strains",
+        "summary": "<p>Listen, you need to relax. It doesn\u2019t matter who you are, where you are, or what you\u2019re doing; you are guaranteed to be carrying around a little bi..."
     },
     {
         "source": "Leafly",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.leafly.com/news/strains-products/star-signs-and-cannabis-strains-may-2026-horoscopes",
         "summary": "<p>Your May 2026 horoscopes arrive with intense, volatile energy, kicking off a month marked by emotional reactivity and deep introspection.</p>\n<p>Th..."
-    },
-    {
-        "source": "Leafly",
-        "title": "Department of Justice makes good on Trump\u2019s rescheduling order",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.leafly.com/news/politics/department-of-justice-makes-good-on-trumps-rescheduling-order",
-        "summary": "<p>The Acting Attorney General is getting the ball rolling on the rescheduling of cannabis from Schedule 1 to Schedule 3, earning praise from the cann..."
     }
 ]
