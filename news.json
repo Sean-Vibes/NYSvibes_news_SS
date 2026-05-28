@@ -50,31 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "I got laid off from Meta as a low performer. I wish people told me to budget, downsize, and create a plan immediately.",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/5fa12e22f8e8050e779d253174675890",
-        "link": "https://finance.yahoo.com/economy/policy/articles/got-laid-off-meta-low-091101376.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "FACT FOCUS: Trump says Obama and Biden spent 'hundreds of millions' on reflecting pool. They did not",
-        "image": "https://media.zenfs.com/en/ap.org/8d4831ce83b0459c65e1bd76e8bae9c8",
-        "link": "https://www.yahoo.com/news/politics/articles/fact-focus-trump-says-obama-184633426.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Talarico makes stunning claim about why he thinks Texas elections aren't 'free and fair'",
         "image": "https://media.zenfs.com/en/fox_news_text_979/9e5b1dbbd18545c659d2895e9b5a5308",
         "link": "https://www.yahoo.com/news/politics/articles/talarico-makes-stunning-claim-why-222029286.html",
         "summary": "..."
     },
     {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Washington tourist pleads not guilty in Hawaiian monk seal rock case, barred from Hawaii beaches",
+        "image": "https://media.zenfs.com/en/khon-honolulu/ceef381a5dacf614d184e4642e556154",
+        "link": "https://www.yahoo.com/news/us/articles/us--hawaii-endangered-seal-harassment-040213639.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "I got laid off from Meta as a low performer. I wish people told me to budget, downsize, and create a plan immediately.",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/5fa12e22f8e8050e779d253174675890",
+        "link": "https://finance.yahoo.com/economy/policy/articles/got-laid-off-meta-low-091101376.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Vance says deal close but 'not there yet'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-vance-says-deal-close-but-not-there-yet/live-77338255?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Vice President JD Vance said the US and Iran made progress on a deal but were \"not there yet.\" Earlier media reports said negotiators reached an agree..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "WHO chief arrives in Congo amid Ebola outbreak",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/who-chief-arrives-in-congo-amid-ebola-outbreak/a-77338236?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The head of the World Health Organization vowed to \"overcome this outbreak\" as he traveled for the epicenter of Ebola infections in eastern Congo...."
+    },
+    {
         "source": "Deutsche Welle",
         "title": "Austria: Taylor Swift concert plot suspect sentenced to 15 years",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/austria-taylor-swift-concert-plot-suspect-sentenced-to-15-years/a-77338187?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "An Austrian court sentenced an Islamist for plotting an attack on a Taylor Swift concert in Vienna in 2024...."
+        "summary": "An Austrian court sentenced an Islamist for plotting an attack on a Taylor Swift concert in Vienna in 2024. Earlier in the trial, he admitted to plann..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-us-reportedly-agree-to-deal-pending-trump-approval/live-77321432?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "US media reported that American and Iranian negotiators have agreed to resume nuclear talks and allow shipping in the Strait of Hormuz. Meanwhile, Isr..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "EU fines Temu \u20ac200M over unsafe toys, non-compliant products",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-fines-temu-\u20ac200m-over-unsafe-toys-non-compliant-products/a-77336877?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "EU regulators said Temu failed to identify and assess the systemic risks of illegal products' on its platform and the harm they posed to consumers...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "France moves to symbolically repeal slavery legislation",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/france-moves-to-symbolically-repeal-slavery-legislation/a-77332888?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Members of the lower house of the French parliament unanimously voted to abolish a series of royal edicts known as the \"Code noir\" or Black Code. The ..."
     },
     {
         "source": "Leafly",
