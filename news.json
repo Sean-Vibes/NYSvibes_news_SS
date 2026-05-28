@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Gingrich says Clinton impeachment a \u2018mistake\u2019: \u2018Real problem wasn\u2019t Lewinsky\u2019",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/cf8ce58271053d5934ef78bdb1409ba7",
-        "link": "https://www.yahoo.com/news/politics/articles/gingrich-says-clinton-impeachment-mistake-160255764.html",
+        "title": "Kevin O\u2019Leary slams people who want work-life balance: \u2018I hope they work for my competitors\u2019",
+        "image": "https://media.zenfs.com/en/fortune_175/05dea820e701d1fa8680db1a175e24e6",
+        "link": "https://finance.yahoo.com/economy/policy/articles/kevin-o-leary-slams-people-154830438.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US draws up plans to halt immigration, customs processing at 'sanctuary city' airports",
-        "image": "https://media.zenfs.com/en/reuters.com/d2e4bea5db98ce88a902e6694270e642",
-        "link": "https://www.yahoo.com/news/articles/us-drawing-plans-halt-immigration-030304596.html",
+        "title": "Planes carrying 19 Australians linked to the Islamic State group land in Melbourne and Sydney",
+        "image": "https://media.zenfs.com/en/ap.org/496ff828228de3c215b76a647447918f",
+        "link": "https://www.yahoo.com/news/world/articles/19-australian-women-children-linked-020757071.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "California homeowners struggling to find wildfire insurance may have a new option",
-        "image": "https://media.zenfs.com/en/nbcu_713/994634fafa7e26e82593896201b34ea9",
-        "link": "https://www.yahoo.com/news/videos/california-homeowners-struggling-wildfire-insurance-232214238.html",
+        "title": "Samsung workers approve pay deal but management still has trying times ahead",
+        "image": "https://media.zenfs.com/en/reuters.com/9cb68047763d3e01ca8f8b89996d7154",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/samsung-workers-approve-pay-deal-073005235.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Concerns grow over conditions at ICE facility in New Jersey",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/concerns-grow-over-conditions-at-ice-facility-in-new-jersey/a-77321018?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Democratic members of Congress tour the ICE facility that finds itself at the center of tensions over Trump's immigration operation...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-trump-says-us-will-watch-over-strait-of-hormuz/live-77308741?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "US President Donald Trump said the vital Strait of Hormuz \"must be open to everyone\" and \"no one can control it.\" He made a threat to Oman, which is n..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ebola: Uganda closes border with DR Congo as virus spreads",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ebola-uganda-closes-border-with-dr-congo-as-virus-spreads/a-77320417?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Uganda has shut its border \"with immediate effect,\" despite warnings by the WHO that the move could backfire and cause the disease to spread...."
     },
     {
         "source": "Leafly",
