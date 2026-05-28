@@ -50,24 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kevin O\u2019Leary slams people who want work-life balance: \u2018I hope they work for my competitors\u2019",
-        "image": "https://media.zenfs.com/en/fortune_175/05dea820e701d1fa8680db1a175e24e6",
-        "link": "https://finance.yahoo.com/economy/policy/articles/kevin-o-leary-slams-people-154830438.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Planes carrying 19 Australians linked to the Islamic State group land in Melbourne and Sydney",
-        "image": "https://media.zenfs.com/en/ap.org/496ff828228de3c215b76a647447918f",
-        "link": "https://www.yahoo.com/news/world/articles/19-australian-women-children-linked-020757071.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Samsung workers approve pay deal but management still has trying times ahead",
         "image": "https://media.zenfs.com/en/reuters.com/9cb68047763d3e01ca8f8b89996d7154",
         "link": "https://finance.yahoo.com/markets/stocks/articles/samsung-workers-approve-pay-deal-073005235.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Washington tourist pleads not guilty in Hawaiian monk seal rock case, barred from Hawaii beaches",
+        "image": "https://media.zenfs.com/en/khon-honolulu/ceef381a5dacf614d184e4642e556154",
+        "link": "https://www.yahoo.com/news/us/articles/us--hawaii-endangered-seal-harassment-040213639.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "The US Air Force is working out how to hand the A-10 Warthog's combat search-and-rescue role off to jets like the F-35",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/b6d39ab563c905dc4b2c94c203c95316",
+        "link": "https://www.yahoo.com/news/us/articles/us-air-force-working-hand-123001634.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "DOJ launches criminal probe into E. Jean Carroll \u2014 reports",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/doj-launches-criminal-probe-into-e-jean-carroll-reports/a-77321436?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US Justice Department has launched a criminal inquiry into former magazine writer E. Jean Carroll, who accused Donald Trump of sexually assaulting..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: US 'defensive' strikes target drones, port city command center",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-us-defensive-strikes-target-drones-port-city-command-center/live-77321432?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US military said it shot down four Iranian drones and struck a control center in the port city of Bandar Abbas in \"defensive\" strikes \"intended to..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Brazil to revive highway project through Amazon amid concerns",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/brazil-to-revive-highway-project-through-amazon-amid-concerns/a-77321412?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Brazil will invest $75 million to pave a highway that cuts through the center of the Amazon rainforest. Environmentalists argue for strong protections..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/canada-to-buy-swedish-surveillance-plane-over-us-models/a-77321014?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Prime Minister Mark Carney said the Canadian Armed Forces need the plane to detect and deter threats across the Arctic...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "FIFA World Cup: New York and New Jersey prosecutors probe 'sky-high' ticket prices",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fifa-world-cup-new-york-and-new-jersey-prosecutors-probe-sky-high-ticket-prices/a-77319846?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US prosecutors have subpoenaed FIFA over expensive World Cup tickets, saying that the event was \"not an invitation to exploit our residents and visito..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump urges Middle East states to sign Abraham Accords",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-urges-middle-east-states-to-sign-abraham-accords/a-77319844?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US President Donald Trump has urged more Middle Eastern countries to join the Abraham Accords that aim to normalize relations with Israel. What does t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Trump says US will 'watch over' Strait of Hormuz",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-trump-says-us-will-watch-over-strait-of-hormuz/live-77308741?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US President Donald Trump said the vital Strait of Hormuz \"must be open to everyone\" and \"no one can control it.\" He made a threat to Oman, which is n..."
     },
     {
         "source": "Leafly",
