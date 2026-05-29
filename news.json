@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Biden sues Justice Department to stop release of audio and transcripts tied to special counsel probe",
-        "image": "https://media.zenfs.com/en/ap.org/4a7e93538e1974e65395582937d20932",
-        "link": "https://www.yahoo.com/news/politics/articles/biden-sues-justice-department-stop-025909740.html",
+        "title": "Washington tourist pleads not guilty in Hawaiian monk seal rock case, barred from Hawaii beaches",
+        "image": "https://media.zenfs.com/en/khon-honolulu/ceef381a5dacf614d184e4642e556154",
+        "link": "https://www.yahoo.com/news/us/articles/us--hawaii-endangered-seal-harassment-040213639.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Washington tourist pleads not guilty in Hawaiian monk seal rock case, barred from Hawaii beaches",
-        "image": "https://media.zenfs.com/en/khon-honolulu/ceef381a5dacf614d184e4642e556154",
-        "link": "https://www.yahoo.com/news/us/articles/us--hawaii-endangered-seal-harassment-040213639.html",
+        "title": "Ebola outbreak live updates: Americans exposed to Ebola in Congo may be sent to quarantine in Kenya, reports say",
+        "image": "https://s.yimg.com/uu/api/res/1.2/vi1qzB7nIixL67YAT6y5fg--~B/aD0zMDMzO3c9NTM5MTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/x2026-05-21t162532z-245616866-rc2odla7jp3t-rtrmadp-3-health-ebola-drc_3937.jpg",
+        "link": "https://www.yahoo.com/news/world/live/ebola-outbreak-live-updates-who-says-efforts-to-contain-deadly-virus-are-being-hindered-by-conflict-112950076.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "I got laid off from Meta as a low performer. I wish people told me to budget, downsize, and create a plan immediately.",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/5fa12e22f8e8050e779d253174675890",
-        "link": "https://finance.yahoo.com/economy/policy/articles/got-laid-off-meta-low-091101376.html",
+        "title": "Man executed for fatally poisoning billionaire who helped bring \u20183 Body Problem\u2019 to Netflix",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/c9c1f213b33fd6117d5da7a34410c53d",
+        "link": "https://www.yahoo.com/news/world/articles/man-executed-fatally-poisoning-billionaire-045700794.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Blue Origin's New Glenn rocket explodes on launch pad",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/blue-origin-s-new-glenn-rocket-explodes-on-launch-pad/a-77338623?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A hot-fire test of the New Glenn rocket went awry, resulting in the rocket exploding into a fireball. However, Blue Origin's owner, Jeff Bezos, vows t..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Israel, Russia included in UN sexual violence blacklist for first time",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/israel-russia-included-in-un-sexual-violence-blacklist-for-first-time/a-77338549?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A new UN report accuses Israeli forces of abuses against Palestinian detainees. The report also documents hundreds of sexual violence cases linked to ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Romania: Russian drone strikes Galati apartment building",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/romania-russian-drone-strikes-galati-apartment-building/a-77338487?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Romania reported that a Russian drone had hit a building in its territory near the Ukrainian border. Ukraine also reported a Russian drone attack in t..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/who-chief-arrives-in-congo-amid-ebola-outbreak/a-77338236?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The head of the World Health Organization vowed to \"overcome this outbreak\" as he traveled for the epicenter of Ebola infections in eastern Congo...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Austria: Taylor Swift concert plot suspect sentenced to 15 years",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/austria-taylor-swift-concert-plot-suspect-sentenced-to-15-years/a-77338187?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "An Austrian court sentenced an Islamist for plotting an attack on a Taylor Swift concert in Vienna in 2024. Earlier in the trial, he admitted to plann..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Buffalo with 'Trump' coiffure spared slaughter, moved to zoo",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/buffalo-with-trump-coiffure-spared-slaughter-moved-to-zoo/a-77337193?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A Bangladeshi buffalo's resemblance to the current US president has saved it from slaughter and earned it celebrity status...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran, US reportedly agree to deal, pending Trump approval",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-us-reportedly-agree-to-deal-pending-trump-approval/live-77321432?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US media reported that American and Iranian negotiators have agreed to resume nuclear talks and allow shipping in the Strait of Hormuz. Meanwhile, Isr..."
     },
     {
         "source": "Leafly",
