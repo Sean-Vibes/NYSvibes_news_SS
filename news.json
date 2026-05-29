@@ -43,23 +43,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Talarico makes stunning claim about why he thinks Texas elections aren't 'free and fair'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/9e5b1dbbd18545c659d2895e9b5a5308",
-        "link": "https://www.yahoo.com/news/politics/articles/talarico-makes-stunning-claim-why-222029286.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Stalker jailed for murdering ex-girlfriend",
         "image": "https://media.zenfs.com/en/bbc_us_articles_995/0828d47df641643705385a535dd23571",
         "link": "https://www.yahoo.com/news/us/articles/jealous-man-jailed-murdering-ex-142430738.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "US strikes Iran again, official says, after Trump denies deal on Strait of Hormuz",
-        "image": "https://media.zenfs.com/en/reuters.com/e1124cf85f7cdf0a770ede3f518b65c9",
-        "link": "https://www.yahoo.com/news/articles/iran-could-open-strait-hormuz-145621953.html",
         "summary": "..."
     },
     {
@@ -68,6 +54,34 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/f679c983ce2b837b091e3ee5064a1f26",
         "link": "https://www.yahoo.com/news/science/articles/skeleton-unearthed-near-nancy-guthrie-100051544.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "FACT FOCUS: Trump says Obama and Biden spent 'hundreds of millions' on reflecting pool. They did not",
+        "image": "https://media.zenfs.com/en/ap.org/8d4831ce83b0459c65e1bd76e8bae9c8",
+        "link": "https://www.yahoo.com/news/politics/articles/fact-focus-trump-says-obama-184633426.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Mother who murdered baby daughter jailed for at least 19 years",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/ab36a3da8f8f7e3b2ab4ede52e657c6b",
+        "link": "https://www.yahoo.com/news/us/articles/mother-murdered-baby-daughter-jailed-094204663.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US: Judge rules Trump name must be removed from Kennedy Center",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-judge-rules-trump-name-must-be-removed-from-kennedy-center/a-77352605?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Trump criticized the ruling, saying the judge \"should be ashamed of himself,\" but will hand the venue over to Congress...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ghana approves law criminalizing LGBTQ promotion activities",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ghana-approves-law-criminalizing-lgbtq-promotion-activities/a-77352654?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ghana's parliament passed one of the most repressive anti-LGBTQ laws in Africa. The law imposes prison terms on individuals who promote LGBTQ activiti..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/romania-russian-drone-strikes-galati-apartment-building/a-77338487?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Romania accused Russia of a \"grave and irresponsible escalation\" after a Russian drone entered its airspace. German Chancellor Merz said \"we need a st..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US judge halts Trump's 'anti-weaponization' fund",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-judge-halts-trump-s-anti-weaponization-fund/a-77351158?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The billion-dollar \"anti-weaponization\" fund was meant to compensate people who Trump sees as victims of so-called \"lawfare\" by Joe Biden's administra..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "EU unblocks \u20ac16 billion in Hungary assistance as Magyar promises reforms",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-unblocks-\u20ac16-billion-in-hungary-assistance-as-magyar-promises-reforms/a-77349350?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Reforms under new Prime Minister Peter Magyar will enable the EU to free up billions in frozen assistance for Budapest. The EU's Ursula von der Leyen ..."
     },
     {
         "source": "Leafly",
