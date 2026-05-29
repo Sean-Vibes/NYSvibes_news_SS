@@ -36,16 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "With a stalemate in Ukraine and discontent at home, Putin seems ready to escalate his war",
-        "image": "https://media.zenfs.com/en/ap.org/6316f876789352387cddf2eaa26a27dc",
-        "link": "https://www.yahoo.com/news/world/articles/stalemate-ukraine-discontent-home-putin-060311140.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Even if every California billionaire left tomorrow, it would take 25 years for the state to lose as much as it stands to gain from proposed wealth tax",
-        "image": "https://media.zenfs.com/en/fortune_175/f68618af94fe30f757e28eab5d5f4ba7",
-        "link": "https://finance.yahoo.com/economy/policy/articles/even-every-california-billionaire-left-164918745.html",
+        "title": "FACT FOCUS: Trump says Obama and Biden spent 'hundreds of millions' on reflecting pool. They did not",
+        "image": "https://media.zenfs.com/en/ap.org/8d4831ce83b0459c65e1bd76e8bae9c8",
+        "link": "https://www.yahoo.com/news/politics/articles/fact-focus-trump-says-obama-184633426.html",
         "summary": "..."
     },
     {
@@ -57,17 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "FACT FOCUS: Trump says Obama and Biden spent 'hundreds of millions' on reflecting pool. They did not",
-        "image": "https://media.zenfs.com/en/ap.org/8d4831ce83b0459c65e1bd76e8bae9c8",
-        "link": "https://www.yahoo.com/news/politics/articles/fact-focus-trump-says-obama-184633426.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Talarico makes stunning claim about why he thinks Texas elections aren't 'free and fair'",
         "image": "https://media.zenfs.com/en/fox_news_text_979/9e5b1dbbd18545c659d2895e9b5a5308",
         "link": "https://www.yahoo.com/news/politics/articles/talarico-makes-stunning-claim-why-222029286.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "After protests outside synagogues, New York makes it a crime to block entry to a house of worship",
+        "image": "https://media.zenfs.com/en/ap.org/878abdf21df18efd74e76b507cc1feef",
+        "link": "https://www.yahoo.com/news/politics/articles/protests-outside-synagogues-york-makes-233903309.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Negotiators for U.S. and Iran reach deal",
+        "image": "https://media.zenfs.com/en/nbcu_713/477f26641dc03de676af27c0cbab78e6",
+        "link": "https://www.yahoo.com/news/videos/negotiators-u-iran-reach-deal-225013987.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Romania's political crisis deepens",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/romania-s-political-crisis-deepens/a-77351943?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After Prime Minister Ilie Bolojan\u2019s government fell in early May, Romania's moderate parties have struggled to chart a new course \u2014 opening the door f..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Romania: Russian drone strikes Galati apartment building",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/romania-russian-drone-strikes-galati-apartment-building/a-77338487?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Romania accused Russia of a \"grave and irresponsible escalation\" after a Russian drone entered its airspace. German Chancellor Merz said \"we need a st..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US judge halts Trump's 'anti-weaponization' fund",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-judge-halts-trump-s-anti-weaponization-fund/a-77351158?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The billion-dollar \"anti-weaponization\" fund was meant to compensate people who Trump sees as victims of so-called \"lawfare\" by Joe Biden's administra..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/netherlands-allows-kanye-west-to-perform-despite-protests/a-77350753?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "US rapper Kanye West will be allowed to perform in the Netherlands despite Dutch lawmakers and Jewish activists seeking to ban him from the EU country..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ethiopia election 2026: Tigray excluded and on edge",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ethiopia-election-2026-tigray-excluded-and-on-edge/a-77346844?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As Ethiopia is heading to the polls, the Tigray region won't be participating in the vote for the second time, with tensions simmering on. Prime Minis..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: US to lift naval blockade of ports, Trump says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-us-to-lift-naval-blockade-of-ports-trump-says/live-77338255?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US President Donald Trump also said he is going to make a \"final determination\" on a deal with Iran during a meeting in the White House Situation Room..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "What makes a vanity project? A history of building for power",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/what-makes-a-vanity-project-a-history-of-building-for-power/a-77262996?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As Donald Trump proposes costly redesigns for Washington D.C., the questions arise: When do grand projects serve the public \u2014 and when do they serve t..."
     },
     {
         "source": "Leafly",
