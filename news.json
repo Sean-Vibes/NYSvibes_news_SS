@@ -50,24 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Inca child mummy returned to indigenous community in Argentina",
+        "image": "https://media.zenfs.com/en/reuters.com/1cfbec4de55f860c81b254a8784e4582",
+        "link": "https://www.yahoo.com/news/world/articles/inca-child-mummy-returned-indigenous-120209830.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "As Ebola scourges Congo, experts warn of link to eating wild animals",
+        "image": "https://media.zenfs.com/en/ap.org/b876ffecb6db1ffaa806f6e74a6b572e",
+        "link": "https://www.yahoo.com/news/world/articles/ebola-scourges-congo-experts-warn-041419405.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "New car sales stagnate but automakers still profiting: Report",
         "image": "https://media.zenfs.com/en/newsnation_articles_600/cb6bef54bdadbd0349ef5e865d03cc45",
         "link": "https://finance.yahoo.com/economy/articles/car-sales-stagnate-automakers-still-232843420.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "US military personnel are being targeted using location data, Pentagon letter shows",
-        "image": "https://media.zenfs.com/en/reuters.com/83edba8982b4e34018635d6722151875",
-        "link": "https://www.yahoo.com/news/articles/exclusive-pentagon-says-us-military-100316693.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "WHO chief visits Ebola epicenter in eastern DR Congo",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/who-chief-visits-ebola-epicenter-in-eastern-dr-congo/a-77355201?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The World Health Organization's Tedros Adhanom Ghebreyesus said he wanted to discuss the response to the outbreak with local communities in Ituri prov..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Oh deer: Indiana firefighters rescue baby deer from rushing floodwater",
-        "image": "https://media.zenfs.com/en/nbcu_713/68d15775f07b5ff04e274759cc1bac6b",
-        "link": "https://www.yahoo.com/news/videos/oh-deer-indiana-firefighters-rescue-233343312.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Germany: Vaping becoming more popular among young people",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-vaping-becoming-more-popular-among-young-people/a-77340236?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A recent study shows that e-cigarettes are becoming increasingly popular among young people in Germany, with even elementary school kids picking up va..."
     },
     {
         "source": "Deutsche Welle",
@@ -88,21 +102,7 @@
         "title": "Russia recalls Armenia ambassador over EU ties",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/russia-recalls-armenia-ambassador-over-eu-ties/a-77354081?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "It comes a day after Putin warned Armenia against seeking EU membership and alluded to the \"Ukrainian scenario.\" Yerevan historically has strong ties ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Malta votes in snap parliamentary election",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/malta-votes-in-snap-parliamentary-election/a-77353620?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Voting is underway in Malta's parliamentary election. Opinion polls show Prime Minister Robert Abela on course for reelection in the shadow of the Mid..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Chaos possible as demo blocks Alpine pass",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-chaos-possible-as-demo-blocks-alpine-pass/live-77353393?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A demonstration is planned at a major pass through the Alps, with huge traffic disruption possible. And a German minister is looking to crack down on ..."
+        "summary": "The recall comes a day after Putin warned Armenia against seeking EU membership and alluded to the \"Ukrainian scenario.\" Armenia historically has stro..."
     },
     {
         "source": "Leafly",
