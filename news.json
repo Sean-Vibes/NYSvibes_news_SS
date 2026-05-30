@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "South Carolina GOP Attorney General Candidates Clash On Medical Marijuana And Hemp During Debate",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/south-carolina-gop-attorney-general-candidates-clash-on-medical-marijuana-and-hemp-during-debate/",
+        "summary": "<p>\u201cI can tell you, it absolutely does help children with seizures. It does help cancer patients, because we all know... <a class=\"small font-montserr..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "State Marijuana Officials Call Out \u2018Frustrating\u2019 Lack Of Federal Guidance On What Trump\u2019s Rescheduling Move Means For Businesses",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/state-marijuana-officials-call-out-frustrating-lack-of-federal-guidance-on-what-trumps-rescheduling-move-means-for-businesses/",
@@ -28,13 +35,6 @@
         "summary": "<p>Louisiana\u2019s governor has signed a bill that threatens to send people to jail for up to one year if they... <a class=\"small font-montserrat font-wei..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "GOP Lawmakers File Amendments To Prevent Federal Recriminalization Of Hemp THC Products This Year",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/gop-lawmakers-file-amendments-to-prevent-federal-recriminalization-of-hemp-thc-products-this-year/",
-        "summary": "<p>Three Republican members of Congress have filed separate amendments to large-scale agriculture legislation that would prevent a scheduled federal b..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Indonesians mark 20 years since mud volcano eruption swallowed up entire communities in East Java",
         "image": "https://media.zenfs.com/en/ap.org/7eccb5405e603dfefc9ab5360c2d27ad",
@@ -50,16 +50,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "New car sales stagnate but automakers still profiting: Report",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/cb6bef54bdadbd0349ef5e865d03cc45",
-        "link": "https://finance.yahoo.com/economy/articles/car-sales-stagnate-automakers-still-232843420.html",
+        "title": "As stars drop out, Trump floats canceling Freedom 250 concert to give his own speech",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/07175434ddecb411b753eacca450fa1c",
+        "link": "https://www.yahoo.com/news/politics/articles/stars-drop-trump-floats-canceling-173346688.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "FACT FOCUS: Trump says Obama and Biden spent 'hundreds of millions' on reflecting pool. They did not",
-        "image": "https://media.zenfs.com/en/ap.org/8d4831ce83b0459c65e1bd76e8bae9c8",
-        "link": "https://www.yahoo.com/news/politics/articles/fact-focus-trump-says-obama-184633426.html",
+        "title": "UnitedHealthcare to remove prior insurance approval requirements for nearly two-thirds of pediatric services",
+        "image": "https://media.zenfs.com/en/reuters.com/d8178c9cbe75c39995fec28fc09a48e3",
+        "link": "https://www.yahoo.com/news/us/articles/unitedhealthcare-remove-prior-insurance-approval-120858512.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/f679c983ce2b837b091e3ee5064a1f26",
         "link": "https://www.yahoo.com/news/science/articles/skeleton-unearthed-near-nancy-guthrie-100051544.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Turkey: Ousted CHP leader draws thousands for Ankara rally",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/turkey-ousted-chp-leader-draws-thousands-for-ankara-rally/a-77359342?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ozgur Ozel and Kemal Kilicdaroglu held rival rallies in Ankara, as the CHP grapples with Ozel's court-ordered removal. Ozel's supporters called Kilicd..."
     },
     {
         "source": "Deutsche Welle",
@@ -81,7 +88,7 @@
         "title": "WHO chief visits Ebola epicenter in eastern DR Congo",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/who-chief-visits-ebola-epicenter-in-eastern-dr-congo/a-77355201?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The World Health Organization's Tedros Adhanom Ghebreyesus said he wanted to discuss the response to the outbreak with local communities in Ituri prov..."
+        "summary": "Addressing the public from the epicenter of the DRC Ebola outbreak, WHO chief Tedros Adhanom Ghebreyesus urged the residents to stay safe during buria..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/what-hungary-must-do-to-receive-eu-funds-frozen-under-orban/a-77354206?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Prime Minister Peter Magyar and European Commission President Ursula von der Leyen announced a deal that could free up over \u20ac16 billion in EU funds fo..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Laos: Five people rescued from flooded cave",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/laos-five-people-rescued-from-flooded-cave/a-77352441?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Seven people who entered the cave last week were trapped inside by flash flooding that blocked their way. Five of them found some days ago have been f..."
     },
     {
         "source": "Leafly",
