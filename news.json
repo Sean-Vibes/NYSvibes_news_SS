@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "FACT FOCUS: Trump says Obama and Biden spent 'hundreds of millions' on reflecting pool. They did not",
-        "image": "https://media.zenfs.com/en/ap.org/8d4831ce83b0459c65e1bd76e8bae9c8",
-        "link": "https://www.yahoo.com/news/politics/articles/fact-focus-trump-says-obama-184633426.html",
+        "title": "Indonesians mark 20 years since mud volcano eruption swallowed up entire communities in East Java",
+        "image": "https://media.zenfs.com/en/ap.org/7eccb5405e603dfefc9ab5360c2d27ad",
+        "link": "https://www.yahoo.com/news/world/articles/residents-mark-20th-anniversary-indonesia-094231802.html",
         "summary": "..."
     },
     {
@@ -57,31 +57,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China opposes any country using freedom of navigation to undermine its sovereignty",
-        "image": "https://media.zenfs.com/en/reuters.com/efe5394df47f5087a736d79faf098e72",
-        "link": "https://www.yahoo.com/news/world/articles/china-opposes-country-using-freedom-074226181.html",
+        "title": "As Ebola scourges Congo, experts warn of link to eating wild animals",
+        "image": "https://media.zenfs.com/en/ap.org/426d0f9c09480bfe214ef8491e3e2ac0",
+        "link": "https://www.yahoo.com/news/world/articles/ebola-scourges-congo-experts-warn-041419405.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US, Mexico, Canada rolling out Ebola-related travel measures ahead of World Cup",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/1990d2ad4088a8881451cabbdb252893",
-        "link": "https://www.yahoo.com/news/us/articles/us-mexico-canada-rolling-ebola-180704482.html",
+        "title": "Inca child mummy returned to indigenous community in Argentina",
+        "image": "https://media.zenfs.com/en/reuters.com/1cfbec4de55f860c81b254a8784e4582",
+        "link": "https://www.yahoo.com/news/world/articles/inca-child-mummy-returned-indigenous-120209830.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: US says ready to resume war if no deal reached",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-us-says-ready-to-resume-war-if-no-deal-reached/live-77353339?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The United States says it is \"more than capable\" of resuming a war with Iran after President Donald Trump said a touted peace deal must include his re..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "International aid cuts complicate Congo's Ebola epidemic",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/international-aid-cuts-complicate-congo-s-ebola-epidemic/a-77320865?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The scaling back of development aid has contributed to the inability to contain the Ebola outbreak in the Democratic Republic of Congo. German organiz..."
     },
     {
         "source": "Deutsche Welle",
         "title": "Three Latvian mountaineers die on North America's tallest peak",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/three-latvian-mountaineers-die-on-north-america-s-tallest-peak/a-77353020?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Three climbers fell to their deaths near a perilous pass on Mount McKinley in the United States' Denali National Park and Preserve. One mountaineer wa..."
+        "summary": "Three climbers fell to their deaths near a perilous pass on Mount McKinley in the US's Denali National Park and Preserve. One mountaineer was rescued...."
     },
     {
         "source": "Deutsche Welle",
         "title": "Shangri-La Dialogue: Hegseth says 'no state, including China,' must dominate Asia",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/shangri-la-dialogue-hegseth-says-no-state-including-china-must-dominate-asia/a-77353001?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US Secretary of Defense Pete Hegseth expressed alarm about China's military buildup in Asia. He also said the US expects its Asian allies and partners..."
+        "summary": "US Defense Secretary of Pete Hegseth expressed alarm about China's military buildup in Asia. He also said the United States expects its allies and par..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/top-us-and-cuban-generals-meet-at-guantanamo-bay/a-77352669?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Amid the deterioration of relations between the United States and Cuba, a top US general held a rare meeting with senior Cuban military officials at G..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US: Judge rules Trump name must be removed from Kennedy Center",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-judge-rules-trump-name-must-be-removed-from-kennedy-center/a-77352605?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Trump criticized the ruling, saying the judge \"should be ashamed of himself,\" but will hand the venue over to Congress...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ghana approves law criminalizing LGBTQ promotion activities",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ghana-approves-law-criminalizing-lgbtq-promotion-activities/a-77352654?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ghana's parliament passed one of the most repressive anti-LGBTQ laws in Africa. The law imposes prison terms on individuals who promote LGBTQ activiti..."
     },
     {
         "source": "Leafly",
