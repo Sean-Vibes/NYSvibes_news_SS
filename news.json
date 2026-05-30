@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Indonesians mark 20 years since mud volcano eruption swallowed up entire communities in East Java",
-        "image": "https://media.zenfs.com/en/ap.org/7eccb5405e603dfefc9ab5360c2d27ad",
-        "link": "https://www.yahoo.com/news/world/articles/residents-mark-20th-anniversary-indonesia-094231802.html",
+        "title": "FACT FOCUS: Trump says Obama and Biden spent 'hundreds of millions' on reflecting pool. They did not",
+        "image": "https://media.zenfs.com/en/ap.org/8d4831ce83b0459c65e1bd76e8bae9c8",
+        "link": "https://www.yahoo.com/news/politics/articles/fact-focus-trump-says-obama-184633426.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "FACT FOCUS: Trump says Obama and Biden spent 'hundreds of millions' on reflecting pool. They did not",
-        "image": "https://media.zenfs.com/en/ap.org/8d4831ce83b0459c65e1bd76e8bae9c8",
-        "link": "https://www.yahoo.com/news/politics/articles/fact-focus-trump-says-obama-184633426.html",
+        "title": "US military personnel are being targeted using location data, Pentagon letter shows",
+        "image": "https://media.zenfs.com/en/reuters.com/83edba8982b4e34018635d6722151875",
+        "link": "https://www.yahoo.com/news/articles/exclusive-pentagon-says-us-military-100316693.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Inca child mummy returned to indigenous community in Argentina",
-        "image": "https://media.zenfs.com/en/reuters.com/1cfbec4de55f860c81b254a8784e4582",
-        "link": "https://www.yahoo.com/news/world/articles/inca-child-mummy-returned-indigenous-120209830.html",
+        "title": "Oh deer: Indiana firefighters rescue baby deer from rushing floodwater",
+        "image": "https://media.zenfs.com/en/nbcu_713/68d15775f07b5ff04e274759cc1bac6b",
+        "link": "https://www.yahoo.com/news/videos/oh-deer-indiana-firefighters-rescue-233343312.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "What Hungary must do to receive EU funds frozen under Orban",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/what-hungary-must-do-to-receive-eu-funds-frozen-under-orban/a-77354206?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Prime Minister Peter Magyar and European Commission President Ursula von der Leyen announced a deal that could free up over \u20ac16 billion in EU funds fo..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Laos: Five people rescued from flooded cave",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/laos-five-people-rescued-from-flooded-cave/a-77352441?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Seven people who entered the cave last week were trapped inside by flash flooding that blocked their way. Five of them found some days ago have been f..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Russia recalls Armenia ambassador over EU ties",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/russia-recalls-armenia-ambassador-over-eu-ties/a-77354081?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "It comes a day after Putin warned Armenia against seeking EU membership and alluded to the \"Ukrainian scenario.\" Yerevan historically has strong ties ..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-chaos-possible-as-demo-blocks-alpine-pass/live-77353393?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A demonstration is planned at a major pass through the Alps, with huge traffic disruption possible. And a German minister is looking to crack down on ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: Myanmar president arrives in Delhi to boost ties",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-myanmar-president-arrives-in-delhi-to-boost-ties/live-77353482?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Myanmar President Min Aung Hlaing is on a five-day visit to India, where he will hold talks with Prime Minister Narendra Modi. Meanwhile, Karnataka is..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: US says ready to resume war if no deal reached",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-us-says-ready-to-resume-war-if-no-deal-reached/live-77353339?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The United States is \"more than capable\" of resuming a war with Iran after President Donald Trump said a touted peace deal must include his red lines...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "International aid cuts complicate Congo's Ebola epidemic",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/international-aid-cuts-complicate-congo-s-ebola-epidemic/a-77320865?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The scaling back of development aid has contributed to the inability to contain the Ebola outbreak in the Democratic Republic of Congo. German organiz..."
     },
     {
         "source": "Leafly",
