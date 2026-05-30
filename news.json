@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "As Ebola scourges Congo, experts warn of link to eating wild animals",
-        "image": "https://media.zenfs.com/en/ap.org/426d0f9c09480bfe214ef8491e3e2ac0",
-        "link": "https://www.yahoo.com/news/world/articles/ebola-scourges-congo-experts-warn-041419405.html",
+        "title": "FACT FOCUS: Trump says Obama and Biden spent 'hundreds of millions' on reflecting pool. They did not",
+        "image": "https://media.zenfs.com/en/ap.org/8d4831ce83b0459c65e1bd76e8bae9c8",
+        "link": "https://www.yahoo.com/news/politics/articles/fact-focus-trump-says-obama-184633426.html",
         "summary": "..."
     },
     {
@@ -71,10 +71,31 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Malta votes in snap parliamentary election",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/malta-votes-in-snap-parliamentary-election/a-77353620?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Voting is underway in Malta's parliamentary election. Opinion polls show Prime Minister Robert Abela on course for reelection in the shadow of the Mid..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Chaos possible as demo blocks Alpine pass",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-chaos-possible-as-demo-blocks-alpine-pass/live-77353393?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A demonstration is planned at a major pass through the Alps, with huge traffic disruption possible. And a German minister is looking to crack down on ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Myanmar president arrives in Delhi to boost ties",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-myanmar-president-arrives-in-delhi-to-boost-ties/live-77353482?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Myanmar President Min Aung Hlaing is on a five-day visit to India, where he will hold talks with Prime Minister Narendra Modi. Meanwhile, Karnataka is..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Iran war: US says ready to resume war if no deal reached",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-us-says-ready-to-resume-war-if-no-deal-reached/live-77353339?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The United States says it is \"more than capable\" of resuming a war with Iran after President Donald Trump said a touted peace deal must include his re..."
+        "summary": "The United States is \"more than capable\" of resuming a war with Iran after President Donald Trump said a touted peace deal must include his red lines...."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/international-aid-cuts-complicate-congo-s-ebola-epidemic/a-77320865?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The scaling back of development aid has contributed to the inability to contain the Ebola outbreak in the Democratic Republic of Congo. German organiz..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Three Latvian mountaineers die on North America's tallest peak",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/three-latvian-mountaineers-die-on-north-america-s-tallest-peak/a-77353020?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Three climbers fell to their deaths near a perilous pass on Mount McKinley in the US's Denali National Park and Preserve. One mountaineer was rescued...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Shangri-La Dialogue: Hegseth says 'no state, including China,' must dominate Asia",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/shangri-la-dialogue-hegseth-says-no-state-including-china-must-dominate-asia/a-77353001?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US Defense Secretary of Pete Hegseth expressed alarm about China's military buildup in Asia. He also said the United States expects its allies and par..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Top US and Cuban generals meet at Guantanamo Bay",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/top-us-and-cuban-generals-meet-at-guantanamo-bay/a-77352669?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Amid the deterioration of relations between the United States and Cuba, a top US general held a rare meeting with senior Cuban military officials at G..."
     },
     {
         "source": "Leafly",
