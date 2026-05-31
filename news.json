@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Hemp-Based Plastic Shows Promise As Environmentally Friendly Alternative To Traditional Packaging Materials, Study Finds",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/hemp-based-plastic-shows-promise-as-environmentally-friendly-alternative-to-traditional-packaging-materials-study-finds/",
+        "summary": "<p>CBD is widely used for personal wellness. In the not-so-distant future, it could be used for environmental wellness. By Phillip... <a class=\"small ..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Tennessee Will Make It Illegal To Sell THCA And Other Hemp Products Starting On July 1 Under Newly Finalized Rules",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/tennessee-will-make-it-illegal-to-sell-thca-and-other-hemp-products-starting-on-july-1-under-newly-finalized-rules/",
@@ -28,13 +35,6 @@
         "summary": "<p>More than a quarter of the gun permit applications that Hawaii officials denied last year were due to the applicants\u2019... <a class=\"small font-monts..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Marijuana Components Have \u2018Consistent\u2019 Anti-Tumor Effects In Glioblastoma And Other Cancers, Scientific Review Shows",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/marijuana-components-have-consistent-anti-tumor-effects-in-glioblastoma-and-other-cancers-scientific-review-shows/",
-        "summary": "<p>Components of marijuana show \u201cconsistent and statistically significant anti-tumor effects\u201d in certain types of cancer, including glioblastoma and b..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Trump Interior Secretary Doug Burgum says America's 250th will be 'nonpartisan'",
         "image": "https://s.yimg.com/uu/api/res/1.2/QoBnBziCaLUsuLxtyoPuNw--~B/aD0zNzQ0O3c9NTYxNjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/0db66908-79ae-4b32-b694-349f02cc6977",
@@ -43,16 +43,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Sen. Booker says he's 'absolutely expecting' more Republican opposition to Trump",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/59ae77dee12413cc0c3bd59f59912be5",
-        "link": "https://www.yahoo.com/news/politics/articles/sen-booker-says-hes-absolutely-154335218.html",
+        "title": "Girl, 15, dies after swimming at beach",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/9ef53fad6ba3063551e885a35f060d5d",
+        "link": "https://www.yahoo.com/news/us/articles/girl-15-dies-swimming-beach-114313717.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Girl, 15, dies after swimming at beach",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/9ef53fad6ba3063551e885a35f060d5d",
-        "link": "https://www.yahoo.com/news/us/articles/girl-15-dies-swimming-beach-114313717.html",
+        "title": "Sen. Booker says he's 'absolutely expecting' more Republican opposition to Trump",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/59ae77dee12413cc0c3bd59f59912be5",
+        "link": "https://www.yahoo.com/news/politics/articles/sen-booker-says-hes-absolutely-154335218.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/fortune_175/8a8b6581402f16ef62b902bd7ffeb117",
         "link": "https://finance.yahoo.com/economy/policy/articles/surging-treasury-yields-expose-brutal-070000258.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany\u2019s thriving Alevi community",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-s-thriving-alevi-community/a-77337130?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Alevis make up the fourth largest religious community in Germany today. What are the main tenets of their faith? And how are they preserving their..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/space-race-why-portugal-is-reaching-for-the-stars/a-77303795?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A spaceport is being built on a small Portuguese island in the Atlantic. Is Portugal on the verge of becoming a space nation?..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Middle East: Israel captures key fortress amid Lebanon push",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/middle-east-israel-captures-key-fortress-amid-lebanon-push/live-77353339?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Israeli troops have captured the strategically important Beaufort Castle in southern Lebanon after heavy clashes with Hezbollah. Meanwhile, Trump has ..."
     },
     {
         "source": "Leafly",
