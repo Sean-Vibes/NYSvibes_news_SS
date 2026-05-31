@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Indonesians mark 20 years since mud volcano eruption swallowed up entire communities in East Java",
-        "image": "https://media.zenfs.com/en/ap.org/7eccb5405e603dfefc9ab5360c2d27ad",
-        "link": "https://www.yahoo.com/news/world/articles/residents-mark-20th-anniversary-indonesia-094231802.html",
+        "title": "UnitedHealthcare to remove prior insurance approval requirements for nearly two-thirds of pediatric services",
+        "image": "https://media.zenfs.com/en/reuters.com/d8178c9cbe75c39995fec28fc09a48e3",
+        "link": "https://www.yahoo.com/news/us/articles/unitedhealthcare-remove-prior-insurance-approval-120858512.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Skeleton unearthed near Nancy Guthrie search site believed to be up to 1,000 years old, expert says",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/f679c983ce2b837b091e3ee5064a1f26",
-        "link": "https://www.yahoo.com/news/science/articles/skeleton-unearthed-near-nancy-guthrie-100051544.html",
+        "title": "Surging Treasury yields expose a brutal truth: America has no margin for error on its $39 trillion debt",
+        "image": "https://media.zenfs.com/en/fortune_175/8a8b6581402f16ef62b902bd7ffeb117",
+        "link": "https://finance.yahoo.com/economy/policy/articles/surging-treasury-yields-expose-brutal-070000258.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "UnitedHealthcare to remove prior insurance approval requirements for nearly two-thirds of pediatric services",
-        "image": "https://media.zenfs.com/en/reuters.com/d8178c9cbe75c39995fec28fc09a48e3",
-        "link": "https://www.yahoo.com/news/us/articles/unitedhealthcare-remove-prior-insurance-approval-120858512.html",
+        "title": "Senate Republicans face a political knife-edge over Trump's 'anti-weaponization' fund",
+        "image": "https://media.zenfs.com/en/reuters.com/da6da2ddea1586bfd541f0b77526f4a5",
+        "link": "https://www.yahoo.com/news/politics/articles/senate-republicans-face-political-knife-100203247.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Powerful Gas Explosion in Dallas Apartment Building Kills 3",
-        "image": "https://media.zenfs.com/en/nbcu_713/87663c764355f2f5948a832a4a9d07c5",
-        "link": "https://www.yahoo.com/news/videos/powerful-gas-explosion-dallas-apartment-112737191.html",
+        "title": "DOJ Launches Criminal Probe Into Trump Accuser E. Jean Caroll",
+        "image": "https://media.zenfs.com/en/nbcu_713/d0df7f702addf2bd8e3312267b9f3aee",
+        "link": "https://www.yahoo.com/news/videos/doj-launches-criminal-probe-trump-120848905.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Malta's Labour Party wins historic fourth term: preliminary results",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/malta-s-labour-party-wins-historic-fourth-term-preliminary-results/a-77362880?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Prime Minister Robert Abela, who campaigned on the strength of the economy, had been widely expected to win the vote...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Japan and China trade accusations at Shangri-La Dialogue",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/japan-and-china-trade-accusations-at-shangri-la-dialogue/a-77362050?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Defense Minister Shinjiro Koizumi has strongly rejected China's claim that Japan is moving toward \u201cneo-militarism.\u201d He accused Beijing of rapidly armi..."
     },
     {
         "source": "Deutsche Welle",
@@ -85,24 +99,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "India news: BrahMos missile deal signed with Vietnam",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-brahmos-missile-deal-signed-with-vietnam/live-77361781?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "India's defense secretary says a deal has been signed to \u200csupply Vietnam with BrahMos supersonic cruise missiles. Meanwhile, retail inflation could hi..."
-    },
-    {
-        "source": "Deutsche Welle",
         "title": "Germany news: Most expect AfD state premier after elections",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-most-expect-afd-state-premier-after-elections/live-77353393?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Most people in Germany expect a premier from the far-right AfD to lead at least one state after elections in the autumn, a survey has found. The Brenn..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Goodbye, Norma Jeane: How Marilyn Monroe changed Hollywood",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/goodbye-norma-jeane-how-marilyn-monroe-changed-hollywood/a-77342887?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Long seen primarily as a sex symbol, Marilyn Monroe is now viewed as an early advocate for women in Hollywood. On the 100th anniversary of her birth, ..."
     },
     {
         "source": "Leafly",
