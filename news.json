@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Syria's Sharaa holds phone call with Trump, Syrian presidency says",
-        "image": "https://media.zenfs.com/en/reuters.com/0a9ecac75354613efc80fbc551963b92",
-        "link": "https://www.yahoo.com/news/articles/syrias-sharaa-holds-phone-call-190531673.html",
+        "title": "Trump Interior Secretary Doug Burgum says America's 250th will be 'nonpartisan'",
+        "image": "https://s.yimg.com/uu/api/res/1.2/QoBnBziCaLUsuLxtyoPuNw--~B/aD0zNzQ0O3c9NTYxNjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/0db66908-79ae-4b32-b694-349f02cc6977",
+        "link": "https://www.yahoo.com/news/politics/article/trump-interior-secretary-doug-burgum-says-americas-250th-will-be-nonpartisan-150609685.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump Interior Secretary Doug Burgum says America's 250th will be 'nonpartisan'",
-        "image": "https://s.yimg.com/uu/api/res/1.2/QoBnBziCaLUsuLxtyoPuNw--~B/aD0zNzQ0O3c9NTYxNjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/0db66908-79ae-4b32-b694-349f02cc6977",
-        "link": "https://www.yahoo.com/news/politics/article/trump-interior-secretary-doug-burgum-says-americas-250th-will-be-nonpartisan-150609685.html",
+        "title": "Mike Pence calls DOJ anti-weaponization fund \u2018deeply offensive\u2019 and \u2018bad idea\u2019",
+        "image": "https://media.zenfs.com/en/nbcu_713/e3d7e4d71e613f4a32fe187819226e6d",
+        "link": "https://www.yahoo.com/news/videos/mike-pence-calls-doj-anti-133606852.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/us.abcnews.go.com/59ae77dee12413cc0c3bd59f59912be5",
         "link": "https://www.yahoo.com/news/politics/articles/sen-booker-says-hes-absolutely-154335218.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Most expect AfD state premier after elections",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-most-expect-afd-state-premier-after-elections/live-77353393?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Most people in Germany expect a premier from the far-right AfD to lead at least one state after elections in the autumn, a survey has found. The Brenn..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "New York: Mayor Mamdani skips annual Israel Day Parade",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/new-york-mayor-mamdani-skips-annual-israel-day-parade/a-77368652?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "In a break from decades of political tradition, New York City Mayor Zohran Mamdani did not attend the annual parade celebrating Israel...."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/myanmar-dozens-dead-in-explosives-storage-blast-in-rebel-controlled-area/a-77366022?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "An explosion in northeastern Myanmar killed dozens of people in an area controlled by rebels. Preliminary reports suggest that the blast occurred at a..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Colombia: Polls open in tight presidential election",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/colombia-polls-open-in-tight-presidential-election/a-77365446?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Surveys are predicting a close, three-way race between a veteran leftist candidate, a right-wing senator and an independent businessman, which is like..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Space race: Why Portugal is reaching for the stars",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/space-race-why-portugal-is-reaching-for-the-stars/a-77303795?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A spaceport is being built on a small Portuguese island in the Atlantic. Is Portugal on the verge of becoming a space nation?..."
     },
     {
         "source": "Leafly",
