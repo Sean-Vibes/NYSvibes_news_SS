@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former head of China's 'kung fu' temple sentenced to 24 years, state media reports",
-        "image": "https://media.zenfs.com/en/reuters.com/a82f1b22356b8cb6a78528d9b1642e4a",
-        "link": "https://www.yahoo.com/news/world/articles/former-shaolin-temples-head-sentenced-120419453.html",
+        "title": "Indonesians mark 20 years since mud volcano eruption swallowed up entire communities in East Java",
+        "image": "https://media.zenfs.com/en/ap.org/7eccb5405e603dfefc9ab5360c2d27ad",
+        "link": "https://www.yahoo.com/news/world/articles/residents-mark-20th-anniversary-indonesia-094231802.html",
         "summary": "..."
     },
     {
@@ -71,6 +71,20 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Ukraine: IAEA seeks access to Zaporizhzhia nuclear plant after reported drone strike",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-iaea-seeks-access-to-zaporizhzhia-nuclear-plant-after-reported-drone-strike/a-77361296?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Russia claims that a Ukrainian drone struck the Zaporizhzhia nuclear plant. Ukraine has denied the accusation. The International Atomic Energy Agency ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Venezuela opposition candidate Gonzalez urges new elections",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/venezuela-opposition-candidate-gonzalez-urges-new-elections/a-77361030?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Venezuelan former opposition candidate Edmundo Gonzalez Urrutia called for fresh presidential elections in Venezuela. The push comes around five month..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Trump says he'll replace artists who backed out of concert with himself",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/trump-says-he-ll-replace-artists-who-backed-out-of-concert-with-himself/a-77360698?maca=en-rss-en-all-1573-xml-mrss",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/psg-s-team-of-talents-retain-champions-league-title/a-77360206?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Paris Saint-Germain were unable to score from open play against a resilient Arsenal but won their second successive title on penalties. Luis Enrique h..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Turkey: Ousted CHP leader draws thousands for Ankara rally",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/turkey-ousted-chp-leader-draws-thousands-for-ankara-rally/a-77359342?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The opposition party and its supporters say a court ruling that ousted Ozgur Ozel is politically motivated to ensure he can't challenge President Rece..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Film funding bill to support blockbusters made in Germany",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/film-funding-bill-to-support-blockbusters-made-in-germany/a-77346783?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The German government wants to attract more filmmakers and make the country a 'global player' in on-screen entertainment. A new bill would require med..."
     },
     {
         "source": "Leafly",
