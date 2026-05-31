@@ -36,9 +36,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Putin says it's too early to say if the drone which strayed into Romania was Russian",
-        "image": "https://media.zenfs.com/en/reuters.com/a093c39514d0545336fdeb73beff7f09",
-        "link": "https://www.yahoo.com/news/world/articles/putin-says-too-early-drone-161455884.html",
+        "title": "Trump Interior Secretary Doug Burgum says America's 250th will be 'nonpartisan'",
+        "image": "https://s.yimg.com/uu/api/res/1.2/QoBnBziCaLUsuLxtyoPuNw--~B/aD0zNzQ0O3c9NTYxNjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/0db66908-79ae-4b32-b694-349f02cc6977",
+        "link": "https://www.yahoo.com/news/politics/article/trump-interior-secretary-doug-burgum-says-americas-250th-will-be-nonpartisan-150609685.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Sen. Booker says he's 'absolutely expecting' more Republican opposition to Trump",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/59ae77dee12413cc0c3bd59f59912be5",
+        "link": "https://www.yahoo.com/news/politics/articles/sen-booker-says-hes-absolutely-154335218.html",
         "summary": "..."
     },
     {
@@ -50,24 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Israeli soldiers share rare accounts from Gaza, describing ongoing killings despite the ceasefire",
+        "image": "https://media.zenfs.com/en/ap.org/ce8ecb27bb8e3ecec92de6607dcefbbf",
+        "link": "https://www.yahoo.com/news/world/articles/israeli-soldiers-share-rare-accounts-050935606.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Surging Treasury yields expose a brutal truth: America has no margin for error on its $39 trillion debt",
         "image": "https://media.zenfs.com/en/fortune_175/8a8b6581402f16ef62b902bd7ffeb117",
         "link": "https://finance.yahoo.com/economy/policy/articles/surging-treasury-yields-expose-brutal-070000258.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Senate Republicans face a political knife-edge over Trump's 'anti-weaponization' fund",
-        "image": "https://media.zenfs.com/en/reuters.com/da6da2ddea1586bfd541f0b77526f4a5",
-        "link": "https://www.yahoo.com/news/politics/articles/senate-republicans-face-political-knife-100203247.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Shangri-La conference: Asia-Pacific on path to rearmament",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/shangri-la-conference-asia-pacific-on-path-to-rearmament/a-77366299?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Military budgets are rising worldwide. At the security conference in Singapore, the focus was also on achieving greater security through more weapons ..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Midnight Hammer F-16 pilots flew their non-stealth jets deep into Iran protecting bombers. Then they flew out critically low on fuel.",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/231948650690f4225c8c00934aec9e91",
-        "link": "https://www.yahoo.com/news/us/articles/midnight-hammer-f-16-pilots-093501791.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Myanmar: Dozens dead in explosives storage blast in rebel-controlled area",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/myanmar-dozens-dead-in-explosives-storage-blast-in-rebel-controlled-area/a-77366022?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "An explosion in northeastern Myanmar killed dozens of people in an area controlled by rebels. Preliminary reports suggest that the blast occurred at a..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/middle-east-israel-captures-key-fortress-amid-lebanon-push/live-77353339?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Israeli troops have captured the strategically important Beaufort Castle in southern Lebanon after heavy clashes with Hezbollah. Meanwhile, Trump has ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Malta's Labour Party wins historic fourth term: preliminary results",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/malta-s-labour-party-wins-historic-fourth-term-preliminary-results/a-77362880?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Prime Minister Robert Abela, who campaigned on the strength of the economy, had been widely expected to win the vote...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Japan and China trade accusations at Shangri-La Dialogue",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/japan-and-china-trade-accusations-at-shangri-la-dialogue/a-77362050?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Defense Minister Shinjiro Koizumi has strongly rejected China's claim that Japan is moving toward \u201cneo-militarism.\u201d He accused Beijing of rapidly armi..."
     },
     {
         "source": "Leafly",
