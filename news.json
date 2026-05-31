@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "UnitedHealthcare to remove prior insurance approval requirements for nearly two-thirds of pediatric services",
-        "image": "https://media.zenfs.com/en/reuters.com/d8178c9cbe75c39995fec28fc09a48e3",
-        "link": "https://www.yahoo.com/news/us/articles/unitedhealthcare-remove-prior-insurance-approval-120858512.html",
+        "title": "Former head of China's 'kung fu' temple sentenced to 24 years, state media reports",
+        "image": "https://media.zenfs.com/en/reuters.com/a82f1b22356b8cb6a78528d9b1642e4a",
+        "link": "https://www.yahoo.com/news/world/articles/former-shaolin-temples-head-sentenced-120419453.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Girl, 15, dies after swimming at beach",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/9ef53fad6ba3063551e885a35f060d5d",
+        "link": "https://www.yahoo.com/news/us/articles/girl-15-dies-swimming-beach-114313717.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Israeli soldiers share rare accounts from Gaza, describing ongoing killings despite the ceasefire",
+        "image": "https://media.zenfs.com/en/ap.org/ce8ecb27bb8e3ecec92de6607dcefbbf",
+        "link": "https://www.yahoo.com/news/world/articles/israeli-soldiers-share-rare-accounts-050935606.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Surging Treasury yields expose a brutal truth: America has no margin for error on its $39 trillion debt",
         "image": "https://media.zenfs.com/en/fortune_175/8a8b6581402f16ef62b902bd7ffeb117",
         "link": "https://finance.yahoo.com/economy/policy/articles/surging-treasury-yields-expose-brutal-070000258.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Senate Republicans face a political knife-edge over Trump's 'anti-weaponization' fund",
-        "image": "https://media.zenfs.com/en/reuters.com/da6da2ddea1586bfd541f0b77526f4a5",
-        "link": "https://www.yahoo.com/news/politics/articles/senate-republicans-face-political-knife-100203247.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "DOJ Launches Criminal Probe Into Trump Accuser E. Jean Caroll",
-        "image": "https://media.zenfs.com/en/nbcu_713/d0df7f702addf2bd8e3312267b9f3aee",
-        "link": "https://www.yahoo.com/news/videos/doj-launches-criminal-probe-trump-120848905.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Middle East: Israel captures key fortress amid Lebanon push",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/middle-east-israel-captures-key-fortress-amid-lebanon-push/live-77353339?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Israeli troops have captured the strategically important Beaufort Castle in southern Lebanon after heavy clashes with Hezbollah. Meanwhile, Trump has ..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/swing-youth-in-nazi-germany-jazz-was-an-act-of-defiance/a-77143547?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Nazis denounced jazz music as \"degenerate art,\" despite its widespread popularity in Germany. As the Nazis clamped down on expression, groups of j..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Most expect AfD state premier after elections",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-most-expect-afd-state-premier-after-elections/live-77353393?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Most people in Germany expect a premier from the far-right AfD to lead at least one state after elections in the autumn, a survey has found. The Brenn..."
     },
     {
         "source": "Leafly",
