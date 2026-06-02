@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Concerns mount that Belarus could be a launchpad for a new Russian offensive in Ukraine",
-        "image": "https://media.zenfs.com/en/ap.org/330b528220f1de4ae69945e68f38752f",
-        "link": "https://www.yahoo.com/news/world/articles/concerns-mount-belarus-could-launchpad-040310360.html",
+        "title": "Zelenskiy says Ukrainian military can hit Russian logistics throughout occupied areas",
+        "image": "https://media.zenfs.com/en/reuters.com/69d95d3ce30a7fadf018c76bc25004e7",
+        "link": "https://www.yahoo.com/news/articles/zelenskiy-says-ukrainian-military-hit-182043736.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,52 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "After issuing more than $20 billion in tariff refunds, the Trump administration is now pursuing legal action to bring the process to a standstill",
-        "image": "https://media.zenfs.com/en/fortune_175/95255e3953924a5d70ea11264ed42166",
-        "link": "https://finance.yahoo.com/economy/policy/articles/issuing-more-20-billion-tariff-170059984.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Venezuela\u2019s ruling party unity cracks as Delcy Rodr\u00edguez shifts Ch\u00e1vez-era policies",
-        "image": "https://media.zenfs.com/en/ap.org/b8eb2829d31c1ea01d609a6cde5e06fd",
-        "link": "https://www.yahoo.com/news/politics/articles/venezuela-ruling-party-unity-cracks-081024477.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Paralympic shot putter died in 'accident waiting to happen'",
         "image": "https://media.zenfs.com/en/bbc_us_articles_995/ba78abf649f0b3f2777d6ef8dcdbc0a5",
         "link": "https://sports.yahoo.com/articles/paralympic-shot-putter-died-accident-141343106.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump Interior Secretary Doug Burgum says America's 250th will be 'nonpartisan'",
+        "image": "https://s.yimg.com/uu/api/res/1.2/QoBnBziCaLUsuLxtyoPuNw--~B/aD0zNzQ0O3c9NTYxNjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-05/0db66908-79ae-4b32-b694-349f02cc6977",
+        "link": "https://www.yahoo.com/news/politics/article/trump-interior-secretary-doug-burgum-says-americas-250th-will-be-nonpartisan-150609685.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Report: Trump upbraids Netanyahu over Lebanon, asking, \u2018What the f\u2014 are you doing?\u2019",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/b8802ff0a16379f71846d8af556addf3",
+        "link": "https://www.yahoo.com/news/politics/articles/report-trump-upbraids-netanyahu-over-231846583.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Denmark's Frederiksen secures third term as prime minister",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/denmark-s-frederiksen-secures-third-term-as-prime-minister/a-77383696?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After her party's weakest showing since 1903, Mette Frederiksen spent months negotiating a coalition to stay in power...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Trump promises calm in Lebanon with eyes on peace with Iran",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-promises-calm-in-lebanon-with-eyes-on-peace-with-iran/a-77383546?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US president has said both Israel and Hezbollah have agreed to tone down the fighting. Iran has suspended negotiations as it insists there can be ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ethiopia goes electric following gas car ban",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ethiopia-goes-electric-following-gas-car-ban/a-77350158?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Electric vehicles have taken off in Ethiopia. Key to the shift: a world-first ban on importing fossil fuel-powered vehicles...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "EU lawmakers reach deal on 'return hubs' for rejected asylum seekers",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eu-lawmakers-reach-deal-on-return-hubs-for-rejected-asylum-seekers/a-77383177?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The controversial deal involves sending migrants whose asylum applications have been rejected to third party countries. It still requires formal appro..."
     },
     {
         "source": "Deutsche Welle",
@@ -75,34 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/alphabet-plans-80-billion-stock-sale-as-ai-spending-surges/a-77383080?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Google parent company's announcement comes on the same day as Anthropic said it had confidentially filed paperwork for an initial public offering..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "London Tube workers go on two-day strike",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/london-tube-workers-go-on-two-day-strike/a-77382746?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A strike in London's Tube will see the closure of two train lines and partial closure of two others, as the union demands better worker condition for ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Serena Williams confirms return to professional tennis",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/serena-williams-confirms-return-to-professional-tennis/a-77381627?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The tennis icon will play doubles tennis at a grass court tournament this month, marking an expected return to the sport...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Refugees and migration: Is Europe closing its doors?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/refugees-and-migration-is-europe-closing-its-doors/a-77380290?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Migration researchers have called on European governments to abandon isolationist policies. But many politicians are not heeding their calls...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Baden-W\u00fcrttemberg restricts smoking in public spaces",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/baden-w\u00fcrttemberg-restricts-smoking-in-public-spaces/a-77380997?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The southwestern German state of Baden-W\u00fcrttemberg has expanded restrictions on smoking in public spaces like outdoor swimming pools, theme parks and ..."
     },
     {
         "source": "Leafly",
