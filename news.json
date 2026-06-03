@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Amendments To Keep Hemp THC Products Federally Legal Won\u2019t Get Votes After Congressional Committee Blocks Them",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/amendments-to-keep-hemp-thc-products-federally-legal-wont-get-votes-after-congressional-committee-blocks-them/",
+        "summary": "<p>A powerful congressional committee is blocking amendments to prevent a scheduled federal ban on hemp THC products from taking effect... <a class=\"s..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Kentucky Governor Expands Medical Marijuana For 15 New Qualifying Conditions, While Saying \u2018It\u2019s Time\u2019 For Broader Decriminalization",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/kentucky-governor-expands-medical-marijuana-for-15-new-qualifying-conditions-while-saying-its-time-for-broader-decriminalization/",
@@ -28,17 +35,17 @@
         "summary": "<p>Louisiana\u2019s governor says he signed a bill that threatens to send people to jail for up to one year if... <a class=\"small font-montserrat font-weig..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Delaying Marijuana Sales In Virginia Isn\u2019t A \u2018Negative,\u2019 Governor Says After Vetoing The Reform",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/delaying-marijuana-sales-in-virginia-isnt-a-negative-governor-says-after-vetoing-the-reform/",
-        "summary": "<p>The governor of Virginia is continuing to try to explain her veto last month of legislation to legalize recreational marijuana... <a class=\"small f..."
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Powerful Iran-backed militias in Iraq say they will start handing in weapons to authorities",
+        "image": "https://media.zenfs.com/en/ap.org/1af9f23a5792c806009772670e42bc6f",
+        "link": "https://www.yahoo.com/news/world/articles/powerful-iran-backed-iraqi-militia-155407071.html",
+        "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US Homeland Security chief sees no need to stop international flight processing at Newark Airport",
-        "image": "https://media.zenfs.com/en/reuters.com/066ddf2b6b1d5b8de121c7cd40dd7c3d",
-        "link": "https://www.yahoo.com/news/articles/us-homeland-security-chief-sees-225349647.html",
+        "title": "Erin Brockovich, the activist who defeated a utility giant and inspired a Julia Roberts film, is pushing data centers to be more transparent",
+        "image": "https://media.zenfs.com/en/fortune_175/0aa84ffdb468af15f7301cd2350b109b",
+        "link": "https://www.yahoo.com/news/us/articles/erin-brockovich-activist-defeated-utility-175600894.html",
         "summary": "..."
     },
     {
@@ -50,24 +57,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Venezuela\u2019s ruling party unity cracks as Delcy Rodr\u00edguez shifts Ch\u00e1vez-era policies",
+        "image": "https://media.zenfs.com/en/ap.org/b8eb2829d31c1ea01d609a6cde5e06fd",
+        "link": "https://www.yahoo.com/news/politics/articles/venezuela-ruling-party-unity-cracks-081024477.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Nancy Guthrie likely targeted by local worker who assumed family was wealthy, says veteran investigator",
         "image": "https://media.zenfs.com/en/fox_news_text_979/ce2fa000ad6d459ae7dffc96256b6114",
         "link": "https://www.yahoo.com/news/us/articles/nancy-guthrie-likely-targeted-local-170835381.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Salmonella risks prompt recalls for chips, pizza and cheese breads sold at Walmart, Costco and other national chains. Here's what you should toss.",
-        "image": "https://s.yimg.com/uu/api/res/1.2/GFuSWlCcF5epNhoyivyy3Q--~B/aD0xNjg4O3c9MzAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/thumb-salmonella_5244.jpg",
-        "link": "https://www.yahoo.com/news/us/article/a-salmonella-outbreak-has-prompted-a-recall-of-potato-chips-popcorn-and-more-heres-what-you-should-toss-185201269.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "World Cup: David Beckham to get Hollywood Walk of Fame star",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/world-cup-david-beckham-to-get-hollywood-walk-of-fame-star/a-77398896?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Former Manchester United and England superstar to be honored for role in \"elevating soccer's profile in America\" ahead of FIFA World Cup...."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Erin Brockovich, the activist who defeated a utility giant and inspired a Julia Roberts film, is pushing data centers to be more transparent",
-        "image": "https://media.zenfs.com/en/fortune_175/0aa84ffdb468af15f7301cd2350b109b",
-        "link": "https://www.yahoo.com/news/us/articles/erin-brockovich-activist-defeated-utility-175600894.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Iran war: US and Iran trade fire amid stalled talks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-us-and-iran-trade-fire-amid-stalled-talks/live-77398874?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US and Iran traded renewed fire in the Persian Gulf in a flareup of tensions on Wednesday. The fighting comes as peace efforts remain stalled...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Spain's Princess Leonor makes history with parachute training, reports say",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/spain-s-princess-leonor-makes-history-with-parachute-training-reports-say/a-77398657?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Princess Leonor of Spain becomes the first Spanish royal to complete a parachuting course as part of her military training, according to Spanish media..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-s-merz-backs-hungary-s-new-pro-eu-course/a-77395755?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "After talks with Hungary's new prime minister, Peter Magyar, German Chancellor Friedrich Merz expects a positive reset in EU relations. Meanwhile, Bud..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "El Nino could push temperatures higher, UN warns",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/el-nino-could-push-temperatures-higher-un-warns/a-77389748?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The World Meteorological Organization says there's a high likelihood of a moderate or possibly strong El Nino weather phenomenon in the coming months...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump appoints Bill Pulte as acting intelligence chief",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-appoints-bill-pulte-as-acting-intelligence-chief/a-77394079?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Pulte will take over the role of acting director of national intelligence after the departure of Tulsi Gabbard. He will be involved in important secur..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Wim Wenders asks: Should movies be re-edited post-release?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/wim-wenders-asks-should-movies-be-re-edited-post-release/a-77390951?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Actress Nastassja Kinski wants Wim Wenders to remove a sexualized scene from his film \"The Wrong Move,\" in which she appeared topless at the age of 13..."
     },
     {
         "source": "Leafly",
