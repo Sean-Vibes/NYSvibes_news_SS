@@ -43,23 +43,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Meta launches enterprise-focused AI 'business agent' to automate daily operations",
-        "image": "https://media.zenfs.com/en/reuters.com/6adc2d72a66df2184c40954ffbe43ad1",
-        "link": "https://finance.yahoo.com/news/meta-launches-enterprise-focused-ai-134243447.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "'The View' erupts after Hostin declares 'I would hold my nose' and vote for scandal-plagued Graham Platner",
         "image": "https://media.zenfs.com/en/fox_news_text_979/c9f12f56e2a1b5920c803e24654ffd85",
         "link": "https://www.yahoo.com/entertainment/tv/articles/view-erupts-hostin-declares-hold-205546854.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "US Homeland Security cancels most pending Noem-era contracts after review",
-        "image": "https://media.zenfs.com/en/reuters.com/ab83c62233b1349322896af4aa7f3ce0",
-        "link": "https://www.yahoo.com/news/politics/articles/us-homeland-security-cancels-most-161406739.html",
         "summary": "..."
     },
     {
@@ -70,39 +56,53 @@
         "summary": "..."
     },
     {
-        "source": "Deutsche Welle",
-        "title": "North Korea unveils nuclear weapons fuel production plant",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/north-korea-unveils-nuclear-weapons-fuel-production-plant/a-77414339?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Kim Jong Un called for North Korea's capacity to produce weapons-grade uranium to grow at an \"exponential rate.\"..."
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Powerful Iran-backed militias in Iraq say they will start handing in weapons to authorities",
+        "image": "https://media.zenfs.com/en/ap.org/1af9f23a5792c806009772670e42bc6f",
+        "link": "https://www.yahoo.com/news/world/articles/powerful-iran-backed-iraqi-militia-155407071.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "US FDA to review AI-based tool to predict drug-related liver damage",
+        "image": "https://media.zenfs.com/en/reuters.com/e703834f7769de9cb1d2b0b9c371388b",
+        "link": "https://www.yahoo.com/news/science/articles/us-fda-review-ai-based-132544450.html",
+        "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Israel, Lebanon renew ceasefire after US-brokered talks",
+        "title": "2026 World Cup: 6 things you need to know",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/israel-lebanon-renew-ceasefire-after-us-brokered-talks/live-77398874?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The agreement comes as hostilities between Israel and Lebanese militants Hezbollah have intensified in recent weeks. It is unclear if the renewed truc..."
+        "link": "https://www.dw.com/en/2026-world-cup-6-things-you-need-to-know/a-77066450?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The 2026 World Cup is to be bigger than all of its predecessors. Whether it will be better is an entirely different question. DW fills you in on what ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Elon Musk's SpaceX aiming to raise $75bn in record IPO",
+        "title": "China bans 4 New Zealand lawmakers after their Taiwan trip",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/elon-musk-s-spacex-aiming-to-raise-75bn-in-record-ipo/a-77414048?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "If completed, the unprecedented IPO would surpass the record $25.6 billion raised by Saudi oil producer Aramco in 2019 and could make Elon Musk the wo..."
+        "link": "https://www.dw.com/en/china-bans-4-new-zealand-lawmakers-after-their-taiwan-trip/a-77416000?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Beijing says it is barring a group of New Zealand lawmakers from entering China for having visited Taiwan in May. It is the first time such a ban has ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Ebola had 'big head-start,' WHO chief Tedros warns",
+        "title": "Iran war: Even a peace deal won't fix energy crunch",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ebola-had-big-head-start-who-chief-tedros-warns/a-77412554?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "World Health Organization chief Tedros Adhanom Ghebreyesus had recently visited the epicenter of the outbreak in the DR Congo. He said the \"virus is a..."
+        "link": "https://www.dw.com/en/iran-war-even-a-peace-deal-won-t-fix-energy-crunch/a-77322623?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The growing energy and supply chain crisis is unlikely to ease even if the US and Iran step back from the brink. Experts warn that reopening the Strai..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany loses vote for UN Security Council seat",
+        "title": "India news: Delhi orders fire safety crackdown after deadly hotel fire",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-loses-vote-for-un-security-council-seat/a-77409955?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Fifteen of the 193 UN member states sit on the UN Security Council. Germany was in competition with Austria and Portugal for two seats in the \"Western..."
+        "link": "https://www.dw.com/en/india-news-delhi-orders-fire-safety-crackdown-after-deadly-hotel-fire/live-77415899?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Hours after a fire at a New Delhi hotel killed 21 people, the establishment's owner has been arrested. Delhi is also launching a fire safety inspectio..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: US House votes to limit Trump's war powers",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-us-house-votes-to-limit-trump-s-war-powers/live-77415738?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US Democrats are sending Trump a \"loud\" message to end the \"deeply unpopular\" Iran war. Meanwhile, a drone strike on Kuwait's airport has killed one p..."
     },
     {
         "source": "Leafly",
