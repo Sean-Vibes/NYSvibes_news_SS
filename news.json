@@ -36,16 +36,30 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Treasury Secretary Scott Bessent refuses to say whether Trump remains exempt from IRS audits",
-        "image": "https://media.zenfs.com/en/ap.org/02b302b8e33927fcbf66fb2985595e10",
-        "link": "https://www.yahoo.com/news/politics/articles/treasury-secretary-scott-bessent-refuses-191942942.html",
+        "title": "Attitudes toward same-sex marriage and transgender issues are shifting, Gallup poll shows",
+        "image": "https://media.zenfs.com/en/ap.org/82f3959f1c1cce22e11db3bb500d6feb",
+        "link": "https://www.yahoo.com/news/politics/articles/decades-rising-support-same-sex-080110084.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hegseth says \u2018see you at SCOTUS\u2019 after appeals court rules Trump admin illegally banned active transgender troops",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/045c5864ba48436d2e7dffc2efc630fc",
-        "link": "https://www.yahoo.com/news/politics/articles/hegseth-says-see-scotus-appeals-024906574.html",
+        "title": "Meta launches enterprise-focused AI 'business agent' to automate daily operations",
+        "image": "https://media.zenfs.com/en/reuters.com/6adc2d72a66df2184c40954ffbe43ad1",
+        "link": "https://finance.yahoo.com/news/meta-launches-enterprise-focused-ai-134243447.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "'The View' erupts after Hostin declares 'I would hold my nose' and vote for scandal-plagued Graham Platner",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/c9f12f56e2a1b5920c803e24654ffd85",
+        "link": "https://www.yahoo.com/entertainment/tv/articles/view-erupts-hostin-declares-hold-205546854.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "US Homeland Security cancels most pending Noem-era contracts after review",
+        "image": "https://media.zenfs.com/en/reuters.com/ab83c62233b1349322896af4aa7f3ce0",
+        "link": "https://www.yahoo.com/news/politics/articles/us-homeland-security-cancels-most-161406739.html",
         "summary": "..."
     },
     {
@@ -56,18 +70,25 @@
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Attitudes toward same-sex marriage and transgender issues are shifting, Gallup poll shows",
-        "image": "https://media.zenfs.com/en/ap.org/82f3959f1c1cce22e11db3bb500d6feb",
-        "link": "https://www.yahoo.com/news/politics/articles/decades-rising-support-same-sex-080110084.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "North Korea unveils nuclear weapons fuel production plant",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/north-korea-unveils-nuclear-weapons-fuel-production-plant/a-77414339?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Kim Jong Un called for North Korea's capacity to produce weapons-grade uranium to grow at an \"exponential rate.\"..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "The Iran War Is Pushing\u00a0the Global Gas Trade Into the Shadows",
-        "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/d8a2bf620fef0ed981bea9745d1b3129",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/iran-war-pushing-global-gas-060005394.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Israel, Lebanon renew ceasefire after US-brokered talks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/israel-lebanon-renew-ceasefire-after-us-brokered-talks/live-77398874?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The agreement comes as hostilities between Israel and Lebanese militants Hezbollah have intensified in recent weeks. It is unclear if the renewed truc..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Elon Musk's SpaceX aiming to raise $75bn in record IPO",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/elon-musk-s-spacex-aiming-to-raise-75bn-in-record-ipo/a-77414048?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "If completed, the unprecedented IPO would surpass the record $25.6 billion raised by Saudi oil producer Aramco in 2019 and could make Elon Musk the wo..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-loses-vote-for-un-security-council-seat/a-77409955?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Fifteen of the 193 UN member states sit on the UN Security Council. Germany was in competition with Austria and Portugal for two seats in the \"Western..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UK Royal Navy helicopter crash leaves 3 dead",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-royal-navy-helicopter-crash-leaves-3-dead/a-77410741?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Prime Minister Keir Starmer said the deaths were \"utterly tragic,\" while the cause of the accident remains unknown...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Tanzania's president visits Russia amid frayed Western ties",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/tanzania-s-president-visits-russia-amid-frayed-western-ties/a-77404375?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "President Samia Suluhu Hassan is on a three-day visit to Russia, traveling with a business delegation. Relations with Western nations have cratered in..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "German hotel apologizes for 'no Jews allowed' message",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/german-hotel-apologizes-for-no-jews-allowed-message/a-77409539?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A Bavarian hotel has apologized after rejecting a booking by an Israeli customer by telling them that \"there are no Jews allowed\" at the hotel...."
     },
     {
         "source": "Leafly",
