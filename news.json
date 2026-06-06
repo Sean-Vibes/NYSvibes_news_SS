@@ -64,10 +64,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Gas prices are falling despite the Iran war. Here's why",
-        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/f00fbd5d6faa983024761e0eba9ec032",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/gas-prices-falling-last-experts-132233565.html",
+        "title": "Universal 'aware of ticket cost pressures'",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/8fc5049b55c0821198964256016d04e4",
+        "link": "https://www.yahoo.com/news/us/articles/universal-aware-ticket-cost-pressures-052318743.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "France: Veterans mark 82th anniversary of D-Day in Normandy",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/france-veterans-mark-82th-anniversary-of-d-day-in-normandy/a-77445246?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The last living World War II veterans have made the journey to France to commemorate the Normandy landings, which mark the beginning of the Allied cam..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Teen Karl to miss World Cup through injury",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-teen-karl-to-miss-world-cup-through-injury/live-77443232?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Bayern Munich's 18-year-old midfielder Lennart Karl sustained an injury during training in Chicago. Meanwhile, politically-motivated crimes have doubl..."
     },
     {
         "source": "Deutsche Welle",
@@ -75,13 +89,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/man-killed-in-shark-attack-off-western-australia/a-77443832?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A diver has died after an attack by a suspected 4.5-meter shark near Michaelmas Island. It is the third fatal \u200cshark attack \u2060in \u2060Australia in three we..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Politically-motivated crimes double in decade",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-politically-motivated-crimes-double-in-decade/live-77443232?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Cases of intimidation, hatred and violence reached an all-time high in 2025, a German newspaper reported. Meanwhile, Germany is to work with Mexico to..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/fujimori-or-sanchez-peru-vote-marks-10-years-of-turmoil/a-77420777?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Sunday's presidential runoff in Peru pits Keiko Fujimori against Roberto Sanchez in an election marked by social tension, rising crime and declining c..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pope Leo to focus on immigration, social justice in Spain",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pope-leo-to-focus-on-immigration-social-justice-in-spain/a-77443185?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Pope Leo XIV begins a weeklong trip to Spain, turning papal attention back to Europe and its Christian roots. The pope will also meet with some victim..."
     },
     {
         "source": "Leafly",
