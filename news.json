@@ -43,6 +43,13 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Who can buy shares in Elon Musk's SpaceX?",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/eb2c228c4724a2677401df4f0aac1846",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/buy-shares-elon-musks-spacex-151429250.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Prosecutor wants to charge 14-year-old as adult after allegedly murdering business school graduate",
         "image": "https://media.zenfs.com/en/fox_news_text_979/fafa03d839eba1d7ae780af9bda12960",
         "link": "https://www.yahoo.com/news/us/articles/prosecutor-wants-to-charge-14-year-old-as-adult-after-allegedly-murdering-business-school-graduate-145110527.html",
@@ -50,24 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Missing Auburn student found dead in Japan, mother says",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/833f90cc76487f7c1784c1c609a57434",
-        "link": "https://www.yahoo.com/news/world/articles/missing-auburn-student-found-dead-in-japan-mother-says-155434170.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump directs hundreds of millions of dollars to support coal using emergency powers",
-        "image": "https://media.zenfs.com/en/reuters.com/078cacbfa2b647acf5892999049246f4",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-unveil-700-million-coal-162120049.html",
+        "title": "Democrat Xavier Becerra advances to California governor general election, NBC News projects",
+        "image": "https://media.zenfs.com/en/nbcu_713/a84464edbafa5e529af4e6770757f952",
+        "link": "https://www.yahoo.com/news/videos/democrat-xavier-becerra-advances-california-001052835.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Woman gunned down in hail of 70 to 80 bullets in mistaken identity killing: Police",
         "image": "https://media.zenfs.com/en/us.abcnews.go.com/134243e21f1deb131eb9cbca87d2bb91",
-        "link": "https://www.yahoo.com/news/us/articles/innocent-woman-killed-gunmen-fired-133950081.html",
+        "link": "https://www.yahoo.com/news/us/articles/woman-gunned-down-in-hail-of-70-to-80-bullets-in-mistaken-identity-killing-police-195103026.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UK: 6 more charged after violent protest over stabbing death",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/uk-6-more-charged-after-violent-protest-over-stabbing-death/a-77446210?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A total of 11 people have now been charged with violent disorder following the stabbing of a student. UK Prime Minister Starmer has criticized right-w..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine hits St. Petersburg again after Putin rejects talks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-hits-st-petersburg-again-after-putin-rejects-talks/a-77445845?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ukrainian drones targeted St. Petersburg and the surrounding region for a second time after Russian President Putin rejected Ukrainian President Zelen..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/hunger-in-oleshky-ukraine-asks-for-evacuation/a-77395744?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Ukrainian city of Oleshky has been occupied by Russian troops since 2022. Many residents are cut off from the outside world and living in dire con..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "France: Veterans mark 82nd anniversary of D-Day in Normandy",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/france-veterans-mark-82nd-anniversary-of-d-day-in-normandy/a-77445246?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The last living World War II veterans have made the journey to France to commemorate the Normandy landings, which mark the beginning of the Allied cam..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Teen Karl to miss World Cup through injury",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-teen-karl-to-miss-world-cup-through-injury/live-77443232?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Bayern Munich's 18-year-old midfielder Lennart Karl sustained an injury during training in Chicago. Meanwhile, politically motivated crimes have doubl..."
     },
     {
         "source": "Leafly",
