@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Truck breakdown in Niger strands passengers and leaves at least 49 dead in the Sahara Desert",
-        "image": "https://media.zenfs.com/en/ap.org/64111cedfd3d038f6693fefc6ff226ac",
-        "link": "https://www.yahoo.com/news/world/articles/truck-breakdown-niger-strands-passengers-121245487.html",
+        "title": "'Top Gun: Maverick' actor James Handy stabbed to death in L.A.; girlfriend's son is arrested",
+        "image": "https://s.yimg.com/uu/api/res/1.2/mWo9yZIUZ0w2_wG5zGM41Q--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/james-handy_0730.jpg",
+        "link": "https://www.yahoo.com/news/us/article/top-gun-maverick-actor-james-handy-stabbed-to-death-in-la-girlfriends-son-is-arrested-091453918.html",
         "summary": "..."
     },
     {
@@ -71,10 +71,24 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Man killed in shark attack off Western Australia",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/man-killed-in-shark-attack-off-western-australia/a-77443832?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A diver has died after an attack by a suspected 4.5-meter shark near Michaelmas Island. It is the third fatal \u200cshark attack \u2060in \u2060Australia in three we..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Politically-motivated crimes double in decade",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-politically-motivated-crimes-double-in-decade/live-77443232?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Cases of intimidation, hatred and violence reached an all-time high in 2025, a German newspaper reported. Meanwhile, Germany is to work with Mexico to..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "India news: 'Cockroach' party holds protest at Jantar Mantar",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-news-cockroach-party-holds-protest-at-jantar-mantar/live-77443229?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "\"Cockroach\" party founder Abhijeet Dipke is demanding the resignation of Education Minister Dharmendra Pradhan. Meanwhile, India is batting against Af..."
+        "summary": "\"Cockroach\" party founder Abhijeet Dipke is demanding the resignation of Education Minister Dharmendra Pradhan. Meanwhile, India has named teen Vaibha..."
     },
     {
         "source": "Deutsche Welle",
@@ -88,21 +102,7 @@
         "title": "Pope Leo to focus on immigration, social justice in Spain",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/pope-leo-to-focus-on-immigration-social-justice-in-spain/a-77443185?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Pope Leo XIV will begin a weeklong trip to Spain, turning papal attention back to Europe and its Christian roots. The pope will also meet with some vi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "As hot summer, blackouts loom, Iraq looks to solar power",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/as-hot-summer-blackouts-loom-iraq-looks-to-solar-power/a-77438162?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "With so much sunlight, Iraq is very well-positioned to use solar power to help fix its annual summer electricity crisis. So why is it that Iraq's gove..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hantavirus: Scientists head to western Argentina to trace outbreak source",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hantavirus-scientists-head-to-western-argentina-to-trace-outbreak-source/a-77442811?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Argentine and US scientists will test rodents in Mendoza as investigators try to trace the source of a hantavirus outbreak that killed three people...."
+        "summary": "Pope Leo XIV begins a weeklong trip to Spain, turning papal attention back to Europe and its Christian roots. The pope will also meet with some victim..."
     },
     {
         "source": "Leafly",
