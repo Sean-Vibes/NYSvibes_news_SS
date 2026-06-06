@@ -57,17 +57,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Copilot of United jet that struck a light pole realized flight was low, but not in time, report says",
-        "image": "https://media.zenfs.com/en/ap.org/f03fa727b10607568ce596477fab595f",
-        "link": "https://www.yahoo.com/news/us/articles/copilot-united-jet-struck-light-192508898.html",
+        "title": "Truck breakdown in Niger strands passengers and leaves at least 49 dead in the Sahara Desert",
+        "image": "https://media.zenfs.com/en/ap.org/64111cedfd3d038f6693fefc6ff226ac",
+        "link": "https://www.yahoo.com/news/world/articles/truck-breakdown-niger-strands-passengers-121245487.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Drink-driving GP suspended for further six months",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/028c159cf59870a3de45b920534e6469",
-        "link": "https://www.yahoo.com/news/us/articles/drink-driving-gp-suspended-further-080556312.html",
+        "title": "Gas prices are falling despite the Iran war. Here's why",
+        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/f00fbd5d6faa983024761e0eba9ec032",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/gas-prices-falling-last-experts-132233565.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: 'Cockroach' party holds protest at Jantar Mantar",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-cockroach-party-holds-protest-at-jantar-mantar/live-77443229?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "\"Cockroach\" party founder Abhijeet Dipke is demanding the resignation of Education Minister Dharmendra Pradhan. Meanwhile, India is batting against Af..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Fujimori or Sanchez? Peru vote marks 10 years of turmoil",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/fujimori-or-sanchez-peru-vote-marks-10-years-of-turmoil/a-77420777?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Sunday's presidential runoff in Peru pits Keiko Fujimori against Roberto Sanchez in an election marked by social tension, rising crime and declining c..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Pope Leo to focus on immigration, social justice in Spain",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/pope-leo-to-focus-on-immigration-social-justice-in-spain/a-77443185?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Pope Leo XIV will begin a weeklong trip to Spain, turning papal attention back to Europe and its Christian roots. The pope will also meet with some vi..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "As hot summer, blackouts loom, Iraq looks to solar power",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/as-hot-summer-blackouts-loom-iraq-looks-to-solar-power/a-77438162?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "With so much sunlight, Iraq is very well-positioned to use solar power to help fix its annual summer electricity crisis. So why is it that Iraq's gove..."
     },
     {
         "source": "Deutsche Welle",
@@ -75,34 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/hantavirus-scientists-head-to-western-argentina-to-trace-outbreak-source/a-77442811?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Argentine and US scientists will test rodents in Mendoza as investigators try to trace the source of a hantavirus outbreak that killed three people...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Middle East: Iran says targeted US bases in Gulf",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/middle-east-iran-says-targeted-us-bases-in-gulf/live-77442602?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Kuwait reported intercepting drones while Bahrain sounded air sirens. This came after the US said it shot down Iranian drones, and attacked radar site..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nigeria moves to repatriate 1,000 citizens from South Africa",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nigeria-moves-to-repatriate-1-000-citizens-from-south-africa/a-77442548?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The governments of Nigeria and Ghana are offering to fly citizens home from South Africa after a spate of anti-migrant attacks...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "EU leaders at Balkan summit optimistic about rapid expansion",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-leaders-at-balkan-summit-optimistic-about-rapid-expansion/a-77432224?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "German Chancellor Merz has said he wants Western Balkan countries to be better integrated into the EU as they seek full membership. Commission head Vo..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany's Iran war lessons after 100 days",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-iran-war-lessons-after-100-days/a-77433873?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The war waged by the US and Israel against Iran has now lasted 100 days. In that time, German Chancellor Friedrich Merz has drastically changed his st..."
     },
     {
         "source": "Leafly",
