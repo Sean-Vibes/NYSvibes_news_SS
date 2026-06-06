@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "People warned frozen food products may be unsafe",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/13fd59802cb9766c6d353b3b7d24d3b4",
-        "link": "https://www.yahoo.com/news/world/articles/people-warned-frozen-food-products-122004013.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "'Top Gun: Maverick' actor James Handy stabbed to death in L.A.; girlfriend's son is arrested",
-        "image": "https://s.yimg.com/uu/api/res/1.2/mWo9yZIUZ0w2_wG5zGM41Q--~B/aD0xMDAwO3c9MTUwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/james-handy_0730.jpg",
-        "link": "https://www.yahoo.com/news/us/article/top-gun-maverick-actor-james-handy-stabbed-to-death-in-la-girlfriends-son-is-arrested-091453918.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Woman gunned down in hail of 70 to 80 bullets in mistaken identity killing: Police",
         "image": "https://media.zenfs.com/en/us.abcnews.go.com/134243e21f1deb131eb9cbca87d2bb91",
         "link": "https://www.yahoo.com/news/us/articles/innocent-woman-killed-gunmen-fired-133950081.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Murder charge dropped for Arkansas sheriff nominee who killed daughter\u2019s alleged abuser",
+        "image": "https://media.zenfs.com/en/ap.org/4da6b6e9215dcf32d710dac27c0fc98b",
+        "link": "https://www.yahoo.com/news/us/articles/murder-charge-dropped-arkansas-sheriff-225005986.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "King 'proud' to see newly formed Gurkha unit",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/fcc1c91e167a140b952248df76e981c5",
+        "link": "https://www.yahoo.com/news/us/articles/king-proud-see-newly-formed-181042829.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "French Open: Andreeva wins first Grand Slam tennis title",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/french-open-andreeva-wins-first-grand-slam-tennis-title/a-77445749?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Russian teenager Mirra Andreeva beat Polish qualifier Maja Chwalinska in the final in Paris. She is the first Russian woman to win a Grand Slam since ..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-teen-karl-to-miss-world-cup-through-injury/live-77443232?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Bayern Munich's 18-year-old midfielder Lennart Karl sustained an injury during training in Chicago. Meanwhile, politically motivated crimes have doubl..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Man killed in shark attack off Western Australia",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/man-killed-in-shark-attack-off-western-australia/a-77443832?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A diver has died after an attack by a suspected 4.5-meter shark near Michaelmas Island. It is the third fatal \u200cshark attack \u2060in \u2060Australia in three we..."
     },
     {
         "source": "Leafly",
