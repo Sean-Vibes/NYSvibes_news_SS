@@ -57,17 +57,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "More than half of Latin Americans deported from US to Congo are now back home",
-        "image": "https://media.zenfs.com/en/ap.org/7302b478f9f982f1c7a54b6bff299fd1",
-        "link": "https://www.yahoo.com/news/us/articles/more-half-latin-americans-deported-154756773.html",
+        "title": "Copilot of United jet that struck a light pole realized flight was low, but not in time, report says",
+        "image": "https://media.zenfs.com/en/ap.org/f03fa727b10607568ce596477fab595f",
+        "link": "https://www.yahoo.com/news/us/articles/copilot-united-jet-struck-light-192508898.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Indonesia to 'refocus' free meal measures on more remote areas, official says",
-        "image": "https://media.zenfs.com/en/reuters.com/e3367bbfb3384553fafebb0da84ca8df",
-        "link": "https://www.yahoo.com/news/articles/indonesia-refocus-free-meal-budget-112049051.html",
+        "title": "Drink-driving GP suspended for further six months",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/028c159cf59870a3de45b920534e6469",
+        "link": "https://www.yahoo.com/news/us/articles/drink-driving-gp-suspended-further-080556312.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Hantavirus: Scientists head to western Argentina to trace outbreak source",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/hantavirus-scientists-head-to-western-argentina-to-trace-outbreak-source/a-77442811?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Argentine and US scientists will test rodents in Mendoza as investigators try to trace the source of a hantavirus outbreak that killed three people...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Middle East: Iran says targeted US bases in Gulf",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/middle-east-iran-says-targeted-us-bases-in-gulf/live-77442602?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Kuwait reported intercepting drones while Bahrain sounded air sirens. This came after the US said it shot down Iranian drones, and attacked radar site..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Nigeria moves to repatriate 1,000 citizens from South Africa",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/nigeria-moves-to-repatriate-1-000-citizens-from-south-africa/a-77442548?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The governments of Nigeria and Ghana are offering to fly citizens home from South Africa after a spate of anti-migrant attacks...."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-s-iran-war-lessons-after-100-days/a-77433873?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The war waged by the US and Israel against Iran has now lasted 100 days. In that time, German Chancellor Friedrich Merz has drastically changed his st..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Finland: 4 suspects in sabotage of undersea cable link with Estonia",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/finland-4-suspects-in-sabotage-of-undersea-cable-link-with-estonia/a-77440069?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Police say they have four suspects, three facing a travel ban, after investigations into the sabotage of two subsea telecommunication cables in the Ba..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How disinformation in Congo is worsening Ebola epidemic",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-disinformation-in-congo-is-worsening-ebola-epidemic/a-77434273?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The deadly Ebola variant isn't the only thing causing concern for health workers in Congo. Rumors and disinformation are hindering efforts to contain ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "North Korea quietly ramps up its nuclear program",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/north-korea-quietly-ramps-up-its-nuclear-program/a-77438060?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "With Washington's attention elsewhere, North Korea has slowly been building up its nuclear weapons program. This week, Kim Jong Un took a publicity to..."
     },
     {
         "source": "Leafly",
