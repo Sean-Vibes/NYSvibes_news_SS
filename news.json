@@ -43,16 +43,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Who can buy shares in Elon Musk's SpaceX?",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/eb2c228c4724a2677401df4f0aac1846",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/buy-shares-elon-musks-spacex-151429250.html",
+        "title": "Prosecutor wants to charge 14-year-old as adult after allegedly murdering business school graduate",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/fafa03d839eba1d7ae780af9bda12960",
+        "link": "https://www.yahoo.com/news/us/articles/prosecutor-wants-to-charge-14-year-old-as-adult-after-allegedly-murdering-business-school-graduate-145110527.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Prosecutor wants to charge 14-year-old as adult after allegedly murdering business school graduate",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/fafa03d839eba1d7ae780af9bda12960",
-        "link": "https://www.yahoo.com/news/us/articles/prosecutor-wants-to-charge-14-year-old-as-adult-after-allegedly-murdering-business-school-graduate-145110527.html",
+        "title": "Woman gunned down in hail of 70 to 80 bullets in mistaken identity killing: Police",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/134243e21f1deb131eb9cbca87d2bb91",
+        "link": "https://www.yahoo.com/news/us/articles/woman-gunned-down-in-hail-of-70-to-80-bullets-in-mistaken-identity-killing-police-195103026.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Former supermodel Carr\u00e9 Otis files Paris rape complaint against ex-Elite boss",
+        "image": "https://media.zenfs.com/en/ap.org/b356db5e8e9a21a938da10b37864c51a",
+        "link": "https://www.yahoo.com/entertainment/celebrity/articles/former-supermodel-carr-otis-files-143513542.html",
         "summary": "..."
     },
     {
@@ -63,11 +70,11 @@
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Woman gunned down in hail of 70 to 80 bullets in mistaken identity killing: Police",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/134243e21f1deb131eb9cbca87d2bb91",
-        "link": "https://www.yahoo.com/news/us/articles/woman-gunned-down-in-hail-of-70-to-80-bullets-in-mistaken-identity-killing-police-195103026.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Germany beat USA before World Cup but injuries cast shadow",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-beat-usa-before-world-cup-but-injuries-cast-shadow/a-77446005?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany\u2019s final match before their World Cup start ended with a 2-1 win. But a tournament-ending injury to rising star Lennart Karl and doubts about v..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/high-functioning-depression-when-success-masks-suffering/a-77358072?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "People with depression don't always feel overwhelmed or struggle to get things done \u2014 some are highly efficient and productive, despite their low mood..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hunger in Oleshky: Ukraine asks for evacuation",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hunger-in-oleshky-ukraine-asks-for-evacuation/a-77395744?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Ukrainian city of Oleshky has been occupied by Russian troops since 2022. Many residents are cut off from the outside world and living in dire con..."
     },
     {
         "source": "Leafly",
