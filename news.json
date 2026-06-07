@@ -36,16 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "South Korean protesters keep calling for re-run of election after ballot shortage",
-        "image": "https://media.zenfs.com/en/reuters.com/1b8b8d156370712893557ee74e4b3d8e",
-        "link": "https://www.yahoo.com/news/politics/articles/south-korean-protesters-keep-calling-105957565.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Donald Trump ends tense 'Meet the Press' interview, walks away from host",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/40f32d948316cb9730a4980619f4719f",
-        "link": "https://www.yahoo.com/news/politics/articles/donald-trump-ends-tense-meet-154541509.html",
+        "title": "Moldova's president pushes for development of interceptor drones",
+        "image": "https://media.zenfs.com/en/reuters.com/f9725ff95ea2d7ae4693638483b48dd6",
+        "link": "https://www.yahoo.com/news/world/articles/moldovas-president-pushes-development-interceptor-200831480.html",
         "summary": "..."
     },
     {
@@ -57,9 +50,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump faces new Republican resistance in Congress as midterm pressures build",
-        "image": "https://media.zenfs.com/en/reuters.com/c46eb5d2ce64243b338388fe93c85b15",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-faces-republican-resistance-congress-130329941.html",
+        "title": "Donald Trump ends tense 'Meet the Press' interview, walks away from host",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/40f32d948316cb9730a4980619f4719f",
+        "link": "https://www.yahoo.com/news/politics/articles/donald-trump-ends-tense-meet-154541509.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump issues pardon to former Republican congressman convicted of insider trading",
+        "image": "https://media.zenfs.com/en/ap.org/e7c56f62eaf4a3e7c807d4bfbca2ea60",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-issued-pardon-former-republican-120515104.html",
         "summary": "..."
     },
     {
@@ -71,10 +71,24 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Has Zelenskyy forfeited an honor \u2014 and Poland's sympathy?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/has-zelenskyy-forfeited-an-honor-and-poland-s-sympathy/a-77412975?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ukrainian President Volodymyr Zelenskyy has sparked outrage with the renaming of an army unit. Polish President Karol Nawrocki wants to strip him of h..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Reports: Iran uses war as cover for increased executions",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/reports-iran-uses-war-as-cover-for-increased-executions/a-77451822?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran already had one of the highest rates of capital punishment in the world. Now, rights groups say, the country is using the current conflict to car..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "French Open: Germany's Zverev wins first ever Grand Slam after defeating Italy's Cobolli",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/french-open-germany-s-zverev-wins-first-ever-grand-slam-after-defeating-italy-s-cobolli/a-77451656?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Alexander Zverev has won his first Grand Slam title at the fourth attempt, beating Flavio Cobolli in an epic Paris final. Cobolli twice leveled the sc..."
+        "summary": "Alexander Zverev has won his first Grand Slam title at the fourth attempt, beating Flavio Cobolli in a five-set epic in Paris. He is the first German ..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/nigeria-360-people-freed-from-boko-haram-mountain-hideout/a-77451416?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Nigeria's army said Boko Haram militants took the hostages from different communities. Kidnappings have become a growing security concern across the W..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Sweden mulls prison for young teens as violent crime rises",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/sweden-mulls-prison-for-young-teens-as-violent-crime-rises/a-77435410?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In the fight against escalating gang crime, Sweden's parliament will vote on plans to hold 13-year-olds criminally responsible and, in serious cases, ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pope Leo in Spain: More than a million line Madrid streets",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pope-leo-in-spain-more-than-a-million-line-madrid-streets/a-77449027?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Huge crowds welcomed Pope Leo XIV to Madrid on Sunday. The pontiff is on a five-day trip around Spain during which he is meeting vulnerable people suc..."
     },
     {
         "source": "Leafly",
