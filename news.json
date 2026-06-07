@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "More than half of Latin Americans deported from US to Congo are now back home",
-        "image": "https://media.zenfs.com/en/ap.org/7302b478f9f982f1c7a54b6bff299fd1",
-        "link": "https://www.yahoo.com/news/us/articles/more-half-latin-americans-deported-154756773.html",
+        "title": "Ukrainian mothers' fight to free children from Russians depicted in new opera",
+        "image": "https://media.zenfs.com/en/reuters.com/3cc7bec90f7e5d389acfdbdb7af9bfcf",
+        "link": "https://www.yahoo.com/news/articles/ukrainian-mothers-fight-free-children-092426084.html",
         "summary": "..."
     },
     {
@@ -57,23 +57,37 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Truck breakdown in Niger strands passengers and leaves at least 49 dead in the Sahara Desert",
-        "image": "https://media.zenfs.com/en/ap.org/64111cedfd3d038f6693fefc6ff226ac",
-        "link": "https://www.yahoo.com/news/world/articles/truck-breakdown-niger-strands-passengers-121245487.html",
+        "title": "More than half of Latin Americans deported from US to Congo are now back home",
+        "image": "https://media.zenfs.com/en/ap.org/7302b478f9f982f1c7a54b6bff299fd1",
+        "link": "https://www.yahoo.com/news/us/articles/more-half-latin-americans-deported-154756773.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Factbox-Peru\u2019s June 7 presidential runoff",
-        "image": "https://media.zenfs.com/en/reuters.com/76688d55a1f3ca5dbf9382a12be98e18",
-        "link": "https://www.yahoo.com/news/articles/factbox-peru-june-7-presidential-102707406.html",
+        "title": "Woman gunned down in hail of 70 to 80 bullets in mistaken identity killing: Police",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/134243e21f1deb131eb9cbca87d2bb91",
+        "link": "https://www.yahoo.com/news/us/articles/woman-gunned-down-in-hail-of-70-to-80-bullets-in-mistaken-identity-killing-police-195103026.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Peru votes for new president \u2014 ninth time in 10 years",
+        "title": "Pope Leo in Spain: More than a million line Madrid streets",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/peru-votes-for-new-president-ninth-time-in-10-years/a-77448140?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/pope-leo-in-spain-more-than-a-million-line-madrid-streets/a-77449027?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Huge crowds welcomed Pope Leo XIV to Madrid on Sunday. The pontiff is on a five-day trip around Spain during which he is meeting vulnerable people suc..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine: Russian drone hits nuclear-fuel storage facility",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-russian-drone-hits-nuclear-fuel-storage-facility/a-77448846?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ukrainian President Volodymyr Zelenskyy has called a Russian attack on a nuclear storage facility near Chernobyl \"vile.\" The UN's nuclear watchdog sai..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Peru votes for new president \u2014 for ninth time in 10 years",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/peru-votes-for-new-president-for-ninth-time-in-10-years/a-77448140?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Peru could soon have its ninth president in 10 years, as voters choose between Keiko Fujimori and Roberto Sanchez in a runoff election overshadowed by..."
     },
     {
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-far-right-afd-makes-push-in-district-elections/live-77443232?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Sunday's district polls are seen as a barometer for elections in eastern states in September. Meanwhile, Chancellor Merz is headed to London to discus..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Middle East: Shaky Israel-Hezbollah ceasefire tested",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/middle-east-shaky-israel-hezbollah-ceasefire-tested/live-77442602?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Two projectiles were shot from Lebanon at Israeli territory, the Israeli military said, challenging the newly announced ceasefire. Follow DW for more...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: CJP demands minister's removal in seven days",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-cjp-demands-minister-s-removal-in-seven-days/live-77447573?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Cockroach Janta Party has given an ultimatum for the removal of Education Minister Dharmendra Pradhan. Meanwhile, the Indonesian foreign minister ..."
     },
     {
         "source": "Leafly",
