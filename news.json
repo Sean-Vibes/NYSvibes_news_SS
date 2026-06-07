@@ -36,16 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump issues pardon to former Republican congressman convicted of insider trading",
-        "image": "https://media.zenfs.com/en/ap.org/e7c56f62eaf4a3e7c807d4bfbca2ea60",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-issued-pardon-former-republican-120515104.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Prosecutor wants to charge 14-year-old as adult after allegedly murdering business school graduate",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/fafa03d839eba1d7ae780af9bda12960",
-        "link": "https://www.yahoo.com/news/us/articles/prosecutor-wants-to-charge-14-year-old-as-adult-after-allegedly-murdering-business-school-graduate-145110527.html",
+        "title": "More than half of Latin Americans deported from US to Congo are now back home",
+        "image": "https://media.zenfs.com/en/ap.org/7302b478f9f982f1c7a54b6bff299fd1",
+        "link": "https://www.yahoo.com/news/us/articles/more-half-latin-americans-deported-154756773.html",
         "summary": "..."
     },
     {
@@ -57,17 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former supermodel Carr\u00e9 Otis files Paris rape complaint against ex-Elite boss",
-        "image": "https://media.zenfs.com/en/ap.org/b356db5e8e9a21a938da10b37864c51a",
-        "link": "https://www.yahoo.com/entertainment/celebrity/articles/former-supermodel-carr-otis-files-143513542.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "We moved our family from the US to Italy for citizenship, then Italy changed the rules. We're not sure where to go next.",
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/8fdca02d5b1c1ed3d7a90616818c0a79",
         "link": "https://www.yahoo.com/lifestyle/articles/moved-family-us-italy-citizenship-103425380.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Judge blocks Trump administration's attempt to link USDA funds to compliance with other policies",
+        "image": "https://media.zenfs.com/en/reuters.com/56ab5f0aaa1706ee4f302b9e204a6288",
+        "link": "https://www.yahoo.com/news/politics/articles/judge-blocks-trump-administrations-attempt-002604334.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "WATCH: Hawley fumes after 4 GOP senators help sink Trump-backed voter ID law",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/7bbff17cedfc9cd2d3ef4727efa242de",
+        "link": "https://www.yahoo.com/news/politics/articles/watch-hawley-fumes-4-gop-080059112.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Nigeria: 360 people freed from Boko Haram mountain hideout",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/nigeria-360-people-freed-from-boko-haram-mountain-hideout/a-77451416?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Nigeria's army said Boko Haram militants took the hostages from different communities. Kidnappings have become a growing security concern across the W..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/peru-votes-for-new-president-for-ninth-time-in-10-years/a-77448140?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Peru could soon have its ninth president in 10 years, as voters choose between Keiko Fujimori and Roberto Sanchez in a runoff election overshadowed by..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Kosovo holds third election in 16 months",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/kosovo-holds-third-election-in-16-months/a-77447536?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Voters in Kosovo are heading to the polls in a snap vote called to resolve a parliamentary stalemate. The country's prolonged political crisis has fur..."
     },
     {
         "source": "Leafly",
