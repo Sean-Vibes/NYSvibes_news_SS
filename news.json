@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Moldova's president pushes for development of interceptor drones",
-        "image": "https://media.zenfs.com/en/reuters.com/f9725ff95ea2d7ae4693638483b48dd6",
-        "link": "https://www.yahoo.com/news/world/articles/moldovas-president-pushes-development-interceptor-200831480.html",
+        "title": "US approves $1.5 billion sale of maritime helicopters to New Zealand",
+        "image": "https://media.zenfs.com/en/reuters.com/5c38369a5e0e1d4d9bb2a684b7020fb1",
+        "link": "https://www.yahoo.com/news/articles/us-approves-1-5-billion-021221893.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "We moved our family from the US to Italy for citizenship, then Italy changed the rules. We're not sure where to go next.",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/8fdca02d5b1c1ed3d7a90616818c0a79",
+        "link": "https://www.yahoo.com/lifestyle/articles/moved-family-us-italy-citizenship-103425380.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump faces new Republican resistance in Congress as midterm pressures build",
+        "image": "https://media.zenfs.com/en/reuters.com/c46eb5d2ce64243b338388fe93c85b15",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-faces-republican-resistance-congress-130329941.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Donald Trump ends tense 'Meet the Press' interview, walks away from host",
         "image": "https://media.zenfs.com/en/usa_today_news_641/40f32d948316cb9730a4980619f4719f",
         "link": "https://www.yahoo.com/news/politics/articles/donald-trump-ends-tense-meet-154541509.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump issues pardon to former Republican congressman convicted of insider trading",
-        "image": "https://media.zenfs.com/en/ap.org/e7c56f62eaf4a3e7c807d4bfbca2ea60",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-issued-pardon-former-republican-120515104.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "We moved our family from the US to Italy for citizenship, then Italy changed the rules. We're not sure where to go next.",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/8fdca02d5b1c1ed3d7a90616818c0a79",
-        "link": "https://www.yahoo.com/lifestyle/articles/moved-family-us-italy-citizenship-103425380.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "SIPRI: With peace elusive, nuclear weapons make a comeback",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/sipri-with-peace-elusive-nuclear-weapons-make-a-comeback/a-77441233?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Governments are increasingly turning to nuclear deterrence. As the global arms buildup intensifies, so do the risks, the Stockholm International Peace..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/german-political-rivals-revive-pizza-connection/a-77395073?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "An unusual forum for exchange between German conservative and Greens politicians emerged 30 years ago in the form of the \"pizza connection.\" Now that ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nigeria: 360 people freed from Boko Haram mountain hideout",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nigeria-360-people-freed-from-boko-haram-mountain-hideout/a-77451416?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Nigeria's army said Boko Haram militants took the hostages from different communities. Kidnappings have become a growing security concern across the W..."
     },
     {
         "source": "Leafly",
