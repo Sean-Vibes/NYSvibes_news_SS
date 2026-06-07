@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukrainian mothers' fight to free children from Russians depicted in new opera",
-        "image": "https://media.zenfs.com/en/reuters.com/3cc7bec90f7e5d389acfdbdb7af9bfcf",
-        "link": "https://www.yahoo.com/news/articles/ukrainian-mothers-fight-free-children-092426084.html",
+        "title": "Trump issues pardon to former Republican congressman convicted of insider trading",
+        "image": "https://media.zenfs.com/en/ap.org/e7c56f62eaf4a3e7c807d4bfbca2ea60",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-issued-pardon-former-republican-120515104.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "More than half of Latin Americans deported from US to Congo are now back home",
-        "image": "https://media.zenfs.com/en/ap.org/7302b478f9f982f1c7a54b6bff299fd1",
-        "link": "https://www.yahoo.com/news/us/articles/more-half-latin-americans-deported-154756773.html",
+        "title": "Former supermodel Carr\u00e9 Otis files Paris rape complaint against ex-Elite boss",
+        "image": "https://media.zenfs.com/en/ap.org/b356db5e8e9a21a938da10b37864c51a",
+        "link": "https://www.yahoo.com/entertainment/celebrity/articles/former-supermodel-carr-otis-files-143513542.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Woman gunned down in hail of 70 to 80 bullets in mistaken identity killing: Police",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/134243e21f1deb131eb9cbca87d2bb91",
-        "link": "https://www.yahoo.com/news/us/articles/woman-gunned-down-in-hail-of-70-to-80-bullets-in-mistaken-identity-killing-police-195103026.html",
+        "title": "We moved our family from the US to Italy for citizenship, then Italy changed the rules. We're not sure where to go next.",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/8fdca02d5b1c1ed3d7a90616818c0a79",
+        "link": "https://www.yahoo.com/lifestyle/articles/moved-family-us-italy-citizenship-103425380.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Sweden mulls prison for young teens as violent crime rises",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/sweden-mulls-prison-for-young-teens-as-violent-crime-rises/a-77435410?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "In the fight against escalating gang crime, Sweden's parliament will vote on plans to hold 13-year-olds criminally responsible and, in serious cases, ..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/kosovo-holds-third-election-in-16-months/a-77447536?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Voters in Kosovo are heading to the polls in a snap vote called to resolve a parliamentary stalemate. The country's prolonged political crisis has fur..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Far-right AfD makes push in district elections",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-far-right-afd-makes-push-in-district-elections/live-77443232?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Sunday's district polls are seen as a barometer for elections in eastern states in September. Meanwhile, Chancellor Merz is headed to London to discus..."
     },
     {
         "source": "Leafly",
