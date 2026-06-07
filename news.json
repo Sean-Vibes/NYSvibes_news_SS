@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Congo warns of 'rapid' community spread of Ebola, 71 new cases confirmed",
-        "image": "https://media.zenfs.com/en/reuters.com/aacf41d3532c0cec7cce8f36442d31bd",
-        "link": "https://www.yahoo.com/news/world/articles/congo-says-number-confirmed-ebola-181359257.html",
+        "title": "South Korean protesters keep calling for re-run of election after ballot shortage",
+        "image": "https://media.zenfs.com/en/reuters.com/1b8b8d156370712893557ee74e4b3d8e",
+        "link": "https://www.yahoo.com/news/politics/articles/south-korean-protesters-keep-calling-105957565.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "British deputy prime minister tells JD Vance he was wrong to blame immigration for teen's murder",
-        "image": "https://media.zenfs.com/en/ap.org/4be801bf51c9299cc020b68e52bcaea1",
-        "link": "https://www.yahoo.com/news/world/articles/british-deputy-prime-minister-tells-133844129.html",
+        "title": "Trump faces new Republican resistance in Congress as midterm pressures build",
+        "image": "https://media.zenfs.com/en/reuters.com/c46eb5d2ce64243b338388fe93c85b15",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-faces-republican-resistance-congress-130329941.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/8fdca02d5b1c1ed3d7a90616818c0a79",
         "link": "https://www.yahoo.com/lifestyle/articles/moved-family-us-italy-citizenship-103425380.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "French Open: Germany's Zverev wins first ever Grand Slam after defeating Italy's Cobolli",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/french-open-germany-s-zverev-wins-first-ever-grand-slam-after-defeating-italy-s-cobolli/a-77451656?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Alexander Zverev has won his first Grand Slam title at the fourth attempt, beating Flavio Cobolli in an epic Paris final. Cobolli twice leveled the sc..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/pope-leo-in-spain-more-than-a-million-line-madrid-streets/a-77449027?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Huge crowds welcomed Pope Leo XIV to Madrid on Sunday. The pontiff is on a five-day trip around Spain during which he is meeting vulnerable people suc..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine: Russian drone hits nuclear-fuel storage facility",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-russian-drone-hits-nuclear-fuel-storage-facility/a-77448846?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukrainian President Volodymyr Zelenskyy has called a Russian attack on a nuclear storage facility near Chernobyl \"vile.\" The UN's nuclear watchdog sai..."
     },
     {
         "source": "Leafly",
