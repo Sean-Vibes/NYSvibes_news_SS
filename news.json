@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "ICE facility in Louisiana reports its second detainee death in less than 2 months",
-        "image": "https://media.zenfs.com/en/ap.org/d4df9718962414bbcdbacc3f233b38e3",
-        "link": "https://www.yahoo.com/news/us/articles/ice-facility-louisiana-reports-second-194738416.html",
+        "title": "Strongest earthquake in nearly 150 years hits off Cuba, shakes Mexico, Florida",
+        "image": "https://media.zenfs.com/en/reuters.com/4a7837b1a46e1f1da42d3a116c4b3b99",
+        "link": "https://www.yahoo.com/news/weather-news/articles/strong-earthquake-strikes-off-cubas-182856105.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Presbyterian Church faces internal revolt after proposing clergy must be in monogamous relationships",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/9d2a6ec46aea6bac7976265ed61428fc",
-        "link": "https://www.yahoo.com/news/politics/articles/presbyterian-church-faces-internal-revolt-120026491.html",
+        "title": "NYC Mayor Zohran Mamdani says the Democratic Party 'lost its focus on working people'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/e5631737bbd57fcfc8e95310169d9bd8",
+        "link": "https://www.yahoo.com/news/politics/articles/nyc-mayor-zohran-mamdani-says-114128786.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Franco-German fighter jet project collapses after industry dispute",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/franco-german-fighter-jet-project-collapses-after-industry-dispute/a-77466897?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The next-generation aircraft project has been scrapped due to company disagreements, dealing a blow to European security cooperation efforts...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/pancreatic-cancer-new-drug-extends-lives-but-isn-t-a-cure/a-77425000?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The newly developed treatment daraxonrasib can double the years left to live for patients with pancreatic cancer \u2014 but it doesn't cure the disease and..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Xi calls China\u2013North Korea ties \"unbreakable,\" but Pyongyang's Russia pivot is testing Beijing's leverage.",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/xi-calls-china-north-korea-ties-unbreakable-but-pyongyang-s-russia-pivot-is-testing-beijing-s-leverage/a-77460576?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Chinese leader's first trip to North Korea in 7 years comes as Pyongyang has moved closer to Russia. Kim Jong Un is likely to seek more access to ..."
     },
     {
         "source": "Leafly",
