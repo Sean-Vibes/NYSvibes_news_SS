@@ -36,9 +36,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russian attacks on Ukraine kill four, as Zelenskiy gains support for ceasefire talks",
-        "image": "https://media.zenfs.com/en/reuters.com/c3a551df5b34a4d3a497763216dc3116",
-        "link": "https://www.yahoo.com/news/articles/three-killed-russian-attacks-ukraines-233049342.html",
+        "title": "Trump says US helicopter pilots who went down in Strait of Hormuz are fine",
+        "image": "https://media.zenfs.com/en/reuters.com/8ed5ff8b45b7626bce4dc15ef49d977c",
+        "link": "https://www.yahoo.com/news/us/articles/trump-says-us-helicopter-pilots-055817051.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump, who has repeatedly called climate change fake, is now threatening Brazil with tariffs over the deforestation of the Amazon",
+        "image": "https://media.zenfs.com/en/fortune_175/2f7da81841a2267fc5afe324dfad7d72",
+        "link": "https://finance.yahoo.com/economy/policy/articles/trump-repeatedly-called-climate-change-202707132.html",
         "summary": "..."
     },
     {
@@ -50,59 +57,52 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Strongest earthquake in nearly 150 years hits off Cuba, shakes Mexico, Florida",
+        "image": "https://media.zenfs.com/en/reuters.com/4a7837b1a46e1f1da42d3a116c4b3b99",
+        "link": "https://www.yahoo.com/news/weather-news/articles/strong-earthquake-strikes-off-cubas-182856105.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "'I was a prisoner in my home': Drug gangs 'cuckooing' hundreds of homes a week, police warn",
         "image": "https://media.zenfs.com/en/bbc_us_articles_995/ed147fb277721492e0e6bb5431b74fbf",
         "link": "https://www.yahoo.com/news/us/articles/prisoner-home-drug-gangs-cuckooing-230155439.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "The Kennedy Center drops 'Trump' branding as Bill Maher\u2019s Twain Award guests are revealed",
-        "image": "https://media.zenfs.com/en/ap.org/01437d79c7ba7c25bf6837a2c70df79f",
-        "link": "https://www.yahoo.com/news/politics/articles/kennedy-center-drops-trump-branding-163720359.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump, who has repeatedly called climate change fake, is now threatening Brazil with tariffs over the deforestation of the Amazon",
-        "image": "https://media.zenfs.com/en/fortune_175/2f7da81841a2267fc5afe324dfad7d72",
-        "link": "https://finance.yahoo.com/economy/policy/articles/trump-repeatedly-called-climate-change-202707132.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Germany news: Smaller cities top out happiness rankings",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-smaller-cities-top-out-happiness-rankings/live-77469738?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Erfurt has been ranked Germany\u2019s happiest city, jumping to the top of a nationwide survey. Meanwhile, German exports have posted a surprise third stra..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Somali referee denied US entry, dropped from FIFA World Cup 2026",
+        "title": "Kenya police fire tear gas at protest against US Ebola center",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/somali-referee-denied-us-entry-dropped-from-fifa-world-cup-2026/a-77467197?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Omar Artan, Africa's top referee in 2025, was set to become the first Somali national to officiate at a FIFA World Cup before being denied entry by US..."
+        "link": "https://www.dw.com/en/kenya-police-fire-tear-gas-at-protest-against-us-ebola-center/a-77469392?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Plans to open a quarantine center for American citizens exposed to Ebola are facing local resistance. Some Kenyans accuse the US government of outsour..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "ICC's Karim Khan suspended over claims of sexual misconduct",
+        "title": "India slams Pakistan at UN over 'Fitna al Hindustan' label",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/icc-s-karim-khan-suspended-over-claims-of-sexual-misconduct/a-77467013?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The chief prosecutor denies any wrongdoing but is suspended pending a vote by ICC member states...."
+        "link": "https://www.dw.com/en/india-slams-pakistan-at-un-over-fitna-al-hindustan-label/live-77468319?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "India lambasted Pakistan at the UN General Assembly over its anti-India rhetoric and its strikes on Afghanistan, which killed hundreds of civilians. F..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "OpenAI files IPO paperwork, eyes stock market debut",
+        "title": "Middle East: Trump again claims Iran peace deal is imminent",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/openai-files-ipo-paperwork-eyes-stock-market-debut/a-77467007?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The AI company behind ChatGPT said it had no date for a listing, but it is joining rival Anthropic in the lineup for the stock market...."
+        "link": "https://www.dw.com/en/middle-east-trump-again-claims-iran-peace-deal-is-imminent/live-77467866?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US President Donald Trump has said there was a \"good chance\" a peace deal in the Iran war could be reached in \"two or three days.\" DW has the latest...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Franco-German fighter jet project collapses after industry dispute",
+        "title": "'Conflict Trends': Civil wars, international fights hit high",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/franco-german-fighter-jet-project-collapses-after-industry-dispute/a-77466897?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The next-generation aircraft project has been scrapped following company disagreements, dealing a blow to European security cooperation efforts...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump DOJ to denaturalize 17 US citizens in rare move",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-doj-to-denaturalize-17-us-citizens-in-rare-move/a-77466080?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US President Donald Trump's administration said it would strip citizenship from people convicted of crimes such as health care fraud, wire fraud and o..."
+        "link": "https://www.dw.com/en/conflict-trends-civil-wars-international-fights-hit-high/a-77467842?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "There were more state conflicts in 2025 than at any other time since World War II, a new study has found. Last year was also the third-deadliest since..."
     },
     {
         "source": "Leafly",
