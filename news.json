@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Strongest earthquake in nearly 150 years hits off Cuba, shakes Mexico, Florida",
-        "image": "https://media.zenfs.com/en/reuters.com/4a7837b1a46e1f1da42d3a116c4b3b99",
-        "link": "https://www.yahoo.com/news/weather-news/articles/strong-earthquake-strikes-off-cubas-182856105.html",
+        "title": "United Airlines CEO says big merger unlikely after American rebuff, asset buys possible",
+        "image": "https://media.zenfs.com/en/reuters.com/9e73187b515335b06a70e7534ff19e09",
+        "link": "https://finance.yahoo.com/news/united-airlines-ceo-says-big-180632855.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The Kennedy Center drops 'Trump' branding as Bill Maher\u2019s Twain Award guests are revealed",
-        "image": "https://media.zenfs.com/en/ap.org/01437d79c7ba7c25bf6837a2c70df79f",
-        "link": "https://www.yahoo.com/news/politics/articles/kennedy-center-drops-trump-branding-163720359.html",
+        "title": "Ken Paxton's attorney in his impeachment trial endorses James Talarico in US Senate race",
+        "image": "https://media.zenfs.com/en/ap.org/931d3ffb68fddb3bd1df02e404c38bb1",
+        "link": "https://www.yahoo.com/news/politics/articles/ken-paxtons-attorney-impeachment-trial-172410658.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/e5631737bbd57fcfc8e95310169d9bd8",
         "link": "https://www.yahoo.com/news/politics/articles/nyc-mayor-zohran-mamdani-says-114128786.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "OpenAI files IPO paperwork, eyes stock market debut",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/openai-files-ipo-paperwork-eyes-stock-market-debut/a-77467007?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The AI company behind ChatGPT said it had no date yet for a listing, but it is joining rival Anthropic in the lineup for the stock market...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ebola-outbreak-who-s-tedros-visits-uganda-bordering-the-drc-ituri-province-epicenter/a-77462569?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The World Health Organization head is visiting Uganda, praising its \"prompt and capable response\" to the Ebola outbreak just across the border in DRC'..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pancreatic cancer: New drug extends lives but isn't a cure",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pancreatic-cancer-new-drug-extends-lives-but-isn-t-a-cure/a-77425000?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The newly developed treatment daraxonrasib can double the years left to live for patients with pancreatic cancer \u2014 but it doesn't cure the disease and..."
     },
     {
         "source": "Leafly",
