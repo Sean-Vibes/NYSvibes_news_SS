@@ -36,30 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "United Airlines CEO says big merger unlikely after American rebuff, asset buys possible",
-        "image": "https://media.zenfs.com/en/reuters.com/9e73187b515335b06a70e7534ff19e09",
-        "link": "https://finance.yahoo.com/news/united-airlines-ceo-says-big-180632855.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Body of American Airlines flight attendant found washed up on Florida beach",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/0f28981b296490fc56577d7cac5d1dfc",
-        "link": "https://www.yahoo.com/news/us/articles/body-american-airlines-flight-attendant-215127731.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "The US college student missing in Japan has been found dead. Here\u2019s a timeline of key moments in the case",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/16f00743f2bbf65e62fc980e18c8e552",
-        "link": "https://www.yahoo.com/news/us/articles/family-missing-us-college-student-040107740.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ken Paxton's attorney in his impeachment trial endorses James Talarico in US Senate race",
-        "image": "https://media.zenfs.com/en/ap.org/931d3ffb68fddb3bd1df02e404c38bb1",
-        "link": "https://www.yahoo.com/news/politics/articles/ken-paxtons-attorney-impeachment-trial-172410658.html",
+        "title": "Russian attacks on Ukraine kill four, as Zelenskiy gains support for ceasefire talks",
+        "image": "https://media.zenfs.com/en/reuters.com/c3a551df5b34a4d3a497763216dc3116",
+        "link": "https://www.yahoo.com/news/articles/three-killed-russian-attacks-ukraines-233049342.html",
         "summary": "..."
     },
     {
@@ -70,39 +49,60 @@
         "summary": "..."
     },
     {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "'I was a prisoner in my home': Drug gangs 'cuckooing' hundreds of homes a week, police warn",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/ed147fb277721492e0e6bb5431b74fbf",
+        "link": "https://www.yahoo.com/news/us/articles/prisoner-home-drug-gangs-cuckooing-230155439.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "The Kennedy Center drops 'Trump' branding as Bill Maher\u2019s Twain Award guests are revealed",
+        "image": "https://media.zenfs.com/en/ap.org/01437d79c7ba7c25bf6837a2c70df79f",
+        "link": "https://www.yahoo.com/news/politics/articles/kennedy-center-drops-trump-branding-163720359.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump, who has repeatedly called climate change fake, is now threatening Brazil with tariffs over the deforestation of the Amazon",
+        "image": "https://media.zenfs.com/en/fortune_175/2f7da81841a2267fc5afe324dfad7d72",
+        "link": "https://finance.yahoo.com/economy/policy/articles/trump-repeatedly-called-climate-change-202707132.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Somali referee denied US entry, dropped from FIFA World Cup 2026",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/somali-referee-denied-us-entry-dropped-from-fifa-world-cup-2026/a-77467197?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Omar Artan, Africa's top referee in 2025, was set to become the first Somali national to officiate at a FIFA World Cup before being denied entry by US..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "ICC's Karim Khan suspended over claims of sexual misconduct",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/icc-s-karim-khan-suspended-over-claims-of-sexual-misconduct/a-77467013?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The chief prosecutor denies any wrongdoing but is suspended pending a vote by ICC member states...."
+    },
+    {
         "source": "Deutsche Welle",
         "title": "OpenAI files IPO paperwork, eyes stock market debut",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/openai-files-ipo-paperwork-eyes-stock-market-debut/a-77467007?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The AI company behind ChatGPT said it had no date yet for a listing, but it is joining rival Anthropic in the lineup for the stock market...."
+        "summary": "The AI company behind ChatGPT said it had no date for a listing, but it is joining rival Anthropic in the lineup for the stock market...."
     },
     {
         "source": "Deutsche Welle",
         "title": "Franco-German fighter jet project collapses after industry dispute",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/franco-german-fighter-jet-project-collapses-after-industry-dispute/a-77466897?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The next-generation aircraft project has been scrapped due to company disagreements, dealing a blow to European security cooperation efforts...."
+        "summary": "The next-generation aircraft project has been scrapped following company disagreements, dealing a blow to European security cooperation efforts...."
     },
     {
         "source": "Deutsche Welle",
         "title": "Trump DOJ to denaturalize 17 US citizens in rare move",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/trump-doj-to-denaturalize-17-us-citizens-in-rare-move/a-77466080?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US President Donald Trump's administration said it would strip citizenship from people convicted of crimes such as healthcare fraud, wire fraud and ot..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pope Leo urges Spain's church to listen to abuse victims",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pope-leo-urges-spain-s-church-to-listen-to-abuse-victims/a-77462950?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Leo called on Catholic clergy to develop a \"culture of care\" to fight the \"scourge of abuse.\" The pontiff also spoke to Spain's parliament where he em..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ebola outbreak: WHO's Tedros visits Uganda, bordering the DRC Ituri province epicenter",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ebola-outbreak-who-s-tedros-visits-uganda-bordering-the-drc-ituri-province-epicenter/a-77462569?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The World Health Organization head is visiting Uganda, praising its \"prompt and capable response\" to the Ebola outbreak just across the border in DRC'..."
+        "summary": "US President Donald Trump's administration said it would strip citizenship from people convicted of crimes such as health care fraud, wire fraud and o..."
     },
     {
         "source": "Leafly",
