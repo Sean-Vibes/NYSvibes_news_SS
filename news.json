@@ -36,9 +36,30 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "UK, Canada, France and Norway announce coordinated sanctions over West Bank settler violence",
-        "image": "https://media.zenfs.com/en/reuters.com/c4d75788894c0b2d511042d173e5ad59",
-        "link": "https://www.yahoo.com/news/articles/uk-sanctions-networks-enabling-settler-114852754.html",
+        "title": "Trump administration warns over 500 hospitals to provide more price information or face fines",
+        "image": "https://media.zenfs.com/en/ap.org/0d9e7fe881486149e6abacee65a2f6d5",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-warns-more-500-150034446.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Steyer\u2019s exit from the California governor\u2019s race could spell bad news for climate policy",
+        "image": "https://media.zenfs.com/en/politico_453/2f8392cf5fba7b95d7b866b44f52e54c",
+        "link": "https://www.yahoo.com/news/politics/articles/steyer-california-governor-race-along-020649846.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Navy admiral fired by Hegseth and local attorney advance to runoff in Dem primary to replace Nancy Mace",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/7648b1b3463721a97e6bb2c5c27d0de5",
+        "link": "https://www.yahoo.com/news/politics/articles/navy-admiral-fired-hegseth-local-012110009.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Impeachment sought against federal judge over alleged sex in chambers, lying to investigators",
+        "image": "https://media.zenfs.com/en/ap.org/c3b11db8b982a4d6acfe2d3bc7f179a2",
+        "link": "https://www.yahoo.com/news/politics/articles/impeachment-sought-against-federal-judge-234210276.html",
         "summary": "..."
     },
     {
@@ -49,60 +70,39 @@
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Bill Introduced in Congress To Codify the First Amendment Right To Film the Feds and Sue for Violations",
-        "image": "https://media.zenfs.com/en/reason_com_245/1392e143a5720af0dca7418b3dca48bc",
-        "link": "https://www.yahoo.com/news/politics/articles/bill-introduced-congress-codify-first-190528580.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Vance adds a chicken coop to the vice president's residence, along with a dozen baby chicks",
-        "image": "https://media.zenfs.com/en/ap.org/b820c77d1ce471b84a174e711e8f414c",
-        "link": "https://www.yahoo.com/news/us/articles/vance-adds-chicken-coop-vice-194147359.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "DHS Says It Has 'Zero Tolerance' for Protesters' 'Verbal Assaults.' Here's What the Law Says.",
-        "image": "https://media.zenfs.com/en/reason_com_245/c3dc0bb882a9877852bf1338c7e80747",
-        "link": "https://www.yahoo.com/news/politics/articles/dhs-says-zero-tolerance-protesters-153617551.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Pakistan carries out new deadly strikes on Afghanistan",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/pakistan-carries-out-new-deadly-strikes-on-afghanistan/a-77483466?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Pakistan has hit three Afghan provinces with airstrikes, according to the Taliban. The Afghan government reports that 13 civilians were killed in the ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "US strikes Iran in response to helicopter shootdown",
+        "title": "War in Ukraine: Kyiv strikes key Russian supply lines",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-strikes-iran-in-response-to-helicopter-shootdown/live-77467866?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US military announced fresh \"self-defense\" attacks on Iran after the downing of an Apache helicopter over the Strait of Hormuz. DW has more...."
+        "link": "https://www.dw.com/en/war-in-ukraine-kyiv-strikes-key-russian-supply-lines/a-77480640?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Russian troops rely on supplies via the land corridor to Crimea, but Ukrainian forces are now able to launch concentrated attacks along the critical r..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Northern Ireland: Police urge calm after 'sickening' Belfast stabbing",
+        "title": "Middle East: Iran targets US bases in retaliatory strikes",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/northern-ireland-police-urge-calm-after-sickening-belfast-stabbing/a-77479452?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Belfast police appealed for calm after a violent knife attack caught on videophone prompted calls for anti-immigration protests. This followed a week ..."
+        "link": "https://www.dw.com/en/middle-east-iran-targets-us-bases-in-retaliatory-strikes/live-77482934?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran is attacking US bases across the Persian Gulf. The missile launches follow a series of US airstrikes after Iran downed an Apache helicopter. Isra..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Afghanistan: Taliban open fire during hijab protest",
+        "title": "Hitler's henchmen killed for promotions and recognition",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/afghanistan-taliban-open-fire-during-hijab-protest/a-77480609?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Several people were injured in the city of Herat after Taliban security personnel reportedly opened fire to disperse a small protest organized in supp..."
+        "link": "https://www.dw.com/en/hitler-s-henchmen-killed-for-promotions-and-recognition/a-77473037?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Nazi leader's followers were not monsters, but ordinary men. Philosopher Hannah Arendt had already observed this. Two researchers now provide the ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Will Israel's troops take over more of southern Lebanon?",
+        "title": "India news: Modi becomes longest-serving elected PM",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/will-israel-s-troops-take-over-more-of-southern-lebanon/a-77478170?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Locals displaced from southern Lebanese towns and cities on evacuation orders from Israel's military now fear Israel will occupy their homes permanent..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "EU proposes entry ban for Russian Ukraine combatants in new sanctions package",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-proposes-entry-ban-for-russian-ukraine-combatants-in-new-sanctions-package/a-77474536?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The EU's 21st sanctions package includes a provision to deny entry to anyone who has served in Russia's armed forces amid the invasion of Ukraine. It ..."
+        "link": "https://www.dw.com/en/india-news-modi-becomes-longest-serving-elected-pm/live-77484563?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Narendra Modi has become the longest-serving elected prime minister of India. Follow DW for more...."
     },
     {
         "source": "Leafly",
