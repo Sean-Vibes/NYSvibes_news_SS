@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Southern Baptists vote to advance a formal ban on churches with women pastors",
-        "image": "https://media.zenfs.com/en/ap.org/228b32044dd6d2197e1f3792521ef595",
-        "link": "https://www.yahoo.com/news/politics/articles/southern-baptists-vote-advance-formal-173958462.html",
+        "title": "Congo\u2019s Ebola outbreak spreads to new health zone",
+        "image": "https://media.zenfs.com/en/reuters.com/8103970a17a429ed1ea31507fecfcdb1",
+        "link": "https://www.yahoo.com/news/world/articles/congo-says-number-confirmed-ebola-171351291.html",
         "summary": "..."
     },
     {
@@ -57,24 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US judge denies request to temporarily halt Trump's abandoned 'weaponization' fund",
-        "image": "https://media.zenfs.com/en/reuters.com/289f4980a349332892b23b51d84aa489",
-        "link": "https://www.yahoo.com/news/politics/articles/us-judge-denies-request-temporarily-231222657.html",
+        "title": "China car exports jump 73% in May as high fuel prices raise interest in EVs",
+        "image": "https://media.zenfs.com/en/ap.org/1d7c5d37752b6d0cf0a308f2201969d2",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/china-car-exports-jump-73-074826802.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Bill Gates tells Congress Jeffrey Epstein tried to use information about his infidelities to get close to him",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/36a011c75fe514256f73dfcfcd8c8542",
-        "link": "https://www.yahoo.com/news/politics/articles/bill-gates-face-congressional-investigators-090007938.html",
+        "title": "The House Just Passed a 'Pro-Worker' Bill That Takes Power Away From Workers",
+        "image": "https://media.zenfs.com/en/reason_com_245/57040e5b19be1dbc58fb97e23c845ee7",
+        "link": "https://www.yahoo.com/news/politics/articles/house-just-passed-pro-worker-002707779.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "The United States says it has launched new attacks on Iran",
+        "title": "US and Iran swap strikes as ceasefire hangs by a thread",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/the-united-states-says-it-has-launched-new-attacks-on-iran/live-77482934?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US Central Command said it hit new targets in Iran in response to Tehran's \"unwarranted and continued aggression.\" Iranian state media reported blasts..."
+        "link": "https://www.dw.com/en/us-and-iran-swap-strikes-as-ceasefire-hangs-by-a-thread/live-77498305?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran said has struck Gulf countries in retaliation for overnight US attacks. The renewed fighting comes after the US president said Iran would \"pay th..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Middle East: US says it completed latest attacks on Iran",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/middle-east-us-says-it-completed-latest-attacks-on-iran/live-77482934?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US Central Command had said it hit new targets in Iran in response to Tehran's \"unwarranted and continued aggression.\" Iranian state media reported bl..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/world-cup-2026-how-an-old-song-from-bosnia-went-viral/a-77491463?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Some have already called it the unofficial song of the 2026 World Cup. So how did a tune that was more than a decade old take the Balkans \u2014 and beyond..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Only 1 in 10 Europeans see US as an ally \u2014 study",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/only-1-in-10-europeans-see-us-as-an-ally-study/a-77489708?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Europeans' trust in the United States has plummeted since Donald Trump returned to the White House. Most Europeans also don't think the US would help ..."
     },
     {
         "source": "Leafly",
