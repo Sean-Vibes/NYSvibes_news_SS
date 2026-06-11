@@ -43,23 +43,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The House Just Passed a 'Pro-Worker' Bill That Takes Power Away From Workers",
-        "image": "https://media.zenfs.com/en/reason_com_245/57040e5b19be1dbc58fb97e23c845ee7",
-        "link": "https://www.yahoo.com/news/politics/articles/the-house-just-passed-a-pro-worker-bill-that-takes-power-away-from-workers-002707893.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Human remains found in sleeping bag in national park identified 26 years later",
         "image": "https://media.zenfs.com/en/cbs_news_897/f799be0dc7e7bc44e6d9f4db8835ae18",
         "link": "https://www.yahoo.com/news/us/articles/human-remains-found-sleeping-bag-123511072.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "An underground detector in China unveils its first major findings about mysterious ghost particles",
-        "image": "https://media.zenfs.com/en/ap.org/7657ecbd22d8853a5fb4707ce206509d",
-        "link": "https://www.yahoo.com/news/science/articles/underground-detector-china-unveils-first-150008072.html",
         "summary": "..."
     },
     {
@@ -68,6 +54,27 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/7648b1b3463721a97e6bb2c5c27d0de5",
         "link": "https://www.yahoo.com/news/politics/articles/navy-admiral-fired-hegseth-local-012110009.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "China car exports jump 73% in May as high fuel prices raise interest in EVs",
+        "image": "https://media.zenfs.com/en/ap.org/1d7c5d37752b6d0cf0a308f2201969d2",
+        "link": "https://finance.yahoo.com/sectors/energy/articles/china-car-exports-jump-73-074826802.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Opinion - I am one of many with Down syndrome. Start listening to us for a change.",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/b4cfb7d8e5f005177e3a5a02d3d603ee",
+        "link": "https://www.yahoo.com/news/us/articles/opinion-am-one-many-down-113000637.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "World Cup kicks off in Mexico City",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/world-cup-kicks-off-in-mexico-city/a-77511676?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Mexico won against South Africa after the opening ceremony in Mexico City which featured Colombian star Shakira and Nigerian singer Burna Boy. Footbal..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,13 +96,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/egypt-s-delicate-balancing-act-in-the-iran-war/a-77506331?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Cairo faces criticism from its Gulf allies that support against Iran has been lacking. But Egypt's priority is to shield its fragile economy from the ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "World Cup kicks off in Mexico City",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/world-cup-kicks-off-in-mexico-city/a-77511676?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Co-hosts Mexico and South Africa kick off the largest World Cup ever in Mexico City. The opening ceremony is underway in the renowned Estadio Azteca. ..."
     },
     {
         "source": "Deutsche Welle",
