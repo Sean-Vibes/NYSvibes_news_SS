@@ -57,17 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "An underground detector in China unveils its first major findings about mysterious ghost particles",
-        "image": "https://media.zenfs.com/en/ap.org/7657ecbd22d8853a5fb4707ce206509d",
-        "link": "https://www.yahoo.com/news/science/articles/underground-detector-china-unveils-first-150008072.html",
+        "title": "US judge denies request to temporarily halt Trump's abandoned 'weaponization' fund",
+        "image": "https://media.zenfs.com/en/reuters.com/289f4980a349332892b23b51d84aa489",
+        "link": "https://www.yahoo.com/news/politics/articles/us-judge-denies-request-temporarily-231222657.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Formula 1 agrees to engine design change after criticism",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/0f801978f7c9e415f5ccf3bf11fdf0e0",
-        "link": "https://sports.yahoo.com/articles/formula-1-agrees-engine-design-193650082.html",
+        "title": "Bill Gates tells Congress Jeffrey Epstein tried to use information about his infidelities to get close to him",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/36a011c75fe514256f73dfcfcd8c8542",
+        "link": "https://www.yahoo.com/news/politics/articles/bill-gates-face-congressional-investigators-090007938.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "The United States says it has launched new attacks on Iran",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/the-united-states-says-it-has-launched-new-attacks-on-iran/live-77482934?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US Central Command said it hit new targets in Iran in response to Tehran's \"unwarranted and continued aggression.\" Iranian state media reported blasts..."
     },
     {
         "source": "Deutsche Welle",
@@ -75,13 +82,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/bill-gates-tells-epstein-panel-he-never-victimized-anyone/a-77496857?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Microsoft co-founder and billionaire philanthropist Bill Gates voluntarily appeared before the House Oversight Committee. He said Jeffrey Epstein ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "The United States says it has launched new attacks on Iran",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/the-united-states-says-it-has-launched-new-attacks-on-iran/live-77482934?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US Central Command said it hit new targets in Iran in response to Tehran's \"unwarranted and continued aggression.\" Iranian state media is reporting bl..."
     },
     {
         "source": "Deutsche Welle",
