@@ -43,23 +43,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Human remains found in sleeping bag in national park identified 26 years later",
-        "image": "https://media.zenfs.com/en/cbs_news_897/f799be0dc7e7bc44e6d9f4db8835ae18",
-        "link": "https://www.yahoo.com/news/us/articles/human-remains-found-sleeping-bag-123511072.html",
+        "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/f7f54ddd4556189e65e8fb7d3d02aed1",
+        "link": "https://www.yahoo.com/news/world/articles/thai-princess-bajrakitiyabha-dies-more-003734320.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Navy admiral fired by Hegseth and local attorney advance to runoff in Dem primary to replace Nancy Mace",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/7648b1b3463721a97e6bb2c5c27d0de5",
-        "link": "https://www.yahoo.com/news/politics/articles/navy-admiral-fired-hegseth-local-012110009.html",
+        "title": "The House Just Passed a 'Pro-Worker' Bill That Takes Power Away From Workers",
+        "image": "https://media.zenfs.com/en/reason_com_245/57040e5b19be1dbc58fb97e23c845ee7",
+        "link": "https://www.yahoo.com/news/politics/articles/the-house-just-passed-a-pro-worker-bill-that-takes-power-away-from-workers-002707893.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China car exports jump 73% in May as high fuel prices raise interest in EVs",
-        "image": "https://media.zenfs.com/en/ap.org/1d7c5d37752b6d0cf0a308f2201969d2",
-        "link": "https://finance.yahoo.com/sectors/energy/articles/china-car-exports-jump-73-074826802.html",
+        "title": "An underground detector in China unveils its first major findings about mysterious ghost particles",
+        "image": "https://media.zenfs.com/en/ap.org/7657ecbd22d8853a5fb4707ce206509d",
+        "link": "https://www.yahoo.com/news/science/articles/underground-detector-china-unveils-first-150008072.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/the_hill_articles_341/b4cfb7d8e5f005177e3a5a02d3d603ee",
         "link": "https://www.yahoo.com/news/us/articles/opinion-am-one-many-down-113000637.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "South Korea: Ex-President Yoon gets 30 years for sending drones into North Korea",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/south-korea-ex-president-yoon-gets-30-years-for-sending-drones-into-north-korea/a-77516214?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The verdict marks the latest legal blow for South Korea's impeached former leader Yoon Suk Yeol, who has already been sentenced to life in prison earl..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Thai princess Bajrakitiyabha dies after years in coma",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/thai-princess-bajrakitiyabha-dies-after-years-in-coma/a-77515096?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Thai king's eldest daughter has died at the age of 47 after a prolonged illness, the royal palace said in a statement...."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/is-there-anything-glp-1-agonist-drugs-cannot-do/a-77499450?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Every other month, researchers find new uses for GLP-1 agonist drugs, like Mounjaro and Ozempic \u2014 now even as a treatment for substance abuse. It's cl..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Egypt's delicate balancing act in the Iran war",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/egypt-s-delicate-balancing-act-in-the-iran-war/a-77506331?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Cairo faces criticism from its Gulf allies that support against Iran has been lacking. But Egypt's priority is to shield its fragile economy from the ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Trump calls off threatened strikes, says deal nearly done",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-trump-calls-off-threatened-strikes-says-deal-nearly-done/live-77498305?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Hours after promising to hit Iran \"very hard,\" US President Trump has said he canceled the attacks, but added a naval blockade would remain in place. ..."
     },
     {
         "source": "Leafly",
