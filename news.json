@@ -44,7 +44,7 @@
     {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/f7f54ddd4556189e65e8fb7d3d02aed1",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/85ea51c9eb0c7fa4ebca085aaec02a15",
         "link": "https://www.yahoo.com/news/world/articles/thai-princess-bajrakitiyabha-dies-more-003734320.html",
         "summary": "..."
     },
@@ -57,17 +57,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "An underground detector in China unveils its first major findings about mysterious ghost particles",
-        "image": "https://media.zenfs.com/en/ap.org/7657ecbd22d8853a5fb4707ce206509d",
-        "link": "https://www.yahoo.com/news/science/articles/underground-detector-china-unveils-first-150008072.html",
+        "title": "Southern Baptists vote to advance a formal ban on churches with women pastors",
+        "image": "https://media.zenfs.com/en/ap.org/228b32044dd6d2197e1f3792521ef595",
+        "link": "https://www.yahoo.com/news/politics/articles/southern-baptists-vote-advance-formal-173958462.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Opinion - I am one of many with Down syndrome. Start listening to us for a change.",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/b4cfb7d8e5f005177e3a5a02d3d603ee",
-        "link": "https://www.yahoo.com/news/us/articles/opinion-am-one-many-down-113000637.html",
+        "title": "Human remains found in sleeping bag in national park identified 26 years later",
+        "image": "https://media.zenfs.com/en/cbs_news_897/f799be0dc7e7bc44e6d9f4db8835ae18",
+        "link": "https://www.yahoo.com/news/us/articles/human-remains-found-sleeping-bag-123511072.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Julian Nagelsmann: The coach struggling to speak to Germany",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/julian-nagelsmann-the-coach-struggling-to-speak-to-germany/a-77209578?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Considered German football's X factor during Euro 2024, Julian Nagelsmann enters the 2026 World Cup with more questions than optimism...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Lab-grown Tyrannosaurus leather bag fails to sell at auction",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/lab-grown-tyrannosaurus-leather-bag-fails-to-sell-at-auction/a-77118050?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The handbag promoted as the \"world's first T. rex leather product\" didn't find a buyer at auction. Is it more chicken than dinosaur?..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Environment wins of the week",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/environment-wins-of-the-week/a-77509351?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Good news about the state of the planet might seem to be in short supply, but it's out there. Each week, DW's environment desk brings you what went ri..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/thai-princess-bajrakitiyabha-dies-after-years-in-coma/a-77515096?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Thai king's eldest daughter has died at the age of 47 after a prolonged illness, the royal palace said in a statement...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "World Cup kicks off in Mexico City",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/world-cup-kicks-off-in-mexico-city/a-77511676?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Mexico won against South Africa after the opening ceremony in Mexico City which featured Colombian star Shakira and Nigerian singer Burna Boy. Footbal..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Racist riots break out across United Kingdom",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/racist-riots-break-out-across-united-kingdom/a-77512091?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A video of a knife attack sparked racist riots across the Northern Irish capital Belfast on Monday, with violence has now spreading across the United ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Is there anything GLP-1 agonist drugs cannot do?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/is-there-anything-glp-1-agonist-drugs-cannot-do/a-77499450?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Every other month, researchers find new uses for GLP-1 agonist drugs, like Mounjaro and Ozempic \u2014 now even as a treatment for substance abuse. It's cl..."
     },
     {
         "source": "Leafly",
