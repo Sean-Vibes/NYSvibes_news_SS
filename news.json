@@ -57,17 +57,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump is raising expectations that this time he really will close deal with Iran to wind down war",
-        "image": "https://media.zenfs.com/en/krem_tegna_videos_762/8dcc9dccc5423c3b495ade2754d8648a",
-        "link": "https://www.yahoo.com/news/politics/articles/us--iran-us-trump-040515953.html",
+        "title": "Judge acquits Democratic congressional candidate arrested at New York immigration court protest",
+        "image": "https://media.zenfs.com/en/ap.org/6a12fee48512c1b868ed83265b2f1260",
+        "link": "https://www.yahoo.com/news/politics/articles/judge-acquits-democratic-congressional-candidate-154606009.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Human remains found in sleeping bag in national park identified 26 years later",
-        "image": "https://media.zenfs.com/en/cbs_news_897/f799be0dc7e7bc44e6d9f4db8835ae18",
-        "link": "https://www.yahoo.com/news/us/articles/human-remains-found-sleeping-bag-123511072.html",
+        "title": "Coffeemakers sold at Amazon, Walmart recalled over reported burn injuries",
+        "image": "https://media.zenfs.com/en/newsnation_articles_600/4187b4bdd5dfcbef268e3a525e9e6615",
+        "link": "https://www.yahoo.com/news/us/articles/coffeemakers-sold-amazon-walmart-recalled-153032830.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "World Cup: Ghana's Partey denied entry to Canada",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/world-cup-ghana-s-partey-denied-entry-to-canada/a-77530436?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Thomas Partey, who has pleaded not guilty to several rape and sexual assault charges in the United Kingdom, has been refused a Canadian visa. He will ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "SpaceX IPO makes Musk a paper trillionaire",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/spacex-ipo-makes-musk-a-paper-trillionaire/a-77529579?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Elon Musk's SpaceX company has floated on the Nasdaq stock exchange, with shares climbing more than 25% above the opening price. This makes Musk the w..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran, US say deal to end war 'has never been closer'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-us-say-deal-to-end-war-has-never-been-closer/live-77520654?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran's foreign minister and the US president have both stated that an agreement to end the war in Iran could be imminent. Mediators in Pakistan say th..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/german-court-holds-google-liable-for-fake-ai-answers/a-77527661?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Judges in Bavaria drew a distinction between standard search engine results and AI-generated summaries. They ruled that tech giants themselves are res..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Trump disputes leaked terms of 'deal'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-trump-disputes-leaked-terms-of-deal/live-77520654?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US and Iran have signaled possible progress toward a preliminary deal to end the war. Then the US president called Iran dishonest and accused it o..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran-US deal: What are the main sticking points?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-us-deal-what-are-the-main-sticking-points/a-77526613?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US and Iran may be nearing a breakthrough, according to Donald Trump. DW looks at what has emerged so far, and the key risks and challenges shapin..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Sahel juntas are 'crushing' basic freedoms",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/sahel-juntas-are-crushing-basic-freedoms/a-77500618?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In the Sahel countries of Mali, Burkina Faso, and Niger, military rulers are increasingly clamping down on press freedom and freedom of expression. Ma..."
     },
     {
         "source": "Leafly",
