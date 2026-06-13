@@ -36,9 +36,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Alaska election official threatens to disqualify Republican who shares name with Sen. Dan Sullivan",
-        "image": "https://media.zenfs.com/en/cnn_videos_177/256c2b637c42e0e8db722119012b77e8",
-        "link": "https://www.yahoo.com/news/politics/articles/us--election-2026-alaska-senate-004352638.html",
+        "title": "China 'strongly dissatisfied' with Pentagon move against top Chinese tech firms",
+        "image": "https://media.zenfs.com/en/reuters.com/085513f79b3ceccc44ebbda0dac593f6",
+        "link": "https://www.yahoo.com/news/politics/articles/china-strongly-dissatisfied-pentagon-move-024138252.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Mamdani touts massive taxpayer-funded investment for trans healthcare: 'First step'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/9aa36853239e3a1ec14b0b62a24b5585",
+        "link": "https://www.yahoo.com/news/politics/articles/mamdani-touts-massive-taxpayer-funded-120033722.html",
         "summary": "..."
     },
     {
@@ -50,24 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Emboldened Senate Democrats block even bipartisan bills in hardball approach to counter Trump",
+        "image": "https://media.zenfs.com/en/ap.org/3a1b705f0e15367754975d7b6f9c8b1a",
+        "link": "https://www.yahoo.com/news/politics/articles/emboldened-senate-democrats-block-even-113949666.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
         "image": "https://media.zenfs.com/en/bbc_us_articles_995/85ea51c9eb0c7fa4ebca085aaec02a15",
         "link": "https://www.yahoo.com/news/world/articles/thai-princess-bajrakitiyabha-dies-more-003734320.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "SpaceX sets IPO price at $135",
-        "image": "https://media.zenfs.com/en/nbcu_713/66dd6eeb005d6e42a38a05d67dae4c73",
-        "link": "https://www.yahoo.com/news/videos/spacex-sets-ipo-price-135-001343543.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mamdani touts massive taxpayer-funded investment for trans healthcare: 'First step'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/9aa36853239e3a1ec14b0b62a24b5585",
-        "link": "https://www.yahoo.com/news/politics/articles/mamdani-touts-massive-taxpayer-funded-120033722.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Belfast: Thousands denounce violence at anti-racism rally",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/belfast-thousands-denounce-violence-at-anti-racism-rally/a-77539568?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Protesters condemned the scenes of anti-immigrant violence seen earlier in the week, which were in response to an alleged knife attack by a Sudanese r..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-deports-migrants-including-iranian-activist-to-car/a-77537594?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The number of migrants deported is not yet clear, but it is believed to be around two dozen. The Trump administration has signed controversial deals w..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany faces EU penalty over gender pay gap directive",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-faces-eu-penalty-over-gender-pay-gap-directive/a-77527802?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany was required to incorporate the EU Pay Transparency Directive into its national law, but it has missed the deadline...."
     },
     {
         "source": "Leafly",
