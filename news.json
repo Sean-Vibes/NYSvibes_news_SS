@@ -36,9 +36,30 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Judge disciplined for sex in chambers and lying to investigators apologizes for 'offensive conduct'",
-        "image": "https://media.zenfs.com/en/ap.org/aecae1c6d86b481d77b7126e2d30b369",
-        "link": "https://www.yahoo.com/news/us/articles/judge-disciplined-sex-chambers-lying-220957668.html",
+        "title": "Trump is raising expectations that this time he really will close deal with Iran to wind down war",
+        "image": "https://media.zenfs.com/en/krem_tegna_videos_762/8dcc9dccc5423c3b495ade2754d8648a",
+        "link": "https://www.yahoo.com/news/politics/articles/us--iran-us-trump-040515953.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Human remains found in sleeping bag in national park identified 26 years later",
+        "image": "https://media.zenfs.com/en/cbs_news_897/f799be0dc7e7bc44e6d9f4db8835ae18",
+        "link": "https://www.yahoo.com/news/us/articles/human-remains-found-sleeping-bag-123511072.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Two top UK defense officials resign over military spending in fresh blow to Keir Starmer",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/64cf3394087a0077e1f01382be16e7e6",
+        "link": "https://www.yahoo.com/news/politics/articles/uk-defense-secretary-resigns-over-121110920.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "China 'strongly dissatisfied' with Pentagon move against top Chinese tech firms",
+        "image": "https://media.zenfs.com/en/reuters.com/085513f79b3ceccc44ebbda0dac593f6",
+        "link": "https://www.yahoo.com/news/politics/articles/china-strongly-dissatisfied-pentagon-move-024138252.html",
         "summary": "..."
     },
     {
@@ -49,25 +70,11 @@
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Coffeemakers sold at Amazon, Walmart recalled over reported burn injuries",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/4187b4bdd5dfcbef268e3a525e9e6615",
-        "link": "https://www.yahoo.com/news/us/articles/coffeemakers-sold-amazon-walmart-recalled-153032830.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump administration identifies 'super-sponsors' of migrant children in a possible prosecution tack",
-        "image": "https://media.zenfs.com/en/ap.org/90b9536d5cbc029b26c3aa30e62e82e1",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-identifies-super-sponsors-184155592.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Elon Musk Becomes World\u2019s First Trillionaire After SpaceX IPO",
-        "image": "https://media.zenfs.com/en/nbcu_713/60dc78c32e96e30527559802b766afcb",
-        "link": "https://www.yahoo.com/entertainment/videos/elon-musk-becomes-world-first-223000516.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "US clears Paramount's mammoth Warner Bros merger",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-clears-paramount-s-mammoth-warner-bros-merger/a-77532579?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Paramount has been given the green light to take over Warner Bros. Discovery for $110 billion, including its subsidiary CNN, fueling fears of media ce..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/german-students-up-in-arms-about-funding-cuts/a-77528594?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Germany's research minister, Dorothee B\u00e4r, says the situation of German students is \"very privileged\" and has rejected reform of the Federal Training ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "German court holds Google liable for fake AI answers",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/german-court-holds-google-liable-for-fake-ai-answers/a-77527661?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Judges in Bavaria drew a distinction between standard search engine results and AI-generated summaries. They ruled that tech giants themselves are res..."
     },
     {
         "source": "Leafly",
