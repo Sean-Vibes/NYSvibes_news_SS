@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "More Than 100 Alabama Patients Bought Medical Marijuana In First Week Of Legal Sales",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/more-than-100-alabama-patients-bought-medical-marijuana-in-first-week-of-legal-sales/",
+        "summary": "<p>\u201cOur store manager saw a patient walking out, and as silly as it sounds, they jumped and clicked their heels.... <a class=\"small font-montserrat fo..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "North Carolina Lawmakers Advance Bill To Set A Minimum Age Limit For Hemp And Kratom Products",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/north-carolina-lawmakers-advance-bill-to-set-a-minimum-age-limit-for-hemp-and-kratom-products/",
@@ -28,17 +35,10 @@
         "summary": "<p>A key Virginia lawmaker says legislative leaders and the governor have reached an agreement on a proposal to legalize recreational... <a class=\"sma..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "New Bill In Congress Would Let States Force Federal Reclassification Of Drugs Like Marijuana And Psychedelics",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/new-bill-in-congress-would-let-states-force-federal-reclassification-of-drugs-like-marijuana-and-psychedelics/",
-        "summary": "<p>A Democratic congressman has filed a new bill that would drastically overhaul how drugs are classified under the Controlled Substances... <a class=..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran says draft US deal includes oil sanctions waiver, nuclear limits and asset release",
-        "image": "https://media.zenfs.com/en/reuters.com/ade6be2dd924cc0c65b863227d961331",
-        "link": "https://www.yahoo.com/news/politics/articles/iran-says-draft-us-deal-102443341.html",
+        "title": "China 'strongly dissatisfied' with Pentagon move against top Chinese tech firms",
+        "image": "https://media.zenfs.com/en/reuters.com/085513f79b3ceccc44ebbda0dac593f6",
+        "link": "https://www.yahoo.com/news/politics/articles/china-strongly-dissatisfied-pentagon-move-024138252.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China 'strongly dissatisfied' with Pentagon move against top Chinese tech firms",
-        "image": "https://media.zenfs.com/en/reuters.com/085513f79b3ceccc44ebbda0dac593f6",
-        "link": "https://www.yahoo.com/news/politics/articles/china-strongly-dissatisfied-pentagon-move-024138252.html",
+        "title": "Trump turns 80 with a showstopping spectacle of cage fights at the White House. But big issues loom",
+        "image": "https://media.zenfs.com/en/ap.org/ce7f602638da51cf8cb8a3d009d4cfff",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-turns-80-showstopping-spectacle-040207419.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russia\u2019s overwhelming manpower advantage against Ukraine is starting to wane",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/57ed2809b5a87e2010f96d3f9e7ab127",
-        "link": "https://www.yahoo.com/news/world/articles/russia-overwhelming-manpower-advantage-against-040008373.html",
+        "title": "Elon Musk Becomes World\u2019s First Trillionaire After SpaceX IPO",
+        "image": "https://media.zenfs.com/en/nbcu_713/60dc78c32e96e30527559802b766afcb",
+        "link": "https://www.yahoo.com/entertainment/videos/elon-musk-becomes-world-first-223000516.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UK seizes suspected Russian shadow fleet tanker",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/uk-seizes-suspected-russian-shadow-fleet-tanker/a-77545832?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "UK forces on Sunday intercepted a sanctioned Russian ship, with navy commandos rappelling onboard from helicopters. The UK and Ukraine hailed the move..."
     },
     {
         "source": "Deutsche Welle",
@@ -92,17 +99,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Swiss voters projected to reject population cap proposal",
+        "title": "Swiss voters reject population cap proposal",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/swiss-voters-projected-to-reject-population-cap-proposal/a-77543868?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Swiss voters were set to reject a proposal put forward by a hard-right party to introduce a population cap of 10 million in the country, early results..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "New York Knicks win first NBA championship in 53 years",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/new-york-knicks-win-first-nba-championship-in-53-years/a-77543316?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Series MVP Jalen Brunson has led the New York Knicks to another comeback victory over the San Antonio Spurs. The win secured the franchise's third NBA..."
+        "link": "https://www.dw.com/en/swiss-voters-reject-population-cap-proposal/a-77543868?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A proposal to introduce a population cap of 10 million in the country has failed. It was put forward by a hard-right party...."
     },
     {
         "source": "Leafly",
