@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump turns 80 with a showstopping spectacle of cage fights at the White House. But big issues loom",
-        "image": "https://media.zenfs.com/en/ap.org/ce7f602638da51cf8cb8a3d009d4cfff",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-turns-80-showstopping-spectacle-040207419.html",
+        "title": "Iran says draft US deal includes oil sanctions waiver, nuclear limits and asset release",
+        "image": "https://media.zenfs.com/en/reuters.com/ade6be2dd924cc0c65b863227d961331",
+        "link": "https://www.yahoo.com/news/politics/articles/iran-says-draft-us-deal-102443341.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "1 killed, others injured in Virginia church tent collapse amid high winds",
-        "image": "https://media.zenfs.com/en/nbcu_713/fe906266c1add43d8964da4111ab38fa",
-        "link": "https://www.yahoo.com/news/videos/1-killed-others-injured-virginia-224741487.html",
+        "title": "China 'strongly dissatisfied' with Pentagon move against top Chinese tech firms",
+        "image": "https://media.zenfs.com/en/reuters.com/085513f79b3ceccc44ebbda0dac593f6",
+        "link": "https://www.yahoo.com/news/politics/articles/china-strongly-dissatisfied-pentagon-move-024138252.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/9aa36853239e3a1ec14b0b62a24b5585",
         "link": "https://www.yahoo.com/news/politics/articles/mamdani-touts-massive-taxpayer-funded-120033722.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Swiss voters projected to reject population cap proposal",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/swiss-voters-projected-to-reject-population-cap-proposal/a-77543868?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Swiss voters were set to reject a proposal put forward by a hard-right party to introduce a population cap of 10 million in the country, early results..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-president-steinmeier-heads-to-asia/live-77535533?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "German President Frank-Walter Steinmeier is kicking off a trip to Asia. And veteran goalkeeper Manuel Neuer will take to the field with the national s..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Trump, Pakistan tease deal, but doubts remain",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-trump-pakistan-tease-deal-but-doubts-remain/live-77540182?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Donald Trump suggested that an initial peace deal could be signed on Sunday, but Iran has cast doubt on that timeline. Meanwhile, Israel keeps up stri..."
     },
     {
         "source": "Leafly",
