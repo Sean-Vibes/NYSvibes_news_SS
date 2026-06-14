@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "'You failed your son first': Howard prof blames father's values after Karmelo Anthony murdered his son",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/3a437877236cb77da480ca8d29d9cf1d",
-        "link": "https://www.yahoo.com/news/us/articles/failed-son-first-howard-prof-200723236.html",
+        "title": "Victim killed in Midland shooting was city employee, officials say",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/71b651ce655003c7430b3378977b754f",
+        "link": "https://www.yahoo.com/news/us/articles/victim-killed-midland-shooting-city-234735206.html",
         "summary": "..."
     },
     {
@@ -64,17 +64,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Victim killed in Midland shooting was city employee, officials say",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/71b651ce655003c7430b3378977b754f",
-        "link": "https://www.yahoo.com/news/us/articles/victim-killed-midland-shooting-city-234735206.html",
+        "title": "Russia\u2019s overwhelming manpower advantage against Ukraine is starting to wane",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/57ed2809b5a87e2010f96d3f9e7ab127",
+        "link": "https://www.yahoo.com/news/world/articles/russia-overwhelming-manpower-advantage-against-040008373.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iran war: Trump calls for 'no more attacks'",
+        "title": "Iran war: Pakistan announces US-Iran peace deal reached",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-trump-calls-for-no-more-attacks/live-77540182?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Trump said a peace deal with Iran was close and warned warring parties not to \"blow it.\" The president specifically called on Israel to stop strikes o..."
+        "link": "https://www.dw.com/en/iran-war-pakistan-announces-us-iran-peace-deal-reached/live-77540182?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Pakistani PM Shehbaz Sharif has announced a peace deal between the US and Iran, with a signing ceremony on June 19. Sharif claimed both sides would te..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Manuel Neuer: The aura of a record-breaking goalkeeper",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/manuel-neuer-the-aura-of-a-record-breaking-goalkeeper/a-77538894?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany's hopes at the 2026 World Cup are connected to world-class goalkeeper Manuel Neuer's fitness and form...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/trump-hosts-white-house-cage-fights-to-mark-80th-birthday/a-77546507?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The US president is set to watch seven fights with an audience of 4,000 people inside a specially built arena on the White House lawn. Critics say the..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UK seizes suspected Russian shadow fleet tanker",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-seizes-suspected-russian-shadow-fleet-tanker/a-77545832?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "UK forces on Sunday intercepted a sanctioned Russian ship, with navy commandos rappelling onboard from helicopters. The UK and Ukraine hailed the move..."
     },
     {
         "source": "Leafly",
