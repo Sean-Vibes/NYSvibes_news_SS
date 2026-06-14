@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump says deal to end war will be signed on Sunday, Iran questions timing",
-        "image": "https://media.zenfs.com/en/reuters.com/ad42b5101f1c8ea5abddaed25a7c3c80",
-        "link": "https://www.yahoo.com/news/world/articles/iran-peace-deal-looms-while-013254717.html",
+        "title": "1 killed, others injured in Virginia church tent collapse amid high winds",
+        "image": "https://media.zenfs.com/en/nbcu_713/fe906266c1add43d8964da4111ab38fa",
+        "link": "https://www.yahoo.com/news/videos/1-killed-others-injured-virginia-224741487.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/9aa36853239e3a1ec14b0b62a24b5585",
         "link": "https://www.yahoo.com/news/politics/articles/mamdani-touts-massive-taxpayer-funded-120033722.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "New York Knicks win first NBA championship in 53 years",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/new-york-knicks-win-first-nba-championship-in-53-years/a-77543316?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Series MVP Jalen Brunson has led the New York Knicks to another comeback victory over the San Antonio Spurs. The win secured the franchise's third NBA..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Manuel Neuer fit to join Germany in first World Cup match",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/manuel-neuer-fit-to-join-germany-in-first-world-cup-match/a-77541375?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Veteran goalkeeper Manuel Neuer is set to play in Germany's first match in this year's World Cup. He had retired from the national team in August 2024..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-trump-pakistan-tease-deal-but-doubts-remain/live-77540182?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Donald Trump suggested that an initial peace deal could be signed on Sunday, but Iran has cast doubt on that timeline. Meanwhile, Israel keeps up stri..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Italy: Thousands attend anti- and pro-migration rallies in Rome",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/italy-thousands-attend-anti-and-pro-migration-rallies-in-rome/a-77540136?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Tens of thousands of people demonstrated in the Italian capital for rival protests. The rallies took place after a proposed bill seeking measures agai..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Mexico: Mayor shot dead in Oaxaca state",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/mexico-mayor-shot-dead-in-oaxaca-state/a-77539742?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A mayor has died after being shot in an attack in southern Mexico, prosecutors said. Violence and insecurity are in the spotlight again in Mexico, whi..."
     },
     {
         "source": "Leafly",
