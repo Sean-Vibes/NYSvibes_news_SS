@@ -36,9 +36,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China 'strongly dissatisfied' with Pentagon move against top Chinese tech firms",
-        "image": "https://media.zenfs.com/en/reuters.com/085513f79b3ceccc44ebbda0dac593f6",
-        "link": "https://www.yahoo.com/news/politics/articles/china-strongly-dissatisfied-pentagon-move-024138252.html",
+        "title": "\u2018Spider-Man of Yemen\u2019 dies in fall while climbing volcanic crater",
+        "image": "https://media.zenfs.com/en/ap.org/4bd237b7a30c2465c6520c9c62dbd324",
+        "link": "https://www.yahoo.com/news/world/articles/spider-man-yemen-dies-fall-135214128.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "83-year-old woman sues Honolulu after website error turned into $590K nightmare",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/4097649ecf7d55db42bed6369f556969",
+        "link": "https://www.yahoo.com/news/us/articles/83-old-woman-sues-honolulu-140014757.html",
         "summary": "..."
     },
     {
@@ -50,16 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Victim killed in Midland shooting was city employee, officials say",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/71b651ce655003c7430b3378977b754f",
-        "link": "https://www.yahoo.com/news/us/articles/victim-killed-midland-shooting-city-234735206.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump celebrates turning 80 with a UFC cage-fighting event while big issues loom over his presidency",
-        "image": "https://media.zenfs.com/en/ap.org/e7e8c37793f2c3657326791795927994",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-turns-80-showstopping-spectacle-040207419.html",
+        "title": "Emboldened Senate Democrats block even bipartisan bills in hardball approach to counter Trump",
+        "image": "https://media.zenfs.com/en/ap.org/3a1b705f0e15367754975d7b6f9c8b1a",
+        "link": "https://www.yahoo.com/news/politics/articles/emboldened-senate-democrats-block-even-113949666.html",
         "summary": "..."
     },
     {
@@ -74,7 +74,7 @@
         "title": "Iran war: Pakistan announces US-Iran peace deal reached",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-pakistan-announces-us-iran-peace-deal-reached/live-77540182?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Pakistani PM Shehbaz Sharif has announced a peace deal between the US and Iran, with a signing ceremony on June 19. Sharif claimed both sides would te..."
+        "summary": "Pakistani PM Shehbaz Sharif has announced a peace deal between the US and Iran, with a signing ceremony on June 19. Sharif said both sides would termi..."
     },
     {
         "source": "Deutsche Welle",
