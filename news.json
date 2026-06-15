@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump says July 4 National Mall celebration will double as a 'Trump rally'",
-        "image": "https://media.zenfs.com/en/reuters.com/38e651d4409795ad1af20ac4d9e31892",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-says-july-4-national-161800507.html",
+        "title": "With war likely over, Iranian rulers must face demands of angry, embittered population",
+        "image": "https://media.zenfs.com/en/reuters.com/5af898b75fa43385c23b93472b9e23bb",
+        "link": "https://www.yahoo.com/news/articles/war-likely-over-iranian-rulers-181626647.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Disabled oil tanker received dozens of warnings before US opened fire, AP source says",
-        "image": "https://media.zenfs.com/en/ap.org/1de121abbe8c98ac558999b00b87ddb1",
-        "link": "https://www.yahoo.com/news/world/articles/disabled-oil-tanker-received-dozens-165525386.html",
+        "title": "Trump says July 4 National Mall celebration will double as a 'Trump rally'",
+        "image": "https://media.zenfs.com/en/reuters.com/38e651d4409795ad1af20ac4d9e31892",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-says-july-4-national-161800507.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/usa_today_news_641/ac55e24b3d2f4f83db2b4aa65653dab1",
         "link": "https://www.yahoo.com/news/politics/articles/mitch-mcconnell-admitted-hospital-spokesperson-180856799.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US Air Force says 8 believed dead in B-52 bomber crash",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-air-force-says-8-believed-dead-in-b-52-bomber-crash/a-77568986?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The aircraft crashed at California's Edwards Air Force base. An investigation is now underway into the cause of the disaster...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UK announces social media ban for under-16s",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/uk-announces-social-media-ban-for-under-16s/a-77568831?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The United Kingdom is set to follow the example of Australia and Indonesia by banning teenagers from social networks. Prime Minister Keir Starmer said..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/un-calls-for-drone-regulation-in-conflict-zones/a-77565880?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "UN rights chief Volker T\u00fcrk said more than 1,000 civilians in Sudan have been killed this year by drone attacks. The UN has called for regulation and ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Strait of Hormuz reopening won't end shipping risks",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/strait-of-hormuz-reopening-won-t-end-shipping-risks/a-77553214?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A proposed US-Iran deal to reopen the Strait of Hormuz is raising hopes for global shipping and oil markets. But naval mines, high insurance costs and..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ibrahim Maza: Algeria's 'multicultural kid' from Berlin",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ibrahim-maza-algeria-s-multicultural-kid-from-berlin/a-77435644?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ibo Maza had his choice of three different countries. Instead of his native Germany, the Bayer Leverkusen forward is representing Algeria, the country..."
     },
     {
         "source": "Leafly",
