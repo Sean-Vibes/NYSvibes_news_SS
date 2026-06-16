@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hundreds of Stanford students walked out of their grad ceremony to protest Google CEO\u2019s commencement speech. It wasn\u2019t all about AI",
-        "image": "https://media.zenfs.com/en/fortune_175/4a97335ea6cfc645e544722cb1a1aad9",
-        "link": "https://www.yahoo.com/news/politics/articles/hundreds-stanford-students-walked-grad-163203264.html",
+        "title": "Trump calls for impeachment of Senate Democrat who called ending Obama\u2019s Iran deal \u2018bad mistake\u2019",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/ac2730bf199d2233d8e3b25c294bc32e",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-calls-impeachment-senate-democrat-202148240.html",
         "summary": "..."
     },
     {
@@ -64,17 +64,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mitch McConnell admitted to hospital, spokesperson says he's under 'excellent care'",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/ac55e24b3d2f4f83db2b4aa65653dab1",
-        "link": "https://www.yahoo.com/news/politics/articles/mitch-mcconnell-admitted-hospital-spokesperson-180856799.html",
+        "title": "Hundreds of Stanford students walked out of their grad ceremony to protest Google CEO\u2019s commencement speech. It wasn\u2019t all about AI",
+        "image": "https://media.zenfs.com/en/fortune_175/4a97335ea6cfc645e544722cb1a1aad9",
+        "link": "https://www.yahoo.com/news/politics/articles/hundreds-stanford-students-walked-grad-163203264.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "US Air Force says 8 believed dead in B-52 bomber crash",
+        "title": "California Governor Newsom says being investigated by Trump's administration",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-air-force-says-8-believed-dead-in-b-52-bomber-crash/a-77568986?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/california-governor-newsom-says-being-investigated-by-trump-s-administration/a-77570790?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Trump's political rival Gavin Newsom said that Trump is targeting him and his wife by investigating them, without specifying the allegations. The Cali..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "8 people dead after B-52 bomber crashes at US military base",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/8-people-dead-after-b-52-bomber-crashes-at-us-military-base/a-77568986?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The aircraft crashed at California's Edwards Air Force base. An investigation is now underway into the cause of the disaster...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran updates: Netanyahu refrains from criticizing Iran deal",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-updates-netanyahu-refrains-from-criticizing-iran-deal/live-77552154?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Israeli Prime Minister Benjamin Netanyahu, however, said he said he doesn't always share the same views as US President Donald Trump. DW has the lates..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/eu-ukraine-start-formal-accession-talks-after-orban-delay/a-77566611?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The EU has formally opened the first stage of accession negotiations with Ukraine. This comes two years later than planned, as former Hungarian PM Vik..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Palestinian leader Abbas announces elections",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/palestinian-leader-abbas-announces-elections/a-77566529?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Presidential and legislative elections haven't taken place in the Palestinian territories for twenty years due to war and occupation, with veteran Pre..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UN calls for drone regulation in conflict zones",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/un-calls-for-drone-regulation-in-conflict-zones/a-77565880?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "UN rights chief Volker T\u00fcrk said more than 1,000 civilians in Sudan have been killed this year by drone attacks. The UN has called for regulation and ..."
     },
     {
         "source": "Leafly",
