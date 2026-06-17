@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Skydivers killed in Missouri plane crash found thrills and peace through jumping",
-        "image": "https://media.zenfs.com/en/ap.org/75ef1b499c0b1a454c25d61f4a107815",
-        "link": "https://www.yahoo.com/news/us/articles/skydivers-killed-missouri-plane-crash-211822539.html",
+        "title": "About Mike DeWine, the Republican Ohio governor who has called for an end to the death penalty",
+        "image": "https://media.zenfs.com/en/ap.org/db7e242a40eb2cddc5033ffc1808ec01",
+        "link": "https://www.yahoo.com/news/politics/articles/mike-dewine-republican-ohio-governor-200535108.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,52 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "'Scientists were dead right': Al Gore says 20 years after 'An Inconvenient Truth'",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/1ccf3f9ca3cf1860c91d923fbc48058f",
+        "link": "https://www.yahoo.com/news/science/articles/scientists-were-dead-al-gore-024820200.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Skydivers killed in Missouri plane crash found thrills and peace through jumping",
+        "image": "https://media.zenfs.com/en/ap.org/75ef1b499c0b1a454c25d61f4a107815",
+        "link": "https://www.yahoo.com/news/us/articles/skydivers-killed-missouri-plane-crash-211822539.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Woman who underwent double mastectomy at 15 tells surgeon, 'You stole my girlhood'",
         "image": "https://media.zenfs.com/en/fox_news_text_979/a50314d9e134d9c8abb44eac8e0f7b9b",
         "link": "https://www.yahoo.com/news/us/articles/woman-underwent-double-mastectomy-15-210013479.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran says the deal to end the war with the US requires Israel to withdraw from Lebanon",
-        "image": "https://media.zenfs.com/en/whas_tegna_videos_568/3245d9942b988d9f0a1d639bf5afbf5f",
-        "link": "https://www.yahoo.com/news/world/articles/ml--iran-us-074319547.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Brazil: Court convicts Bolsonaro's son over US lobbying",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/brazil-court-convicts-bolsonaro-s-son-over-us-lobbying/a-77583717?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The ex-president's son Eduardo Bolsonaro has been sentenced to four \u2060years and two months for meddling in his father's coup attempt trial by seeking h..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump's Lawyers Insist There Is 'No Evidence' of 'Collusion or Fraud' in His 'Settlement With Myself'",
-        "image": "https://media.zenfs.com/en/reason_com_245/4091b7d24fe6e3f789020a9288c77b6e",
-        "link": "https://www.yahoo.com/news/politics/articles/trumps-lawyers-insist-there-is-no-evidence-of-collusion-or-fraud-in-his-settlement-with-myself-145012185.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "G7: Trump says Russia should 'make a deal' on Ukraine",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/g7-trump-says-russia-should-make-a-deal-on-ukraine/live-77556967?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US President Donald Trump said he has a \"good\" meeting with Ukraine's Zelenskyy on the sidelines of the G7 summit, as European leaders look to add pre..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "G7 vows new Russia sanctions amid optimism for Ukraine peace",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/g7-vows-new-russia-sanctions-amid-optimism-for-ukraine-peace/a-77583434?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "G7 leaders, such as German Chancellor Merz, are sounding more upbeat about the push for peace in Ukraine. The G7 is looking to hit Russia with new ene..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "5 charged in plot to attack Trump's UFC event, DOJ says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/5-charged-in-plot-to-attack-trump-s-ufc-event-doj-says/a-77583097?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The alleged plan called for flying explosives-laden drones and shooting panicked crowd members as they fled the event on the White House lawn...."
     },
     {
         "source": "Deutsche Welle",
@@ -75,34 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-iran-hezbollah-spar-over-murky-terms-of-ceasefire-deal/live-77573728?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Iran's top diplomat has said continued Israeli presence in Lebanon would violate the interim US\u2013Iran deal to end the war. Prime Minister Benjamin Neta..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany's Merz: Who are his international allies?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-merz-who-are-his-international-allies/a-77577111?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "German Chancellor Friedrich Merz has forged relations with Donald Trump, Emmanuel Macron, Keir Starmer and Giorgia Meloni. With some he is surprisingl..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russian ship fires warning shots at British yacht in Channel",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russian-ship-fires-warning-shots-at-british-yacht-in-channel/a-77581943?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russia's Defense Ministry fired at a boat that made a \"dangerous approach.\" The incident took place outside of UK territorial waters in the English Ch..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "CRISPR gene-editing for crops: Precision tool or new risk?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/crispr-gene-editing-for-crops-precision-tool-or-new-risk/a-77579053?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The EU is poised to ease restrictions on crops developed using novel genetic techniques. While supporters say the technology could help farmers adapt ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why women's inheritance reform has stalled across Arab world",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-women-s-inheritance-reform-has-stalled-across-arab-world/a-77577835?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Sharia-based inheritance laws continue to disadvantage millions of women across the Middle East. What could prompt real change for the next generation..."
     },
     {
         "source": "Leafly",
