@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Michigan Lawmakers Take Up Bill To Cap Marijuana Business Licenses As Industry Reels From Tax Increase",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/michigan-lawmakers-take-up-bill-to-cap-marijuana-business-licenses-as-industry-reels-from-tax-increase/",
+        "summary": "<p>\u201cWe are doing our best to create the right regulatory scheme to be able to adequately enforce the market.\u201d By... <a class=\"small font-montserrat fo..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "How Illinois Marijuana Rules Built A Marketplace Controlled By A Few, Despite Promises Of Equity And Opportunity (Op-Ed)",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/how-illinois-marijuana-rules-built-a-marketplace-controlled-by-a-few-despite-promises-of-equity-and-opportunity-op-ed/",
@@ -28,24 +35,10 @@
         "summary": "<p>The two South Carolina Republican candidates in a runoff election for their party\u2019s nomination to serve as the state\u2019s next... <a class=\"small font..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Virginia governor announces cannabis plan to pass this month (Newsletter: June 17, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/virginia-governor-announces-cannabis-plan-to-pass-this-month-newsletter-june-17-2026/",
-        "summary": "<p>WA officials: Federal marijuana rescheduling doesn\u2019t apply here; Congressional report calls out FDA on hemp; NC psychedelics Subscribe\u00a0to receive M..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran says the initial deal to end the war with the US requires Israel to withdraw from Lebanon",
-        "image": "https://media.zenfs.com/en/whas_tegna_videos_568/3245d9942b988d9f0a1d639bf5afbf5f",
-        "link": "https://www.yahoo.com/news/world/articles/ml--iran-us-074319547.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Woman who underwent double mastectomy at 14 tells surgeon, 'You stole my girlhood'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/a50314d9e134d9c8abb44eac8e0f7b9b",
-        "link": "https://www.yahoo.com/news/us/articles/woman-underwent-double-mastectomy-15-210013479.html",
+        "title": "Photos show the resurfaced remains of World War II's 'Death Railway' in Thailand",
+        "image": "https://media.zenfs.com/en/ap.org/ac26c07a3d2ce23be354cca1e018c966",
+        "link": "https://www.yahoo.com/news/world/articles/photos-show-resurfaced-remains-world-021759428.html",
         "summary": "..."
     },
     {
@@ -53,6 +46,13 @@
         "title": "'Scientists were dead right': Al Gore says 20 years after 'An Inconvenient Truth'",
         "image": "https://media.zenfs.com/en/us.abcnews.go.com/1ccf3f9ca3cf1860c91d923fbc48058f",
         "link": "https://www.yahoo.com/news/science/articles/scientists-were-dead-al-gore-024820200.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Woman who underwent double mastectomy at 14 tells surgeon, 'You stole my girlhood'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/a50314d9e134d9c8abb44eac8e0f7b9b",
+        "link": "https://www.yahoo.com/news/us/articles/woman-underwent-double-mastectomy-15-210013479.html",
         "summary": "..."
     },
     {
@@ -71,6 +71,20 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "US officials release 14-point Iran peace plan",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-officials-release-14-point-iran-peace-plan/a-77595563?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The interim agreement ends fighting on all fronts for 60 days and sets out provisions for the reopening of the Strait of Hormuz...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "EU lawmakers approve new tougher migrant policy",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eu-lawmakers-approve-new-tougher-migrant-policy/a-77595342?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The EU is backing tougher migration policies that seek to ramp up deportations of failed asylum-seekers. Under the new legislation, EU states can esta..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Germany: Reports of antisemitism in 2025 remain high",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-reports-of-antisemitism-in-2025-remain-high/a-77593695?maca=en-rss-en-all-1573-xml-mrss",
@@ -81,7 +95,7 @@
         "title": "Middle East: Trump could restart Iran war if deal not signed",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/middle-east-trump-could-restart-iran-war-if-deal-not-signed/live-77593730?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "President Trump says the US would \"start the process again\" if Iran doesnt't make a deal. Meanwhile, Lebanese President Joseph Aoun said any settlemen..."
+        "summary": "President Trump says the US would \"start the process again\" if Iran doesn't make a deal. Meanwhile, Lebanon's president said talks with Israel are ind..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/eu-g7-pledge-support-amid-drc-ebola-outbreak/a-77588901?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "G7 leaders called for a \"strong and coordinated response\" to the latest Ebola outbreak. The EU's Ursula von der Leyen said that \"health security is sh..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "CRISPR gene-editing for crops: Precision tool or new risk?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/crispr-gene-editing-for-crops-precision-tool-or-new-risk/a-77579053?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The EU has eased restrictions on crops developed using novel genetic techniques. While supporters say the technology could help farmers adapt to clima..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Morocco: The 2030 World Cup is more than sports, it is a national project",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/morocco-the-2030-world-cup-is-more-than-sports-it-is-a-national-project/a-77589339?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Hosting the 2030 World Cup is more than just a sporting event for Rabat. While the kingdom invests heavily in infrastructure and prestige projects, do..."
     },
     {
         "source": "Leafly",
