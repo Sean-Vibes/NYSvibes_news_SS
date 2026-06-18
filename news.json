@@ -43,13 +43,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "'Scientists were dead right': Al Gore says 20 years after 'An Inconvenient Truth'",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/1ccf3f9ca3cf1860c91d923fbc48058f",
-        "link": "https://www.yahoo.com/news/science/articles/scientists-were-dead-al-gore-024820200.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Woman who underwent double mastectomy at 14 tells surgeon, 'You stole my girlhood'",
         "image": "https://media.zenfs.com/en/fox_news_text_979/a50314d9e134d9c8abb44eac8e0f7b9b",
         "link": "https://www.yahoo.com/news/us/articles/woman-underwent-double-mastectomy-15-210013479.html",
@@ -57,16 +50,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China says it will take countermeasures to new Taiwan intelligence gathering site",
-        "image": "https://media.zenfs.com/en/reuters.com/4a9fb9ed8f67819ccc1b85d4945d6489",
-        "link": "https://www.yahoo.com/news/articles/china-says-countermeasures-taiwan-intelligence-024515677.html",
+        "title": "'Scientists were dead right': Al Gore says 20 years after 'An Inconvenient Truth'",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/1ccf3f9ca3cf1860c91d923fbc48058f",
+        "link": "https://www.yahoo.com/news/science/articles/scientists-were-dead-al-gore-024820200.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Knicks Parade Could Be Largest in NYC History, Mayor Says",
-        "image": "https://media.zenfs.com/en/nbcu_713/e2838f77144fb30c74dd148e4094da99",
-        "link": "https://www.yahoo.com/news/videos/knicks-parade-could-largest-nyc-122141699.html",
+        "title": "Donald Trump settles lawsuit against niece over publication of tax records",
+        "image": "https://media.zenfs.com/en/reuters.com/3b7454fe03a7e24612478506d773a55c",
+        "link": "https://www.yahoo.com/news/politics/articles/donald-trump-settles-lawsuit-against-152729750.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "'Happy Face' killer warns fellow serial killer Rex Heuermann could be 'tossed to the wolves' in prison",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/2661183e2804114c1222f42715f30897",
+        "link": "https://www.yahoo.com/news/us/articles/happy-face-killer-warns-fellow-100035119.html",
         "summary": "..."
     },
     {
@@ -74,7 +74,7 @@
         "title": "Live updates: Trump signs interim agreement to end Iran war",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/live-updates-trump-signs-interim-agreement-to-end-iran-war/live-77596195?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "President Donald Trump has signed an initial agreement to end the war with Iran and reopen the Strait of Hormuz. Follow the latest...."
+        "summary": "President Donald Trump and Iranian President Masoud Pezeshkian have signed an initial agreement to extend the ceasefire for another 60 days and reopen..."
     },
     {
         "source": "Deutsche Welle",
