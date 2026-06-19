@@ -43,31 +43,59 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "'Scientists were dead right': Al Gore says 20 years after 'An Inconvenient Truth'",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/1ccf3f9ca3cf1860c91d923fbc48058f",
-        "link": "https://www.yahoo.com/news/science/articles/scientists-were-dead-al-gore-024820200.html",
+        "title": "After a fight over Trump's name on the Kennedy Center, judge demands details",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/0e1577dc2df6c745cf42ef6f8bf33ba3",
+        "link": "https://www.yahoo.com/news/politics/articles/judge-orders-kennedy-center-stay-120339113.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Italy lacks evidence for now to seek trial in Sarajevo sniper probe, source says",
-        "image": "https://media.zenfs.com/en/reuters.com/2a4512dced9c77864b591ee3ba0b4482",
-        "link": "https://www.yahoo.com/news/world/articles/italy-lacks-evidence-now-seek-152634999.html",
+        "title": "'Pure hell' in Moscow as Ukrainian drones strike major refinery supplying capital's fuel market",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/b8143f52b920f276d9224d069e9eb518",
+        "link": "https://www.yahoo.com/news/world/articles/pure-hell-moscow-ukrainian-drones-161406314.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Man who died in Texas plane crash was a key figure in seeding Austin's technology boom",
-        "image": "https://media.zenfs.com/en/ap.org/90320b3844db22679d67e23d4d0d176a",
-        "link": "https://www.yahoo.com/news/us/articles/man-died-texas-plane-crash-210048476.html",
+        "title": "Supreme Court sides with a Texas man who says it\u2019s not a crime for marijuana users to have guns",
+        "image": "https://media.zenfs.com/en/ap.org/2460d768de3fef4a6ca666d8fd8cacc3",
+        "link": "https://www.yahoo.com/news/politics/articles/supreme-court-sides-texas-man-140802593.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Shelter-in-place order issued in Los Angeles over massive commercial building fire",
-        "image": "https://media.zenfs.com/en/nbcu_713/bf1b7eb3322753fa6ced749826f09d61",
-        "link": "https://www.yahoo.com/news/videos/shelter-place-order-issued-los-005810757.html",
+        "title": "Here\u2019s Why Apple CEO Tim Cook Says Prices Will Have to Increase",
+        "image": "https://media.zenfs.com/en/wall_street_journal_733/a24091a004bcd19ebc6a7c690d91a364",
+        "link": "https://finance.yahoo.com/video/why-apple-ceo-tim-cook-214400609.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Switzerland talks called off, Vance stays in US",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-switzerland-talks-called-off-vance-stays-in-us/live-77620493?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US and Iranian delegates will not be meeting on Friday as scheduled, the Swiss Foreign Ministry has said. The White House blamed logistical issues for..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UK: Manchester Mayor Andy Burnham wins parliament seat",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/uk-manchester-mayor-andy-burnham-wins-parliament-seat/a-77620475?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The by-election victory paves the way for Burnham to challenge Keir Starmer's leadership...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US probes Germany's 'persistent underpayment' for drugs",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-probes-germany-s-persistent-underpayment-for-drugs/a-77620250?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US Trade Representative said a new probe would determine if Germany was a underpaying for pharmaceuticals...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Baerbock: 'Germany team is an example to Germany's kids'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/baerbock-germany-team-is-an-example-to-germany-s-kids/a-77617935?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The president of the UN General Assembly, Annalena Baerbock, praises the diversity of Germany's football team as it plays in the World Cup...."
     },
     {
         "source": "Deutsche Welle",
@@ -75,34 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/eu-summit-leaders-discuss-ukraine-global-issues/live-77613962?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "European Union leaders agreed to extend sanctions against Russia for 12 months. Meeting in Brussels, the leaders are also set to address the bloc's ne..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UAE imposes limits on teen social media access",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uae-imposes-limits-on-teen-social-media-access/a-77614352?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The United Arab Emirates (UAE) has announced a social media ban for all children under 15. Platforms have one year to review and remove under-age acco..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russian dissident artist Semyon Skrepezki murdered in Poland",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russian-dissident-artist-semyon-skrepezki-murdered-in-poland/a-77612911?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Skrepezki was known for his scathing caricatures of Russian President Vladimir Putin. His suspected killer has been apprehended...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "World Cup: Ivory Coast's Elye Wahi denied entry to Canada",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/world-cup-ivory-coast-s-elye-wahi-denied-entry-to-canada/a-77611710?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Elephants striker Elye Wahi is being investigated in France in connection to allegations of match-fixing. The 23-year-old, who is contracted to Eintra..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Strait of Hormuz: German military prepares for possible deployment",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/strait-of-hormuz-german-military-prepares-for-possible-deployment/a-77613999?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Following the tentative deal with the US, Iran is planning to reopen the Strait of Hormuz. The German Bundeswehr is planning to assist with the mine-c..."
     },
     {
         "source": "Leafly",
