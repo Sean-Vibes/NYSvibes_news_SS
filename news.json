@@ -57,24 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Supreme Court sides with a Texas man who says it\u2019s not a crime for marijuana users to have guns",
-        "image": "https://media.zenfs.com/en/ap.org/2460d768de3fef4a6ca666d8fd8cacc3",
-        "link": "https://www.yahoo.com/news/politics/articles/supreme-court-sides-texas-man-140802593.html",
+        "title": "Comedian Carlos Mencia faces 12 felony charges for failing to report more than $8M in earnings",
+        "image": "https://media.zenfs.com/en/ap.org/fc4cfa98cc60cd8dc07755cb895d7bb4",
+        "link": "https://www.yahoo.com/entertainment/celebrity/articles/comedian-carlos-mencia-faces-12-215932758.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "'My stepmum killed my sister and made me lie about it but now we have justice'",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/64f68d93b7ec1b82597074ef63dcf9ba",
-        "link": "https://www.yahoo.com/news/us/articles/stepmum-killed-sister-made-lie-114153859.html",
+        "title": "Downtown Seattle lost 30,000 jobs, billions in office value since 2020 payroll tax: new report finds",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/14c9b67cc2a849653ce7a6bc5e00a3a3",
+        "link": "https://finance.yahoo.com/economy/policy/articles/downtown-seattle-lost-30-000-010030300.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "UK: Two trains collide north of London, injuries reported",
+        "title": "Poland's president strips Zelenskyy of top honor",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-two-trains-collide-north-of-london-injuries-reported/a-77632526?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "According to media reports, the train collision occurred about 90 kilometers north of London, resulting in multiple injuries...."
+        "link": "https://www.dw.com/en/poland-s-president-strips-zelenskyy-of-top-honor/a-77632926?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Karol Nawrocki's decision to strip Volodymyr Zelenskyy of Poland's highest honor is likely to spark a severe diplomatic crisis between Poland and Ukra..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UK: Train collision north of London kills at least one person",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/uk-train-collision-north-of-london-kills-at-least-one-person/a-77632526?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "At least one person died and many others were injured in the train collision that occurred about 90 kilometers north of London...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/lebanon-is-us-iran-peace-deal-a-victory-for-hezbollah/a-77629727?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Lebanon's Hezbollah group has claimed that the US-Iran peace deal is a \"great victory.\" The group, which is opposed to Israel, has certainly been bols..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "What to expect from the strongest El Nino in over a century",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/what-to-expect-from-the-strongest-el-nino-in-over-a-century/a-77469489?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Warnings of a mighty El Nino weather pattern this year could bring drought, flooding and extreme heat. Can we prepare for the worst of it?..."
     },
     {
         "source": "Leafly",
