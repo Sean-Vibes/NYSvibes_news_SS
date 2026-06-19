@@ -37,7 +37,7 @@
     {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "South Dakota man whose life sentence was commuted by Noem now implicated in his niece's death",
-        "image": "https://media.zenfs.com/en/ap.org/4e9ed128fa40deadae4ddbc96021a6c5",
+        "image": "https://media.zenfs.com/en/ap.org/8b5681e0e60f22458b76ae1e01707842",
         "link": "https://www.yahoo.com/news/us/articles/south-dakota-man-whose-life-210435889.html",
         "summary": "..."
     },
@@ -64,10 +64,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "'Happy Face' killer warns fellow serial killer Rex Heuermann could be 'tossed to the wolves' in prison",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/2661183e2804114c1222f42715f30897",
-        "link": "https://www.yahoo.com/news/us/articles/happy-face-killer-warns-fellow-100035119.html",
+        "title": "Shelter-in-place order issued in Los Angeles over massive commercial building fire",
+        "image": "https://media.zenfs.com/en/nbcu_713/bf1b7eb3322753fa6ced749826f09d61",
+        "link": "https://www.yahoo.com/news/videos/shelter-place-order-issued-los-005810757.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "EU summit: Leaders discuss Ukraine, global issues",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eu-summit-leaders-discuss-ukraine-global-issues/live-77613962?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "European Union leaders agreed to extend sanctions against Russia for 12 months. Meeting in Brussels, the leaders are also set to address the bloc's ne..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,13 +89,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/russian-dissident-artist-semyon-skrepezki-murdered-in-poland/a-77612911?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Skrepezki was known for his scathing caricatures of Russian President Vladimir Putin. His suspected killer has been apprehended...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "EU summit: Leaders discuss Ukraine, global issues",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-summit-leaders-discuss-ukraine-global-issues/live-77613962?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "European Union leaders agreed to extend sanctions against Russia for 12 months. Meeting in Brussels, the leaders are also set to address the bloc's ne..."
     },
     {
         "source": "Deutsche Welle",
