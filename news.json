@@ -43,13 +43,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Body found in South Carolina ID\u2019d as missing fitness trainer who told friend she was 'scared for her life'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/8810f73cd9ba7c93c9febbe55b7c7aac",
-        "link": "https://www.yahoo.com/news/us/articles/body-found-south-carolina-id-221549753.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "'Pure hell' in Moscow as Ukrainian drones strike major refinery supplying capital's fuel market",
         "image": "https://media.zenfs.com/en/fox_news_text_979/b8143f52b920f276d9224d069e9eb518",
         "link": "https://www.yahoo.com/news/world/articles/pure-hell-moscow-ukrainian-drones-161406314.html",
@@ -57,52 +50,59 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukraine's Azov fighters were forced from Mariupol. Now they're hitting back",
-        "image": "https://media.zenfs.com/en/reuters.com/5e46a1e45ffc7c543cca8cb6b3ec27bc",
-        "link": "https://www.yahoo.com/news/articles/ukraines-azov-fighters-were-forced-060333299.html",
+        "title": "Google DeepMind unveils plan to protect itself from its own rogue AI agents",
+        "image": "https://media.zenfs.com/en/fortune_175/499220f96773971f7c53f73083a8c57a",
+        "link": "https://tech.yahoo.com/ai/gemini/articles/google-deepmind-unveils-plan-protect-130000926.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "New US Air Force investigation shows how an in-flight refueling of an F-22 Raptor went wrong to the tune of nearly $10 million",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/d8514811d492fe92f17a6fecd8d47503",
-        "link": "https://www.yahoo.com/news/us/articles/us-air-force-investigation-shows-104701841.html",
+        "title": "US appeals court blocks Trump admin from enacting new plans to slash consumer watchdog staff",
+        "image": "https://media.zenfs.com/en/reuters.com/4e6ef2932f526b492c9bfe7950389f0f",
+        "link": "https://www.yahoo.com/news/politics/articles/us-appeals-court-blocks-trump-000112620.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Body found in South Carolina ID\u2019d as missing fitness trainer who told friend she was 'scared for her life'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/8810f73cd9ba7c93c9febbe55b7c7aac",
+        "link": "https://www.yahoo.com/news/us/articles/body-found-south-carolina-id-221549753.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Summer thunderstorms wreak havoc",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-summer-thunderstorms-wreak-havoc/live-77635252?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany was lashed overnight by summer storms that caused flooding, injuries and evacuations. Lightning, high winds and heavy rain saw several people ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Woman killed, hundreds evacuate in Dominican Republic hotel fire",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/woman-killed-hundreds-evacuate-in-dominican-republic-hotel-fire/a-77634423?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A huge fire tore through a four-star beach resort in the Dominican Republic, killing one woman. About 1,700 tourists were evacuated as the fire appear..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Hundreds expected to attend 'Cockroach' party protest",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-hundreds-expected-to-attend-cockroach-party-protest/live-77634329?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The viral Cockroach Janta Party is escalating pressure on the government, citing exam irregularities and student suicides in its campaign against Educ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Steve Witkoff heading to Switzerland for talks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-steve-witkoff-heading-to-switzerland-for-talks/live-77634368?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US and Iranian diplomats are reportedly heading to Switzerland for peace talks. An initial round of negotiations involving US Vice President JD Vance ..."
     },
     {
         "source": "Deutsche Welle",
         "title": "First case of H5 bird flu confirmed in Australia",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/first-case-of-h5-bird-flu-confirmed-in-australia/a-77633767?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A migratory sea bird tested positive for the contagious H5 variant of bird flu in Western Australia. Up until now Australia was the only continent whi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump unveils interim Air Force One, gifted from Qatar",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-unveils-interim-air-force-one-gifted-from-qatar/a-77633683?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A former Qatari-owned jumbo jet, converted into the new presidential aircraft, is nearly ready for service. Trump said it had been transformed into \"a..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Meloni 'stunned' by Trump's comment she 'begged' for photo",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/meloni-stunned-by-trump-s-comment-she-begged-for-photo/a-77633016?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Donald Trump's comments that Italian Prime Minister Giorgia Meloni \"begged for a picture\" have elicited a furious response from Rome. Meloni said she ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Poland's president strips Zelenskyy of top honor",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/poland-s-president-strips-zelenskyy-of-top-honor/a-77632926?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Karol Nawrocki's decision to strip Volodymyr Zelenskyy of Poland's highest honor is likely to spark a severe diplomatic crisis between Poland and Ukra..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UK: Train collision north of London kills at least one person",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-train-collision-north-of-london-kills-at-least-one-person/a-77632526?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "At least one person died and many others were injured in the train collision that occurred about 90 kilometers north of London...."
+        "summary": "A migratory seabird tested positive for the contagious H5 variant of avian influenza in Western Australia. Australia had been the only continent where..."
     },
     {
         "source": "Leafly",
