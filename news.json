@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Comedian Carlos Mencia faces 12 felony charges for failing to report more than $8M in earnings",
-        "image": "https://media.zenfs.com/en/ap.org/fc4cfa98cc60cd8dc07755cb895d7bb4",
-        "link": "https://www.yahoo.com/entertainment/celebrity/articles/comedian-carlos-mencia-faces-12-215932758.html",
+        "title": "Shelter-in-place order issued in Los Angeles over massive commercial building fire",
+        "image": "https://media.zenfs.com/en/nbcu_713/bf1b7eb3322753fa6ced749826f09d61",
+        "link": "https://www.yahoo.com/news/videos/shelter-place-order-issued-los-005810757.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/14c9b67cc2a849653ce7a6bc5e00a3a3",
         "link": "https://finance.yahoo.com/economy/policy/articles/downtown-seattle-lost-30-000-010030300.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Meloni 'stunned' by Trump's comment she 'begged' for photo",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/meloni-stunned-by-trump-s-comment-she-begged-for-photo/a-77633016?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Donald Trump's comments that Italian Prime Minister Giorgia Meloni \"begged for a picture\" have elicited a furious response from Rome. Meloni said she ..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/german-journalist-detained-in-syria-back-home-lawyer-says/a-77631412?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Eva Maria Michelmann vanished in Syria in January as government forces advanced on Kurdish fighters in the northeast. The German government last week ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Lebanon: Is US-Iran peace deal a 'victory' for Hezbollah?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/lebanon-is-us-iran-peace-deal-a-victory-for-hezbollah/a-77629727?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Lebanon's Hezbollah group has claimed that the US-Iran peace deal is a \"great victory.\" The group, which is opposed to Israel, has certainly been bols..."
     },
     {
         "source": "Leafly",
