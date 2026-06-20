@@ -43,9 +43,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Google DeepMind unveils plan to protect itself from its own rogue AI agents",
-        "image": "https://media.zenfs.com/en/fortune_175/499220f96773971f7c53f73083a8c57a",
-        "link": "https://tech.yahoo.com/ai/gemini/articles/google-deepmind-unveils-plan-protect-130000926.html",
+        "title": "Body found in South Carolina ID\u2019d as missing fitness trainer who told friend she was 'scared for her life'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/8810f73cd9ba7c93c9febbe55b7c7aac",
+        "link": "https://www.yahoo.com/news/us/articles/body-found-south-carolina-id-221549753.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Shelter-in-place order issued in Los Angeles over massive commercial building fire",
-        "image": "https://media.zenfs.com/en/nbcu_713/bf1b7eb3322753fa6ced749826f09d61",
-        "link": "https://www.yahoo.com/news/videos/shelter-place-order-issued-los-005810757.html",
+        "title": "Ukraine's Azov fighters were forced from Mariupol. Now they're hitting back",
+        "image": "https://media.zenfs.com/en/reuters.com/5e46a1e45ffc7c543cca8cb6b3ec27bc",
+        "link": "https://www.yahoo.com/news/articles/ukraines-azov-fighters-were-forced-060333299.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Downtown Seattle lost 30,000 jobs, billions in office value since 2020 payroll tax: new report finds",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/14c9b67cc2a849653ce7a6bc5e00a3a3",
-        "link": "https://finance.yahoo.com/economy/policy/articles/downtown-seattle-lost-30-000-010030300.html",
+        "title": "New US Air Force investigation shows how an in-flight refueling of an F-22 Raptor went wrong to the tune of nearly $10 million",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/d8514811d492fe92f17a6fecd8d47503",
+        "link": "https://www.yahoo.com/news/us/articles/us-air-force-investigation-shows-104701841.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "First case of H5 bird flu confirmed in Australia",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/first-case-of-h5-bird-flu-confirmed-in-australia/a-77633767?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A migratory sea bird tested positive for the contagious H5 variant of bird flu in Western Australia. Up until now Australia was the only continent whi..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Trump unveils interim Air Force One, gifted from Qatar",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-unveils-interim-air-force-one-gifted-from-qatar/a-77633683?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A former Qatari-owned jumbo jet, converted into the new presidential aircraft, is nearly ready for service. Trump said it had been transformed into \"a..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/uk-train-collision-north-of-london-kills-at-least-one-person/a-77632526?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "At least one person died and many others were injured in the train collision that occurred about 90 kilometers north of London...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "EU ban on BPA chemical in food packaging takes effect",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-ban-on-bpa-chemical-in-food-packaging-takes-effect/a-77630680?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "From July 2026 onwards, BPA will no longer be permitted in EU food packaging. The industrial chemical is known to interfere with the human hormonal sy..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "German journalist detained in Syria back home, lawyer says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/german-journalist-detained-in-syria-back-home-lawyer-says/a-77631412?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Eva Maria Michelmann vanished in Syria in January as government forces advanced on Kurdish fighters in the northeast. The German government last week ..."
     },
     {
         "source": "Leafly",
