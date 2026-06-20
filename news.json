@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump from 'hunted' to 'hunter': New book details Trump's push to test the limits of executive power",
-        "image": "https://media.zenfs.com/en/ap.org/1a5dda2d47de44fbc8fc93aa2475a0ac",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-hunted-hunter-book-details-210139835.html",
+        "title": "US-Iran talks begin Sunday as Tehran closes the strait over Lebanon fighting",
+        "image": "https://media.zenfs.com/en/ap.org/42df008e4402df6f425dc3fa57222c6b",
+        "link": "https://www.yahoo.com/news/world/articles/fighting-persists-lebanon-despite-ceasefire-091508020.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/8810f73cd9ba7c93c9febbe55b7c7aac",
         "link": "https://www.yahoo.com/news/us/articles/body-found-south-carolina-id-221549753.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Spain: PM's wife must face corruption trial, judge rules",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/spain-pm-s-wife-must-face-corruption-trial-judge-rules/a-77638811?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A court in Madrid ruled that there is sufficient evidence against Begona Gomez, the wife of Prime Minister Pedro Sanchez. The 55-year-old university d..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-says-it-s-closing-strait-of-hormuz-again/live-77634368?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Iran's joint military command said the strait had been closed due to Israel's continued attacks in Lebanon. Meanwhile, Iran's negotiators are heading ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pakistan: Roadside bombs kill 7 in northwest",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pakistan-roadside-bombs-kill-7-in-northwest/a-77636194?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A police officer said twin blasts in Pakistan's northwestern Khyber Pakhtunkhwa province were triggered remotely. No group immediately claimed respons..."
     },
     {
         "source": "Leafly",
