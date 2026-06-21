@@ -36,9 +36,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Vietnamese man deported from U.S. to South Sudan is repatriated after months in detention",
-        "image": "https://media.zenfs.com/en/ap.org/63f8d3d7e1685eed44f53e0c4e9bf933",
-        "link": "https://www.yahoo.com/news/us/articles/vietnamese-man-deported-u-south-091915002.html",
+        "title": "Judge denies Biden's bid to block release of transcripts linked to special counsel inquiry",
+        "image": "https://media.zenfs.com/en/ap.org/cc08463dda28891d9e5e06f39cad5145",
+        "link": "https://www.yahoo.com/news/politics/articles/judge-denies-bidens-bid-block-190918238.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "'I've banned most men from my massage clinic because of their behaviour'",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/8bb306c296ef53f01dfee773eddb5fa7",
+        "link": "https://www.yahoo.com/news/us/articles/ive-banned-most-men-massage-224651019.html",
         "summary": "..."
     },
     {
@@ -50,23 +57,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "DOJ warns former red state is becoming the next California as governor embraces ICE limits",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/4a95363fd60d4b3df30a10c7dd62b52b",
-        "link": "https://www.yahoo.com/news/politics/articles/doj-warns-former-red-state-170658097.html",
+        "title": "Pentagon tells US lawmakers it needs $80 billion for Iran war and other bills, WSJ reports",
+        "image": "https://media.zenfs.com/en/reuters.com/1f3ca9a39e0a9d2c44489223f4a9e654",
+        "link": "https://www.yahoo.com/news/articles/pentagon-tells-us-lawmakers-needs-033542323.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump deepens the dustup with Italy's Meloni, who says his 'unprovoked attacks are senseless'",
-        "image": "https://media.zenfs.com/en/ap.org/2a957a664ef2c6f0dac7325e11f8be93",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-deepens-dustup-italys-meloni-130612645.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "New US Air Force investigation shows how an in-flight refueling of an F-22 Raptor went wrong to the tune of nearly $10 million",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/d8514811d492fe92f17a6fecd8d47503",
-        "link": "https://www.yahoo.com/news/us/articles/us-air-force-investigation-shows-104701841.html",
+        "title": "Shares ease as investors ponder US-Iran peace talks; yen nears 40-year lows",
+        "image": "https://media.zenfs.com/en/reuters.com/d345ab3152583dfdccefac6536ff8f77",
+        "link": "https://finance.yahoo.com/markets/world-indices/articles/stocks-set-records-japan-south-034723062.html",
         "summary": "..."
     },
     {
