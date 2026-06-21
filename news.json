@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Judge denies Biden's bid to block release of transcripts linked to special counsel inquiry",
-        "image": "https://media.zenfs.com/en/ap.org/cc08463dda28891d9e5e06f39cad5145",
-        "link": "https://www.yahoo.com/news/politics/articles/judge-denies-bidens-bid-block-190918238.html",
+        "title": "Vietnamese man deported from U.S. to South Sudan is repatriated after months in detention",
+        "image": "https://media.zenfs.com/en/ap.org/63f8d3d7e1685eed44f53e0c4e9bf933",
+        "link": "https://www.yahoo.com/news/us/articles/vietnamese-man-deported-u-south-091915002.html",
         "summary": "..."
     },
     {
@@ -50,31 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Dem who sued to remove Trump's name from Kennedy Center now says venue becoming 'lifeless husk' in fresh fight",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/4ca657cde8fe7457a0658ba93e6dbcd9",
-        "link": "https://www.yahoo.com/news/politics/articles/dem-sued-remove-trumps-name-181559057.html",
+        "title": "New US Air Force investigation shows how an in-flight refueling of an F-22 Raptor went wrong to the tune of nearly $10 million",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/d8514811d492fe92f17a6fecd8d47503",
+        "link": "https://www.yahoo.com/news/us/articles/us-air-force-investigation-shows-104701841.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Pentagon tells US lawmakers it needs $80 billion for Iran war and other bills, WSJ reports",
-        "image": "https://media.zenfs.com/en/reuters.com/1f3ca9a39e0a9d2c44489223f4a9e654",
-        "link": "https://www.yahoo.com/news/articles/pentagon-tells-us-lawmakers-needs-033542323.html",
+        "title": "Judge denies Biden's bid to block release of transcripts linked to special counsel inquiry",
+        "image": "https://media.zenfs.com/en/ap.org/cc08463dda28891d9e5e06f39cad5145",
+        "link": "https://www.yahoo.com/news/politics/articles/judge-denies-bidens-bid-block-190918238.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Shares ease as investors ponder US-Iran peace talks; yen nears 40-year lows",
-        "image": "https://media.zenfs.com/en/reuters.com/d345ab3152583dfdccefac6536ff8f77",
-        "link": "https://finance.yahoo.com/markets/world-indices/articles/stocks-set-records-japan-south-034723062.html",
+        "title": "DOJ warns former red state is becoming the next California as governor embraces ICE limits",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/4a95363fd60d4b3df30a10c7dd62b52b",
+        "link": "https://www.yahoo.com/news/politics/articles/doj-warns-former-red-state-170658097.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US and Iranian negotiators head to Switzerland for talks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-and-iranian-negotiators-head-to-switzerland-for-talks/live-77641405?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US Vice President JD Vance is en route to Switzerland for talks with Iran's delegation in the mountain resort in B\u00fcrgenstock. Follow DW...."
     },
     {
         "source": "Deutsche Welle",
         "title": "Undav heroics help Germany beat Ivory Coast",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/undav-heroics-help-germany-beat-ivory-coast/a-77639564?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In Germany's second 2026 World Cup game, Undaz helped Germany to a comeback win against the Ivory Coast in Toronto...."
+        "summary": "In Germany's second 2026 World Cup game, Deniz Undav helped Germany to a comeback win against Ivory Coast in Toronto...."
     },
     {
         "source": "Deutsche Welle",
@@ -92,17 +99,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "France bans alcohol at music festival events amid heatwave alert",
+        "title": "France bans alcohol during Fete de la Musique amid heat wave",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/france-bans-alcohol-at-music-festival-events-amid-heatwave-alert/a-77639233?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "France takes additional measures as millions gear up for Fete de la Musique amid punishing temperatures...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Spain: PM's wife must face corruption trial, judge rules",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/spain-pm-s-wife-must-face-corruption-trial-judge-rules/a-77638811?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A court in Madrid ruled that there is sufficient evidence against Begona Gomez, the wife of Prime Minister Pedro Sanchez. The 55-year-old university d..."
+        "link": "https://www.dw.com/en/france-bans-alcohol-during-fete-de-la-musique-amid-heat-wave/a-77639233?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "France is taking additional measures as millions of people gear up for Fete de la Musique under punishing temperatures...."
     },
     {
         "source": "Leafly",
