@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Bill To Put Marijuana On The Ballot In North Carolina Unlikely To Advance, GOP Senate Leader Says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/bill-to-put-marijuana-on-the-ballot-in-north-carolina-unlikely-to-advance-gop-senate-leader-says/",
+        "summary": "<p>\u201cI\u2019m not sure that we\u2019re in a place where legalizing marijuana is going to be taken up.\u201d By Brandon Kingdollar,... <a class=\"small font-montserrat ..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Vermont Governor Signs Bill To Double Legal Marijuana Possession Limit And Allow Interstate Commerce",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/vermont-governor-signs-bill-to-double-legal-marijuana-possession-limit-and-allow-interstate-commerce/",
@@ -28,13 +35,6 @@
         "summary": "<p>A coalition of marijuana reform and social justice organizations are calling on Virginia\u2019s governor and lawmakers to remove provisions to... <a cla..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Fewer Colorado Teens Are Using Marijuana Now Than Before Legalization, State Study Shows, Refuting Opponents\u2019 Core Argument",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/fewer-colorado-teens-are-using-marijuana-now-than-before-legalization-state-study-shows-refuting-opponents-core-argument/",
-        "summary": "<p>Rates of marijuana use among Colorado teens continued to decline in 2025\u2014and youth are also reporting significantly lower levels of... <a class=\"sm..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "US appeals court blocks Trump admin from enacting new plans to slash consumer watchdog staff",
         "image": "https://media.zenfs.com/en/reuters.com/4e6ef2932f526b492c9bfe7950389f0f",
@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Body found in South Carolina ID\u2019d as missing fitness trainer who told friend she was 'scared for her life'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/8810f73cd9ba7c93c9febbe55b7c7aac",
-        "link": "https://www.yahoo.com/news/us/articles/body-found-south-carolina-id-221549753.html",
+        "title": "Africa CDC chief says the continent needs to invest its own funds in Ebola response, vaccine",
+        "image": "https://media.zenfs.com/en/ap.org/eaab63d32204443718d57f139b8d2dab",
+        "link": "https://www.yahoo.com/news/world/articles/africa-cdc-chief-says-continent-202115314.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Dem who sued to remove Trump's name from Kennedy Center now says venue becoming 'lifeless husk' in fresh fight",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/4ca657cde8fe7457a0658ba93e6dbcd9",
-        "link": "https://www.yahoo.com/news/politics/articles/dem-sued-remove-trumps-name-181559057.html",
+        "title": "If \u2018ambiguity\u2019 is allowed in U.S.-Iran deal, it won\u2019t be \u2018worth very much\u2019: Fmr. energy secretary",
+        "image": "https://media.zenfs.com/en/nbcu_713/118d0739854721d4f8b44b4e94cd32a3",
+        "link": "https://www.yahoo.com/news/videos/ambiguity-allowed-u-iran-deal-204004714.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ethiopia's ruling party wins overwhelming majority in parliament",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ethiopia-s-ruling-party-wins-overwhelming-majority-in-parliament/a-77647557?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Prime Minister Abiy Ahmed\u2019s Prosperity Party comfortably secured another parliamentary majority, defeating a fragmented opposition...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "AI scandal rocks the German media",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ai-scandal-rocks-the-german-media/a-77606407?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Two leading German newspapers have deleted articles created with the use of artificial intelligence. Many fear an increasing reliance on AI will damag..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "How TikTok-style videos keep human brains hooked on content",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/how-tiktok-style-videos-keep-human-brains-hooked-on-content/a-77627720?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "TikTok, Instagram and YouTube clips are designed to overwhelm the brain's pleasure circuitry and keep people watching. Researchers say short-form vide..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UK's Starmer mulls 'political realities' after Burnham by-election",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/uk-s-starmer-mulls-political-realities-after-burnham-by-election/a-77644772?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A member of UK Prime Minister Keir Starmer's Cabinet said it would be \"delusional\" to pretend there was no threat to his position. But he also said he..."
     },
     {
         "source": "Deutsche Welle",
@@ -75,34 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/stonehenge-revelers-ring-in-summer-solstice/a-77643500?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Thousands celebrated through the night at Stonehenge in southwest England, ushering in the sunrise on the longest day of the year in the Northern Hemi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany could scrap law banning insults against politicians",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-could-scrap-law-banning-insults-against-politicians/a-77630055?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany's special law prohibiting the insulting of politicians has led to cases that many people consider absurd. Some members of the government want ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine hits Russia-controlled Crimea in deadly drone attack",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-hits-russia-controlled-crimea-in-deadly-drone-attack/a-77642973?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Footage of fires at a major depot on Crimea circulated on social media. The Moscow-aligned governor of Crimea has halted public fuel sales after the a..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Sudan: UN warns of mass atrocities in El-Obeid",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/sudan-un-warns-of-mass-atrocities-in-el-obeid/a-77642972?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The United Nations Security Council has called on the paramilitary RSF in Sudan to not launch an attack on the city of El-Obeid...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US, Iran hold talks in Switzerland while Strait of Hormuz remains shut",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-iran-hold-talks-in-switzerland-while-strait-of-hormuz-remains-shut/live-77641405?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Officials from the United States and Iran have begun talks to shore up an interim deal to end the war. Follow DW for more...."
     },
     {
         "source": "Leafly",
