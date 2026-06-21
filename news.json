@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US appeals court blocks Trump admin from enacting new plans to slash consumer watchdog staff",
-        "image": "https://media.zenfs.com/en/reuters.com/4e6ef2932f526b492c9bfe7950389f0f",
-        "link": "https://www.yahoo.com/news/politics/articles/us-appeals-court-blocks-trump-admin-from-enacting-new-plans-to-slash-consumer-watchdog-staff-000112620.html",
+        "title": "People ticketed for vandalizing Washington Reflecting Pool to be fully prosecuted, US Attorney Pirro says",
+        "image": "https://media.zenfs.com/en/reuters.com/a5a9bc39995d3fce381c6ebcdbbfc55f",
+        "link": "https://www.yahoo.com/news/us/articles/people-ticketed-vandalizing-washington-reflecting-190612134.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Scientists may have solved weight regain problem from GLP-1 drugs",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/efe649361c88e4ac3d2a5c8cc1961bd8",
-        "link": "https://www.yahoo.com/news/science/articles/scientists-may-solved-weight-regain-173213586.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nigerian migrants returning from South Africa face the same economic issues they left behind",
-        "image": "https://media.zenfs.com/en/ap.org/8b098b98ff161b29427bfd23b6d44335",
-        "link": "https://www.yahoo.com/news/world/articles/nigerian-migrants-returning-south-africa-050145797.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Dem who sued to remove Trump's name from Kennedy Center now says venue becoming 'lifeless husk' in fresh fight",
         "image": "https://media.zenfs.com/en/fox_news_text_979/4ca657cde8fe7457a0658ba93e6dbcd9",
         "link": "https://www.yahoo.com/news/politics/articles/dem-sued-remove-trumps-name-181559057.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "US appeals court blocks Trump admin from enacting new plans to slash consumer watchdog staff",
+        "image": "https://media.zenfs.com/en/reuters.com/4e6ef2932f526b492c9bfe7950389f0f",
+        "link": "https://www.yahoo.com/news/politics/articles/us-appeals-court-blocks-trump-admin-from-enacting-new-plans-to-slash-consumer-watchdog-staff-000112620.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "North Carolina furniture manufacturer allegedly kills business partner hours after losing contract dispute",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/aa6b45e1ba282e475c68bb7908f793c3",
+        "link": "https://www.yahoo.com/news/us/articles/north-carolina-furniture-manufacturer-allegedly-kills-business-partner-hours-after-losing-contract-dispute-214940582.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Severe heat wave sweeps Europe, triggering alerts and disruptions",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/severe-heat-wave-sweeps-europe-triggering-alerts-and-disruptions/a-77648446?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Authorities accross Europe have warned of temperatures exceeding 39 and 40 degrees Celsius as a 'heat dome' sets in. Germany also faces the threat of ..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ai-scandal-rocks-the-german-media/a-77606407?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Two leading German newspapers have deleted articles created with the use of artificial intelligence. Many fear an increasing reliance on AI will damag..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How TikTok-style videos keep human brains hooked on content",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-tiktok-style-videos-keep-human-brains-hooked-on-content/a-77627720?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "TikTok, Instagram and YouTube clips are designed to overwhelm the brain's pleasure circuitry and keep people watching. Researchers say short-form vide..."
     },
     {
         "source": "Leafly",
