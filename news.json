@@ -36,16 +36,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "People ticketed for vandalizing Washington Reflecting Pool to be fully prosecuted, US Attorney Pirro says",
-        "image": "https://media.zenfs.com/en/reuters.com/a5a9bc39995d3fce381c6ebcdbbfc55f",
-        "link": "https://www.yahoo.com/news/us/articles/people-ticketed-vandalizing-washington-reflecting-190612134.html",
+        "title": "US appeals court blocks Trump admin from enacting new plans to slash consumer watchdog staff",
+        "image": "https://media.zenfs.com/en/reuters.com/4e6ef2932f526b492c9bfe7950389f0f",
+        "link": "https://www.yahoo.com/news/politics/articles/us-appeals-court-blocks-trump-admin-from-enacting-new-plans-to-slash-consumer-watchdog-staff-000112620.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Body found in South Carolina ID\u2019d as missing fitness trainer who told friend she was 'scared for her life'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/8810f73cd9ba7c93c9febbe55b7c7aac",
-        "link": "https://www.yahoo.com/news/us/articles/body-found-south-carolina-id-221549753.html",
+        "title": "Girl and two boys held over teen's fatal stabbing",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/3ca0fd5ec85fb7ebda34292e4954b803",
+        "link": "https://www.yahoo.com/news/world/articles/three-teens-arrested-over-fatal-161618393.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US appeals court blocks Trump admin from enacting new plans to slash consumer watchdog staff",
-        "image": "https://media.zenfs.com/en/reuters.com/4e6ef2932f526b492c9bfe7950389f0f",
-        "link": "https://www.yahoo.com/news/politics/articles/us-appeals-court-blocks-trump-admin-from-enacting-new-plans-to-slash-consumer-watchdog-staff-000112620.html",
+        "title": "People ticketed for vandalizing Washington Reflecting Pool to be fully prosecuted, US Attorney Pirro says",
+        "image": "https://media.zenfs.com/en/reuters.com/a5a9bc39995d3fce381c6ebcdbbfc55f",
+        "link": "https://www.yahoo.com/news/us/articles/people-ticketed-vandalizing-washington-reflecting-190612134.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Senate\u2019s likely next No. 2 warns Trump if Democrats take the majority: \u2018It\u2019s going to be a fight\u2019 on key values",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/7075753936e2b2e15af2d34c2d259370",
-        "link": "https://www.yahoo.com/news/politics/articles/senate-likely-next-no-2-110025259.html",
+        "title": "Iran's unprecedented 'whole-regime' delegation at US deal talks signals one goal: expert",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/678a1da773267000f0cc787cabc5d9ed",
+        "link": "https://www.yahoo.com/news/politics/articles/irans-unprecedented-whole-regime-delegation-191623039.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Colombia election: Hard-right candidate poised to win in early results",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/colombia-election-hard-right-candidate-poised-to-win-in-early-results/a-77650646?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Right-wing presidential candidate, Abelardo de la Espriella, has won more than 50% of the Colombians' votes, according to preliminary results...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Czechia: Thousands march in support of public media funding",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/czechia-thousands-march-in-support-of-public-media-funding/a-77650608?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Prime Minister Andrej Babis' government has been accused of seeking to take control over Czech public media. The plan would leave broadcasters with a ..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/scottish-police-arrest-man-over-edinburgh-attacks/a-77647568?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Five people were injured in the attacks on Friday that were described by Prime Minister Keir Starmer as being motivated by \"anti-Muslim hatred.\"..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ethiopia's ruling party wins overwhelming majority in parliament",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ethiopia-s-ruling-party-wins-overwhelming-majority-in-parliament/a-77647557?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Prime Minister Abiy Ahmed\u2019s Prosperity Party comfortably secured another parliamentary majority, defeating a fragmented opposition...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "AI scandal rocks the German media",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ai-scandal-rocks-the-german-media/a-77606407?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Two leading German newspapers have deleted articles created with the use of artificial intelligence. Many fear an increasing reliance on AI will damag..."
     },
     {
         "source": "Leafly",
