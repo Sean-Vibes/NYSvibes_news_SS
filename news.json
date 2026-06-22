@@ -36,16 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US appeals court blocks Trump admin from enacting new plans to slash consumer watchdog staff",
-        "image": "https://media.zenfs.com/en/reuters.com/4e6ef2932f526b492c9bfe7950389f0f",
-        "link": "https://www.yahoo.com/news/politics/articles/us-appeals-court-blocks-trump-admin-from-enacting-new-plans-to-slash-consumer-watchdog-staff-000112620.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Girl and two boys held over teen's fatal stabbing",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/3ca0fd5ec85fb7ebda34292e4954b803",
-        "link": "https://www.yahoo.com/news/world/articles/three-teens-arrested-over-fatal-161618393.html",
+        "title": "People ticketed for vandalizing Washington Reflecting Pool to be fully prosecuted, US Attorney Pirro says",
+        "image": "https://media.zenfs.com/en/reuters.com/a5a9bc39995d3fce381c6ebcdbbfc55f",
+        "link": "https://www.yahoo.com/news/us/articles/people-ticketed-vandalizing-washington-reflecting-190612134.html",
         "summary": "..."
     },
     {
@@ -57,24 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "People ticketed for vandalizing Washington Reflecting Pool to be fully prosecuted, US Attorney Pirro says",
-        "image": "https://media.zenfs.com/en/reuters.com/a5a9bc39995d3fce381c6ebcdbbfc55f",
-        "link": "https://www.yahoo.com/news/us/articles/people-ticketed-vandalizing-washington-reflecting-190612134.html",
+        "title": "Former Trump Defense secretary: \u2018I don\u2019t see that the president is always getting good advice\u2019",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/d4b685e3194870b2d7f5bb245f790c94",
+        "link": "https://www.yahoo.com/news/politics/articles/former-trump-defense-secretary-don-191327513.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran's unprecedented 'whole-regime' delegation at US deal talks signals one goal: expert",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/678a1da773267000f0cc787cabc5d9ed",
-        "link": "https://www.yahoo.com/news/politics/articles/irans-unprecedented-whole-regime-delegation-191623039.html",
+        "title": "Newly released video captures the aftermath of a fatal teen stabbing at a Texas track meet",
+        "image": "https://media.zenfs.com/en/ap.org/d113d5a9bee5d9abafb740519f58a64b",
+        "link": "https://www.yahoo.com/news/us/articles/newly-released-video-captures-aftermath-214135312.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "She got home, left a movie in the VCR and vanished. Decades later, police haven\u2019t given up on the search for Carla Anderson",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/5def191b5a4d98fbbef6e5ae45d9ab0e",
+        "link": "https://www.yahoo.com/news/us/articles/she-got-home-left-movie-103026588.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Colombia election: Hard-right candidate poised to win in early results",
+        "title": "US-Iran talks end in Switzerland, mediators say",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/colombia-election-hard-right-candidate-poised-to-win-in-early-results/a-77650646?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Right-wing presidential candidate, Abelardo de la Espriella, has won more than 50% of the Colombians' votes, according to preliminary results...."
+        "link": "https://www.dw.com/en/us-iran-talks-end-in-switzerland-mediators-say/live-77641405?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "According to mediators from Qatar and Pakistan, the talks between United States and Iranian officials in Switzerland have ended with both sides agreei..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Colombia election: Hard-right candidate claims victory",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/colombia-election-hard-right-candidate-claims-victory/a-77650646?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Right-wing presidential candidate, Abelardo de la Espriella, won 49.66% of the Colombians' votes, according to preliminary results...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Deniz Undav: Germany's 2026 World Cup supersub",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/deniz-undav-germany-s-2026-world-cup-supersub/a-77650649?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Deniz Undav is the man in focus for Germany, but things could have turned out very differently for the Stuttgart striker...."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/severe-heat-wave-sweeps-europe-triggering-alerts-and-disruptions/a-77648446?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Authorities accross Europe have warned of temperatures exceeding 39 and 40 degrees Celsius as a 'heat dome' sets in. Germany also faces the threat of ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Romania's Dan taps new PM, breaks democratic norms",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/romania-s-dan-taps-new-pm-breaks-democratic-norms/a-77618469?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "President Nicusor Dan has nominated a new prime minister, without consulting Romania\u2019s governing parties. Critics accuse Dan of breaking democratic ru..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Scottish police arrest man over Edinburgh attacks",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/scottish-police-arrest-man-over-edinburgh-attacks/a-77647568?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Five people were injured in the attacks on Friday that were described by Prime Minister Keir Starmer as being motivated by \"anti-Muslim hatred.\"..."
     },
     {
         "source": "Leafly",
