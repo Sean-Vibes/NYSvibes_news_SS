@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "New Virginia legal cannabis sales plan heads to governor\u2019s desk (Newsletter: June 23, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/new-virginia-legal-cannabis-sales-plan-heads-to-governors-desk-newsletter-june-23-2026/",
+        "summary": "<p>Military recruit marijuana amendment in Congress; NORML challenges rescheduling non-invite; CA GOP governor candidate on cannabis; Study: CBD for a..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Maine GOP Lawmaker Gears Up To Fight Anti-Marijuana Ballot Initiative",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/maine-gop-lawmaker-gears-up-to-fight-anti-marijuana-ballot-initiative/",
@@ -28,24 +35,17 @@
         "summary": "<p>CBD seems to be effective in the management of acne, according to a new scientific review. Researchers looked at findings... <a class=\"small font-m..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Congressional Amendment Would Expand Marijuana Waivers For Military Recruits Who Test Positive For THC",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/congressional-amendment-would-expand-marijuana-waivers-for-military-recruits-who-test-positive-for-thc/",
-        "summary": "<p>A Republican member of Congress has filed an amendment that would expand waivers for military recruits who\u2019ve tested positive for... <a class=\"smal..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US waives Iran sanctions, Trump warns Tehran it must abide by agreement",
-        "image": "https://media.zenfs.com/en/reuters.com/db22f07cd8c52b282978f62e2e0bae0f",
-        "link": "https://www.yahoo.com/news/politics/articles/us-waives-iran-sanctions-trump-045527904.html",
+        "title": "Tucker Carlson says he'll no longer support the Republican Party",
+        "image": "https://media.zenfs.com/en/ap.org/f42d208c5bf9242fb6012f65f2675976",
+        "link": "https://www.yahoo.com/news/politics/articles/tucker-carlson-says-hell-no-223946669.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Pitt\u2019s record growth reshapes Oakland with new dorms, more students",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/6625a83fc49c5b2a57844590c50c8c37",
-        "link": "https://www.yahoo.com/news/us/articles/pitt-record-growth-reshapes-oakland-000558036.html",
+        "title": "Connecticut dad jumped to his death during concert at Madison Square Garden in NYC: report",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/77ed39ff927bfa00227af627488783e2",
+        "link": "https://www.yahoo.com/news/us/articles/connecticut-dad-jumped-death-during-070729639.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Tucker Carlson says he'll no longer support the Republican Party",
-        "image": "https://media.zenfs.com/en/ap.org/f42d208c5bf9242fb6012f65f2675976",
-        "link": "https://www.yahoo.com/news/politics/articles/tucker-carlson-says-hell-no-223946669.html",
+        "title": "North Korea's Kim says country will exercise its position as nuclear state, KCNA reports\u200b\u200b",
+        "image": "https://media.zenfs.com/en/reuters.com/08d7e61bbfb7c688315ddb3eabbec214",
+        "link": "https://www.yahoo.com/news/articles/north-koreas-kim-says-country-214346897.html",
         "summary": "..."
     },
     {
@@ -71,38 +71,38 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Schweinsteiger's Ivory Coast comments spark racism debate",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/schweinsteiger-s-ivory-coast-comments-spark-racism-debate/a-77674794?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Bastian Schweinsteiger's TV analysis of Germany's World Cup opponents Ivory Coast appeared to draw on racist stereotypes. For some observers, the comm..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Europe on red alert for record-breaking heat",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/europe-on-red-alert-for-record-breaking-heat/live-77663026?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Dozens of people have drowned in France and Germany in recent days as people seek relief from \"oppressive\" heat. In Italy, more than a dozen cities ar..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Turkey arrests more than 200 in crackdown before NATO summit",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/turkey-arrests-more-than-200-in-crackdown-before-nato-summit/a-77669771?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Ankara prosecutor's office said 209 people were detained, while 32 others remained at large. Turkey has announced a ban on demonstrations amid pre..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Europe's defense ambitions get reality check",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/europe-s-defense-ambitions-get-reality-check/a-77650976?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "European countries have been trying to scale up and integrate their military capabilities, but their current defense production and procurement model ..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "EU hosts Taliban for migrant return talks in Brussels",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/eu-hosts-taliban-for-migrant-return-talks-in-brussels/a-77668214?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The EU is hosting Taliban officials after Belgium granted temporary visas for talks on returning failed Afghan asylum-seekers. The meeting is one of t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Merz hails pension reform proposals",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-merz-hails-pension-reform-proposals/live-77666833?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Chancellor Merz says a proposed pension reform package should be fully implemented. A survey has shown that almost half of teachers in Germany find pu..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "More than a unibrow: The enduring appeal of Frida Kahlo",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/more-than-a-unibrow-the-enduring-appeal-of-frida-kahlo/a-77592247?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "She shunned feminine beauty ideals, was bisexual and a political radical, all while being brutally honest in her art. A major Frida Kahlo exhibition o..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany's pension plans draw praise and outrage",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-pension-plans-draw-praise-and-outrage/a-77663371?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A 33-point plan to reform Germany's pension system has drawn praise and criticism in almost equal measure. Centrist politicians have called it a good ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: US waiver clears way for Iran oil purchase",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-us-waiver-clears-way-for-iran-oil-purchase/live-77667895?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Iran has contacted Indian refiners to sell its oil after the US temporarily lifted sanctions on Tehran. Meanwhile, an Indian startup founder is going ..."
     },
     {
         "source": "Leafly",
