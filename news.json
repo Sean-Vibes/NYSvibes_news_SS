@@ -36,9 +36,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kremlin accuses Ukraine of threatening sovereignty of close Russian ally Belarus",
-        "image": "https://media.zenfs.com/en/reuters.com/33ec27bce553a86db9a69c66b684f512",
-        "link": "https://www.yahoo.com/news/articles/kremlin-accuses-ukraine-threatening-sovereignty-115142629.html",
+        "title": "US waives Iran sanctions, Trump warns Tehran it must abide by agreement",
+        "image": "https://media.zenfs.com/en/reuters.com/db22f07cd8c52b282978f62e2e0bae0f",
+        "link": "https://www.yahoo.com/news/politics/articles/us-waives-iran-sanctions-trump-045527904.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Pitt\u2019s record growth reshapes Oakland with new dorms, more students",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/6625a83fc49c5b2a57844590c50c8c37",
+        "link": "https://www.yahoo.com/news/us/articles/pitt-record-growth-reshapes-oakland-000558036.html",
         "summary": "..."
     },
     {
@@ -50,59 +57,52 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Tucker Carlson says he'll no longer support the Republican Party",
+        "image": "https://media.zenfs.com/en/ap.org/f42d208c5bf9242fb6012f65f2675976",
+        "link": "https://www.yahoo.com/news/politics/articles/tucker-carlson-says-hell-no-223946669.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Former Trump Defense secretary: \u2018I don\u2019t see that the president is always getting good advice\u2019",
         "image": "https://media.zenfs.com/en/the_hill_articles_341/d4b685e3194870b2d7f5bb245f790c94",
         "link": "https://www.yahoo.com/news/politics/articles/former-trump-defense-secretary-don-191327513.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Interstellar comet 3I/ATLAS found to be up to 12 billion years old",
-        "image": "https://media.zenfs.com/en/reuters.com/ed9b80a33e905578131a2e967578b066",
-        "link": "https://www.yahoo.com/news/science/articles/interstellar-comet-3i-atlas-found-190226716.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Girl and two boys held over teen's fatal stabbing",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/3ca0fd5ec85fb7ebda34292e4954b803",
-        "link": "https://www.yahoo.com/news/world/articles/three-teens-arrested-over-fatal-161618393.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "EU hosts Taliban for migrant return talks in Brussels",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eu-hosts-taliban-for-migrant-return-talks-in-brussels/a-77668214?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The EU is hosting Taliban officials after Belgium granted temporary visas for talks on returning failed Afghan asylum-seekers. The meeting is one of t..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "US: Trump threatens prison for Reflecting Pool 'vandalism'",
+        "title": "Germany news: Merz hails pension reform proposals",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-trump-threatens-prison-for-reflecting-pool-vandalism/a-77666251?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Trump administration spent $14.7 million repainting the pool \"American flag blue\" ahead of US' 250th anniversary celebrations. Weeks later, the pa..."
+        "link": "https://www.dw.com/en/germany-news-merz-hails-pension-reform-proposals/live-77666833?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Chancellor Merz says a proposed pension reform package should be fully implemented. A survey has shown that almost half of teachers in Germany find pu..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "US: Trump signs new executive orders to boost quantum computing",
+        "title": "More than a unibrow: The enduring appeal of Frida Kahlo",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-trump-signs-new-executive-orders-to-boost-quantum-computing/a-77665653?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US President Donald Trump signed two executive orders to boost quantum research and strengthen security infrastructure to safeguard data in a post-qua..."
+        "link": "https://www.dw.com/en/more-than-a-unibrow-the-enduring-appeal-of-frida-kahlo/a-77592247?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "She shunned feminine beauty ideals, was bisexual and a political radical, all while being brutally honest in her art. A major Frida Kahlo exhibition o..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Nadiem Amiri: 'Never thought I'd be at the World Cup'",
+        "title": "Germany's pension plans draw praise and outrage",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nadiem-amiri-never-thought-i-d-be-at-the-world-cup/a-77663920?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Mainz midfielder with Afghan roots has become a key member of Germany's 2026 World Cup squad. Coach Julian Nagelsmann said Amiri can provide the t..."
+        "link": "https://www.dw.com/en/germany-s-pension-plans-draw-praise-and-outrage/a-77663371?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A 33-point plan to reform Germany's pension system has drawn praise and criticism in almost equal measure. Centrist politicians have called it a good ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Meet Andy Burnham, Britain's likely next prime minister",
+        "title": "India news: US waiver clears way for Iran oil purchase",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/meet-andy-burnham-britain-s-likely-next-prime-minister/a-77664543?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Now that British Prime Minister Keir Starmer announced his resignation, all eyes are on Andy Burnham. The former mayor of Manchester is seen as the fa..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Europe sizzles under heat wave with little relief in sight",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/europe-sizzles-under-heat-wave-with-little-relief-in-sight/live-77663026?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany, France, the UK and other European countries are experiencing extreme heat, with cooler weather not expected until the weekend. Several deaths..."
+        "link": "https://www.dw.com/en/india-news-us-waiver-clears-way-for-iran-oil-purchase/live-77667895?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran has contacted Indian refiners to sell its oil after the US temporarily lifted sanctions on Tehran. Meanwhile, an Indian startup founder is going ..."
     },
     {
         "source": "Leafly",
