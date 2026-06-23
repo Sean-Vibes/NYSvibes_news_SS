@@ -50,24 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ex-Dem insider reveals she will expose Democrats who covered up Biden's cognitive decline in new book",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/d2353a9228063e583564b16f1e56f7bf",
-        "link": "https://www.yahoo.com/news/politics/articles/ex-dem-insider-reveals-she-093011484.html",
+        "title": "Former Trump Defense secretary: \u2018I don\u2019t see that the president is always getting good advice\u2019",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/d4b685e3194870b2d7f5bb245f790c94",
+        "link": "https://www.yahoo.com/news/politics/articles/former-trump-defense-secretary-don-191327513.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Tucker Carlson says he'll no longer support the Republican Party",
-        "image": "https://media.zenfs.com/en/ap.org/f42d208c5bf9242fb6012f65f2675976",
-        "link": "https://www.yahoo.com/news/politics/articles/tucker-carlson-says-hell-no-223946669.html",
+        "title": "Interstellar comet 3I/ATLAS found to be up to 12 billion years old",
+        "image": "https://media.zenfs.com/en/reuters.com/ed9b80a33e905578131a2e967578b066",
+        "link": "https://www.yahoo.com/news/science/articles/interstellar-comet-3i-atlas-found-190226716.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Justin Baldoni's attorney reveals shock Friday night phone call that ended Blake Lively legal war",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/627927d81e0cbadc3094e39cf951d215",
-        "link": "https://www.yahoo.com/entertainment/celebrity/articles/justin-baldonis-attorney-reveals-shock-130019376.html",
+        "title": "Girl and two boys held over teen's fatal stabbing",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/3ca0fd5ec85fb7ebda34292e4954b803",
+        "link": "https://www.yahoo.com/news/world/articles/three-teens-arrested-over-fatal-161618393.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US: Trump threatens prison for Reflecting Pool 'vandalism'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-trump-threatens-prison-for-reflecting-pool-vandalism/a-77666251?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Trump administration spent $14.7 million repainting the pool \"American flag blue\" ahead of US' 250th anniversary celebrations. Weeks later, the pa..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US: Trump signs new executive orders to boost quantum computing",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-trump-signs-new-executive-orders-to-boost-quantum-computing/a-77665653?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US President Donald Trump signed two executive orders to boost quantum research and strengthen security infrastructure to safeguard data in a post-qua..."
     },
     {
         "source": "Deutsche Welle",
@@ -78,7 +92,7 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Meet Andy Burnham, Britain\u2019s likely next prime minister",
+        "title": "Meet Andy Burnham, Britain's likely next prime minister",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/meet-andy-burnham-britain-s-likely-next-prime-minister/a-77664543?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Now that British Prime Minister Keir Starmer announced his resignation, all eyes are on Andy Burnham. The former mayor of Manchester is seen as the fa..."
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/europe-sizzles-under-heat-wave-with-little-relief-in-sight/live-77663026?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Germany, France, the UK and other European countries are experiencing extreme heat, with cooler weather not expected until the weekend. Several deaths..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany's pension plans draw praise and outrage",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-pension-plans-draw-praise-and-outrage/a-77663371?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A 30-point plan to reform Germany's pension system has drawn praise and criticism in almost equal measure. Centrist politicians have called it a good ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Fact check: AI fakes around the World Cup spread political narratives",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fact-check-ai-fakes-around-the-world-cup-spread-political-narratives/a-77659085?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Keir Starmer in a Croatia jersey. An Iranian protest against a US strike. Calls to arrest Brazil's President Lula. Adolf Hitler in the German fan sect..."
     },
     {
         "source": "Leafly",
