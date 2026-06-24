@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "What a reporter found when uncovering why federal agents allowed a deadly drug to hit the streets",
-        "image": "https://media.zenfs.com/en/ap.org/6002bfefe0d52a89808bf5a3cabdc368",
-        "link": "https://www.yahoo.com/news/us/articles/us--dea-unseized-fentanyl-reporter-qa-041229317.html",
+        "title": "US court dismisses Trump administration lawsuit over Los Angeles immigration policy",
+        "image": "https://media.zenfs.com/en/reuters.com/e685453e740e6a4bfb00827834b5bac1",
+        "link": "https://www.yahoo.com/news/politics/articles/us-court-dismisses-trump-administration-010657859.html",
         "summary": "..."
     },
     {
@@ -71,10 +71,17 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "US: Google's YouTube settles teen mental health lawsuit",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-google-s-youtube-settles-teen-mental-health-lawsuit/a-77684408?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A Florida teenager said YouTube's addictive design contributed to depression, anxiety and sleep loss. Instagram, Snapchat and TikTok are also facing s..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Trains resume after radio issue resolved, Deutsche Bahn says",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/trains-resume-after-radio-issue-resolved-deutsche-bahn-says/a-77682758?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Train services across the country have resumed following a technical meltdown on Tuesday night...."
+        "summary": "Train services across Germany have resumed following a technical meltdown on Tuesday night. But regional and suburban rail operators warned that conti..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/curacao-s-trailblazing-doctor-at-the-world-cup/a-77679539?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Suzanne Huurman is the only female chief doctor at the 2026 World Cup. Her work is inspiring change in men's football...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Poland, Ukraine: Dispute between two close allies deepens",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/poland-ukraine-dispute-between-two-close-allies-deepens/a-77680193?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Polish President Karol Nawrocki last week stripped Ukrainian President Volodymyr Zelenskyy of Poland's highest state honor. How did it come to this? A..."
     },
     {
         "source": "Leafly",
