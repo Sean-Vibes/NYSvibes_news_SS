@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Marijuana Reform Advocates Push Virginia Governor To Remove Public Consumption Penalty Increase From Legalization Bill",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/marijuana-reform-advocates-push-virginia-governor-to-remove-public-consumption-penalty-increase-from-legalization-bill/",
+        "summary": "<p>As Virginia\u2019s governor weighs changes to budget legislation that lawmakers approved this week, marijuana reform advocates are urging her to... <a c..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "DEA\u2019s interesting cannabis testimony stance for rescheduling hearing (Newsletter: June 25, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/deas-interesting-cannabis-testimony-stance-for-rescheduling-hearing-newsletter-june-25-2026/",
+        "summary": "<p>White House pushes Congress on \u201cfair treatment\u201d for hemp; New fed report tracks state marijuana revenue; Poll: Pennsylvania voters back... <a class..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "White House Pushes Congress To Ensure \u2018Fair Treatment Of Hemp Products\u2019 By Calling Off Broad Recriminalization Law Set For November",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/white-house-pushes-congress-to-ensure-fair-treatment-of-hemp-products-by-calling-off-broad-recriminalization-law-set-for-november/",
@@ -19,20 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/as-an-olympian-cannabis-use-was-forbidden-now-i-spend-my-career-studying-it-op-ed/",
         "summary": "<p>\u201cRescheduling will not answer every question overnight, but it will make it easier. It may also help pave the way... <a class=\"small font-montserra..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "\u2018Hundreds Of Thousands\u2019 Of Missouri Marijuana Conviction Records May Still Exist Despite Deadline To Clear Them, Police Say",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/hundreds-of-thousands-of-missouri-marijuana-conviction-records-may-still-exist-despite-deadline-to-clear-them-police-say/",
-        "summary": "<p>There\u2019s \u201cno evidence of these claims was presented to the circuit court,\u201d judges said. By Rebecca Rivas, Missouri Independent Missouri... <a class=..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "DEA Resists Testimony From Agency Official Linked To Report On Marijuana\u2019s Harms During Rescheduling Hearing",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/dea-resists-testimony-from-agency-official-linked-to-report-on-marijuanas-harms-during-rescheduling-hearing/",
-        "summary": "<p>The Drug Enforcement Administration (DEA) is resisting a prohibitionist group\u2019s request for an agency official to testify about the harms... <a cla..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US, UK, France, Germany raise alarm about Chinese patrols off eastern Taiwan",
-        "image": "https://media.zenfs.com/en/reuters.com/35858321b7477bec997defb9d9a7a73c",
-        "link": "https://www.yahoo.com/news/world/articles/uk-france-germany-raise-alarm-081101500.html",
+        "title": "Ukraine's Azov fighters were forced from Mariupol. Now they're hitting back",
+        "image": "https://media.zenfs.com/en/reuters.com/17d2df1ffebd0b6310f5bed1be198217",
+        "link": "https://www.yahoo.com/news/articles/ukraines-azov-fighters-were-forced-060333299.html",
         "summary": "..."
     },
     {
@@ -71,38 +71,38 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Human rights expert Philippe Sands wins German Peace Prize",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/human-rights-expert-philippe-sands-wins-german-peace-prize/a-77702306?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "From advocating for the law of ecocide to representing Palestinian rights, the descendant of Holocaust survivors tirelessly fights against genocide an..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Family seeks justice after Indian sailor killed in US strike",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/family-seeks-justice-after-indian-sailor-killed-in-us-strike/a-77706371?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After a US strike on a commercial vessel in the Gulf of Oman killed an Indian sailor, there are urgent questions about seafarer safety, accountability..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Fact check: No, Zelenskyy wasn't killed in a Russian airstrike",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/fact-check-no-zelenskyy-wasn-t-killed-in-a-russian-airstrike/a-77704409?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Amid a flare-up in violence between Russia and Ukraine, viral posts claim Ukrainian President Volodymyr Zelenskyy has died. DW Fact check takes a clos..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Europe heat wave: No respite as extreme heat continues",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/europe-heat-wave-no-respite-as-extreme-heat-continues/live-77663026?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Some 101 million people in Europe will likely see temperatures above 35 C on Thursday, an analysis shows. And Germany is expecting things to warm up e..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Germany news: Deutsche Bahn advises against travel amid heat",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-deutsche-bahn-advises-against-travel-amid-heat/live-77704395?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Germany's national rail operator is allowing passengers to cancel trips because of the heat. Meanwhile, as Germany prepare for their next World Cup ma..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India braces for drought as El Nino threatens monsoon rains",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-braces-for-drought-as-el-nino-threatens-monsoon-rains/a-77704414?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Officials and farmers in India are preparing for what meteorologists say could be the driest monsoon season in a decade...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How countries live with earthquakes and build resilience",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-countries-live-with-earthquakes-and-build-resilience/a-72375835?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Earthquakes are a fact of nature, but living with earthquakes doesn't have to mean living in fear. DW takes a closer look at some countries showing ho..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why is Germany taking a big stake in a major tankmaker?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-is-germany-taking-a-big-stake-in-a-major-tankmaker/a-77687784?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The German government will buy a 40% stake in tankmaker KNDS. The deal is as much about control in the critical defense sector as it is about the Fran..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran: Rubio says US rejects any nation's claim over Hormuz",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-rubio-says-us-rejects-any-nation-s-claim-over-hormuz/live-77702733?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Marco Rubio says the US will not accept that the Strait of Hormuz belongs to any country. Meanwhile, Iran's Revolutionary Guard warns against any cros..."
     },
     {
         "source": "Leafly",
