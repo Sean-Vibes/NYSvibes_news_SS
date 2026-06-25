@@ -36,9 +36,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Asian refiners see little room for Iranian oil, leaving China as key buyer after US waiver",
-        "image": "https://media.zenfs.com/en/reuters.com/34022657936b5d6e7434d53a0746abfa",
-        "link": "https://finance.yahoo.com/energy/articles/asian-refiners-see-little-room-093500832.html",
+        "title": "Supreme Court sides with Trump administration on immigration case dealing with green card holders",
+        "image": "https://media.zenfs.com/en/ap.org/7a3d7aaf00f48c2ec1f67ad14e228208",
+        "link": "https://www.yahoo.com/news/politics/articles/supreme-court-sides-trump-administration-143112520.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Former New Jersey middle school teacher indicted on new charges including manufacturing child abuse material",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/d6629aa47a6e9a20aacb226d81d27649",
+        "link": "https://www.yahoo.com/news/us/articles/former-jersey-middle-school-teacher-052339212.html",
         "summary": "..."
     },
     {
@@ -50,59 +57,52 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "US, UK, France, Germany raise alarm about Chinese patrols off eastern Taiwan",
+        "image": "https://media.zenfs.com/en/reuters.com/35858321b7477bec997defb9d9a7a73c",
+        "link": "https://www.yahoo.com/news/world/articles/uk-france-germany-raise-alarm-081101500.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "SCOTUS Unanimously Ruled That the Second Amendment Trumps Anti-Drug Sentiment",
         "image": "https://media.zenfs.com/en/reason_com_245/63c2c58556b85f3aef6820daafd8df3b",
         "link": "https://www.yahoo.com/news/politics/articles/scotus-unanimously-ruled-second-amendment-040136160.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "US Postal Service defends plan to require states to disclose mail voting lists",
-        "image": "https://media.zenfs.com/en/reuters.com/cd325cba8f4295200bc3f88fa054a754",
-        "link": "https://www.yahoo.com/news/politics/articles/us-postal-defends-plan-require-151349977.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Louisiana sheriff who attacked podcaster pleads guilty, resigns",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/5805e6ffeae356b9b6d63160f9256e58",
-        "link": "https://www.yahoo.com/news/us/articles/louisiana-sheriff-attacked-podcaster-pleads-191146287.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Germany news: Deutsche Bahn advises against travel amid heat",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-deutsche-bahn-advises-against-travel-amid-heat/live-77704395?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany's national rail operator is allowing passengers to cancel trips because of the heat. Meanwhile, as Germany prepare for their next World Cup ma..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Why Germans don't have air conditioning",
+        "title": "India braces for drought as El Nino threatens monsoon rains",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-germans-don-t-have-air-conditioning/a-77685580?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Unlike the US or parts of Asia, many homes in Germany and northern Europe aren't equipped to deal with extreme heat. But as the world gets hotter, tre..."
+        "link": "https://www.dw.com/en/india-braces-for-drought-as-el-nino-threatens-monsoon-rains/a-77704414?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Officials and farmers in India are preparing for what meteorologists say could be the driest monsoon season in a decade...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Buildings collapse after deadly earthquakes rock Venezuela",
+        "title": "How countries live with earthquakes and build resilience",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/buildings-collapse-after-deadly-earthquakes-rock-venezuela/live-77699720?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The acting president has reported at least 32 deaths in Venezuela after two strong earthquakes rattled the capital and surrounding regions...."
+        "link": "https://www.dw.com/en/how-countries-live-with-earthquakes-and-build-resilience/a-72375835?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Earthquakes are a fact of nature, but living with earthquakes doesn't have to mean living in fear. DW takes a closer look at some countries showing ho..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Venezuela hit by two powerful earthquakes",
+        "title": "Why is Germany taking a big stake in a major tankmaker?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/venezuela-hit-by-two-powerful-earthquakes/a-77698995?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Strong earthquakes struck west of Venezuela's capital just seconds apart, bringing down buildings in Caracas...."
+        "link": "https://www.dw.com/en/why-is-germany-taking-a-big-stake-in-a-major-tankmaker/a-77687784?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The German government will buy a 40% stake in tankmaker KNDS. The deal is as much about control in the critical defense sector as it is about the Fran..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany's Merz rallies European NATO allies ahead of summit",
+        "title": "Iran: Rubio says US rejects any nation's claim over Hormuz",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-merz-rallies-european-nato-allies-ahead-of-summit/a-77698670?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Chancellor Friedrich Merz hosted leaders of European NATO powers in Berlin to hash out consensus on bolstering European defense. With US tensions loom..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "What does British PM's resignation mean for European security?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/what-does-british-pm-s-resignation-mean-for-european-security/a-77698281?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "British Prime Minister Keir Starmer was widely known for his support of Ukraine and his efforts towards a new EU\u2013UK defense partnership. What will hap..."
+        "link": "https://www.dw.com/en/iran-rubio-says-us-rejects-any-nation-s-claim-over-hormuz/live-77702733?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Marco Rubio says the US will not accept that the Strait of Hormuz belongs to any country. Meanwhile, Iran's Revolutionary Guard warns against any cros..."
     },
     {
         "source": "Leafly",
