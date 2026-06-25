@@ -1,6 +1,20 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "National Post",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/national-post/",
+        "summary": "<p>&#8216;Please look at me&#8217;: Former Israeli hostage demands of UN adviser on violence against women It\u2019s &#8216;absurd and tragic that... <a cl..."
+    },
+    {
+        "source": "GrowCola.com",
+        "title": "DEA Defends Stance That Synthetic Cannabis Compound HHC Is Federally Banned In Response To Industry Lawsuits",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/dea-defends-stance-that-synthetic-cannabis-compound-hhc-is-federally-banned-in-response-to-industry-lawsuits/",
+        "summary": "<p>The Drug Enforcement Administration (DEA) is resisting two hemp companies\u2019 efforts to challenge its determination that a cannabinoid produced synth..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Massachusetts Advocates Launch Campaign To Defeat Marijuana Legalization Rollback Ballot Initiative",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/massachusetts-advocates-launch-campaign-to-defeat-marijuana-legalization-rollback-ballot-initiative/",
@@ -19,20 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/new-hampshire-lawmakers-push-to-override-governors-veto-of-medical-marijuana-greenhouse-cultivation-bill/",
         "summary": "<p>New Hampshire lawmakers and advocates are pushing to override the governor\u2019s veto of a bill to let medical cannabis companies... <a class=\"small fo..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "Marijuana Reform Advocates Push Virginia Governor To Remove Public Consumption Penalty Increase From Legalization Bill",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/marijuana-reform-advocates-push-virginia-governor-to-remove-public-consumption-penalty-increase-from-legalization-bill/",
-        "summary": "<p>As Virginia\u2019s governor weighs changes to budget legislation that lawmakers approved this week, marijuana reform advocates are urging her to... <a c..."
-    },
-    {
-        "source": "GrowCola.com",
-        "title": "DEA\u2019s interesting cannabis testimony stance for rescheduling hearing (Newsletter: June 25, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/deas-interesting-cannabis-testimony-stance-for-rescheduling-hearing-newsletter-june-25-2026/",
-        "summary": "<p>White House pushes Congress on \u201cfair treatment\u201d for hemp; New fed report tracks state marijuana revenue; Poll: Pennsylvania voters back... <a class..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump says it may never be known who was at fault for strike on girls' school in Iran",
-        "image": "https://media.zenfs.com/en/nbcu_713/9afba6379e775c1afb81e1d0922c3170",
-        "link": "https://www.yahoo.com/news/articles/trump-says-it-may-never-be-known-who-was-at-fault-for-strike-on-girls-school-in-iran-230018373.html",
+        "title": "Vance, an admirer of Richard Nixon, says Watergate would be a 'a 12-hour news story' today",
+        "image": "https://media.zenfs.com/en/ap.org/2c6630e349bd9f634f87d26d046b1009",
+        "link": "https://www.yahoo.com/news/politics/articles/vance-admirer-richard-nixon-says-225504436.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/cnn_articles_875/de3a5734adb9c00d06c79dcd31b6c536",
         "link": "https://www.yahoo.com/news/science/articles/seismic-event-bounced-off-earth-114756504.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Group winners Germany deliver poor display in loss to Ecuador at 2026 World Cup",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/group-winners-germany-deliver-poor-display-in-loss-to-ecuador-at-2026-world-cup/a-77713556?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany had already qualified for the knockouts of the 2026 World Cup, but their performance was still disappointing in a 2-1 defeat...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/latin-america-why-are-voters-turning-to-the-right/a-77711864?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Far-right populists seem to be on the rise in Latin America after defeating leftist candidates in a number of recent presidential elections. Why are t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran: UK Navy reports cargo vessel hit in Strait of Hormuz",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-uk-navy-reports-cargo-vessel-hit-in-strait-of-hormuz/live-77702733?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The reported attack has caused the UN maritime agency to halt its evacuations of seafarers stranded in the Gulf. Meanwhile, Rubio is finishing up his ..."
     },
     {
         "source": "Leafly",
