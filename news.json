@@ -43,13 +43,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump administration charges 455 people, including doctors, with $6.5 billion in healthcare fraud",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/c12afd0ad5b990af5c22ce01fd1d6b18",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-charges-455-people-190452104.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "SCOTUS Unanimously Ruled That the Second Amendment Trumps Anti-Drug Sentiment",
         "image": "https://media.zenfs.com/en/reason_com_245/63c2c58556b85f3aef6820daafd8df3b",
         "link": "https://www.yahoo.com/news/politics/articles/scotus-unanimously-ruled-second-amendment-040136160.html",
@@ -57,31 +50,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Michigan Senate candidate accuses Trump of keeping Canada-US bridge closed to help donor",
-        "image": "https://media.zenfs.com/en/cbs_detroit_765/a60fb8466690a89731975ef49eadcd2f",
-        "link": "https://www.yahoo.com/news/politics/articles/us--election-2026-michigan-senate-110701068.html",
+        "title": "Former New Jersey middle school teacher indicted on new charges including manufacturing child abuse material",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/d6629aa47a6e9a20aacb226d81d27649",
+        "link": "https://www.yahoo.com/news/us/articles/former-jersey-middle-school-teacher-052339212.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mars Inc. Executive on Co-Creation, AI and the Future of Brand Building",
-        "image": "https://media.zenfs.com/en/wall_street_journal_733/1535656ff614bfd620da5ad51ff7c809",
-        "link": "https://finance.yahoo.com/video/mars-inc-executive-co-creation-144500072.html",
+        "title": "Trump says it may never be known who was at fault for strike on girls' school in Iran",
+        "image": "https://media.zenfs.com/en/nbcu_713/9afba6379e775c1afb81e1d0922c3170",
+        "link": "https://www.yahoo.com/news/articles/trump-says-it-may-never-be-known-who-was-at-fault-for-strike-on-girls-school-in-iran-230018373.html",
         "summary": "..."
     },
     {
-        "source": "Deutsche Welle",
-        "title": "Iran: UK Navy reports cargo vessel hit in Strait of Hormuz",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-uk-navy-reports-cargo-vessel-hit-in-strait-of-hormuz/live-77702733?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The reported attack has caused the UN maritime agency to halt its evacuations of seafarers stranded in the Gulf. Meanwhile, Rubio is finishing up his ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine, Poland smooth over WW2 dispute at Gdansk aid forum",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-poland-smooth-over-ww2-dispute-at-gdansk-aid-forum/a-77713191?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukraine and its European allies are looking to encourage investment in Kyiv's post-war recovery. The first tranche of an EU loan has already arrived w..."
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "A seismic event bounced off Earth\u2019s core and shifted an island country",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/de3a5734adb9c00d06c79dcd31b6c536",
+        "link": "https://www.yahoo.com/news/science/articles/seismic-event-bounced-off-earth-114756504.html",
+        "summary": "..."
     },
     {
         "source": "Deutsche Welle",
@@ -92,17 +78,31 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Turkey journalists angered after NATO summit exclusion",
+        "title": "US Supreme Court sides with Bayer over Roundup cancer suits",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/turkey-journalists-angered-after-nato-summit-exclusion/a-77711915?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Turkish outlets critical of Recep Tayyip Erdogan's government have been denied accreditation to cover the event in July. Press freedom groups called t..."
+        "link": "https://www.dw.com/en/us-supreme-court-sides-with-bayer-over-roundup-cancer-suits/a-77713004?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Bayer, which acquired Roundup in 2018, said the decision is good for science and farmers. The Supreme Court's ruling was met with backlash from both R..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Sudan: Warnings mount over the risk of new mass atrocities",
+        "title": "Young people avoiding the news, Reuters report",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/sudan-warnings-mount-over-the-risk-of-new-mass-atrocities/a-77709377?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As Sudan's paramilitary Rapid Support Forces mass around the strategic city of el-Obeid, fears are growing of atrocities similar to those seen in Darf..."
+        "link": "https://www.dw.com/en/young-people-avoiding-the-news-reuters-report/a-77713516?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "An alarming number of young people are turning away from the news, according to the Reuters Digital News Report presented at DW's Global Media Forum. ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Latin America: Why are voters turning to the right?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/latin-america-why-are-voters-turning-to-the-right/a-77711864?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Far-right populists seem to be on the rise in Latin America after defeating leftist candidates in a number of recent presidential elections. Why are t..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran: UK Navy reports cargo vessel hit in Strait of Hormuz",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-uk-navy-reports-cargo-vessel-hit-in-strait-of-hormuz/live-77702733?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The reported attack has caused the UN maritime agency to halt its evacuations of seafarers stranded in the Gulf. Meanwhile, Rubio is finishing up his ..."
     },
     {
         "source": "Leafly",
