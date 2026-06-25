@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Astronomers find biggest super-puff planets yet that are lighter than cotton candy",
-        "image": "https://media.zenfs.com/en/ap.org/2c66cf578eb8102a3cbd5677a980e67d",
-        "link": "https://www.yahoo.com/news/science/articles/astronomers-biggest-super-puff-planets-010212743.html",
+        "title": "Asian refiners see little room for Iranian oil, leaving China as key buyer after US waiver",
+        "image": "https://media.zenfs.com/en/reuters.com/34022657936b5d6e7434d53a0746abfa",
+        "link": "https://finance.yahoo.com/energy/articles/asian-refiners-see-little-room-093500832.html",
         "summary": "..."
     },
     {
@@ -50,31 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Connecticut dad jumped to his death during concert at Madison Square Garden in NYC: report",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/77ed39ff927bfa00227af627488783e2",
-        "link": "https://www.yahoo.com/news/us/articles/connecticut-dad-jumped-death-during-070729639.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Asian refiners see little room for Iranian oil, leaving China as key buyer after US waiver",
-        "image": "https://media.zenfs.com/en/reuters.com/34022657936b5d6e7434d53a0746abfa",
-        "link": "https://finance.yahoo.com/energy/articles/asian-refiners-see-little-room-093500832.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "SCOTUS Unanimously Ruled That the Second Amendment Trumps Anti-Drug Sentiment",
         "image": "https://media.zenfs.com/en/reason_com_245/63c2c58556b85f3aef6820daafd8df3b",
         "link": "https://www.yahoo.com/news/politics/articles/scotus-unanimously-ruled-second-amendment-040136160.html",
         "summary": "..."
     },
     {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "US Postal Service defends plan to require states to disclose mail voting lists",
+        "image": "https://media.zenfs.com/en/reuters.com/cd325cba8f4295200bc3f88fa054a754",
+        "link": "https://www.yahoo.com/news/politics/articles/us-postal-defends-plan-require-151349977.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Louisiana sheriff who attacked podcaster pleads guilty, resigns",
+        "image": "https://media.zenfs.com/en/newsnation_articles_600/5805e6ffeae356b9b6d63160f9256e58",
+        "link": "https://www.yahoo.com/news/us/articles/louisiana-sheriff-attacked-podcaster-pleads-191146287.html",
+        "summary": "..."
+    },
+    {
         "source": "Deutsche Welle",
-        "title": "Buildings collapse after back-to-back quakes rock Venezuela",
+        "title": "Why Germans don't have air conditioning",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/buildings-collapse-after-back-to-back-quakes-rock-venezuela/live-77699720?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US Geological Survey said high casualties and extensive damage are probable in Venezuela after two strong earthquakes rattled the capital and surr..."
+        "link": "https://www.dw.com/en/why-germans-don-t-have-air-conditioning/a-77685580?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Unlike the US or parts of Asia, many homes in Germany and northern Europe aren't equipped to deal with extreme heat. But as the world gets hotter, tre..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Buildings collapse after deadly earthquakes rock Venezuela",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/buildings-collapse-after-deadly-earthquakes-rock-venezuela/live-77699720?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The acting president has reported at least 32 deaths in Venezuela after two strong earthquakes rattled the capital and surrounding regions...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,13 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/what-does-british-pm-s-resignation-mean-for-european-security/a-77698281?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "British Prime Minister Keir Starmer was widely known for his support of Ukraine and his efforts towards a new EU\u2013UK defense partnership. What will hap..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How Big Tech is changing journalism",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-big-tech-is-changing-journalism/a-77696474?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Technology companies are shaping how news is presented and digested, leaving media outlets little option but to comply. At DW's Global Media Forum in ..."
     },
     {
         "source": "Leafly",
