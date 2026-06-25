@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Asian refiners see little room for Iranian oil, leaving China as key buyer after US waiver",
-        "image": "https://media.zenfs.com/en/reuters.com/34022657936b5d6e7434d53a0746abfa",
-        "link": "https://finance.yahoo.com/energy/articles/asian-refiners-see-little-room-093500832.html",
+        "title": "Astronomers find biggest super-puff planets yet that are lighter than cotton candy",
+        "image": "https://media.zenfs.com/en/ap.org/2c66cf578eb8102a3cbd5677a980e67d",
+        "link": "https://www.yahoo.com/news/science/articles/astronomers-biggest-super-puff-planets-010212743.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US court dismisses Trump administration lawsuit over Los Angeles immigration policy",
-        "image": "https://media.zenfs.com/en/reuters.com/e685453e740e6a4bfb00827834b5bac1",
-        "link": "https://www.yahoo.com/news/politics/articles/us-court-dismisses-trump-administration-010657859.html",
+        "title": "Asian refiners see little room for Iranian oil, leaving China as key buyer after US waiver",
+        "image": "https://media.zenfs.com/en/reuters.com/34022657936b5d6e7434d53a0746abfa",
+        "link": "https://finance.yahoo.com/energy/articles/asian-refiners-see-little-room-093500832.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/reason_com_245/63c2c58556b85f3aef6820daafd8df3b",
         "link": "https://www.yahoo.com/news/politics/articles/scotus-unanimously-ruled-second-amendment-040136160.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Buildings collapse after back-to-back quakes rock Venezuela",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/buildings-collapse-after-back-to-back-quakes-rock-venezuela/live-77699720?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US Geological Survey said high casualties and extensive damage are probable in Venezuela after two strong earthquakes rattled the capital and surr..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Venezuela hit by two powerful earthquakes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/venezuela-hit-by-two-powerful-earthquakes/a-77698995?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Strong earthquakes struck west of Venezuela's capital just seconds apart, bringing down buildings in Caracas...."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/how-big-tech-is-changing-journalism/a-77696474?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Technology companies are shaping how news is presented and digested, leaving media outlets little option but to comply. At DW's Global Media Forum in ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Heat wave: Why you should skip that cold beer or cocktail",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/heat-wave-why-you-should-skip-that-cold-beer-or-cocktail/a-77680047?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Summer, the FIFA World Cup and a cold beer. Sounds like a dream? Be careful, though; the combination of heat and alcohol can quickly take a very bad t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "European heat wave is not normal summer weather",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/european-heat-wave-is-not-normal-summer-weather/a-77693716?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Human-induced climate change has intensified temperatures, making this year's record heat wave up to 4 degrees Celsius hotter...."
     },
     {
         "source": "Leafly",
