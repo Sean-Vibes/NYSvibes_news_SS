@@ -43,13 +43,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "SCOTUS Unanimously Ruled That the Second Amendment Trumps Anti-Drug Sentiment",
-        "image": "https://media.zenfs.com/en/reason_com_245/63c2c58556b85f3aef6820daafd8df3b",
-        "link": "https://www.yahoo.com/news/politics/articles/scotus-unanimously-ruled-second-amendment-040136160.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Former New Jersey middle school teacher indicted on new charges including manufacturing child abuse material",
         "image": "https://media.zenfs.com/en/fox_news_text_979/d6629aa47a6e9a20aacb226d81d27649",
         "link": "https://www.yahoo.com/news/us/articles/former-jersey-middle-school-teacher-052339212.html",
@@ -57,31 +50,52 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Vance, an admirer of Richard Nixon, says Watergate would be a 'a 12-hour news story' today",
-        "image": "https://media.zenfs.com/en/ap.org/2c6630e349bd9f634f87d26d046b1009",
-        "link": "https://www.yahoo.com/news/politics/articles/vance-admirer-richard-nixon-says-225504436.html",
+        "title": "SCOTUS Unanimously Ruled That the Second Amendment Trumps Anti-Drug Sentiment",
+        "image": "https://media.zenfs.com/en/reason_com_245/63c2c58556b85f3aef6820daafd8df3b",
+        "link": "https://www.yahoo.com/news/politics/articles/scotus-unanimously-ruled-second-amendment-040136160.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "A seismic event bounced off Earth\u2019s core and shifted an island country",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/de3a5734adb9c00d06c79dcd31b6c536",
-        "link": "https://www.yahoo.com/news/science/articles/seismic-event-bounced-off-earth-114756504.html",
+        "title": "US says China trying to discourage states, businesses from engaging with Taiwan",
+        "image": "https://media.zenfs.com/en/reuters.com/4980ee391d4a4106e789217a55cf3667",
+        "link": "https://www.yahoo.com/news/articles/us-says-china-trying-discourage-024405429.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "MacKenzie Scott alone accounted for one-third of America\u2019s $19.2 billion in megagifts last year",
+        "image": "https://media.zenfs.com/en/fortune_175/53cc26116b8c897064e54c5e469bdf93",
+        "link": "https://finance.yahoo.com/small-business/articles/mackenzie-scott-alone-accounted-one-070000669.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Group winners Germany deliver poor display in loss to Ecuador at 2026 World Cup",
+        "title": "North Korea: Kim Jong Un oversees ballistic missile tests, calls for stronger 'offensive posture'",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/group-winners-germany-deliver-poor-display-in-loss-to-ecuador-at-2026-world-cup/a-77713556?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany had already qualified for the knockouts of the 2026 World Cup, but their performance was still disappointing in a 2-1 defeat...."
+        "link": "https://www.dw.com/en/north-korea-kim-jong-un-oversees-ballistic-missile-tests-calls-for-stronger-offensive-posture/a-77716329?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Pyongyang tested \"major weapons\" as North Korea's leader called for greater strike capabilities along the border with South Korea...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Venezuela: 188 dead in devastating, back-to-back earthquakes",
+        "title": "Venezuela: 235 dead in devastating, back-to-back earthquakes",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/venezuela-188-dead-in-devastating-back-to-back-earthquakes/live-77699720?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The president of the National Assembly has reported at least 188 deaths in Venezuela after two strong earthquakes rattled the capital and surrounding ..."
+        "link": "https://www.dw.com/en/venezuela-235-dead-in-devastating-back-to-back-earthquakes/live-77699720?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Venezuela's health minister said at least 235 people have died after two strong earthquakes rattled the capital and surrounding regions. DW has the la..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "King Charles won\u2019t live in Buckingham Palace, reveals taxes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/king-charles-won-t-live-in-buckingham-palace-reveals-taxes/a-77715823?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Buckingham Palace has been the British monarch\u2019s official residence in London for nearly two centuries. But royal officials say King Charles and Queen..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany poor in loss to Ecuador at 2026 World Cup",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-poor-in-loss-to-ecuador-at-2026-world-cup/a-77713556?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany had already qualified for the knockouts of the 2026 World Cup, but their performance was still disappointing in a 2-1 defeat...."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-supreme-court-sides-with-bayer-over-roundup-cancer-suits/a-77713004?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Bayer, which acquired Roundup in 2018, said the decision is good for science and farmers. The Supreme Court's ruling was met with backlash from both R..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Young people avoiding the news, Reuters report",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/young-people-avoiding-the-news-reuters-report/a-77713516?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "An alarming number of young people are turning away from the news, according to the Reuters Digital News Report presented at DW's Global Media Forum. ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Latin America: Why are voters turning to the right?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/latin-america-why-are-voters-turning-to-the-right/a-77711864?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Far-right populists seem to be on the rise in Latin America after defeating leftist candidates in a number of recent presidential elections. Why are t..."
     },
     {
         "source": "Leafly",
