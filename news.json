@@ -50,24 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "SCOTUS Unanimously Ruled That the Second Amendment Trumps Anti-Drug Sentiment",
-        "image": "https://media.zenfs.com/en/reason_com_245/63c2c58556b85f3aef6820daafd8df3b",
-        "link": "https://www.yahoo.com/news/politics/articles/scotus-unanimously-ruled-second-amendment-040136160.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "US says China trying to discourage states, businesses from engaging with Taiwan",
-        "image": "https://media.zenfs.com/en/reuters.com/4980ee391d4a4106e789217a55cf3667",
-        "link": "https://www.yahoo.com/news/articles/us-says-china-trying-discourage-024405429.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "MacKenzie Scott alone accounted for one-third of America\u2019s $19.2 billion in megagifts last year",
         "image": "https://media.zenfs.com/en/fortune_175/53cc26116b8c897064e54c5e469bdf93",
         "link": "https://finance.yahoo.com/small-business/articles/mackenzie-scott-alone-accounted-one-070000669.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "China\u2019s 360 says it has developed tools to match Anthropic\u2019s Mythos",
+        "image": "https://media.zenfs.com/en/reuters.com/5a57bb2129e1ae29101e5d0df19991ea",
+        "link": "https://www.yahoo.com/news/world/articles/china-360-says-developed-tools-121315251.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "A seismic event bounced off Earth\u2019s core and shifted an island country",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/de3a5734adb9c00d06c79dcd31b6c536",
+        "link": "https://www.yahoo.com/news/science/articles/seismic-event-bounced-off-earth-114756504.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Magdeburg Christmas market attacker sentenced to life",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/magdeburg-christmas-market-attacker-sentenced-to-life/a-77718126?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A Magdeburg court has sentenced a 51-year-old to life after his 2024 attack on a Christmas market in the city. He drove a rental car through a securit..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Bodies of four Indians killed in Qatar gas blast repatriated",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-bodies-of-four-indians-killed-in-qatar-gas-blast-repatriated/live-77716985?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Qatar has returned the bodies of four of the 12 Indian nationals who died in one its deadliest gas industry accidents in over two decades. DW has the ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Europe heat wave 'virtually impossible' without human impact",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/europe-heat-wave-virtually-impossible-without-human-impact/live-77663026?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A new study says Europe's current heat wave would have been nearly impossible without climate change and is now 200 more likely than 20 years ago. And..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/venezuela-235-dead-in-devastating-back-to-back-earthquakes/live-77699720?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Venezuela's health minister said at least 235 people have died after two strong earthquakes rattled the capital and surrounding regions. DW has the la..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "King Charles won\u2019t live in Buckingham Palace, reveals taxes",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/king-charles-won-t-live-in-buckingham-palace-reveals-taxes/a-77715823?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Buckingham Palace has been the British monarch\u2019s official residence in London for nearly two centuries. But royal officials say King Charles and Queen..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany poor in loss to Ecuador at 2026 World Cup",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-poor-in-loss-to-ecuador-at-2026-world-cup/a-77713556?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany had already qualified for the knockouts of the 2026 World Cup, but their performance was still disappointing in a 2-1 defeat...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US Supreme Court sides with Bayer over Roundup cancer suits",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-supreme-court-sides-with-bayer-over-roundup-cancer-suits/a-77713004?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Bayer, which acquired Roundup in 2018, said the decision is good for science and farmers. The Supreme Court's ruling was met with backlash from both R..."
     },
     {
         "source": "Leafly",
