@@ -1,6 +1,13 @@
 [
     {
         "source": "GrowCola.com",
+        "title": "Virginia Governor Proposes Amendments To Budget Containing Marijuana Legalization\u2014Without Suggesting Cannabis Changes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://growcola.com/virginia-governor-proposes-amendments-to-budget-containing-marijuana-legalization-without-suggesting-cannabis-changes/",
+        "summary": "<p>Virginia\u2019s governor has proposed amendments to budget legislation that lawmakers approved this week, but those changes don\u2019t include alterations to..."
+    },
+    {
+        "source": "GrowCola.com",
         "title": "Hemp THC Products Will Stay Legal In South Carolina As Lawmakers Fail To Agree On Limits",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://growcola.com/hemp-thc-products-will-stay-legal-in-south-carolina-as-lawmakers-fail-to-agree-on-limits/",
@@ -28,17 +35,10 @@
         "summary": "<p>The Drug Enforcement Administration (DEA) has revealed in a new filing for the cannabis rescheduling hearing set to start on... <a class=\"small fon..."
     },
     {
-        "source": "GrowCola.com",
-        "title": "Marijuana Moment Takes Ask For Rescheduling Hearing Livestreaming Directly To DEA Head After Judge Says He Won\u2019t Consider Request",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://growcola.com/marijuana-moment-takes-ask-for-rescheduling-hearing-livestreaming-directly-to-dea-head-after-judge-says-he-wont-consider-request/",
-        "summary": "<p>Marijuana Moment has brought its request for public and media livestream access to the historic federal cannabis rescheduling hearings starting... ..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US Senator warns of administration plan to hastily remove over 500 unaccompanied migrant children",
-        "image": "https://media.zenfs.com/en/ap.org/c8e7b15a79f1ba033716dd9a69e034b6",
-        "link": "https://www.yahoo.com/news/politics/articles/us-senator-warns-administration-plan-160050715.html",
+        "title": "Buttigieg was briefly separated from his children after police say he was target of false report",
+        "image": "https://media.zenfs.com/en/ap.org/2a51257f481399452d1f19753c474c8b",
+        "link": "https://www.yahoo.com/news/politics/articles/buttigieg-briefly-separated-children-police-194700180.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mamdani Got His Rent Freeze Wish. Don't Expect New York City Housing To Become More Affordable. (opinion)",
-        "image": "https://media.zenfs.com/en/reason_com_245/21cfdcc88386a6b70a23f5d8527edc6c",
-        "link": "https://www.yahoo.com/news/politics/articles/mamdani-got-rent-freeze-wish-190534922.html",
+        "title": "Florida tattoo shop refuses service to military and veterans for being 'war criminals'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/624d39f7442e6725641d53de6efb2e41",
+        "link": "https://www.yahoo.com/news/us/articles/florida-tattoo-shop-refuses-military-220043324.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Buttigieg was briefly separated from his children after police say he was target of false report",
-        "image": "https://media.zenfs.com/en/ap.org/2a51257f481399452d1f19753c474c8b",
-        "link": "https://www.yahoo.com/news/politics/articles/buttigieg-briefly-separated-children-police-194700180.html",
+        "title": "Polygamous sect leader convicted of abuse charges after girls found in trailer on Arizona highway",
+        "image": "https://media.zenfs.com/en/ap.org/0106899766f7e9f87f3b6e7f2b3d736c",
+        "link": "https://www.yahoo.com/news/us/articles/polygamous-sect-leader-convicted-abuse-235342842.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Man given prison sentence for illegally dumping 367 tonnes of waste",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/9118e9546c914d4ba9b8f0a4efe4a24d",
-        "link": "https://www.yahoo.com/news/us/articles/man-given-prison-sentence-illegally-151818812.html",
+        "title": "Bill Maher tells JD Vance Democratic radicalism on Israel and socialism could put his vote 'in play'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/1e2060fcad7c2e2ba70112012f73df6d",
+        "link": "https://www.yahoo.com/news/politics/articles/bill-maher-tells-jd-vance-135731287.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine strikes Russian weapons plant, Moscow fuel hub",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-strikes-russian-weapons-plant-moscow-fuel-hub/a-77735059?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The two attacks, in Volgograd and Vladimir regions, are part of President Zelenskyy's strategy to bring the war to the Russian people and force Putin ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Why is the US targeting Germany's drug industry?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/why-is-the-us-targeting-germany-s-drug-industry/a-77727707?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A new trade probe is reigniting a long-running clash over who should pay for medical innovation. Washington argues Germans benefit from lower prices w..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Heat record broken for second consecutive day",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-heat-record-broken-for-second-consecutive-day/live-77733670?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "As Europe's heatwave rages, Germany breaks all-time temperature record for the second day in a row. Elsewhere, politicians bicker over reforms and ind..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,27 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-allows-partial-release-of-anthropic-s-mythos-ai-model/a-77732252?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Only a small group of American firms will get access to Anthropic's AI Model Mythos 5, however, it is unclear which companies will be selected...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Heat soars as political reforms split opinion",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-heat-soars-as-political-reforms-split-opinion/live-77733670?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As Europe's heatwave rages, Germany continues to swelter with new records expected Saturday. Elsewhere, politicians bicker over reforms and industry b..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why Germany's Deutsche Bahn will face delays for many years",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-germany-s-deutsche-bahn-will-face-delays-for-many-years/a-77721079?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Delayed, unreliable and forced into long detours due to construction: Germany no longer sets the pace when it comes to rail travel \u2014 and this is unlik..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Military-age Ukrainian men could lose EU protection",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/military-age-ukrainian-men-could-lose-eu-protection/a-77729285?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The European Commission has suggested withdrawing protection status for military-age Ukrainian males. A number of EU countries support the move \u2014 and ..."
     },
     {
         "source": "Leafly",
