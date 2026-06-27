@@ -64,10 +64,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hunter Biden on democratic socialists\u2019 wins: \u2018Country is tired of being managed\u2019",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/375b74d578f84c3fe16c9eab69639808",
-        "link": "https://www.yahoo.com/news/politics/articles/hunter-biden-democratic-socialists-wins-164122620.html",
+        "title": "Man given prison sentence for illegally dumping 367 tonnes of waste",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/9118e9546c914d4ba9b8f0a4efe4a24d",
+        "link": "https://www.yahoo.com/news/us/articles/man-given-prison-sentence-illegally-151818812.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US allows partial release of Anthropic's Mythos AI model",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-allows-partial-release-of-anthropic-s-mythos-ai-model/a-77732252?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Only a small group of American firms will get access to Anthropic's AI Model Mythos 5, however, it is unclear which companies will be selected...."
     },
     {
         "source": "Deutsche Welle",
@@ -82,13 +89,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/why-germany-s-deutsche-bahn-will-face-delays-for-many-years/a-77721079?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Delayed, unreliable and forced into long detours due to construction: Germany no longer sets the pace when it comes to rail travel \u2014 and this is unlik..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US allows partial release of Anthropic's Mythos AI model",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-allows-partial-release-of-anthropic-s-mythos-ai-model/a-77732252?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Only a small group of American firms will get access to Anthropic's AI Model Mythos 5, however, it is unclear which companies will be selected...."
     },
     {
         "source": "Deutsche Welle",
