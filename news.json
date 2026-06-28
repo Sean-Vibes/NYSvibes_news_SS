@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Buttigieg was briefly separated from his children after police say he was target of false report",
-        "image": "https://media.zenfs.com/en/ap.org/2a51257f481399452d1f19753c474c8b",
-        "link": "https://www.yahoo.com/news/politics/articles/buttigieg-briefly-separated-children-police-194700180.html",
+        "title": "Polygamous sect leader convicted of abuse charges after girls found in trailer on Arizona highway",
+        "image": "https://media.zenfs.com/en/ap.org/0106899766f7e9f87f3b6e7f2b3d736c",
+        "link": "https://www.yahoo.com/news/us/articles/polygamous-sect-leader-convicted-abuse-235342842.html",
         "summary": "..."
     },
     {
@@ -50,16 +50,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "AI boom may be on its last legs amid stock volatility and dash for cash\u2014but will go out in a blaze of glory with \u2018blow-off phase\u2019 before bubble pops",
-        "image": "https://media.zenfs.com/en/fortune_175/08cdef932a2270ce470812849e802579",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/ai-boom-may-last-legs-160910015.html",
+        "title": "Mamdani Got His Rent Freeze Wish. Don't Expect New York City Housing To Become More Affordable. (opinion)",
+        "image": "https://media.zenfs.com/en/reason_com_245/21cfdcc88386a6b70a23f5d8527edc6c",
+        "link": "https://www.yahoo.com/news/politics/articles/mamdani-got-rent-freeze-wish-190534922.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Polygamous sect leader convicted of abuse charges after girls found in trailer on Arizona highway",
-        "image": "https://media.zenfs.com/en/ap.org/0106899766f7e9f87f3b6e7f2b3d736c",
-        "link": "https://www.yahoo.com/news/us/articles/polygamous-sect-leader-convicted-abuse-235342842.html",
+        "title": "Buttigieg was briefly separated from his children after police say he was target of false report",
+        "image": "https://media.zenfs.com/en/ap.org/2a51257f481399452d1f19753c474c8b",
+        "link": "https://www.yahoo.com/news/politics/articles/buttigieg-briefly-separated-children-police-194700180.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/cnn_articles_875/ea0e43a320a22c61922b524d99eec5ae",
         "link": "https://www.yahoo.com/news/politics/articles/supreme-court-says-alito-verbal-192612125.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Saudi Aramco helicopter crashes, all 14 passengers killed",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/saudi-aramco-helicopter-crashes-all-14-passengers-killed/a-77744020?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Saudi Arabian media report that the helicopter crashed in Ras Tanura on the country's eastern coast early on Sunday. It said that all 14 Saudi nationa..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "France: 11 killed in civilian plane crash",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/france-11-killed-in-civilian-plane-crash/a-77743392?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Police have urged people to \"strictly avoid\" the area around the airport in Tomblaine. The plane was reportedly carrying skydivers...."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-extreme-heat-heads-east-greens-want-air-con/live-77733670?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The worst of the heat wave is moving east and starting to ease, but extreme heat warnings remain in place almost nationwide. A Green politician is cal..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Will Germany impose an age limit for social media?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/will-germany-impose-an-age-limit-for-social-media/a-77722470?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A quarter of German youth spend too much time on social media, with 350,000 considered to have an addiction problem. Education Minister Karin Prien is..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "New Caledonia heads to polls in vote delayed since 2024",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/new-caledonia-heads-to-polls-in-vote-delayed-since-2024/a-77741001?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Security has been high at polling stations as the South Pacific archipelago holds its first provincial elections since 2019. The vote in the French te..."
     },
     {
         "source": "Leafly",
