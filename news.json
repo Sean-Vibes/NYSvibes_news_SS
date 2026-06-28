@@ -71,6 +71,20 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Germany's development aid strategy under fire",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-s-development-aid-strategy-under-fire/a-77721928?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Days ahead of the launch of the North-South Commission, development aid organizations have urged the German government to reverse billions in cuts to ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Pakistan's Geo News apologizes for Muharram broadcast",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/pakistan-s-geo-news-apologizes-for-muharram-broadcast/a-77744988?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The broadcaster Geo News was handed a 15-day suspension for a documentary that was \"liable to hurt the religious sentiments of viewers,\" Pakistan's me..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Uganda military chief shuts media outlets, slams 'free press'",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/uganda-military-chief-shuts-media-outlets-slams-free-press/a-77744687?maca=en-rss-en-all-1573-xml-mrss",
@@ -89,19 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-new-heat-record-at-41-7-degrees-celsius/live-77733670?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "For the third consecutive day, the DWD German Weather Service has reported a record temperature measurement. The worst of the heat is moving east and ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Saudi Aramco helicopter crashes, all 14 passengers killed",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/saudi-aramco-helicopter-crashes-all-14-passengers-killed/a-77744020?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Saudi Arabian media report that the helicopter crashed in Ras Tanura on the country's eastern coast early on Sunday. It said that all 14 Saudi nationa..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "France: 11 killed in civilian plane crash",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/france-11-killed-in-civilian-plane-crash/a-77743392?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Police have urged people to \"strictly avoid\" the area around the airport in Tomblaine. The plane was reportedly carrying skydivers...."
     }
 ]
