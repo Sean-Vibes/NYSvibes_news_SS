@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Polygamous sect leader convicted of abuse charges after girls found in trailer on Arizona highway",
-        "image": "https://media.zenfs.com/en/ap.org/0106899766f7e9f87f3b6e7f2b3d736c",
-        "link": "https://www.yahoo.com/news/us/articles/polygamous-sect-leader-convicted-abuse-235342842.html",
+        "title": "Google limits Meta\u2019s use of its Gemini AI models, FT reports",
+        "image": "https://media.zenfs.com/en/reuters.com/d5412d39d702f6bbb2b75798664d35d0",
+        "link": "https://finance.yahoo.com/technology/ai/articles/google-limits-meta-gemini-ai-052302903.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mamdani Got His Rent Freeze Wish. Don't Expect New York City Housing To Become More Affordable. (opinion)",
-        "image": "https://media.zenfs.com/en/reason_com_245/21cfdcc88386a6b70a23f5d8527edc6c",
-        "link": "https://www.yahoo.com/news/politics/articles/mamdani-got-rent-freeze-wish-190534922.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Buttigieg was briefly separated from his children after police say he was target of false report",
-        "image": "https://media.zenfs.com/en/ap.org/2a51257f481399452d1f19753c474c8b",
-        "link": "https://www.yahoo.com/news/politics/articles/buttigieg-briefly-separated-children-police-194700180.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Supreme Court says Alito\u2019s verbal reaction to Sotomayor was based on a \u2018misunderstanding\u2019",
         "image": "https://media.zenfs.com/en/cnn_articles_875/ea0e43a320a22c61922b524d99eec5ae",
         "link": "https://www.yahoo.com/news/politics/articles/supreme-court-says-alito-verbal-192612125.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Polygamous sect leader convicted of abuse charges after girls found in trailer on Arizona highway",
+        "image": "https://media.zenfs.com/en/ap.org/0106899766f7e9f87f3b6e7f2b3d736c",
+        "link": "https://www.yahoo.com/news/us/articles/polygamous-sect-leader-convicted-abuse-235342842.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "A US Army commander used attack drones and C4-packed robots to clear a deadly breach before soldiers even got in the fight",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/fc02a3b2d05115c83bf60c2ff69d10e0",
+        "link": "https://www.yahoo.com/news/us/articles/us-army-commander-used-attack-115701898.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Will Germany impose an age limit for social media?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/will-germany-impose-an-age-limit-for-social-media/a-77722470?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A quarter of German youth spend too much time on social media, with 350,000 considered to have an addiction problem. Education Minister Karin Prien is..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,12 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/russia-s-putin-promises-security-as-ukraine-ramps-up-attacks/a-77744239?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Russian leader condemned \"terrorist attacks on our territory and infrastructure facilities.\" Ukrainian attacks on Russia's oil refineries and weap..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: New heat record at 41.7 degrees Celsius",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-new-heat-record-at-41-7-degrees-celsius/live-77733670?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "For the third consecutive day, the DWD German Weather Service has reported a record temperature measurement. The worst of the heat is moving east and ..."
     }
 ]
