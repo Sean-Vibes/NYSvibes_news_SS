@@ -43,16 +43,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump's Great American State Fair opens with melted ice cream, empty booths",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/9280f6075dfbb28566c179d74f4e29c1",
-        "link": "https://www.yahoo.com/news/us/articles/trumps-great-american-state-fair-222820712.html",
+        "title": "AI boom may be on its last legs amid stock volatility and dash for cash\u2014but will go out in a blaze of glory with \u2018blow-off phase\u2019 before bubble pops",
+        "image": "https://media.zenfs.com/en/fortune_175/08cdef932a2270ce470812849e802579",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/ai-boom-may-last-legs-160910015.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hundreds of rabbis demand Mamdani apologize for putting 'target' on American Jews with AIPAC 'monster' remarks",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/405ccba565bb55bea8fcdf2c0099b2ae",
-        "link": "https://www.yahoo.com/news/politics/articles/hundreds-rabbis-demand-mamdani-apologize-112440948.html",
+        "title": "Trump's Great American State Fair opens with melted ice cream, empty booths",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/9280f6075dfbb28566c179d74f4e29c1",
+        "link": "https://www.yahoo.com/news/us/articles/trumps-great-american-state-fair-222820712.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Thousands of Hungarians join first Budapest Pride march since Orban's defeat",
-        "image": "https://media.zenfs.com/en/reuters.com/b1975f9fb7ddaa55564bfcc16f21ad71",
-        "link": "https://www.yahoo.com/news/world/articles/thousands-hungarians-join-first-budapest-150949668.html",
+        "title": "Supreme Court says Alito\u2019s verbal reaction to Sotomayor was based on a \u2018misunderstanding\u2019",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/ea0e43a320a22c61922b524d99eec5ae",
+        "link": "https://www.yahoo.com/news/politics/articles/supreme-court-says-alito-verbal-192612125.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Europe heat wave: 1,000 excess deaths recorded in France",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/europe-heat-wave-1-000-excess-deaths-recorded-in-france/live-77663026?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The French Health Ministry noted a sharp increase in deaths especially in areas hit hardest by the heat wave. Germany is meanwhile breaking for anothe..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Argentina: Milei's top aide resigns over corruption scandal",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/argentina-milei-s-top-aide-resigns-over-corruption-scandal/a-77740299?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Manuel Adorni is mired in a corruption scandal but has denied wrongdoing. Javier Milei has defended Adorni, saying, \"Manuel is innocent.\"..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,20 +103,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukraine-strikes-russian-weapons-plant-moscow-fuel-hub/a-77735059?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The two attacks, in Volgograd and Vladimir regions, are part of President Zelenskyy's strategy to bring the war to the Russian people and force Putin ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why is the US targeting Germany's drug industry?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-is-the-us-targeting-germany-s-drug-industry/a-77727707?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A new trade probe is reigniting a long-running clash over who should pay for medical innovation. Washington argues Germans benefit from lower prices w..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Heat record broken for second consecutive day",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-heat-record-broken-for-second-consecutive-day/live-77733670?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As Europe's heatwave rages, Germany breaks all-time temperature record for the second day in a row. Elsewhere, politicians bicker over reforms and ind..."
     },
     {
         "source": "Leafly",
