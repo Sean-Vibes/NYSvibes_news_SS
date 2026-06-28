@@ -2,12 +2,12 @@ import feedparser
 import json
 import os
 
-# Your 5 selected news links
+# Your updated news links with fresh, rock-solid cannabis sources
 FEEDS = [
-    "https://growcola.com/feed/",             # Growcola
+    "https://www.marijuanamoment.net/feed/",  # Marijuana Moment (New - Ultra Stable)
+    "https://mjbizdaily.com/feed/",           # MJBizDaily (New - Industrial Business News)
     "https://news.yahoo.com/rss/",            # Yahoo News
-    "https://rss.dw.com/xml/rss-en-all",      # DW All (English version for variety)
-    "https://www.leafly.com/feed"             # Leafly
+    "https://rss.dw.com/xml/rss-en-all"       # DW All (English version for variety)
 ]
 
 all_news = []
@@ -23,7 +23,7 @@ for url in FEEDS:
             # 1. Check for media content (common in Yahoo/DW)
             if 'media_content' in entry and len(entry.media_content) > 0:
                 img_url = entry.media_content[0]['url']
-            # 2. Check for enclosures (common in Growcola/Leafly)
+            # 2. Check for enclosures or images in links (common in major blogs)
             elif 'links' in entry:
                 for link in entry.links:
                     if 'image' in link.get('type', ''):
