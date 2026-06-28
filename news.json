@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Google limits Meta\u2019s use of its Gemini AI models, FT reports",
-        "image": "https://media.zenfs.com/en/reuters.com/d5412d39d702f6bbb2b75798664d35d0",
-        "link": "https://finance.yahoo.com/technology/ai/articles/google-limits-meta-gemini-ai-052302903.html",
+        "title": "Polygamous sect leader convicted of abuse charges after girls found in trailer on Arizona highway",
+        "image": "https://media.zenfs.com/en/ap.org/0106899766f7e9f87f3b6e7f2b3d736c",
+        "link": "https://www.yahoo.com/news/us/articles/polygamous-sect-leader-convicted-abuse-235342842.html",
         "summary": "..."
     },
     {
@@ -50,23 +50,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Supreme Court says Alito\u2019s verbal reaction to Sotomayor was based on a \u2018misunderstanding\u2019",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/ea0e43a320a22c61922b524d99eec5ae",
-        "link": "https://www.yahoo.com/news/politics/articles/supreme-court-says-alito-verbal-192612125.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Polygamous sect leader convicted of abuse charges after girls found in trailer on Arizona highway",
-        "image": "https://media.zenfs.com/en/ap.org/0106899766f7e9f87f3b6e7f2b3d736c",
-        "link": "https://www.yahoo.com/news/us/articles/polygamous-sect-leader-convicted-abuse-235342842.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "A US Army commander used attack drones and C4-packed robots to clear a deadly breach before soldiers even got in the fight",
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/fc02a3b2d05115c83bf60c2ff69d10e0",
         "link": "https://www.yahoo.com/news/us/articles/us-army-commander-used-attack-115701898.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Google limits Meta\u2019s use of its Gemini AI models, FT reports",
+        "image": "https://media.zenfs.com/en/reuters.com/d5412d39d702f6bbb2b75798664d35d0",
+        "link": "https://finance.yahoo.com/technology/ai/articles/google-limits-meta-gemini-ai-052302903.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "A small plane slammed into the tallest skyscraper in China\u2019s capital. Hours later, it was like nothing had happened.",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/262a035db878178c00e68dcb6172585e",
+        "link": "https://www.yahoo.com/news/world/articles/small-plane-slammed-tallest-skyscraper-095613857.html",
         "summary": "..."
     },
     {
@@ -102,6 +102,6 @@
         "title": "Russia's Putin promises security as Ukraine ramps up attacks",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/russia-s-putin-promises-security-as-ukraine-ramps-up-attacks/a-77744239?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Russian leader condemned \"terrorist attacks on our territory and infrastructure facilities.\" Ukrainian attacks on Russia's oil refineries and weap..."
+        "summary": "The Russian leader condemned what he called \"terrorist attacks on our territory and infrastructure facilities.\" Ukraine has targeted oil refineries an..."
     }
 ]
