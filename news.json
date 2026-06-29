@@ -36,9 +36,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Strong earthquake hits Afghanistan's Hindu Kush region, 20 injured",
-        "image": "https://media.zenfs.com/en/reuters.com/4def9fe054cdae685e697c510c11276a",
-        "link": "https://www.yahoo.com/news/articles/strong-earthquake-hits-hindu-kush-142849251.html",
+        "title": "US Supreme Court won't revive lawyer Alan Dershowitz's case against CNN",
+        "image": "https://media.zenfs.com/en/reuters.com/911f51295313f6b6c7da74173d3a116f",
+        "link": "https://www.yahoo.com/news/politics/articles/us-supreme-court-wont-revive-134712188.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Conservatives revolt after Trump-appointed Barrett joins liberals in \u2018shockingly wrong\u2019 mail ballot ruling",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/d0b04d3733cb4638182182254d2db4d9",
+        "link": "https://www.yahoo.com/news/politics/articles/conservatives-revolt-trump-appointed-barrett-175241163.html",
         "summary": "..."
     },
     {
@@ -50,16 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Putin says Ukrainian strikes on infrastructure causing \"problems\" for Russia",
-        "image": "https://media.zenfs.com/en/cbs_news_897/2ee56f004eb685f23560905885fd2785",
-        "link": "https://www.yahoo.com/news/world/articles/putin-says-ukrainian-strikes-infrastructure-152309059.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Serbian President Vucic says he will resign within weeks; move comes amid student protests",
-        "image": "https://media.zenfs.com/en/reuters.com/61de42d45447bc6ba04c39d5df5ae990",
-        "link": "https://www.yahoo.com/news/articles/serbia-president-vucic-says-resign-172140603.html",
+        "title": "America split from monarchy 250 years ago. Trump's presidency is testing how far it's come",
+        "image": "https://media.zenfs.com/en/ap.org/bad9c40554f5e04bff9635138b193a53",
+        "link": "https://www.yahoo.com/news/politics/articles/america-split-monarchy-250-years-113215031.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/the_hill_articles_341/bac6235d6657a8501eae9bed5f1ed8b3",
         "link": "https://www.yahoo.com/news/politics/articles/house-republican-says-congress-probably-181449822.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany: At least 6 killed in shooting in Stade",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-at-least-6-killed-in-shooting-in-stade/a-77754951?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Several people are reported dead following gunfire in the northern German city of Stade. Authorities arrested the suspected shooter and said the shoot..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Peru: Fujimori declared winner of presidential election",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/peru-fujimori-declared-winner-of-presidential-election/a-77760522?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After weeks of reviewing the ballots, Peru\u2019s electoral commission declared Keiko Fujimori the winner of the presidential election...."
     },
     {
         "source": "Deutsche Welle",
@@ -89,19 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-supreme-court-vastly-expands-trump-s-presidential-power/a-77759124?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The court reversed a 1935 precedent restricting presidential powers to remove heads of independent agencies. However, it barred Trump from firing Fed ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Poland orders Swedish submarines to bulk up navy",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/poland-orders-swedish-submarines-to-bulk-up-navy/a-77758193?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Poland has placed an order for three Swedish submarines in an effort to step up defense capabilities. The NATO member is modernizing its navy in the f..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "South Africa braces for anti-migrant protests",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/south-africa-braces-for-anti-migrant-protests/a-77722920?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Tensions are rising ahead of planned anti-migrant protests on June 30, as South Africa's government warns against violence. Analysts say deep social a..."
     }
 ]
