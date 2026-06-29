@@ -36,16 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Polygamous sect leader convicted of abuse charges after girls found in trailer on Arizona highway",
-        "image": "https://media.zenfs.com/en/ap.org/0106899766f7e9f87f3b6e7f2b3d736c",
-        "link": "https://www.yahoo.com/news/us/articles/polygamous-sect-leader-convicted-abuse-235342842.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Parkrun off for second week due to migrating frogs",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/b8cb1e80ecdf50fcd2c5e0e481fc769d",
-        "link": "https://www.yahoo.com/news/weather-news/articles/parkrun-off-second-week-due-082057917.html",
+        "title": "Ukrainian drones set another Russian oil refinery ablaze as Putin admits fuel shortages",
+        "image": "https://media.zenfs.com/en/ap.org/6a75d160b5902da3e5d364145db81513",
+        "link": "https://www.yahoo.com/news/world/articles/ukrainian-strike-sets-fire-oil-101732043.html",
         "summary": "..."
     },
     {
@@ -57,9 +50,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "America split from monarchy 250 years ago. Trump's presidency is testing how far it's come",
-        "image": "https://media.zenfs.com/en/ap.org/bad9c40554f5e04bff9635138b193a53",
-        "link": "https://www.yahoo.com/news/politics/articles/america-split-monarchy-250-years-113215031.html",
+        "title": "A small plane slammed into the tallest skyscraper in China\u2019s capital. Hours later, it was like nothing had happened.",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/262a035db878178c00e68dcb6172585e",
+        "link": "https://www.yahoo.com/news/world/articles/small-plane-slammed-tallest-skyscraper-095613857.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Strong earthquake hits Afghanistan's Hindu Kush region, 20 injured",
+        "image": "https://media.zenfs.com/en/reuters.com/4def9fe054cdae685e697c510c11276a",
+        "link": "https://www.yahoo.com/news/articles/strong-earthquake-hits-hindu-kush-142849251.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://s.yimg.com/uu/api/res/1.2/tasbMDgAHk.o3QZUrLCvGQ--~B/aD0zNjQ4O3c9NTQ3MjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/b99ed977-856f-4db1-bf1d-b7704a6acb36",
         "link": "https://www.yahoo.com/news/politics/articles/sen-bill-cassidy-on-trump-sometimes-he-acts-as-if-congress-is-merely-an-appendage-141913509.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Pakistan says it struck militant targets in Afghanistan",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/pakistan-says-it-struck-militant-targets-in-afghanistan/a-77746747?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The strikes come a day after an attack in the southern city of Karachi killed three paramilitary troops. Afghanistan's ruling Taliban condemned the st..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Serbia: Protests continue after Vucic says he will step down",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/serbia-protests-continue-after-vucic-says-he-will-step-down/a-77746666?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Student-led demonstrations continued even after President Vucic announced his plan to resign within weeks. For more than 18 months, demonstrators have..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,19 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/pakistan-s-geo-news-apologizes-for-muharram-broadcast/a-77744988?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The broadcaster Geo News was handed a 15-day suspension for a documentary that was \"liable to hurt the religious sentiments of viewers,\" Pakistan's me..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Uganda military chief shuts media outlets, slams 'free press'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uganda-military-chief-shuts-media-outlets-slams-free-press/a-77744687?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Muhoozi Kainerugaba said that he issued the order as he does not \"believe in a free press.\" He is the son of President Yoweri Museveni, who has held h..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia's Putin promises security as Ukraine ramps up attacks",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-s-putin-promises-security-as-ukraine-ramps-up-attacks/a-77744239?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Russian leader condemned what he called \"terrorist attacks on our territory and infrastructure facilities.\" Ukraine has targeted oil refineries an..."
     }
 ]
