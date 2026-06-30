@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US Supreme Court won't revive lawyer Alan Dershowitz's case against CNN",
-        "image": "https://media.zenfs.com/en/reuters.com/911f51295313f6b6c7da74173d3a116f",
-        "link": "https://www.yahoo.com/news/politics/articles/us-supreme-court-wont-revive-134712188.html",
+        "title": "Supreme Court rules constitutional privacy protections apply to cellphone users location history",
+        "image": "https://media.zenfs.com/en/ap.org/2187d773124e22f909ae9ee86253da3f",
+        "link": "https://www.yahoo.com/news/politics/articles/supreme-court-rules-constitutional-privacy-173712365.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "America split from monarchy 250 years ago. Trump's presidency is testing how far it's come",
-        "image": "https://media.zenfs.com/en/ap.org/bad9c40554f5e04bff9635138b193a53",
-        "link": "https://www.yahoo.com/news/politics/articles/america-split-monarchy-250-years-113215031.html",
+        "title": "Zelenskyy condemns 'horrific attacks' as Russian strikes kill 12 and wound 40 in Ukraine",
+        "image": "https://media.zenfs.com/en/ap.org/4059cec0c7534b30f0d1df0169614251",
+        "link": "https://www.yahoo.com/news/world/articles/zelenskyy-condemns-horrific-attacks-russian-122933899.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "House Republican says Congress \u2018probably\u2019 will have to use reconciliation for Iran war funding",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/bac6235d6657a8501eae9bed5f1ed8b3",
-        "link": "https://www.yahoo.com/news/politics/articles/house-republican-says-congress-probably-181449822.html",
+        "title": "Sen. Bill Cassidy on Trump: 'Sometimes he acts as if Congress is merely an appendage'",
+        "image": "https://s.yimg.com/uu/api/res/1.2/tasbMDgAHk.o3QZUrLCvGQ--~B/aD0zNjQ4O3c9NTQ3MjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-06/b99ed977-856f-4db1-bf1d-b7704a6acb36",
+        "link": "https://www.yahoo.com/news/politics/articles/sen-bill-cassidy-on-trump-sometimes-he-acts-as-if-congress-is-merely-an-appendage-141913509.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany out of World Cup after loss on penalties to Paraguay",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-out-of-world-cup-after-loss-on-penalties-to-paraguay/a-77760529?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany lost in dramatic fashion against Paraguay in Boston to exit the 2026 World Cup at the first knockout stage...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,12 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/pride-month-has-great-significance-for-those-who-feel-invisible-in-slovenia-many-lgbtq-people-understand-just-what-that-means/a-77753587?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "One of the first steps taken by Slovenia's new right-wing government in June was to remove the rainbow flag outside the Culture Ministry. As Pride Mon..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US Supreme Court vastly expands Trump's presidential power",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-supreme-court-vastly-expands-trump-s-presidential-power/a-77759124?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The court reversed a 1935 precedent restricting presidential powers to remove heads of independent agencies. However, it barred Trump from firing Fed ..."
     }
 ]
