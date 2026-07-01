@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Democrats in half of states sue Trump administration over Medicaid work rules",
-        "image": "https://media.zenfs.com/en/ap.org/10cf3a9b52f834aa8f9bf37beedd33e8",
-        "link": "https://www.yahoo.com/news/politics/articles/half-states-sue-trump-administration-194133910.html",
+        "title": "Trump administration seeks to stomp out all fires quickly, reviving policy that has been discredited",
+        "image": "https://media.zenfs.com/en/ap.org/ab390f7c872c75170e6577d5e2a832cc",
+        "link": "https://www.yahoo.com/news/us/articles/wildfires-worsen-trump-administration-revives-183119877.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump administration seeks to stomp out all fires quickly, reviving policy that has been discredited",
-        "image": "https://media.zenfs.com/en/ap.org/ab390f7c872c75170e6577d5e2a832cc",
-        "link": "https://www.yahoo.com/news/us/articles/wildfires-worsen-trump-administration-revives-183119877.html",
+        "title": "Video shows bull rider tossed and trampled at Bronx rodeo",
+        "image": "https://media.zenfs.com/en/nbcu_713/52b0976c9fc7923dd4e8d79368aae93e",
+        "link": "https://www.yahoo.com/news/videos/video-shows-bull-rider-tossed-005456472.html",
         "summary": "..."
     },
     {
@@ -71,10 +71,31 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany's heat wave has a political fallout",
+        "title": "Global firms and German startups compete in realizing nuclear fusion",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-heat-wave-has-a-political-fallout/a-77776202?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In the wake of the heat wave, critics say the government needs to do more to adapt to climate change...."
+        "link": "https://www.dw.com/en/global-firms-and-german-startups-compete-in-realizing-nuclear-fusion/a-77772842?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Companies around the world are competing to see who can build the first commercially viable nuclear fusion reactor. German startups are also in the ra..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US: Trump earned over $1.4 billion in 2025, led by crypto ventures",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-trump-earned-over-1-4-billion-in-2025-led-by-crypto-ventures/a-77778642?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Trump's latest financial filing shows hundreds of millions in income driven by crypto \u2014 an industry that has flourished under his policies...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Venezuela: Death toll nears 2,000 as rescue hopes fade",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/venezuela-death-toll-nears-2-000-as-rescue-hopes-fade/a-77778620?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After the earthquakes, almost 2,000 people are confirmed dead, and about 43,000 remain missing. Aid agencies warn of worsening hunger and disease amid..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "In Germany, political fallout from heat wave begins",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/in-germany-political-fallout-from-heat-wave-begins/a-77776202?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Following a major heat wave, critics say the government needs to do more to adapt to climate change. What can policymakers do to ensure the country is..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,26 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/israel-peace-deal-greeted-with-skepticism-fear-in-lebanon/a-77775047?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Even Lebanese locals who don't like Hezbollah, the local group fighting Israel, are deeply concerned about the deal their government has made with the..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Angela Merkel unveils official portrait in Berlin",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/angela-merkel-unveils-official-portrait-in-berlin/a-77726524?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "On Tuesday former German Chancellor Merkel presented the painting for the official portrait gallery of the country's heads of government. She had prev..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US envoys arrive in Qatar with state of Iran talks unclear",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-envoys-arrive-in-qatar-with-state-of-iran-talks-unclear/live-77763482?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US and Iran have agreed to refrain from hostilities after a recent flareup, but Washington and Tehran have given conflicting statements on how tal..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US top court backs birthright citizenship in rebuke to Trump",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-top-court-backs-birthright-citizenship-in-rebuke-to-trump/a-77774454?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US President Donald Trump had issued an executive order that would have changed constitutional guarantees that people born on US soil are citizens. Th..."
     }
 ]
