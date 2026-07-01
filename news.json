@@ -1,6 +1,20 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Nebraska Governor Approves Medical Marijuana Regulations",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/nebraska-governor-approves-medical-marijuana-regulations/",
+        "summary": "<p>The state attorney general signed off on the medical cannabis rules earlier this week. By Zach Wendling, Nebraska Examiner Nebraska\u2019s medical canna..."
+    },
+    {
+        "source": "Marijuana Moment",
+        "title": "Hawaii Officials Are Facing A Federal Lawsuit Over Newly Enforced Hemp Product Restrictions",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/hawaii-officials-are-facing-a-federal-lawsuit-over-newly-enforced-hemp-product-restrictions/",
+        "summary": "<p>&#8220;All of this stuff would be taken off the shelves. This is almost 90 percent of our product line. It will probably destroy our business.&#822..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "DEA Inviting Only Marijuana Opponents To Participate In Rescheduling Hearing Is Actually An \u2018Encouraging Sign\u2019 For Supporters (Op-Ed)",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/dea-inviting-only-marijuana-opponents-to-participate-in-rescheduling-hearing-is-actually-an-encouraging-sign-for-supporters-op-ed/",
@@ -21,41 +35,6 @@
         "summary": "<p>Bipartisan congressional lawmakers have filed a bill they say is intended to codify into law an executive order President Donald Trump issued to st..."
     },
     {
-        "source": "Marijuana Moment",
-        "title": "Marijuana Companies Seek To Defend Trump\u2019s Rescheduling Move By Intervening In Opponents\u2019 Lawsuits",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/marijuana-companies-seek-to-defend-trumps-rescheduling-move-by-intervening-in-opponents-lawsuits/",
-        "summary": "<p>Two medical marijuana companies are taking steps in federal court to intervene in ongoing lawsuits challenging the Trump administration&#8217;s ong..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Georgia Medical Marijuana Expansion Law Takes Effect, Allowing Vaping And Adding New Qualifying Conditions",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/georgia-medical-marijuana-expansion-law-takes-effect-allowing-vaping-and-adding-new-qualifying-conditions/",
-        "summary": "<p>A new Georgia law focused on expanding access to medical marijuana has taken effect. SB 220, which Gov. Brian Kemp (R) signed last month, went into..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Democrats in half of states sue Trump administration over Medicaid work rules",
-        "image": "https://media.zenfs.com/en/ap.org/10cf3a9b52f834aa8f9bf37beedd33e8",
-        "link": "https://www.yahoo.com/news/politics/articles/half-states-sue-trump-administration-194133910.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "2 people climb to the top of Empire State Building spire, unfurl banner",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/9e65af990d7bdcc75f8bdb70cf3deba5",
-        "link": "https://www.yahoo.com/news/us/articles/2-people-climb-top-empire-162408170.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018Humanity has chosen to become idiots\u2019: This Brown professor switched to take-home exams after a mass shooting\u00a0and discovered mass cheating",
-        "image": "https://media.zenfs.com/en/fortune_175/acc008dcd09d672483c9ca62e51cb78d",
-        "link": "https://www.yahoo.com/news/us/articles/humanity-chosen-become-idiots-brown-220202787.html",
-        "summary": "..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Trump administration seeks to stomp out all fires quickly, reviving policy that has been discredited",
         "image": "https://media.zenfs.com/en/ap.org/ab390f7c872c75170e6577d5e2a832cc",
@@ -70,38 +49,59 @@
         "summary": "..."
     },
     {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "\u2018Humanity has chosen to become idiots\u2019: This Brown professor switched to take-home exams after a mass shooting\u00a0and discovered mass cheating",
+        "image": "https://media.zenfs.com/en/fortune_175/acc008dcd09d672483c9ca62e51cb78d",
+        "link": "https://www.yahoo.com/news/us/articles/humanity-chosen-become-idiots-brown-220202787.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Zelenskyy says Ukraine has hit a Russian oil refinery for the second time in a week",
+        "image": "https://media.zenfs.com/en/ap.org/3c8179db6597d044971698100ba79c5f",
+        "link": "https://www.yahoo.com/news/world/articles/zelenskyy-says-ukraine-hits-russian-115602113.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Colorado socialist candidate called 9/11 terror attacks 'inevitable' due to US foreign policy",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/07e5df098c0e4f1480aefe72831ce66e",
+        "link": "https://www.yahoo.com/news/politics/articles/colorado-socialist-candidate-called-9-010059996.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Explosion in Monaco: Who is Vadym Yermolaiev?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/explosion-in-monaco-who-is-vadym-yermolaiev/a-77792178?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ukrainian-born businessman Vadym Yermolaiev was reportedly injured in a suspected assassination attempt in Monaco. Kyiv had previously imposed sanctio..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ivory Coast: Nearly 60 people killed in flooding since May",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ivory-coast-nearly-60-people-killed-in-flooding-since-may/a-77793180?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Although the rainy season has only just begun, flooding has already killed dozens in the Ivory Coast...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "How cryptocurrencies are changing global politics",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/how-cryptocurrencies-are-changing-global-politics/a-77789664?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Despite once dismissing them, Donald Trump made over $1 billion from cryptocurrency sales last year. But the digital currencies, and their lobbyists, ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "2 arrested after apparent Empire State Building proposal",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/2-arrested-after-apparent-empire-state-building-proposal/a-77792914?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Two people were arrested in Manhattan on Wednesday after conducting what appeared to be a daredevil marriage proposal at the very top of the iconic sk..."
+    },
+    {
         "source": "Deutsche Welle",
         "title": "3 die during Mexico City World Cup celebrations",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/3-die-during-mexico-city-world-cup-celebrations/a-77791673?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Mexican capital was packed after the national team's victory over Ecuador, with three people dying near a landmark in the city center...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany's Merz and soccer: A PR move that backfired",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-merz-and-soccer-a-pr-move-that-backfired/a-77790831?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "\"You've inspired us,\" read a post by Chancellor Merz on X right after Germany's lackluster performance and early elimination from the FIFA World Cup. ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Sony to stop making PlayStation game discs as of 2028",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/sony-to-stop-making-playstation-game-discs-as-of-2028/a-77790883?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Sony says it will stop making physical discs for PlayStation games as more and more people buy and download online. But the move brings a definitive e..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How the cocoa price crash is crushing West African farmers",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-the-cocoa-price-crash-is-crushing-west-african-farmers/a-77784709?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Cocoa prices reached a peak in 2024 before plummeting by nearly 75%, dealing a financial blow to millions of farmers in Ghana and Cote d'Ivoire. Will ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany: Ukrainian national charged over Nord Stream blasts",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-ukrainian-national-charged-over-nord-stream-blasts/a-77791335?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A Ukrainian national has been charged in relation to a series of explosions which severely damaged the Nord Stream gas pipeline in the Baltic Sea in 2..."
     }
 ]
