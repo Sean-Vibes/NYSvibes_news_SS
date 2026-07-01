@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Arizona Bill To Punish People Over \u2018Excessive\u2019 Marijuana Odor Or Smoke Dies As Session Adjourns",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/arizona-bill-to-punish-people-over-excessive-marijuana-odor-or-smoke-dies-as-session-adjourns/",
+        "summary": "<p>An Arizona bill that would have penalized people who create \u201cexcessive\u201d amounts of marijuana smoke or odor has died, a relief to advocates who said..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Nebraska Governor Approves Medical Marijuana Regulations",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/nebraska-governor-approves-medical-marijuana-regulations/",
@@ -28,13 +35,6 @@
         "summary": "<p>Delaware lawmakers have voted to override the governor&#8217;s veto of a bill that would prevent local governments from imposing onerous zoning res..."
     },
     {
-        "source": "Marijuana Moment",
-        "title": "Bipartisan Congressional Bill Would Codify Trump\u2019s Psychedelics Order Into Law",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/bipartisan-congressional-bill-would-codify-trumps-psychedelics-order-into-law/",
-        "summary": "<p>Bipartisan congressional lawmakers have filed a bill they say is intended to codify into law an executive order President Donald Trump issued to st..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Trump administration seeks to stomp out all fires quickly, reviving policy that has been discredited",
         "image": "https://media.zenfs.com/en/ap.org/ab390f7c872c75170e6577d5e2a832cc",
@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018Humanity has chosen to become idiots\u2019: This Brown professor switched to take-home exams after a mass shooting\u00a0and discovered mass cheating",
-        "image": "https://media.zenfs.com/en/fortune_175/acc008dcd09d672483c9ca62e51cb78d",
-        "link": "https://www.yahoo.com/news/us/articles/humanity-chosen-become-idiots-brown-220202787.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Zelenskyy says Ukraine has hit a Russian oil refinery for the second time in a week",
-        "image": "https://media.zenfs.com/en/ap.org/3c8179db6597d044971698100ba79c5f",
-        "link": "https://www.yahoo.com/news/world/articles/zelenskyy-says-ukraine-hits-russian-115602113.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Colorado socialist candidate called 9/11 terror attacks 'inevitable' due to US foreign policy",
         "image": "https://media.zenfs.com/en/fox_news_text_979/07e5df098c0e4f1480aefe72831ce66e",
         "link": "https://www.yahoo.com/news/politics/articles/colorado-socialist-candidate-called-9-010059996.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump secured over $50 million in loan from Charles Schwab in 2025, ethics filing shows",
+        "image": "https://media.zenfs.com/en/reuters.com/8f387b1f8a47f12d64d06ca57407fdb6",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-secured-over-50-million-120039581.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Key panel advances Johnson\u2019s plan to merge SAVE America Act with NDAA",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/30ef4fe6afba0bef5bb91f274ce5f38c",
+        "link": "https://www.yahoo.com/news/politics/articles/key-panel-advances-johnson-plan-024304735.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US declines to renew USMCA trade pact with Mexico, Canada",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-declines-to-renew-usmca-trade-pact-with-mexico-canada/a-77793686?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Lengthy negotiations are expected as the Trump administration seeks changes to a trade deal with Mexico and Canada that has streamlined supply chains ..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,12 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/2-arrested-after-apparent-empire-state-building-proposal/a-77792914?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Two people were arrested in Manhattan on Wednesday after conducting what appeared to be a daredevil marriage proposal at the very top of the iconic sk..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "3 die during Mexico City World Cup celebrations",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/3-die-during-mexico-city-world-cup-celebrations/a-77791673?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Mexican capital was packed after the national team's victory over Ecuador, with three people dying near a landmark in the city center...."
     }
 ]
