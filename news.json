@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump's actions signal a move toward institutionalizing people with disabilities, advocates warn",
-        "image": "https://media.zenfs.com/en/ap.org/a41b0a872bb74729003a2c239fcf4c49",
-        "link": "https://www.yahoo.com/news/politics/articles/trumps-actions-signal-move-toward-041228499.html",
+        "title": "FACT FOCUS: Iran claims a foreign ship got stuck in Strait of Hormuz. But it is tied to Tehran",
+        "image": "https://media.zenfs.com/en/ap.org/44767fbc62ca5fd03a37bc7440ccbd16",
+        "link": "https://www.yahoo.com/news/world/articles/fact-focus-iran-claims-foreign-101416783.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Minnesota attorney general shuts unit reviewing wrongful convictions, cites Trump funding cut",
-        "image": "https://media.zenfs.com/en/reuters.com/090347206075cb400288a35d688b6ab1",
-        "link": "https://www.yahoo.com/news/politics/articles/minnesota-attorney-general-shuts-unit-231540709.html",
+        "title": "Trump's actions signal a move toward institutionalizing people with disabilities, advocates warn",
+        "image": "https://media.zenfs.com/en/ap.org/a41b0a872bb74729003a2c239fcf4c49",
+        "link": "https://www.yahoo.com/news/politics/articles/trumps-actions-signal-move-toward-041228499.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Neil Gorsuch Urges Supreme Court To Correct 2 Wrong Turns That Undermined Civil Liberties",
-        "image": "https://media.zenfs.com/en/reason_com_245/5b9c63b0dceaecda3b48462839d9f447",
-        "link": "https://www.yahoo.com/news/politics/articles/neil-gorsuch-urges-supreme-court-040104967.html",
+        "title": "Markets to have best quarter in years as gas prices stay high",
+        "image": "https://media.zenfs.com/en/nbcu_713/fa6ab4c17489bfbe8f4924ec39a55b07",
+        "link": "https://www.yahoo.com/news/videos/markets-best-quarter-years-gas-221653989.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Venezuelan man rescued alive 8 days after powerful quakes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/venezuelan-man-rescued-alive-8-days-after-powerful-quakes/a-77809306?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Rescuers worked around the clock for three days to free security guard Hernan Gil from the rubble of the building where he worked...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,12 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/police-identify-156-in-drug-facilitated-sexual-assault-cases/a-77805092?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "An international operation led by German and British police has uncovered 156 suspects and victims in cases of drug-facilitated sexual assault. Operat..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia launches attacks on Kyiv, killing at least 21 and injuring scores",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-launches-attacks-on-kyiv-killing-at-least-21-and-injuring-scores/a-77794194?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ballistic and cruise missiles and drones were used in what Kyiv's mayor, Vitali Klitschko, said was the largest attack on the city since the war began..."
     }
 ]
