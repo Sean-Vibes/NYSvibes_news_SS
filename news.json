@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "DOJ Marijuana Lawsuit Filing Cites Drug Testing Industry And Pharma Company \u2018Pocketbook Interests\u2019 In Opposing Rescheduling",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/doj-marijuana-lawsuit-filing-cites-drug-testing-industry-and-pharma-company-pocketbook-interests-in-opposing-rescheduling/",
+        "summary": "<p>The Department of Justice is urging a federal court to reject marijuana opponents&#8217; request to pause the Trump administration&#8217;s cannabis..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Rhode Island Marijuana Officials Ask Judge To Remove Block On Business Licenses Now That Rules Targeted By Lawsuit Have Changed",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/rhode-island-marijuana-officials-ask-judge-to-remove-block-on-business-licenses-now-that-rules-targeted-by-lawsuit-have-changed/",
@@ -28,13 +35,6 @@
         "summary": "<p>Most Americans agree with the Supreme Court&#8217;s recent decision to uphold the gun rights of people who use marijuana\u2014and that includes majority..."
     },
     {
-        "source": "Marijuana Moment",
-        "title": "Marijuana\u2019s \u2018Entourage Effect\u2019 Varies By Terpene And Cannabinoid Receptor, New Study Suggests",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/marijuanas-entourage-effect-varies-by-terpene-and-cannabinoid-receptor-new-study-suggests/",
-        "summary": "<p>Another study has found evidence of an &#8220;entourage effect&#8221; where marijuana compounds work together to achieve results that are more robu..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "FACT FOCUS: Iran claims a foreign ship got stuck in Strait of Hormuz. But it is tied to Tehran",
         "image": "https://media.zenfs.com/en/ap.org/44767fbc62ca5fd03a37bc7440ccbd16",
@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump's actions signal a move toward institutionalizing people with disabilities, advocates warn",
-        "image": "https://media.zenfs.com/en/ap.org/a41b0a872bb74729003a2c239fcf4c49",
-        "link": "https://www.yahoo.com/news/politics/articles/trumps-actions-signal-move-toward-041228499.html",
+        "title": "Trump urges acting spy chief to declassify records, including on 2020 election",
+        "image": "https://media.zenfs.com/en/reuters.com/d9cb18dce3aef6a66a141256f86cb116",
+        "link": "https://www.yahoo.com/news/articles/trump-says-acting-spy-chief-151141497.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Markets to have best quarter in years as gas prices stay high",
-        "image": "https://media.zenfs.com/en/nbcu_713/fa6ab4c17489bfbe8f4924ec39a55b07",
-        "link": "https://www.yahoo.com/news/videos/markets-best-quarter-years-gas-221653989.html",
+        "title": "Neil Gorsuch Urges Supreme Court To Correct 2 Wrong Turns That Undermined Civil Liberties",
+        "image": "https://media.zenfs.com/en/reason_com_245/5b9c63b0dceaecda3b48462839d9f447",
+        "link": "https://www.yahoo.com/news/politics/articles/neil-gorsuch-urges-supreme-court-040104967.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Russia launches attacks on Kyiv, killing at least 27 and injuring scores",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/russia-launches-attacks-on-kyiv-killing-at-least-27-and-injuring-scores/a-77794194?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ballistic and cruise missiles and drones were used in what Kyiv's mayor, Vitali Klitschko, said was the largest attack on the city since the war began..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "After heat wave: Wildfires ravage southern France",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/after-heat-wave-wildfires-ravage-southern-france/a-77810138?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Firefighters battle several wildfires in southern France that were fueled by strong winds. Nearly 3,000 tourists and locals were evacuated...."
     },
     {
         "source": "Deutsche Welle",
@@ -89,19 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/german-coalition-agrees-on-sweeping-reform-package/a-77805373?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "After its first year in office, Germany's coalition government is seeking to revive a sluggish economy and push through key changes with its broad pac..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "First Islamic\u2011theological faculty at a public university",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/first-islamic\u2011theological-faculty-at-a-public-university/a-77801506?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The University of M\u00fcnster is the first public university in Europe to establish a faculty of Islamic theology, which is attracting international atten..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Police identify 156 in drug-facilitated sexual assault cases",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/police-identify-156-in-drug-facilitated-sexual-assault-cases/a-77805092?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "An international operation led by German and British police has uncovered 156 suspects and victims in cases of drug-facilitated sexual assault. Operat..."
     }
 ]
