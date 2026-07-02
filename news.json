@@ -36,9 +36,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump's actions signal a move toward institutionalizing people with disabilities, advocates warn",
-        "image": "https://media.zenfs.com/en/ap.org/a41b0a872bb74729003a2c239fcf4c49",
-        "link": "https://www.yahoo.com/news/politics/articles/trumps-actions-signal-move-toward-041228499.html",
+        "title": "Trump administration seeks to stomp out all fires quickly, reviving policy that has been discredited",
+        "image": "https://media.zenfs.com/en/ap.org/ab390f7c872c75170e6577d5e2a832cc",
+        "link": "https://www.yahoo.com/news/us/articles/wildfires-worsen-trump-administration-revives-183119877.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Khamenei body in cold storage as feared Basij mobilizes ahead of historic Iran funeral",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/17fccdad56d55e95b84d43d5920e1bbd",
+        "link": "https://www.yahoo.com/news/world/articles/khamenei-body-cold-storage-feared-002055808.html",
         "summary": "..."
     },
     {
@@ -50,24 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Obama blames splintered media for preventing superstar Democrat from rising up",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/d30ebbed4c4db949474798f28e091df0",
-        "link": "https://www.yahoo.com/news/politics/articles/obama-blames-splintered-media-preventing-170658262.html",
+        "title": "Trump's actions signal a move toward institutionalizing people with disabilities, advocates warn",
+        "image": "https://media.zenfs.com/en/ap.org/a41b0a872bb74729003a2c239fcf4c49",
+        "link": "https://www.yahoo.com/news/politics/articles/trumps-actions-signal-move-toward-041228499.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "House Republican leaders urge Trump to let Jones Act waivers expire as scheduled in August",
-        "image": "https://media.zenfs.com/en/reuters.com/510b81298b0f8f2c890fbcddc84d96a9",
-        "link": "https://www.yahoo.com/news/politics/articles/house-republican-leaders-urge-trump-144403303.html",
+        "title": "Couple who scaled Empire State Building with banner now face 8 charges",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/9e65af990d7bdcc75f8bdb70cf3deba5",
+        "link": "https://www.yahoo.com/news/us/articles/2-people-climb-top-empire-162408170.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Colorado socialist candidate called 9/11 terror attacks 'inevitable' due to US foreign policy",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/07e5df098c0e4f1480aefe72831ce66e",
-        "link": "https://www.yahoo.com/news/politics/articles/colorado-socialist-candidate-called-9-010059996.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Russia launches major drone and missile attack on Kyiv",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/russia-launches-major-drone-and-missile-attack-on-kyiv/a-77794194?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Multiple explosions have been heard in Kyiv as Russian drones and missiles hit the Ukrainian capital...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,12 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/how-cryptocurrencies-are-changing-global-politics/a-77789664?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Despite once dismissing them, Donald Trump made over $1 billion from cryptocurrency sales last year. But the digital currencies, and their lobbyists, ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "2 arrested after apparent Empire State Building proposal",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/2-arrested-after-apparent-empire-state-building-proposal/a-77792914?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Two people were arrested in Manhattan on Wednesday after conducting what appeared to be a daredevil marriage proposal at the very top of the iconic sk..."
     }
 ]
