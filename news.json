@@ -50,24 +50,52 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "More than 300 arrests in organised immigration crime crackdown",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/34a539971aa11f87f280a39b177c080e",
+        "link": "https://www.yahoo.com/news/politics/articles/more-300-arrests-organised-immigration-214728693.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Paramedics responded to a \u2018cardiac arrest\u2019 at Mitch McConnell\u2019s home on day of hospitalization",
+        "image": "https://media.zenfs.com/en/nbcu_713/049231e6a453e26f77c86bbc108be079",
+        "link": "https://www.yahoo.com/news/videos/paramedics-responded-cardiac-arrest-mitch-213007903.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "\u2018Explosive\u2019 diarrhea illness reported across US. See map of affected states",
         "image": "https://media.zenfs.com/en/usa_today_news_641/88a793c643cad2866dbbc9c41a2f809f",
         "link": "https://www.yahoo.com/news/us/articles/explosive-diarrhea-illness-reported-across-201759975.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "USDA reports unusually large US beef export sales, raising doubts over data",
-        "image": "https://media.zenfs.com/en/reuters.com/fe2304eaf9d0a21376b707e31d401cb0",
-        "link": "https://finance.yahoo.com/markets/commodities/articles/usda-reports-unusually-large-us-174951408.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "NASA launches spacecraft to recover sinking telescope",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/nasa-launches-spacecraft-to-recover-sinking-telescope/a-77826514?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Swift telescope has been affected by recent solar storms and is sinking faster than ever, heading toward Earth. A NASA mission will try to capture..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Khamenei body in cold storage as feared Basij mobilizes ahead of historic Iran funeral",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/17fccdad56d55e95b84d43d5920e1bbd",
-        "link": "https://www.yahoo.com/news/world/articles/khamenei-body-cold-storage-feared-002055808.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Lyra McKee: 3 men acquitted of killing N. Irish journalist",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/lyra-mckee-3-men-acquitted-of-killing-n-irish-journalist/a-77825712?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "McKee was killed while covering clashes between Republicans and police in 2019. Judge Patricia Smyth said evidence was insufficient for a conviction, ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Maltese tycoon faces trial over Caruana Galizia murder",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/maltese-tycoon-faces-trial-over-caruana-galizia-murder/a-77823553?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Maltese businessman accused of masterminding journalist Daphne Caruana Galizia\u2019s 2017 murder is in court \u2014 seven years after his arrest. Five othe..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Pope Leo defends US immigrant history at 250th anniversary",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/pope-leo-defends-us-immigrant-history-at-250th-anniversary/a-77825299?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The first US pope said \"successive waves of immigrants\" played a role in shaping the United States, which marks its 250th anniversary on Saturday. Leo..."
     },
     {
         "source": "Deutsche Welle",
@@ -75,33 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/nato-summit-european-members-and-canada-pledge-long-term-ukraine-aid/a-77825447?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The NATO alliance's European members and Canada have signaled a readiness to fully take over the financing of Ukraine's fight against Russia...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "EU sanctions Russian researchers involved in Navalny's death",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-sanctions-russian-researchers-involved-in-navalny-s-death/a-77825077?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The six sanctioned Russian scientists were linked to the production of epibatidine \u2014 the deadly toxin identified in the body of Putin critic Alexei Na..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany: Merz rebukes Trump jab over defense at Baltic event",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-merz-rebukes-trump-jab-over-defense-at-baltic-event/a-77823635?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In a meeting with Baltic leaders, Germany's Chancellor Friedrich Merz played up Germany's defense spending. It comes after new criticism from Presiden..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nigeria: US pulls some troops after anti-IS operation",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nigeria-us-pulls-some-troops-after-anti-is-operation/a-77824484?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The United States has withdrawn most of the forces it deployed for a recent operation against \"Islamic State\" militants in northeastern Nigeria, but i..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Free electricity in Australia, and the week's other eco wins",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/free-electricity-in-australia-and-the-week-s-other-eco-wins/a-77824448?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germans save an ancient woodland from coal mining, Australia gives away surplus solar power, and how one city became the world's best place for cyclis..."
     }
 ]
