@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Maine couple spots a bear chasing a moose calf and helps it escape",
-        "image": "https://media.zenfs.com/en/ap.org/148083b7bd5dc7f50916003b1b2feac2",
-        "link": "https://www.yahoo.com/news/world/articles/maine-couple-spots-bear-chasing-205014340.html",
+        "title": "'Right under our noses and nobody was able to help them.' 16 kids found in squalor shocks Ohio town",
+        "image": "https://media.zenfs.com/en/ap.org/60985b10aaa47a19850f29bc30f37fef",
+        "link": "https://www.yahoo.com/news/us/articles/were-16-kids-living-squalor-200522820.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Second murder arrest over 1998 teen disappearance",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/4773f47aad29c87809152de86e29f20c",
+        "link": "https://www.yahoo.com/news/us/articles/second-murder-arrest-over-1998-103116258.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Supreme Court declines to halt $800-a-day fine for ex-Fox News reporter refusing to divulge sources",
+        "image": "https://media.zenfs.com/en/ap.org/7aabb7a7772238bb14345bee4b52e899",
+        "link": "https://www.yahoo.com/news/us/articles/supreme-court-declines-halt-800-192112956.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "\u2018Explosive\u2019 diarrhea illness reported across US. See map of affected states",
         "image": "https://media.zenfs.com/en/usa_today_news_641/88a793c643cad2866dbbc9c41a2f809f",
         "link": "https://www.yahoo.com/news/us/articles/explosive-diarrhea-illness-reported-across-201759975.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "El Ni\u00f1o is 'strengthening rapidly,' forecasters warn. Here's what it could mean for your weather.",
-        "image": "https://s.yimg.com/uu/api/res/1.2/MK.el57kX.Gl4.z7SQZVwQ--~B/aD0xOTY0O3c9MzQ5MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/thumb-super-el-nino-storm_1134.jpg",
-        "link": "https://www.yahoo.com/news/science/article/el-nino-is-strengthening-rapidly-forecasters-warn-heres-what-it-could-mean-for-your-weather-212420861.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Ukraine strikes oil terminals near St. Petersburg in Russia",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The long-range strikes are the latest salvo in Ukraine\u2019s expanding campaign to inflict economic damage on Russia and hinder its war machine...."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Second murder arrest over 1998 teen disappearance",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/4773f47aad29c87809152de86e29f20c",
-        "link": "https://www.yahoo.com/news/us/articles/second-murder-arrest-over-1998-103116258.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "US 250th Independence Day: Merz, Modi extend congratulations",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-250th-independence-day-merz-modi-extend-congratulations/live-77833580?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US is celebrating 250 years of independence with a massive fireworks display and military flyovers in the capital. Leaders from German Chancellor ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Mali rebels target army bases, prison in fresh attacks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/mali-rebels-target-army-bases-prison-in-fresh-attacks/a-77833144?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The army claimed it had regained control after the coordinated assaults on several towns and cities by Tuareg rebels and Islamists...."
     },
     {
         "source": "Deutsche Welle",
@@ -82,26 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/welcoming-the-taliban-germany-s-new-afghanistan-policy/a-77786384?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "To facilitate the deportation of criminals to Afghanistan, the German government is allowing Taliban diplomats into the country...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pope Leo calls on Europe to do more for migrants",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pope-leo-calls-on-europe-to-do-more-for-migrants/a-77831684?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The pontiff's trip to the migration frontline of Lampedusa underscored a stark message for Europe and the United States as intolerance and indifferenc..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: Government lists 23 Pakistanis as 'terrorists'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-government-lists-23-pakistanis-as-terrorists/live-77830565?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Indian government has designated 23 Pakistan-based individuals as \"terrorists\" under its anti-terror law. Follow DW for more...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine strikes oil terminals near St. Petersburg in Russia",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The long-range strikes are the latest salvo in Ukraine\u2019s expanding campaign to inflict economic damage on Russia and hinder its war machine...."
     }
 ]
