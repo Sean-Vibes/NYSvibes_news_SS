@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Supreme Court declines to halt $800-a-day fine for ex-Fox News reporter refusing to divulge sources",
-        "image": "https://media.zenfs.com/en/ap.org/7aabb7a7772238bb14345bee4b52e899",
-        "link": "https://www.yahoo.com/news/us/articles/supreme-court-declines-halt-800-192112956.html",
+        "title": "Trump Jr.'s 'Amazon of guns' could make millions under new proposed firearm rule",
+        "image": "https://media.zenfs.com/en/reuters.com/7200ac364e9e00a8d373748f1f841ac5",
+        "link": "https://finance.yahoo.com/news/trump-jr-amazon-guns-could-193355539.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump floats inviting Obama, Biden, Bush to the White House to watch football",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/68c86f9776925471da34ec2e903bb7c3",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-floats-inviting-obama-biden-184632630.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump administration\u2019s $46 billion 'smart wall' races ahead on the US-Mexico border",
+        "image": "https://media.zenfs.com/en/ap.org/b5d828fbecbbbeb802586691ab88c1cc",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-46-billion-smart-114818526.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "At least 32 dead after overcrowded bus plunges into ravine in Pakistan",
         "image": "https://media.zenfs.com/en/bbc_us_articles_995/dc6628ba0aa3e98025e057885caa0ec1",
         "link": "https://www.yahoo.com/news/world/articles/least-32-dead-overcrowded-bus-093421233.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Heat Wave Forces Washington, DC to Alter July 4 Festivities",
-        "image": "https://media.zenfs.com/en/nbcu_713/52c81008205f1fbd2ceb5b82c77c3a18",
-        "link": "https://www.yahoo.com/news/videos/heat-wave-forces-washington-dc-113835823.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "India news: Government lists 23 Pakistanis as 'terrorists'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-government-lists-23-pakistanis-as-terrorists/live-77830565?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Indian government has designated 23 Pakistan-based individuals as \"terrorists\" under its anti-terror law. Follow DW for more...."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Dangerously parked e-bikes seized by council",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/0610cfe1470fb8847d6c01b34970266c",
-        "link": "https://www.yahoo.com/news/us/articles/dangerously-parked-e-bikes-seized-135141980.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Ukraine strikes oil terminals near St. Petersburg in Russia",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The long-range strikes are the latest salvo in Ukraine\u2019s expanding campaign to inflict economic damage on Russia and hinder its war machine...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: AfD kicks off conference amid massive protests",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-afd-kicks-off-conference-amid-massive-protests/live-77830605?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "As members of the far-right AfD party met in Erfurt, thousands of protesters were marching and blocking roads across the city. Meanwhile, firefighters..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,26 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/trump-set-to-put-nato-unity-to-the-test-at-turkey-summit/a-77824515?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "NATO Secretary-General Mark Rutte is working to keep the alliance united and Donald Trump engaged. But disputes over burden sharing, US military commi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Kielce pogrom in Poland: 80th anniversary of 1946 massacre",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/kielce-pogrom-in-poland-80th-anniversary-of-1946-massacre/a-77826002?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Just over a year after World War II ended, a mob in the Polish city of Kielce killed around 40 Jews, some of them Holocaust survivors. A lie about rit..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US: President Trump pardons 11 people, including Clean Air Act violators",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-president-trump-pardons-11-people-including-clean-air-act-violators/a-77829438?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Donald Trump has granted pardons to nine people convicted of violating a key environmental law. The US President has also pardoned an associate of con..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran: Khamenei's funeral ceremonies officially begin",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-khamenei-s-funeral-ceremonies-officially-begin/a-77816592?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Huge crowds have gathered in Tehran to pay their final respects to Iran's supreme leader, who was killed in an airstrike at the start of the US-Israel..."
     }
 ]
