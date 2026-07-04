@@ -36,16 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Supreme Court declines to halt $800-a-day fine for ex-Fox News reporter refusing to divulge sources",
-        "image": "https://media.zenfs.com/en/ap.org/7aabb7a7772238bb14345bee4b52e899",
-        "link": "https://www.yahoo.com/news/us/articles/supreme-court-declines-halt-800-192112956.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump floats inviting Obama, Biden, Bush to the White House to watch football",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/68c86f9776925471da34ec2e903bb7c3",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-floats-inviting-obama-biden-184632630.html",
+        "title": "Wildfire southwest of Denver forces thousands to evacuate and destroys more than 160 structures",
+        "image": "https://media.zenfs.com/en/ap.org/a21f67bf69fd13d6e568619483e44f15",
+        "link": "https://www.yahoo.com/news/weather-news/articles/wildfire-southwest-denver-forces-thousands-161451385.html",
         "summary": "..."
     },
     {
@@ -57,17 +50,52 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "El Ni\u00f1o is 'strengthening rapidly,' forecasters warn. Here's what it could mean for your weather.",
-        "image": "https://s.yimg.com/uu/api/res/1.2/MK.el57kX.Gl4.z7SQZVwQ--~B/aD0xOTY0O3c9MzQ5MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/thumb-super-el-nino-storm_1134.jpg",
-        "link": "https://www.yahoo.com/news/science/article/el-nino-is-strengthening-rapidly-forecasters-warn-heres-what-it-could-mean-for-your-weather-212420861.html",
+        "title": "Dangerously parked e-bikes seized by council",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/0610cfe1470fb8847d6c01b34970266c",
+        "link": "https://www.yahoo.com/news/us/articles/dangerously-parked-e-bikes-seized-135141980.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Couple who scaled Empire State Building with banner now face 8 charges",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/9e65af990d7bdcc75f8bdb70cf3deba5",
-        "link": "https://www.yahoo.com/news/us/articles/2-people-climb-top-empire-162408170.html",
+        "title": "Russian defence ministry says its forces captured Kostiantynivka in eastern Ukraine",
+        "image": "https://media.zenfs.com/en/reuters.com/f11614fced3cf07ee52d9d5c50481dde",
+        "link": "https://www.yahoo.com/news/articles/russian-defence-ministry-says-forces-220803269.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "At least 32 dead after overcrowded bus plunges into ravine in Pakistan",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/dc6628ba0aa3e98025e057885caa0ec1",
+        "link": "https://www.yahoo.com/news/world/articles/least-32-dead-overcrowded-bus-093421233.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Kielce pogrom in Poland: 80th anniversary of 1946 massacre",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/kielce-pogrom-in-poland-80th-anniversary-of-1946-massacre/a-77826002?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Just over a year after World War II ended, a mob in the Polish city of Kielce killed around 40 Jews, some of them Holocaust survivors. A lie about rit..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US: President Trump pardons 11 people, including Clean Air Act violators",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-president-trump-pardons-11-people-including-clean-air-act-violators/a-77829438?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Donald Trump has granted pardons to nine people convicted of violating a key environmental law. The US President has also pardoned an associate of con..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran: Khamenei's funeral ceremonies officially begin",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-khamenei-s-funeral-ceremonies-officially-begin/a-77816592?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Huge crowds have gathered in Tehran to pay their final respects to Iran's supreme leader, who was killed in an airstrike at the start of the US-Israel..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Heat wave upends July Fourth celebrations across US",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/heat-wave-upends-july-fourth-celebrations-across-us/a-77827949?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A dangerous heat wave has disrupted July Fourth events across the United States, including Donald Trump's flagship Great American State Fair, as the n..."
     },
     {
         "source": "Deutsche Welle",
@@ -75,33 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/taylor-swift-travis-kelce-tie-knot-in-star-studded-ceremony/a-77812947?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The couple got married in a major star-studded celebration at Madison Square Garden over the Fourth of July weekend...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "NASA launches spacecraft to recover sinking telescope",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nasa-launches-spacecraft-to-recover-sinking-telescope/a-77826514?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Swift telescope has been affected by recent solar storms and is sinking faster than ever, heading toward Earth. A NASA mission will try to capture..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Lyra McKee: 3 men acquitted of killing N. Irish journalist",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/lyra-mckee-3-men-acquitted-of-killing-n-irish-journalist/a-77825712?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "McKee was killed while covering clashes between Republicans and police in 2019. Judge Patricia Smyth said evidence was insufficient for a conviction, ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Maltese tycoon faces trial over Caruana Galizia murder",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/maltese-tycoon-faces-trial-over-caruana-galizia-murder/a-77823553?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Maltese businessman accused of masterminding journalist Daphne Caruana Galizia\u2019s 2017 murder is in court \u2014 seven years after his arrest. Five othe..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pope Leo defends US immigrant history at 250th anniversary",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pope-leo-defends-us-immigrant-history-at-250th-anniversary/a-77825299?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The first US pope said \"successive waves of immigrants\" played a role in shaping the United States, which marks its 250th anniversary on Saturday. Leo..."
     }
 ]
