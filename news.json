@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "'Right under our noses and nobody was able to help them.' 16 kids found in squalor shocks Ohio town",
-        "image": "https://media.zenfs.com/en/ap.org/60985b10aaa47a19850f29bc30f37fef",
-        "link": "https://www.yahoo.com/news/us/articles/were-16-kids-living-squalor-200522820.html",
+        "title": "Russian defence ministry says its forces captured Kostiantynivka in eastern Ukraine",
+        "image": "https://media.zenfs.com/en/reuters.com/f11614fced3cf07ee52d9d5c50481dde",
+        "link": "https://www.yahoo.com/news/articles/russian-defence-ministry-says-forces-220803269.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Supreme Court declines to halt $800-a-day fine for ex-Fox News reporter refusing to divulge sources",
-        "image": "https://media.zenfs.com/en/ap.org/7aabb7a7772238bb14345bee4b52e899",
-        "link": "https://www.yahoo.com/news/us/articles/supreme-court-declines-halt-800-192112956.html",
+        "title": "Paramedics responded to a \u2018cardiac arrest\u2019 at Mitch McConnell\u2019s home on day of hospitalization",
+        "image": "https://media.zenfs.com/en/nbcu_713/049231e6a453e26f77c86bbc108be079",
+        "link": "https://www.yahoo.com/news/videos/paramedics-responded-cardiac-arrest-mitch-213007903.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/usa_today_news_641/88a793c643cad2866dbbc9c41a2f809f",
         "link": "https://www.yahoo.com/news/us/articles/explosive-diarrhea-illness-reported-across-201759975.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "The moral test US founding father Thomas Jefferson failed?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/the-moral-test-us-founding-father-thomas-jefferson-failed/a-77833752?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Polish general and freedom fighter Thaddeus Kosciuszko presented US founding father Thomas Jefferson with a moral test. Historians still disagree on w..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,12 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-afd-elects-leaders-amid-massive-protests/live-77830605?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Party delegates of the far-right AfD are meeting in Erfurt as tens of thousands of people are protesting the event. Meanwhile, J\u00fcrgen Klopp said he wa..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Welcoming the Taliban? \u2014 Germany's new Afghanistan policy",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/welcoming-the-taliban-germany-s-new-afghanistan-policy/a-77786384?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "To facilitate the deportation of criminals to Afghanistan, the German government is allowing Taliban diplomats into the country...."
     }
 ]
