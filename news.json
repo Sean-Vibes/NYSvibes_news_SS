@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Wildfire southwest of Denver forces thousands to evacuate and destroys more than 160 structures",
-        "image": "https://media.zenfs.com/en/ap.org/a21f67bf69fd13d6e568619483e44f15",
-        "link": "https://www.yahoo.com/news/weather-news/articles/wildfire-southwest-denver-forces-thousands-161451385.html",
+        "title": "Supreme Court declines to halt $800-a-day fine for ex-Fox News reporter refusing to divulge sources",
+        "image": "https://media.zenfs.com/en/ap.org/7aabb7a7772238bb14345bee4b52e899",
+        "link": "https://www.yahoo.com/news/us/articles/supreme-court-declines-halt-800-192112956.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "At least 32 dead after overcrowded bus plunges into ravine in Pakistan",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/dc6628ba0aa3e98025e057885caa0ec1",
+        "link": "https://www.yahoo.com/news/world/articles/least-32-dead-overcrowded-bus-093421233.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Heat Wave Forces Washington, DC to Alter July 4 Festivities",
+        "image": "https://media.zenfs.com/en/nbcu_713/52c81008205f1fbd2ceb5b82c77c3a18",
+        "link": "https://www.yahoo.com/news/videos/heat-wave-forces-washington-dc-113835823.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Dangerously parked e-bikes seized by council",
         "image": "https://media.zenfs.com/en/bbc_us_articles_995/0610cfe1470fb8847d6c01b34970266c",
         "link": "https://www.yahoo.com/news/us/articles/dangerously-parked-e-bikes-seized-135141980.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russian defence ministry says its forces captured Kostiantynivka in eastern Ukraine",
-        "image": "https://media.zenfs.com/en/reuters.com/f11614fced3cf07ee52d9d5c50481dde",
-        "link": "https://www.yahoo.com/news/articles/russian-defence-ministry-says-forces-220803269.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Australia's Great Barrier Reef again avoids 'in danger' label",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/australia-s-great-barrier-reef-again-avoids-in-danger-label/a-77829982?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "UNESCO acknowledged Australia's efforts towards the Great Barrier Reef's health but raised concerns over mass bleaching. For now, the popular marine s..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "At least 32 dead after overcrowded bus plunges into ravine in Pakistan",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/dc6628ba0aa3e98025e057885caa0ec1",
-        "link": "https://www.yahoo.com/news/world/articles/least-32-dead-overcrowded-bus-093421233.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Trump set to put NATO unity to the test at Turkey summit",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-set-to-put-nato-unity-to-the-test-at-turkey-summit/a-77824515?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "NATO Secretary-General Mark Rutte is working to keep the alliance united and Donald Trump engaged. But disputes over burden sharing, US military commi..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,19 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-khamenei-s-funeral-ceremonies-officially-begin/a-77816592?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Huge crowds have gathered in Tehran to pay their final respects to Iran's supreme leader, who was killed in an airstrike at the start of the US-Israel..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Heat wave upends July Fourth celebrations across US",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/heat-wave-upends-july-fourth-celebrations-across-us/a-77827949?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A dangerous heat wave has disrupted July Fourth events across the United States, including Donald Trump's flagship Great American State Fair, as the n..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Taylor Swift, Travis Kelce tie knot in star-studded ceremony",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/taylor-swift-travis-kelce-tie-knot-in-star-studded-ceremony/a-77812947?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The couple got married in a major star-studded celebration at Madison Square Garden over the Fourth of July weekend...."
     }
 ]
