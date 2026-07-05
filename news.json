@@ -36,16 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China launches coast guard patrol east of Taiwan despite international pushback",
-        "image": "https://media.zenfs.com/en/reuters.com/5439d12f0739a386eb7cad0ea2b95b48",
-        "link": "https://www.yahoo.com/news/world/articles/china-launches-coast-guard-patrol-042127562.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Second murder arrest over 1998 teen disappearance",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/4773f47aad29c87809152de86e29f20c",
-        "link": "https://www.yahoo.com/news/us/articles/second-murder-arrest-over-1998-103116258.html",
+        "title": "El Ni\u00f1o is 'strengthening rapidly,' forecasters warn. Here's what it could mean for your weather.",
+        "image": "https://s.yimg.com/uu/api/res/1.2/MK.el57kX.Gl4.z7SQZVwQ--~B/aD0xOTY0O3c9MzQ5MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/thumb-super-el-nino-storm_1134.jpg",
+        "link": "https://www.yahoo.com/news/science/article/el-nino-is-strengthening-rapidly-forecasters-warn-heres-what-it-could-mean-for-your-weather-212420861.html",
         "summary": "..."
     },
     {
@@ -57,17 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russian defence ministry says its forces captured Kostiantynivka in eastern Ukraine",
-        "image": "https://media.zenfs.com/en/reuters.com/f11614fced3cf07ee52d9d5c50481dde",
-        "link": "https://www.yahoo.com/news/articles/russian-defence-ministry-says-forces-220803269.html",
+        "title": "Second murder arrest over 1998 teen disappearance",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/4773f47aad29c87809152de86e29f20c",
+        "link": "https://www.yahoo.com/news/us/articles/second-murder-arrest-over-1998-103116258.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018Artificial\u2019 film paints harsh picture of Sam Altman, Elon Musk: Report",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/c91451084b12ddb79fc0928562406dba",
-        "link": "https://www.yahoo.com/entertainment/movies/articles/artificial-film-paints-harsh-picture-160720487.html",
+        "title": "Trump offers to help Putin find deal with Ukraine, also speaks with Zelenskiy",
+        "image": "https://media.zenfs.com/en/reuters.com/54fb8a778b90075d251c526dd8991f97",
+        "link": "https://www.yahoo.com/news/articles/trump-offered-over-phone-help-225138179.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump floats inviting Obama, Biden, Bush to the White House to watch football",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/68c86f9776925471da34ec2e903bb7c3",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-floats-inviting-obama-biden-184632630.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Trump set to put NATO unity to the test at Turkey summit",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-set-to-put-nato-unity-to-the-test-at-turkey-summit/a-77824515?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "NATO Secretary-General Mark Rutte is working to keep the alliance united and Donald Trump engaged. But disputes over burden sharing, US military commi..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Albania PM Rama: Protests a stage for anti-Trump forces",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/albania-pm-rama-protests-a-stage-for-anti-trump-forces/a-77833383?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Protesters in Albania say their government is selling the country its nature out to foreign investors and luxury developers. Albanian Prime Minister E..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Jehovah's Witnesses fight German state for Holocaust archive",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/jehovah-s-witnesses-fight-german-state-for-holocaust-archive/a-77806830?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Jehovah's Witnesses have secured a partial victory in a dispute over a unique archive documenting the community's persecution by the Nazi regime. ..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,26 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/venezuela-earthquake-death-toll-nears-3-000-as-hope-to-find-survivors-dims/a-77835156?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "International rescue teams have begun closing up operations as deaths in Venezuela double quakes approach 3,000. Families are still looking for signs ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "The moral test US founding father Thomas Jefferson failed?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/the-moral-test-us-founding-father-thomas-jefferson-failed/a-77833752?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Polish general and freedom fighter Thaddeus Kosciuszko presented US founding father Thomas Jefferson with a moral test. Historians still disagree on w..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine strikes oil terminals near St. Petersburg in Russia",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-strikes-oil-terminals-near-st-petersburg-in-russia/a-77830574?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The long-range strikes are the latest salvo in Ukraine\u2019s expanding campaign to inflict economic damage on Russia and hinder its war machine...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Mali rebels target army bases, prison in fresh attacks",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/mali-rebels-target-army-bases-prison-in-fresh-attacks/a-77833144?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The army claimed it had regained control after the coordinated assaults on several towns and cities by Tuareg rebels and Islamists...."
     }
 ]
