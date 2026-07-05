@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor",
-        "image": "https://media.zenfs.com/en/reuters.com/10c90cd7357795fa59b38392a4da15ef",
-        "link": "https://www.yahoo.com/news/articles/three-sons-irans-slain-leader-070602879.html",
+        "title": "Democrat Mallory McMorrow suspends her Michigan Senate campaign and scrambles the pivotal race",
+        "image": "https://media.zenfs.com/en/ap.org/5bc451d3bac6eef647aa106b42999bf2",
+        "link": "https://www.yahoo.com/news/politics/articles/democrat-mallory-mcmorrow-suspends-her-180312360.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China launches coast guard patrol east of Taiwan despite international pushback",
-        "image": "https://media.zenfs.com/en/reuters.com/5439d12f0739a386eb7cad0ea2b95b48",
-        "link": "https://www.yahoo.com/news/world/articles/china-launches-coast-guard-patrol-042127562.html",
+        "title": "Vessel forced out of New York ship parade over 'politically charged' banners",
+        "image": "https://media.zenfs.com/en/reuters.com/8cc9ad52f526887c383677c8e37981e9",
+        "link": "https://www.yahoo.com/news/articles/vessel-forced-york-ship-parade-040432690.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump floats inviting Obama, Biden, Bush to the White House to watch football",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/68c86f9776925471da34ec2e903bb7c3",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-floats-inviting-obama-biden-184632630.html",
+        "title": "Opinion - America 250 celebrations expose a significant Republican gender gap",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/8503470683789fd8e031a4c6f66387d2",
+        "link": "https://www.yahoo.com/news/politics/articles/opinion-america-250-celebrations-expose-130000538.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Far-right AfD reaffirms ambition to govern Germany",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/far-right-afd-reaffirms-ambition-to-govern-germany/a-77840272?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The AfD has strengthened its hardline leadership despite ongoing scrutiny from Germany's domestic intelligence agencies. Co-leader Alice Weidel says t..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Wildfires rage in Portugal, Greece, France and Spain",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/wildfires-rage-in-portugal-greece-france-and-spain/a-77839526?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Six countries in southern Europe have been hit by wildfires. One of the blazes, in southwestern France, could affect Monday's third stage of the Tour ..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,19 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/top-iranian-officials-attend-day-2-of-ali-khamenei-s-funeral/a-77836567?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Three of Ayatollah Ali Khamenei's sons made their first public appearances in months on Sunday. But the son who succeeded him as Iran's supreme leader..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nigeria condemns deaths of 2 nationals in South Africa protests",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nigeria-condemns-deaths-of-2-nationals-in-south-africa-protests/a-77838899?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Nigeria claimed one of the victims was killed by police following anti-migrant marches that have fueled xenophobia...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Cargo ship reportedly attacked in Red Sea off Yemen",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/cargo-ship-reportedly-attacked-in-red-sea-off-yemen/a-77838529?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The UK Maritime Trade Office said a vessel was attacked 30 nautical miles southwest of Hodeida, which is under control of the Houthi rebels. The Iran-..."
     }
 ]
