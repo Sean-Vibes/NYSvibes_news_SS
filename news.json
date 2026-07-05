@@ -43,9 +43,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Second murder arrest over 1998 teen disappearance",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/4773f47aad29c87809152de86e29f20c",
-        "link": "https://www.yahoo.com/news/us/articles/second-murder-arrest-over-1998-103116258.html",
+        "title": "The stock market is about to suffer a \u2018snapback\u2019 and will lose much of this year\u2019s gains as \u2018speculation is hitting extreme levels,\u2019 BofA warns",
+        "image": "https://media.zenfs.com/en/fortune_175/1a40482907f050efed9897168fb1d1b5",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-suffer-snapback-lose-194341951.html",
         "summary": "..."
     },
     {
@@ -57,24 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Fed's Warsh vows to 'disappoint' anyone who thinks he will tolerate inflation above 2%",
-        "image": "https://media.zenfs.com/en/reuters.com/4006838caef525ab3a56cb3b37fbe8c8",
-        "link": "https://finance.yahoo.com/economy/policy/articles/warsh-hits-international-stage-peers-101241127.html",
+        "title": "Vessel forced out of New York ship parade over 'politically charged' banners",
+        "image": "https://media.zenfs.com/en/reuters.com/8cc9ad52f526887c383677c8e37981e9",
+        "link": "https://www.yahoo.com/news/articles/vessel-forced-york-ship-parade-040432690.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Missouri mom of 5 fatally shot while buying slushies with children; police search for gunman",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/292b3067f7feb4c86458539ed02a8ace",
-        "link": "https://www.yahoo.com/news/us/articles/missouri-mom-5-fatally-shot-151839692.html",
+        "title": "Second murder arrest over 1998 teen disappearance",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/4773f47aad29c87809152de86e29f20c",
+        "link": "https://www.yahoo.com/news/us/articles/second-murder-arrest-over-1998-103116258.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Super typhoon Bavi nears US Pacific islands",
+        "title": "Super Typhoon Bavi hits US Pacific islands",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/super-typhoon-bavi-nears-us-pacific-islands/a-77840713?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/super-typhoon-bavi-hits-us-pacific-islands/a-77840713?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Heavy rains and high winds are battering Guam and the Northern Marianas ahead of the arrival of a \"very dangerous\" storm that could cut power supplies..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "World Cup: Trump thanks FIFA for suspending Balogun's red card ban",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/world-cup-trump-thanks-fifa-for-suspending-balogun-s-red-card-ban/a-77840972?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US President Donald Trump reportedly called Gianni Infantino to ask him to lift Falorin Balogun's red card ban to allow him to play against Belgium. T..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,12 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/turkey-steps-up-arrests-ahead-of-nato-summit/a-77839766?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Journalists, academics and members of left-wing groups have reportedly been detained during police raids in several Turkish provinces. Turkey's capita..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Students leave Gaza to continue studies, others in limbo",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/students-leave-gaza-to-continue-studies-others-in-limbo/a-77816921?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "More than three school years since the start of Israel's war in Gaza, more Palestinian students are restarting studies at universities abroad. Educati..."
     }
 ]
