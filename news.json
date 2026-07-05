@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Vessel forced out of New York ship parade over 'politically charged' banners",
-        "image": "https://media.zenfs.com/en/reuters.com/8cc9ad52f526887c383677c8e37981e9",
-        "link": "https://www.yahoo.com/news/articles/vessel-forced-york-ship-parade-040432690.html",
+        "title": "El Ni\u00f1o is 'strengthening rapidly,' forecasters warn. Here's what it could mean for your weather.",
+        "image": "https://s.yimg.com/uu/api/res/1.2/MK.el57kX.Gl4.z7SQZVwQ--~B/aD0xOTY0O3c9MzQ5MzthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/thumb-super-el-nino-storm_1134.jpg",
+        "link": "https://www.yahoo.com/news/science/article/el-nino-is-strengthening-rapidly-forecasters-warn-heres-what-it-could-mean-for-your-weather-212420861.html",
         "summary": "..."
     },
     {
@@ -71,6 +71,20 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "China's tech rise reshapes the global space race",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/china-s-tech-rise-reshapes-the-global-space-race/a-77790036?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "China is pulling ahead in global research rankings and expanding its ambitions in space. With growing technological leadership, Beijing is positioning..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "South Korea plans future fund fueled by chip boom",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/south-korea-plans-future-fund-fueled-by-chip-boom/a-77836747?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "South Korea plans to channel windfall tax revenue from its booming semiconductor industry into a new future fund. The money would help finance major i..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Why US train travel lags behind Asia and Europe",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/why-us-train-travel-lags-behind-asia-and-europe/a-77430370?maca=en-rss-en-all-1573-xml-mrss",
@@ -89,19 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/top-iranian-officials-attend-day-2-of-ali-khamenei-s-funeral/a-77836567?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Three of Ayatollah Ali Khamenei's sons made their first public appearances in months on Sunday. But the son who succeeded him as Iran's supreme leader..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: Indian passport slips one spot in global ranking",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-indian-passport-slips-one-spot-in-global-ranking/live-77836287?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Indian passport has slipped one spot below last year's ranking on the Global Passport Index. Follow DW for more...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "China frees pastor after Trump raised case with Xi",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/china-frees-pastor-after-trump-raised-case-with-xi/a-77836084?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "China has released the pastor of a prominent underground church after US President Donald Trump pressed his case with Chinese leader Xi Jinping. His f..."
     }
 ]
