@@ -36,16 +36,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Democrat Mallory McMorrow suspends her Michigan Senate campaign and scrambles the pivotal race",
-        "image": "https://media.zenfs.com/en/ap.org/d0fd4722d114755d683d30b20ad1ac06",
-        "link": "https://www.yahoo.com/news/politics/articles/democrat-mallory-mcmorrow-suspends-her-180312360.html",
+        "title": "Trump posts a doctored photo of the Obamas and Air Force One with graffiti spray-painted on plane",
+        "image": "https://media.zenfs.com/en/ap.org/a9801337cb58c12fb3776049be808fcf",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-posts-doctored-photo-obamas-235924462.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The stock market is about to suffer a \u2018snapback\u2019 and will lose much of this year\u2019s gains as \u2018speculation is hitting extreme levels,\u2019 BofA warns",
-        "image": "https://media.zenfs.com/en/fortune_175/1a40482907f050efed9897168fb1d1b5",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-suffer-snapback-lose-194341951.html",
+        "title": "Second murder arrest over 1998 teen disappearance",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/4773f47aad29c87809152de86e29f20c",
+        "link": "https://www.yahoo.com/news/us/articles/second-murder-arrest-over-1998-103116258.html",
         "summary": "..."
     },
     {
@@ -58,23 +58,37 @@
     {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Vessel forced out of New York ship parade over 'politically charged' banners",
-        "image": "https://media.zenfs.com/en/reuters.com/8cc9ad52f526887c383677c8e37981e9",
+        "image": "https://media.zenfs.com/en/reuters.com/b735ba1c5e172bcfd32323e97ef03665",
         "link": "https://www.yahoo.com/news/articles/vessel-forced-york-ship-parade-040432690.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Second murder arrest over 1998 teen disappearance",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/4773f47aad29c87809152de86e29f20c",
-        "link": "https://www.yahoo.com/news/us/articles/second-murder-arrest-over-1998-103116258.html",
+        "title": "Johnson says House will pass SAVE America Act \u2018one more time\u2019 in reconciliation bill",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/53dc50b59f780c6b8a8117d07995ef36",
+        "link": "https://www.yahoo.com/news/politics/articles/johnson-says-house-pass-save-162555838.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Australia, Fiji sign defense pact to counter China in Pacific",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/australia-fiji-sign-defense-pact-to-counter-china-in-pacific/a-77842223?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Fiji, which had grown closer to Beijing under its former leadership, will now consult Canberra on security developments...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine: Renewed attacks on Kyiv leave several killed",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-renewed-attacks-on-kyiv-leave-several-killed/a-77841452?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "At least seven people were killed when Russian ballistic missiles hit the Ukrainian capital. This follows the large-scale attack on Kyiv last Thursday..."
     },
     {
         "source": "Deutsche Welle",
         "title": "Super Typhoon Bavi hits US Pacific islands",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/super-typhoon-bavi-hits-us-pacific-islands/a-77840713?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Heavy rains and high winds are battering Guam and the Northern Marianas ahead of the arrival of a \"very dangerous\" storm that could cut power supplies..."
+        "summary": "Super Typhoon Bavi made landfall near Guam, a US territory located in the western Pacific Ocean. The storm brought powerful winds and heavy rain to th..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,19 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/far-right-afd-reaffirms-ambition-to-govern-germany/a-77840272?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The AfD has strengthened its hardline leadership despite ongoing scrutiny from Germany's domestic intelligence agencies. Co-leader Alice Weidel says t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Wildfires rage in Portugal, Greece, France and Spain",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/wildfires-rage-in-portugal-greece-france-and-spain/a-77839526?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Six countries in southern Europe have been hit by wildfires. One of the blazes, in southwestern France, could affect Monday's third stage of the Tour ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Turkey steps up arrests ahead of NATO summit",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/turkey-steps-up-arrests-ahead-of-nato-summit/a-77839766?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Journalists, academics and members of left-wing groups have reportedly been detained during police raids in several Turkish provinces. Turkey's capita..."
     }
 ]
