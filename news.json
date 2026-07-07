@@ -1,6 +1,20 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Oregon Officials Propose Major Fee Hike For Psilocybin Businesses",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/oregon-officials-propose-major-fee-hike-for-psilocybin-businesses/",
+        "summary": "<p>&#8220;I don\u2019t think the industry can survive this. I think [what] you\u2019re going to see over the next couple years is a major contraction to where t..."
+    },
+    {
+        "source": "Marijuana Moment",
+        "title": "New Federal Report Analyzes Scales Used To Weigh Marijuana, Offering Advice For State Officials",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/new-federal-report-analyzes-scales-used-to-weigh-marijuana-offering-advice-for-state-officials/",
+        "summary": "<p>A federal agency has published a new report that aims to assist state marijuana officials in developing standards for scales used in the sale of ca..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "THC-Infused Cannabis Beverages Are Helping People Quit Drinking Alcohol, Survey Shows",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/thc-infused-cannabis-beverages-are-helping-people-quit-drinking-alcohol-survey-shows/",
@@ -21,20 +35,6 @@
         "summary": "<p>AMA&#8217;s new marijuana stances; Congressional psychedelics bill; NH gov candidates clash on cannabis; MO marijuana workers unionize Subscribe\u00a0to..."
     },
     {
-        "source": "Marijuana Moment",
-        "title": "Major Banking Group Pushes Congress To Pass Bill Easing Marijuana Businesses\u2019 Access To Financial Services",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/major-banking-group-pushes-congress-to-pass-bill-easing-marijuana-businesses-access-to-financial-services/",
-        "summary": "<p>A major banking organization is calling on Congress to pass legislation to ease marijuana businesses&#8217; access to financial services. The Secur..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Workers At More Missouri Marijuana Businesses Win Union Fights Following Federal Ruling",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/workers-at-more-missouri-marijuana-businesses-win-union-fights-following-federal-ruling/",
-        "summary": "<p>\u201cThey basically thought it was impossible when all these companies were fighting, and now the workers are winning.\u201d By Rebecca Rivas, Missouri Inde..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Supreme Court won't block Texas from enforcing a law requiring age verification for app downloads",
         "image": "https://media.zenfs.com/en/ap.org/0e4bb4ef053e45fb6b4ec351d05c8d1c",
@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Biohacker hoping to live to 160 reveals alarming diagnosis: 'My stomach is eating itself'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/26c9624bd833c0e454627062875047a7",
-        "link": "https://www.yahoo.com/news/science/articles/biohacker-hoping-live-160-reveals-173838957.html",
+        "title": "Glazing on king's grave damaged by visitor's bottle",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/da57ceee5fedf45342a68e17b1a836e4",
+        "link": "https://www.yahoo.com/news/world/articles/damaged-glazing-over-richard-iii-095918619.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "More Severe Storms Loom as 1M Lose Power After Heat Wave",
-        "image": "https://media.zenfs.com/en/nbcu_713/65cf7c84c120a569a3f3a4d87eba2f6a",
-        "link": "https://www.yahoo.com/news/videos/more-severe-storms-loom-1m-110909993.html",
+        "title": "Heartbroken children in tears as they're told shock news of 700-year-old school's imminent closure",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/a769e55bacbf6a8763cd1657770b2c95",
+        "link": "https://www.yahoo.com/news/us/articles/heartbroken-children-tears-theyre-told-213032083.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Conflict, climate change, cash-strapped: Why poverty persists",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/conflict-climate-change-cash-strapped-why-poverty-persists/a-77863904?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "With just under five years left to complete the UN's Sustainable Development Goals, a new report shows what's hampering progress. And what the solutio..."
     },
     {
         "source": "Deutsche Welle",
@@ -81,7 +88,7 @@
         "title": "UK: Nigel Farage resigns as MP, to run again in by-election",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/uk-nigel-farage-resigns-as-mp-to-run-again-in-by-election/a-77865626?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Reform UK leader Nigel Farage has stepped down as a member of parliament, forcing a by-election as scrutiny grows over undeclared financial support. F..."
+        "summary": "The best way to deal with growing scrutiny over undeclared financial support is to step down ... and stand again. That's the conclusion Reform UK lead..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,12 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ghana-uncertainty-hangs-over-new-government-anti-corruption-plan/a-77863555?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "President John Dramani Mahama wants to build trust by strengthening public accountability. But governance experts say the success of the anti-corrupti..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Philippines' democracy tested by Duterte impeachment trial",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/philippines-democracy-tested-by-duterte-impeachment-trial/a-77864215?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Vice President Sara Duterte faces impeachment in a trial that could shape the 2028 presidential race and test public trust in the country's democratic..."
     }
 ]
