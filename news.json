@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Family day out ends in 'terrifying' road rage attack",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/0f624a37b416a611757f5d18c1de8cbd",
-        "link": "https://www.yahoo.com/news/us/articles/family-day-ends-terrifying-road-162537980.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Special Report: Severe weather affects July Fourth events in D.C., New York and Philadelphia",
-        "image": "https://media.zenfs.com/en/nbcu_713/c0dd6f327b047c88eafce02e9a4ad822",
-        "link": "https://www.yahoo.com/news/videos/special-report-severe-weather-affects-005745891.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Boy and woman released as man's death not suspicious",
         "image": "https://media.zenfs.com/en/bbc_us_articles_995/ed5f011372141d24f8ba2c0ef30acc0d",
         "link": "https://www.yahoo.com/news/us/articles/boy-woman-still-custody-murder-071834731.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump posts a doctored photo of the Obamas and Air Force One with graffiti spray-painted on plane",
+        "image": "https://media.zenfs.com/en/ap.org/a9801337cb58c12fb3776049be808fcf",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-posts-doctored-photo-obamas-235924462.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Woman describes what 'scared' her rowing from California to Hawaii",
+        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/54432b2ee6004b800df9fd45cfcd3435",
+        "link": "https://sports.yahoo.com/articles/woman-speaks-history-making-row-130243365.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Microsoft to cut thousands of jobs, Xbox to be hit hard",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/microsoft-to-cut-thousands-of-jobs-xbox-to-be-hit-hard/a-77857704?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The move will affect the company's gaming division, which has been facing the outcome of a \"not healthy\" business model. The jobs cut will not be repl..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,12 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/senegal-s-power-struggle-referendum-to-decide-on-constitutional-reform/a-77809238?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Senegal's constitional reform has caused considerable political uproar. The public will now be asked to vote on the proposed amendments. Under a new c..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Spain's 'running of the bulls' festival opens in Pamplona",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/spain-s-running-of-the-bulls-festival-opens-in-pamplona/a-77855360?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Revelers poured red wine and held traditional red scarfs for the \"Chupinazo,\" the opening of a festival in northern Spain where hundreds of people are..."
     }
 ]
