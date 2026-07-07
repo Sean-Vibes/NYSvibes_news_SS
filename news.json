@@ -43,16 +43,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The stock market is about to suffer a \u2018snapback\u2019 and will lose much of this year\u2019s gains as \u2018speculation is hitting extreme levels,\u2019 BofA warns",
-        "image": "https://media.zenfs.com/en/fortune_175/1a40482907f050efed9897168fb1d1b5",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-suffer-snapback-lose-194341951.html",
+        "title": "Fetterman demands Bernie Sanders apologize for backing alleged 'predator' Graham Platner in Maine Senate race",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/5b72bd1e02c73b58e61025ab2adb6e0e",
+        "link": "https://www.yahoo.com/news/politics/articles/fetterman-demands-bernie-sanders-apologize-141739678.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Fetterman demands Bernie Sanders apologize for backing alleged 'predator' Graham Platner in Maine Senate race",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/5b72bd1e02c73b58e61025ab2adb6e0e",
-        "link": "https://www.yahoo.com/news/politics/articles/fetterman-demands-bernie-sanders-apologize-141739678.html",
+        "title": "There are 3 telltale signs that you used AI to make your app, and they aren't pretty",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/acb4d12b3fc953626dca6029501161de",
+        "link": "https://tech.yahoo.com/ai/copilot/articles/3-telltale-signs-used-ai-040101406.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/bbc_us_articles_995/a769e55bacbf6a8763cd1657770b2c95",
         "link": "https://www.yahoo.com/news/us/articles/heartbroken-children-tears-theyre-told-213032083.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: US military launches fresh strikes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-us-military-launches-fresh-strikes/live-77869350?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US strikes come after fresh Iranian attacks on vessels in the Strait of Hormuz. DW has the latest...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Pakistan: Plane with 5 onboard loses contact off Karachi",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/pakistan-plane-with-5-onboard-loses-contact-off-karachi/a-77869075?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Pakistani officials said radar systems showed the aircraft descending rapidly and communication with the crew was lost...."
     },
     {
         "source": "Deutsche Welle",
@@ -89,19 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/france-le-pen-vows-to-run-despite-upheld-graft-conviction/a-77859337?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "After a court appeal rendered her eligible in theory to run while wearing an ankle tag, the far-right leader says she intends to stand next year. She ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How drones transformed Iran's Axis of Resistance militias in Lebanon, Gaza, Yemen and Iraq",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-drones-transformed-iran-s-axis-of-resistance-militias-in-lebanon-gaza-yemen-and-iraq/a-77864220?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Drone production, technology transfer and training have enabled Iran's regional allies to operate with far greater independence. Has this network beco..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "IOC paves way for Russia's return to Olympics",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ioc-paves-way-for-russia-s-return-to-olympics/a-77868069?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russian athletes will be able to take part in qualifying events for the Los Angeles 2028 Olympic Games. It comes two months the IOC had lifted restric..."
     }
 ]
