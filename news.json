@@ -64,10 +64,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Woman describes what 'scared' her rowing from California to Hawaii",
-        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/54432b2ee6004b800df9fd45cfcd3435",
-        "link": "https://sports.yahoo.com/articles/woman-speaks-history-making-row-130243365.html",
+        "title": "Mamdani aide unloaded on ABC executives after 'The View' host called socialist candidate an antisemite: report",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/a4bd4bb786f13de9ed4d161e0d2f1b18",
+        "link": "https://www.yahoo.com/news/politics/articles/mamdani-aide-unloaded-abc-executives-213458489.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Belgium knocks US out of World Cup after Balogun controversy",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/belgium-knocks-us-out-of-world-cup-after-balogun-controversy/a-77857846?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The striker left little impact on the game as the US became the last World Cup co-host to be eliminated from the tournament...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Oil tanker struck in Strait of Hormuz, UK says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/oil-tanker-struck-in-strait-of-hormuz-uk-says/a-77857718?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The incident occurred east of Limah, Oman. A projectile struck a tanker and caused a fire while it was traveling southbound, with no casualties report..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,19 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/nato-chief-boasts-european-spending-ahead-of-key-summit/a-77857033?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Under pressure from Washington, the impetus is on European NATO members at this week's summit in Ankara to show they can deliver on defense spending c..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Emmanuel Macron visits Syria, 18 months after Assad's fall",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/emmanuel-macron-visits-syria-18-months-after-assad-s-fall/a-77856791?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The French president landed in Damascus on Monday evening. He's the first EU leader to visit the country since Bashar Assad's sudden downfall and the ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Senegal's power struggle: Referendum to decide on constitutional reform",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/senegal-s-power-struggle-referendum-to-decide-on-constitutional-reform/a-77809238?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Senegal's constitional reform has caused considerable political uproar. The public will now be asked to vote on the proposed amendments. Under a new c..."
     }
 ]
