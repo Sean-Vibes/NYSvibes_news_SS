@@ -50,24 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Gut bacteria may influence estrogen-related cancers, review finds",
+        "image": "https://media.zenfs.com/en/newsnation_articles_600/ba30ff108e2b32bf22a3d48be4b88a82",
+        "link": "https://www.yahoo.com/news/science/articles/gut-bacteria-may-influence-estrogen-114144688.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Chinese men in Germany used Telegram groups to share rape videos and drugging tips, prosecutors say",
+        "image": "https://media.zenfs.com/en/ap.org/cc29afa2386a0c87f3918019d178d2f2",
+        "link": "https://www.yahoo.com/news/world/articles/chinese-men-germany-used-telegram-040710085.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Biohacker hoping to live to 160 reveals alarming diagnosis: 'My stomach is eating itself'",
         "image": "https://media.zenfs.com/en/fox_news_text_979/26c9624bd833c0e454627062875047a7",
         "link": "https://www.yahoo.com/news/science/articles/biohacker-hoping-live-160-reveals-173838957.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "McConnell speaks to Republican leaders as speculation swirls about his health, remains hospitalized",
-        "image": "https://media.zenfs.com/en/ap.org/11e7e046918437d977e894d20d2b24e6",
-        "link": "https://www.yahoo.com/news/politics/articles/mcconnell-speaks-republican-leaders-speculation-200054650.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "The Australian tree reshaping the world's wildfires",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/the-australian-tree-reshaping-the-world-s-wildfires/a-77560208?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "As Europe experiences another summer of extreme heat and wildfire warnings, one tree imported from Australia is coming under renewed scrutiny across t..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Violent \u2018teen takeover\u2019 chaos",
-        "image": "https://media.zenfs.com/en/nbcu_713/23048fdccb8cce77505e326643f2789e",
-        "link": "https://www.yahoo.com/news/videos/violent-teen-takeover-chaos-234042885.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "US ICE agent fatally shoots man at Texas traffic stop",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-ice-agent-fatally-shoots-man-at-texas-traffic-stop/a-77871085?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Authorities have said that the Mexican national was killed while evading arrest amid calls for an independent review of the evidence...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: US charges Lawrence Bishnoi in Sikh separatist killing",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-us-charges-lawrence-bishnoi-in-sikh-separatist-killing/live-77870143?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Jailed gangster Lawrence Bishnoi is accused of involvement in the 2023 killing of Sikh separatist Hardeep Singh Nijjar, which sparked one of the worst..."
     },
     {
         "source": "Deutsche Welle",
@@ -78,30 +99,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Pakistan: Plane with 5 onboard loses contact off Karachi",
+        "title": "Pakistan: Plane with 5 on board loses contact off Karachi",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pakistan-plane-with-5-onboard-loses-contact-off-karachi/a-77869075?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/pakistan-plane-with-5-on-board-loses-contact-off-karachi/a-77869075?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Pakistani officials said radar systems showed the aircraft descending rapidly and communication with the crew was lost...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: US launches fresh strikes after attacks in Hormuz",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-us-launches-fresh-strikes-after-attacks-in-hormuz/live-77869350?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US military said it struck Iranian targets after more Iranian attacks on vessels in the Strait of Hormuz. Iran condemned the strikes, threatening ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Attacks on Kyiv ahead of NATO summit: What is Putin's goal?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/attacks-on-kyiv-ahead-of-nato-summit-what-is-putin-s-goal/a-77867330?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Kyiv suffered heavy Russian strikes ahead of the NATO summit in Ankara. Experts say Russian President Vladimir Putin is trying to send a message...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "NYC high-rise's possible collapse prompts evacuations",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nyc-high-rise-s-possible-collapse-prompts-evacuations/a-77868907?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "New York City's fire chief said the building was in danger of 'localized' collapse, after buckling columns were found...."
     }
 ]
