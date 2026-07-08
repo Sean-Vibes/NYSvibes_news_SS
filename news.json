@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Here's how much interest a $10,000 18-month CD will earn savers who act now",
-        "image": "https://media.zenfs.com/en/cbs_news_897/204d5fb8997771459dd1afdde14f3845",
-        "link": "https://finance.yahoo.com/markets/currencies/articles/heres-much-interest-10-000-184504240.html",
+        "title": "Tennessee conductor fired after telling July 4 passengers America is greatest country, critics should 'leave'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/1245a8b50b2523ecbf50ded0e9f539d4",
+        "link": "https://www.yahoo.com/news/us/articles/tennessee-conductor-fired-telling-july-163721402.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Tennessee conductor fired after telling July 4 passengers America is greatest country, critics should 'leave'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/1245a8b50b2523ecbf50ded0e9f539d4",
-        "link": "https://www.yahoo.com/news/us/articles/tennessee-conductor-fired-telling-july-163721402.html",
+        "title": "What to know about protecting pets from the New World screwworm fly",
+        "image": "https://media.zenfs.com/en/ap.org/817839b612c57112a95ac2e2142beb54",
+        "link": "https://www.yahoo.com/news/science/articles/know-protecting-pets-world-screwworm-200745115.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: US launches second wave of strikes in 24 hours",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-us-launches-second-wave-of-strikes-in-24-hours/live-77882459?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The United States launched fresh strikes on Iran on Wednesday night, the second wave of strikes in 24 hours after President Trump declared a ceasefire..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Trump says ceasefire 'over' after fresh strikes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-trump-says-ceasefire-over-after-fresh-strikes/live-77869350?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US president said it's a \"waste of time\" dealing with Tehran after the US struck dozens of Iranian targets overnight and again later on Wednesday...."
     },
     {
         "source": "Deutsche Welle",
@@ -89,19 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/east-german-doping-victims-still-lack-adequate-support/a-77880575?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Thousands of athletes in former East Germany were subjected to state-sponsored doping \u2014 and many still suffer lasting health effects. But support for ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Fact check: No, Iran did not strike a secret US Gulf base",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fact-check-no-iran-did-not-strike-a-secret-us-gulf-base/a-77876290?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "With President Trump declaring that the ceasefire is \"over\" after fresh strikes by Iran, a video goes viral on social media allegedly depicting an att..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hungary public media reform begins with black screen apology",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hungary-public-media-reform-begins-with-black-screen-apology/a-77880569?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "People tuning in to public service media in Hungary on Tuesday were greeted by a black screen and an apology. Peter Magyar has begun dismantling one o..."
     }
 ]
