@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Feds issue report on cannabis scales to help state officials set rules (Newsletter: July 8, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/feds-issue-report-on-cannabis-scales-to-help-state-officials-set-rules-newsletter-july-8-2026/",
+        "summary": "<p>VA marijuana implementation survey; IL cannabis guidance for dispensaries; Poll: THC drinks as alcohol alternative; OR psilocybin fee increase Subs..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Illinois Officials Update Marijuana Dispensaries On Increased Possession Limits And Ability To Add Drive-Thru Windows",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/illinois-officials-update-marijuana-dispensaries-on-increased-possession-limits-and-ability-to-add-drive-thru-windows/",
@@ -28,17 +35,17 @@
         "summary": "<p>A new survey shows that more than three out of four people who consume THC-infused cannabis beverages drink less alcohol\u2014with more than a fifth say..."
     },
     {
-        "source": "Marijuana Moment",
-        "title": "Virginia Officials Launch Marijuana Survey To Inform Drafting Of Rules For Newly Legalized Market",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/virginia-officials-launch-marijuana-survey-to-inform-drafting-of-rules-for-newly-legalized-market/",
-        "summary": "<p>Marijuana regulators in Virginia are conducting a survey to gather input from the public and stakeholders as they work to implement the state&#8217..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Supreme Court won't block Texas from enforcing a law requiring age verification for app downloads",
         "image": "https://media.zenfs.com/en/ap.org/0e4bb4ef053e45fb6b4ec351d05c8d1c",
         "link": "https://www.yahoo.com/news/politics/articles/supreme-court-wont-block-texas-194732187.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "School's stricter new rules win praise from Ofsted",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/546056e07374192d393356b50cc1c4d4",
+        "link": "https://www.yahoo.com/news/us/articles/schools-stricter-rules-win-praise-093452181.html",
         "summary": "..."
     },
     {
@@ -50,24 +57,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Gut bacteria may influence estrogen-related cancers, review finds",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/ba30ff108e2b32bf22a3d48be4b88a82",
-        "link": "https://www.yahoo.com/news/science/articles/gut-bacteria-may-influence-estrogen-114144688.html",
+        "title": "Trump covets Greenland for its location. Here's why",
+        "image": "https://media.zenfs.com/en/ap.org/a91932998702e8b3bdcbbbae080b54e5",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-covets-greenland-location-heres-092113007.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Chinese men in Germany used Telegram groups to share rape videos and drugging tips, prosecutors say",
-        "image": "https://media.zenfs.com/en/ap.org/cc29afa2386a0c87f3918019d178d2f2",
-        "link": "https://www.yahoo.com/news/world/articles/chinese-men-germany-used-telegram-040710085.html",
+        "title": "Elbit 'activist' not guilty of violent disorder",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/d59cebca95c5633675367141c06f2f20",
+        "link": "https://www.yahoo.com/news/world/articles/elbit-activist-not-guilty-violent-114450255.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Biohacker hoping to live to 160 reveals alarming diagnosis: 'My stomach is eating itself'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/26c9624bd833c0e454627062875047a7",
-        "link": "https://www.yahoo.com/news/science/articles/biohacker-hoping-live-160-reveals-173838957.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Assassin's Creed: Why pop culture is hooked to pirates",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/assassin-s-creed-why-pop-culture-is-hooked-to-pirates/a-77871133?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Pirates have captured our imagination for centuries. With \"Assassin's Creed Black Flag Resynced,\" gamers can now head off on another pirate adventure...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "OpenAI to launch 'strongest model yet' after delay",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/openai-to-launch-strongest-model-yet-after-delay/a-77874307?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "OpenAI is set to release its most powerful AI model series yet. The rollout was previously postponed after the US government raised concerns over pote..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Verdict due in Berlin doctor murder trial",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-verdict-due-in-berlin-doctor-murder-trial/live-77870812?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A Berlin court is to deliver its verdict in the case of a doctor accused of murdering 15 seriously ill patients. Meanwhile, lawmakers are debating pla..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,26 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-ice-agent-fatally-shoots-man-at-texas-traffic-stop/a-77871085?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Authorities have said that the Mexican national was killed while evading arrest amid calls for an independent review of the evidence...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: US charges Lawrence Bishnoi in Sikh separatist killing",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-us-charges-lawrence-bishnoi-in-sikh-separatist-killing/live-77870143?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Jailed gangster Lawrence Bishnoi is accused of involvement in the 2023 killing of Sikh separatist Hardeep Singh Nijjar, which sparked one of the worst..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Brain tumors: New vaccine offers patients hope for more time",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/brain-tumors-new-vaccine-offers-patients-hope-for-more-time/a-77863307?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A new therapy offers people with seemingly incurable brain tumors scope for hope: It could slow the progression of the disease and extend patients' li..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pakistan: Plane with 5 on board loses contact off Karachi",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pakistan-plane-with-5-on-board-loses-contact-off-karachi/a-77869075?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Pakistani officials said radar systems showed the aircraft descending rapidly and communication with the crew was lost...."
     }
 ]
