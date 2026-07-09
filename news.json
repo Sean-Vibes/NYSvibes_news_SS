@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Dan Bongino says Democrats dumped Graham Platner over 'power' not 'principle' after bombshell rape allegation",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/ef2546bd6204dd2bba855d54b41aa8b7",
-        "link": "https://www.yahoo.com/news/politics/articles/dan-bongino-says-democrats-dumped-203239414.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "China, Japan trade conflicting accounts of confrontation around Senkaku islands",
-        "image": "https://media.zenfs.com/en/reuters.com/6b0c2645bea3620d7199e996c3e07b26",
-        "link": "https://www.yahoo.com/news/articles/china-japan-trade-conflicting-accounts-075325181.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Iran threatens to strike Gulf oil wells: What would be the consequences?",
         "image": "https://media.zenfs.com/en/newsnation_articles_600/018a226d7a3d8954cdd74ae5541b57e9",
         "link": "https://www.yahoo.com/news/politics/articles/iran-threatens-strike-gulf-oil-211342321.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Ukrainian drones batter Russian oil facilities, set more oil tankers ablaze",
+        "image": "https://media.zenfs.com/en/ap.org/4bf65eebbc71ae240b9ccb407d401999",
+        "link": "https://www.yahoo.com/news/world/articles/ukrainian-drones-batter-russian-oil-075400000.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Explosive report finds $225M in alleged K-12 education fraud amid Trump's crackdown: 'Especially hideous'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/15ca707cd32b9530aab9f1e373978661",
+        "link": "https://www.yahoo.com/news/politics/articles/explosive-report-finds-225m-alleged-180052345.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Merz: Germany agreed to buy Tomahawk missiles at NATO summit",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/merz-germany-agreed-to-buy-tomahawk-missiles-at-nato-summit/a-77884596?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Chancellor Friedrich Merz has informed the Bundestag parliament of a deal to buy US Tomahawk cruise missiles and station them in Germany. He said this..."
     },
     {
         "source": "Deutsche Welle",
@@ -78,30 +85,23 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iran war: Trump says ceasefire 'over' after fresh strikes",
+        "title": "Is the Strait of Hormuz still Iran's trump card?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-trump-says-ceasefire-over-after-fresh-strikes/live-77869350?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US president said it's a \"waste of time\" dealing with Tehran after the US struck dozens of Iranian targets overnight and again later on Wednesday...."
+        "link": "https://www.dw.com/en/is-the-strait-of-hormuz-still-iran-s-trump-card/a-77870807?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran's latest attacks show it can easily disrupt shipping, energy markets and draw in Gulf neighbors. DW asks how much leverage Tehran really has over..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Trump's support for Venezuela opposition head Machado wanes",
+        "title": "India news: Modi clinches uranium supply deal with Australia",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-s-support-for-venezuela-opposition-head-machado-wanes/a-77882047?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Venezuelan opposition leader and Nobel Peace laureate Mar\u00eda Corina Machado says she wants to return to her earthquake-ravaged homeland. Yet neither Ve..."
+        "link": "https://www.dw.com/en/india-news-modi-clinches-uranium-supply-deal-with-australia/live-77883412?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "India's nuclear energy ambitions have received a fresh impetus from its Indo-Pacific partner Australia. The two nations have reached a deal to export ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Albanian PM defends \u20ac4 million Kanye West concert",
+        "title": "South Korea's top court upholds ex-president Yoon's 7-year sentence",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/albanian-pm-defends-\u20ac4-million-kanye-west-concert/a-77882223?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Albania doubled down on hosting US rapper Kanye \u2060West, as several European countries have banned his performance. PM Edi Rama claimed the gig would ge..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "East German doping victims still lack adequate support",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/east-german-doping-victims-still-lack-adequate-support/a-77880575?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Thousands of athletes in former East Germany were subjected to state-sponsored doping \u2014 and many still suffer lasting health effects. But support for ..."
+        "link": "https://www.dw.com/en/south-korea-s-top-court-upholds-ex-president-yoon-s-7-year-sentence/a-77883414?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The court dismissed Yoon's appeals, saying there \u200bwas no misunderstanding of any legal interpretations in the rulings...."
     }
 ]
