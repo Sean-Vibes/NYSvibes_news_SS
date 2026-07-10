@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump flies old Air Force One out of Turkey, switches to new jet in Britain for trip home",
-        "image": "https://media.zenfs.com/en/reuters.com/5524a4f14d4c6a22e292d8853027b3b7",
-        "link": "https://www.yahoo.com/news/articles/trump-says-old-air-force-144846516.html",
+        "title": "Nicaragua strips lawyers from practicing in ongoing crackdown on dissent",
+        "image": "https://media.zenfs.com/en/ap.org/cbb33d1c73bb1259b71087227e246a86",
+        "link": "https://www.yahoo.com/news/politics/articles/nicaragua-strips-lawyers-practicing-ongoing-211312427.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Andy Burnham poised to become Britain's next PM after most Labour lawmakers support him",
-        "image": "https://media.zenfs.com/en/reuters.com/1b1fd7c4ceee1503356d5d4b952c31ec",
-        "link": "https://www.yahoo.com/news/politics/articles/andy-burnham-poised-become-britains-095203728.html",
+        "title": "US senators say agreement reached with Trump on Russia sanctions bill",
+        "image": "https://media.zenfs.com/en/reuters.com/41acf8d2398d81f51a79a1188a386f03",
+        "link": "https://www.yahoo.com/news/politics/articles/us-senators-agreement-reached-trump-171753021.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "CBS News anchor tells viewers Democrats dropped Platner because he was looking 'like a loser'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/7e6fd8ad8eaefebe1fd610d5e4d47d25",
-        "link": "https://www.yahoo.com/news/politics/articles/cbs-news-anchor-tells-viewers-120456096.html",
+        "title": "After 34 years, Kristi Noem is divorcing, says mother",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/25dead2a05ed781f15b8fd5bd8e67867",
+        "link": "https://www.yahoo.com/news/politics/articles/34-years-kristi-noem-divorcing-193327855.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Apple sues OpenAI over stealing 'trade secrets'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/apple-sues-openai-over-stealing-trade-secrets/a-77912767?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Apple has accused the company behind ChatGPT and two of its former employees of misappropriating its trade secrets to benefit OpenAI's foray into cons..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Nigerian military rescues 46 abducted school children",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/nigerian-military-rescues-46-abducted-school-children/a-77912381?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The children were abducted some two months ago at three schools in the town of Orire in Nigeria's southwestern Oyo state...."
     },
     {
         "source": "Deutsche Welle",
@@ -89,19 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/mayor-of-berlin-says-he-won-t-run-for-reelection/a-77910019?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Berlin Mayor Kai Wegner withdrew from the reelection race this fall. His decision to play tennis during the power outage in January was among missteps..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UK police arrest murder suspect in Ann Widdecombe's death",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-police-arrest-murder-suspect-in-ann-widdecombe-s-death/a-77910345?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Police in southwest England say they have arrested a 26-year-old man on suspicion of murdering politician Ann Widdecombe. Based on initial inquiries, ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump signals support for Patriot production in Ukraine",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-signals-support-for-patriot-production-in-ukraine/a-77909681?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US President Donald Trump says he may let Ukraine produce Patriot air defense missiles. Analysts welcome the move as a sign of support for the country..."
     }
 ]
