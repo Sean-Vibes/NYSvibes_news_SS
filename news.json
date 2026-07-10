@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Using Marijuana Will Make You \u2018A Loser In Life,\u2019 GOP Congressman Says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/using-marijuana-will-make-you-a-loser-in-life-gop-congressman-says/",
+        "summary": "<p>A Republican congressman claims that using marijuana &#8220;hurts your DNA,&#8221; will &#8220;make you a loser in life&#8221; and leads to young w..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Massachusetts Anti-Marijuana Initiative Signatures Face New Challenge As State Officials Certify Measure For Ballot",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/massachusetts-anti-marijuana-initiative-signatures-face-new-challenge-as-state-officials-certify-measure-for-ballot/",
@@ -28,13 +35,6 @@
         "summary": "<p>&#8220;A lawful medical cannabis patient should not be automatically presumed unfit. A constitutional right should not be denied by stereotype. A p..."
     },
     {
-        "source": "Marijuana Moment",
-        "title": "Did Virginia Lawmakers Accidentally Repeal All Marijuana Penalties?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/did-virginia-lawmakers-accidentally-repeal-all-marijuana-penalties/",
-        "summary": "<p>Virginia lawmakers who led the fight to legalize recreational marijuana sales are seeking to clarify that the legislation they passed last month di..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Trump flies old Air Force One out of Turkey, switches to new jet in Britain for trip home",
         "image": "https://media.zenfs.com/en/reuters.com/5524a4f14d4c6a22e292d8853027b3b7",
@@ -50,24 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Doctors, experts urge caution as some moms say marijuana makes them better parents",
-        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/af5a0649b2a59e17dfc332e80787a64d",
-        "link": "https://health.yahoo.com/your-body/substance-use/marijuana/articles/doctors-weigh-moms-marijuana-makes-155735196.html",
+        "title": "Iran's biggest weapon against the US may be slipping away, experts say",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/06e028246daba22a2f20aacad83dcafa",
+        "link": "https://www.yahoo.com/news/politics/articles/irans-biggest-weapon-against-us-100045967.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Unclaimed airstrikes target Iran after US attacks, raising questions of who launched them",
-        "image": "https://media.zenfs.com/en/ap.org/b86540350bee51eb17d30cca1855c138",
-        "link": "https://www.yahoo.com/news/politics/articles/mysterious-airstrikes-target-iran-us-105500253.html",
+        "title": "Andy Burnham poised to become Britain's next PM after most Labour lawmakers support him",
+        "image": "https://media.zenfs.com/en/reuters.com/1b1fd7c4ceee1503356d5d4b952c31ec",
+        "link": "https://www.yahoo.com/news/politics/articles/andy-burnham-poised-become-britains-095203728.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Explosive report finds $225M in alleged K-12 education fraud amid Trump's crackdown: 'Especially hideous'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/15ca707cd32b9530aab9f1e373978661",
-        "link": "https://www.yahoo.com/news/politics/articles/explosive-report-finds-225m-in-alleged-k-12-education-fraud-amid-trumps-crackdown-especially-hideous-180052345.html",
+        "title": "New Photos Show Inside 21st Floor of Buckling NYC High-Rise",
+        "image": "https://media.zenfs.com/en/nbcu_713/b46bcfe1fc0a7ad7ec8457d8780781b6",
+        "link": "https://www.yahoo.com/news/videos/photos-show-inside-21st-floor-122831128.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Passenger partly sucked from Ryanair plane during flight",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/passenger-partly-sucked-from-ryanair-plane-during-flight/a-77909298?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A man was nearly sucked out the cabin window on a Ryanair flight from Greece to Germany. An initial loud bang was followed by a desperate rescue effor..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "When London stank to high heaven",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/when-london-stank-to-high-heaven/a-77892633?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "In 1858, London sweltered through an unbearable heat wave. The River Thames reeked so badly it left people gasping for air. \"The Great Stink\" went dow..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Vietnam's baby bonuses unlikely to stop the aging clock",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/vietnam-s-baby-bonuses-unlikely-to-stop-the-aging-clock/a-77901363?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Vietnam has joined Southeast Asia's push to raise birth rates, but experts say the greater challenge lies in adapting economies and welfare systems to..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,26 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/vegan-pregnancy-tests-and-other-eco-wins-this-week/a-77902157?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Keeping cool in the heat with a millennia-old tradition in India, a German company making animal-free medical tests, and building from bottles in Moza..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why the World Cup can be good for your mental health",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-the-world-cup-can-be-good-for-your-mental-health/a-77889619?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The World Cup can offer more than just entertainment, it can also benefit your mental well-being. DW explains why...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany: Bundestag passes controversial healthcare reform",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-bundestag-passes-controversial-healthcare-reform/live-77899497?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The cost-cutting package passed Germany's lower house, with protests against it expected to take place. Elsewhere, Foreign Minister Johann Wadephul wi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany's richest man takes on Big Tech",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-richest-man-takes-on-big-tech/a-77893723?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Dieter Schwarz made his fortune from supermarkets, becoming Germany's wealthiest person. Now he wants to take on Google, Microsoft and Amazon and an e..."
     }
 ]
