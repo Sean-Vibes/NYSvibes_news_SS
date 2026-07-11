@@ -50,16 +50,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "CBS News anchor tells viewers Democrats dropped Platner because he was looking 'like a loser'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/7e6fd8ad8eaefebe1fd610d5e4d47d25",
-        "link": "https://www.yahoo.com/news/politics/articles/cbs-news-anchor-tells-viewers-120456096.html",
+        "title": "Doctors, experts urge caution as some moms say marijuana makes them better parents",
+        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/af5a0649b2a59e17dfc332e80787a64d",
+        "link": "https://health.yahoo.com/your-body/substance-use/marijuana/articles/doctors-weigh-moms-marijuana-makes-155735196.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China takes a page from SpaceX and recaptures the first stage of a rocket to reuse it",
-        "image": "https://media.zenfs.com/en/ap.org/314cd73411b675d9f85fa83c88acf5da",
-        "link": "https://www.yahoo.com/news/science/articles/china-takes-page-spacex-recaptures-091743366.html",
+        "title": "China successfully tests sea-based rocket booster recovery system",
+        "image": "https://media.zenfs.com/en/reuters.com/0a0273ea89cc3cd11099ee829487f7ce",
+        "link": "https://www.yahoo.com/news/science/articles/china-successfully-tests-sea-based-044319668.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/06e028246daba22a2f20aacad83dcafa",
         "link": "https://www.yahoo.com/news/politics/articles/irans-biggest-weapon-against-us-100045967.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Russia hits Ukraine's Kyiv, Odesa in fresh attacks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/russia-hits-ukraine-s-kyiv-odesa-in-fresh-attacks/a-77915808?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The strikes come with Ukraine running low on munitions needed to counter Russia's ballistic missiles. Ukrainian President Zelenskyy urged NATO members..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran's Mojtaba Khamenei vows revenge for father's killing",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-s-mojtaba-khamenei-vows-revenge-for-father-s-killing/live-77913349?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran's supreme leader said Iran \"demands\" retribution for his father's assassination in an airstrike. Meanwhile, Trump has threatened to \"completely d..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,19 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/berlin-hostage-crisis-woman-freed-after-hourslong-standoff/a-77913331?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A man allegedly took a woman hostage in a supermarket, prompting a major police operation. The suspect reportedly \"pulled out\" a big knife before the ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Third summer heat wave looms",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-third-summer-heat-wave-looms/live-77913703?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany is in for another scorching week, though no records are likely to be broken this time, forecasters say. Meanwhile, police have ended a hostage..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Could AI help al-Qaida and other groups plan terror attacks?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/could-ai-help-al-qaida-and-other-groups-plan-terror-attacks/a-77909676?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Followers of extremist groups regularly ask how AI can help them plan terrorist attacks. A new study suggests that about one-third of AI chatbots migh..."
     }
 ]
