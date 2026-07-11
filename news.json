@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nicaragua strips lawyers from practicing in ongoing crackdown on dissent",
-        "image": "https://media.zenfs.com/en/ap.org/cbb33d1c73bb1259b71087227e246a86",
-        "link": "https://www.yahoo.com/news/politics/articles/nicaragua-strips-lawyers-practicing-ongoing-211312427.html",
+        "title": "New Congo province has suspected Ebola case as deaths hit 600, report says",
+        "image": "https://media.zenfs.com/en/reuters.com/c1b075cafeeb567e5d767b01d6d7cce5",
+        "link": "https://www.yahoo.com/news/world/articles/congo-province-suspected-ebola-case-001849951.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US senators say agreement reached with Trump on Russia sanctions bill",
-        "image": "https://media.zenfs.com/en/reuters.com/41acf8d2398d81f51a79a1188a386f03",
-        "link": "https://www.yahoo.com/news/politics/articles/us-senators-agreement-reached-trump-171753021.html",
+        "title": "Spain says Trump softened rhetoric after learning of Madrid's contributions to NATO",
+        "image": "https://media.zenfs.com/en/reuters.com/44be7ba2bdb6bd103ef3097069ad2a88",
+        "link": "https://www.yahoo.com/news/articles/spain-says-trump-softened-rhetoric-154912810.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "After 34 years, Kristi Noem is divorcing, says mother",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/25dead2a05ed781f15b8fd5bd8e67867",
-        "link": "https://www.yahoo.com/news/politics/articles/34-years-kristi-noem-divorcing-193327855.html",
+        "title": "CBS News anchor tells viewers Democrats dropped Platner because he was looking 'like a loser'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/7e6fd8ad8eaefebe1fd610d5e4d47d25",
+        "link": "https://www.yahoo.com/news/politics/articles/cbs-news-anchor-tells-viewers-120456096.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Cuba suffers second nationwide blackout in five days",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/cuba-suffers-second-nationwide-blackout-in-five-days/a-77913285?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Cuba's electricity grid has crumbled amid a six-month US fuel blockade and already dilapidated energy infrastructure...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,12 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-bundestag-passes-controversial-healthcare-reform/live-77899497?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The cost-cutting package has passed Germany's parliament despite fierce criticism from the opposition. Meanwhile, Alexander Zverev has become the firs..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Mayor of Berlin says he won't run for reelection",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/mayor-of-berlin-says-he-won-t-run-for-reelection/a-77910019?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Berlin Mayor Kai Wegner withdrew from the reelection race this fall. His decision to play tennis during the power outage in January was among missteps..."
     }
 ]
