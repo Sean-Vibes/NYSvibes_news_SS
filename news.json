@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kremlin says Russia is in touch with Turkey on fate of Russian S-400 missiles",
-        "image": "https://media.zenfs.com/en/reuters.com/9a6ffe5e8a2cb0da31ddff3201797e9c",
-        "link": "https://www.yahoo.com/news/politics/articles/kremlin-says-russia-touch-turkey-103139806.html",
+        "title": "Spain says Trump softened rhetoric after learning of Madrid's contributions to NATO",
+        "image": "https://media.zenfs.com/en/reuters.com/44be7ba2bdb6bd103ef3097069ad2a88",
+        "link": "https://www.yahoo.com/news/articles/spain-says-trump-softened-rhetoric-154912810.html",
         "summary": "..."
     },
     {
@@ -57,17 +57,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Japan's space agency conducts first test flight for experimental reusable rocket",
-        "image": "https://media.zenfs.com/en/ap.org/8be552dc33f6143e0bacb97e8e8a5904",
-        "link": "https://www.yahoo.com/news/science/articles/japans-space-agency-conducts-first-015454379.html",
+        "title": "Multiple New York Times reporters issued subpoenas over Air Force One reporting",
+        "image": "https://media.zenfs.com/en/ap.org/e88652480b562583a92e45b61ab25ae8",
+        "link": "https://www.yahoo.com/news/politics/articles/multiple-york-times-reporters-issued-082401100.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Parents of Mississippi teen Nolan Wells speak out",
-        "image": "https://media.zenfs.com/en/nbcu_713/360731851ef1ffc9144ff32e4af7903d",
-        "link": "https://www.yahoo.com/news/videos/parents-mississippi-teen-nolan-wells-224936366.html",
+        "title": "Doctors, experts urge caution as some moms say marijuana makes them better parents",
+        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/af5a0649b2a59e17dfc332e80787a64d",
+        "link": "https://health.yahoo.com/your-body/substance-use/marijuana/articles/doctors-weigh-moms-marijuana-makes-155735196.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Typhoon Bavi: Taiwan, Japan and China face disruption after 17 killed in Philippines",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/typhoon-bavi-taiwan-japan-and-china-face-disruption-after-17-killed-in-philippines/a-77914270?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The storm has triggered deadly landslides in the Philippines, knocked out power in Japan and Taiwan, and forced hundreds of thousands to evacuate in C..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Berlin hostage crisis: Woman freed after hourslong standoff",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/berlin-hostage-crisis-woman-freed-after-hourslong-standoff/a-77913331?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A man allegedly took a woman hostage in a supermarket, prompting a major police operation. The suspect reportedly \"pulled out\" a big knife before the ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Third summer heat wave looms",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-third-summer-heat-wave-looms/live-77913703?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany is in for another scorching week, though no records are likely to be broken this time, forecasters say. Meanwhile, police have ended a hostage..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,26 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/poland-could-cut-arms-aid-to-ukraine-as-wwii-spat-continues/a-77893170?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "As Poland observes a day of remembrance for the victims of a Ukrainian nationalist military unit, there are increasing signs that it could cut off its..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US: Trump looked to bypass federal election agency before firings, says report",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-trump-looked-to-bypass-federal-election-agency-before-firings-says-report/a-77913362?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The White House explored declaring a national emergency to address alleged vulnerabilities in voting machines before Trump ousted leaders of the Elect..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US wants Iran to pledge to halt Hormuz attacks \u2014 officials",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-wants-iran-to-pledge-to-halt-hormuz-attacks-officials/live-77913349?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US officials say Washington wants Tehran to publicly vow to end attacks on vessels in the strategic Strait of Hormuz. President Trump has threatened t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Berlin hostage situation: Man holds woman in supermarket",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/berlin-hostage-situation-man-holds-woman-in-supermarket/a-77913331?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A police operation is underway in Berlin, where a man has taken a woman hostage in a supermarket...."
     }
 ]
