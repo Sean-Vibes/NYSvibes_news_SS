@@ -57,17 +57,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US senators say agreement reached with Trump on Russia sanctions bill",
-        "image": "https://media.zenfs.com/en/reuters.com/41acf8d2398d81f51a79a1188a386f03",
-        "link": "https://www.yahoo.com/news/politics/articles/us-senators-agreement-reached-trump-171753021.html",
+        "title": "US Democrat Ro Khanna detained by Israeli settlers during West Bank visit",
+        "image": "https://media.zenfs.com/en/reuters.com/876dd2f409c21d02147dcbb90c573848",
+        "link": "https://www.yahoo.com/news/articles/us-democrat-ro-khanna-detained-111415527.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "CBS News anchor tells viewers Democrats dropped Platner because he was looking 'like a loser'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/7e6fd8ad8eaefebe1fd610d5e4d47d25",
-        "link": "https://www.yahoo.com/news/politics/articles/cbs-news-anchor-tells-viewers-120456096.html",
+        "title": "WATCH: California parents sue luxury daycare after toddler allegedly tossed into air, dropped on head",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/accf4ca9e33d0d5bd00e608a929787c0",
+        "link": "https://www.yahoo.com/news/us/articles/watch-california-parents-sue-luxury-110036047.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran closes Strait of Hormuz until further notice",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-closes-strait-of-hormuz-until-further-notice/live-77920097?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Iranian navy has said it closed the Strait of Hormuz after firing on a vessel transiting an \"unapproved route.\" It said the waterway would reopen ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Spain wildfire: Firefighters begin to contain deadly blaze",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/spain-wildfire-firefighters-begin-to-contain-deadly-blaze/a-77919977?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Firefighters have started to rein in the wildfire in Spain's southern Andalusia region that killed 12 people. The affected region is home to one of th..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,19 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/vietnam-indian-tourists-killed-in-boat-capsize/a-77916717?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Indian embassy released the names of all 32 Indians who were aboard the boat that capsized near Phu Quoc island in Vietnam. At least 15 of them di..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany: Left-wing group says it is behind railway sabotage",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-left-wing-group-says-it-is-behind-railway-sabotage/a-77916758?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The \"Angry Birds Commando\" group said they placed incendiary devices on a railroad between the two busy cities of Cologne and D\u00fcsseldorf. The group bl..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany's richest man takes on Big Tech",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-richest-man-takes-on-big-tech/a-77893723?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Dieter Schwarz made his fortune from supermarkets, becoming Germany's wealthiest person. Now he wants to take on Google, Microsoft and Amazon and an e..."
     }
 ]
