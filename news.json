@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "New Congo province has suspected Ebola case as deaths hit 600, report says",
-        "image": "https://media.zenfs.com/en/reuters.com/c1b075cafeeb567e5d767b01d6d7cce5",
-        "link": "https://www.yahoo.com/news/world/articles/congo-province-suspected-ebola-case-001849951.html",
+        "title": "US senators say agreement reached with Trump on Russia sanctions bill",
+        "image": "https://media.zenfs.com/en/reuters.com/41acf8d2398d81f51a79a1188a386f03",
+        "link": "https://www.yahoo.com/news/politics/articles/us-senators-agreement-reached-trump-171753021.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Doctors, experts urge caution as some moms say marijuana makes them better parents",
-        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/af5a0649b2a59e17dfc332e80787a64d",
-        "link": "https://health.yahoo.com/your-body/substance-use/marijuana/articles/doctors-weigh-moms-marijuana-makes-155735196.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Spain says Trump softened rhetoric after learning of Madrid's contributions to NATO",
-        "image": "https://media.zenfs.com/en/reuters.com/44be7ba2bdb6bd103ef3097069ad2a88",
-        "link": "https://www.yahoo.com/news/articles/spain-says-trump-softened-rhetoric-154912810.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "CBS News anchor tells viewers Democrats dropped Platner because he was looking 'like a loser'",
         "image": "https://media.zenfs.com/en/fox_news_text_979/7e6fd8ad8eaefebe1fd610d5e4d47d25",
         "link": "https://www.yahoo.com/news/politics/articles/cbs-news-anchor-tells-viewers-120456096.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Kremlin says Russia is in touch with Turkey on fate of Russian S-400 missiles",
+        "image": "https://media.zenfs.com/en/reuters.com/9a6ffe5e8a2cb0da31ddff3201797e9c",
+        "link": "https://www.yahoo.com/news/politics/articles/kremlin-says-russia-touch-turkey-103139806.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Young policymakers come together to bridge the bipartisan divide in Washington",
+        "image": "https://media.zenfs.com/en/nbcu_713/ed50e45457fc97946365142c681915c9",
+        "link": "https://www.yahoo.com/news/videos/young-policymakers-come-together-bridge-210550609.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US: Trump looked to bypass federal election agency before firings, says report",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-trump-looked-to-bypass-federal-election-agency-before-firings-says-report/a-77913362?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The White House explored declaring a national emergency to address alleged vulnerabilities in voting machines before Trump ousted leaders of the elect..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US wants Iranian pledge to halt Hormuz attacks \u2014 officials",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-wants-iranian-pledge-to-halt-hormuz-attacks-officials/live-77913349?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US officials said Washington wants Tehran to publicly vow to end attacks on vessels in the strategic Strait of Hormuz. President Trump also threatened..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Berlin hostage situation: Man holds woman in supermarket",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/berlin-hostage-situation-man-holds-woman-in-supermarket/a-77913331?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A police operation is underway in Berlin where a man has taken a woman hostage in a supermarket...."
     },
     {
         "source": "Deutsche Welle",
@@ -82,26 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/apple-sues-openai-over-stealing-trade-secrets/a-77912767?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Apple has accused the company behind ChatGPT and two of its former employees of misappropriating its trade secrets to benefit OpenAI's foray into cons..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nigerian military rescues 46 abducted school children",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nigerian-military-rescues-46-abducted-school-children/a-77912381?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The children were abducted some two months ago at three schools in the town of Orire in Nigeria's southwestern Oyo state...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "EU threatens Meta with hefty fine over 'addictive design'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-threatens-meta-with-hefty-fine-over-addictive-design/a-77912229?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A preliminary investigation by the bloc has found the social media giant is not doing enough to protect children using its platforms. Meta rejects the..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany: Bundestag passes controversial healthcare reform",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-bundestag-passes-controversial-healthcare-reform/live-77899497?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The cost-cutting package has passed Germany's parliament despite fierce criticism from the opposition. Meanwhile, Alexander Zverev has become the firs..."
     }
 ]
