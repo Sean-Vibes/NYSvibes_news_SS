@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Rapidly growing wildfire in Los Angeles County prompts evacuations in remote high desert",
-        "image": "https://media.zenfs.com/en/ap.org/0d66ab0394f6469800443d9ba4f0ad10",
-        "link": "https://www.yahoo.com/news/weather-news/articles/rapidly-growing-wildfire-los-angeles-013319471.html",
+        "title": "Kremlin says Russia is in touch with Turkey on fate of Russian S-400 missiles",
+        "image": "https://media.zenfs.com/en/reuters.com/9a6ffe5e8a2cb0da31ddff3201797e9c",
+        "link": "https://www.yahoo.com/news/politics/articles/kremlin-says-russia-touch-turkey-103139806.html",
         "summary": "..."
     },
     {
@@ -50,24 +50,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Doctors, experts urge caution as some moms say marijuana makes them better parents",
-        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/af5a0649b2a59e17dfc332e80787a64d",
-        "link": "https://health.yahoo.com/your-body/substance-use/marijuana/articles/doctors-weigh-moms-marijuana-makes-155735196.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "A decade after historic ruling, Philippine fishermen say driven away from disputed shoal by China",
-        "image": "https://media.zenfs.com/en/reuters.com/23c0fe0a724016e2fd5126b989fc4b48",
-        "link": "https://www.yahoo.com/news/articles/decade-historic-ruling-philippine-fishermen-063350372.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Iran's biggest weapon against the US may be slipping away, experts say",
         "image": "https://media.zenfs.com/en/fox_news_text_979/06e028246daba22a2f20aacad83dcafa",
         "link": "https://www.yahoo.com/news/politics/articles/irans-biggest-weapon-against-us-100045967.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "China successfully tests sea-based rocket booster recovery system",
+        "image": "https://media.zenfs.com/en/reuters.com/0a0273ea89cc3cd11099ee829487f7ce",
+        "link": "https://www.yahoo.com/news/science/articles/china-successfully-tests-sea-based-044319668.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "CBS News anchor tells viewers Democrats dropped Platner because he was looking 'like a loser'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/7e6fd8ad8eaefebe1fd610d5e4d47d25",
+        "link": "https://www.yahoo.com/news/politics/articles/cbs-news-anchor-tells-viewers-120456096.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Typhoon Bavi hits China after battering Taiwan, Japan",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/typhoon-bavi-hits-china-after-battering-taiwan-japan/a-77914270?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Bavi has forced hundreds of thousands to evacuate in China, knocked out power in Japan and Taiwan, and triggered deadly landslides in the Philippines...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,12 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/russia-hits-ukraine-s-kyiv-odesa-in-fresh-attacks/a-77915808?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The strikes come with Ukraine running low on munitions needed to counter Russia's ballistic missiles. Ukrainian President Zelenskyy urged NATO members..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran's Mojtaba Khamenei vows revenge for father's killing",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-s-mojtaba-khamenei-vows-revenge-for-father-s-killing/live-77913349?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Iran's supreme leader said Iran \"demands\" retribution for his father's assassination in an airstrike. Meanwhile, Trump has threatened to \"completely d..."
     }
 ]
