@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kremlin says Russia is in touch with Turkey on fate of Russian S-400 missiles",
-        "image": "https://media.zenfs.com/en/reuters.com/9a6ffe5e8a2cb0da31ddff3201797e9c",
-        "link": "https://www.yahoo.com/news/politics/articles/kremlin-says-russia-touch-turkey-103139806.html",
+        "title": "Businessman who sold land for Kushner resort in Albania suspected of faking the deeds",
+        "image": "https://media.zenfs.com/en/reuters.com/4c31f46a0ace1a590e375767ce6d2089",
+        "link": "https://www.yahoo.com/news/articles/businessman-sold-land-kushner-resort-080551044.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China successfully tests sea-based rocket booster recovery system",
-        "image": "https://media.zenfs.com/en/reuters.com/0a0273ea89cc3cd11099ee829487f7ce",
-        "link": "https://www.yahoo.com/news/science/articles/china-successfully-tests-sea-based-044319668.html",
+        "title": "New York Times reporters are subpoenaed after Air Force One stories, raising press freedom concerns",
+        "image": "https://media.zenfs.com/en/ap.org/e88652480b562583a92e45b61ab25ae8",
+        "link": "https://www.yahoo.com/news/politics/articles/multiple-york-times-reporters-issued-082401100.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/7e6fd8ad8eaefebe1fd610d5e4d47d25",
         "link": "https://www.yahoo.com/news/politics/articles/cbs-news-anchor-tells-viewers-120456096.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Heat is especially hard on people taking antidepressants",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/heat-is-especially-hard-on-people-taking-antidepressants/a-77912086?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "High temperatures can increase the risk of dizziness, dehydration, exhaustion and other heat-related problems for people taking antidepressants...."
     },
     {
         "source": "Deutsche Welle",
@@ -96,12 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-s-richest-man-takes-on-big-tech/a-77893723?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Dieter Schwarz made his fortune from supermarkets, becoming Germany's wealthiest person. Now he wants to take on Google, Microsoft and Amazon and an e..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia hits Ukraine's Kyiv, Odesa in fresh attacks",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-hits-ukraine-s-kyiv-odesa-in-fresh-attacks/a-77915808?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The strikes come with Ukraine running low on munitions needed to counter Russia's ballistic missiles. Ukrainian President Zelenskyy urged NATO members..."
     }
 ]
