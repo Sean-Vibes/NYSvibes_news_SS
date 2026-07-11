@@ -57,17 +57,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Multiple New York Times reporters issued subpoenas over Air Force One reporting",
-        "image": "https://media.zenfs.com/en/ap.org/e88652480b562583a92e45b61ab25ae8",
-        "link": "https://www.yahoo.com/news/politics/articles/multiple-york-times-reporters-issued-082401100.html",
+        "title": "China takes a page from SpaceX and recaptures the first stage of a rocket to reuse it",
+        "image": "https://media.zenfs.com/en/ap.org/314cd73411b675d9f85fa83c88acf5da",
+        "link": "https://www.yahoo.com/news/science/articles/china-takes-page-spacex-recaptures-091743366.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Doctors, experts urge caution as some moms say marijuana makes them better parents",
-        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/af5a0649b2a59e17dfc332e80787a64d",
-        "link": "https://health.yahoo.com/your-body/substance-use/marijuana/articles/doctors-weigh-moms-marijuana-makes-155735196.html",
+        "title": "Iran's biggest weapon against the US may be slipping away, experts say",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/06e028246daba22a2f20aacad83dcafa",
+        "link": "https://www.yahoo.com/news/politics/articles/irans-biggest-weapon-against-us-100045967.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Telangana man accused of stalking minor kills 6",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-telangana-man-accused-of-stalking-minor-kills-6/live-77915146?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "In Telangana, a man suspected of killing six people has absconded. The victims included a girl who had accused the suspect of stalking. Follow DW for ..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,12 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/could-ai-help-al-qaida-and-other-groups-plan-terror-attacks/a-77909676?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Followers of extremist groups regularly ask how AI can help them plan terrorist attacks. A new study suggests that about one-third of AI chatbots migh..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Poland could cut arms aid to Ukraine as WWII spat continues",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/poland-could-cut-arms-aid-to-ukraine-as-wwii-spat-continues/a-77893170?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As Poland observes a day of remembrance for the victims of a Ukrainian nationalist military unit, there are increasing signs that it could cut off its..."
     }
 ]
