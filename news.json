@@ -50,9 +50,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "CBS News anchor tells viewers Democrats dropped Platner because he was looking 'like a loser'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/7e6fd8ad8eaefebe1fd610d5e4d47d25",
-        "link": "https://www.yahoo.com/news/politics/articles/cbs-news-anchor-tells-viewers-120456096.html",
+        "title": "Hospital unit unveils new entrance after fundraising",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/e6eb0a876bd468640505072cb3eac762",
+        "link": "https://www.yahoo.com/news/us/articles/hospital-unit-unveils-entrance-fundraising-061631525.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hospital unit unveils new entrance after fundraising",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/e6eb0a876bd468640505072cb3eac762",
-        "link": "https://www.yahoo.com/news/us/articles/hospital-unit-unveils-entrance-fundraising-061631525.html",
+        "title": "Cause of death revealed for American mother murdered in Ireland: report",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/34e2aced19055ae8088c6e4ebb3c4cf0",
+        "link": "https://www.yahoo.com/news/world/articles/cause-death-revealed-american-mother-192418246.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "EU defense remains heavily reliant on the United States",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eu-defense-remains-heavily-reliant-on-the-united-states/a-77917972?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "There are many obstacles as EU governments seek to reduce their dependence on the US. DW looks at the European Unions's attempts to develop counterpar..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,12 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/how-a-jewish-heir-is-taking-on-germany-s-far-right-afd/a-77910312?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Heavily supported in eastern states, the Alternative for Germany is using a GDR cultural icon, the Schwalbe moped, in its campaigning. Now, the Jewish..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US: Reporters subpoenaed over Air Force One stories",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-reporters-subpoenaed-over-air-force-one-stories/a-77921290?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "New York Times journalists who reported on security fears about the president's new Qatari-gifted plane have been called to court. The case raises con..."
     }
 ]
