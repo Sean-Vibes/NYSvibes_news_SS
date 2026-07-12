@@ -43,16 +43,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hospital unit unveils new entrance after fundraising",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/e6eb0a876bd468640505072cb3eac762",
-        "link": "https://www.yahoo.com/news/us/articles/hospital-unit-unveils-entrance-fundraising-061631525.html",
+        "title": "50 Cent asked judge to bail dealer for European tour",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/43fa549e6789dffc4e9c2c6959222e22",
+        "link": "https://www.yahoo.com/entertainment/music/articles/50-cent-asked-judge-bail-001449880.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Lindsey Graham\u2019s death will shake the Senate, and the November election. Here\u2019s what comes next",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/2100f49ec6046dce926b7cf4da2b8e25",
-        "link": "https://www.yahoo.com/news/politics/articles/lindsey-graham-death-shake-senate-130619964.html",
+        "title": "Hospital unit unveils new entrance after fundraising",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/e6eb0a876bd468640505072cb3eac762",
+        "link": "https://www.yahoo.com/news/us/articles/hospital-unit-unveils-entrance-fundraising-061631525.html",
         "summary": "..."
     },
     {
@@ -64,10 +64,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Yale student charged after alleged sex assault on packed Manhattan subway train, attorney pushes back",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/69e3616e24c1fbf9b7b80e4c9f5cb167",
-        "link": "https://www.yahoo.com/news/us/articles/yale-student-charged-alleged-sex-212143419.html",
+        "title": "George E. Johnson, Trailblazing Entrepreneur, Dies at 99",
+        "image": "https://media.zenfs.com/en/nbcu_713/e6d5556ccb6d76b175d31837d1e89d34",
+        "link": "https://www.yahoo.com/news/videos/george-e-johnson-trailblazing-entrepreneur-143024621.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Venezuela sets up temporary housing, as death toll rises to almost 4,500",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/venezuela-sets-up-temporary-housing-as-death-toll-rises-to-almost-4-500/a-77924690?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "As the official death toll from the devastating earthquakes which struck northern Venezuela last month continues to rise, authorities are planning to ..."
     },
     {
         "source": "Deutsche Welle",
@@ -88,14 +95,7 @@
         "title": "France opens terror probe after gun found in Jewish suburb",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/france-opens-terror-probe-after-gun-found-in-jewish-suburb/a-77925431?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Police said they found a \"military grade weapon\" during the search of a suspicious car, parked in a Paris neighborhood with a large Jewish population...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Venezuela sets up temporary housing, as death toll hits 4,300",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/venezuela-sets-up-temporary-housing-as-death-toll-hits-4-300/a-77924690?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As the official death toll from the devastating earthquakes which struck northern Venezuela last month continues to rise, authorities are planning to ..."
+        "summary": "Police said they found a \"military-grade weapon\" during the search of a suspicious car parked in a Paris neighborhood with a large Jewish population...."
     },
     {
         "source": "Deutsche Welle",
