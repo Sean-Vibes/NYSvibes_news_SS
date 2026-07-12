@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Zelenskiy says Ukraine officials will be held accountable for weapons store",
-        "image": "https://media.zenfs.com/en/reuters.com/d7ec037daf2f99a2a883bf43b1896787",
-        "link": "https://www.yahoo.com/news/articles/zelenskiy-says-ukraine-officials-held-211202513.html",
+        "title": "Volkswagen CEO looks to avoid plant closures as automaker moves to cut costs",
+        "image": "https://media.zenfs.com/en/ap.org/62dd2b135c3d76b800725f9d049d1abc",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/volkswagen-ceo-looks-avoid-plant-080743951.html",
         "summary": "..."
     },
     {
@@ -50,31 +50,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hospital unit unveils new entrance after fundraising",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/e6eb0a876bd468640505072cb3eac762",
-        "link": "https://www.yahoo.com/news/us/articles/hospital-unit-unveils-entrance-fundraising-061631525.html",
+        "title": "At least 12 dead, 23 missing amid fast-moving wildfire in southern Spain",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/488137b832a93741349fdaa2907a8f11",
+        "link": "https://www.yahoo.com/news/world/articles/least-12-dead-23-missing-133954222.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Businessman who sold land for Kushner resort in Albania suspected of faking the deeds",
-        "image": "https://media.zenfs.com/en/reuters.com/4c31f46a0ace1a590e375767ce6d2089",
-        "link": "https://www.yahoo.com/news/articles/businessman-sold-land-kushner-resort-080551044.html",
+        "title": "Zelenskiy says Ukraine officials will be held accountable for weapons store",
+        "image": "https://media.zenfs.com/en/reuters.com/d7ec037daf2f99a2a883bf43b1896787",
+        "link": "https://www.yahoo.com/news/articles/zelenskiy-says-ukraine-officials-held-211202513.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "George E. Johnson, Trailblazing Entrepreneur, Dies at 99",
-        "image": "https://media.zenfs.com/en/nbcu_713/e6d5556ccb6d76b175d31837d1e89d34",
-        "link": "https://www.yahoo.com/news/videos/george-e-johnson-trailblazing-entrepreneur-143024621.html",
+        "title": "Lindsey Graham\u2019s death will shake the Senate, and the November election. Here\u2019s what comes next",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/2100f49ec6046dce926b7cf4da2b8e25",
+        "link": "https://www.yahoo.com/news/politics/articles/lindsey-graham-death-shake-senate-130619964.html",
         "summary": "..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Venezuela sets up temporary housing, as death toll rises to almost 4,500",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/venezuela-sets-up-temporary-housing-as-death-toll-rises-to-almost-4-500/a-77924690?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As the official death toll from the devastating earthquakes which struck northern Venezuela last month continues to rise, authorities are planning to ..."
     },
     {
         "source": "Deutsche Welle",
@@ -82,6 +75,20 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/thailand-bangkok-bar-fire-leaves-dozens-dead/a-77926451?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "At least 27 people were killed in a fire at a bar in the Thai capital, Prime Minister Anutin Charnvirakul told local media...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: US carries out fresh strikes near Strait of Hormuz",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-us-carries-out-fresh-strikes-near-strait-of-hormuz/live-77926628?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US army said the strikes near the vital waterway were intended to \"degrade\" Tehran's ability to attack commercial ships. Follow DW for more...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Venezuela sets up temporary housing, as death toll rises to almost 4,500",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/venezuela-sets-up-temporary-housing-as-death-toll-rises-to-almost-4-500/a-77924690?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "As the official death toll from the devastating earthquakes which struck northern Venezuela last month continues to rise, authorities are planning to ..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,12 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/france-opens-terror-probe-after-gun-found-in-jewish-suburb/a-77925431?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Police said they found a \"military-grade weapon\" during the search of a suspicious car parked in a Paris neighborhood with a large Jewish population...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine's Zelenskyy swaps out prime minister in reshuffle",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-s-zelenskyy-swaps-out-prime-minister-in-reshuffle/a-77924657?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukraine's president announced a government shake up, with PM Yuliia Svyrydenko stepping down after a year in office...."
     }
 ]
