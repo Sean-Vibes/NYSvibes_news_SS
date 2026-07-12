@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Zelenskiy says Ukraine officials will be held accountable for weapons store",
-        "image": "https://media.zenfs.com/en/reuters.com/d7ec037daf2f99a2a883bf43b1896787",
-        "link": "https://www.yahoo.com/news/articles/zelenskiy-says-ukraine-officials-held-211202513.html",
+        "title": "Businessman who sold land for Kushner resort in Albania suspected of faking the deeds",
+        "image": "https://media.zenfs.com/en/reuters.com/4c31f46a0ace1a590e375767ce6d2089",
+        "link": "https://www.yahoo.com/news/articles/businessman-sold-land-kushner-resort-080551044.html",
         "summary": "..."
     },
     {
@@ -64,31 +64,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nolan Wells' Parents Break Silence On 18-Year-Old's Disappearance & Death: We 'Want Answers'",
-        "image": "https://media.zenfs.com/en/nbcu_713/58b53eac600a176c476652239a6f754c",
-        "link": "https://www.yahoo.com/entertainment/videos/nolan-wells-parents-break-silence-210000412.html",
+        "title": "CBS News anchor tells viewers Democrats dropped Platner because he was looking 'like a loser'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/7e6fd8ad8eaefebe1fd610d5e4d47d25",
+        "link": "https://www.yahoo.com/news/politics/articles/cbs-news-anchor-tells-viewers-120456096.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Gas queues grow as Ukraine targets Russia's fuel supply",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/gas-queues-grow-as-ukraine-targets-russia-s-fuel-supply/a-77887704?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Attacks by Ukraine have triggered a fuel crisis in Russia. Reports from across Russia show how residents are dealing with the disruptions in their dai..."
     },
     {
         "source": "Deutsche Welle",
         "title": "Two people killed and several wounded in mass shooting at Toronto festival",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/two-people-killed-and-several-wounded-in-mass-shooting-at-toronto-festival/a-77920249?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Police in Toronto are responding to an active shooter at a festival in the Canadian city. Two people have been killed and several others have been wou..."
+        "summary": "The shooting happened during a salsa event, Canada's largest Latin street festival. Toronto police say two gunmen were responsible but that the suspec..."
     },
     {
         "source": "Deutsche Welle",
         "title": "Iran closes Strait of Hormuz, US launches fresh strikes",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-closes-strait-of-hormuz-us-launches-fresh-strikes/live-77920097?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Iranian navy has said it closed the Strait of Hormuz after firing on a vessel transiting an \"unapproved route.\" In response, the US has launched a..."
+        "summary": "The Iranian navy has said it closed the Strait of Hormuz after firing on a vessel transiting an \"unapproved route.\" In response, the US launched a thi..."
     },
     {
         "source": "Deutsche Welle",
         "title": "Spain wildfire: Firefighters begin to contain deadly blaze",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/spain-wildfire-firefighters-begin-to-contain-deadly-blaze/a-77919977?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Firefighters have started to rein in the wildfire in Spain's southern Andalusia region that killed 12 people. The affected region is home to one of th..."
+        "summary": "Firefighters have started to rein in the wildfire that killed 12 people in the southern Andalusia region, which is home to one of Spain's largest expa..."
     },
     {
         "source": "Deutsche Welle",
@@ -96,12 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/heat-is-especially-hard-on-people-taking-antidepressants/a-77912086?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "High temperatures can increase the risk of dizziness, dehydration, exhaustion and other heat-related problems for people taking antidepressants...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Typhoon Bavi hits China after battering Taiwan, Japan",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/typhoon-bavi-hits-china-after-battering-taiwan-japan/a-77914270?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Bavi has forced hundreds of thousands to evacuate in China, knocked out power in Japan and Taiwan, and triggered deadly landslides in the Philippines...."
     }
 ]
