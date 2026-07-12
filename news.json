@@ -43,13 +43,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "UK to regulate cloud service providers Microsoft, Google and others to protect financial stability",
-        "image": "https://media.zenfs.com/en/reuters.com/6c30e7b3e690ea516ab03bfc6f0d1563",
-        "link": "https://finance.yahoo.com/technology/articles/uk-regulate-cloud-providers-microsoft-101817675.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Hospital unit unveils new entrance after fundraising",
         "image": "https://media.zenfs.com/en/bbc_us_articles_995/e6eb0a876bd468640505072cb3eac762",
         "link": "https://www.yahoo.com/news/us/articles/hospital-unit-unveils-entrance-fundraising-061631525.html",
@@ -57,16 +50,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Businessman who sold land for Kushner resort in Albania suspected of faking the deeds",
-        "image": "https://media.zenfs.com/en/reuters.com/4c31f46a0ace1a590e375767ce6d2089",
-        "link": "https://www.yahoo.com/news/articles/businessman-sold-land-kushner-resort-080551044.html",
+        "title": "Cause of death revealed for American mother murdered in Ireland: report",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/34e2aced19055ae8088c6e4ebb3c4cf0",
+        "link": "https://www.yahoo.com/news/world/articles/cause-death-revealed-american-mother-192418246.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran 'not living up to memo of understanding, Waltz says after latest US strikes",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/86ed3141f01211c67f4d9c3e7231c5e2",
-        "link": "https://www.yahoo.com/news/politics/articles/iran-not-living-memo-understanding-154431837.html",
+        "title": "Guggenheim Museum among NYC buildings that tested positive for Legionnaires\u2019 amid disease outbreak",
+        "image": "https://media.zenfs.com/en/ap.org/a7c72ffcfac98dccb130296a838acf02",
+        "link": "https://www.yahoo.com/news/us/articles/guggenheim-museum-among-nyc-buildings-195539859.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Yale student charged after alleged sex assault on packed Manhattan subway train, attorney pushes back",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/69e3616e24c1fbf9b7b80e4c9f5cb167",
+        "link": "https://www.yahoo.com/news/us/articles/yale-student-charged-alleged-sex-212143419.html",
         "summary": "..."
     },
     {
@@ -74,7 +74,7 @@
         "title": "Ukraine's Zelenskyy swaps out prime minister in reshuffle",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukraine-s-zelenskyy-swaps-out-prime-minister-in-reshuffle/a-77924657?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The president announced a government shake up and that PM Yuliia Svyrydenko would step down after a year in office...."
+        "summary": "Ukraine's president announced a government shake up, with PM Yuliia Svyrydenko stepping down after a year in office...."
     },
     {
         "source": "Deutsche Welle",
