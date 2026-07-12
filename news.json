@@ -36,9 +36,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Businessman who sold land for Kushner resort in Albania suspected of faking the deeds",
-        "image": "https://media.zenfs.com/en/reuters.com/4c31f46a0ace1a590e375767ce6d2089",
-        "link": "https://www.yahoo.com/news/articles/businessman-sold-land-kushner-resort-080551044.html",
+        "title": "US senators say agreement reached with Trump on Russia sanctions bill",
+        "image": "https://media.zenfs.com/en/reuters.com/41acf8d2398d81f51a79a1188a386f03",
+        "link": "https://www.yahoo.com/news/politics/articles/us-senators-agreement-reached-trump-171753021.html",
         "summary": "..."
     },
     {
@@ -57,9 +57,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Democrat announces whistleblower allegations of construction problems at Kennedy Center",
-        "image": "https://media.zenfs.com/en/ap.org/dfaa6c4a5b70ec6a31f024ce525c6346",
-        "link": "https://www.yahoo.com/news/politics/articles/democrat-announces-whistleblower-allegations-construction-203906750.html",
+        "title": "Xi says China\u2019s commitment to North Korea friendship will not change, KCNA reports",
+        "image": "https://media.zenfs.com/en/reuters.com/bae6e8a30489c6d80e906b0d0fb58abb",
+        "link": "https://www.yahoo.com/news/world/articles/xi-says-china-commitment-north-220938768.html",
         "summary": "..."
     },
     {
@@ -68,6 +68,20 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/7e6fd8ad8eaefebe1fd610d5e4d47d25",
         "link": "https://www.yahoo.com/news/politics/articles/cbs-news-anchor-tells-viewers-120456096.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US: Reporters subpoenaed over Air Force One stories",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-reporters-subpoenaed-over-air-force-one-stories/a-77921290?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "New York Times journalists who reported on security fears about the president's new Qatari-gifted plane have been called to court. The case raises con..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US Senator Lindsey Graham dies",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-senator-lindsey-graham-dies/a-77921386?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The South Carolina politician and staunch ally of Donald Trump died aged 71 after \u200ba brief and sudden illness, his office said. The hawkish senator ba..."
     },
     {
         "source": "Deutsche Welle",
@@ -89,19 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-closes-strait-of-hormuz-us-launches-fresh-strikes/live-77920097?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Iranian navy has said it closed the Strait of Hormuz after firing on a vessel transiting an \"unapproved route.\" In response, the US launched a thi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Spain wildfire: Firefighters begin to contain deadly blaze",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/spain-wildfire-firefighters-begin-to-contain-deadly-blaze/a-77919977?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Firefighters have started to rein in the wildfire that killed 12 people in the southern Andalusia region, which is home to one of Spain's largest expa..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Heat is especially hard on people taking antidepressants",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/heat-is-especially-hard-on-people-taking-antidepressants/a-77912086?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "High temperatures can increase the risk of dizziness, dehydration, exhaustion and other heat-related problems for people taking antidepressants...."
     }
 ]
