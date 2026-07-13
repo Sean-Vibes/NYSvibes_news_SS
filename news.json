@@ -50,24 +50,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Ex-White House lawyer: Trump \u2018stacking every card in the deck\u2019 ahead of midterms",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/fe93ce22ee53828bd9cf501b695015e4",
+        "link": "https://www.yahoo.com/news/politics/articles/ex-white-house-lawyer-trump-151811011.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Democrat announces whistleblower allegations of construction problems at Kennedy Center",
+        "image": "https://media.zenfs.com/en/ap.org/dfaa6c4a5b70ec6a31f024ce525c6346",
+        "link": "https://www.yahoo.com/news/politics/articles/democrat-announces-whistleblower-allegations-construction-203906750.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "At least 12 dead, 23 missing amid fast-moving wildfire in southern Spain",
         "image": "https://media.zenfs.com/en/us.abcnews.go.com/488137b832a93741349fdaa2907a8f11",
         "link": "https://www.yahoo.com/news/world/articles/least-12-dead-23-missing-133954222.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Businessman who sold land for Kushner resort in Albania suspected of faking the deeds",
-        "image": "https://media.zenfs.com/en/reuters.com/4c31f46a0ace1a590e375767ce6d2089",
-        "link": "https://www.yahoo.com/news/articles/businessman-sold-land-kushner-resort-080551044.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "EU set to approve air travel passenger rights package",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eu-set-to-approve-air-travel-passenger-rights-package/a-77927050?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "EU ministers are expected to approve a set of reforms giving more rights to air travelers. Among other things, compensation claims are to be made easi..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Beloved musicians among victims in deadly Bahamas plane crash; aviation authority grounds flights",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/4cc64996d32475d063ccc4fb998f24f5",
-        "link": "https://www.yahoo.com/news/world/articles/beloved-musicians-among-victims-deadly-204208469.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Sam Neill, Jurassic Park actor, dies 'unexpectedly' at 78",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/sam-neill-jurassic-park-actor-dies-unexpectedly-at-78/a-77927271?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "New Zealand actor Sam Neill rose was known for his performance as as Dr. Alan Grant in the 1993 film Jurassic Park...."
     },
     {
         "source": "Deutsche Welle",
@@ -89,19 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/venezuela-sets-up-temporary-housing-as-death-toll-rises-to-almost-4-500/a-77924690?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "As the official death toll from the devastating earthquakes which struck northern Venezuela last month continues to rise, authorities are planning to ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Sinner beats Zverev to retain Wimbledon title",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/sinner-beats-zverev-to-retain-wimbledon-title/a-77926065?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Jannik Sinner retained his Wimbledon title by beating Alexander Zverev in Sunday's men's final. The Italian claims his fifth Grand Slam crown and exte..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "France opens terror probe after gun found in Jewish suburb",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/france-opens-terror-probe-after-gun-found-in-jewish-suburb/a-77925431?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Police said they found a \"military-grade weapon\" during the search of a suspicious car parked in a Paris neighborhood with a large Jewish population...."
     }
 ]
