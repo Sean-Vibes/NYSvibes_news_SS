@@ -1,6 +1,20 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Massachusetts Lawmakers Pass Bill To Legalize Psychedelic Therapy With New Pilot Program",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/massachusetts-lawmakers-pass-bill-to-legalize-psychedelic-therapy-with-new-pilot-program/",
+        "summary": "<p>The Massachusetts House of Representatives has voted to create a five-year pilot program allowing the use of psychedelics to treat mental health co..."
+    },
+    {
+        "source": "Marijuana Moment",
+        "title": "Bill To Require Federal Health Officials To Track Testing For Marijuana And Other Drugs In Hospital ERs Advances In Congress",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/bill-to-require-federal-health-officials-to-track-testing-for-marijuana-and-other-drugs-in-hospital-ers-advances-in-congress/",
+        "summary": "<p>A congressional committee has advanced legislation that would require the Department of Health and Human Services (HHS) to study how prevalent drug..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Former Trump official pushes hemp THC ban (Newsletter: July 13, 2026)",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/former-trump-official-pushes-hemp-thc-ban-newsletter-july-13-2026/",
@@ -19,20 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/federal-judge-questions-link-between-marijuana-and-guns-citing-widespread-state-legalization/",
         "summary": "<p>&#8220;Our current presumption has the practical effect of stripping those who use marijuana&#8230;of their Fourth Amendment right against unreason..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Medical Marijuana Is \u2018Effective\u2019 In Providing Relief To Patients With Restless Legs Syndrome, Study Shows",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/medical-marijuana-is-effective-in-providing-relief-to-patients-with-restless-legs-syndrome-study-shows/",
-        "summary": "<p>People with restless legs syndrome (RLS) could find &#8220;significant&#8221; long-term relief with cannabis treatment, according to a new study. R..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Former Trump Homeland Security Official Pushes Congress To Keep Hemp THC Product Ban On Track, Warning Of Chinese Threat",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/former-trump-homeland-security-official-pushes-congress-to-keep-hemp-thc-product-ban-on-track-warning-of-chinese-threat/",
-        "summary": "<p>The former head of the Department of Homeland Security under the first Trump administration is warning lawmakers against keeping hemp THC products ..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
@@ -57,17 +57,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "EU targets Russian intelligence officers accused of running a yearslong cyber spying campaign",
-        "image": "https://media.zenfs.com/en/ap.org/487acea77ab110222d296118db744016",
-        "link": "https://www.yahoo.com/news/world/articles/eu-targets-russian-intelligence-officers-093256863.html",
+        "title": "Democrat announces whistleblower allegations of construction problems at Kennedy Center",
+        "image": "https://media.zenfs.com/en/ap.org/dfaa6c4a5b70ec6a31f024ce525c6346",
+        "link": "https://www.yahoo.com/news/politics/articles/democrat-announces-whistleblower-allegations-construction-203906750.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ex-White House lawyer: Trump \u2018stacking every card in the deck\u2019 ahead of midterms",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/fe93ce22ee53828bd9cf501b695015e4",
-        "link": "https://www.yahoo.com/news/politics/articles/ex-white-house-lawyer-trump-151811011.html",
+        "title": "Exposed docs reveal why Tim Walz board awarded repeat child rapist pardon: \u2018No future\u2019",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/c005b4e5098534d0046c031d8b700637",
+        "link": "https://www.yahoo.com/news/us/articles/exposed-docs-reveal-why-tim-100013958.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran: Living in limbo between war and ceasefire",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-living-in-limbo-between-war-and-ceasefire/a-77933549?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Repeated ceasefire violations, contradictory political signals and ongoing emergency measures have fuelled exhaustion, anger and deep uncertainty abou..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "World Cup: Balogun red and expansion keep FIFA in spotlight",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/world-cup-balogun-red-and-expansion-keep-fifa-in-spotlight/a-77933944?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The fallout from Folarin Balogun's red card reversal continues as reports suggest the chairman of FIFA\u2019s disciplinary committee made the decision unil..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Kenya: What impact will Dangote's new refinery have on the region?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/kenya-what-impact-will-dangote-s-new-refinery-have-on-the-region/a-77927159?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Is Kenya Africa's next major energy hub? A plan from Dangote Industries to build a massive refinery off the country's coast could reshape fuel supply,..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "EU experts urge social media restrictions for kids under 13",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eu-experts-urge-social-media-restrictions-for-kids-under-13/a-77931424?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "An expert panel has recommended limiting access to social media for young children across the EU. The European Commission is expected to present a pro..."
     },
     {
         "source": "Deutsche Welle",
@@ -75,33 +103,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-tobacco-tax-to-rise-more-than-planned-by-2030/live-77932396?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The ruling coalition said the hike is not only to fill a budget gap but also to protect public health. Meanwhile, another US national suffering from E..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine updates: 'Coalition of the willing' meeting in Paris",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-updates-coalition-of-the-willing-meeting-in-paris/live-77927840?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukraine's allies are meeting in Paris for talks on continued military support for Kyiv. Meanwhile the EU's top diplomat said there's no consensus yet ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany: Iraqi sentenced to life for enslaving Yazidi girls",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-iraqi-sentenced-to-life-for-enslaving-yazidi-girls/a-77928732?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The man and his former partner are accused of holding two Yazidi girls captive for years while subjecting them to forced labor, abuse and torture befo..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Renewed US-Iran war is hitting Gulf countries hard",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/renewed-us-iran-war-is-hitting-gulf-countries-hard/a-77876781?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After US strikes on Iran, Iran has targeted US allies in the Middle East. Even if Iran isn't targeting the governments or populations of its neighbors..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: Repatriation underway after Vietnam boat sinking",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-repatriation-underway-after-vietnam-boat-sinking/live-77927114?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The remains of the Indian tourists killed in the speedboat accident in Vietnam are set to arrive in Mumbai. Meanwhile, the top court will hear a plea ..."
     }
 ]
