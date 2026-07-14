@@ -78,23 +78,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Democratic socialists erupt over 2028 endorsement as AOC speculation grows: 'Dangerous path'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/9a4d876d50b50c3f7e1026cca0176ca1",
-        "link": "https://www.yahoo.com/news/politics/articles/democratic-socialists-erupt-over-2028-200633275.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "McConnell says he \u2018won\u2019t be able to return to the Senate floor to vote quite yet\u2019",
         "image": "https://media.zenfs.com/en/the_hill_articles_341/b3f7ef601d9ad3eb09a6fb3f6b688598",
         "link": "https://www.yahoo.com/news/politics/articles/mcconnell-says-won-t-able-231507017.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Epstein survivors film PSA asking senators to vote against Todd Blanche for attorney general",
-        "image": "https://media.zenfs.com/en/nbcu_713/363d4bf7805f094b2e1b3fab98e2c062",
-        "link": "https://www.yahoo.com/news/videos/epstein-survivors-film-psa-asking-220725831.html",
         "summary": "..."
     },
     {
@@ -105,38 +91,52 @@
         "summary": "..."
     },
     {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Ukraine and 9 other countries announce a coalition to protect Europe from ballistic missiles",
+        "image": "https://media.zenfs.com/en/ap.org/7cae267351c3b3731567d9fda987e8b6",
+        "link": "https://www.yahoo.com/news/world/articles/zelenskyy-discuss-ukraine-support-air-094405756.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Border Cops Can Search Your Phone Whenever They Want, If You're Within 100 Miles of the Border",
+        "image": "https://media.zenfs.com/en/reason_com_245/e0cb8a3035ab69feb7540c5e55a4bc22",
+        "link": "https://www.yahoo.com/news/politics/articles/border-cops-search-phone-whenever-160002823.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Bastille Day: France holds parade with Ukraine in focus",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/bastille-day-france-holds-parade-with-ukraine-in-focus/a-77945107?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The celebrations features troops and warplanes from around Europe in a show of support for Ukraine, as it fends off Russia's ongoing invasion. It is E..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Five years after deadly floods, a German valley prepares for the next one",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/five-years-after-deadly-floods-a-german-valley-prepares-for-the-next-one/a-77810916?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "New walls, redesigned bridges and restored floodplains: towns in a small German valley are testing how they can survive the next extreme flood...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Sonam Wangchuk's hunger strike tests Modi",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-sonam-wangchuk-s-hunger-strike-tests-modi/live-77944096?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Indian activist Sonam Wangchuks has been fasting in protest of Education Minister Dharmendra Pradhan since over two weeks. As his health deteriorates,..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Death toll in Bangkok bar fire reaches 30",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/death-toll-in-bangkok-bar-fire-reaches-30/a-77944364?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "As Bangkok kicks-off an investigation into a fire in a bar last Sunday, three people among the wounded have died. The number of deaths from the blaze ..."
+    },
+    {
         "source": "Deutsche Welle",
         "title": "US: 12 states challenge Paramount's buyout of Warner",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-12-states-challenge-paramount-s-buyout-of-warner/a-77943078?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The states have filed a lawsuit arguing that a merger of Hollywood giant studios Paramount and Warner would \"extinguish competition\" and increase cons..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: US continues strikes as Trump reinstates blockade",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-us-continues-strikes-as-trump-reinstates-blockade/live-77942892?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US has carried out a third consecutive night of strikes on Iran. Donald Trump says Washington is reinstating a naval blockade and warns Tehran wil..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hungary: Lawmakers pass law to oust Orban ally president",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hungary-lawmakers-pass-law-to-oust-orban-ally-president/a-77941734?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Hungarian parliament continued its attempts to leave the Viktor Orban era behind the country by moving to oust President Tamas Sulyok...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Person killed in ICE-involved shooting in Maine",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/person-killed-in-ice-involved-shooting-in-maine/a-77941733?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US Immigration and Customs Enforcement agents were involved in a fatal shooting in Biddeford, according to Maine's House speaker. It comes days after ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Gaza Strip: EU conference pledges \u20ac900m in donations",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/gaza-strip-eu-conference-pledges-\u20ac900m-in-donations/a-77940038?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The conference in Brussels was attended by Palestinian representatives. The EU's top diplomat said the bloc's support depends on reforms in the Palest..."
     }
 ]
