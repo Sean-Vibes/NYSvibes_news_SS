@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump says the US will take out Pickaxe Mountain in Iran",
-        "image": "https://media.zenfs.com/en/reuters.com/9339d90254cddf73669faba4d6da8244",
-        "link": "https://www.yahoo.com/news/articles/trump-says-us-pickaxe-mountain-205758192.html",
+        "title": "Hungary passes constitutional amendment to remove Orb\u00e1n-era president",
+        "image": "https://media.zenfs.com/en/ap.org/32fdd9f0259fc142ba9e4e2f61afd272",
+        "link": "https://www.yahoo.com/news/politics/articles/hungary-passes-constitutional-amendment-remove-165049363.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Businessman who sold land for Kushner resort in Albania suspected of faking the deeds",
-        "image": "https://media.zenfs.com/en/reuters.com/3a52f9cded012c0d9e7996168cb06594",
-        "link": "https://www.yahoo.com/news/articles/businessman-sold-land-kushner-resort-080551044.html",
+        "title": "Epstein survivors film PSA asking senators to vote against Todd Blanche for attorney general",
+        "image": "https://media.zenfs.com/en/nbcu_713/363d4bf7805f094b2e1b3fab98e2c062",
+        "link": "https://www.yahoo.com/news/videos/epstein-survivors-film-psa-asking-220725831.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/politico_453/fd9ad5dfcfd1cd37326f75248c12d79a",
         "link": "https://www.yahoo.com/news/politics/articles/texas-hispanics-swung-hard-trump-180000799.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US: 12 states challenge Paramount's buyout of Warner",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-12-states-challenge-paramount-s-buyout-of-warner/a-77943078?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The states have filed a lawsuit arguing that a merger of Hollywood giant studios Paramount and Warner would \"extinguish competition\" and increase cons..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/gaza-strip-eu-conference-pledges-\u20ac900m-in-donations/a-77940038?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The conference in Brussels was attended by Palestinian representatives. The EU's top diplomat said the bloc's support depends on reforms in the Palest..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany set to curb its Freedom of Information Act",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-set-to-curb-its-freedom-of-information-act/a-77939695?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The German government wants to amend the Freedom of Information Act. Critics fear the changes will water down the government's obligation to disclose ..."
     }
 ]
