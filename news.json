@@ -71,9 +71,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hungary passes constitutional amendment to remove Orb\u00e1n-era president",
-        "image": "https://media.zenfs.com/en/ap.org/32fdd9f0259fc142ba9e4e2f61afd272",
-        "link": "https://www.yahoo.com/news/politics/articles/hungary-passes-constitutional-amendment-remove-165049363.html",
+        "title": "Trump says the US will take out Pickaxe Mountain in Iran",
+        "image": "https://media.zenfs.com/en/reuters.com/9339d90254cddf73669faba4d6da8244",
+        "link": "https://www.yahoo.com/news/articles/trump-says-us-pickaxe-mountain-205758192.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Democratic socialists erupt over 2028 endorsement as AOC speculation grows: 'Dangerous path'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/9a4d876d50b50c3f7e1026cca0176ca1",
+        "link": "https://www.yahoo.com/news/politics/articles/democratic-socialists-erupt-over-2028-200633275.html",
         "summary": "..."
     },
     {
@@ -85,24 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Border Cops Can Search Your Phone Whenever They Want, If You're Within 100 Miles of the Border",
-        "image": "https://media.zenfs.com/en/reason_com_245/e0cb8a3035ab69feb7540c5e55a4bc22",
-        "link": "https://www.yahoo.com/news/politics/articles/border-cops-search-phone-whenever-160002823.html",
+        "title": "Businessman who sold land for Kushner resort in Albania suspected of faking the deeds",
+        "image": "https://media.zenfs.com/en/reuters.com/3a52f9cded012c0d9e7996168cb06594",
+        "link": "https://www.yahoo.com/news/articles/businessman-sold-land-kushner-resort-080551044.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukraine and 9 other countries announce a coalition to protect Europe from ballistic missiles",
-        "image": "https://media.zenfs.com/en/ap.org/7cae267351c3b3731567d9fda987e8b6",
-        "link": "https://www.yahoo.com/news/world/articles/zelenskyy-discuss-ukraine-support-air-094405756.html",
+        "title": "Texas Hispanics swung hard to Trump. A new poll shows they\u2019re furious at his deportations.",
+        "image": "https://media.zenfs.com/en/politico_453/fd9ad5dfcfd1cd37326f75248c12d79a",
+        "link": "https://www.yahoo.com/news/politics/articles/texas-hispanics-swung-hard-trump-180000799.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "I hunted the men who secretly film their wives and share footage online",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/bef3849a37c698ffe6252abd1d92dd95",
-        "link": "https://www.yahoo.com/news/us/articles/hunted-men-secretly-film-wives-203026673.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Iran war: US continues strikes as Trump reinstates blockade",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-us-continues-strikes-as-trump-reinstates-blockade/live-77942892?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US has carried out a third consecutive night of strikes on Iran. Donald Trump says Washington is reinstating a naval blockade and warns Tehran wil..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-set-to-curb-its-freedom-of-information-act/a-77939695?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The German government wants to amend the Freedom of Information Act. Critics fear the changes will water down the government's obligation to disclose ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Trump reinstates US blockade of Strait of Hormuz",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-trump-reinstates-us-blockade-of-strait-of-hormuz/live-77926628?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "President Donald Trump says the US will restart its naval blockade in the Strait of Hormuz, targeting Iranian ships and those doing business with Iran..."
     }
 ]
