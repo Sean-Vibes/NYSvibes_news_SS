@@ -1,6 +1,27 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "California\u2019s Top Marijuana Regulator Says Local Bans \u2018Benefit\u2019 Illicit Market, With 97% Of Busts In Counties Without Legal Growers",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/californias-top-marijuana-regulator-says-local-bans-benefit-illicit-market-with-97-of-busts-in-counties-without-legal-growers/",
+        "summary": "<p>About 97 percent of marijuana seized by California officials in unincorporated areas of the state came from counties that continue to ban licensed ..."
+    },
+    {
+        "source": "Marijuana Moment",
+        "title": "Idaho Medical Marijuana Initiative Fails To Qualify For November Ballot After Campaign Falls Short In Signature Drive",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/idaho-medical-marijuana-initiative-fails-to-qualify-for-november-ballot-after-campaign-falls-short-in-signature-drive/",
+        "summary": "<p>Idaho voters will not get a chance to decide on an initiative to legalize medical marijuana on the November ballot, state officials have determined..."
+    },
+    {
+        "source": "Marijuana Moment",
+        "title": "Drinking Marijuana-Infused Tea Boosts Happiness And Sleep Quality, Study Shows",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/drinking-marijuana-infused-tea-boosts-happiness-and-sleep-quality-study-shows/",
+        "summary": "<p>Drinking a cup of tea infused with marijuana before going to bed can lead to a better night&#8217;s sleep and an overall improved sense of happines..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "More Maryland Social Equity Marijuana Dispensaries Are Finally Starting To Open, Years After Market Launch",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/more-maryland-social-equity-marijuana-dispensaries-are-finally-starting-to-open-years-after-market-launch/",
@@ -12,27 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/congressional-researchers-lay-out-lawmakers-options-to-address-gun-ban-for-marijuana-users-following-supreme-court-ruling/",
         "summary": "<p>Congressional researchers are detailing options for how lawmakers could respond to a recent Supreme Court decision to uphold the gun rights of peop..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Federal Health Officials And VA Launch Psychedelic Research Partnership",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/federal-health-officials-and-va-launch-psychedelic-research-partnership/",
-        "summary": "<p>Two Trump administration cabinet members have announced that their departments are launching a new partnership to collaborate on research and devel..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "FDA\u2019s new psychedelic guidance & hearing (Newsletter: July 14, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/fdas-new-psychedelic-guidance-hearing-newsletter-july-14-2026/",
-        "summary": "<p>PA marijuana licensing bill; Congressional bill on cannabis/drug testing in hospitals advances; MA psychedelics vote; Hemp &#38; marijuana op-ed Su..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "FDA Finalizes Guidance On \u2018Unique Challenges\u2019 Of Psychedelic Research And Schedules Hearing On Therapeutic Uses",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/fda-finalizes-guidance-on-unique-challenges-of-psychedelic-research-and-schedules-hearing-on-therapeutic-uses/",
-        "summary": "<p>The Food and Drug Administration (FDA) has issued finalized guidance to help researchers studying the therapeutic benefits of psychedelics navigate..."
     },
     {
         "source": "MJBizDaily",
@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russia accuses Ukraine of terrorism in Sea of Azov as Kyiv opens new front in war",
-        "image": "https://media.zenfs.com/en/reuters.com/22295b14e437f37c36ac5ecdc5988fbc",
-        "link": "https://www.yahoo.com/news/articles/russia-prepares-reroute-grain-exports-083424318.html",
+        "title": "Congo's Ebola outbreak spreads to two more provinces",
+        "image": "https://media.zenfs.com/en/reuters.com/3d87b1be5a28d8cb71ee996fe6f93b51",
+        "link": "https://www.yahoo.com/news/world/articles/congos-ebola-outbreak-spreads-two-093900373.html",
         "summary": "..."
     },
     {
@@ -85,24 +85,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Mamdani roasted over assertion that higher NYC rapes come from 'expanded definition'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/d864cff744205c93264a778233b2c9df",
+        "link": "https://www.yahoo.com/news/us/articles/mamdani-roasted-over-assertion-higher-132930001.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Ukraine and 9 other countries announce a coalition to protect Europe from ballistic missiles",
+        "image": "https://media.zenfs.com/en/ap.org/7cae267351c3b3731567d9fda987e8b6",
+        "link": "https://www.yahoo.com/news/world/articles/zelenskyy-discuss-ukraine-support-air-094405756.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Border Cops Can Search Your Phone Whenever They Want, If You're Within 100 Miles of the Border",
         "image": "https://media.zenfs.com/en/reason_com_245/e0cb8a3035ab69feb7540c5e55a4bc22",
         "link": "https://www.yahoo.com/news/politics/articles/border-cops-search-phone-whenever-160002823.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "US government rescinds $10 billion freeze for 5 states governed by Democrats",
-        "image": "https://media.zenfs.com/en/reuters.com/5033b6858ec97f432bcb2f03ad0e3b6a",
-        "link": "https://www.yahoo.com/news/politics/articles/us-government-rescinds-10-billion-031024148.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "T. rex 'Gus' sells for record-breaking $50.1 million",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/t-rex-gus-sells-for-record-breaking-50-1-million/a-77959141?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Tyrannosaurus rex skeleton surpassed its pre-sale estimate and set a new auction record for a dinosaur fossil...."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Officials Investigate Fatal ICE Shooting in Maine as Fallout Grows",
-        "image": "https://media.zenfs.com/en/nbcu_713/5523c4f8e5f392165d155df340fdafca",
-        "link": "https://www.yahoo.com/news/videos/officials-investigate-fatal-ice-shooting-112720954.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "US-Iraq relations: Can Iran-allied militias be disarmed?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-iraq-relations-can-iran-allied-militias-be-disarmed/a-77956078?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "When Donald Trump meets Iraq's new PM today, they are likely to discuss disarming Iran's allies in Iraq. Some have already pledged to give up their gu..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iranian newspaper threatens Chancellor Merz with 'retaliation'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iranian-newspaper-threatens-chancellor-merz-with-retaliation/a-77958683?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A major Iranian newspaper has published a threat of \"retaliation\" against German Chancellor Friedrich Merz. Politicians have expressed concern, and th..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukraine-parliament-accepts-pm-svyrydenko-s-resignation/a-77954364?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "It comes as President Volodymyr Zelenskyy moves to reshuffle the cabinet as Ukraine was \"changing its political strategy.\"..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Strait of Hormuz tanker strikes raise tensions",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-strait-of-hormuz-tanker-strikes-raise-tensions/live-77942892?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The UAE has threatened to retaliate after Iranian strikes on two of its oil tankers. Iran has carried out numerous strikes on US allies in response to..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "As the world rearms, South Korea aims to cash in",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/as-the-world-rearms-south-korea-aims-to-cash-in/a-77950625?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Weapons and military equipment produced in South Korea are sought-after due to their reliability, proven effectiveness, short delivery times and relat..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nigeria offers clues to new US Africa strategy",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nigeria-offers-clues-to-new-us-africa-strategy/a-77950547?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The withdrawal of US troops from Nigeria after the killing of an \"Islamic State\" leader may be less about leaving Africa than redefining how Washingto..."
     }
 ]
