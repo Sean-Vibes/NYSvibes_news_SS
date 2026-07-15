@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Congress\u2019s options for addressing cannabis user gun ban (Newsletter: July 15, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/congresss-options-for-addressing-cannabis-user-gun-ban-newsletter-july-15-2026/",
+        "summary": "<p>HHS/VA psychedelics partnership; ID medical marijuana push fails; CA data: Local bans boost illicit market; Study: Cannabis-infused tea &#38; happi..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "California\u2019s Top Marijuana Regulator Says Local Bans \u2018Benefit\u2019 Illicit Market, With 97% Of Busts In Counties Without Legal Growers",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/californias-top-marijuana-regulator-says-local-bans-benefit-illicit-market-with-97-of-busts-in-counties-without-legal-growers/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/more-maryland-social-equity-marijuana-dispensaries-are-finally-starting-to-open-years-after-market-launch/",
         "summary": "<p>&#8220;The sad part was people who were targeted when there was prohibition on cannabis, those same individuals were excluded from the cannabis ind..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Congressional Researchers Lay Out Lawmakers\u2019 Options To Address Gun Ban For Marijuana Users Following Supreme Court Ruling",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/congressional-researchers-lay-out-lawmakers-options-to-address-gun-ban-for-marijuana-users-following-supreme-court-ruling/",
-        "summary": "<p>Congressional researchers are detailing options for how lawmakers could respond to a recent Supreme Court decision to uphold the gun rights of peop..."
     },
     {
         "source": "MJBizDaily",
@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Congo's Ebola outbreak spreads to two more provinces",
-        "image": "https://media.zenfs.com/en/reuters.com/3d87b1be5a28d8cb71ee996fe6f93b51",
-        "link": "https://www.yahoo.com/news/world/articles/congos-ebola-outbreak-spreads-two-093900373.html",
+        "title": "Civil rights leaders announce 'March on Washington' to defend voting rights",
+        "image": "https://media.zenfs.com/en/reuters.com/77569f149efe98c6666afdda356aeaee",
+        "link": "https://www.yahoo.com/news/politics/articles/civil-rights-leaders-announce-march-202852181.html",
         "summary": "..."
     },
     {
@@ -85,58 +85,58 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Democratic socialists erupt over 2028 endorsement as AOC speculation grows: 'Dangerous path'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/9a4d876d50b50c3f7e1026cca0176ca1",
-        "link": "https://www.yahoo.com/news/politics/articles/democratic-socialists-erupt-over-2028-200633275.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukraine and 9 other countries announce a coalition to protect Europe from ballistic missiles",
-        "image": "https://media.zenfs.com/en/ap.org/7cae267351c3b3731567d9fda987e8b6",
-        "link": "https://www.yahoo.com/news/world/articles/zelenskyy-discuss-ukraine-support-air-094405756.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "By Blessing Corruption, Todd Blanche Has Disqualified Himself From the Job He Wants",
         "image": "https://media.zenfs.com/en/reason_com_245/c54dc52b7f06eaa3a32a40d0835657da",
         "link": "https://www.yahoo.com/news/politics/articles/blessing-corruption-todd-blanche-disqualified-040146567.html",
         "summary": "..."
     },
     {
-        "source": "Deutsche Welle",
-        "title": "Why investors are fleeing one of Asia's biggest economies",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-investors-are-fleeing-one-of-asia-s-biggest-economies/a-77847180?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Indonesia's status as an emerging economy could be downgraded over populist President Prabowo Subianto's huge spending projects. Will the man who prom..."
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Inflation eases to 3.5% in June",
+        "image": "https://media.zenfs.com/en/nbcu_713/c75a5eae22996723acbb28c2298890d0",
+        "link": "https://www.yahoo.com/news/videos/inflation-eases-3-5-june-130037516.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Border Cops Can Search Your Phone Whenever They Want, If You're Within 100 Miles of the Border",
+        "image": "https://media.zenfs.com/en/reason_com_245/e0cb8a3035ab69feb7540c5e55a4bc22",
+        "link": "https://www.yahoo.com/news/politics/articles/border-cops-search-phone-whenever-160002823.html",
+        "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Palestinians in Gaza: Stuck between Hamas and Israel",
+        "title": "England vs. Argentina: A football rivalry full of history",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/palestinians-in-gaza-stuck-between-hamas-and-israel/a-77956421?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Hamas is planning to transfer control of Gaza's civilian administration to Palestinian technocrats as part of the fragile US ceasefire. How is that af..."
+        "link": "https://www.dw.com/en/england-vs-argentina-a-football-rivalry-full-of-history/a-77962179?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "From the Falkland Islands to Diego Maradona and David Beckham, there is so much history between the two 2026 World Cup semifinalists...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "India's 'most ambitious' trade deal with UK takes effect",
+        "title": "San Francisco: 1 dead, 3 missing in Alcatraz boat sinking",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-s-most-ambitious-trade-deal-with-uk-takes-effect/live-77961587?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A landmark free trade agreement allows zero-duty market access for nearly 99% of India's exports to the UK. Meanwhile, US senators have proposed a new..."
+        "link": "https://www.dw.com/en/san-francisco-1-dead-3-missing-in-alcatraz-boat-sinking/a-77962333?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A search-and-rescue operation is underway after the three-deck pontoon vessel sank off the famous prison island, which is now a tourist destination...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Volodymyr Zelenskyy pushes for new government in Ukraine",
+        "title": "Ukraine: 3 dead as Russia intensifies attacks on Odesa",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/volodymyr-zelenskyy-pushes-for-new-government-in-ukraine/a-77959640?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukrainian Prime Minister Yulia Svyrydenko stepped down after barely a year in office. President Volodymyr Zelenskyy is already in talks with potential..."
+        "link": "https://www.dw.com/en/ukraine-3-dead-as-russia-intensifies-attacks-on-odesa/live-77962795?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Russian attacks on the port of Odesa have caused more fatalities as Moscow increasingly targets shipping infrastructure. Meanwhile, European Commissio..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "150 years of the Bayreuth Festival: Confronting a troubled legacy",
+        "title": "Running dry: How to store more groundwater for dry seasons",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/150-years-of-the-bayreuth-festival-confronting-a-troubled-legacy/a-77848272?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Should the past be confronted \u2014 or avoided? Why the Wagner festival's handling of its Nazi-era legacy remains a contentious issue in its 150th anniver..."
+        "link": "https://www.dw.com/en/running-dry-how-to-store-more-groundwater-for-dry-seasons/a-77501486?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "More frequent weather extremes are leading to water shortages during droughts, and flooding during heavy rain. But groundwater storage can help secure..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Why investors are suddenly fleeing Indonesia",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/why-investors-are-suddenly-fleeing-indonesia/a-77847180?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Indonesia, one of Asia's biggest economies, risks losing its emerging-market status as President Prabowo Subianto's spending plans rattle investors. W..."
     }
 ]
