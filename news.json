@@ -71,9 +71,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Wyden alleges RFK Jr. broke the law in calls urging Libertarians to quit Iowa races",
-        "image": "https://media.zenfs.com/en/ap.org/c8a9f925c3b179811ad9fe27c6610353",
-        "link": "https://www.yahoo.com/news/politics/articles/wyden-alleges-rfk-jr-broke-183936589.html",
+        "title": "Congo's Ebola outbreak spreads to two more provinces",
+        "image": "https://media.zenfs.com/en/reuters.com/3d87b1be5a28d8cb71ee996fe6f93b51",
+        "link": "https://www.yahoo.com/news/world/articles/congos-ebola-outbreak-spreads-two-093900373.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Seattle residents say they are in 'survival mode,' selling homes as high prices squeeze middle class",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/90f33c9b0b1aa41c41f6874770282ac9",
+        "link": "https://www.yahoo.com/news/us/articles/seattle-residents-survival-mode-selling-010026519.html",
         "summary": "..."
     },
     {
@@ -85,13 +92,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Border Cops Can Search Your Phone Whenever They Want, If You're Within 100 Miles of the Border",
-        "image": "https://media.zenfs.com/en/reason_com_245/e0cb8a3035ab69feb7540c5e55a4bc22",
-        "link": "https://www.yahoo.com/news/politics/articles/border-cops-search-phone-whenever-160002823.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Ukraine and 9 other countries announce a coalition to protect Europe from ballistic missiles",
         "image": "https://media.zenfs.com/en/ap.org/7cae267351c3b3731567d9fda987e8b6",
         "link": "https://www.yahoo.com/news/world/articles/zelenskyy-discuss-ukraine-support-air-094405756.html",
@@ -99,44 +99,44 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Seattle residents say they are in 'survival mode,' selling homes as high prices squeeze middle class",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/90f33c9b0b1aa41c41f6874770282ac9",
-        "link": "https://www.yahoo.com/news/us/articles/seattle-residents-survival-mode-selling-010026519.html",
+        "title": "By Blessing Corruption, Todd Blanche Has Disqualified Himself From the Job He Wants",
+        "image": "https://media.zenfs.com/en/reason_com_245/c54dc52b7f06eaa3a32a40d0835657da",
+        "link": "https://www.yahoo.com/news/politics/articles/blessing-corruption-todd-blanche-disqualified-040146567.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Border controls scrapped between Spain and Gibraltar",
+        "title": "Why investors are fleeing one of Asia's biggest economies",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/border-controls-scrapped-between-spain-and-gibraltar/a-77961013?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As the end of border controls took effect, the old chain-link fence between Spain and Gibraltar was taken down. This historic decision allows for grea..."
+        "link": "https://www.dw.com/en/why-investors-are-fleeing-one-of-asia-s-biggest-economies/a-77847180?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Indonesia's status as an emerging economy could be downgraded over populist President Prabowo Subianto's huge spending projects. Will the man who prom..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Trump: Strikes on Iran to continue until 'I say it's enough'",
+        "title": "Palestinians in Gaza: Stuck between Hamas and Israel",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-strikes-on-iran-to-continue-until-i-say-it-s-enough/live-77960667?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "President Donald Trump said Washington held talks with Iran and urged Tehran to make a deal. He warned that US strikes will escalate and target key in..."
+        "link": "https://www.dw.com/en/palestinians-in-gaza-stuck-between-hamas-and-israel/a-77956421?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Hamas is planning to transfer control of Gaza's civilian administration to Palestinian technocrats as part of the fragile US ceasefire. How is that af..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "How Turkey's 2016 coup attempt changed the country for good",
+        "title": "India's 'most ambitious' trade deal with UK takes effect",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-turkey-s-2016-coup-attempt-changed-the-country-for-good/a-77955154?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ten years ago, parts of the Turkish military attempted to overthrow the government of President Erdogan. The consequences of the failed coup continue ..."
+        "link": "https://www.dw.com/en/india-s-most-ambitious-trade-deal-with-uk-takes-effect/live-77961587?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A landmark free trade agreement allows zero-duty market access for nearly 99% of India's exports to the UK. Meanwhile, US senators have proposed a new..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "US troop withdrawal from Iraq set for September 30",
+        "title": "Volodymyr Zelenskyy pushes for new government in Ukraine",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-troop-withdrawal-from-iraq-set-for-september-30/a-77959648?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The planned US withdrawal is linked to the disarmament of influential Iran-backed militias in Iraq...."
+        "link": "https://www.dw.com/en/volodymyr-zelenskyy-pushes-for-new-government-in-ukraine/a-77959640?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ukrainian Prime Minister Yulia Svyrydenko stepped down after barely a year in office. President Volodymyr Zelenskyy is already in talks with potential..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iranian newspaper threatens German Chancellor Merz",
+        "title": "150 years of the Bayreuth Festival: Confronting a troubled legacy",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iranian-newspaper-threatens-german-chancellor-merz/a-77958683?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A major Iranian newspaper has published a threat of \"retaliation\" against German Chancellor Friedrich Merz. Politicians have expressed concern, and th..."
+        "link": "https://www.dw.com/en/150-years-of-the-bayreuth-festival-confronting-a-troubled-legacy/a-77848272?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Should the past be confronted \u2014 or avoided? Why the Wagner festival's handling of its Nazi-era legacy remains a contentious issue in its 150th anniver..."
     }
 ]
