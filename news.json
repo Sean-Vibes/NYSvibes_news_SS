@@ -78,23 +78,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "McConnell says he \u2018won\u2019t be able to return to the Senate floor to vote quite yet\u2019",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/b3f7ef601d9ad3eb09a6fb3f6b688598",
-        "link": "https://www.yahoo.com/news/politics/articles/mcconnell-says-won-t-able-231507017.html",
+        "title": "Before you connect another smart TV, tablet or phone, lock it down",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/a3ed2b18eaab3732938134b5a70ee3f3",
+        "link": "https://tech.yahoo.com/cybersecurity/articles/connect-another-smart-tv-tablet-114941633.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The foods to avoid for cyclospora, the \u2018explosive diarrhea\u2019 parasite",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/864782a572fd53fc9388ee80ea05a94f",
-        "link": "https://www.yahoo.com/news/us/articles/foods-avoid-cyclospora-explosive-diarrhea-183121161.html",
+        "title": "Democratic socialists erupt over 2028 endorsement as AOC speculation grows: 'Dangerous path'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/9a4d876d50b50c3f7e1026cca0176ca1",
+        "link": "https://www.yahoo.com/news/politics/articles/democratic-socialists-erupt-over-2028-200633275.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump prosecutor Jack Smith reviewed texts from 44 US lawmakers, Republican senators say",
-        "image": "https://media.zenfs.com/en/reuters.com/3951def684dbaae80aeb4f3eac91f35f",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-prosecutor-jack-smith-reviewed-214020267.html",
+        "title": "Majority of new Ebola cases in eastern Congo are from unknown chains, as outbreak outpaces response",
+        "image": "https://media.zenfs.com/en/ap.org/35b3beffe9cd485d5694ff134efce4d6",
+        "link": "https://www.yahoo.com/news/world/articles/majority-ebola-cases-unknown-chains-131230400.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/reason_com_245/e0cb8a3035ab69feb7540c5e55a4bc22",
         "link": "https://www.yahoo.com/news/politics/articles/border-cops-search-phone-whenever-160002823.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Trump: Strikes on Iran to continue until 'I say it's enough'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-strikes-on-iran-to-continue-until-i-say-it-s-enough/live-77960667?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "President Donald Trump said Washington held talks with Iran and urged Tehran to make a deal. He warned that US strikes will escalate and target key in..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/t-rex-gus-sells-for-record-breaking-50-1-million/a-77959141?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Tyrannosaurus rex skeleton surpassed its pre-sale estimate and set a new auction record for a dinosaur fossil...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US-Iraq relations: Can Iran-allied militias be disarmed?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-iraq-relations-can-iran-allied-militias-be-disarmed/a-77956078?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "When Donald Trump meets Iraq's new PM today, they are likely to discuss disarming Iran's allies in Iraq. Some have already pledged to give up their gu..."
     }
 ]
