@@ -71,16 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Civil rights leaders announce 'March on Washington' to defend voting rights",
-        "image": "https://media.zenfs.com/en/reuters.com/77569f149efe98c6666afdda356aeaee",
-        "link": "https://www.yahoo.com/news/politics/articles/civil-rights-leaders-announce-march-202852181.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Seattle residents say they are in 'survival mode,' selling homes as high prices squeeze middle class",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/90f33c9b0b1aa41c41f6874770282ac9",
-        "link": "https://www.yahoo.com/news/us/articles/seattle-residents-survival-mode-selling-010026519.html",
+        "title": "Wyden alleges RFK Jr. broke the law in calls urging Libertarians to quit Iowa races",
+        "image": "https://media.zenfs.com/en/ap.org/c8a9f925c3b179811ad9fe27c6610353",
+        "link": "https://www.yahoo.com/news/politics/articles/wyden-alleges-rfk-jr-broke-183936589.html",
         "summary": "..."
     },
     {
@@ -92,17 +85,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Seattle residents say they are in 'survival mode,' selling homes as high prices squeeze middle class",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/90f33c9b0b1aa41c41f6874770282ac9",
+        "link": "https://www.yahoo.com/news/us/articles/seattle-residents-survival-mode-selling-010026519.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Civil rights leaders announce 'March on Washington' to defend voting rights",
+        "image": "https://media.zenfs.com/en/reuters.com/77569f149efe98c6666afdda356aeaee",
+        "link": "https://www.yahoo.com/news/politics/articles/civil-rights-leaders-announce-march-202852181.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Inflation eases to 3.5% in June",
         "image": "https://media.zenfs.com/en/nbcu_713/c75a5eae22996723acbb28c2298890d0",
         "link": "https://www.yahoo.com/news/videos/inflation-eases-3-5-june-130037516.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Border Cops Can Search Your Phone Whenever They Want, If You're Within 100 Miles of the Border",
-        "image": "https://media.zenfs.com/en/reason_com_245/e0cb8a3035ab69feb7540c5e55a4bc22",
-        "link": "https://www.yahoo.com/news/politics/articles/border-cops-search-phone-whenever-160002823.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Germany news: Coalition has 'found its footing,' Merz says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-coalition-has-found-its-footing-merz-says/live-77965417?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "German Chancellor Friedrich Merz said recent reforms show his coalition is making progress. Meanwhile, arrests were made after police carry out drug r..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine: Kyiv and EU agree on new drone production deal",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-kyiv-and-eu-agree-on-new-drone-production-deal/live-77962795?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ukraine and the EU have agreed on a drone deal combining Kyiv\u2019s know-how with the bloc's scale-up power. Meanwhile, Russian attacks caused more fatali..."
     },
     {
         "source": "Deutsche Welle",
@@ -120,23 +134,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Ukraine: 3 dead as Russia intensifies attacks on Odesa",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-3-dead-as-russia-intensifies-attacks-on-odesa/live-77962795?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russian attacks on the port of Odesa have caused more fatalities as Moscow increasingly targets shipping infrastructure. Meanwhile, European Commissio..."
-    },
-    {
-        "source": "Deutsche Welle",
         "title": "Running dry: How to store more groundwater for dry seasons",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/running-dry-how-to-store-more-groundwater-for-dry-seasons/a-77501486?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "More frequent weather extremes are leading to water shortages during droughts, and flooding during heavy rain. But groundwater storage can help secure..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why investors are suddenly fleeing Indonesia",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-investors-are-suddenly-fleeing-indonesia/a-77847180?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Indonesia, one of Asia's biggest economies, risks losing its emerging-market status as President Prabowo Subianto's spending plans rattle investors. W..."
     }
 ]
