@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "It\u2019s Time For South Carolina Lawmakers To Take Medical Marijuana Seriously, Military Veteran Says (Op-Ed)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/its-time-for-south-carolina-lawmakers-to-take-medical-marijuana-seriously-military-veteran-says-op-ed/",
+        "summary": "<p>&#8220;This is not about turning South Carolina into something it is not. This is about compassion, medical freedom and common sense.&#8221; By Dra..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Idaho Official Explains Why Medical Marijuana Initiative Will Not Appear On November Ballot",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/idaho-official-explains-why-medical-marijuana-initiative-will-not-appear-on-november-ballot/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/congresss-options-for-addressing-cannabis-user-gun-ban-newsletter-july-15-2026/",
         "summary": "<p>HHS/VA psychedelics partnership; ID medical marijuana push fails; CA data: Local bans boost illicit market; Study: Cannabis-infused tea &#38; happi..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "California\u2019s Top Marijuana Regulator Says Local Bans \u2018Benefit\u2019 Illicit Market, With 97% Of Busts In Counties Without Legal Growers",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/californias-top-marijuana-regulator-says-local-bans-benefit-illicit-market-with-97-of-busts-in-counties-without-legal-growers/",
-        "summary": "<p>About 97 percent of marijuana seized by California officials in unincorporated areas of the state came from counties that continue to ban licensed ..."
     },
     {
         "source": "MJBizDaily",
@@ -85,9 +85,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Jamie Dimon understands why people are anti-rich: \u2018We have, in fact, left the lower-income folks behind\u2019 and \u2018that\u2019s kind of annoying\u2019",
-        "image": "https://media.zenfs.com/en/fortune_175/5cd77651576b808c97b6af36d09eba70",
-        "link": "https://finance.yahoo.com/economy/articles/jamie-dimon-understands-why-people-105148832.html",
+        "title": "Could flesh-eating screwworms end up in your beef? USDA reveals risk level",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/41038d47a141b3c83ec66b140916d08e",
+        "link": "https://www.yahoo.com/news/science/articles/could-flesh-eating-screwworms-end-180059738.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mamdani ripped over record-high NYC rents with critics pointing to policy they say is fueling crisis",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/2be1485bbf9f14f3a225e89171a9eb4b",
-        "link": "https://www.yahoo.com/news/politics/articles/mamdani-ripped-over-record-high-171458046.html",
+        "title": "Former Obama White House attorney says \u2018it was a mistake\u2019 to deal with Epstein and she regrets it",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/81ac10975a213c90f54b220064da82eb",
+        "link": "https://www.yahoo.com/news/politics/articles/former-obama-white-house-attorney-163649199.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany: Chancellor Merz makes appeal to AfD voters",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-chancellor-merz-makes-appeal-to-afd-voters/a-77973735?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Chancellor Friedrich Merz insists that his coalition has \"regained its footing\" \u2014 despite dismal poll numbers. The chancellor also cautioned against v..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/kenya-s-political-gangs-fuel-election-fears/a-77970615?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Violent disruptions of political and civic events are raising concerns about the use of hired gangs as Kenya heads toward elections in 2027...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "The 10 dark days of Evian",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/the-10-dark-days-of-evian/a-77966381?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In July 1938, an international conference was held in Evian, France, to decide the fate of Jews from Germany and Austria. Almost no one in the world w..."
     }
 ]
