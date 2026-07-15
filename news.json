@@ -71,16 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hungary passes constitutional amendment to remove Orb\u00e1n-era president",
-        "image": "https://media.zenfs.com/en/ap.org/32fdd9f0259fc142ba9e4e2f61afd272",
-        "link": "https://www.yahoo.com/news/politics/articles/hungary-passes-constitutional-amendment-remove-165049363.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Before you connect another smart TV, tablet or phone, lock it down",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/a3ed2b18eaab3732938134b5a70ee3f3",
-        "link": "https://tech.yahoo.com/cybersecurity/articles/connect-another-smart-tv-tablet-114941633.html",
+        "title": "Wyden alleges RFK Jr. broke the law in calls urging Libertarians to quit Iowa races",
+        "image": "https://media.zenfs.com/en/ap.org/c8a9f925c3b179811ad9fe27c6610353",
+        "link": "https://www.yahoo.com/news/politics/articles/wyden-alleges-rfk-jr-broke-183936589.html",
         "summary": "..."
     },
     {
@@ -92,17 +85,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Majority of new Ebola cases in eastern Congo are from unknown chains, as outbreak outpaces response",
-        "image": "https://media.zenfs.com/en/ap.org/35b3beffe9cd485d5694ff134efce4d6",
-        "link": "https://www.yahoo.com/news/world/articles/majority-ebola-cases-unknown-chains-131230400.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Border Cops Can Search Your Phone Whenever They Want, If You're Within 100 Miles of the Border",
         "image": "https://media.zenfs.com/en/reason_com_245/e0cb8a3035ab69feb7540c5e55a4bc22",
         "link": "https://www.yahoo.com/news/politics/articles/border-cops-search-phone-whenever-160002823.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Ukraine and 9 other countries announce a coalition to protect Europe from ballistic missiles",
+        "image": "https://media.zenfs.com/en/ap.org/7cae267351c3b3731567d9fda987e8b6",
+        "link": "https://www.yahoo.com/news/world/articles/zelenskyy-discuss-ukraine-support-air-094405756.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Seattle residents say they are in 'survival mode,' selling homes as high prices squeeze middle class",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/90f33c9b0b1aa41c41f6874770282ac9",
+        "link": "https://www.yahoo.com/news/us/articles/seattle-residents-survival-mode-selling-010026519.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Border controls scrapped between Spain and Gibraltar",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/border-controls-scrapped-between-spain-and-gibraltar/a-77961013?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "As the end of border controls took effect, the old chain-link fence between Spain and Gibraltar was taken down. This historic decision allows for grea..."
     },
     {
         "source": "Deutsche Welle",
@@ -120,23 +127,16 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "US troop withdrawal from Iraq set for September, 30",
+        "title": "US troop withdrawal from Iraq set for September 30",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-troop-withdrawal-from-iraq-set-for-september-30/a-77959648?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The planned US withdrawal is linked to the disarmament of influential, Iran-backed militias in Iraq...."
+        "summary": "The planned US withdrawal is linked to the disarmament of influential Iran-backed militias in Iraq...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iranian newspaper threatens Germany's Chancellor Merz",
+        "title": "Iranian newspaper threatens German Chancellor Merz",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iranian-newspaper-threatens-germany-s-chancellor-merz/a-77958683?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/iranian-newspaper-threatens-german-chancellor-merz/a-77958683?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A major Iranian newspaper has published a threat of \"retaliation\" against German Chancellor Friedrich Merz. Politicians have expressed concern, and th..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "T. rex 'Gus' sells for record-breaking $50.1 million",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/t-rex-gus-sells-for-record-breaking-50-1-million/a-77959141?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Tyrannosaurus rex skeleton surpassed its pre-sale estimate and set a new auction record for a dinosaur fossil...."
     }
 ]
