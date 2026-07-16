@@ -1,6 +1,20 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "How A Cannabis Checkbox On VA Dental Paperwork Can Shape Veterans\u2019 Medical Records Without Them Ever Seeing It (Op-Ed)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/how-a-cannabis-checkbox-on-va-dental-paperwork-can-shape-veterans-medical-records-without-them-ever-seeing-it-op-ed/",
+        "summary": "<p>&#8220;Veterans should never have to choose between being truthful with their healthcare providers and worrying that a routine checkbox could quiet..."
+    },
+    {
+        "source": "Marijuana Moment",
+        "title": "Military issues anti-cannabis warning despite rescheduling (Newsletter: July 16, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/military-issues-anti-cannabis-warning-despite-rescheduling-newsletter-july-16-2026/",
+        "summary": "<p>GOP senator on keeping hemp legal; ID medical marijuana ballot rejection details; VA cannabis violation report form; Medical marijuana &#38; vetera..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "GOP Senator Says Keeping Hemp THC Products Legal Is An Issue That Can Unite Lawmakers At A \u2018Hyperpartisan\u2019 Time",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/gop-senator-says-keeping-hemp-thc-products-legal-is-an-issue-that-can-unite-lawmakers-at-a-hyperpartisan-time/",
@@ -21,18 +35,11 @@
         "summary": "<p>Idaho&#8217;s top elections official is explaining his determination that a campaign for an initiative to legalize medical marijuana did not submit..."
     },
     {
-        "source": "Marijuana Moment",
-        "title": "Virginia Marijuana Officials Are Asking People To Report Violations Of The State\u2019s New Legalization Law With A New Web Form And Tip Line",
+        "source": "MJBizDaily",
+        "title": "How a newcomer plans to win Florida\u2019s crowded and competitive medical marijuana market",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/virginia-marijuana-officials-are-asking-people-to-report-violations-of-the-states-new-legalization-law-with-a-new-web-form-and-tip-line/",
-        "summary": "<p>Virginia marijuana regulators have launched a new online form and tip line through which people can report suspected violations of the state&#8217;..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Military Warns That Trump\u2019s Marijuana Rescheduling Move Doesn\u2019t Allow Use By Service Members",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/military-warns-that-trumps-marijuana-rescheduling-move-doesnt-allow-use-by-service-members/",
-        "summary": "<p>The Department of War (DOW) has issued a memo to senior Pentagon leadership making clear that marijuana use by military service members and civilia..."
+        "link": "https://mjbizdaily.com/news/how-a-newcomer-plans-to-win-floridas-crowded-and-competitive-medical-marijuana-market/616904/",
+        "summary": "<p>FINO Cannabis opened its first Florida medical marijuana treatment center in Clermont, with a second location planned for Winter Park.</p>\n<p><a hr..."
     },
     {
         "source": "MJBizDaily",
@@ -61,13 +68,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/cannabis-mso-ascend-prepares-for-uplisting-to-us-exchange/616913/",
         "summary": "<p>The company filed a proxy statement with the SEC and called a meeting of stockholders to vote on a reverse stock split.</p>\n<p><a href=\"https://mjb..."
-    },
-    {
-        "source": "MJBizDaily",
-        "title": "Curaleaf first to register cannabis preparations in Spain",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/curaleaf-first-to-register-cannabis-preparations-in-spain/616886/",
-        "summary": "<p>The preparations can be used in hospital pharmacies to produce compounded formulas prescribed by healthcare professionals.</p>\n<p><a href=\"https://..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
@@ -106,9 +106,30 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iran war: What's behind the regime's 'revenge propaganda'?",
+        "title": "Why America's hospitals keep looking to India for nurses",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-what-s-behind-the-regime-s-revenge-propaganda/a-77981122?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/why-america-s-hospitals-keep-looking-to-india-for-nurses/a-77983988?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Thousands of Indian nurses aspire to work in the US, navigating yearslong visa backlogs to fill a growing healthcare workforce shortage...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany may make it illegal to deny Israel's right to exist",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-may-make-it-illegal-to-deny-israel-s-right-to-exist/a-77980283?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany's upper house of parliament, the Bundesrat, has introduced a bill seeking to ban the questioning of Israel's right to exist. It is now up to t..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "The EU climate policy the world copied is under fire \u2014 what's at stake?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/the-eu-climate-policy-the-world-copied-is-under-fire-what-s-at-stake/a-77979725?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The emissions trading system became a global blueprint for pricing carbon and cutting CO2. Now industry groups are pushing back against tougher climat..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "What's behind the Iran regime's 'revenge propaganda'?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/what-s-behind-the-iran-regime-s-revenge-propaganda/a-77981122?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Calls for revenge over the death of Ayatollah Ali Khamenei are growing louder in Iran. Through increasingly harsh rhetoric, the leadership is seeking ..."
     },
     {
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-slaps-25-tariffs-on-brazil-with-election-looming/a-77978372?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The US will impose a 25% tariff on most imports from Brazil starting later this month. It's the first action in the Trump administration's new tariff ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine lawmakers to elect new government amid defence chief row",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-lawmakers-to-elect-new-government-amid-defence-chief-row/live-77980338?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "It is President Volodymyr Zelenskyy's second cabinet shake-up in a year, but he faces criticism over the dismissal of reformist Defense Minister Mykha..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Gender switch neo-Nazi sent to men's prison",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-gender-switch-neo-nazi-sent-to-men-s-prison/live-77978527?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Neo-Nazi Marla Svenja Liebich has been transferred to a men's prison after extradition back to Germany, despite being legally registered as a woman. D..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UK calls for FIFA investigation over Argentina banner",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-calls-for-fifa-investigation-over-argentina-banner/a-77980457?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Following their 2-1 World Cup semifinal victory over England, Argentine players held up a banner claiming the Falkland Islands belong to Argentina. Po..."
     }
 ]
