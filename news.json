@@ -36,7 +36,7 @@
     },
     {
         "source": "MJBizDaily",
-        "title": "How a newcomer plans to win Florida\u2019s crowded and competitive medical marijuana market",
+        "title": "How a newcomer to Florida\u2019s crowded medical cannabis market plans to win",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/how-a-newcomer-plans-to-win-floridas-crowded-and-competitive-medical-marijuana-market/616904/",
         "summary": "<p>FINO Cannabis opened its first Florida medical marijuana treatment center in Clermont, with a second location planned for Winter Park.</p>\n<p><a hr..."
@@ -92,17 +92,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russia says foreign troops sent to Ukraine after a peace deal would be legitimate targets",
-        "image": "https://media.zenfs.com/en/reuters.com/33e095f8f43575be6e1215824982fe8b",
-        "link": "https://www.yahoo.com/news/politics/articles/russia-says-foreign-troops-sent-134312599.html",
+        "title": "Drained Reflecting Pool reveals Trump's 'American flag blue' liner is now closer to gray",
+        "image": "https://media.zenfs.com/en/ap.org/a8cb723ea7ca63494d4cb0eedf185894",
+        "link": "https://www.yahoo.com/news/politics/articles/drained-reflecting-pool-reveals-trumps-203410320.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Seattle residents say they are in 'survival mode,' selling homes as high prices squeeze middle class",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/90f33c9b0b1aa41c41f6874770282ac9",
-        "link": "https://www.yahoo.com/news/us/articles/seattle-residents-survival-mode-selling-010026519.html",
+        "title": "'Somebody needs to do something': GOP senators split as Tuberville demands McConnell answers",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/ae0453831c08a248d3b17b67c4a8aba5",
+        "link": "https://www.yahoo.com/news/politics/articles/somebody-needs-something-gop-senators-121207655.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Italy: Ex-highway head sentenced to 12 years for deadly bridge collapse",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/italy-ex-highway-head-sentenced-to-12-years-for-deadly-bridge-collapse/a-77995618?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The collapse of the Morandi bridge in Genoa in 2018 killed 43. The court found the former Italian highway CEO guilty of neglecting maintenance despite..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Monaco assassination plot takes a new turn",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/monaco-assassination-plot-takes-a-new-turn/a-77983714?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A woman suspected of plotting to assassinate a Ukrainian-Cypriot businessman in Monaco has been found dead in Ukraine. Two men with ties to Ukraine's ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Why America's hospitals keep looking to India for nurses",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/why-america-s-hospitals-keep-looking-to-india-for-nurses/a-77983988?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Thousands of Indian nurses aspire to work in the US, navigating yearslong visa backlogs to fill a growing healthcare workforce shortage...."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-massively-expands-federal-police-powers/a-77993148?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The German government has expanded the powers of its federal police, especially in the use of surveillance, AI, and drone defenses. But experts warn o..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany: Gender switch neo-Nazi sent to men's prison",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-gender-switch-neo-nazi-sent-to-men-s-prison/a-77991930?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Far-right provocateur Marla Svenja Liebich was transferred to a men's prison after being extradited from the Czech Republic. Authorities say the decis..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Algeria: Fire at orphanage kills 11, including children",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/algeria-fire-at-orphanage-kills-11-including-children/a-77991351?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A fire at an orphanage in the province of Algiers has killed 11 people and injured 19 more, authorities said. President Abdelmadjid Tebboune expressed..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "EU court endorses Spanish PM's contentious Catalan amnesty",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-court-endorses-spanish-pm-s-contentious-catalan-amnesty/a-77981590?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The EU's top court has backed a Spanish law giving amnesty to Catalan separatists over the independence referendum. The deal let Prime Minister Pedro ..."
     }
 ]
