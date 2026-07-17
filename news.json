@@ -71,16 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "More than 500 feared dead as officials investigate reports of boats capsizing with Rohingya refugees",
-        "image": "https://media.zenfs.com/en/ap.org/22dc0f1048369d49edad3b7cdc70489a",
-        "link": "https://www.yahoo.com/news/world/articles/more-500-feared-dead-officials-045525632.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Schumer dodges questions after bombshell report alleges Dem senator had relationships with House staffers",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/6daae8df7aab068e3963baa5096e5a2b",
-        "link": "https://www.yahoo.com/news/politics/articles/schumer-dodges-questions-bombshell-report-193401711.html",
+        "title": "A mass trial of alleged MS-13 gang members wraps up in El Salvador",
+        "image": "https://media.zenfs.com/en/ap.org/7201747e58701c76b24b219e2faaae79",
+        "link": "https://www.yahoo.com/news/world/articles/mass-trial-ms-13-gang-192203599.html",
         "summary": "..."
     },
     {
@@ -92,24 +85,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "America already tried permanent daylight saving time. It lasted less than a year. Could it work now?",
-        "image": "https://media.zenfs.com/en/ap.org/ebbfa02bdd3e73e929147541bbd778b4",
-        "link": "https://www.yahoo.com/news/politics/articles/america-already-tried-permanent-daylight-040156920.html",
+        "title": "Schumer dodges questions after bombshell report alleges Dem senator had relationships with House staffers",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/6daae8df7aab068e3963baa5096e5a2b",
+        "link": "https://www.yahoo.com/news/politics/articles/schumer-dodges-questions-bombshell-report-193401711.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former Obama White House attorney says \u2018it was a mistake\u2019 to deal with Epstein and she regrets it",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/81ac10975a213c90f54b220064da82eb",
-        "link": "https://www.yahoo.com/news/politics/articles/former-obama-white-house-attorney-163649199.html",
+        "title": "'Certified,' not elected - Trump spy nominee Clayton won't say Biden won in 2020",
+        "image": "https://media.zenfs.com/en/reuters.com/af56204c02c02d899dbd6248c26e0c11",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-spy-nominee-clayton-not-175248493.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "'Somebody needs to do something': GOP senators split as Tuberville demands McConnell answers",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/ae0453831c08a248d3b17b67c4a8aba5",
+        "link": "https://www.yahoo.com/news/politics/articles/somebody-needs-something-gop-senators-121207655.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Why the US is going after the International Criminal Court",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/why-the-us-is-going-after-the-international-criminal-court/a-78006596?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US Secretary of State Marco Rubio has ramped up his criticism of the International Criminal Court in The Hague. His gloves-off approach could have far..."
     },
     {
         "source": "Deutsche Welle",
         "title": "West Indies cricket legend Sir Garfield Sobers dies",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/west-indies-cricket-legend-sir-garfield-sobers-dies/a-78013119?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Sir Garfield Sobers, considered one of the game's greatest all-rounders, died aged 89...."
+        "summary": "Sir Garfield Sobers, considered one of the game's greatest all-rounders, has died aged 89. The International Cricket Council said he was one of the \"g..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-merz-macron-plan-closer-nuclear-cooperation/live-77998510?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Germany is expected to soon take part in a nuclear drill with France, Germany's Merz said after meeting France's Macron. It comes as Franco-German tie..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany debates surrogacy and hypocrisy",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-debates-surrogacy-and-hypocrisy/a-78009366?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Former Health Minister Jens Spahn of the conservative CDU, who opposed legalizing surrogacy in Germany, has become a father with the help of a surroga..."
     }
 ]
