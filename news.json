@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "More than 500 feared dead as officials investigate reports of boats capsizing with Rohingya refugees",
-        "image": "https://media.zenfs.com/en/ap.org/22dc0f1048369d49edad3b7cdc70489a",
-        "link": "https://www.yahoo.com/news/world/articles/more-500-feared-dead-officials-045525632.html",
+        "title": "Drained Reflecting Pool reveals Trump's 'American flag blue' liner is now closer to gray",
+        "image": "https://media.zenfs.com/en/ap.org/a8cb723ea7ca63494d4cb0eedf185894",
+        "link": "https://www.yahoo.com/news/politics/articles/drained-reflecting-pool-reveals-trumps-203410320.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russia says foreign troops sent to Ukraine after a peace deal would be legitimate targets",
-        "image": "https://media.zenfs.com/en/reuters.com/33e095f8f43575be6e1215824982fe8b",
-        "link": "https://www.yahoo.com/news/politics/articles/russia-says-foreign-troops-sent-134312599.html",
+        "title": "How 'Today' Show Reacted After Man Allegedly Confronted Craig Melvin On Set & Shouted Racial Slur",
+        "image": "https://media.zenfs.com/en/nbcu_713/cfe879d6182b6ae7cadd487a6fefe24a",
+        "link": "https://www.yahoo.com/entertainment/videos/today-show-reacted-man-allegedly-224120753.html",
         "summary": "..."
     },
     {
@@ -106,10 +106,24 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Trump unveils report on alleged Chinese election meddling",
+        "title": "India news: Modi silent as Sonam Wangchuk hunger strike enters 20th day",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-unveils-report-on-alleged-chinese-election-meddling/a-77996793?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Donald Trump announced the declassification of intelligence reports alleging Chinese interference in US elections. He claims Beijing obtained 220 mill..."
+        "link": "https://www.dw.com/en/india-news-modi-silent-as-sonam-wangchuk-hunger-strike-enters-20th-day/live-77997484?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "As Sonam Wangchuk's hunger strike entered its 20th day and the \"Cockroach\" party continued its protest, Prime Minister Narendra Modi faced criticism f..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Xi Jinping calls for international cooperation in AI development at WAIC in Shanghai",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/xi-jinping-calls-for-international-cooperation-in-ai-development-at-waic-in-shanghai/a-77997024?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Xi Jinping marked his first in-person attendance at the World \u200bArtificial Intelligence Conference (WAIC) in Shanghai, where he shared China's vision o..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Donald Trump accuses China of meddling in US elections",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/donald-trump-accuses-china-of-meddling-in-us-elections/a-77996793?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US President Donald Trump has again claimed he has evidence of interference in the 2020 presidential election, this time alleging China obtained 220 m..."
     },
     {
         "source": "Deutsche Welle",
@@ -123,20 +137,6 @@
         "title": "Iran war: US military attacks Iran for sixth night running",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-us-military-attacks-iran-for-sixth-night-running/live-77976690?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US Central Command said that a new wave of strikes was launched on Iran. It follows retaliatory strikes from Iran on sites in Jordan and Gulf states. ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "German tenants need better heat protection",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/german-tenants-need-better-heat-protection/a-77979682?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Heat waves are becoming longer, hotter and more frequent. Record temperatures have left many tenants struggling. Now Chancellor Friedrich Merz has sai..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why Gulf states are investing billions in Africa",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-gulf-states-are-investing-billions-in-africa/a-77971459?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Wealthy Gulf states are investing billions in African countries. But the nations involved all have different objectives. What's behind the investments..."
+        "summary": "US Central Command said that a new wave of strikes was launched on Iran. It follows retaliatory strikes from Iran on sites in Jordan and Gulf states...."
     }
 ]
