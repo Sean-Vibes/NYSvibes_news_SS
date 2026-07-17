@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Combining Marijuana And Music Enhances Medical Benefits, Reduces Prescription Drug Use And Boosts Emotions, Government-Funded Study Shows",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/combining-marijuana-and-music-enhances-medical-benefits-reduces-prescription-drug-use-and-boosts-emotions-government-funded-study-shows/",
+        "summary": "<p>A new government-funded study is putting quantifiable evidence behind the idea that marijuana use enhances the experience of listening to music. Bu..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Marijuana Companies Donated $11.5 Million To Trump-Linked PAC Last Month, New Campaign Finance Records Show",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/marijuana-companies-donated-11-5-million-to-trump-linked-pac-last-month-new-campaign-finance-records-show/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/new-changes-to-delaware-marijuana-laws-provide-important-clarity-and-structure-top-official-says/",
         "summary": "<p>Delaware&#8217;s top marijuana regulator is touting changes to cannabis policies that lawmakers passed this session, saying they will &#8220;furthe..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Senate Democrats File Bill To Fully Legalize Marijuana Under Federal Law As Trump Moves To Merely Reclassify It",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/senate-democrats-file-bill-to-fully-legalize-marijuana-under-federal-law-as-trump-moves-to-merely-reclassify-it/",
-        "summary": "<p>Senate Democrats have filed a bill to federally legalize marijuana, a far-reaching proposal that comes as the Trump administration is moving ahead ..."
     },
     {
         "source": "MJBizDaily",
@@ -71,9 +71,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "A mass trial of alleged MS-13 gang members wraps up in El Salvador",
-        "image": "https://media.zenfs.com/en/ap.org/7201747e58701c76b24b219e2faaae79",
-        "link": "https://www.yahoo.com/news/world/articles/mass-trial-ms-13-gang-192203599.html",
+        "title": "Ex-captain pleads guilty to drugging and raping a US Merchant Marine Academy cadet on a cargo ship",
+        "image": "https://media.zenfs.com/en/ap.org/9a3a03707faf0d330cda1d874a21c638",
+        "link": "https://www.yahoo.com/news/us/articles/ex-captain-pleads-guilty-drugging-203946883.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Schumer dodges questions after bombshell report alleges Dem senator had relationships with House staffers",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/6daae8df7aab068e3963baa5096e5a2b",
+        "link": "https://www.yahoo.com/news/politics/articles/schumer-dodges-questions-bombshell-report-193401711.html",
         "summary": "..."
     },
     {
@@ -85,24 +92,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "'Certified,' not elected - Trump spy nominee Clayton won't say Biden won in 2020",
+        "image": "https://media.zenfs.com/en/reuters.com/af56204c02c02d899dbd6248c26e0c11",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-spy-nominee-clayton-not-175248493.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Fetterman warns he would leave Democratic Party if it turns its back on Israel",
         "image": "https://media.zenfs.com/en/the_hill_articles_341/dba89dc90160f0c34c706c3968ba78f0",
         "link": "https://www.yahoo.com/news/politics/articles/fetterman-warns-leave-democratic-party-222631612.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Five things to know about Trump's election fraud allegations",
-        "image": "https://media.zenfs.com/en/reuters.com/a85602a61c11efbcad87c1e7e572bd54",
-        "link": "https://www.yahoo.com/news/articles/three-things-know-trumps-election-031621387.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Germany debates surrogacy and hypocrisy",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-debates-surrogacy-and-hypocrisy/a-78009366?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Former Health Minister Jens Spahn of the conservative CDU, who opposed legalizing surrogacy in Germany, has become a father with the help of a surroga..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "'Somebody needs to do something': GOP senators split as Tuberville demands McConnell answers",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/ae0453831c08a248d3b17b67c4a8aba5",
-        "link": "https://www.yahoo.com/news/politics/articles/somebody-needs-something-gop-senators-121207655.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Merz and Macron: A Franco-German week of harmony",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/merz-and-macron-a-franco-german-week-of-harmony/a-78007779?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Friedrich Merz and Emmanuel Macron did everything they could this week to demonstrate a close partnership. This is likely because both fear that the n..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Cities are getting smarter about water and other eco wins",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/cities-are-getting-smarter-about-water-and-other-eco-wins/a-77999380?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "From flood-resistant infrastructure to new ways of securing drinking water, cities are adapting to the growing climate pressures of a hotter, drier wo..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Sao Tome and Principe balances global powers",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/sao-tome-and-principe-balances-global-powers/a-77884067?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "As voters head to the polls, Sao Tome and Principe is attracting international scrutiny. A military agreement with Russia has heightened interest in t..."
     },
     {
         "source": "Deutsche Welle",
@@ -110,33 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/uk-andy-burnham-confirmed-as-labour-party-leader/a-78000524?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The ruling center-left Labour Party has selected Andy Burnham as its new leader, clearing the way for him to replace Keir Starmer as British prime min..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine: Several killed and injured in Russian strikes",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-several-killed-and-injured-in-russian-strikes/a-78007862?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russia carried out deadly strikes across Ukraine overnight that hit residential areas, while Ukraine said drone strikes in the Black Sea hit 12 Russia..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Fact check: Trump revives US election fraud claims",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fact-check-trump-revives-us-election-fraud-claims/a-77999807?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In a primetime address, US President Donald Trump alleged Chinese voter interference in the 2020 US election. DW examined the declassified documents b..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How new PM Andy Burnham will change UK's international role",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-new-pm-andy-burnham-will-change-uk-s-international-role/a-77994989?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "From northwest England to the global stage: Andy Burnham becomes Britain's new prime minister on Monday. How will the former mayor of Manchester tackl..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Japan: Superstitions make some homes hard to sell or rent",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/japan-superstitions-make-some-homes-hard-to-sell-or-rent/a-78005455?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Many Japanese people are reluctant to buy or rent homes where a sudden or violent death has occurred. To reassure prospective buyers and tenants, prop..."
     }
 ]
