@@ -71,16 +71,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Drained Reflecting Pool reveals Trump's 'American flag blue' liner is now closer to gray",
-        "image": "https://media.zenfs.com/en/ap.org/a8cb723ea7ca63494d4cb0eedf185894",
-        "link": "https://www.yahoo.com/news/politics/articles/drained-reflecting-pool-reveals-trumps-203410320.html",
+        "title": "More than 500 feared dead as officials investigate reports of boats capsizing with Rohingya refugees",
+        "image": "https://media.zenfs.com/en/ap.org/22dc0f1048369d49edad3b7cdc70489a",
+        "link": "https://www.yahoo.com/news/world/articles/more-500-feared-dead-officials-045525632.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Fetterman warns he would leave Democratic Party if it turns its back on Israel",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/dba89dc90160f0c34c706c3968ba78f0",
-        "link": "https://www.yahoo.com/news/politics/articles/fetterman-warns-leave-democratic-party-222631612.html",
+        "title": "Former Obama White House attorney says \u2018it was a mistake\u2019 to deal with Epstein and she regrets it",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/81ac10975a213c90f54b220064da82eb",
+        "link": "https://www.yahoo.com/news/politics/articles/former-obama-white-house-attorney-163649199.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former Obama White House attorney says \u2018it was a mistake\u2019 to deal with Epstein and she regrets it",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/81ac10975a213c90f54b220064da82eb",
-        "link": "https://www.yahoo.com/news/politics/articles/former-obama-white-house-attorney-163649199.html",
+        "title": "Fetterman warns he would leave Democratic Party if it turns its back on Israel",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/dba89dc90160f0c34c706c3968ba78f0",
+        "link": "https://www.yahoo.com/news/politics/articles/fetterman-warns-leave-democratic-party-222631612.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Trump unveils report on alleged Chinese election meddling",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-unveils-report-on-alleged-chinese-election-meddling/a-77996793?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Donald Trump announced the declassification of intelligence reports alleging Chinese interference in US elections. He claims Beijing obtained 220 mill..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Tehran warns of wider disruption amid US strikes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-tehran-warns-of-wider-disruption-amid-us-strikes/live-77996555?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US launched a sixth night of strikes on Iran. Tehran has reportedly told Yemen's Houthis to be ready to disrupt Red Sea shipping if Iranian power ..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/why-gulf-states-are-investing-billions-in-africa/a-77971459?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Wealthy Gulf states are investing billions in African countries. But the nations involved all have different objectives. What's behind the investments..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Fact check: Claims linking statins to dementia are false",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fact-check-claims-linking-statins-to-dementia-are-false/a-77970650?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Viral posts claim that a drug widely used to lower cholesterol is contributing to a dementia epidemic. DW Fact Check examined the scientific evidence...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Italy: Ex-highway head sentenced to 12 years for deadly bridge collapse",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/italy-ex-highway-head-sentenced-to-12-years-for-deadly-bridge-collapse/a-77995618?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The collapse of the Morandi bridge in Genoa in 2018 killed 43. The court found the former Italian highway CEO guilty of neglecting maintenance despite..."
     }
 ]
