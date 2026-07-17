@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "Arkansas medical cannabis sales slip as governor hopefuls come out on legalization",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/arkansas-medical-cannabis-sales-slip-as-governor-hopefuls-come-out-on-legalization/616991/",
+        "summary": "<p>The decline follows a record year in which sales totaled $291.1 million \u2013 the highest annual figure since sales began in 2019.</p>\n<p><a href=\"http..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "How cannabis business should navigate marijuana rescheduling after the DEA hearings",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/how-cannabis-business-should-navigate-marijuana-rescheduling-after-the-dea-hearings/616974/",
@@ -63,17 +70,17 @@
         "summary": "<p>San Francisco will allow cannabis cafes to serve food and nonalcoholic drinks alongside on-site consumption of marijuana.</p>\n<p><a href=\"https://m..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "How a newcomer to Florida\u2019s crowded medical cannabis market plans to win",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/how-a-newcomer-plans-to-win-floridas-crowded-and-competitive-medical-marijuana-market/616904/",
-        "summary": "<p>FINO Cannabis opened its first Florida medical marijuana treatment center in Clermont, with a second location planned for Winter Park.</p>\n<p><a hr..."
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "FCC commissioner says Trump call to revoke ABC, NBC licenses is unconstitutional",
+        "image": "https://media.zenfs.com/en/reuters.com/898f95152844200039218f10f1d4a189",
+        "link": "https://www.yahoo.com/news/politics/articles/fcc-commissioner-says-trump-call-182755473.html",
+        "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "A mass trial of alleged MS-13 gang members wraps up in El Salvador",
-        "image": "https://media.zenfs.com/en/ap.org/7201747e58701c76b24b219e2faaae79",
-        "link": "https://www.yahoo.com/news/world/articles/mass-trial-ms-13-gang-192203599.html",
+        "title": "'Somebody needs to do something': GOP senators split as Tuberville demands McConnell answers",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/ae0453831c08a248d3b17b67c4a8aba5",
+        "link": "https://www.yahoo.com/news/politics/articles/somebody-needs-something-gop-senators-121207655.html",
         "summary": "..."
     },
     {
@@ -85,24 +92,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Schumer dodges questions after bombshell report alleges Dem senator had relationships with House staffers",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/6daae8df7aab068e3963baa5096e5a2b",
-        "link": "https://www.yahoo.com/news/politics/articles/schumer-dodges-questions-bombshell-report-193401711.html",
+        "title": "More than 500 feared dead as officials investigate reports of boats capsizing with Rohingya refugees",
+        "image": "https://media.zenfs.com/en/ap.org/22dc0f1048369d49edad3b7cdc70489a",
+        "link": "https://www.yahoo.com/news/world/articles/more-500-feared-dead-officials-045525632.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "'Certified,' not elected - Trump spy nominee Clayton won't say Biden won in 2020",
-        "image": "https://media.zenfs.com/en/reuters.com/af56204c02c02d899dbd6248c26e0c11",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-spy-nominee-clayton-not-175248493.html",
+        "title": "JD Vance says attending an event in Los Angeles reminded him of visiting US embassy in 'Third World country'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/a9d663eb4e2658c4600bcef6fe178ca3",
+        "link": "https://www.yahoo.com/news/politics/articles/jd-vance-says-attending-event-225800704.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "'Somebody needs to do something': GOP senators split as Tuberville demands McConnell answers",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/ae0453831c08a248d3b17b67c4a8aba5",
-        "link": "https://www.yahoo.com/news/politics/articles/somebody-needs-something-gop-senators-121207655.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Germany\u2019s 5,000 heat deaths: What the numbers reveal",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-s-5-000-heat-deaths-what-the-numbers-reveal/a-78010353?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "More than 5,100 people in Germany died from heat-related causes this year until the end of June, the Robert Koch Institute reports. But how can resear..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Canada wildfires: Smoke choking major US cities",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/canada-wildfires-smoke-choking-major-us-cities/a-78014421?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Trump has blamed Canada for the wildfires and their impact on the US, threatening extra tarrifs on the US neighbor. FIFA World Cup organizers are \"mon..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Japan revises imperial succession rules, but still excludes women",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/japan-revises-imperial-succession-rules-but-still-excludes-women/a-78009893?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Parliament has adjusted imperial succession laws in the country, seeking to ensure the royal line endures, but maintained the bar on women emperors. A..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/west-indies-cricket-legend-sir-garfield-sobers-dies/a-78013119?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Sir Garfield Sobers, considered one of the game's greatest all-rounders, has died aged 89. The International Cricket Council said he was one of the \"g..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Uganda halts school trips as bus crash kills 20 kids",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uganda-halts-school-trips-as-bus-crash-kills-20-kids/a-78010176?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A school bus in Uganda has crashed during its return to Kampala from a trip to the Sipi Falls. The government has temporarily halted all school trips ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How conflict in Congo, Sudan and Yemen is fueling the spread of disease",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-conflict-in-congo-sudan-and-yemen-is-fueling-the-spread-of-disease/a-77966475?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Whether fast-spreading cholera in Sudan and Yemen or the Ebola virus in eastern Democratic Republic of Congo (DRC), outbreaks of disease tend to be es..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Merz, Macron plan closer nuclear cooperation",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-merz-macron-plan-closer-nuclear-cooperation/live-77998510?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany is expected to soon take part in a nuclear drill with France, Germany's Merz said after meeting France's Macron. It comes as Franco-German tie..."
     }
 ]
