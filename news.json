@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "Judge: California cannabis law can be tweaked without voter approval",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/judge-california-cannabis-law-can-be-tweaked-without-voter-approval/616992/",
+        "summary": "<p>A California state judge on Thursday sided with the state against youth-serving organizations suing to block a state cannabis tax cut.</p>\n<p><a hr..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "Arkansas medical cannabis sales slip as governor hopefuls come out on legalization",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/arkansas-medical-cannabis-sales-slip-as-governor-hopefuls-come-out-on-legalization/616991/",
@@ -63,24 +70,10 @@
         "summary": "<p>The two employees of a \"state registered\" Oklahoma medical marijuana grow are accused of smuggling pesticides in from China to use on the cultivati..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "San Francisco legalizes \u2018Amsterdam-style\u2019 cannabis cafes",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/san-francisco-legalizes-amsterdam-style-cannabis-cafes/616949/",
-        "summary": "<p>San Francisco will allow cannabis cafes to serve food and nonalcoholic drinks alongside on-site consumption of marijuana.</p>\n<p><a href=\"https://m..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "FCC commissioner says Trump call to revoke ABC, NBC licenses is unconstitutional",
         "image": "https://media.zenfs.com/en/reuters.com/898f95152844200039218f10f1d4a189",
         "link": "https://www.yahoo.com/news/politics/articles/fcc-commissioner-says-trump-call-182755473.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "'Somebody needs to do something': GOP senators split as Tuberville demands McConnell answers",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/ae0453831c08a248d3b17b67c4a8aba5",
-        "link": "https://www.yahoo.com/news/politics/articles/somebody-needs-something-gop-senators-121207655.html",
         "summary": "..."
     },
     {
@@ -92,9 +85,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "More than 500 feared dead as officials investigate reports of boats capsizing with Rohingya refugees",
-        "image": "https://media.zenfs.com/en/ap.org/22dc0f1048369d49edad3b7cdc70489a",
-        "link": "https://www.yahoo.com/news/world/articles/more-500-feared-dead-officials-045525632.html",
+        "title": "'Somebody needs to do something': GOP senators split as Tuberville demands McConnell answers",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/ae0453831c08a248d3b17b67c4a8aba5",
+        "link": "https://www.yahoo.com/news/politics/articles/somebody-needs-something-gop-senators-121207655.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump immediately fires the new court-appointed top prosecutor in Seattle",
+        "image": "https://media.zenfs.com/en/ap.org/f02bfe0f4ae4473f06480f1503ee6219",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-immediately-fires-court-appointed-015712725.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/a9d663eb4e2658c4600bcef6fe178ca3",
         "link": "https://www.yahoo.com/news/politics/articles/jd-vance-says-attending-event-225800704.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Gaza officials say several killed in Israeli strike",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/gaza-officials-say-several-killed-in-israeli-strike/a-78014902?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Palestinian health and civil defense officials said at least eight people were killed while attending a funeral. Israel's military said it had struck ..."
     },
     {
         "source": "Deutsche Welle",
@@ -116,7 +123,7 @@
         "title": "Canada wildfires: Smoke choking major US cities",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/canada-wildfires-smoke-choking-major-us-cities/a-78014421?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Trump has blamed Canada for the wildfires and their impact on the US, threatening extra tarrifs on the US neighbor. FIFA World Cup organizers are \"mon..."
+        "summary": "Trump has blamed Canada for the wildfires and their impact on the US, threatening extra tariffs on the US neighbor. FIFA World Cup organizers are \"mon..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/why-the-us-is-going-after-the-international-criminal-court/a-78006596?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "US Secretary of State Marco Rubio has ramped up his criticism of the International Criminal Court in The Hague. His gloves-off approach could have far..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "West Indies cricket legend Sir Garfield Sobers dies",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/west-indies-cricket-legend-sir-garfield-sobers-dies/a-78013119?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Sir Garfield Sobers, considered one of the game's greatest all-rounders, has died aged 89. The International Cricket Council said he was one of the \"g..."
     }
 ]
