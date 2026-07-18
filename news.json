@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "FCC commissioner says Trump call to revoke ABC, NBC licenses is unconstitutional",
-        "image": "https://media.zenfs.com/en/reuters.com/898f95152844200039218f10f1d4a189",
-        "link": "https://www.yahoo.com/news/politics/articles/fcc-commissioner-says-trump-call-182755473.html",
+        "title": "Federal judge bars Trump administration from using obscure clause to make huge funding cuts",
+        "image": "https://media.zenfs.com/en/ap.org/7596e6b726a1a2b04b18d34a3a3a7010",
+        "link": "https://www.yahoo.com/news/politics/articles/federal-judge-bars-trump-administration-230557644.html",
         "summary": "..."
     },
     {
@@ -85,24 +85,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "'Bottomless tattoos cheapen industry' say artists",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/c2af4aaabd3c320e33c24f01f94c74e2",
-        "link": "https://www.yahoo.com/lifestyle/articles/bottomless-tattoos-cheapen-industry-artists-061451687.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ghost gun company ordered to pay $100M in the death of a Kentucky teen in historic verdict",
-        "image": "https://media.zenfs.com/en/ap.org/8367fda39e2dbf6447e1e415767a9b71",
-        "link": "https://www.yahoo.com/news/us/articles/ghost-gun-company-ordered-pay-184153754.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "JD Vance says attending an event in Los Angeles reminded him of visiting US embassy in 'Third World country'",
         "image": "https://media.zenfs.com/en/fox_news_text_979/a9d663eb4e2658c4600bcef6fe178ca3",
         "link": "https://www.yahoo.com/news/politics/articles/jd-vance-says-attending-event-225800704.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump shifts his tone on Jimmy Carter while grappling with Iran, inflation and his own legacy",
+        "image": "https://media.zenfs.com/en/ap.org/d8fa77afd31055de871f3684fecb5b02",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-shifts-tone-jimmy-carter-131501080.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Speaker Johnson suffers humiliating political defeat, yanks veterans benefits bill",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/1e68e0ac76cd8177a298226c566fca0a",
+        "link": "https://www.yahoo.com/news/politics/articles/speaker-johnson-suffers-humiliating-political-232613579.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Israel: How real is threat of gender segregation on street?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/israel-how-real-is-threat-of-gender-segregation-on-street/a-78020879?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "An Israeli city, with a large ultra-Orthodox Jewish population, wants to separate men and women on certain streets. Israeli politicians voted to allow..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/reproductive-medicine-laws-in-germany-shockingly-unjust/a-68199876?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Infertility affects one in six women in Germany. However, access to reproductive medicine is not available to all. Surrogacy as well as egg donation a..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why did Jens Spahn's surrogacy spark debate in Germany?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-did-jens-spahn-s-surrogacy-spark-debate-in-germany/a-78009366?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Jens Spahn, a key ally of Chancellor Friedrich Merz, is stepping down amid a controversy surrounding his decision to have a child via a surrogate moth..."
     }
 ]
