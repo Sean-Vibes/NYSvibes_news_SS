@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump administration discloses subpoenas to law firms in fight with US lawyer group",
-        "image": "https://media.zenfs.com/en/reuters.com/29d141da88a338ef6170f50cbca217d5",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-discloses-subpoenas-law-004521823.html",
+        "title": "FCC commissioner says Trump call to revoke ABC, NBC licenses is unconstitutional",
+        "image": "https://media.zenfs.com/en/reuters.com/898f95152844200039218f10f1d4a189",
+        "link": "https://www.yahoo.com/news/politics/articles/fcc-commissioner-says-trump-call-182755473.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "China's rare earth curbs endanger $6.5 trillion of Western industry, IEA says",
-        "image": "https://media.zenfs.com/en/reuters.com/d92c9ee043cbe9aa66b6dc77399d5829",
-        "link": "https://finance.yahoo.com/news/chinas-rare-earth-curbs-endanger-050616544.html",
+        "title": "DNA from the skull of an unknown Revolutionary War soldier reveals more than his name",
+        "image": "https://media.zenfs.com/en/video.wbal.hearstnews.com/f500f0c558ebf81ad7dbe7f4a781666c",
+        "link": "https://www.yahoo.com/news/us/articles/us--revolutionary-war-cold-case-122939492.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,27 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/a9d663eb4e2658c4600bcef6fe178ca3",
         "link": "https://www.yahoo.com/news/politics/articles/jd-vance-says-attending-event-225800704.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Billionaire US envoy faces Venice protests amid yacht tour",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/billionaire-us-envoy-faces-venice-protests-amid-yacht-tour/a-78015401?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Hundreds protested the arrival of billionaire and Trump-appointed US Ambassador Tilman Fertitta in Venice. The ambassador's stop \u2014 on his personal yac..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran threatens 'full-scale' offensive if US keeps bombing",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-threatens-full-scale-offensive-if-us-keeps-bombing/live-78015388?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "An Iranian general warned no border will be safe if the US strikes continue past the next few days. Meanwhile, the US rejected Tehran's claims that tw..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India: Police move activist Sonam Wangchuk to hospital on court orders",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-police-move-activist-sonam-wangchuk-to-hospital-on-court-orders/a-78015393?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "New Delhi's police have asked people to vacate the Jantar Mantar site where Wangchuk, students and supporters of the Cockroach Janata Party have been ..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/gaza-officials-say-several-killed-in-israeli-strike/a-78014902?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Palestinian health and civil defense officials said at least eight people were killed while attending a funeral. Israel's military said it had struck ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany\u2019s 5,000 heat deaths: What the numbers reveal",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-5-000-heat-deaths-what-the-numbers-reveal/a-78010353?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "More than 5,100 people in Germany died from heat-related causes this year until the end of June, the Robert Koch Institute reports. But how can resear..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Canada wildfires: Smoke choking major US cities",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/canada-wildfires-smoke-choking-major-us-cities/a-78014421?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Trump has blamed Canada for the wildfires and their impact on the US, threatening extra tariffs on the US neighbor. FIFA World Cup organizers are \"mon..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Japan revises imperial succession rules, but still excludes women",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/japan-revises-imperial-succession-rules-but-still-excludes-women/a-78009893?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Parliament has adjusted imperial succession laws in the country, seeking to ensure the royal line endures, but maintained the bar on women emperors. A..."
     }
 ]
