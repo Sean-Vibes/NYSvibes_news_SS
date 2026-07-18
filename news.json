@@ -71,9 +71,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Federal judge bars Trump administration from using obscure clause to make huge funding cuts",
-        "image": "https://media.zenfs.com/en/ap.org/7596e6b726a1a2b04b18d34a3a3a7010",
-        "link": "https://www.yahoo.com/news/politics/articles/federal-judge-bars-trump-administration-230557644.html",
+        "title": "Trump administration discloses subpoenas to law firms in fight with US lawyer group",
+        "image": "https://media.zenfs.com/en/reuters.com/29d141da88a338ef6170f50cbca217d5",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-discloses-subpoenas-law-004521823.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Schumer dodges questions after bombshell report alleges Dem senator had relationships with House staffers",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/6daae8df7aab068e3963baa5096e5a2b",
+        "link": "https://www.yahoo.com/news/politics/articles/schumer-dodges-questions-bombshell-report-193401711.html",
         "summary": "..."
     },
     {
@@ -85,16 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "52 percent of Pennsylvania voters would like to see Fetterman leave Democratic Party: Poll",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/774c000f717eaae3981d7f91b217af18",
-        "link": "https://www.yahoo.com/news/politics/articles/52-percent-pennsylvania-voters-see-143918847.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "More than 500 feared dead as officials investigate reports of boats capsizing with Rohingya refugees",
-        "image": "https://media.zenfs.com/en/ap.org/22dc0f1048369d49edad3b7cdc70489a",
-        "link": "https://www.yahoo.com/news/world/articles/more-500-feared-dead-officials-045525632.html",
+        "title": "China's rare earth curbs endanger $6.5 trillion of Western industry, IEA says",
+        "image": "https://media.zenfs.com/en/reuters.com/d92c9ee043cbe9aa66b6dc77399d5829",
+        "link": "https://finance.yahoo.com/news/chinas-rare-earth-curbs-endanger-050616544.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/a9d663eb4e2658c4600bcef6fe178ca3",
         "link": "https://www.yahoo.com/news/politics/articles/jd-vance-says-attending-event-225800704.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Taco Bell lettuce tied to diarrhea-causing parasite outbreak",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/taco-bell-lettuce-tied-to-diarrhea-causing-parasite-outbreak/a-78015079?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US health officials linked iceberg lettuce served at Taco Bell to an outbreak of the parasite cyclospora, which causes \u201cexplosive\u201d diarrhea. Health of..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/japan-revises-imperial-succession-rules-but-still-excludes-women/a-78009893?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Parliament has adjusted imperial succession laws in the country, seeking to ensure the royal line endures, but maintained the bar on women emperors. A..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why the US is going after the International Criminal Court",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-the-us-is-going-after-the-international-criminal-court/a-78006596?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US Secretary of State Marco Rubio has ramped up his criticism of the International Criminal Court in The Hague. His gloves-off approach could have far..."
     }
 ]
