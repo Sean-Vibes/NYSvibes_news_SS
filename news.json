@@ -78,16 +78,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Schumer dodges questions after bombshell report alleges Dem senator had relationships with House staffers",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/6daae8df7aab068e3963baa5096e5a2b",
-        "link": "https://www.yahoo.com/news/politics/articles/schumer-dodges-questions-bombshell-report-193401711.html",
+        "title": "Mysterious Mars moon \u2018monolith\u2019 worth examining, physicist says",
+        "image": "https://media.zenfs.com/en/newsnation_articles_600/cd2b7039097bd55c880e29cd0e96668f",
+        "link": "https://www.yahoo.com/news/science/articles/mysterious-mars-moon-monolith-worth-232211459.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "JD Vance says attending an event in Los Angeles reminded him of visiting US embassy in 'Third World country'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/a9d663eb4e2658c4600bcef6fe178ca3",
-        "link": "https://www.yahoo.com/news/politics/articles/jd-vance-says-attending-event-225800704.html",
+        "title": "Kentucky governor says he received 2 calls from agencies indicating McConnell had 'passed'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/6fab87dbb09421e1356899fc2de00627",
+        "link": "https://www.yahoo.com/news/politics/articles/kentucky-governor-says-received-2-171908934.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Speaker Johnson suffers humiliating political defeat, yanks veterans benefits bill",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/1e68e0ac76cd8177a298226c566fca0a",
-        "link": "https://www.yahoo.com/news/politics/articles/speaker-johnson-suffers-humiliating-political-232613579.html",
+        "title": "JD Vance says attending an event in Los Angeles reminded him of visiting US embassy in 'Third World country'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/a9d663eb4e2658c4600bcef6fe178ca3",
+        "link": "https://www.yahoo.com/news/politics/articles/jd-vance-says-attending-event-225800704.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Hungary's president signs amendment ending his own term",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/hungary-s-president-signs-amendment-ending-his-own-term/a-78021311?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "An ally of former PM Viktor Orban has signed a constitutional amendment ending his own term as head of state. Tamas Sulyok criticized the law, while l..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany: CDU's Jens Spahn resigns amid surrogacy controversy",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-cdu-s-jens-spahn-resigns-amid-surrogacy-controversy/a-78019238?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Surrogacy is not permitted in Germany and the conservative Christian Democratic Union (CDU) opposes its legalization. Spahn and his husband had their ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Norway: Huge fire destroys 100 homes, sparks evacuations",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/norway-huge-fire-destroys-100-homes-sparks-evacuations/a-78019089?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Firefighters from other areas of Norway were drafted in to help tackle the blaze in the southern city of Drammen...."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-us-attacks-show-trump-s-word-is-utterly-worthless/live-78015388?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Iran has issued a written statement attributed to new Supreme Leader Mojtaba Khamenei. It rebukes the recent US strikes and warns of \"unforgettable le..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine drones target Russian warehouses and oil sites",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-drones-target-russian-warehouses-and-oil-sites/a-78018446?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukrainian drones have struck warehouses, an oil depot and other targets across Russia, killing nine people and injuring over 60 more. Kyiv said its st..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany: CDU's Jens Spahn resigns amid surrogacy controversy",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-cdu-s-jens-spahn-resigns-amid-surrogacy-controversy/a-78019238?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Surrogacy is not permitted in Germany and the conservative Christian Democratic Union (CDU) opposes its legalization. Spahn and his husband had their ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Reproductive medicine laws in Germany 'shockingly unjust'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/reproductive-medicine-laws-in-germany-shockingly-unjust/a-68199876?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Infertility affects one in six women in Germany. However, access to reproductive medicine is not available to all. Surrogacy as well as egg donation a..."
     }
 ]
