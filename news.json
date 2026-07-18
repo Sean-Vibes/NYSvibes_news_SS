@@ -78,16 +78,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kentucky governor says he received 2 calls from agencies indicating McConnell had 'passed'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/6fab87dbb09421e1356899fc2de00627",
-        "link": "https://www.yahoo.com/news/politics/articles/kentucky-governor-says-received-2-171908934.html",
+        "title": "Comedian says she delivered a cake with message mocking Lindsey Graham's family to senator's office",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/9bdccd0878f780a72e89083a469c5f6f",
+        "link": "https://www.yahoo.com/news/politics/articles/comedian-says-she-delivered-cake-140649497.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mysterious Mars moon \u2018monolith\u2019 worth examining, physicist says",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/cd2b7039097bd55c880e29cd0e96668f",
-        "link": "https://www.yahoo.com/news/science/articles/mysterious-mars-moon-monolith-worth-232211459.html",
+        "title": "Kentucky governor says he received 2 calls from agencies indicating McConnell had 'passed'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/6fab87dbb09421e1356899fc2de00627",
+        "link": "https://www.yahoo.com/news/politics/articles/kentucky-governor-says-received-2-171908934.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "JD Vance says attending an event in Los Angeles reminded him of visiting US embassy in 'Third World country'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/a9d663eb4e2658c4600bcef6fe178ca3",
-        "link": "https://www.yahoo.com/news/politics/articles/jd-vance-says-attending-event-225800704.html",
+        "title": "Mysterious Mars moon \u2018monolith\u2019 worth examining, physicist says",
+        "image": "https://media.zenfs.com/en/newsnation_articles_600/cd2b7039097bd55c880e29cd0e96668f",
+        "link": "https://www.yahoo.com/news/science/articles/mysterious-mars-moon-monolith-worth-232211459.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Cuban dissident artist arrives in US after 5 years in prison",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/cuban-dissident-artist-arrives-in-us-after-5-years-in-prison/a-78021940?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Luis Manuel Otero Alcantara, a prominent Cuban artist and dissident, was detained in July 2021 as he attempted to join unprecedented mass protests acr..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/israel-how-real-is-threat-of-gender-segregation-on-street/a-78020879?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "An Israeli city, with a large ultra-Orthodox Jewish population, wants to separate men and women on certain streets. Israeli politicians voted to allow..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran: US attacks show Trump's word is 'utterly worthless'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-us-attacks-show-trump-s-word-is-utterly-worthless/live-78015388?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Iran has issued a written statement attributed to new Supreme Leader Mojtaba Khamenei. It rebukes the recent US strikes and warns of \"unforgettable le..."
     }
 ]
