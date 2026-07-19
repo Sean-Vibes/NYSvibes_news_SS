@@ -85,31 +85,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mysterious Mars moon \u2018monolith\u2019 worth examining, physicist says",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/cd2b7039097bd55c880e29cd0e96668f",
-        "link": "https://www.yahoo.com/news/science/articles/mysterious-mars-moon-monolith-worth-232211459.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "FCC commissioner says Trump call to revoke ABC, NBC licenses is unconstitutional",
-        "image": "https://media.zenfs.com/en/reuters.com/898f95152844200039218f10f1d4a189",
-        "link": "https://www.yahoo.com/news/politics/articles/fcc-commissioner-says-trump-call-182755473.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Democratic strategist James Carville says the late Lindsey Graham's career was 'defined by duplicity'",
         "image": "https://media.zenfs.com/en/fox_news_text_979/7ea0dc0be0fecba0f3ef8015aa8d902e",
         "link": "https://www.yahoo.com/news/politics/articles/democratic-strategist-james-carville-says-182134907.html",
         "summary": "..."
     },
     {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "US strikes Iran's Revolutionary Guard over an attack that killed troops in Jordan",
+        "image": "https://media.zenfs.com/en/ap.org/7c51227956caeec676e49affd4154ee2",
+        "link": "https://www.yahoo.com/news/politics/articles/us-strikes-irans-revolutionary-guard-035202329.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Mysterious Mars moon \u2018monolith\u2019 worth examining, physicist says",
+        "image": "https://media.zenfs.com/en/newsnation_articles_600/cd2b7039097bd55c880e29cd0e96668f",
+        "link": "https://www.yahoo.com/news/science/articles/mysterious-mars-moon-monolith-worth-232211459.html",
+        "summary": "..."
+    },
+    {
         "source": "Deutsche Welle",
-        "title": "Russian ballistic missiles rock Kyiv",
+        "title": "Israel clears way for crocodiles to stop prison breaks",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russian-ballistic-missiles-rock-kyiv/a-78022851?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Fires broke out across the Ukrainian capital after Russia's latest missile attack. Several people have been injured in Kyiv and emergency services are..."
+        "link": "https://www.dw.com/en/israel-clears-way-for-crocodiles-to-stop-prison-breaks/a-78022950?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Israel's environment minister has reclassified crocodiles so that they can now be used for security purposes. Far-right Security Minister Itamar Ben-G..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Russia's largest ballistic assault of war rocks Kyiv",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/russia-s-largest-ballistic-assault-of-war-rocks-kyiv/a-78022851?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Fires broke out across the Ukrainian capital after Russia's latest missile attack, which used the highest number of ballistic missiles of the war so f..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/cuban-dissident-artist-arrives-in-us-after-5-years-in-prison/a-78021940?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Luis Manuel Otero Alcantara, a prominent Cuban artist and dissident, was detained in July 2021 as he attempted to join unprecedented mass protests acr..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hungary's president signs amendment ending his own term",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hungary-s-president-signs-amendment-ending-his-own-term/a-78021311?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "An ally of former PM Viktor Orban has signed a constitutional amendment ending his own term as head of state. Tamas Sulyok criticized the law, while l..."
     }
 ]
