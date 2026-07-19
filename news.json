@@ -78,16 +78,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kentucky governor says he received 2 calls from agencies indicating McConnell had 'passed'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/6fab87dbb09421e1356899fc2de00627",
-        "link": "https://www.yahoo.com/news/politics/articles/kentucky-governor-says-received-2-171908934.html",
+        "title": "Mysterious Mars moon \u2018monolith\u2019 worth examining, physicist says",
+        "image": "https://media.zenfs.com/en/newsnation_articles_600/cd2b7039097bd55c880e29cd0e96668f",
+        "link": "https://www.yahoo.com/news/science/articles/mysterious-mars-moon-monolith-worth-232211459.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mysterious Mars moon \u2018monolith\u2019 worth examining, physicist says",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/cd2b7039097bd55c880e29cd0e96668f",
-        "link": "https://www.yahoo.com/news/science/articles/mysterious-mars-moon-monolith-worth-232211459.html",
+        "title": "Leaked Iran report finds record public anger as regime focuses on holding power",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/4f62d746c4734d95475a07c116c445ae",
+        "link": "https://www.yahoo.com/news/politics/articles/leaked-iran-report-finds-record-150659538.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Comedian says she delivered a cake with message mocking Lindsey Graham's family to senator's office",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/9bdccd0878f780a72e89083a469c5f6f",
-        "link": "https://www.yahoo.com/news/politics/articles/comedian-says-she-delivered-cake-140649497.html",
+        "title": "Kentucky governor says he received 2 calls from agencies indicating McConnell had 'passed'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/6fab87dbb09421e1356899fc2de00627",
+        "link": "https://www.yahoo.com/news/politics/articles/kentucky-governor-says-received-2-171908934.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Andrew Tate, brother arrested in Miami, UK seeks extradition",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/andrew-tate-brother-arrested-in-miami-uk-seeks-extradition/a-78022447?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Andrew and Tristan Tate were taken into custody by the US Marshals Service in Miami on a sealed warrant. The UK has requested their extradition on cha..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-cdu-s-jens-spahn-resigns-amid-surrogacy-controversy/a-78019238?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Surrogacy is not permitted in Germany and the conservative Christian Democratic Union (CDU) opposes its legalization. Spahn and his husband had their ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Norway: Huge fire destroys 100 homes, sparks evacuations",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/norway-huge-fire-destroys-100-homes-sparks-evacuations/a-78019089?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Firefighters from other areas of Norway were drafted in to help tackle the blaze in the southern city of Drammen...."
     }
 ]
