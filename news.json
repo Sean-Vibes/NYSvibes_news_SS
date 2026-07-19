@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Fetterman on Trump election speech: \u2018Do something positive, and you are talking about 2020\u2019",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/ed8ec0c2ca172b0c1399de409ec07a7a",
-        "link": "https://www.yahoo.com/news/politics/articles/fetterman-trump-election-speech-something-160741584.html",
+        "title": "An ICE officer fired at an SUV fleeing a car stop in Pennsylvania. That\u2019s not how it should happen, policing experts say",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/5188488e409feae939677e6efad660a5",
+        "link": "https://www.yahoo.com/news/us/articles/ice-officer-fired-suv-fleeing-100025334.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Spain win World Cup for second time after beating Argentina 1-0",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/spain-win-world-cup-for-second-time-after-beating-argentina-1-0/a-78029285?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After a 16 year wait, Spain have claimed a second men's World Cup. Ferran Torres scored the winner in a deserved 1-0 victory over Argentina, which mea..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/spain-emergency-crews-battle-wildfire-north-of-madrid/a-78026297?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "More than 25 firefighting planes have been deployed to battle the blaze in central Spain, which has been raging for three days...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Fact check: Spotting AI-generated 'historical' images",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fact-check-spotting-ai-generated-historical-images/a-77969109?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "DW Fact check selected three \"historical\" videos that aren't real \u2014 they're AI. Could you recognize the fake? Here's how to spot it \u2014 and why it matte..."
     }
 ]
