@@ -78,9 +78,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Fetterman on Trump election speech: \u2018Do something positive, and you are talking about 2020\u2019",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/ed8ec0c2ca172b0c1399de409ec07a7a",
+        "link": "https://www.yahoo.com/news/politics/articles/fetterman-trump-election-speech-something-160741584.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Mysterious Mars moon \u2018monolith\u2019 worth examining, physicist says",
         "image": "https://media.zenfs.com/en/newsnation_articles_600/cd2b7039097bd55c880e29cd0e96668f",
         "link": "https://www.yahoo.com/news/science/articles/mysterious-mars-moon-monolith-worth-232211459.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "US strikes Iran over troop deaths as Israel warns Tehran's attacks are coming close",
+        "image": "https://media.zenfs.com/en/ap.org/6786c983765b7749b1dd5726fc8dca27",
+        "link": "https://www.yahoo.com/news/politics/articles/us-strikes-irans-revolutionary-guard-035202329.html",
         "summary": "..."
     },
     {
@@ -91,18 +105,11 @@
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "FCC commissioner says Trump call to revoke ABC, NBC licenses is unconstitutional",
-        "image": "https://media.zenfs.com/en/reuters.com/898f95152844200039218f10f1d4a189",
-        "link": "https://www.yahoo.com/news/politics/articles/fcc-commissioner-says-trump-call-182755473.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "An ICE officer fired at an SUV fleeing a car stop in Pennsylvania. That\u2019s not how it should happen, policing experts say",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/5188488e409feae939677e6efad660a5",
-        "link": "https://www.yahoo.com/news/us/articles/ice-officer-fired-suv-fleeing-100025334.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "New Bundesliga TV deal in US prioritizes reach over money",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/new-bundesliga-tv-deal-in-us-prioritizes-reach-over-money/a-77979741?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Bundesliga has a new home on American screens after Germany's top football league left ESPN. The new deal is a sign of the times...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/fact-check-spotting-ai-generated-historical-images/a-77969109?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "DW Fact check selected three \"historical\" videos that aren't real \u2014 they're AI. Could you recognize the fake? Here's how to spot it \u2014 and why it matte..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "EU ban on destroying unsold clothes takes effect",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-ban-on-destroying-unsold-clothes-takes-effect/a-78024888?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Under new rules to reduce waste, large companies across the European Union can no longer dispose of unsold clothes, accessories and footwear...."
     }
 ]
