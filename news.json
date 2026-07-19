@@ -85,24 +85,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Tulsi Gabbard's brother charged after allegedly trying to lure children to Waik\u012bk\u012b hotel room: police",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/c74a4e8a4ad3263f1b6b9ed341fa9065",
+        "link": "https://www.yahoo.com/news/us/articles/tulsi-gabbards-brother-charged-allegedly-032100459.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump shifts his tone on Jimmy Carter while grappling with Iran, inflation and his own legacy",
+        "image": "https://media.zenfs.com/en/ap.org/d8fa77afd31055de871f3684fecb5b02",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-shifts-tone-jimmy-carter-131501080.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Mysterious Mars moon \u2018monolith\u2019 worth examining, physicist says",
         "image": "https://media.zenfs.com/en/newsnation_articles_600/cd2b7039097bd55c880e29cd0e96668f",
         "link": "https://www.yahoo.com/news/science/articles/mysterious-mars-moon-monolith-worth-232211459.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "US strikes Iran's Revolutionary Guard over an attack that killed troops in Jordan",
-        "image": "https://media.zenfs.com/en/ap.org/6786c983765b7749b1dd5726fc8dca27",
-        "link": "https://www.yahoo.com/news/politics/articles/us-strikes-irans-revolutionary-guard-035202329.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Democratic strategist James Carville says the late Lindsey Graham's career was 'defined by duplicity'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/7ea0dc0be0fecba0f3ef8015aa8d902e",
-        "link": "https://www.yahoo.com/news/politics/articles/democratic-strategist-james-carville-says-182134907.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "EU ban on destroying unsold clothes takes effect",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eu-ban-on-destroying-unsold-clothes-takes-effect/a-78024888?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Under new rules to reduce waste, large companies across the European Union can no longer dispose of unsold clothes, accessories and footwear...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/russia-s-largest-ballistic-assault-of-war-rocks-kyiv/a-78022851?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Fires broke out across the Ukrainian capital after Russia's latest missile attack, which used the highest number of ballistic missiles of the war so f..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Andrew Tate, brother arrested in Miami, UK seeks extradition",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/andrew-tate-brother-arrested-in-miami-uk-seeks-extradition/a-78022447?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Andrew and Tristan Tate were taken into custody by the US Marshals Service in Miami on a sealed warrant. The UK has requested their extradition on cha..."
     }
 ]
