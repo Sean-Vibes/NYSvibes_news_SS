@@ -78,13 +78,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Fetterman on Trump election speech: \u2018Do something positive, and you are talking about 2020\u2019",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/ed8ec0c2ca172b0c1399de409ec07a7a",
-        "link": "https://www.yahoo.com/news/politics/articles/fetterman-trump-election-speech-something-160741584.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Mysterious Mars moon \u2018monolith\u2019 worth examining, physicist says",
         "image": "https://media.zenfs.com/en/newsnation_articles_600/cd2b7039097bd55c880e29cd0e96668f",
         "link": "https://www.yahoo.com/news/science/articles/mysterious-mars-moon-monolith-worth-232211459.html",
@@ -92,16 +85,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US announces another troop death as Israel warns Tehran's attacks are coming close",
-        "image": "https://media.zenfs.com/en/ap.org/a2631df47838860a936b96658952e867",
-        "link": "https://www.yahoo.com/news/politics/articles/us-strikes-irans-revolutionary-guard-035202329.html",
+        "title": "Rapp, 26, dies after being hit by car while cycling",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/1d69aec1af02949b24063ee8a5c0d6c7",
+        "link": "https://sports.yahoo.com/articles/rapp-26-dies-being-hit-084056212.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "New flooding emergencies in Texas",
-        "image": "https://media.zenfs.com/en/nbcu_713/01f11dd7078c77fd5e8248a22f709258",
-        "link": "https://www.yahoo.com/news/videos/flooding-emergencies-texas-231042722.html",
+        "title": "Canada to temporarily bar entry for foreigners who have recently been to Congo, against UN advice",
+        "image": "https://media.zenfs.com/en/reuters.com/96ff88f1381e2972b88170df5d19c3ab",
+        "link": "https://www.yahoo.com/news/articles/canada-temporarily-bar-entry-foreigners-155327255.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Fetterman on Trump election speech: \u2018Do something positive, and you are talking about 2020\u2019",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/ed8ec0c2ca172b0c1399de409ec07a7a",
+        "link": "https://www.yahoo.com/news/politics/articles/fetterman-trump-election-speech-something-160741584.html",
         "summary": "..."
     },
     {
