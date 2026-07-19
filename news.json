@@ -78,16 +78,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "California Pizza Kitchen founder says California has become too difficult for entrepreneurs",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/13ba7a37ab76aa0f635a300b332e44f9",
-        "link": "https://finance.yahoo.com/small-business/articles/california-pizza-kitchen-founder-says-120043929.html",
+        "title": "Mysterious Mars moon \u2018monolith\u2019 worth examining, physicist says",
+        "image": "https://media.zenfs.com/en/newsnation_articles_600/cd2b7039097bd55c880e29cd0e96668f",
+        "link": "https://www.yahoo.com/news/science/articles/mysterious-mars-moon-monolith-worth-232211459.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mysterious Mars moon \u2018monolith\u2019 worth examining, physicist says",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/cd2b7039097bd55c880e29cd0e96668f",
-        "link": "https://www.yahoo.com/news/science/articles/mysterious-mars-moon-monolith-worth-232211459.html",
+        "title": "Rapp, 26, dies after being hit by car while cycling",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/1d69aec1af02949b24063ee8a5c0d6c7",
+        "link": "https://sports.yahoo.com/articles/rapp-26-dies-being-hit-084056212.html",
         "summary": "..."
     },
     {
@@ -99,9 +99,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kentucky governor says he received 2 calls from agencies indicating McConnell had 'passed'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/6fab87dbb09421e1356899fc2de00627",
-        "link": "https://www.yahoo.com/news/politics/articles/kentucky-governor-says-received-2-171908934.html",
+        "title": "An ICE officer fired at an SUV fleeing a car stop in Pennsylvania. That\u2019s not how it should happen, policing experts say",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/5188488e409feae939677e6efad660a5",
+        "link": "https://www.yahoo.com/news/us/articles/ice-officer-fired-suv-fleeing-100025334.html",
         "summary": "..."
     },
     {
@@ -110,6 +110,13 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/algeria-seeks-larger-eu-energy-role-amid-regional-tensions/a-78007849?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Algeria and Germany agreed to deepen energy ties during President Abdelmadjid Tebboune's recent visit to Berlin. But Algiers is still grappling with t..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Merz moots Cabinet reshuffle after Spahn exit",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-merz-moots-cabinet-reshuffle-after-spahn-exit/live-78016025?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Chancellor Merz has said he might use the forced resignation of a senior ally as a chance to reshuffle his Cabinet. Meanwhile, a train security guard ..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/eu-ban-on-destroying-unsold-clothes-takes-effect/a-78024888?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Under new rules to reduce waste, large companies across the European Union can no longer dispose of unsold clothes, accessories and footwear...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "China firm seeks damages over state control of British Steel",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/china-firm-seeks-damages-over-state-control-of-british-steel/a-78024119?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The UK government took over British Steel last year to prevent the closure of the country's last primary steelmaking facility. China's Jingye Group, w..."
     }
 ]
