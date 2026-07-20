@@ -71,16 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Federal judge bars Trump administration from using obscure clause to make huge funding cuts",
-        "image": "https://media.zenfs.com/en/ap.org/7596e6b726a1a2b04b18d34a3a3a7010",
-        "link": "https://www.yahoo.com/news/politics/articles/federal-judge-bars-trump-administration-230557644.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mysterious Mars moon \u2018monolith\u2019 worth examining, physicist says",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/cd2b7039097bd55c880e29cd0e96668f",
-        "link": "https://www.yahoo.com/news/science/articles/mysterious-mars-moon-monolith-worth-232211459.html",
+        "title": "Canada to temporarily bar entry for foreigners who have recently been to Congo, against UN advice",
+        "image": "https://media.zenfs.com/en/reuters.com/96ff88f1381e2972b88170df5d19c3ab",
+        "link": "https://www.yahoo.com/news/articles/canada-temporarily-bar-entry-foreigners-155327255.html",
         "summary": "..."
     },
     {
@@ -92,17 +85,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Canada to temporarily bar entry for foreigners who have recently been to Congo, against UN advice",
-        "image": "https://media.zenfs.com/en/reuters.com/96ff88f1381e2972b88170df5d19c3ab",
-        "link": "https://www.yahoo.com/news/articles/canada-temporarily-bar-entry-foreigners-155327255.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "An ICE officer fired at an SUV fleeing a car stop in Pennsylvania. That\u2019s not how it should happen, policing experts say",
         "image": "https://media.zenfs.com/en/cnn_articles_875/5188488e409feae939677e6efad660a5",
         "link": "https://www.yahoo.com/news/us/articles/ice-officer-fired-suv-fleeing-100025334.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Ontario premier says Trump's criticism of Canada's efforts to stop wildfires is 'absolutely unacceptable'",
+        "image": "https://media.zenfs.com/en/reuters.com/c7a2d38fe531bf2682a54b4b49f8bf61",
+        "link": "https://www.yahoo.com/news/articles/canada-prepares-evacuate-ontario-community-132330056.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Kentucky governor says he received 2 calls from agencies indicating McConnell had 'passed'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/6fab87dbb09421e1356899fc2de00627",
+        "link": "https://www.yahoo.com/news/politics/articles/kentucky-governor-says-received-2-171908934.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: US conducts strikes for 9th night in a row",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-us-conducts-strikes-for-9th-night-in-a-row/live-78030432?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US has launched another wave of attacks against Iran, this time reportedly hitting targets in the northwestern city of Tabriz. DW has more...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-merz-moots-cabinet-reshuffle-after-spahn-exit/live-78016025?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Chancellor Merz has said he might use the forced resignation of a senior ally as a chance to reshuffle his Cabinet. Meanwhile, a train security guard ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Spain: Emergency crews battle wildfire north of Madrid",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/spain-emergency-crews-battle-wildfire-north-of-madrid/a-78026297?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "More than 25 firefighting planes have been deployed to battle the blaze in central Spain, which has been raging for three days...."
     }
 ]
