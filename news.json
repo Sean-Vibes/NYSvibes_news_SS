@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ontario premier says Trump's criticism of Canada's efforts to stop wildfires is 'absolutely unacceptable'",
-        "image": "https://media.zenfs.com/en/reuters.com/c7a2d38fe531bf2682a54b4b49f8bf61",
-        "link": "https://www.yahoo.com/news/articles/canada-prepares-evacuate-ontario-community-132330056.html",
+        "title": "U.S. Forest Service employees rescued after being held hostage at gunpoint",
+        "image": "https://media.zenfs.com/en/nbcu_713/600222f60a8a9908c43502ac76f0b84f",
+        "link": "https://www.yahoo.com/news/videos/u-forest-employees-rescued-being-231919331.html",
         "summary": "..."
     },
     {
@@ -106,10 +106,17 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Guyana: Dozens feared dead after ferry capsizes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/guyana-dozens-feared-dead-after-ferry-capsizes/a-78031852?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Rescuers have been able to save 67 passengers so far. It is unknown exactly how many people were on board as authorities said the passengers' list is ..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "India news: 'Cockroaches' take on Modi with parliament march",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-news-cockroaches-take-on-modi-with-parliament-march/live-78030856?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Police have not granted permission for a march to the parliament being organized by India's Cockroach Janta Party movement. Nevetheless, the CJP seems..."
+        "summary": "Police have not granted permission for a march to the parliament being organized by India's Cockroach Janta Party movement. Nevertheless, the CJP and ..."
     },
     {
         "source": "Deutsche Welle",
@@ -120,10 +127,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Spain win World Cup for second time after beating Argentina 1-0",
+        "title": "Spain wins second World Cup after beating Argentina in final",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/spain-win-world-cup-for-second-time-after-beating-argentina-1-0/a-78029285?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After a 16 year wait, Spain have claimed a second men's World Cup. Ferran Torres scored the winner in a deserved 1-0 victory over Argentina, which mea..."
+        "link": "https://www.dw.com/en/spain-wins-second-world-cup-after-beating-argentina-in-final/a-78029285?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After a 16-year wait, Spain has claimed a second men's World Cup. Ferran Torres scored the winner in a deserved 1-0 victory over Argentina, which mean..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/new-bundesliga-tv-deal-in-us-prioritizes-reach-over-money/a-77979741?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Bundesliga has a new home on American screens after Germany's top football league left ESPN. The new deal is a sign of the times...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Algeria seeks larger EU energy role amid regional tensions",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/algeria-seeks-larger-eu-energy-role-amid-regional-tensions/a-78007849?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Algeria and Germany agreed to deepen energy ties during President Abdelmadjid Tebboune's recent visit to Berlin. But Algiers is still grappling with t..."
     }
 ]
