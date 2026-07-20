@@ -78,16 +78,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Rapp, 26, dies after being hit by car while cycling",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/1d69aec1af02949b24063ee8a5c0d6c7",
-        "link": "https://sports.yahoo.com/articles/rapp-26-dies-being-hit-084056212.html",
+        "title": "Tulsi Gabbard's brother charged after allegedly trying to lure children to Waik\u012bk\u012b hotel room: police",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/c74a4e8a4ad3263f1b6b9ed341fa9065",
+        "link": "https://www.yahoo.com/news/us/articles/tulsi-gabbards-brother-charged-allegedly-032100459.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "An ICE officer fired at an SUV fleeing a car stop in Pennsylvania. That\u2019s not how it should happen, policing experts say",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/5188488e409feae939677e6efad660a5",
-        "link": "https://www.yahoo.com/news/us/articles/ice-officer-fired-suv-fleeing-100025334.html",
+        "title": "Rapp, 26, dies after being hit by car while cycling",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/1d69aec1af02949b24063ee8a5c0d6c7",
+        "link": "https://sports.yahoo.com/articles/rapp-26-dies-being-hit-084056212.html",
         "summary": "..."
     },
     {
@@ -99,17 +99,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kentucky governor says he received 2 calls from agencies indicating McConnell had 'passed'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/6fab87dbb09421e1356899fc2de00627",
-        "link": "https://www.yahoo.com/news/politics/articles/kentucky-governor-says-received-2-171908934.html",
+        "title": "Toddler dead after finding gun in a couch, shooting himself: Officials",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/68629d74aa0f87180063782d338fb837",
+        "link": "https://www.yahoo.com/news/us/articles/toddler-dead-finding-gun-couch-144801046.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: 'Cockroaches' take on Modi with parliament march",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-cockroaches-take-on-modi-with-parliament-march/live-78030856?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Police have not granted permission for a march to the parliament being organized by India's Cockroach Janta Party movement. Nevetheless, the CJP seems..."
     },
     {
         "source": "Deutsche Welle",
         "title": "Iran war: US conducts strikes for 9th night in a row",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-us-conducts-strikes-for-9th-night-in-a-row/live-78030432?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US has launched another wave of attacks against Iran, this time reportedly hitting targets in the northwestern city of Tabriz. DW has more...."
+        "summary": "The US launched another wave of attacks against Iran, this time reportedly hitting targets in the northwestern city of Tabriz and elsewhere. DW has mo..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/algeria-seeks-larger-eu-energy-role-amid-regional-tensions/a-78007849?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Algeria and Germany agreed to deepen energy ties during President Abdelmadjid Tebboune's recent visit to Berlin. But Algiers is still grappling with t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Merz moots Cabinet reshuffle after Spahn exit",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-merz-moots-cabinet-reshuffle-after-spahn-exit/live-78016025?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Chancellor Merz has said he might use the forced resignation of a senior ally as a chance to reshuffle his Cabinet. Meanwhile, a train security guard ..."
     }
 ]
