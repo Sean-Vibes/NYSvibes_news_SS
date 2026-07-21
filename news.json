@@ -78,13 +78,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Speaker Mike Johnson wants to ban members of Congress from dating staffers \u2014 even those outside their office",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/bc6b50bf4c5d1163b2566353795b3bd1",
-        "link": "https://www.yahoo.com/news/politics/articles/speaker-mike-johnson-wants-ban-192323807.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Texas real estate agent suspected in nearly 100-stab cold case posted global vacations before arrest",
         "image": "https://media.zenfs.com/en/fox_news_text_979/80d114b5dc5135b6f46457987f324c8c",
         "link": "https://www.yahoo.com/news/us/articles/texas-real-estate-agent-suspected-180443938.html",
@@ -92,9 +85,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US judge blocks Trump administration from stripping immigrants of work permits",
-        "image": "https://media.zenfs.com/en/reuters.com/493e7d0e5caa4bbdfe3612083d79b3c8",
-        "link": "https://www.yahoo.com/news/articles/us-judge-blocks-trump-administration-171805141.html",
+        "title": "Speaker Johnson wants to ban members of Congress from dating staffers full stop",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/bc6b50bf4c5d1163b2566353795b3bd1",
+        "link": "https://www.yahoo.com/news/politics/articles/speaker-mike-johnson-wants-ban-192323807.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "'Interaction' with Iran's injured Supreme Leader increasing daily, president says",
+        "image": "https://media.zenfs.com/en/reuters.com/603a191928398d02f493315a7d46290e",
+        "link": "https://www.yahoo.com/news/world/articles/interaction-irans-injured-supreme-leader-142251550.html",
         "summary": "..."
     },
     {
@@ -106,6 +106,20 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Trump allows direct US flights to Lebanon in historic move",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-allows-direct-us-flights-to-lebanon-in-historic-move/a-78059787?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "It comes over 40 years after the US suspended the direct route with Lebanon. The announcement was made after US President Donald Trump met with Lebane..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Spain: Firefighters battle major wildfire north of Madrid",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/spain-firefighters-battle-major-wildfire-north-of-madrid/a-78059592?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Officials say the blaze, which has forced about 1,200 people to evacuate and has burned at least 30,000 hectares of land, is one of the most complex t..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Ukraine's Zelenskyy fires military chief after days of protests",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukraine-s-zelenskyy-fires-military-chief-after-days-of-protests/a-78059652?maca=en-rss-en-all-1573-xml-mrss",
@@ -113,30 +127,16 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Trump says the United States is 'not finished' with Iran",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-says-the-united-states-is-not-finished-with-iran/live-78042474?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A 10th straight day of hostilities between the United States and Iran across the Middle East overshadowed diplomatic efforts in Pakistan to salvage an..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Jordan faces growing risk of becoming latest frontline state in US-Iran conflict",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/jordan-faces-growing-risk-of-becoming-latest-frontline-state-in-us-iran-conflict/a-78055209?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "As Iranian attacks intensify, Jordan is emerging as the latest frontline state in the widening Middle East conflict. Why is the Hashemite Kingdom a ta..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany records rise in sexual violence against children",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-records-rise-in-sexual-violence-against-children/a-78057669?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany's Criminal Police Office has reported over 17,000 cases of sexual violence against children in the past year. Organizations such as Zartbitter..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ousted Turkey opposition leader  plans to create a new party",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ousted-turkey-opposition-leader-plans-to-create-a-new-party/a-78055366?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Turkey's main opposition CHP faces a potentially historic rupture after months of infighting over its leadership...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Fact check: Trump wasn't edited out of Spain World Cup photo",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fact-check-trump-wasn-t-edited-out-of-spain-world-cup-photo/a-78055221?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After Spain won the FIFA World Cup, the Spanish Football Federation posted a photo of the trophy celebrations, raising questions about whether Donald ..."
     }
 ]
