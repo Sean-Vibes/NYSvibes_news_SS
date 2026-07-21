@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "An excavation in Taiwan searches for remains of Japanese soldiers lost in WWII ship sinking",
-        "image": "https://media.zenfs.com/en/ap.org/fdb3afef8e3dd4e02d7a8c94171dd440",
-        "link": "https://www.yahoo.com/news/world/articles/excavation-taiwan-searches-remains-japanese-121550975.html",
+        "title": "Pamela Smart, serving life, seeks a new trial as a New Hampshire judge weighs her latest petition",
+        "image": "https://media.zenfs.com/en/ap.org/294e5e611adc9ac2c1196c2a8244d89f",
+        "link": "https://www.yahoo.com/news/us/articles/pamela-smart-serving-life-seeks-102414477.html",
         "summary": "..."
     },
     {
@@ -85,24 +85,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Supreme Court to hear from Alaskan bush pilot whose plane was confiscated over a six-pack of beer",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/cb914a7f3c37b74bec7c84cfe4ac1f0b",
-        "link": "https://www.yahoo.com/news/us/articles/supreme-court-hear-alaskan-bush-160950560.html",
+        "title": "Seagrass plants feared dead survived winter",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/96b0e12739af21e601e0266ec4836634",
+        "link": "https://www.yahoo.com/news/science/articles/seagrass-plants-feared-dead-survived-161634047.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Chinese company demands compensation from the UK over British Steel nationalization",
-        "image": "https://media.zenfs.com/en/ap.org/1f4d6db15a6d204ecda27061383102ad",
-        "link": "https://finance.yahoo.com/economy/policy/articles/chinese-company-demands-compensation-uk-071603015.html",
+        "title": "Houthis announce Saudi naval blockade, threatening new front in US-Iran war",
+        "image": "https://media.zenfs.com/en/reuters.com/f1aec07a042049173af88000d2c7d9e4",
+        "link": "https://www.yahoo.com/news/articles/us-launches-iran-strikes-ninth-015151599.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018I want to die broke\u2019: Billionaire philanthropist Denny Sanford dies after giving away $4 billion",
-        "image": "https://media.zenfs.com/en/fortune_175/98ce9455d93fe3fee4aa6873dac86791",
-        "link": "https://finance.yahoo.com/healthcare/articles/want-die-broke-billionaire-philanthropist-132752125.html",
+        "title": "Johnson's strategy to bypass Democrats' SAVE Act blockade survives key vote, handing GOP big win",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/5f81c89549ead424885b30e8655f3d17",
+        "link": "https://www.yahoo.com/news/politics/articles/johnsons-strategy-bypass-democrats-save-000617389.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UK's new PM Andy Burnham cuts household electricity tax",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/uk-s-new-pm-andy-burnham-cuts-household-electricity-tax/a-78043392?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The UK's new leader moved to remove VAT from electricity bills from October 1. The move comes before Burnham chairs his first cabinet meeting later to..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/aliexpress-hit-with-record-eu-fine/a-78040720?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Chinese retailer has become the latest major online marketplace to face penalties under the EU\u2019s Digital Services Act...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "England and Liverpool foortball legend Kevin Keegan dies aged 75",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/england-and-liverpool-foortball-legend-kevin-keegan-dies-aged-75/a-78040105?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "English former striker and manager Kevin Keegan has passed away at the age of 75 after a battle with cancer. He was a two-time European footballer of ..."
     }
 ]
