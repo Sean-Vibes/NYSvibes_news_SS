@@ -1,6 +1,20 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Feds Couldn\u2019t Punish Insurance Companies For Covering Marijuana Businesses Under New Bipartisan Senate Bill",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/feds-couldnt-punish-insurance-companies-for-covering-marijuana-businesses-under-new-bipartisan-senate-bill/",
+        "summary": "<p>A bipartisan pair of U.S. senators have filed a bill to provide a safe harbor to insurance companies that work with state-legal marijuana businesse..."
+    },
+    {
+        "source": "Marijuana Moment",
+        "title": "Kentucky Lawmakers Consider Proposal To Allow Medical Marijuana Use In Hospitals",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/kentucky-lawmakers-consider-proposal-to-allow-medical-marijuana-use-in-hospitals/",
+        "summary": "<p>A Kentucky legislative committee is considering a proposal to allow terminally ill patients to use medical marijuana in hospitals. The legislature&..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Marijuana Helps People Reduce Opioid Consumption And Curbs Withdrawals, Federally Funded Study Finds",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/marijuana-helps-people-reduce-opioid-consumption-and-curbs-withdrawals-federally-funded-study-finds/",
@@ -19,20 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/congress-should-stop-dicking-around-and-legalize-marijuana-fetterman-says/",
         "summary": "<p>Sen. John Fetterman (D-PA) says it&#8217;s time for Congress to &#8220;stop dicking around&#8221; and legalize marijuana already\u2014touting his cospon..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "I Went To DEA\u2019s Marijuana Rescheduling Hearing, And It Was The Strangest Proceeding I\u2019ve Ever Sat Through (Op-Ed)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/i-went-to-deas-marijuana-rescheduling-hearing-and-it-was-the-strangest-proceeding-ive-ever-sat-through-op-ed/",
-        "summary": "<p>&#8220;I wanted to hear what a federal record about this plant sounds like while it is being built. It sounds like a lot of very credentialed peopl..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Massachusetts Officials Reject Challenge To Anti-Marijuana Initiative Signatures, Ruling It Will Appear On November Ballot",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/massachusetts-officials-reject-challenge-to-anti-marijuana-initiative-signatures-ruling-it-will-appear-on-november-ballot/",
-        "summary": "<p>Massachusetts officials have denied a last-ditch attempt to keep an initiative to roll back the state&#8217;s marijuana legalization law from appea..."
     },
     {
         "source": "MJBizDaily",
@@ -71,9 +71,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US military says its latest strikes on Iran have ended, marking 11th successive night of attacks",
-        "image": "https://media.zenfs.com/en/reuters.com/aa2c33402ac1797fd2c504c470f41df6",
-        "link": "https://www.yahoo.com/news/politics/articles/us-military-says-ended-latest-005654993.html",
+        "title": "US judge blocks Trump administration from stripping immigrants of work permits",
+        "image": "https://media.zenfs.com/en/reuters.com/6ad4d8a5cddbd16fc289466f4444c9b7",
+        "link": "https://www.yahoo.com/news/articles/us-judge-blocks-trump-administration-171805141.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "\u2018Hero' mom dies after using last strength to save 4-year-old son from Florida river",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/c47ff8dbd775eac2bb75a758a9257745",
+        "link": "https://www.yahoo.com/news/us/articles/hero-mom-dies-using-last-120027409.html",
         "summary": "..."
     },
     {
@@ -85,16 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "UK humanitarian worker monitored for Ebola in London hospital",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/49f920eb3f1ccad021557953d2ac0234",
-        "link": "https://www.yahoo.com/news/world/articles/uk-humanitarian-worker-monitored-ebola-005240366.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "US judge blocks Trump administration from stripping immigrants of work permits",
-        "image": "https://media.zenfs.com/en/reuters.com/6ad4d8a5cddbd16fc289466f4444c9b7",
-        "link": "https://www.yahoo.com/news/articles/us-judge-blocks-trump-administration-171805141.html",
+        "title": "Trump administration opens investigation into Harvard's financial aid for international students",
+        "image": "https://media.zenfs.com/en/ap.org/94ef3b7f1e04692cec5d5ff1dd6dccc2",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-opens-investigation-harvards-230055307.html",
         "summary": "..."
     },
     {
@@ -106,37 +106,37 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "France: Minister quits over pesticide bill \u2014 but is staying",
+        "title": "Germany: Merz replaces key figure following surrogacy row",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/france-minister-quits-over-pesticide-bill-but-is-staying/a-78064991?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Environment Minister Monique Barbut submitted her resignation in protest over the reintroduction of pesticides that scientists say harm human health a..."
+        "link": "https://www.dw.com/en/germany-merz-replaces-key-figure-following-surrogacy-row/a-78075100?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Thorsten Frei, a close confidant of Chancellor Friedrich Merz, is taking over the role as parliamentary group leader for the conservative CDU/CSU bloc..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany news: Prosecutors search Deutsche Bank headquarters",
+        "title": "Germany's growing interest in Africa: A win for both sides?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-prosecutors-search-deutsche-bank-headquarters/live-78063298?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Officials are reportedly investigating fraudulent tax claims made by the bank's subsidiary Postbank between 2008 and 2010. Meanwhile, the story of Tim..."
+        "link": "https://www.dw.com/en/germany-s-growing-interest-in-africa-a-win-for-both-sides/a-78068049?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany is deepening its footprint across Africa, as Foreign Minister Johann Wadephul embarks on his third trip to the continent in 2026. His top-leve..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Will surge in German business bankruptcies hit growth?",
+        "title": "Female coaches want more representation in African football",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/will-surge-in-german-business-bankruptcies-hit-growth/a-78037755?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Company insolvencies in Germany are rising sharply. Is this a sign of deeper economic weakness, or just a market correction that could ultimately bene..."
+        "link": "https://www.dw.com/en/female-coaches-want-more-representation-in-african-football/a-77951103?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Female head coaches will be a rare sight at the Women\u2019s African Cup of Nations. However, there are some promising signs...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "AI agent went rogue, hacked AI startup Hugging Face: OpenAI",
+        "title": "Iran war: Trump threatens bridges over Hormuz Strait attacks",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ai-agent-went-rogue-hacked-ai-startup-hugging-face-openai/a-78063624?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "OpenAI called it an \"unprecedented cyber incident\" and pledged to support a joint investigation, with enewed attention to the risks of advanced artifi..."
+        "link": "https://www.dw.com/en/iran-war-trump-threatens-bridges-over-hormuz-strait-attacks/live-78060128?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US President Trump has threatened to destroy a \"bridge or power plant\" for each ship fired upon in the Strait of Hormuz. Brent North Sea crude surpass..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Ukraine renews strikes on Russia's largest online retailer",
+        "title": "What's holding up the Gaza stabilization mission?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-renews-strikes-on-russia-s-largest-online-retailer/a-78063598?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukraine's military has again targeted warehouses belonging to Wildberries. The company, which Kyiv says provides logistics for Russia's military, was ..."
+        "link": "https://www.dw.com/en/what-s-holding-up-the-gaza-stabilization-mission/a-78066920?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A multinational stabilization mission is supposed to ensure the reconstruction of Gaza. Without political consensus among Israel, Hamas and the Arab s..."
     }
 ]
