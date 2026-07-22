@@ -78,9 +78,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Texas real estate agent suspected in nearly 100-stab cold case posted global vacations before arrest",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/80d114b5dc5135b6f46457987f324c8c",
-        "link": "https://www.yahoo.com/news/us/articles/texas-real-estate-agent-suspected-180443938.html",
+        "title": "Big cat's paw amputated after two-month adventure",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/64f68d93b7ec1b82597074ef63dcf9ba",
+        "link": "https://www.yahoo.com/news/us/articles/big-cats-paw-amputated-two-132229965.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "House Democrats launch investigation into whether Jeffrey Epstein acted as a foreign agent",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/c6d89f6f5ed75a42e9f6d8319549b31a",
+        "link": "https://www.yahoo.com/news/politics/articles/house-democrats-launch-investigation-whether-090025805.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "US judge blocks Trump administration from stripping immigrants of work permits",
+        "image": "https://media.zenfs.com/en/reuters.com/6ad4d8a5cddbd16fc289466f4444c9b7",
+        "link": "https://www.yahoo.com/news/articles/us-judge-blocks-trump-administration-171805141.html",
         "summary": "..."
     },
     {
@@ -91,18 +105,11 @@
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "'Interaction' with Iran's injured Supreme Leader increasing daily, president says",
-        "image": "https://media.zenfs.com/en/reuters.com/603a191928398d02f493315a7d46290e",
-        "link": "https://www.yahoo.com/news/world/articles/interaction-irans-injured-supreme-leader-142251550.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "House Democrats launch investigation into whether Jeffrey Epstein acted as a foreign agent",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/c6d89f6f5ed75a42e9f6d8319549b31a",
-        "link": "https://www.yahoo.com/news/politics/articles/house-democrats-launch-investigation-whether-090025805.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Hegseth says Iran war has cost $37.5 billion so far",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/hegseth-says-iran-war-has-cost-37-5-billion-so-far/live-78060128?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US Pentagon chief Pete Hegseth is also pushing for more funding for the war. It comes as the US military is striking Iran for the 11th consecutive nig..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/trump-says-the-united-states-is-not-finished-with-iran/live-78042474?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A 10th straight day of hostilities between the United States and Iran across the Middle East overshadowed diplomatic efforts in Pakistan to salvage an..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Jordan faces growing risk of becoming latest frontline state in US-Iran conflict",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/jordan-faces-growing-risk-of-becoming-latest-frontline-state-in-us-iran-conflict/a-78055209?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As Iranian attacks intensify, Jordan is emerging as the latest frontline state in the widening Middle East conflict. Why is the Hashemite Kingdom a ta..."
     }
 ]
