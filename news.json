@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "New Bipartisan Bill In Congress Would Keep Hemp THC Products Legal, With New Taxes And Regulations",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/new-bipartisan-bill-in-congress-would-keep-hemp-thc-products-legal-with-new-taxes-and-regulations/",
+        "summary": "<p>Bipartisan congressional lawmakers have filed a new bill that would allow continued sales of certain hemp-derived THC products, partially scaling b..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Feds Couldn\u2019t Punish Insurance Companies For Covering Marijuana Businesses Under New Bipartisan Senate Bill",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/feds-couldnt-punish-insurance-companies-for-covering-marijuana-businesses-under-new-bipartisan-senate-bill/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/senator-presses-trump-ag-on-cannabis-rescheduling-newsletter-july-22-2026/",
         "summary": "<p>MA anti-marijuana initiative beats ballot challenge; NFL study on cannabis; Fetterman pushes legalization; DEA hearing; NE medical marijuana rules ..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Congress Should \u2018Stop Dicking Around\u2019 And Legalize Marijuana, Fetterman Says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/congress-should-stop-dicking-around-and-legalize-marijuana-fetterman-says/",
-        "summary": "<p>Sen. John Fetterman (D-PA) says it&#8217;s time for Congress to &#8220;stop dicking around&#8221; and legalize marijuana already\u2014touting his cospon..."
     },
     {
         "source": "MJBizDaily",
@@ -78,9 +78,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018Hero' mom dies after using last strength to save 4-year-old son from Florida river",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/c47ff8dbd775eac2bb75a758a9257745",
-        "link": "https://www.yahoo.com/news/us/articles/hero-mom-dies-using-last-120027409.html",
+        "title": "RFK Jr says source of cyclospora outbreak identified, declares parasite outbreak 'under control'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/9816fd0fcb95ba4616874a384d0a9523",
+        "link": "https://www.yahoo.com/news/science/articles/rfk-jr-says-source-cyclospora-203949549.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Hegseth turns tables on Dems as sparks fly during hearing clash: 'I put this on you'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/c3a647a3fd123b0fb8768434faedfcf8",
+        "link": "https://www.yahoo.com/news/politics/articles/hegseth-turns-tables-dems-sparks-103028271.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "A year in a foxhole: Ukrainian soldier survives beneath the front line",
+        "image": "https://media.zenfs.com/en/reuters.com/f84023a4e335c232b6b5f9faa0410f5d",
+        "link": "https://www.yahoo.com/news/articles/foxhole-ukrainian-soldier-survives-beneath-060257721.html",
         "summary": "..."
     },
     {
@@ -91,18 +105,11 @@
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump administration opens investigation into Harvard's financial aid for international students",
-        "image": "https://media.zenfs.com/en/ap.org/94ef3b7f1e04692cec5d5ff1dd6dccc2",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-opens-investigation-harvards-230055307.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Rand Paul releases docs that reveal FBI halted border inspection of virus researcher over Wuhan lab links",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/b871eee2f22344bbf2cb060cad7219de",
-        "link": "https://www.yahoo.com/news/politics/articles/rand-paul-releases-docs-reveal-000740663.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "DW correspondent Alican Uludag released, ordered not to leave Turkey",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/dw-correspondent-alican-uludag-released-ordered-not-to-leave-turkey/a-78075380?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Alican Uludag was freed Wednesday, a day after being taken back into custody on new charges. The arrest had come just two months after he was released..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-trump-threatens-bridges-over-hormuz-strait-attacks/live-78060128?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "US President Trump has threatened to destroy a \"bridge or power plant\" for each ship fired upon in the Strait of Hormuz. Brent North Sea crude surpass..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "What's holding up the Gaza stabilization mission?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/what-s-holding-up-the-gaza-stabilization-mission/a-78066920?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A multinational stabilization mission is supposed to ensure the reconstruction of Gaza. Without political consensus among Israel, Hamas and the Arab s..."
     }
 ]
