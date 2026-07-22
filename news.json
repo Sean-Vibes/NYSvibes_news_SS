@@ -71,16 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Man tossed by Yellowstone bison says hitting the ground was the worst part",
-        "image": "https://media.zenfs.com/en/ap.org/1347fa6d388a643d63bae87c4ddf51c1",
-        "link": "https://www.yahoo.com/news/us/articles/man-tossed-yellowstone-bison-says-200433420.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Big cat's paw amputated after two-month adventure",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/64f68d93b7ec1b82597074ef63dcf9ba",
-        "link": "https://www.yahoo.com/news/us/articles/big-cats-paw-amputated-two-132229965.html",
+        "title": "White House lawyer confirmed to judgeship after bashing Republican senators",
+        "image": "https://media.zenfs.com/en/reuters.com/3c4bb60ae1d06938f98dcfa5e4e7848f",
+        "link": "https://www.yahoo.com/news/politics/articles/white-house-lawyer-confirmed-judgeship-225739899.html",
         "summary": "..."
     },
     {
@@ -92,16 +85,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US judge blocks Trump administration from stripping immigrants of work permits",
-        "image": "https://media.zenfs.com/en/reuters.com/6ad4d8a5cddbd16fc289466f4444c9b7",
-        "link": "https://www.yahoo.com/news/articles/us-judge-blocks-trump-administration-171805141.html",
+        "title": "Rand Paul releases docs that reveal FBI halted border inspection of virus researcher over Wuhan lab links",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/b871eee2f22344bbf2cb060cad7219de",
+        "link": "https://www.yahoo.com/news/politics/articles/rand-paul-releases-docs-reveal-000740663.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Speaker Johnson wants to ban members of Congress from dating staffers full stop",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/bc6b50bf4c5d1163b2566353795b3bd1",
-        "link": "https://www.yahoo.com/news/politics/articles/speaker-mike-johnson-wants-ban-192323807.html",
+        "title": "Trump administration sued by rights groups over attempted childcare funding cuts",
+        "image": "https://media.zenfs.com/en/reuters.com/c9a2ccf472f0f730807e0599a6b60955",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-sued-rights-groups-022502588.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Gunman opens fire in Nevada shooting rampage",
+        "image": "https://media.zenfs.com/en/nbcu_713/7d0287377e03bc0b967cd642e8560e71",
+        "link": "https://www.yahoo.com/news/videos/gunman-opens-fire-nevada-shooting-232315758.html",
         "summary": "..."
     },
     {
@@ -109,7 +109,7 @@
         "title": "Hegseth says Iran war has cost $37.5 billion so far",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/hegseth-says-iran-war-has-cost-37-5-billion-so-far/live-78060128?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US Pentagon chief Pete Hegseth is also pushing for more funding for the war. It comes as the US military is striking Iran for the 11th consecutive nig..."
+        "summary": "US Pentagon chief Pete Hegseth is also pushing for more funding for the war. It comes as the US military struck Iran for the 11th consecutive night. D..."
     },
     {
         "source": "Deutsche Welle",
