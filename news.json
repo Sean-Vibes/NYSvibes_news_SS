@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Marijuana Helps People Reduce Opioid Consumption And Curbs Withdrawals, Federally Funded Study Finds",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/marijuana-helps-people-reduce-opioid-consumption-and-curbs-withdrawals-federally-funded-study-finds/",
+        "summary": "<p>Marijuana can help people reduce use of unregulated opioids and manage withdrawals from those substances, according to a new federally funded study..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Senator presses Trump AG on cannabis rescheduling (Newsletter: July 22, 2026)",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/senator-presses-trump-ag-on-cannabis-rescheduling-newsletter-july-22-2026/",
@@ -28,11 +35,11 @@
         "summary": "<p>Massachusetts officials have denied a last-ditch attempt to keep an initiative to roll back the state&#8217;s marijuana legalization law from appea..."
     },
     {
-        "source": "Marijuana Moment",
-        "title": "Nebraska Medical Marijuana Officials Approve Rules For Business Application And Licensing Fees",
+        "source": "MJBizDaily",
+        "title": "Voice of the Plant: Genetics are the cannabis industry\u2019s greatest asset \u2013 act accordingly",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/nebraska-medical-marijuana-officials-approve-rules-for-business-application-and-licensing-fees/",
-        "summary": "<p>&#8220;Building a new regulatory agency is much like constructing a house.&#8221; By Zach Wendling, Nebraska Examiner The Nebraska Medical Cannabis..."
+        "link": "https://mjbizdaily.com/news/voice-of-the-plant-genetics-are-the-cannabis-industrys-greatest-asset-act-accordingly/617046/",
+        "summary": "<p>Cannabis operators need to adapt strategies to preserve their companies' most irreplaceable asset: their genetics.</p>\n<p><a href=\"https://mjbizdai..."
     },
     {
         "source": "MJBizDaily",
@@ -63,17 +70,10 @@
         "summary": "<p>Oklahoma marijuana authorities haven't yet opened their cannabis testing laboratory. In the meantime, major problems continue to flourish.</p>\n<p><..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Marijuana MSO Cannabist closes Denver cultivation as bankruptcy proceeds",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/marijuana-mso-cannabist-closes-denver-cultivation-as-bankruptcy-proceeds/617013/",
-        "summary": "<p>The Cannabist filed for Chapter 15 bankruptcy protection in Delaware on March 25, facing about $270 million in debt to lenders and the IRS.</p>\n<p>..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Florida GOP lawmaker and governor candidate says AI data center legislation keeps utility costs down",
-        "image": "https://media.zenfs.com/en/ap.org/fa27aac52a920c0e832d330bbebc9fdc",
-        "link": "https://www.yahoo.com/news/politics/articles/florida-gop-lawmaker-governor-candidate-173702469.html",
+        "title": "US military says its latest strikes on Iran have ended, marking 11th successive night of attacks",
+        "image": "https://media.zenfs.com/en/reuters.com/aa2c33402ac1797fd2c504c470f41df6",
+        "link": "https://www.yahoo.com/news/politics/articles/us-military-says-ended-latest-005654993.html",
         "summary": "..."
     },
     {
@@ -85,24 +85,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "UK humanitarian worker monitored for Ebola in London hospital",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/49f920eb3f1ccad021557953d2ac0234",
+        "link": "https://www.yahoo.com/news/world/articles/uk-humanitarian-worker-monitored-ebola-005240366.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "US judge blocks Trump administration from stripping immigrants of work permits",
+        "image": "https://media.zenfs.com/en/reuters.com/6ad4d8a5cddbd16fc289466f4444c9b7",
+        "link": "https://www.yahoo.com/news/articles/us-judge-blocks-trump-administration-171805141.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Rand Paul releases docs that reveal FBI halted border inspection of virus researcher over Wuhan lab links",
         "image": "https://media.zenfs.com/en/fox_news_text_979/b871eee2f22344bbf2cb060cad7219de",
         "link": "https://www.yahoo.com/news/politics/articles/rand-paul-releases-docs-reveal-000740663.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "French mayor taken from his home and placed under protection after drug gang threats",
-        "image": "https://media.zenfs.com/en/reuters.com/6afb8794ec722133e0fc496f7ec2737f",
-        "link": "https://www.yahoo.com/news/articles/french-mayor-taken-home-placed-155050880.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "France: Minister quits over pesticide bill \u2014 but is staying",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/france-minister-quits-over-pesticide-bill-but-is-staying/a-78064991?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Environment Minister Monique Barbut submitted her resignation in protest over the reintroduction of pesticides that scientists say harm human health a..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "RFK Jr says source of cyclospora outbreak identified, declares parasite outbreak 'under control'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/9816fd0fcb95ba4616874a384d0a9523",
-        "link": "https://www.yahoo.com/news/science/articles/rfk-jr-says-source-cyclospora-203949549.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Germany news: Prosecutors search Deutsche Bank headquarters",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-prosecutors-search-deutsche-bank-headquarters/live-78063298?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Officials are reportedly investigating fraudulent tax claims made by the bank's subsidiary Postbank between 2008 and 2010. Meanwhile, the story of Tim..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Will surge in German business bankruptcies hit growth?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/will-surge-in-german-business-bankruptcies-hit-growth/a-78037755?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Company insolvencies in Germany are rising sharply. Is this a sign of deeper economic weakness, or just a market correction that could ultimately bene..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukraine-renews-strikes-on-russia-s-largest-online-retailer/a-78063598?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Ukraine's military has again targeted warehouses belonging to Wildberries. The company, which Kyiv says provides logistics for Russia's military, was ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Police station opens in Hitler's birth house",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/police-station-opens-in-hitler-s-birth-house/a-78039537?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Controversy has surrounded the renovation of the building in Braunau, Austria to this day. The debate points to something larger: the continued need t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Turkey-PKK talks: Is peace finally possible?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/turkey-pkk-talks-is-peace-finally-possible/a-78059048?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "It was a year ago that PKK fighters held a symbolic disarmament ceremony, burning their weapons. Peace talks between the PKK and Turkey are going slow..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: Opposition steps up pressure amid 'Cockroach' protests",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-opposition-steps-up-pressure-amid-cockroach-protests/live-78061306?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "India's opposition MPs are resounding the protesters' demands for the resignation of the education minister. Pradhan has finally addressed the protest..."
     }
 ]
