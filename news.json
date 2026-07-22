@@ -92,17 +92,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump administration sued by rights groups over attempted childcare funding cuts",
-        "image": "https://media.zenfs.com/en/reuters.com/c9a2ccf472f0f730807e0599a6b60955",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-sued-rights-groups-022502588.html",
+        "title": "Trump administration opens investigation into Harvard's financial aid for international students",
+        "image": "https://media.zenfs.com/en/ap.org/94ef3b7f1e04692cec5d5ff1dd6dccc2",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-opens-investigation-harvards-230055307.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Gunman opens fire in Nevada shooting rampage",
-        "image": "https://media.zenfs.com/en/nbcu_713/7d0287377e03bc0b967cd642e8560e71",
-        "link": "https://www.yahoo.com/news/videos/gunman-opens-fire-nevada-shooting-232315758.html",
+        "title": "Speaker Johnson wants to ban members of Congress from dating staffers full stop",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/bc6b50bf4c5d1163b2566353795b3bd1",
+        "link": "https://www.yahoo.com/news/politics/articles/speaker-mike-johnson-wants-ban-192323807.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Can VR help you achieve your goals?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/can-vr-help-you-achieve-your-goals/a-78034288?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A Max Planck researcher has developed VR and smartphone tools that let you \"meet\" your future self. The science behind it is more powerful than it sou..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Chile: Several dead, missing in severe rainstorm",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/chile-several-dead-missing-in-severe-rainstorm/a-78061120?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "President Jose Antonio Kast has declared a state of emergency in the affected areas of the country...."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/spain-firefighters-battle-major-wildfire-north-of-madrid/a-78059592?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Officials say the blaze, which has forced about 1,200 people to evacuate and has burned at least 30,000 hectares of land, is one of the most complex t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine's Zelenskyy fires military chief after days of protests",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-s-zelenskyy-fires-military-chief-after-days-of-protests/a-78059652?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Mass protests in recent days in Kyiv and other Ukrainian cities had called for the removal of commander-in-chief Oleksandr Syrskyi. Volodymyr Zelensky..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump says the United States is 'not finished' with Iran",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-says-the-united-states-is-not-finished-with-iran/live-78042474?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A 10th straight day of hostilities between the United States and Iran across the Middle East overshadowed diplomatic efforts in Pakistan to salvage an..."
     }
 ]
