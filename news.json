@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "Bankrupt marijuana MSO Cannabist breakup continues with New Jersey cultivation closure, retail selloff",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/bankrupt-marijuana-mso-cannabist-breakup-continues-with-new-jersey-cultivation-closure-retail-selloff/617065/",
+        "summary": "<p>Two cannabis cultivation sites in New Jersey operated by The Cannabist Co. will close while another three retailers will be sold to competitor Vire..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "Bipartisan effort to save (and tax) hemp THC products introduced in Congress",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/bipartisan-effort-to-save-and-tax-hemp-thc-products-introduced-in-congress/617062/",
@@ -63,24 +70,17 @@
         "summary": "<p>The pace accelerated from 7.3% growth during the same period a year earlier, but prices are sliding as value brands lead the way.</p>\n<p><a href=\"h..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Oklahoma cannabis operators say new child-safe edibles rules are confusing, unclear",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/oklahoma-cannabis-operators-say-new-child-safe-edibles-rules-are-confusing-unclear/617036/",
-        "summary": "<p>New rules banning packaging for Oklahoma marijuana edibles that's deemed \"attractive to children\" are sowing confusion among cannabis operators, wh..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "AP Exclusive: A boater's photo may be 'the last picture' of group drowned in an Ohio river",
-        "image": "https://media.zenfs.com/en/ap.org/62f8aea7b29992f664bebcc53bf2f927",
-        "link": "https://www.yahoo.com/news/us/articles/last-picture-passing-boaters-photograph-184805133.html",
+        "title": "Exclusive-Iran strikes on CIA facilities prompt questions about possible Russian role",
+        "image": "https://media.zenfs.com/en/reuters.com/a43e5caaa011b96736f7a7d7208d7921",
+        "link": "https://www.yahoo.com/news/politics/articles/exclusive-iran-strikes-cia-facilities-183142753.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former Bernie Sanders official accuses senator of pushing most antisemitic candidates 'in a generation'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/81e8ef7f5b49f54b394b8680c6c1b261",
-        "link": "https://www.yahoo.com/news/politics/articles/former-bernie-sanders-official-accuses-162759820.html",
+        "title": "Mamdani sets internet ablaze with video explaining cave on plan to arrest Netanyahu: 'What a joke'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/d864cff744205c93264a778233b2c9df",
+        "link": "https://www.yahoo.com/news/politics/articles/mamdani-sets-internet-ablaze-video-181642039.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive-Iran strikes on CIA facilities prompt questions about possible Russian role",
-        "image": "https://media.zenfs.com/en/reuters.com/a43e5caaa011b96736f7a7d7208d7921",
-        "link": "https://www.yahoo.com/news/politics/articles/exclusive-iran-strikes-cia-facilities-183142753.html",
+        "title": "AP Exclusive: A boater's photo may be 'the last picture' of group drowned in an Ohio river",
+        "image": "https://media.zenfs.com/en/ap.org/62f8aea7b29992f664bebcc53bf2f927",
+        "link": "https://www.yahoo.com/news/us/articles/last-picture-passing-boaters-photograph-184805133.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/cnn_articles_875/c6d89f6f5ed75a42e9f6d8319549b31a",
         "link": "https://www.yahoo.com/news/politics/articles/house-democrats-launch-investigation-whether-090025805.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US hits Iran as Houthis claim strikes on Saudi tankers",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-hits-iran-as-houthis-claim-strikes-on-saudi-tankers/live-78077811?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US is carrying out its 12th night of strikes on Iran. Meanwhile, Yemen's Houthis are claiming attacks on Saudi oil tankers in the Red Sea. DW has ..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/louvre-s-apollo-gallery-reopens-9-months-after-heist/a-78076701?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The 17th-century Apollo Gallery reopened to the public without precious jewels or other objects previously on display...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Who could be the next UN Secretary-General?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/who-could-be-the-next-un-secretary-general/a-78052763?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "For the first time in a decade, the United Nations will soon choose a new Secretary-General. DW takes a look at the six candidates, what they stand fo..."
     }
 ]
