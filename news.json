@@ -78,23 +78,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mamdani sets internet ablaze with video explaining cave on plan to arrest Netanyahu: 'What a joke'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/d864cff744205c93264a778233b2c9df",
-        "link": "https://www.yahoo.com/news/politics/articles/mamdani-sets-internet-ablaze-video-181642039.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "RFK Jr says source of cyclospora outbreak identified, declares parasite outbreak 'under control'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/9816fd0fcb95ba4616874a384d0a9523",
-        "link": "https://www.yahoo.com/news/science/articles/rfk-jr-says-source-cyclospora-203949549.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "AP Exclusive: A boater's photo may be 'the last picture' of group drowned in an Ohio river",
-        "image": "https://media.zenfs.com/en/ap.org/62f8aea7b29992f664bebcc53bf2f927",
-        "link": "https://www.yahoo.com/news/us/articles/last-picture-passing-boaters-photograph-184805133.html",
+        "title": "Mayor who survived assassination attempt shot dead in town hall",
+        "image": "https://media.zenfs.com/en/cbs_news_897/db64e3d573c1fa53138dcb48b84fd82a",
+        "link": "https://www.yahoo.com/news/us/articles/mayor-survived-assassination-attempt-shot-230730313.html",
         "summary": "..."
     },
     {
@@ -102,6 +88,20 @@
         "title": "House Democrats launch investigation into whether Jeffrey Epstein acted as a foreign agent",
         "image": "https://media.zenfs.com/en/cnn_articles_875/c6d89f6f5ed75a42e9f6d8319549b31a",
         "link": "https://www.yahoo.com/news/politics/articles/house-democrats-launch-investigation-whether-090025805.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Man tossed by Yellowstone bison says hitting the ground was the worst part",
+        "image": "https://media.zenfs.com/en/ap.org/1347fa6d388a643d63bae87c4ddf51c1",
+        "link": "https://www.yahoo.com/news/us/articles/man-tossed-yellowstone-bison-says-200433420.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Children\u2019s fruit pouches recalled over possible presence of plastic",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/649d6bf81bfe21c3be5e87208351bbb8",
+        "link": "https://www.yahoo.com/news/us/articles/children-fruit-pouches-recalled-over-133104373.html",
         "summary": "..."
     },
     {
@@ -113,10 +113,17 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Iran war: Trump threatens bridges over Hormuz Strait attacks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-trump-threatens-bridges-over-hormuz-strait-attacks/live-78060128?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US President Trump has threatened to destroy a \"bridge or power plant\" for each ship fired upon in the Strait of Hormuz. Iran's foreign minister said ..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "US and Saudi Arabia reach historic nuclear energy deal",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-and-saudi-arabia-reach-historic-nuclear-energy-deal/a-78077629?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The deal is another sign of growing US-Saudi ties during US President Donald Trump's second term. It will reportedly allow Saudi Arabia to develop its..."
+        "summary": "The deal is another sign of growing US-Saudi ties during US President Donald Trump's second term. The agreement, known as a 123 Agreement, would allow..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/hungary-ex-pm-orban-pledges-resistance-to-magyar-tyranny/a-78076217?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Hungary's former prime minister alleges that his successor has \"dismantled the rule of law and eliminated checks and balances.\" Peter Magyar has pursu..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Louvre's Apollo Gallery reopens, 9 months after heist",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/louvre-s-apollo-gallery-reopens-9-months-after-heist/a-78076701?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The 17th-century Apollo Gallery reopened to the public without precious jewels or other objects previously on display...."
     }
 ]
