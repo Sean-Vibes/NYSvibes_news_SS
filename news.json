@@ -85,9 +85,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "House Democrats launch investigation into whether Jeffrey Epstein acted as a foreign agent",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/c6d89f6f5ed75a42e9f6d8319549b31a",
-        "link": "https://www.yahoo.com/news/politics/articles/house-democrats-launch-investigation-whether-090025805.html",
+        "title": "Chaos erupts as House passes $1.15T defense bill with Israel provision: 'Stop stoking Jew hatred'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/3c2f74164206a1b8b838dcc639dbbc6d",
+        "link": "https://www.yahoo.com/news/politics/articles/chaos-erupts-house-passes-1-204831043.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Chaos erupts as House passes $1.15T defense bill with Israel provision: 'Stop stoking Jew hatred'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/3c2f74164206a1b8b838dcc639dbbc6d",
-        "link": "https://www.yahoo.com/news/politics/articles/chaos-erupts-house-passes-1-204831043.html",
+        "title": "74-year old aviation mystery finally solved",
+        "image": "https://media.zenfs.com/en/nbcu_713/2b253d54995c2c8789497fe7c6bd1c78",
+        "link": "https://www.yahoo.com/news/videos/74-old-aviation-mystery-finally-224625878.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Europe wildfires prompt evacuations in France, Spain, Italy",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/europe-wildfires-prompt-evacuations-in-france-spain-italy/a-78080171?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Fires are blazing across several European countries as the continent braces for another heat wave. In 2026, wildfires have already burnt more land in ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: FM Wadephul wraps up Africa tour in South Africa",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-fm-wadephul-wraps-up-africa-tour-in-south-africa/live-78079267?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "German Foreign Minister Johann Wadephul's Africa tour ends today in South Africa, Germany's largest trade partner on the continent. Follow DW for the ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Mykhailo Drapatyi: Who is Ukraine's new commander-in-chief?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/mykhailo-drapatyi-who-is-ukraine-s-new-commander-in-chief/a-78077075?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ukraine has a new army chief, with Mykhailo Drapatyi replacing Oleksandr Syrskyi as commander-in-chief. The change follows a cabinet reshuffle that ou..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-modi-orders-fast-track-courts-for-paper-leaks-amid-protests/live-78078283?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "India's PM Narendra Modi has announced speedy trials to punish those involved in paper leaks, without directly commenting on the ongoing student prote..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US hits Iran as Houthis claim strikes on Saudi tankers",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-hits-iran-as-houthis-claim-strikes-on-saudi-tankers/live-78077811?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US is carrying out its 12th night of strikes on Iran. Meanwhile, Yemen's Houthis are claiming attacks on Saudi oil tankers in the Red Sea. DW has ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Trump threatens bridges over Hormuz Strait attacks",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-trump-threatens-bridges-over-hormuz-strait-attacks/live-78060128?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US President Trump has threatened to destroy a \"bridge or power plant\" for each ship fired upon in the Strait of Hormuz. Iran's foreign minister said ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US and Saudi Arabia reach historic nuclear energy deal",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-and-saudi-arabia-reach-historic-nuclear-energy-deal/a-78077629?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The deal is another sign of growing US-Saudi ties during US President Donald Trump's second term. The agreement, known as a 123 Agreement, would allow..."
     }
 ]
