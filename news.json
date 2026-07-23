@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Man tossed by Yellowstone bison says hitting the ground was the worst part",
-        "image": "https://media.zenfs.com/en/ap.org/1347fa6d388a643d63bae87c4ddf51c1",
-        "link": "https://www.yahoo.com/news/us/articles/man-tossed-yellowstone-bison-says-200433420.html",
+        "title": "Exclusive-Iran strikes on CIA facilities prompt questions about possible Russian role",
+        "image": "https://s.yimg.com/uu/api/res/1.2/o5jf48UroIOlEKt8IMD7.w--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/c943cf98-e00b-46bc-b591-a4234a36bfe1/main/1280x720/34s87ms/match/image.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/exclusive-iran-strikes-on-cia-facilities-prompt-questions-about-possible-russian-role-183142753.html",
         "summary": "..."
     },
     {
@@ -85,24 +85,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The American Heart Association has a new number for daily coffee\u2014and a warning if you go over it",
-        "image": "https://media.zenfs.com/en/fortune_175/4739aa49d7c191aed19cb3c8ae3fbf25",
-        "link": "https://health.yahoo.com/conditions/cardiovascular/articles/american-heart-association-number-daily-065900805.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "AP Exclusive: A boater's photo may be 'the last picture' of group drowned in an Ohio river",
-        "image": "https://media.zenfs.com/en/ap.org/775d90410e38ad190f3d1bd525930aab",
-        "link": "https://www.yahoo.com/news/us/articles/last-picture-passing-boaters-photograph-184805133.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "RFK Jr says source of cyclospora outbreak identified, declares parasite outbreak 'under control'",
         "image": "https://media.zenfs.com/en/fox_news_text_979/9816fd0fcb95ba4616874a384d0a9523",
         "link": "https://www.yahoo.com/news/science/articles/rfk-jr-says-source-cyclospora-203949549.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Man tossed by Yellowstone bison says hitting the ground was the worst part",
+        "image": "https://media.zenfs.com/en/ap.org/1347fa6d388a643d63bae87c4ddf51c1",
+        "link": "https://www.yahoo.com/news/us/articles/man-tossed-yellowstone-bison-says-200433420.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Rep. Jim Jordan formally asks DOJ to prosecute Jack Smith",
+        "image": "https://media.zenfs.com/en/nbcu_713/b623e1fa671cf10d4a55f30c7fb729a3",
+        "link": "https://www.yahoo.com/news/videos/rep-jim-jordan-formally-asks-120814443.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Trump administration drops New York Times subpoenas over plane reporting",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-administration-drops-new-york-times-subpoenas-over-plane-reporting/a-78091966?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The White House went after journalists from The New York Times for their reporting on a Qatari-donated Air Force One plane...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Indian activist Sonam Wangchuk ends hunger strike",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/indian-activist-sonam-wangchuk-ends-hunger-strike/a-78076216?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Sonam Wangchuk has broken his hunger strike after 26 days, saying the decision follows a \"long negotiation on various conditions and in view of possib..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany seeks energy and trading partners in Africa",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-seeks-energy-and-trading-partners-in-africa/a-78084153?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany wants to boost relations with Africa. During his trip, German Foreign Minister Johann Wadephul has promoted cooperation on energy, infrastruct..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-threatens-major-military-punishment-for-houthi-attacks/live-78077811?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "President Donald Trump threatened to strike Iran and the Houthi militants over attacks on Saudi tankers. Meanwhile, the UN warned that the situation i..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US-Saudi nuclear deal: How will it impact Middle East, US-Iran war?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-saudi-nuclear-deal-how-will-it-impact-middle-east-us-iran-war/a-78087041?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Critics say the US-Saudi deal could spark a nuclear arms race in the Middle East. It's certainly not making US allies, like Israel and the UAE, happy...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Is Germany investing in the right weapons?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/is-germany-investing-in-the-right-weapons/a-78054394?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany wants to build up its army and pour hundreds of millions of euros into its defenses. But in a world where the battlefield is increasingly domi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US strikes on southern Iran infrastructure widen war",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-strikes-on-southern-iran-infrastructure-widen-war/a-78087402?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The latest US strikes on tunnels, bridges and other infrastructure further inland from the Strait of Hormuz could indicate that Washington is shifting..."
     }
 ]
