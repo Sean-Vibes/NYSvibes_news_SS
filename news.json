@@ -99,10 +99,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Children\u2019s fruit pouches recalled over possible presence of plastic",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/649d6bf81bfe21c3be5e87208351bbb8",
-        "link": "https://www.yahoo.com/news/us/articles/children-fruit-pouches-recalled-over-133104373.html",
+        "title": "Chaos erupts as House passes $1.15T defense bill with Israel provision: 'Stop stoking Jew hatred'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/3c2f74164206a1b8b838dcc639dbbc6d",
+        "link": "https://www.yahoo.com/news/politics/articles/chaos-erupts-house-passes-1-204831043.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Peru: 10 killed in housefire in capital Lima",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/peru-10-killed-in-housefire-in-capital-lima/a-78078367?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The fire was reportedly started by extortionists. Investigators are trying \"to determine the point of origin, the circumstances, and the causes of thi..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India: Modi orders fast-track courts for paper leaks amid protests",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-modi-orders-fast-track-courts-for-paper-leaks-amid-protests/live-78078283?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "India's PM Narendra Modi has announced speedy trials to punish those involved in paper leaks, without directly commenting on the ongoing student prote..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-and-saudi-arabia-reach-historic-nuclear-energy-deal/a-78077629?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The deal is another sign of growing US-Saudi ties during US President Donald Trump's second term. The agreement, known as a 123 Agreement, would allow..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US judge sets Maduro trial date for June 2027",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-judge-sets-maduro-trial-date-for-june-2027/a-78077318?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US prosecutors accuse Maduro of using the power of the Venezuelan state to protect and promote illegal drug smuggling...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hungary: Ex-PM Orban pledges resistance to Magyar 'tyranny'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hungary-ex-pm-orban-pledges-resistance-to-magyar-tyranny/a-78076217?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Hungary's former prime minister alleges that his successor has \"dismantled the rule of law and eliminated checks and balances.\" Peter Magyar has pursu..."
     }
 ]
