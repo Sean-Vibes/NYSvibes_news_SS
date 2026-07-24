@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "Mass layoffs at two California cannabis manufacturers",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/mass-layoffs-at-two-california-cannabis-manufacturers/617114/",
+        "summary": "<p>Most of the affected workers are production technicians, many of whom are represented by United Food and Commercial Workers Local 5.</p>\n<p><a href..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "State fairs are the ideal place for an honest conversation about cannabis",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/state-fairs-are-the-ideal-place-for-an-honest-conversation-about-cannabis/617092/",
@@ -63,17 +70,10 @@
         "summary": "<p>After selling Harvest to Trulieve for $2.1 billion, Jason Vedadi runs Story Cannabis, betting on profit over footprint as rescheduling looms.</p>\n<..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Bankrupt marijuana MSO Cannabist breakup continues with New Jersey cultivation closure, retail selloff",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/bankrupt-marijuana-mso-cannabist-breakup-continues-with-new-jersey-cultivation-closure-retail-selloff/617065/",
-        "summary": "<p>Two cannabis cultivation sites in New Jersey operated by The Cannabist Co. will close while another three retailers will be sold to competitor Vire..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive-Iran strikes on CIA facilities prompt questions about possible Russian role",
-        "image": "https://s.yimg.com/uu/api/res/1.2/o5jf48UroIOlEKt8IMD7.w--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/c943cf98-e00b-46bc-b591-a4234a36bfe1/main/1280x720/34s87ms/match/image.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/exclusive-iran-strikes-on-cia-facilities-prompt-questions-about-possible-russian-role-183142753.html",
+        "title": "Ukraine's ousted defense minister rejects Zelenskyy's offer of a different government role",
+        "image": "https://media.zenfs.com/en/ap.org/501d2e14a318ac4fdea91bb63636aa2a",
+        "link": "https://www.yahoo.com/news/politics/articles/ukraines-ousted-defense-minister-rejects-155739845.html",
         "summary": "..."
     },
     {
@@ -85,24 +85,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Jewish Michigan Democrats admit they will vote Republican if Abdul El-Sayed becomes nominee",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/5c9251ef6ce0e0179eb2c3d9d38bdb11",
-        "link": "https://www.yahoo.com/news/politics/articles/jewish-michigan-democrats-admit-vote-223227462.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "AP Exclusive: A boater's photo may be 'the last picture' of group drowned in an Ohio river",
-        "image": "https://media.zenfs.com/en/ap.org/775d90410e38ad190f3d1bd525930aab",
-        "link": "https://www.yahoo.com/news/us/articles/last-picture-passing-boaters-photograph-184805133.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Megan Rapinoe says efforts to bar trans athletes from women's sports are 'attack on women in society'",
         "image": "https://media.zenfs.com/en/fox_news_text_979/53acc40b3698c66fc8b7987ea606d717",
         "link": "https://www.yahoo.com/news/politics/articles/megan-rapinoe-says-efforts-bar-194910820.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Republican Hilton tells Californians they can hate Trump but still vote for him in governor's race",
+        "image": "https://media.zenfs.com/en/ap.org/5d7bc7629c85641228f214d1574f66a3",
+        "link": "https://www.yahoo.com/news/politics/articles/republican-hilton-tells-californians-hate-232825085.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Inside Costco\u2019s Growing 'Cool Factor' With Younger Shoppers",
+        "image": "https://media.zenfs.com/en/nbcu_713/9b18b6318efb3dae271bc8eb19858d01",
+        "link": "https://www.yahoo.com/news/videos/inside-costco-growing-cool-factor-115147811.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Poland's main opposition collapses over far-right slide",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/poland-s-main-opposition-collapses-over-far-right-slide/a-78106475?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A power struggle within Poland's main opposition force has come to a head. But a move to expel former Prime Minister Mateusz Morawiecki may greatly we..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Trump threatens EU with tariff probe over Google, tech fines",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-threatens-eu-with-tariff-probe-over-google-tech-fines/a-78105954?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US President Donald Trump has said he will initiate a tariff investigation against the EU in response to fines against US tech companies. He cited the..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "ICC members vote to remove Chief Prosecutor Karim Khan amid sexual misconduct allegations",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/icc-members-vote-to-remove-chief-prosecutor-karim-khan-amid-sexual-misconduct-allegations/a-78092577?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Members of the International Criminal Court have reportedly voted to remove Chief Prosecutor Karim Khan from his office amid allegations of sexual mis..."
     },
     {
         "source": "Deutsche Welle",
@@ -113,30 +134,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Yemen's Houthis deny they closed Bab al-Mandeb Strait",
+        "title": "Iran war: Yemen's Houthis deny they closed Bab al-Mandeb Strait",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/yemen-s-houthis-deny-they-closed-bab-al-mandeb-strait/live-78093040?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/iran-war-yemen-s-houthis-deny-they-closed-bab-al-mandeb-strait/live-78093040?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Iran-aligned Houthi militia group instead says it has only established a \"naval blockade\" of Saudi ships in the Red Sea. It comes as the US and Ir..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US floats AI 'kill switch' to stop rogue AI models",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-floats-ai-kill-switch-to-stop-rogue-ai-models/a-78100594?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A rogue AI agent has sent a \"wake-up call\" about the perils of the fast-evolving technology, sparking calls to provide a US government kill switch. Bu..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Europe wildfires: Many flee by boat as fires spread, merge",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/europe-wildfires-many-flee-by-boat-as-fires-spread-merge/a-78104513?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Tens of thousands hopped onto cars and boats to escape southwestern France's wildfires. In the Madrid region, authorities declared a national emergenc..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Niger still seeks stability, after 3 years of military rule",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/niger-still-seeks-stability-after-3-years-of-military-rule/a-78100030?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The military government in Niger had promised social, security and economic improvements when it took power in 2023. Three years down the line, there ..."
     }
 ]
