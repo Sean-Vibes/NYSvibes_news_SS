@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive-Iran strikes on CIA facilities prompt questions about possible Russian role",
-        "image": "https://s.yimg.com/uu/api/res/1.2/o5jf48UroIOlEKt8IMD7.w--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/c943cf98-e00b-46bc-b591-a4234a36bfe1/main/1280x720/34s87ms/match/image.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/exclusive-iran-strikes-on-cia-facilities-prompt-questions-about-possible-russian-role-183142753.html",
+        "title": "AP Exclusive: A boater's photo may be 'the last picture' of group drowned in an Ohio river",
+        "image": "https://media.zenfs.com/en/ap.org/775d90410e38ad190f3d1bd525930aab",
+        "link": "https://www.yahoo.com/news/us/articles/last-picture-passing-boaters-photograph-184805133.html",
         "summary": "..."
     },
     {
@@ -85,24 +85,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Megan Rapinoe says efforts to bar trans athletes from women's sports are 'attack on women in society'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/53acc40b3698c66fc8b7987ea606d717",
+        "link": "https://www.yahoo.com/news/politics/articles/megan-rapinoe-says-efforts-bar-194910820.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Nun speaks out for first time about being detained by ICE while walking to Mass in Texas",
+        "image": "https://media.zenfs.com/en/ap.org/a1be753acece7a190599b89f7d52a09c",
+        "link": "https://www.yahoo.com/news/politics/articles/nun-detained-ice-while-walking-171049759.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Mayor who survived assassination attempt shot dead in town hall",
         "image": "https://media.zenfs.com/en/cbs_news_897/db64e3d573c1fa53138dcb48b84fd82a",
         "link": "https://www.yahoo.com/news/us/articles/mayor-survived-assassination-attempt-shot-230730313.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "AP Exclusive: A boater's photo may be 'the last picture' of group drowned in an Ohio river",
-        "image": "https://media.zenfs.com/en/ap.org/775d90410e38ad190f3d1bd525930aab",
-        "link": "https://www.yahoo.com/news/us/articles/last-picture-passing-boaters-photograph-184805133.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "US launches new strikes on Iran over shipping routes threat",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-launches-new-strikes-on-iran-over-shipping-routes-threat/live-78093040?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US said the latest strikes were aimed at weakening the threat Iran poses to commercial shipping in the Strait of Hormuz. The US has now attacked I..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Megan Rapinoe says efforts to bar trans athletes from women's sports are 'attack on women in society'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/53acc40b3698c66fc8b7987ea606d717",
-        "link": "https://www.yahoo.com/news/politics/articles/megan-rapinoe-says-efforts-bar-194910820.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Wildfires in Europe prompt tens of thousands to evacuate",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/wildfires-in-europe-prompt-tens-of-thousands-to-evacuate/a-78080171?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Spain has declared a national emergency in the Madrid region. In neighboring France, meanwhile, President Emmanuel Macron has invoked the EU's civil p..."
     },
     {
         "source": "Deutsche Welle",
@@ -113,13 +127,6 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Trump administration drops New York Times subpoenas over Air Force One reporting",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-administration-drops-new-york-times-subpoenas-over-air-force-one-reporting/a-78091966?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The White House had targeted journalists from The New York Times for their reporting on security concerns with a Qatari-donated Air Force One plane...."
-    },
-    {
-        "source": "Deutsche Welle",
         "title": "Indian activist Sonam Wangchuk ends hunger strike",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/indian-activist-sonam-wangchuk-ends-hunger-strike/a-78076216?maca=en-rss-en-all-1573-xml-mrss",
@@ -127,16 +134,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany seeks energy and trading partners in Africa",
+        "title": "Trump administration drops New York Times subpoenas over Air Force One reporting",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-seeks-energy-and-trading-partners-in-africa/a-78084153?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany wants to boost relations with Africa. During his trip, German Foreign Minister Johann Wadephul has promoted cooperation on energy, infrastruct..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Sweden eases mining permits to cut China minerals reliance",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/sweden-eases-mining-permits-to-cut-china-minerals-reliance/a-78087394?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Sweden has declared the mining of critical minerals and rare earths a national security interest. This will ease and expedite the permit process. The ..."
+        "link": "https://www.dw.com/en/trump-administration-drops-new-york-times-subpoenas-over-air-force-one-reporting/a-78091966?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The White House had targeted journalists from The New York Times for their reporting on security concerns with a Qatari-donated Air Force One plane...."
     }
 ]
