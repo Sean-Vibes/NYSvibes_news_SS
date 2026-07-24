@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "Report: Illegal cannabis diversion from Canada a growing problem in Europe",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/report-illegal-cannabis-diversion-from-canada-a-growing-problem-in-europe/617118/",
+        "summary": "<p>Cannabis diversion, a problem across the United States, is now keenly felt in Europe, where authorities are blaming Canadian cannabis legalization ..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "Mass layoffs at two California cannabis manufacturers",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/mass-layoffs-at-two-california-cannabis-manufacturers/617114/",
@@ -63,17 +70,10 @@
         "summary": "<p>Georgia's medical cannabis program now tops 40,000 patients, with 4,700 joining since new rules added edibles, vapes and new conditions.</p>\n<p><a ..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "The cannabis CEO behind a $2.1 billion sale bets again, but smaller",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/the-cannabis-ceo-behind-a-2-1-billion-sale-bets-again-but-smaller/617048/",
-        "summary": "<p>After selling Harvest to Trulieve for $2.1 billion, Jason Vedadi runs Story Cannabis, betting on profit over footprint as rescheduling looms.</p>\n<..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukraine's ousted defense minister rejects Zelenskyy's offer of a different government role",
-        "image": "https://media.zenfs.com/en/ap.org/501d2e14a318ac4fdea91bb63636aa2a",
-        "link": "https://www.yahoo.com/news/politics/articles/ukraines-ousted-defense-minister-rejects-155739845.html",
+        "title": "Judge questions difference between Hegseth's testosterone policy and transgender care for troops",
+        "image": "https://media.zenfs.com/en/ap.org/36ad6c69156837785d9be7b75f5b76d0",
+        "link": "https://www.yahoo.com/news/politics/articles/judge-questions-difference-between-hegseths-220920601.html",
         "summary": "..."
     },
     {
@@ -92,17 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Republican Hilton tells Californians they can hate Trump but still vote for him in governor's race",
-        "image": "https://media.zenfs.com/en/ap.org/5d7bc7629c85641228f214d1574f66a3",
-        "link": "https://www.yahoo.com/news/politics/articles/republican-hilton-tells-californians-hate-232825085.html",
+        "title": "Ukraine's ousted defense minister rejects Zelenskyy's offer of a different government role",
+        "image": "https://media.zenfs.com/en/ap.org/501d2e14a318ac4fdea91bb63636aa2a",
+        "link": "https://www.yahoo.com/news/politics/articles/ukraines-ousted-defense-minister-rejects-155739845.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Inside Costco\u2019s Growing 'Cool Factor' With Younger Shoppers",
-        "image": "https://media.zenfs.com/en/nbcu_713/9b18b6318efb3dae271bc8eb19858d01",
-        "link": "https://www.yahoo.com/news/videos/inside-costco-growing-cool-factor-115147811.html",
+        "title": "Morning Bid: Magnificent cash burn",
+        "image": "https://media.zenfs.com/en/reuters.com/6d4a9d5f245e60e3a88bec283b767f54",
+        "link": "https://finance.yahoo.com/news/morning-bid-magnificent-cash-burn-103800517.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "ICC votes to dismiss Chief Prosecutor Karim Khan",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/icc-votes-to-dismiss-chief-prosecutor-karim-khan/a-78092577?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Members of the International Criminal Court have voted to remove Chief Prosecutor Karim Khan amid allegations of sexual misconduct. Khan has denied th..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,13 +124,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/trump-threatens-eu-with-tariff-probe-over-google-tech-fines/a-78105954?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "US President Donald Trump has said he will initiate a tariff investigation against the EU in response to fines against US tech companies. He cited the..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "ICC members vote to remove Chief Prosecutor Karim Khan amid sexual misconduct allegations",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/icc-members-vote-to-remove-chief-prosecutor-karim-khan-amid-sexual-misconduct-allegations/a-78092577?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Members of the International Criminal Court have reportedly voted to remove Chief Prosecutor Karim Khan from his office amid allegations of sexual mis..."
     },
     {
         "source": "Deutsche Welle",
