@@ -71,30 +71,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "AP Exclusive: A boater's photo may be 'the last picture' of group drowned in an Ohio river",
-        "image": "https://media.zenfs.com/en/ap.org/775d90410e38ad190f3d1bd525930aab",
-        "link": "https://www.yahoo.com/news/us/articles/last-picture-passing-boaters-photograph-184805133.html",
+        "title": "Exclusive-Iran strikes on CIA facilities prompt questions about possible Russian role",
+        "image": "https://s.yimg.com/uu/api/res/1.2/o5jf48UroIOlEKt8IMD7.w--~B/aD03MjA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://cf-images.us-east-1.prod.boltdns.net/v1/jit/6415665815001/c943cf98-e00b-46bc-b591-a4234a36bfe1/main/1280x720/34s87ms/match/image.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/exclusive-iran-strikes-on-cia-facilities-prompt-questions-about-possible-russian-role-183142753.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Morning Bid: Magnificent cash burn",
-        "image": "https://media.zenfs.com/en/reuters.com/6d4a9d5f245e60e3a88bec283b767f54",
-        "link": "https://finance.yahoo.com/news/morning-bid-magnificent-cash-burn-103800517.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Colorado Republican unveils bill banning relationships between members and staff without Ethics disclosure",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/09a701b21c4ef57833137cd36ffb80a1",
-        "link": "https://www.yahoo.com/news/politics/articles/colorado-republican-unveils-bill-banning-180256229.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukraine's ousted defense minister rejects Zelenskyy's offer of a different government role",
-        "image": "https://media.zenfs.com/en/ap.org/501d2e14a318ac4fdea91bb63636aa2a",
-        "link": "https://www.yahoo.com/news/politics/articles/ukraines-ousted-defense-minister-rejects-155739845.html",
+        "title": "Mayor who survived assassination attempt shot dead in town hall",
+        "image": "https://media.zenfs.com/en/cbs_news_897/db64e3d573c1fa53138dcb48b84fd82a",
+        "link": "https://www.yahoo.com/news/us/articles/mayor-survived-assassination-attempt-shot-230730313.html",
         "summary": "..."
     },
     {
@@ -103,6 +89,27 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/5c9251ef6ce0e0179eb2c3d9d38bdb11",
         "link": "https://www.yahoo.com/news/politics/articles/jewish-michigan-democrats-admit-vote-223227462.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "AP Exclusive: A boater's photo may be 'the last picture' of group drowned in an Ohio river",
+        "image": "https://media.zenfs.com/en/ap.org/775d90410e38ad190f3d1bd525930aab",
+        "link": "https://www.yahoo.com/news/us/articles/last-picture-passing-boaters-photograph-184805133.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Megan Rapinoe says efforts to bar trans athletes from women's sports are 'attack on women in society'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/53acc40b3698c66fc8b7987ea606d717",
+        "link": "https://www.yahoo.com/news/politics/articles/megan-rapinoe-says-efforts-bar-194910820.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Russia hits drone demonstration near Kyiv, killing 10",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/russia-hits-drone-demonstration-near-kyiv-killing-10/a-78105704?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ukraine says 10 were killed and around 100 injured in the strike, a day after Zelenskyy met with officials from US arms giant Raytheon. Meanwhile, in ..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/niger-still-seeks-stability-after-3-years-of-military-rule/a-78100030?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The military government in Niger had promised social, security and economic improvements when it took power in 2023. Three years down the line, there ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UNESCO adds Lebanese, West Bank sites to endangered list",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/unesco-adds-lebanese-west-bank-sites-to-endangered-list/a-78102475?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Israel has rejected the listing of a Lebanese castle and an occupied West Bank archaeological site. UNESCO added both sites to its World Heritage in D..."
     }
 ]
