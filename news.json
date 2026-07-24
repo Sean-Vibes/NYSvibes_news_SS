@@ -85,16 +85,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Megan Rapinoe says efforts to bar trans athletes from women's sports are 'attack on women in society'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/53acc40b3698c66fc8b7987ea606d717",
-        "link": "https://www.yahoo.com/news/politics/articles/megan-rapinoe-says-efforts-bar-194910820.html",
+        "title": "ECB leaves rates on hold, but keeps door open to further rate hikes",
+        "image": "https://media.zenfs.com/en/reuters.com/ff3bd418b0add8451f9ff394a3c38f19",
+        "link": "https://finance.yahoo.com/economy/policy/articles/ecb-leaves-rates-hold-keeps-125509510.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nun speaks out for first time about being detained by ICE while walking to Mass in Texas",
-        "image": "https://media.zenfs.com/en/ap.org/a1be753acece7a190599b89f7d52a09c",
-        "link": "https://www.yahoo.com/news/politics/articles/nun-detained-ice-while-walking-171049759.html",
+        "title": "Ukraine's ousted defense minister rejects Zelenskyy's offer of a different government role",
+        "image": "https://media.zenfs.com/en/ap.org/501d2e14a318ac4fdea91bb63636aa2a",
+        "link": "https://www.yahoo.com/news/politics/articles/ukraines-ousted-defense-minister-rejects-155739845.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,20 @@
         "image": "https://media.zenfs.com/en/cbs_news_897/db64e3d573c1fa53138dcb48b84fd82a",
         "link": "https://www.yahoo.com/news/us/articles/mayor-survived-assassination-attempt-shot-230730313.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India: Wangchuk ends hunger strike, clears way for government-CJP talks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-wangchuk-ends-hunger-strike-clears-way-for-government-cjp-talks/live-78093329?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Activist Sonam Wangchuk ended his 26-day hunger strike 'in view of possible violence in the country,' paving way for dialogue between Modi's governmen..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany: Friedrich Merz announces Cabinet reshuffle",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-friedrich-merz-announces-cabinet-reshuffle/a-78094538?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Friedrich Merz has announced a cabinet reshuffle that was triggered by the resignation of conservative heavyweight Jens Spahn over a surrogacy controv..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-to-impose-forced-labor-tariffs-on-many-trading-partners/a-78092136?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Trump administration has unveiled new tariffs on dozens of US trading partners for what it says is lax enforcement of \"forced labor\" bans. The new..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Indian activist Sonam Wangchuk ends hunger strike",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/indian-activist-sonam-wangchuk-ends-hunger-strike/a-78076216?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Sonam Wangchuk has ended his hunger strike after 26 days, saying the decision follows a \"long negotiation\" on various conditions and \"in view of possi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump administration drops New York Times subpoenas over Air Force One reporting",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-administration-drops-new-york-times-subpoenas-over-air-force-one-reporting/a-78091966?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The White House had targeted journalists from The New York Times for their reporting on security concerns with a Qatari-donated Air Force One plane...."
     }
 ]
