@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Georgia\u2019s Expanded Medical Marijuana Law Generates Huge Boost In Number Of Registered Patients",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/georgias-expanded-medical-marijuana-law-generates-huge-boost-in-number-of-registered-patients/",
+        "summary": "<p>A new law in Georgia that has expanded access to medical marijuana is enticing a lot more patients to apply for the state&#8217;s program. The legi..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Does White House actually support new hemp bill? (Newsletter: July 24, 2026)",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/does-white-house-actually-support-new-hemp-bill-newsletter-july-24-2026/",
@@ -28,11 +35,11 @@
         "summary": "<p>Nearly one in five cancer survivors say they&#8217;ve used the cannabis component CBD after getting their diagnosis\u2014primarily to manage pain, sleep..."
     },
     {
-        "source": "Marijuana Moment",
-        "title": "Major Alcohol Industry Lobby Backs Bill To Keep Hemp THC Drinks Legal, But It Wants More \u2018Discussion\u2019 On Tax Rate",
+        "source": "MJBizDaily",
+        "title": "State fairs are the ideal place for an honest conversation about cannabis",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/major-alcohol-industry-lobby-backs-bill-to-keep-hemp-thc-drinks-legal-but-it-wants-more-discussion-on-tax-rate/",
-        "summary": "<p>An alcohol industry trade association is endorsing a newly filed bill in Congress that would allow continued sales of certain hemp-derived THC prod..."
+        "link": "https://mjbizdaily.com/news/state-fairs-are-the-ideal-place-for-an-honest-conversation-about-cannabis/617092/",
+        "summary": "<p>For the first time ever, a booth dedicated to advocating for cannabis consumers and the industry that serves them will be at the New York State Fai..."
     },
     {
         "source": "MJBizDaily",
@@ -63,13 +70,6 @@
         "summary": "<p>Two cannabis cultivation sites in New Jersey operated by The Cannabist Co. will close while another three retailers will be sold to competitor Vire..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Bipartisan effort to save (and tax) hemp THC products introduced in Congress",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/bipartisan-effort-to-save-and-tax-hemp-thc-products-introduced-in-congress/617062/",
-        "summary": "<p>A proposal introduced in Congress on Wednesday would regulate and tax hemp THC products under federal law, but the hemp THC ban is still approachin..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "AP Exclusive: A boater's photo may be 'the last picture' of group drowned in an Ohio river",
         "image": "https://media.zenfs.com/en/ap.org/775d90410e38ad190f3d1bd525930aab",
@@ -92,17 +92,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukraine's ousted defense minister rejects Zelenskyy's offer of a different government role",
-        "image": "https://media.zenfs.com/en/ap.org/501d2e14a318ac4fdea91bb63636aa2a",
-        "link": "https://www.yahoo.com/news/politics/articles/ukraines-ousted-defense-minister-rejects-155739845.html",
+        "title": "Judge questions difference between Hegseth's testosterone policy and transgender care for troops",
+        "image": "https://media.zenfs.com/en/ap.org/36ad6c69156837785d9be7b75f5b76d0",
+        "link": "https://www.yahoo.com/news/politics/articles/judge-questions-difference-between-hegseths-220920601.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Africa\u2019s data center growth needs power sector overhaul",
-        "image": "https://media.zenfs.com/en/semafor_310/724fbe26c8dc430e47a109bcde0af6a5",
-        "link": "https://finance.yahoo.com/economy/policy/articles/africa-data-center-growth-needs-102711400.html",
+        "title": "Stock up on These Fall Season Home Essentials up to 80% off",
+        "image": "https://media.zenfs.com/en/nbcu_713/38b4596f01be4ffbaf3e63b6bed88e6a",
+        "link": "https://www.yahoo.com/news/videos/stock-fall-season-home-essentials-125730782.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Turkey: What chances does Ozel's new opposition party have?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/turkey-what-chances-does-ozel-s-new-opposition-party-have/a-78091681?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After being removed as head of Turkey's main opposition CHP in May, Ozgur Ozel has announced the formation of a new party. Dozens of lawmakers have fo..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Why Trump's 'forced labor' tariffs leave the world puzzled",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/why-trump-s-forced-labor-tariffs-leave-the-world-puzzled/a-78093903?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After the US Supreme Court struck down Donald Trump's emergency tariffs, the White House has turned to another trade law linked to alleged human right..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ousted Turkish opposition leader forms second-largest party",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ousted-turkish-opposition-leader-forms-second-largest-party/a-78099282?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "With 90 lawmakers defecting alongside him, Ozgur Ozel's New Party has automatically become the second-largest group in Turkey's parliament. He leaves ..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/how-vanilla-s-history-is-not-so-\u2026-vanilla/a-78035296?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Long before \"vanilla\" meant bland, the bean's fandom spanned Mesoamerican elites to European courts. But it owes its ubiquity to a 12-year-old, enslav..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Klopp named new head coach of Germany men's football team",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/klopp-named-new-head-coach-of-germany-men-s-football-team/a-78095577?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany has turned to J\u00fcrgen Klopp to lead a new era for the four-time world champions after their disappointing World Cup exit, with hopes of buildin..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "J\u00fcrgen Klopp and Germany: A partnership long in the making",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/j\u00fcrgen-klopp-and-germany-a-partnership-long-in-the-making/a-77805100?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In one of the worst-kept secrets in football, the former Dortmund and Liverpool boss has been named head coach of the German men's national team...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany: Friedrich Merz announces Cabinet reshuffle",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-friedrich-merz-announces-cabinet-reshuffle/a-78094538?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Chancellor Friedrich Merz has announced a Cabinet reshuffle in the wake of the resignation of conservative heavyweight Jens Spahn over a surrogacy con..."
     }
 ]
