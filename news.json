@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Does White House actually support new hemp bill? (Newsletter: July 24, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/does-white-house-actually-support-new-hemp-bill-newsletter-july-24-2026/",
+        "summary": "<p>NDAA psychedelic amendments pass; CA treasurer&#8217;s marijuana banking hearing; Alcohol lobby questions cannabis drink tax; Study: CBD for cancer..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "California Treasurer Announces Hearing On Marijuana Business Banking Access Issues",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/california-treasurer-announces-hearing-on-marijuana-business-banking-access-issues/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/major-alcohol-industry-lobby-backs-bill-to-keep-hemp-thc-drinks-legal-but-it-wants-more-discussion-on-tax-rate/",
         "summary": "<p>An alcohol industry trade association is endorsing a newly filed bill in Congress that would allow continued sales of certain hemp-derived THC prod..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "House Passes Psychedelics Amendments To Codify Trump Executive Order And Extend Military Research Program Until 2033",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/house-passes-psychedelics-amendments-to-codify-trump-executive-order-and-extend-military-research-program-until-2033/",
-        "summary": "<p>The U.S. House of Representatives has voted to extend a psychedelics research effort at the Department of Defense (DOD) for an additional six years..."
     },
     {
         "source": "MJBizDaily",
@@ -78,16 +78,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Colorado Republican unveils bill banning relationships between members and staff without Ethics disclosure",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/09a701b21c4ef57833137cd36ffb80a1",
-        "link": "https://www.yahoo.com/news/politics/articles/colorado-republican-unveils-bill-banning-180256229.html",
+        "title": "Morning Bid: Magnificent cash burn",
+        "image": "https://media.zenfs.com/en/reuters.com/6d4a9d5f245e60e3a88bec283b767f54",
+        "link": "https://finance.yahoo.com/news/morning-bid-magnificent-cash-burn-103800517.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "ECB leaves rates on hold, but keeps door open to further rate hikes",
-        "image": "https://media.zenfs.com/en/reuters.com/ff3bd418b0add8451f9ff394a3c38f19",
-        "link": "https://finance.yahoo.com/economy/policy/articles/ecb-leaves-rates-hold-keeps-125509510.html",
+        "title": "Colorado Republican unveils bill banning relationships between members and staff without Ethics disclosure",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/09a701b21c4ef57833137cd36ffb80a1",
+        "link": "https://www.yahoo.com/news/politics/articles/colorado-republican-unveils-bill-banning-180256229.html",
         "summary": "..."
     },
     {
@@ -99,44 +99,44 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mayor who survived assassination attempt shot dead in town hall",
-        "image": "https://media.zenfs.com/en/cbs_news_897/db64e3d573c1fa53138dcb48b84fd82a",
-        "link": "https://www.yahoo.com/news/us/articles/mayor-survived-assassination-attempt-shot-230730313.html",
+        "title": "Africa\u2019s data center growth needs power sector overhaul",
+        "image": "https://media.zenfs.com/en/semafor_310/724fbe26c8dc430e47a109bcde0af6a5",
+        "link": "https://finance.yahoo.com/economy/policy/articles/africa-data-center-growth-needs-102711400.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "India: Wangchuk ends hunger strike, clears way for government-CJP talks",
+        "title": "Fighting wildfires is getting harder \u2014 these tips could help",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-wangchuk-ends-hunger-strike-clears-way-for-government-cjp-talks/live-78093329?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Activist Sonam Wangchuk ended his 26-day hunger strike 'in view of possible violence in the country,' paving way for dialogue between Modi's governmen..."
+        "link": "https://www.dw.com/en/fighting-wildfires-is-getting-harder-these-tips-could-help/a-78091968?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "With Spain declaring a national emergency, France seeking EU assistance and Canada dealing with more than 900 hot spots, wildfires are out of control...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "How vanilla's history is not so \u2026 'vanilla'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/how-vanilla-s-history-is-not-so-\u2026-vanilla/a-78035296?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Long before \"vanilla\" meant bland, the bean's fandom spanned Mesoamerican elites to European courts. But it owes its ubiquity to a 12-year-old, enslav..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Klopp named new head coach of Germany men's football team",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/klopp-named-new-head-coach-of-germany-men-s-football-team/a-78095577?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany has turned to J\u00fcrgen Klopp to lead a new era for the four-time world champions after their disappointing World Cup exit, with hopes of buildin..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "J\u00fcrgen Klopp and Germany: A partnership long in the making",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/j\u00fcrgen-klopp-and-germany-a-partnership-long-in-the-making/a-77805100?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "In one of the worst-kept secrets in football, the former Dortmund and Liverpool boss has been named head coach of the German men's national team...."
     },
     {
         "source": "Deutsche Welle",
         "title": "Germany: Friedrich Merz announces Cabinet reshuffle",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-friedrich-merz-announces-cabinet-reshuffle/a-78094538?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Friedrich Merz has announced a cabinet reshuffle that was triggered by the resignation of conservative heavyweight Jens Spahn over a surrogacy controv..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US launches new strikes on Iran over shipping routes threat",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-launches-new-strikes-on-iran-over-shipping-routes-threat/live-78093040?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US said the latest strikes were aimed at weakening the threat Iran poses to commercial shipping in the Strait of Hormuz. The US has now attacked I..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Wildfires in Europe prompt tens of thousands to evacuate",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/wildfires-in-europe-prompt-tens-of-thousands-to-evacuate/a-78080171?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Spain has declared a national emergency in the Madrid region. In neighboring France, meanwhile, President Emmanuel Macron has invoked the EU's civil p..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US to impose forced labor tariffs on many trading partners",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-to-impose-forced-labor-tariffs-on-many-trading-partners/a-78092136?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Trump administration has unveiled new tariffs on dozens of US trading partners for what it says is lax enforcement of \"forced labor\" bans. The new..."
+        "summary": "Chancellor Friedrich Merz has announced a Cabinet reshuffle in the wake of the resignation of conservative heavyweight Jens Spahn over a surrogacy con..."
     }
 ]
