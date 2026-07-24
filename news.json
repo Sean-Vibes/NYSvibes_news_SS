@@ -99,10 +99,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018Got to be kidding me\u2019: GOP officials pan Trump\u2019s claims of shocking new election threats",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/e23d8b75687cd75d32ceb870498ef39d",
-        "link": "https://www.yahoo.com/news/politics/articles/got-kidding-gop-officials-pan-100027797.html",
+        "title": "Jewish Michigan Democrats admit they will vote Republican if Abdul El-Sayed becomes nominee",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/5c9251ef6ce0e0179eb2c3d9d38bdb11",
+        "link": "https://www.yahoo.com/news/politics/articles/jewish-michigan-democrats-admit-vote-223227462.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Yemen's Houthis deny they closed Bab al-Mandeb Strait",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/yemen-s-houthis-deny-they-closed-bab-al-mandeb-strait/live-78093040?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Iran-aligned Houthi militia group instead says it has only established a \"naval blockade\" of Saudi ships in the Red Sea. It comes as the US and Ir..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US floats AI 'kill switch' to stop rogue AI models",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-floats-ai-kill-switch-to-stop-rogue-ai-models/a-78100594?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A rogue AI agent has sent a \"wake-up call\" about the perils of the fast-evolving technology, sparking calls to provide a US government kill switch. Bu..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Europe wildfires: Many flee by boat as fires spread, merge",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/europe-wildfires-many-flee-by-boat-as-fires-spread-merge/a-78104513?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Tens of thousands hopped onto cars and boats to escape southwestern France's wildfires. In the Madrid region, authorities declared a national emergenc..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Niger still seeks stability, after 3 years of military rule",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/niger-still-seeks-stability-after-3-years-of-military-rule/a-78100030?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The military government in Niger had promised social, security and economic improvements when it took power in 2023. Three years down the line, there ..."
     },
     {
         "source": "Deutsche Welle",
@@ -110,33 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/unesco-adds-lebanese-west-bank-sites-to-endangered-list/a-78102475?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Israel has rejected the listing of a Lebanese castle and an occupied West Bank archaeological site. UNESCO added both sites to its World Heritage in D..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Highs and lows as the Bayreuth Festival Turns 150",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/highs-and-lows-as-the-bayreuth-festival-turns-150/a-78101943?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Bayreuth Festival's 150th anniversary is clouded by controversy surrounding German-Jewish speaker Michel Friedman. Yet it offers an opportunity to cel..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Can Pakistan-administered Kashmir elections calm tensions?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/can-pakistan-administered-kashmir-elections-calm-tensions/a-78101422?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Pakistan-administered Kashmir heads to the polls after weeks of deadly protests over seats reserved for displaced people from India-administered Kashm..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why Iran's Pickaxe Mountain is a tough target for the US",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-iran-s-pickaxe-mountain-is-a-tough-target-for-the-us/a-78100313?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Donald Trump has threatened to attack a suspected Iranian nuclear site buried deep under a mountain. Iran's Pickaxe Mountain remains one of the bigges..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Top court rules out mass admission revocations",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-top-court-rules-out-mass-admission-revocations/live-78101249?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "An Afghan woman has won victory over Germany's Interior Ministry after it cancelled her admission. Elsewhere, consumer confidence and VW profits are d..."
     }
 ]
