@@ -78,9 +78,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "\u2018Got to be kidding me\u2019: GOP officials pan Trump\u2019s claims of shocking new election threats",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/e23d8b75687cd75d32ceb870498ef39d",
+        "link": "https://www.yahoo.com/news/politics/articles/got-kidding-gop-officials-pan-100027797.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Megan Rapinoe says efforts to bar trans athletes from women's sports are 'attack on women in society'",
         "image": "https://media.zenfs.com/en/fox_news_text_979/53acc40b3698c66fc8b7987ea606d717",
         "link": "https://www.yahoo.com/news/politics/articles/megan-rapinoe-says-efforts-bar-194910820.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Sex work or starve: Aid workers in Nepal left jobless by USAID cuts turn to sex work to survive",
+        "image": "https://media.zenfs.com/en/ap.org/0fcaf034e9617145be9c1ee2dbb12e4b",
+        "link": "https://www.yahoo.com/news/world/articles/sex-starve-aid-workers-nepal-042157833.html",
         "summary": "..."
     },
     {
@@ -91,18 +105,32 @@
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Man who killed Minnesota lawmaker Melissa Hortman sentenced to life as family describes trauma, loss",
-        "image": "https://media.zenfs.com/en/ap.org/de75fb2ab6097797af3e40ada44ba543",
-        "link": "https://www.yahoo.com/news/politics/articles/man-pleaded-guilty-killing-top-040307484.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Iran war: Houthis vow response to 'dangerous escalation' by Saudi Arabia",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-houthis-vow-response-to-dangerous-escalation-by-saudi-arabia/live-78107211?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran-backed Houthi rebels in Yemen claim that civilian sites were targeted in Saudi strikes on the Yemeni port city of Hodeida. Saudi Arabia says it h..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018Got to be kidding me\u2019: GOP officials pan Trump\u2019s claims of shocking new election threats",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/e23d8b75687cd75d32ceb870498ef39d",
-        "link": "https://www.yahoo.com/news/politics/articles/got-kidding-gop-officials-pan-100027797.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Trump addresses rescheduled White House Correspondents' Dinner",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-addresses-rescheduled-white-house-correspondents-dinner/a-78107209?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The event was originally scheduled for April but was disrupted by the alleged attempted assassination of Donald Trump. His hourlong speech combined jo..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Starship completes 1st test flight since SpaceX IPO",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/starship-completes-1st-test-flight-since-spacex-ipo/a-78107347?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Starship splashed down in the Indian Ocean to complete its 13th test flight and its first since Elon Musk's SpaceX went public in June...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Saudi-led coalition attacks Yemen's Hodeida port city",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-saudi-led-coalition-attacks-yemen-s-hodeida-port-city/live-78093040?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The strikes come after the Iran-backed Houthis attacked several Saudi oil tankers in the Red Sea in recent days. The escalation comes as the US and Ir..."
     },
     {
         "source": "Deutsche Welle",
@@ -110,33 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/paramount-agrees-to-delay-warner-bros-merger-amid-lawsuit/a-78107061?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Paramount has agreed to freeze its merger with Warner Bros. Discovery until as late as June 2027. Twelve states have argued that the deal would create..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "ICC votes to dismiss Chief Prosecutor Karim Khan",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/icc-votes-to-dismiss-chief-prosecutor-karim-khan/a-78092577?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Members of the International Criminal Court have voted to remove Chief Prosecutor Karim Khan amid allegations of sexual misconduct. Khan has denied th..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Poland's main opposition collapses over far-right slide",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/poland-s-main-opposition-collapses-over-far-right-slide/a-78106475?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A power struggle within Poland's main opposition force has come to a head. But a move to expel former Prime Minister Mateusz Morawiecki may greatly we..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump threatens EU with tariff probe over Google, tech fines",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-threatens-eu-with-tariff-probe-over-google-tech-fines/a-78105954?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US President Donald Trump has said he will initiate a tariff investigation against the EU in response to fines against US tech companies. He cited the..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia hits drone demonstration near Kyiv, killing 10",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-hits-drone-demonstration-near-kyiv-killing-10/a-78105704?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukraine says 10 were killed and around 100 injured in the strike, a day after Zelenskyy met with officials from US arms giant Raytheon. Meanwhile, in ..."
     }
 ]
