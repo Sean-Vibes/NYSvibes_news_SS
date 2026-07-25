@@ -92,17 +92,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nearly 150,000 mail ballots rejected in California's primary despite efforts to count every vote",
-        "image": "https://media.zenfs.com/en/ap.org/1cce0cebfecdc376b7280b8d0e55109c",
-        "link": "https://www.yahoo.com/news/politics/articles/nearly-150-000-mail-ballots-230649577.html",
+        "title": "SpaceX launches Starship on another test flight, this time with the most advanced Starlinks",
+        "image": "https://media.zenfs.com/en/ap.org/08b4e153d485e5fc9e25050bafd61b56",
+        "link": "https://www.yahoo.com/news/science/articles/spacex-launches-starship-another-test-225205679.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Jewish Michigan Democrats admit they will vote Republican if Abdul El-Sayed becomes nominee",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/5c9251ef6ce0e0179eb2c3d9d38bdb11",
-        "link": "https://www.yahoo.com/news/politics/articles/jewish-michigan-democrats-admit-vote-223227462.html",
+        "title": "Stabbings near New York City\u2019s Central Park",
+        "image": "https://media.zenfs.com/en/nbcu_713/e64299ae021bbd0e39a5aafa563fbca8",
+        "link": "https://www.yahoo.com/news/videos/stabbings-near-york-city-central-230524350.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Flavio Bolsonaro gets party nod to run against Brazil's Lula",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/flavio-bolsonaro-gets-party-nod-to-run-against-brazil-s-lula/a-78115503?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Flavio Bolsonaro won support from Argentine President Javier Milei and Israeli Prime Minister Benjamin Netanyahu, though tariffs imposed by Donald Tru..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Serbia's LGBTQ+ community faces 'epidemic of violence'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/serbia-s-lgbtq-community-faces-epidemic-of-violence/a-78114343?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Documented cases of violence against LGBTQ+ people in Serbia have never been higher. The attacks are part of a larger shift in society targeting margi..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Europe wildfires rage on, forcing more than 250,000 from homes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/europe-wildfires-rage-on-forcing-more-than-250-000-from-homes/a-78109406?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "From the outskirts of Bordeaux to communities near Madrid, fast-moving wildfires in France and Spain are driving mass evacuations, destroying homes, a..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Lenacapavir will slow HIV infections if there's enough of it and it reaches at-risk groups",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/lenacapavir-will-slow-hiv-infections-if-there-s-enough-of-it-and-it-reaches-at-risk-groups/a-78075943?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Lenacapavir is one injection, twice a year. It's a big improvement for people in high-risk groups, currently taking a pill a day against HIV infection..."
     },
     {
         "source": "Deutsche Welle",
@@ -110,33 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/tour-de-france-final-stage-shortened-due-to-wildfires/a-78114336?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Security personnel assigned to the race have been redeployed to help contain major blazes near Bordeaux, reducing Sunday's final stage...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Dozens dead after buses collide in eastern Syria",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/dozens-dead-after-buses-collide-in-eastern-syria/a-78113913?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The crash on a route notorious for deadly accidents prompted a large-scale rescue operation...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Industry hemorrhaging 15,000 jobs a month",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-industry-hemorrhaging-15-000-jobs-a-month/live-78101249?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Industry boss Tanja G\u00f6nner says the situation is critical but offers opportunity. Meanwhile, politicians head to the Bayreuth Festival and security se..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Could 'mesh networks' help overcome authoritarians' internet blocks?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/could-mesh-networks-help-overcome-authoritarians-internet-blocks/a-78055915?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In authoritarian countries, the state is often either monitoring online communications or has the ability to shut them down in a political crisis. But..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Niger still seeking stability after 3 years of military rule",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/niger-still-seeking-stability-after-3-years-of-military-rule/a-78100030?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The military government in Niger promised social, security, and economic improvements when it took power in 2023. Three years down the line, there are..."
     }
 ]
