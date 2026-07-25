@@ -78,13 +78,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Morning Bid: Magnificent cash burn",
-        "image": "https://media.zenfs.com/en/reuters.com/6d4a9d5f245e60e3a88bec283b767f54",
-        "link": "https://finance.yahoo.com/news/morning-bid-magnificent-cash-burn-103800517.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "\u2018Got to be kidding me\u2019: GOP officials pan Trump\u2019s claims of shocking new election threats",
         "image": "https://media.zenfs.com/en/cnn_articles_875/e23d8b75687cd75d32ceb870498ef39d",
         "link": "https://www.yahoo.com/news/politics/articles/got-kidding-gop-officials-pan-100027797.html",
@@ -92,24 +85,52 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nun speaks out for first time about being detained by ICE while walking to Mass in Texas",
-        "image": "https://media.zenfs.com/en/ap.org/a1be753acece7a190599b89f7d52a09c",
-        "link": "https://www.yahoo.com/news/politics/articles/nun-detained-ice-while-walking-171049759.html",
+        "title": "Megan Rapinoe says efforts to bar trans athletes from women's sports are 'attack on women in society'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/53acc40b3698c66fc8b7987ea606d717",
+        "link": "https://www.yahoo.com/news/politics/articles/megan-rapinoe-says-efforts-bar-194910820.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Protests Erupt After Fatal Police Shooting of Man in Wisconsin",
-        "image": "https://media.zenfs.com/en/nbcu_713/ef203b0cf90659d3d9825a657d15971d",
-        "link": "https://www.yahoo.com/news/videos/protests-erupt-fatal-police-shooting-114431174.html",
+        "title": "Nearly 150,000 mail ballots rejected in California's primary despite efforts to count every vote",
+        "image": "https://media.zenfs.com/en/ap.org/1cce0cebfecdc376b7280b8d0e55109c",
+        "link": "https://www.yahoo.com/news/politics/articles/nearly-150-000-mail-ballots-230649577.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Jewish Michigan Democrats admit they will vote Republican if Abdul El-Sayed becomes nominee",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/5c9251ef6ce0e0179eb2c3d9d38bdb11",
+        "link": "https://www.yahoo.com/news/politics/articles/jewish-michigan-democrats-admit-vote-223227462.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "India: CJP-Government to return to talks as protests grow",
+        "title": "Niger still seeking stability after 3 years of military rule",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-cjp-government-to-return-to-talks-as-protests-grow/live-78108089?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Cockroack Janta Party-led protests are likely to swell in size over the weekend as office-goers join in. Meanwhile, a second round of talks with t..."
+        "link": "https://www.dw.com/en/niger-still-seeking-stability-after-3-years-of-military-rule/a-78100030?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The military government in Niger promised social, security, and economic improvements when it took power in 2023. Three years down the line, there are..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Europe wildfires rage on, forcing 200,000 from homes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/europe-wildfires-rage-on-forcing-200-000-from-homes/a-78109406?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Hot, arid weather and strong winds have continued to fuel wildfires in France, Spain and Italy, devastating huge swaths of land and forcing mass evacu..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Eco wins: Cities, creatures, and tech are saving the day",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eco-wins-cities-creatures-and-tech-are-saving-the-day/a-78097358?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "From an AI-powered cute little pangolin, heat mapping to cool down cities and animals reducing wildfire risks by doing their thing, these real-world c..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India's Education Minister Dharmendra Pradhan announces resignation amid growing protests",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-s-education-minister-dharmendra-pradhan-announces-resignation-amid-growing-protests/live-78108089?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Dharmendra Pradhan announced he was resigning from his post amid growing protests led by the Cockroach Janta Party. DW has more...."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-houthis-vow-response-to-dangerous-escalation-by-saudi-arabia/live-78107211?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Iran-backed Houthi rebels in Yemen claim that civilian sites were targeted in Saudi strikes on the Yemeni port city of Hodeida. Saudi Arabia says it h..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump addresses rescheduled White House Correspondents' Dinner",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-addresses-rescheduled-white-house-correspondents-dinner/a-78107209?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The event was originally scheduled for April but was disrupted by the alleged attempted assassination of Donald Trump. His hourlong speech combined jo..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Starship completes 1st test flight since SpaceX IPO",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/starship-completes-1st-test-flight-since-spacex-ipo/a-78107347?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Starship splashed down in the Indian Ocean to complete its 13th test flight and its first since Elon Musk's SpaceX went public in June...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Saudi-led coalition attacks Yemen's Hodeida port city",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-saudi-led-coalition-attacks-yemen-s-hodeida-port-city/live-78093040?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The strikes come after the Iran-backed Houthis attacked several Saudi oil tankers in the Red Sea in recent days. The escalation comes as the US and Ir..."
     }
 ]
