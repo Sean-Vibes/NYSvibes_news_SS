@@ -78,23 +78,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018Got to be kidding me\u2019: GOP officials pan Trump\u2019s claims of shocking new election threats",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/e23d8b75687cd75d32ceb870498ef39d",
-        "link": "https://www.yahoo.com/news/politics/articles/got-kidding-gop-officials-pan-100027797.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Megan Rapinoe says efforts to bar trans athletes from women's sports are 'attack on women in society'",
         "image": "https://media.zenfs.com/en/fox_news_text_979/53acc40b3698c66fc8b7987ea606d717",
         "link": "https://www.yahoo.com/news/politics/articles/megan-rapinoe-says-efforts-bar-194910820.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nearly 150,000 mail ballots rejected in California's primary despite efforts to count every vote",
-        "image": "https://media.zenfs.com/en/ap.org/1cce0cebfecdc376b7280b8d0e55109c",
-        "link": "https://www.yahoo.com/news/politics/articles/nearly-150-000-mail-ballots-230649577.html",
         "summary": "..."
     },
     {
@@ -103,6 +89,34 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/5c9251ef6ce0e0179eb2c3d9d38bdb11",
         "link": "https://www.yahoo.com/news/politics/articles/jewish-michigan-democrats-admit-vote-223227462.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Spain's Zapatero says seized jewels worth $1.5 million were a 'courtesy gift'",
+        "image": "https://media.zenfs.com/en/reuters.com/477a5e15870ee38d6ea1bc101065fafc",
+        "link": "https://www.yahoo.com/news/politics/articles/spains-zapatero-says-seized-jewels-134708812.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "ICE arrests Southwest Airlines flight attendant in Nashville for allegedly overstaying visa since 2021",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/039cd56424e773114e052b834a945ca5",
+        "link": "https://www.yahoo.com/news/politics/articles/ice-arrests-southwest-airlines-flight-214028580.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Industry hemorrhaging 15,000 jobs a month",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-industry-hemorrhaging-15-000-jobs-a-month/live-78101249?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Industry boss Tanja G\u00f6nner says the situation is critical but offers opportunity. Meanwhile, politicians head to the Bayreuth Festival and security se..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Could 'mesh networks' help overcome authoritarians' internet blocks?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/could-mesh-networks-help-overcome-authoritarians-internet-blocks/a-78055915?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "In authoritarian countries, the state is often either monitoring online communications or has the ability to shut them down in a political crisis. But..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/eco-wins-cities-creatures-and-tech-are-saving-the-day/a-78097358?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "From an AI-powered cute little pangolin, heat mapping to cool down cities and animals reducing wildfire risks by doing their thing, these real-world c..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India's Education Minister Dharmendra Pradhan announces resignation amid growing protests",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-s-education-minister-dharmendra-pradhan-announces-resignation-amid-growing-protests/live-78108089?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Dharmendra Pradhan announced he was resigning from his post amid growing protests led by the Cockroach Janta Party. DW has more...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Houthis vow response to 'dangerous escalation' by Saudi Arabia",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-houthis-vow-response-to-dangerous-escalation-by-saudi-arabia/live-78107211?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Iran-backed Houthi rebels in Yemen claim that civilian sites were targeted in Saudi strikes on the Yemeni port city of Hodeida. Saudi Arabia says it h..."
     }
 ]
