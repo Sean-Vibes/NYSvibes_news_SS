@@ -71,30 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Poultry firm recalls nearly 1.6 million dozen eggs over potential salmonella, US FDA says",
-        "image": "https://media.zenfs.com/en/reuters.com/3a46441816fbcad7bb706673abba38e2",
-        "link": "https://www.yahoo.com/news/us/articles/poultry-firm-recalls-nearly-1-061527130.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Jewish Michigan Democrats admit they will vote Republican if Abdul El-Sayed becomes nominee",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/5c9251ef6ce0e0179eb2c3d9d38bdb11",
-        "link": "https://www.yahoo.com/news/politics/articles/jewish-michigan-democrats-admit-vote-223227462.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mitch McConnell\u2019s hometown paper publishes scathing \u2018pre-obituary\u2019",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/dd45ea3d25583de4c86d452a9b621fa9",
-        "link": "https://www.yahoo.com/news/politics/articles/mitch-mcconnell-hometown-paper-publishes-222718735.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nearly 150,000 mail ballots rejected in California's primary despite efforts to count every vote",
-        "image": "https://media.zenfs.com/en/ap.org/1cce0cebfecdc376b7280b8d0e55109c",
-        "link": "https://www.yahoo.com/news/politics/articles/nearly-150-000-mail-ballots-230649577.html",
+        "title": "SpaceX launches Starship on another test flight, this time with the most advanced Starlinks",
+        "image": "https://media.zenfs.com/en/ap.org/08b4e153d485e5fc9e25050bafd61b56",
+        "link": "https://www.yahoo.com/news/science/articles/spacex-launches-starship-another-test-225205679.html",
         "summary": "..."
     },
     {
@@ -105,11 +84,32 @@
         "summary": "..."
     },
     {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Karoline Leavitt says Trump\u2019s \u2018patience is running out\u2019 with key GOP leader",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/0d2b80e2d0a076864be1d2f0d454c4dd",
+        "link": "https://www.yahoo.com/news/politics/articles/thune-white-house-trade-jabs-035909906.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "China\u2019s memory chip makers ride AI boom to new power \u2014 and U.S. scrutiny",
+        "image": "https://media.zenfs.com/en/reuters.com/a3818a3823bb0d41162dd399bdc5ee87",
+        "link": "https://finance.yahoo.com/technology/articles/china-memory-chip-makers-ride-050347685.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Joe Manchin reenters the political orbit with a new independent experiment",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/9327ff74f89b3bde0040767ce3aef723",
+        "link": "https://www.yahoo.com/news/politics/articles/joe-manchin-reenters-political-orbit-090025223.html",
+        "summary": "..."
+    },
+    {
         "source": "Deutsche Welle",
-        "title": "Berlin pride event canceled after vehicle drives into crowd",
+        "title": "Berlin: 1 dead, 15 injured after vehicle drives into CSD Pride event",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/berlin-pride-event-canceled-after-vehicle-drives-into-crowd/a-78116146?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Police launched a manhunt after a vehicle struck several people near Berlin's Tiergarten on Saturday night during Pride celebrations, known locally as..."
+        "link": "https://www.dw.com/en/berlin-1-dead-15-injured-after-vehicle-drives-into-csd-pride-event/a-78116146?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Police said around 15 people were injured, some seriously, after a white van struck several people in central Berlin during Pride celebrations, known ..."
     },
     {
         "source": "Deutsche Welle",
