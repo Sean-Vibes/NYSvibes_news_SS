@@ -78,13 +78,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Megan Rapinoe says efforts to bar trans athletes from women's sports are 'attack on women in society'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/53acc40b3698c66fc8b7987ea606d717",
-        "link": "https://www.yahoo.com/news/politics/articles/megan-rapinoe-says-efforts-bar-194910820.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "ICE arrests Southwest Airlines flight attendant in Nashville for allegedly overstaying visa since 2021",
         "image": "https://media.zenfs.com/en/fox_news_text_979/039cd56424e773114e052b834a945ca5",
         "link": "https://www.yahoo.com/news/politics/articles/ice-arrests-southwest-airlines-flight-214028580.html",
@@ -92,17 +85,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "SpaceX launches Starship on another test flight, this time with the most advanced Starlinks",
-        "image": "https://media.zenfs.com/en/ap.org/08b4e153d485e5fc9e25050bafd61b56",
-        "link": "https://www.yahoo.com/news/science/articles/spacex-launches-starship-another-test-225205679.html",
+        "title": "Jewish Michigan Democrats admit they will vote Republican if Abdul El-Sayed becomes nominee",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/5c9251ef6ce0e0179eb2c3d9d38bdb11",
+        "link": "https://www.yahoo.com/news/politics/articles/jewish-michigan-democrats-admit-vote-223227462.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Stabbings near New York City\u2019s Central Park",
-        "image": "https://media.zenfs.com/en/nbcu_713/e64299ae021bbd0e39a5aafa563fbca8",
-        "link": "https://www.yahoo.com/news/videos/stabbings-near-york-city-central-230524350.html",
+        "title": "Prime Minister Carney says Canada is ready to respond if Trump's new tariffs go into effect",
+        "image": "https://media.zenfs.com/en/ap.org/31c772102a4113e4bb11f313ff11694e",
+        "link": "https://www.yahoo.com/news/politics/articles/prime-minister-carney-says-canada-220611565.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Mitch McConnell\u2019s hometown paper publishes scathing \u2018pre-obituary\u2019",
+        "image": "https://media.zenfs.com/en/newsnation_articles_600/dd45ea3d25583de4c86d452a9b621fa9",
+        "link": "https://www.yahoo.com/news/politics/articles/mitch-mcconnell-hometown-paper-publishes-222718735.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Berlin cancels CSD Pride parade after police incident",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/berlin-cancels-csd-pride-parade-after-police-incident/a-78116146?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The parade began on Saturday but was scheduled to resume for a second day on Sunday...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "WAFCON 2026: What you need to know",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/wafcon-2026-what-you-need-to-know/a-77956787?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Several months after it was supposed to start and with more teams than first planned, WAFCON 2026 is finally set to begin. The hosts want a maiden tit..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/europe-wildfires-rage-on-forcing-more-than-250-000-from-homes/a-78109406?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "From the outskirts of Bordeaux to communities near Madrid, fast-moving wildfires in France and Spain are driving mass evacuations, destroying homes, a..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Lenacapavir will slow HIV infections if there's enough of it and it reaches at-risk groups",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/lenacapavir-will-slow-hiv-infections-if-there-s-enough-of-it-and-it-reaches-at-risk-groups/a-78075943?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Lenacapavir is one injection, twice a year. It's a big improvement for people in high-risk groups, currently taking a pill a day against HIV infection..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Tour de France final stage shortened due to wildfires",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/tour-de-france-final-stage-shortened-due-to-wildfires/a-78114336?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Security personnel assigned to the race have been redeployed to help contain major blazes near Bordeaux, reducing Sunday's final stage...."
     }
 ]
