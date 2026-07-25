@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukraine's ousted defense minister rejects Zelenskyy's offer of a different government role",
-        "image": "https://media.zenfs.com/en/ap.org/501d2e14a318ac4fdea91bb63636aa2a",
-        "link": "https://www.yahoo.com/news/politics/articles/ukraines-ousted-defense-minister-rejects-155739845.html",
+        "title": "Poultry firm recalls nearly 1.6 million dozen eggs over potential salmonella, US FDA says",
+        "image": "https://media.zenfs.com/en/reuters.com/3a46441816fbcad7bb706673abba38e2",
+        "link": "https://www.yahoo.com/news/us/articles/poultry-firm-recalls-nearly-1-061527130.html",
         "summary": "..."
     },
     {
@@ -85,24 +85,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "ICE arrests Southwest Airlines flight attendant in Nashville for allegedly overstaying visa since 2021",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/039cd56424e773114e052b834a945ca5",
+        "link": "https://www.yahoo.com/news/politics/articles/ice-arrests-southwest-airlines-flight-214028580.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Nearly 150,000 mail ballots rejected in California's primary despite efforts to count every vote",
+        "image": "https://media.zenfs.com/en/ap.org/1cce0cebfecdc376b7280b8d0e55109c",
+        "link": "https://www.yahoo.com/news/politics/articles/nearly-150-000-mail-ballots-230649577.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Jewish Michigan Democrats admit they will vote Republican if Abdul El-Sayed becomes nominee",
         "image": "https://media.zenfs.com/en/fox_news_text_979/5c9251ef6ce0e0179eb2c3d9d38bdb11",
         "link": "https://www.yahoo.com/news/politics/articles/jewish-michigan-democrats-admit-vote-223227462.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump to impose 'forced labor' duties on Friday as temporary 10% US tariffs expire",
-        "image": "https://media.zenfs.com/en/reuters.com/c0a1e774ac1072d214b928797ba33617",
-        "link": "https://finance.yahoo.com/economy/policy/articles/trump-impose-forced-labor-duties-211025284.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "ICE arrests Southwest Airlines flight attendant in Nashville for allegedly overstaying visa since 2021",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/039cd56424e773114e052b834a945ca5",
-        "link": "https://www.yahoo.com/news/politics/articles/ice-arrests-southwest-airlines-flight-214028580.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Tour de France final stage shortened due to wildfires",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/tour-de-france-final-stage-shortened-due-to-wildfires/a-78114336?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Security personnel assigned to the race have been redeployed to help contain major blazes near Bordeaux, reducing Sunday's final stage...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/niger-still-seeking-stability-after-3-years-of-military-rule/a-78100030?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The military government in Niger promised social, security, and economic improvements when it took power in 2023. Three years down the line, there are..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Europe wildfires rage on, forcing 200,000 from homes",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/europe-wildfires-rage-on-forcing-200-000-from-homes/a-78109406?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Hot, arid weather and strong winds have continued to fuel wildfires in France, Spain and Italy, devastating huge swaths of land and forcing mass evacu..."
     }
 ]
