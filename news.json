@@ -78,6 +78,13 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Morning Bid: Magnificent cash burn",
+        "image": "https://media.zenfs.com/en/reuters.com/6d4a9d5f245e60e3a88bec283b767f54",
+        "link": "https://finance.yahoo.com/news/morning-bid-magnificent-cash-burn-103800517.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "\u2018Got to be kidding me\u2019: GOP officials pan Trump\u2019s claims of shocking new election threats",
         "image": "https://media.zenfs.com/en/cnn_articles_875/e23d8b75687cd75d32ceb870498ef39d",
         "link": "https://www.yahoo.com/news/politics/articles/got-kidding-gop-officials-pan-100027797.html",
@@ -85,24 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Megan Rapinoe says efforts to bar trans athletes from women's sports are 'attack on women in society'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/53acc40b3698c66fc8b7987ea606d717",
-        "link": "https://www.yahoo.com/news/politics/articles/megan-rapinoe-says-efforts-bar-194910820.html",
+        "title": "Nun speaks out for first time about being detained by ICE while walking to Mass in Texas",
+        "image": "https://media.zenfs.com/en/ap.org/a1be753acece7a190599b89f7d52a09c",
+        "link": "https://www.yahoo.com/news/politics/articles/nun-detained-ice-while-walking-171049759.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Sex work or starve: Aid workers in Nepal left jobless by USAID cuts turn to sex work to survive",
-        "image": "https://media.zenfs.com/en/ap.org/0fcaf034e9617145be9c1ee2dbb12e4b",
-        "link": "https://www.yahoo.com/news/world/articles/sex-starve-aid-workers-nepal-042157833.html",
+        "title": "Protests Erupt After Fatal Police Shooting of Man in Wisconsin",
+        "image": "https://media.zenfs.com/en/nbcu_713/ef203b0cf90659d3d9825a657d15971d",
+        "link": "https://www.yahoo.com/news/videos/protests-erupt-fatal-police-shooting-114431174.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Jewish Michigan Democrats admit they will vote Republican if Abdul El-Sayed becomes nominee",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/5c9251ef6ce0e0179eb2c3d9d38bdb11",
-        "link": "https://www.yahoo.com/news/politics/articles/jewish-michigan-democrats-admit-vote-223227462.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "India: CJP-Government to return to talks as protests grow",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-cjp-government-to-return-to-talks-as-protests-grow/live-78108089?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Cockroack Janta Party-led protests are likely to swell in size over the weekend as office-goers join in. Meanwhile, a second round of talks with t..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-saudi-led-coalition-attacks-yemen-s-hodeida-port-city/live-78093040?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The strikes come after the Iran-backed Houthis attacked several Saudi oil tankers in the Red Sea in recent days. The escalation comes as the US and Ir..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Paramount agrees to delay Warner Bros. merger amid lawsuit",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/paramount-agrees-to-delay-warner-bros-merger-amid-lawsuit/a-78107061?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Paramount has agreed to freeze its merger with Warner Bros. Discovery until as late as June 2027. Twelve states have argued that the deal would create..."
     }
 ]
