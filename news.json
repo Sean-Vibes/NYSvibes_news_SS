@@ -71,16 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Judge questions difference between Hegseth's testosterone policy and transgender care for troops",
-        "image": "https://media.zenfs.com/en/ap.org/36ad6c69156837785d9be7b75f5b76d0",
-        "link": "https://www.yahoo.com/news/politics/articles/judge-questions-difference-between-hegseths-220920601.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mayor who survived assassination attempt shot dead in town hall",
-        "image": "https://media.zenfs.com/en/cbs_news_897/db64e3d573c1fa53138dcb48b84fd82a",
-        "link": "https://www.yahoo.com/news/us/articles/mayor-survived-assassination-attempt-shot-230730313.html",
+        "title": "Ukraine's ousted defense minister rejects Zelenskyy's offer of a different government role",
+        "image": "https://media.zenfs.com/en/ap.org/501d2e14a318ac4fdea91bb63636aa2a",
+        "link": "https://www.yahoo.com/news/politics/articles/ukraines-ousted-defense-minister-rejects-155739845.html",
         "summary": "..."
     },
     {
@@ -92,17 +85,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukraine's ousted defense minister rejects Zelenskyy's offer of a different government role",
-        "image": "https://media.zenfs.com/en/ap.org/501d2e14a318ac4fdea91bb63636aa2a",
-        "link": "https://www.yahoo.com/news/politics/articles/ukraines-ousted-defense-minister-rejects-155739845.html",
+        "title": "Jewish Michigan Democrats admit they will vote Republican if Abdul El-Sayed becomes nominee",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/5c9251ef6ce0e0179eb2c3d9d38bdb11",
+        "link": "https://www.yahoo.com/news/politics/articles/jewish-michigan-democrats-admit-vote-223227462.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Morning Bid: Magnificent cash burn",
-        "image": "https://media.zenfs.com/en/reuters.com/6d4a9d5f245e60e3a88bec283b767f54",
-        "link": "https://finance.yahoo.com/news/morning-bid-magnificent-cash-burn-103800517.html",
+        "title": "Man who killed Minnesota lawmaker Melissa Hortman sentenced to life as family describes trauma, loss",
+        "image": "https://media.zenfs.com/en/ap.org/de75fb2ab6097797af3e40ada44ba543",
+        "link": "https://www.yahoo.com/news/politics/articles/man-pleaded-guilty-killing-top-040307484.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "\u2018Got to be kidding me\u2019: GOP officials pan Trump\u2019s claims of shocking new election threats",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/e23d8b75687cd75d32ceb870498ef39d",
+        "link": "https://www.yahoo.com/news/politics/articles/got-kidding-gop-officials-pan-100027797.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Paramount agrees to delay Warner Bros. merger amid lawsuit",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/paramount-agrees-to-delay-warner-bros-merger-amid-lawsuit/a-78107061?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Paramount has agreed to freeze its merger with Warner Bros. Discovery until as late as June 2027. Twelve states have argued that the deal would create..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/russia-hits-drone-demonstration-near-kyiv-killing-10/a-78105704?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Ukraine says 10 were killed and around 100 injured in the strike, a day after Zelenskyy met with officials from US arms giant Raytheon. Meanwhile, in ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Yemen's Houthis deny they closed Bab al-Mandeb Strait",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-yemen-s-houthis-deny-they-closed-bab-al-mandeb-strait/live-78093040?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Iran-aligned Houthi militia group instead says it has only established a \"naval blockade\" of Saudi ships in the Red Sea. It comes as the US and Ir..."
     }
 ]
