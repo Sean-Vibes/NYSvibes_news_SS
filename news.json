@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Spain's Zapatero says seized jewels worth $1.5 million were a 'courtesy gift'",
-        "image": "https://media.zenfs.com/en/reuters.com/477a5e15870ee38d6ea1bc101065fafc",
-        "link": "https://www.yahoo.com/news/politics/articles/spains-zapatero-says-seized-jewels-134708812.html",
+        "title": "Trump to impose 'forced labor' duties on Friday as temporary 10% US tariffs expire",
+        "image": "https://media.zenfs.com/en/reuters.com/c0a1e774ac1072d214b928797ba33617",
+        "link": "https://finance.yahoo.com/economy/policy/articles/trump-impose-forced-labor-duties-211025284.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/039cd56424e773114e052b834a945ca5",
         "link": "https://www.yahoo.com/news/politics/articles/ice-arrests-southwest-airlines-flight-214028580.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Dozens dead after buses collide in eastern Syria",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/dozens-dead-after-buses-collide-in-eastern-syria/a-78113913?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The crash on a route notorious for deadly accidents prompted a large-scale rescue operation...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/europe-wildfires-rage-on-forcing-200-000-from-homes/a-78109406?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Hot, arid weather and strong winds have continued to fuel wildfires in France, Spain and Italy, devastating huge swaths of land and forcing mass evacu..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Eco wins: Cities, creatures, and tech are saving the day",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eco-wins-cities-creatures-and-tech-are-saving-the-day/a-78097358?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "From an AI-powered cute little pangolin, heat mapping to cool down cities and animals reducing wildfire risks by doing their thing, these real-world c..."
     }
 ]
