@@ -71,16 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "SpaceX launches Starship on another test flight, this time with the most advanced Starlinks",
-        "image": "https://media.zenfs.com/en/ap.org/08b4e153d485e5fc9e25050bafd61b56",
-        "link": "https://www.yahoo.com/news/science/articles/spacex-launches-starship-another-test-225205679.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Karoline Leavitt says Trump\u2019s \u2018patience is running out\u2019 with key GOP leader",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/0d2b80e2d0a076864be1d2f0d454c4dd",
-        "link": "https://www.yahoo.com/news/politics/articles/thune-white-house-trade-jabs-035909906.html",
+        "title": "Ukraine's Zelenskiy: Russia wants to bring in 30,000 North Korean troops to conflict",
+        "image": "https://media.zenfs.com/en/reuters.com/5edf505b7e108cf43434e0ca207af6cb",
+        "link": "https://www.yahoo.com/news/articles/ukraines-zelenskiy-russia-wants-bring-175258628.html",
         "summary": "..."
     },
     {
@@ -92,17 +85,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "White House wants veterans to replace immigrant truckers who lost their licenses in crackdown",
-        "image": "https://media.zenfs.com/en/ap.org/425262bde1f1afc4a5b849d0e00c10ac",
-        "link": "https://www.yahoo.com/news/politics/articles/white-house-wants-veterans-replace-164029510.html",
+        "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/ff30c1ccaa0b571293bcc94f8deec553",
+        "link": "https://www.yahoo.com/news/world/articles/france-orders-evacuation-peninsula-hundreds-070918751.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "FDA reports new cyclospora outbreak as North Carolina eyes cilantro, parsley",
-        "image": "https://media.zenfs.com/en/cbs_news_897/0eaa95742567a2cccfb2d9f68a8ea0f6",
-        "link": "https://www.yahoo.com/news/science/articles/fda-says-cyclospora-outbreak-linked-162655781.html",
+        "title": "SpaceX launches Starship on another test flight, this time with the most advanced Starlinks",
+        "image": "https://media.zenfs.com/en/ap.org/08b4e153d485e5fc9e25050bafd61b56",
+        "link": "https://www.yahoo.com/news/science/articles/spacex-launches-starship-another-test-225205679.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Cajun Navy leader warns Nolan Wells' search area has deadly 'washing machine' currents: 'Lots of drownings'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/eebda81d3ed3e7a2343238489ac25e16",
+        "link": "https://www.yahoo.com/news/us/articles/cajun-navy-leader-warns-nolan-100043793.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Israeli settlers torch mosques in occupied West Bank",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/israeli-settlers-torch-mosques-in-occupied-west-bank/a-78120749?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Israeli settlers in the occupied West Bank attacked two mosques Sunday, setting them ablaze and scrawling graffiti. The incident follows a Friday clas..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/sudan-civil-war-civilians-used-as-human-shields/a-78089487?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The situation in the besieged city of El Obeid in Sudan is worsening by the day, with rights organizations warning of mass atrocities. Children are tr..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Middle East: No fresh US strikes on Iran for a second day",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/middle-east-no-fresh-us-strikes-on-iran-for-a-second-day/live-78117732?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Two days have passed without any strikes by the US and Iran. Fighting between Yemen's Houthis and Saudi Arabia has added another layer to the complex ..."
     }
 ]
