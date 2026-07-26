@@ -92,8 +92,8 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "After Trump calls off bombing, Iran signals it will halt strikes as long as US does",
-        "image": "https://media.zenfs.com/en/reuters.com/e0bb8629accab77761e373310b93946b",
+        "title": "Iran says it will halt strikes as long as US bombing pause holds",
+        "image": "https://media.zenfs.com/en/reuters.com/7021d0040ec2205cc5d83fb7cb551a6e",
         "link": "https://www.yahoo.com/news/articles/iran-halt-attacks-long-us-144722524.html",
         "summary": "..."
     },
@@ -106,17 +106,24 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Berlin Pride ramming: Police shoot suspect dead",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/berlin-pride-ramming-police-shoot-suspect-dead/live-78117180?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Police said the suspect was shot dead in an operation, after the incident was classified as an \"Islamist terrorist\" attack. One person was killed and ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Christopher Street Day attack in Berlin: What we know so far",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/christopher-street-day-attack-in-berlin-what-we-know-so-far/a-78122611?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "On Saturday, a vehicle drove into a crowd near Berlin Pride celebrations in what is being regarded as an attack on the LGBTQ+ community. The main susp..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Germany's Transport Minister Schnieder to asks Merz to remove him",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-s-transport-minister-schnieder-to-asks-merz-to-remove-him/a-78121920?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Schnieder plans to ask Chancellor Merz to remove him after describing as \"undignified\" the circumstances surrounding a cabinet reshuffle in which he w..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Berlin Pride ramming: Suspect shot dead in police operation",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/berlin-pride-ramming-suspect-shot-dead-in-police-operation/live-78117180?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Police said the suspect was shot dead in an operation, after the incident was classified as an \"Islamist terrorist\" attack. One person was killed and ..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/israeli-settlers-torch-mosques-in-occupied-west-bank/a-78120749?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Israeli settlers in the occupied West Bank attacked two mosques Sunday, setting them ablaze and scrawling graffiti. The incident follows a Friday clas..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Wildfires spread in France and Spain forcing more to flee",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/wildfires-spread-in-france-and-spain-forcing-more-to-flee/a-78119908?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Spain's prime minister warned of \"difficult hours ahead,\" as France's interior minister called the blaze near Bordeaux \"unpredictable.\" Evacuations in..."
     }
 ]
