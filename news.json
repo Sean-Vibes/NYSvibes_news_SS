@@ -78,13 +78,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Joe Manchin reenters the political orbit with a new independent experiment",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/9327ff74f89b3bde0040767ce3aef723",
-        "link": "https://www.yahoo.com/news/politics/articles/joe-manchin-reenters-political-orbit-090025223.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
         "image": "https://media.zenfs.com/en/bbc_us_articles_995/ff30c1ccaa0b571293bcc94f8deec553",
         "link": "https://www.yahoo.com/news/world/articles/france-orders-evacuation-peninsula-hundreds-070918751.html",
@@ -92,9 +85,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran says it will halt strikes as long as US bombing pause holds",
-        "image": "https://media.zenfs.com/en/reuters.com/7021d0040ec2205cc5d83fb7cb551a6e",
-        "link": "https://www.yahoo.com/news/articles/iran-halt-attacks-long-us-144722524.html",
+        "title": "Sen. Kennedy says Trump likes daily strikes on Iran: \u2018Sometimes you have to kill a few chickens to scare the monkeys\u2019",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/f6357f91371229f797c4ec902c7e2f77",
+        "link": "https://www.yahoo.com/news/politics/articles/sen-kennedy-says-trump-likes-184524762.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Ukraine's Zelenskiy: Russia wants to bring in 30,000 North Korean troops to conflict",
+        "image": "https://media.zenfs.com/en/reuters.com/5edf505b7e108cf43434e0ca207af6cb",
+        "link": "https://www.yahoo.com/news/articles/ukraines-zelenskiy-russia-wants-bring-175258628.html",
         "summary": "..."
     },
     {
