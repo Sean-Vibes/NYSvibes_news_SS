@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Iowa Democratic Lieutenant Governor Candidate Defends Marijuana Legalization Plan From Criticism",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/iowa-democratic-lieutenant-governor-candidate-defends-marijuana-legalization-plan-from-criticism/",
+        "summary": "<p>&#8220;The plan is to treat it much like alcohol, limit the marketing, and the advertising and put a framework and structure on it for those people..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Virginia Officials Must Recognize Medical Marijuana\u2019s Federal Legality And Stop Forcing Patients Out Of Recovery Housing (Op-Ed)",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/virginia-officials-must-recognize-medical-marijuanas-federal-legality-and-stop-forcing-patients-out-of-recovery-housing-op-ed/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/medical-marijuana-has-made-a-difference-for-pete-buttigiegs-family-and-for-veterans-he-served-with-in-the-military-he-says/",
         "summary": "<p>Former U.S. transportation secretary and potential 2028 presidential candidate Pete Buttigieg says that the medical benefits of marijuana have &#82..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Georgia\u2019s Expanded Medical Marijuana Law Generates Huge Boost In Number Of Registered Patients",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/georgias-expanded-medical-marijuana-law-generates-huge-boost-in-number-of-registered-patients/",
-        "summary": "<p>A new law in Georgia that has expanded access to medical marijuana is enticing a lot more patients to apply for the state&#8217;s program. The legi..."
     },
     {
         "source": "MJBizDaily",
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump just announced new tariffs on dozens of countries. Here's what they'll mean for you.",
-        "image": "https://s.yimg.com/uu/api/res/1.2/WePQg5oMjw0zajm4T5ACxA--~B/aD0xODk4O3c9MzM3NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/thumb-trump-tarrifs_8986.jpg",
-        "link": "https://www.yahoo.com/news/us/article/trump-just-announced-new-tariffs-on-dozens-of-countries-heres-what-theyll-mean-for-you-231224777.html",
+        "title": "White House wants veterans to replace immigrant truckers who lost their licenses in crackdown",
+        "image": "https://media.zenfs.com/en/ap.org/425262bde1f1afc4a5b849d0e00c10ac",
+        "link": "https://www.yahoo.com/news/politics/articles/white-house-wants-veterans-replace-164029510.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/cbs_news_897/0eaa95742567a2cccfb2d9f68a8ea0f6",
         "link": "https://www.yahoo.com/news/science/articles/fda-says-cyclospora-outbreak-linked-162655781.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Wildfires spread in France and Spain forcing more to flee",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/wildfires-spread-in-france-and-spain-forcing-more-to-flee/a-78119908?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Spain's prime minister warned of \"difficult hours ahead,\" as France's interior minister called the blaze near Bordeaux \"unpredictable.\" Evacuations in..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/middle-east-no-fresh-us-strikes-on-iran-for-a-second-day/live-78117732?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Two days have passed without any strikes by the US and Iran. Fighting between Yemen's Houthis and Saudi Arabia has added another layer to the complex ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Vietnamese vessel sinks in South China Sea, 17 missing",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/vietnamese-vessel-sinks-in-south-china-sea-17-missing/a-78118211?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A Vietnamese-registered cargo ship carrying 62 crew members sank near Yongshu Reef in the South China Sea, one of the world's most important and conte..."
     }
 ]
