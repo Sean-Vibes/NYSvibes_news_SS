@@ -106,6 +106,27 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "India news: Greta Thunberg expresses solidarity with CJP protesters",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-greta-thunberg-expresses-solidarity-with-cjp-protesters/live-78126203?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Greta Thunberg attended a celebratory rally organized by Indian students in London after major successes for the CJP movement. Follow DW for more...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US: At least three killed in shooting in Seattle",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-at-least-three-killed-in-shooting-in-seattle/a-78124829?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A shooting at a Seattle food festival left at least three people dead and four others wounded. The police took the suspect into custody...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Congo Ebola death toll tops 1,400 as vaccine trials start",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/congo-ebola-death-toll-tops-1-400-as-vaccine-trials-start/a-78124937?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "DR Congo's Ebola outbreak has continued to grow, with confirmed infections reaching 3,200 and a fatality rate of nearly one in two. Scientists are rac..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Brazil recalls ambassador to Argentina over Milei's remarks",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/brazil-recalls-ambassador-to-argentina-over-milei-s-remarks/a-78123444?maca=en-rss-en-all-1573-xml-mrss",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/berlin-pride-ramming-police-shoot-suspect-dead/live-78117180?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Police said the suspect was shot dead in an operation, after the incident was classified as an \"Islamist terrorist\" attack. One person was killed and ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Christopher Street Day attack in Berlin: What we know so far",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/christopher-street-day-attack-in-berlin-what-we-know-so-far/a-78122611?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "On Saturday, a vehicle drove into a crowd near Berlin Pride celebrations in what is being regarded as an attack on the LGBTQ+ community. The main susp..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany's Transport Minister Schnieder to asks Merz to remove him",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-transport-minister-schnieder-to-asks-merz-to-remove-him/a-78121920?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Schnieder plans to ask Chancellor Merz to remove him after describing as \"undignified\" the circumstances surrounding a cabinet reshuffle in which he w..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Berlin CSD: Latest in string of deadly vehicle attacks",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/berlin-csd-latest-in-string-of-deadly-vehicle-attacks/a-71197624?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The attack at a Berlin Pride event is only the most recent incident on a long list where vehicles were used as weapons. The US, Canada, and China also..."
     }
 ]
