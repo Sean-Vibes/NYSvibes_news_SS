@@ -78,9 +78,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/ff30c1ccaa0b571293bcc94f8deec553",
-        "link": "https://www.yahoo.com/news/world/articles/france-orders-evacuation-peninsula-hundreds-070918751.html",
+        "title": "Cajun Navy leader warns Nolan Wells' search area has deadly 'washing machine' currents: 'Lots of drownings'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/eebda81d3ed3e7a2343238489ac25e16",
+        "link": "https://www.yahoo.com/news/us/articles/cajun-navy-leader-warns-nolan-100043793.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Cajun Navy leader warns Nolan Wells' search area has deadly 'washing machine' currents: 'Lots of drownings'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/eebda81d3ed3e7a2343238489ac25e16",
-        "link": "https://www.yahoo.com/news/us/articles/cajun-navy-leader-warns-nolan-100043793.html",
+        "title": "Mark Kelly: Democrats can \u2018win in Maine\u2019 with Troy Jackson, Platner \u2018wasn\u2019t vetted well enough\u2019",
+        "image": "https://media.zenfs.com/en/nbcu_713/f0c648a165263f899aee163dca12a272",
+        "link": "https://www.yahoo.com/news/videos/mark-kelly-democrats-win-maine-135220780.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Brazil recalls ambassador to Argentina over Milei's remarks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/brazil-recalls-ambassador-to-argentina-over-milei-s-remarks/a-78123444?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "During a visit to Brazil to support far-right presidential candidate Flavio Bolsonaro, Argentina's president called the Brazilian leader a \"convict\" a..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/berlin-csd-latest-in-string-of-deadly-vehicle-attacks/a-71197624?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The attack at a Berlin Pride event is only the most recent incident on a long list where vehicles were used as weapons. The US, Canada, and China also..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Israeli settlers torch mosques in occupied West Bank",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/israeli-settlers-torch-mosques-in-occupied-west-bank/a-78120749?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Israeli settlers in the occupied West Bank attacked two mosques Sunday, setting them ablaze and scrawling graffiti. The incident follows a Friday clas..."
     }
 ]
