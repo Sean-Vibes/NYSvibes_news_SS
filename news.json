@@ -78,31 +78,52 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Lindsay Clancy\u2019s ex-husband details \u2018big spiral\u2019 as expert says one part \u2018scared me\u2019 in mom\u2019s murder trial",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/a6eec8f80f5d3c78f4d6e26b6ad1006b",
-        "link": "https://www.yahoo.com/news/us/articles/lindsay-clancy-ex-husband-details-040009361.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "'Allah commanded me': Three women stabbed in Paris, crowd subdues suspect",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/3a7833757a1bf7adb6dd4e4bb1168998",
-        "link": "https://www.yahoo.com/news/world/articles/allah-commanded-three-women-stabbed-160842573.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "The Latest: Trump praises his sweeping tariffs while in Michigan for a speech on the economy",
-        "image": "https://media.zenfs.com/en/ap.org/7fb446399a20ff19ad58ea31198ee00c",
-        "link": "https://www.yahoo.com/news/politics/articles/latest-appeals-court-upholds-injunction-125806684.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "New York City women are making up to $30,000 per month by renting out their closets to strangers",
         "image": "https://media.zenfs.com/en/fortune_175/700fddba76547c3498610e9be3eb62f3",
         "link": "https://finance.yahoo.com/small-business/articles/york-city-women-making-30-070200378.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "ABC, NBC, CBS, CNN and MS NOW ignore Fauci diary entries that reveal fixation on fame during COVID",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/7c686b23ea8091bb6d86dfcf4f7c3a00",
+        "link": "https://www.yahoo.com/news/politics/articles/abc-nbc-cbs-cnn-ms-155330915.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Court panel declines to block Trump's mail ballot order, but its status for midterms remains unclear",
+        "image": "https://media.zenfs.com/en/ap.org/d161c2d2eca545b8c2bc66d8ff6d0d90",
+        "link": "https://www.yahoo.com/news/politics/articles/court-panel-declines-block-trumps-183747156.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "College student dies after falling from historic ruins on remote Florida island, friends say",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/5b34889c595cfdcd32580f4155ae5672",
+        "link": "https://www.yahoo.com/news/us/articles/college-student-dies-falling-historic-153849095.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UN says online scam center trafficking is skyrocketing",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/un-says-online-scam-center-trafficking-is-skyrocketing/a-78150728?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Migration authorities have said gangs are trafficking ever more people to East Asian online scam centers. The UN says some 300,000 people from more th..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Guyana: Captain, crew charged with murder in ferry capsizing",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/guyana-captain-crew-charged-with-murder-in-ferry-capsizing/a-78151552?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Police in Guyana have charged three men with murder in connection to a recent ferry capsizing that killed 73 and left 30 missing. Some lawmakers, howe..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Fujimori takes charge in Peru amid China, US balancing act",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/fujimori-takes-charge-in-peru-amid-china-us-balancing-act/a-78110410?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Peru's new president, Keiko Fujimori, has promised more security and investment. Now in office, she'll have to find space for the South American natio..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-low-rhine-river-levels-could-push-economy-into-stagnation/a-78148371?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Record-low water levels on the Rhine are forcing cargo vessels to run with sharply reduced loads, driving up transport costs. Economists warn the disr..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Fact check: Berlin Pride attack claims debunked",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fact-check-berlin-pride-attack-claims-debunked/a-78142700?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Following the Islamist terrorist attack at Berlin Pride, rumors, false claims and misleading videos have been spreading on social media. DW Fact check..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "EU civil protection mechanism: Coordinating Europe's firefighters",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-civil-protection-mechanism-coordinating-europe-s-firefighters/a-78145189?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "French President Emmanuel Macron has activated the EU civil protection mechanism to help combat devastating wildfires. The system has become increasin..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Poland: Top court rejects recognizing EU same-sex marriages",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/poland-top-court-rejects-recognizing-eu-same-sex-marriages/a-78146379?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Poland's constitutional court has overturned plans to recognize same-sex marriages that took place in other EU member states. This defies an order fro..."
     }
 ]
