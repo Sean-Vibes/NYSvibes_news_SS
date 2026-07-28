@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Video: Small Plane Makes Emergency Landing on California Beach",
-        "image": "https://media.zenfs.com/en/nbcu_713/d87018e98c2a1aa73bda35b3842d1cb9",
-        "link": "https://www.yahoo.com/news/videos/video-small-plane-makes-emergency-112320107.html",
+        "title": "EBay, former executives to pay $56 million to settle couple's harassment case",
+        "image": "https://media.zenfs.com/en/reuters.com/1bf7387f70ad0555febf97ba7e63751f",
+        "link": "https://finance.yahoo.com/news/ebay-former-executives-pay-56-143003495.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,20 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/ac7d0ab6726672bf872bc92e9cccf687",
         "link": "https://www.yahoo.com/news/us/articles/former-college-soccer-player-found-172337889.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: US says Iranian missiles intercepted",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-us-says-iranian-missiles-intercepted/live-78152241?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US military said it thwarted an \"attempted surprise attack\" by Iran that came after a days-long lull in fighting. Meanwhile, Israel's Netanyahu ha..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Japan: Strong earthquake hits Kumamoto, several dead",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/japan-strong-earthquake-hits-kumamoto-several-dead/a-78143660?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Dozens of people were hospitalized after the earthquake hit southern Japan. According to media reports, at least two women were killed after a shoppin..."
     },
     {
         "source": "Deutsche Welle",
@@ -120,23 +134,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Guyana: Captain, crew charged with murder in ferry capsizing",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/guyana-captain-crew-charged-with-murder-in-ferry-capsizing/a-78151552?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Police in Guyana have charged three men with murder in connection to a recent ferry capsizing that killed 73 and left 30 missing. Some lawmakers, howe..."
-    },
-    {
-        "source": "Deutsche Welle",
         "title": "UN says online scam center trafficking is skyrocketing",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/un-says-online-scam-center-trafficking-is-skyrocketing/a-78150728?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Migration authorities have said gangs are trafficking ever more people to East Asian online scam centers. The UN says some 300,000 people from more th..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Fujimori takes charge in Peru amid China, US balancing act",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fujimori-takes-charge-in-peru-amid-china-us-balancing-act/a-78110410?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Peru's new president, Keiko Fujimori, has promised more security and investment. Now in office, she'll have to find space for the South American natio..."
     }
 ]
