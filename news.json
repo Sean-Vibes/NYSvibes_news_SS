@@ -36,6 +36,20 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "Canadian cannabis giant SNDL claims to be world\u2019s largest after Parallel takeover",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/canadian-cannabis-giant-sndl-claims-to-be-worlds-largest-after-parallel-takeover/617150/",
+        "summary": "<p>Assets across three states once owned by ambitious MSO Parallel are now in the control of the company's former lender, affiliates of Canadian giant..."
+    },
+    {
+        "source": "MJBizDaily",
+        "title": "Cannabis MSO Vireo Growth to acquire Planet 13 in all-stock deal",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/cannabis-mso-vireo-growth-to-acquire-planet-13-in-all-stock-deal/617152/",
+        "summary": "<p>Vireo adds 36 dispensaries across three states to its portfolio, including Planet 13's flagship Las Vegas store and a consumption lounge.</p>\n<p><a..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "Setback for Utah medical cannabis company using federal marijuana prohibition to beat union push",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/setback-for-utah-medical-cannabis-company-using-federal-marijuana-prohibition-to-beat-union-push/617139/",
@@ -56,31 +70,10 @@
         "summary": "<p>U.S. cannabis sales declined year over year for the first time on record, falling from $32 billion to $29.94 billion.</p>\n<p><a href=\"https://mjbiz..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Report: Illegal cannabis diversion from Canada a growing problem in Europe",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/report-illegal-cannabis-diversion-from-canada-a-growing-problem-in-europe/617118/",
-        "summary": "<p>Cannabis diversion, a problem across the United States, is now keenly felt in Europe, where authorities are blaming Canadian cannabis legalization ..."
-    },
-    {
-        "source": "MJBizDaily",
-        "title": "Mass layoffs at two California cannabis manufacturers",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/mass-layoffs-at-two-california-cannabis-manufacturers/617114/",
-        "summary": "<p>Most of the affected workers are production technicians, many of whom are represented by United Food and Commercial Workers Local 5.</p>\n<p><a href..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "South Korea orders residents to evacuate after reported white phosphorus leak at US base",
         "image": "https://media.zenfs.com/en/ap.org/99914f5b7515cbe2e8e55543538781d1",
         "link": "https://www.yahoo.com/news/world/articles/south-korean-officials-order-residents-114024684.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "New York City women are making up to $30,000 per month by renting out their closets to strangers",
-        "image": "https://media.zenfs.com/en/fortune_175/700fddba76547c3498610e9be3eb62f3",
-        "link": "https://finance.yahoo.com/small-business/articles/york-city-women-making-30-070200378.html",
         "summary": "..."
     },
     {
@@ -92,24 +85,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Court panel declines to block Trump's mail ballot order, but its status for midterms remains unclear",
-        "image": "https://media.zenfs.com/en/ap.org/d161c2d2eca545b8c2bc66d8ff6d0d90",
-        "link": "https://www.yahoo.com/news/politics/articles/court-panel-declines-block-trumps-183747156.html",
+        "title": "New York City women are making up to $30,000 per month by renting out their closets to strangers",
+        "image": "https://media.zenfs.com/en/fortune_175/700fddba76547c3498610e9be3eb62f3",
+        "link": "https://finance.yahoo.com/small-business/articles/york-city-women-making-30-070200378.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "College student dies after falling from historic ruins on remote Florida island, friends say",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/5b34889c595cfdcd32580f4155ae5672",
-        "link": "https://www.yahoo.com/news/us/articles/college-student-dies-falling-historic-153849095.html",
+        "title": "Video: Small Plane Makes Emergency Landing on California Beach",
+        "image": "https://media.zenfs.com/en/nbcu_713/d87018e98c2a1aa73bda35b3842d1cb9",
+        "link": "https://www.yahoo.com/news/videos/video-small-plane-makes-emergency-112320107.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Former college soccer player found dead off San Diego beach in one of nation's wealthiest beach communities",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/ac7d0ab6726672bf872bc92e9cccf687",
+        "link": "https://www.yahoo.com/news/us/articles/former-college-soccer-player-found-172337889.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "UN says online scam center trafficking is skyrocketing",
+        "title": "Iran war: Netanyahu hails closed-door meeting with Trump",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/un-says-online-scam-center-trafficking-is-skyrocketing/a-78150728?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Migration authorities have said gangs are trafficking ever more people to East Asian online scam centers. The UN says some 300,000 people from more th..."
+        "link": "https://www.dw.com/en/iran-war-netanyahu-hails-closed-door-meeting-with-trump/live-78137927?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The meeting between the US President and the Israeli Prime Minister is the first since the start of the war in Iran. Meanwhile, Tehran executed two me..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Zelenskyy visits Trump as Ukraine seeks stronger air defense",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/zelenskyy-visits-trump-as-ukraine-seeks-stronger-air-defense/a-78138704?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ukrainian President Volodymyr Zelenskyy is seeking stronger military cooperation, as Kyiv and Moscow intensify long-range strikes amid stalled peace e..."
     },
     {
         "source": "Deutsche Welle",
@@ -120,23 +127,16 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "UN says online scam center trafficking is skyrocketing",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/un-says-online-scam-center-trafficking-is-skyrocketing/a-78150728?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Migration authorities have said gangs are trafficking ever more people to East Asian online scam centers. The UN says some 300,000 people from more th..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Fujimori takes charge in Peru amid China, US balancing act",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/fujimori-takes-charge-in-peru-amid-china-us-balancing-act/a-78110410?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Peru's new president, Keiko Fujimori, has promised more security and investment. Now in office, she'll have to find space for the South American natio..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "FIFA plans to form new commercial subsidiary and sell stake",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fifa-plans-to-form-new-commercial-subsidiary-and-sell-stake/a-78149348?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "FIFA has announced plans to form a commercial subsidiary and to sell a non-controlling interest to private investors. It needs approval from member as..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany: Low Rhine River levels could push economy into stagnation",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-low-rhine-river-levels-could-push-economy-into-stagnation/a-78148371?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Record-low water levels on the Rhine are forcing cargo vessels to run with sharply reduced loads, driving up transport costs. Economists warn the disr..."
     }
 ]
