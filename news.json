@@ -72,7 +72,7 @@
     {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Ex-Olympian charged with damaging Reflecting Pool sees 'irregularities' in grand jury proceedings",
-        "image": "https://media.zenfs.com/en/ap.org/a736b9e3733fc63de33c1282b315d8d1",
+        "image": "https://media.zenfs.com/en/ap.org/a2edaa9d8564268b8092501a2442ff56",
         "link": "https://www.yahoo.com/news/us/articles/ex-olympian-charged-damaging-reflecting-232219982.html",
         "summary": "..."
     },
@@ -106,6 +106,20 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Heat wave threatens to worsen France, Spain wildfires",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/heat-wave-threatens-to-worsen-france-spain-wildfires/a-78137994?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A fresh spell of extreme heat, driven by climate change, is expected to intensify some of Europe's worst wildfires in decades, stretching firefighting..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Netanyahu in Washington for meeting with Trump",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-netanyahu-in-washington-for-meeting-with-trump/live-78137927?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The meeting between the US President and the Israeli Prime Minister will be the first since the start of the war on Iran. Meanwhile, Washington has co..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "US singer D4vd to stand trial in killing of 14-year-old girl",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-singer-d4vd-to-stand-trial-in-killing-of-14-year-old-girl/a-78137553?maca=en-rss-en-all-1573-xml-mrss",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/chad-s-government-says-it-s-withdrawing-from-the-icc/a-78132322?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Chad's Foreign Ministry has announced plans to leave the International Criminal Court. It said that its effectiveness was \"limited and uneven.\" Chad's..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "German Chancellor Merz completes cabinet resuffle",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/german-chancellor-merz-completes-cabinet-resuffle/a-78133896?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After days of confusion, Chancellor Friedrich Merz has reshuffled his cabinet. Conservative politicians fear that this will not help with the prospect..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Indian youth score a win over Modi with humor and grit",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/indian-youth-score-a-win-over-modi-with-humor-and-grit/a-78132308?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Driven by social media satire, the Gen-Z-led \"Cockroach\" protest movement spurned by grievances over an exam scandal caused a shake-up in India's gove..."
     }
 ]
