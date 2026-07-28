@@ -106,6 +106,20 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "India news: Activists decry AI surveillance at CJP protests",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-activists-decry-ai-surveillance-at-cjp-protests/live-78139564?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A suit has been brought alleging mass surveillance and data collection of \"Cockroach\" movement protestors. DW has more...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Zelenskyy to meet Trump as Ukraine seeks stronger air defense",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/zelenskyy-to-meet-trump-as-ukraine-seeks-stronger-air-defense/a-78138704?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ukrainian President Volodymyr Zelenskyy is in the United States to press for stronger military cooperation, as Kyiv and Moscow intensify long-range st..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Heat wave threatens to worsen France, Spain wildfires",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/heat-wave-threatens-to-worsen-france-spain-wildfires/a-78137994?maca=en-rss-en-all-1573-xml-mrss",
@@ -116,7 +130,7 @@
         "title": "Iran war: Netanyahu in Washington for meeting with Trump",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-netanyahu-in-washington-for-meeting-with-trump/live-78137927?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The meeting between the US President and the Israeli Prime Minister will be the first since the start of the war on Iran. Meanwhile, Washington has co..."
+        "summary": "The meeting between the US President and the Israeli Prime Minister will be the first since the start of the war on Iran. Meanwhile, Iran has executed..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-singer-d4vd-to-stand-trial-in-killing-of-14-year-old-girl/a-78137553?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "D4vd is accused of murdering 14-year-old Celeste Rivas Hernandez in 2025. Prosecutors allege that he dismembered her body and drove around with her de..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine's Zelenskyy in UK to meet new PM Burnham",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-s-zelenskyy-in-uk-to-meet-new-pm-burnham/a-78136104?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukrainian President Zelenskyy traveled to Portsmouth for UK PM Andy Burnham's first meeting with a foreign leader since taking office. The UK pledged ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Chad's government says it's withdrawing from the ICC",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/chad-s-government-says-it-s-withdrawing-from-the-icc/a-78132322?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Chad's Foreign Ministry has announced plans to leave the International Criminal Court. It said that its effectiveness was \"limited and uneven.\" Chad's..."
     }
 ]
