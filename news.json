@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Federal officials investigate after a video appears to show a person kicking a California sea lion",
-        "image": "https://media.zenfs.com/en/ap.org/ef7cef0fc98b0f8e15994c28b3ffda80",
-        "link": "https://www.yahoo.com/news/us/articles/federal-officials-investigate-video-appears-153024310.html",
+        "title": "Ex-Olympian charged with damaging Reflecting Pool sees 'irregularities' in grand jury proceedings",
+        "image": "https://media.zenfs.com/en/ap.org/a736b9e3733fc63de33c1282b315d8d1",
+        "link": "https://www.yahoo.com/news/us/articles/ex-olympian-charged-damaging-reflecting-232219982.html",
         "summary": "..."
     },
     {
@@ -92,17 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump administration urges Supreme Court to allow order targeting mail-in voting before midterms",
-        "image": "https://media.zenfs.com/en/ap.org/328ee1988361cd58f9f59418f9627799",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-urges-supreme-court-193739298.html",
+        "title": "Federal officials investigate after a video appears to show a person kicking a California sea lion",
+        "image": "https://media.zenfs.com/en/ap.org/ef7cef0fc98b0f8e15994c28b3ffda80",
+        "link": "https://www.yahoo.com/news/us/articles/federal-officials-investigate-video-appears-153024310.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "CEO of the top-rated hiring platform says the job market is so bad that candidates are paying $20 to mass apply and driving bosses crazy with spam",
-        "image": "https://media.zenfs.com/en/fortune_175/1aba407f3779f240ec253f3f5ffb87d6",
-        "link": "https://finance.yahoo.com/small-business/articles/greenhouse-ceo-says-job-seekers-070200061.html",
+        "title": "'We look sharp': Trump says White House ordered 250 Cadillac Escalades",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/46534d480df4d177ff4953d964da13de",
+        "link": "https://www.yahoo.com/news/politics/articles/look-sharp-trump-says-white-235628096.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US singer D4vd to stand trial in killing of 14-year-old girl",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-singer-d4vd-to-stand-trial-in-killing-of-14-year-old-girl/a-78137553?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "D4vd is accused of murdering 14-year-old Celeste Rivas Hernandez in 2025. Prosecutors allege that he dismembered her body and drove around with her de..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/indian-youth-score-a-win-over-modi-with-humor-and-grit/a-78132308?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Driven by social media satire, the Gen-Z-led \"Cockroach\" protest movement spurned by grievances over an exam scandal caused a shake-up in India's gove..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ghana's community service bill: A fix for the prison crisis?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ghana-s-community-service-bill-a-fix-for-the-prison-crisis/a-78104226?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The community service bill offers community service as an alternative to prison sentences, particularly for minor offenses. It's meant to decongest Gh..."
     }
 ]
