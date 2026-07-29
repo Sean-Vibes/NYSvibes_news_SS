@@ -78,9 +78,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former college soccer player found dead off San Diego beach in one of nation's wealthiest beach communities",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/ac7d0ab6726672bf872bc92e9cccf687",
-        "link": "https://www.yahoo.com/news/us/articles/former-college-soccer-player-found-172337889.html",
+        "title": "Captain, crew members in deadly Guyana ferry accident charged with murder",
+        "image": "https://media.zenfs.com/en/reuters.com/4d6c22825adaa55ba4e362cd1e3ea1d7",
+        "link": "https://www.yahoo.com/news/world/articles/captain-crew-members-deadly-guyana-170751250.html",
         "summary": "..."
     },
     {
@@ -92,17 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Video: Small Plane Makes Emergency Landing on California Beach",
-        "image": "https://media.zenfs.com/en/nbcu_713/d87018e98c2a1aa73bda35b3842d1cb9",
-        "link": "https://www.yahoo.com/news/videos/video-small-plane-makes-emergency-112320107.html",
+        "title": "Trump administration plans to end Medicare drug plan subsidy, WSJ reports",
+        "image": "https://media.zenfs.com/en/reuters.com/87fcaa838b80626f124a3ed434f8bbb4",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-plans-end-medicare-211507928.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "New York City women are making up to $30,000 per month by renting out their closets to strangers",
-        "image": "https://media.zenfs.com/en/fortune_175/700fddba76547c3498610e9be3eb62f3",
-        "link": "https://finance.yahoo.com/small-business/articles/york-city-women-making-30-070200378.html",
+        "title": "Police probe 'unexplained' deaths of man, 43, and woman, 36",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/04eafad6f245c1186c641f075cba9886",
+        "link": "https://www.yahoo.com/news/us/articles/police-probe-unexplained-deaths-man-111331265.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany: How weather extremes impact local agriculture",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-how-weather-extremes-impact-local-agriculture/a-78149292?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Heat, drought, heavy rain and late frosts are taking a toll on German farmers. They increasingly respond with adapted varieties, new crops, modern bre..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-netanyahu-hails-closed-door-meeting-with-trump/live-78137927?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The meeting between the US President and the Israeli Prime Minister is the first since the start of the war in Iran. Meanwhile, Tehran executed two me..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Zelenskyy visits Trump as Ukraine seeks stronger air defense",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/zelenskyy-visits-trump-as-ukraine-seeks-stronger-air-defense/a-78138704?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukrainian President Volodymyr Zelenskyy is seeking stronger military cooperation, as Kyiv and Moscow intensify long-range strikes amid stalled peace e..."
     }
 ]
