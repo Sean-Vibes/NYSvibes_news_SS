@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Marijuana Has \u2018Horrific Health Risks\u2019 And No Medical Value, Former Trump Attorney General Claims",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/marijuana-has-horrific-health-risks-and-no-medical-value-former-trump-attorney-general-claims/",
+        "summary": "<p>A former U.S. attorney general who served during President Donald Trump&#8217;s first term says marijuana &#8220;poses horrific health risks,&#8221..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Delaware Governor Signs Bill To Regulate And Tax Hemp THC Drinks",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/delaware-governor-signs-bill-to-regulate-and-tax-hemp-thc-drinks/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/daily-cannabis-use-surpasses-alcohol-cigarettes-newsletter-july-29-2026/",
         "summary": "<p>ID medical marijuana campaign won&#8217;t challenge ballot denial; Poll: Hemp bans drive consumers to license cannabis biz; Marijuana taxes study S..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Daily Marijuana Use Now Outpaces Alcohol Drinking And Cigarette Smoking, Federal Report Shows",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/daily-marijuana-use-now-outpaces-alcohol-drinking-and-cigarette-smoking-federal-report-shows/",
-        "summary": "<p>Americans are now more likely to use marijuana nearly every day than they are to smoke cigarettes or drink alcohol on a daily basis, according to a..."
     },
     {
         "source": "MJBizDaily",
@@ -92,17 +92,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "EBay, former executives to pay $56 million to settle couple's harassment case",
-        "image": "https://media.zenfs.com/en/reuters.com/1bf7387f70ad0555febf97ba7e63751f",
-        "link": "https://finance.yahoo.com/news/ebay-former-executives-pay-56-143003495.html",
+        "title": "Major Oregon interstate closed for 70 miles due to wildfire",
+        "image": "https://media.zenfs.com/en/ap.org/560f7f777830f3aa23d0f178b7882c0d",
+        "link": "https://www.yahoo.com/news/weather-news/articles/major-oregon-interstate-closed-70-194608788.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "ABC, NBC, CBS, CNN and MS NOW ignore Fauci diary entries that reveal fixation on fame during COVID",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/7c686b23ea8091bb6d86dfcf4f7c3a00",
-        "link": "https://www.yahoo.com/news/politics/articles/abc-nbc-cbs-cnn-ms-155330915.html",
+        "title": "Iran hangs 2 protesters in public, crowd cries 'dishonorable' as security fires tear gas",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/4f62d746c4734d95475a07c116c445ae",
+        "link": "https://www.yahoo.com/news/world/articles/iran-hangs-2-protesters-public-002459305.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "K-pop's BTS opt out of new Asian music Grammy consideration",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/k-pop-s-bts-opt-out-of-new-asian-music-grammy-consideration/a-78164222?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The K-pop sensation BTS, snubbed when nominated for Grammys in the past, say they're not interested in winning a new Asian music category...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Egypt's difficult balancing act",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-egypt-s-difficult-balancing-act/a-78162983?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US-Iran war has already had a negative economic impact on Egypt. Now new threats from the Houthi group in Yemen are likely to worsen that. At the ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "German Muslims are alarmed by the Islamist terror attack in Berlin",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/german-muslims-are-alarmed-by-the-islamist-terror-attack-in-berlin/a-78157854?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany's Muslim organizations condemn the Islamist terrorist attack targeting Berlin's Pride celebrations and fear repercussions...."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-temperatures-to-soar-amid-new-heatwave/live-78155827?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Germany is once again baking under extreme heat. Meanwhile, Chancellor Merz's Cabinet shake-up \u2014 triggered by a surrogacy scandal \u2014 was formalized in ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "BMW to cut up to 8,000 jobs",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/bmw-to-cut-up-to-8-000-jobs/a-78162615?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Nearly half of BMW's German staff will receive a voluntary redundancy offer in the carmaker's bid to reduce staff by about 8,000 people...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Europe wildfires: Spain lets people return, France faces extreme heat",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/europe-wildfires-spain-lets-people-return-france-faces-extreme-heat/a-78153758?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Spain lifted evacuations for Avila province, a day after doing so in parts of the Madrid area. To the north in France, temperatures rose again, with e..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How a Ugandan lost 20 years of her life to xenophobia",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-a-ugandan-lost-20-years-of-her-life-to-xenophobia/a-78144564?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After decades of building lives in South Africa, renewed anti-immigrant tensions in 2026 forced hundreds of African migrants to leave. A Ugandan who s..."
     }
 ]
