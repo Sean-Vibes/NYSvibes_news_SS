@@ -78,13 +78,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Police probe 'unexplained' deaths of man, 43, and woman, 36",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/04eafad6f245c1186c641f075cba9886",
-        "link": "https://www.yahoo.com/news/us/articles/police-probe-unexplained-deaths-man-111331265.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Wisconsin brewery that offered 'free beer' when Trump dies says alcohol permit revoked",
         "image": "https://media.zenfs.com/en/fox_news_text_979/062e8c2177b8172ec9af3a4d1cc96f40",
         "link": "https://www.yahoo.com/news/politics/articles/wisconsin-brewery-offered-free-beer-185718525.html",
@@ -92,9 +85,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Major Oregon interstate closed for 70 miles due to wildfire",
-        "image": "https://media.zenfs.com/en/ap.org/560f7f777830f3aa23d0f178b7882c0d",
-        "link": "https://www.yahoo.com/news/weather-news/articles/major-oregon-interstate-closed-70-194608788.html",
+        "title": "Why Iran chose to restart the fight after the US stopped firing",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/dab295ffcdf57325e491d945bff3d582",
+        "link": "https://www.yahoo.com/news/world/articles/iran-chose-restart-fight-us-170025756.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Ukrainian foreign minister says he warned Iranian counterpart against escalation, support for Russia",
+        "image": "https://media.zenfs.com/en/reuters.com/4490fb1243f5d25276156193dfc320ba",
+        "link": "https://www.yahoo.com/news/world/articles/ukrainian-foreign-minister-says-warned-182519006.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/4f62d746c4734d95475a07c116c445ae",
         "link": "https://www.yahoo.com/news/world/articles/iran-hangs-2-protesters-public-002459305.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "France expels Russian media commentator over disinformation",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/france-expels-russian-media-commentator-over-disinformation/a-78165435?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Tensions between Xenia Fedorova and the French date back to 2017, when President Emmanuel Macron accused her of spreading \"defamatory falsehoods.\"..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/world-cup-sell-off-has-fifa-finally-gone-too-far/a-78163682?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A new FIFA proposal to sell off a stake in the World Cup has been met with fury in the football world. Under Gianni Infantino\u2019s presidency, FIFA has b..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Temperatures to soar amid new heatwave",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-temperatures-to-soar-amid-new-heatwave/live-78155827?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany is once again baking under extreme heat. Meanwhile, Chancellor Merz's Cabinet shake-up \u2014 triggered by a surrogacy scandal \u2014 was formalized in ..."
     }
 ]
