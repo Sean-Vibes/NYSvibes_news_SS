@@ -78,9 +78,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "ABC, NBC, CBS, CNN and MS NOW ignore Fauci diary entries that reveal fixation on fame during COVID",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/7c686b23ea8091bb6d86dfcf4f7c3a00",
-        "link": "https://www.yahoo.com/news/politics/articles/abc-nbc-cbs-cnn-ms-155330915.html",
+        "title": "Former college soccer player found dead off San Diego beach in one of nation's wealthiest beach communities",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/ac7d0ab6726672bf872bc92e9cccf687",
+        "link": "https://www.yahoo.com/news/us/articles/former-college-soccer-player-found-172337889.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Exposed Fauci diary shows he estimated COVID-19 death rate to be much lower than what he told Congress",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/5a5d3158b9ebfb1afeac3251f09df177",
+        "link": "https://www.yahoo.com/news/politics/articles/exposed-fauci-diary-shows-estimated-142545557.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Video: Small Plane Makes Emergency Landing on California Beach",
+        "image": "https://media.zenfs.com/en/nbcu_713/d87018e98c2a1aa73bda35b3842d1cb9",
+        "link": "https://www.yahoo.com/news/videos/video-small-plane-makes-emergency-112320107.html",
         "summary": "..."
     },
     {
@@ -91,31 +105,24 @@
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "EBay, former executives to pay $56 million to settle couple's harassment case",
-        "image": "https://media.zenfs.com/en/reuters.com/1bf7387f70ad0555febf97ba7e63751f",
-        "link": "https://finance.yahoo.com/news/ebay-former-executives-pay-56-143003495.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former college soccer player found dead off San Diego beach in one of nation's wealthiest beach communities",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/ac7d0ab6726672bf872bc92e9cccf687",
-        "link": "https://www.yahoo.com/news/us/articles/former-college-soccer-player-found-172337889.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "US: Trump's intelligence chief pick Jay Clayton confirmed by Senate",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-trump-s-intelligence-chief-pick-jay-clayton-confirmed-by-senate/a-78152450?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Clayton's appointment comes as Trump lately has renewed false claims about the 2020 election, drawing scrutiny over the administration's handling of i..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iran war: US says Iranian missiles intercepted",
+        "title": "Iran war: US, Saudi Arabia strike Iran-backed Iraqi militias",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-us-says-iranian-missiles-intercepted/live-78152241?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/iran-war-us-saudi-arabia-strike-iran-backed-iraqi-militias/live-78152241?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The US military said it thwarted an \"attempted surprise attack\" by Iran that came after a days-long lull in fighting. Meanwhile, Israel's Netanyahu ha..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Japan: Strong earthquake hits Kumamoto, several dead",
+        "title": "Japan: Rescue 'race against time' after deadly earthquake hits Kumamoto",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/japan-strong-earthquake-hits-kumamoto-several-dead/a-78143660?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/japan-rescue-race-against-time-after-deadly-earthquake-hits-kumamoto/a-78143660?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Dozens of people were hospitalized after the earthquake hit southern Japan. According to media reports, at least two women were killed after a shoppin..."
     },
     {
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/zelenskyy-visits-trump-as-ukraine-seeks-stronger-air-defense/a-78138704?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Ukrainian President Volodymyr Zelenskyy is seeking stronger military cooperation, as Kyiv and Moscow intensify long-range strikes amid stalled peace e..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UN says online scam center trafficking is skyrocketing",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/un-says-online-scam-center-trafficking-is-skyrocketing/a-78150728?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Migration authorities have said gangs are trafficking ever more people to East Asian online scam centers. The UN says some 300,000 people from more th..."
     }
 ]
