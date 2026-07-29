@@ -1,6 +1,20 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "GOP Lawmaker Circulates Another New Bill To Keep Hemp THC Products Federally Legal",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/gop-lawmaker-circulates-another-new-bill-to-keep-hemp-thc-products-federally-legal/",
+        "summary": "<p>Another Republican congressman is circulating legislation that would delay a planned federal ban on hemp THC products and institute some regulation..."
+    },
+    {
+        "source": "Marijuana Moment",
+        "title": "Daily cannabis use surpasses alcohol & cigarettes (Newsletter: July 29, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/daily-cannabis-use-surpasses-alcohol-cigarettes-newsletter-july-29-2026/",
+        "summary": "<p>ID medical marijuana campaign won&#8217;t challenge ballot denial; Poll: Hemp bans drive consumers to license cannabis biz; Marijuana taxes study S..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Daily Marijuana Use Now Outpaces Alcohol Drinking And Cigarette Smoking, Federal Report Shows",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/daily-marijuana-use-now-outpaces-alcohol-drinking-and-cigarette-smoking-federal-report-shows/",
@@ -19,20 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/idaho-medical-marijuana-campaign-reacts-to-state-officials-claims-about-its-unsuccessful-push-to-get-on-ballot/",
         "summary": "<p>A campaign that tried unsuccessfully to get a medical cannabis legalization initiative on Idaho&#8217;s ballot this year is pushing back against a ..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Setting Marijuana Taxes Too High Drives Consumers To The Illegal Market, Federally Funded Study Finds",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/setting-marijuana-taxes-too-high-drives-consumers-to-the-illegal-market-federally-funded-study-finds/",
-        "summary": "<p>States that impose high tax rates on regulated marijuana products are driving adult consumers to the illicit market, according to a new federally f..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Teen cannabis use is going down as more states legalize, federal study shows (Newsletter: July 28, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/teen-cannabis-use-is-going-down-as-more-states-legalize-federal-study-shows-newsletter-july-28-2026/",
-        "summary": "<p>Marijuana testing in ERs bill advances in Congress; WI gov: stop hemp THC product ban; VT cannabis reforms help combat illicit market Subscribe\u00a0to ..."
     },
     {
         "source": "MJBizDaily",
@@ -78,13 +78,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Police probe 'unexplained' deaths of man, 43, and woman, 36",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/04eafad6f245c1186c641f075cba9886",
-        "link": "https://www.yahoo.com/news/us/articles/police-probe-unexplained-deaths-man-111331265.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Wisconsin brewery that offered 'free beer' when Trump dies says alcohol permit revoked",
         "image": "https://media.zenfs.com/en/fox_news_text_979/062e8c2177b8172ec9af3a4d1cc96f40",
         "link": "https://www.yahoo.com/news/politics/articles/wisconsin-brewery-offered-free-beer-185718525.html",
@@ -92,9 +85,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ex-Olympian charged with damaging Reflecting Pool sees 'irregularities' in grand jury proceedings",
-        "image": "https://media.zenfs.com/en/wusa_tegna_videos_112/41e89595c31fbe7ed011bd6c105dd5b2",
-        "link": "https://www.yahoo.com/news/us/articles/us--reflecting-pool-grand-jury-232219982.html",
+        "title": "Police probe 'unexplained' deaths of man, 43, and woman, 36",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/04eafad6f245c1186c641f075cba9886",
+        "link": "https://www.yahoo.com/news/us/articles/police-probe-unexplained-deaths-man-111331265.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "The 5 best midsize three-row SUVs, according to Edmunds",
+        "image": "https://media.zenfs.com/en/ap.org/205d0a2eff9fb197c2fb1a2b17b04c59",
+        "link": "https://autos.yahoo.com/deals-and-buying-guides/articles/5-best-midsize-three-row-112644578.html",
         "summary": "..."
     },
     {
@@ -106,37 +106,37 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "France: DJ Kavinsky found dead at Paris home",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/france-dj-kavinsky-found-dead-at-paris-home/a-78159118?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The star of the French electro scene, whose real name was Vincent Belorgey, was best known for his 2010 single Nightcall which he performed at the clo..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Japan: Hospitals struggle after deadly Kumamoto earthquake",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/japan-hospitals-struggle-after-deadly-kumamoto-earthquake/live-78155782?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Rescuers are searching for survivors after a magnitude 7.1 earthquake struck southern Japan, killing over a dozen people and causing widespread damage..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany: How effective are exit programs for Islamists?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-how-effective-are-exit-programs-for-islamists/a-78156050?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany has set up many programs to help individuals break away from the radical Islamist scene. Following the Islamist terror attack on Berlin's Prid..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: BMW to cut up to 8,000 jobs",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-bmw-to-cut-up-to-8-000-jobs/live-78155827?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The auto giant BMW has become the latest German car company to announce major job cuts, projected to shed 8,000 by the end of 2027. Meanwhile, new min..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "India news: Police issue FIRs over 'abusive' posts against Modi",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-news-police-issue-firs-over-abusive-posts-against-modi/live-78156014?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Delhi police asked X to provide details on users who allegedly posted or shared \"abusive\" content on Prime Minister Narendra Modi. Follow DW for more...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US bans Chinese and foreign-made humanoid robots",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-bans-chinese-and-foreign-made-humanoid-robots/a-78154426?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Trump administration has banned the import of humanoid and quadruped robots manufactured outside the United States, citing national security conce..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Europe wildfires: France expands mass evacuations as Spain battles record blaze",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/europe-wildfires-france-expands-mass-evacuations-as-spain-battles-record-blaze/a-78153758?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Over 20 aircraft have been deployed to fight new fires west of Bordeaux, and Spanish firefighters fear two fires could merge west of Madrid. Scientist..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How Iran, Ukraine wars and El Nino could fuel world hunger",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-iran-ukraine-wars-and-el-nino-could-fuel-world-hunger/a-78126433?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The wars in Ukraine and the Middle East haven't yet crippled global food supplies. Add a powerful weather pattern like El Nino, however, and the risks..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "The Slovak village questioning its UNESCO status",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/the-slovak-village-questioning-its-unesco-status/a-78141298?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The picturesque village of Vlkolinec in Slovakia has been on UNESCO's World Heritage List since 1993. Vlkolinec was recently in the headlines for want..."
     }
 ]
