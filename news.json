@@ -78,9 +78,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Captain, crew members in deadly Guyana ferry accident charged with murder",
-        "image": "https://media.zenfs.com/en/reuters.com/4d6c22825adaa55ba4e362cd1e3ea1d7",
-        "link": "https://www.yahoo.com/news/world/articles/captain-crew-members-deadly-guyana-170751250.html",
+        "title": "Police probe 'unexplained' deaths of man, 43, and woman, 36",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/04eafad6f245c1186c641f075cba9886",
+        "link": "https://www.yahoo.com/news/us/articles/police-probe-unexplained-deaths-man-111331265.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Wisconsin brewery that offered 'free beer' when Trump dies says alcohol permit revoked",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/062e8c2177b8172ec9af3a4d1cc96f40",
+        "link": "https://www.yahoo.com/news/politics/articles/wisconsin-brewery-offered-free-beer-185718525.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Ex-Olympian charged with damaging Reflecting Pool sees 'irregularities' in grand jury proceedings",
+        "image": "https://media.zenfs.com/en/wusa_tegna_videos_112/41e89595c31fbe7ed011bd6c105dd5b2",
+        "link": "https://www.yahoo.com/news/us/articles/us--reflecting-pool-grand-jury-232219982.html",
         "summary": "..."
     },
     {
@@ -91,52 +105,38 @@
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump administration plans to end Medicare drug plan subsidy, WSJ reports",
-        "image": "https://media.zenfs.com/en/reuters.com/87fcaa838b80626f124a3ed434f8bbb4",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-plans-end-medicare-211507928.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Police probe 'unexplained' deaths of man, 43, and woman, 36",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/04eafad6f245c1186c641f075cba9886",
-        "link": "https://www.yahoo.com/news/us/articles/police-probe-unexplained-deaths-man-111331265.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "India news: Police issue FIRs over 'abusive' posts against Modi",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-police-issue-firs-over-abusive-posts-against-modi/live-78156014?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Delhi police asked X to provide details on users who allegedly posted or shared \"abusive\" content on Prime Minister Narendra Modi. Follow DW for more...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany: How weather extremes impact local agriculture",
+        "title": "US bans Chinese and foreign-made humanoid robots",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-how-weather-extremes-impact-local-agriculture/a-78149292?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Heat, drought, heavy rain and late frosts are taking a toll on German farmers. They increasingly respond with adapted varieties, new crops, modern bre..."
+        "link": "https://www.dw.com/en/us-bans-chinese-and-foreign-made-humanoid-robots/a-78154426?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Trump administration has banned the import of humanoid and quadruped robots manufactured outside the United States, citing national security conce..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "US: Trump's intelligence chief pick Jay Clayton confirmed by Senate",
+        "title": "Europe wildfires: France expands mass evacuations as Spain battles record blaze",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-trump-s-intelligence-chief-pick-jay-clayton-confirmed-by-senate/a-78152450?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Clayton's appointment comes as Trump lately has renewed false claims about the 2020 election, drawing scrutiny over the administration's handling of i..."
+        "link": "https://www.dw.com/en/europe-wildfires-france-expands-mass-evacuations-as-spain-battles-record-blaze/a-78153758?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Over 20 aircraft have been deployed to fight new fires west of Bordeaux, and Spanish firefighters fear two fires could merge west of Madrid. Scientist..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iran war: US, Saudi Arabia strike Iran-backed Iraqi militias",
+        "title": "How Iran, Ukraine wars and El Nino could fuel world hunger",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-us-saudi-arabia-strike-iran-backed-iraqi-militias/live-78152241?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US military said it thwarted an \"attempted surprise attack\" by Iran that came after a days-long lull in fighting. Meanwhile, Israel's Netanyahu ha..."
+        "link": "https://www.dw.com/en/how-iran-ukraine-wars-and-el-nino-could-fuel-world-hunger/a-78126433?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The wars in Ukraine and the Middle East haven't yet crippled global food supplies. Add a powerful weather pattern like El Nino, however, and the risks..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Japan: Rescue 'race against time' after deadly earthquake hits Kumamoto",
+        "title": "The Slovak village questioning its UNESCO status",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/japan-rescue-race-against-time-after-deadly-earthquake-hits-kumamoto/a-78143660?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Dozens of people were hospitalized after the earthquake hit southern Japan. According to media reports, at least two women were killed after a shoppin..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Netanyahu hails closed-door meeting with Trump",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-netanyahu-hails-closed-door-meeting-with-trump/live-78137927?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The meeting between the US President and the Israeli Prime Minister is the first since the start of the war in Iran. Meanwhile, Tehran executed two me..."
+        "link": "https://www.dw.com/en/the-slovak-village-questioning-its-unesco-status/a-78141298?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The picturesque village of Vlkolinec in Slovakia has been on UNESCO's World Heritage List since 1993. Vlkolinec was recently in the headlines for want..."
     }
 ]
