@@ -36,6 +36,20 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "California cannabis regulators approve self-checkout at licensed retailer",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/california-cannabis-regulators-approve-self-checkout-at-licensed-retailer/617177/",
+        "summary": "<p>Perfect Union Northside in Sacramento has an RFID self-checkout system that complies with state cannabis regulations.</p>\n<p><a href=\"https://mjbiz..."
+    },
+    {
+        "source": "MJBizDaily",
+        "title": "Texas ban on delta-8 THC, other synthetic hemp-derived products reinstated Friday",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/texas-ban-on-delta-8-thc-other-synthetic-hemp-derived-products-reinstated-friday/617180/",
+        "summary": "<p>Reinstated by a judge, restrictions on certain hemp THC products in Texas go into effect again Friday. Sales and possession of delta-8 THC products..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "Canadian cannabis giant SNDL claims to be world\u2019s largest after Parallel takeover",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/canadian-cannabis-giant-sndl-claims-to-be-worlds-largest-after-parallel-takeover/617150/",
@@ -56,20 +70,6 @@
         "summary": "<p>A federal judge declined to hand a Utah vertically medical marijuana company victory in a labor case.</p>\n<p><a href=\"https://mjbizdaily.com/news/s..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Rhode Island to reset cannabis retail licensing, refund applicants and start over",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/rhode-island-to-reset-cannabis-retail-licensing-refund-applicants-and-start-over/617135/",
-        "summary": "<p>Rhode Island is restarting its licensing rollout after the residency requirement froze the first round of applications.</p>\n<p><a href=\"https://mjb..."
-    },
-    {
-        "source": "MJBizDaily",
-        "title": "The cannabis industry is having a price compression crisis. What\u2019s the solution?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/the-cannabis-industry-is-having-a-price-compression-crisis-whats-the-solution/617103/",
-        "summary": "<p>U.S. cannabis sales declined year over year for the first time on record, falling from $32 billion to $29.94 billion.</p>\n<p><a href=\"https://mjbiz..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "South Korea orders residents to evacuate after reported white phosphorus leak at US base",
         "image": "https://media.zenfs.com/en/ap.org/99914f5b7515cbe2e8e55543538781d1",
@@ -85,24 +85,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Why Iran chose to restart the fight after the US stopped firing",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/dab295ffcdf57325e491d945bff3d582",
-        "link": "https://www.yahoo.com/news/world/articles/iran-chose-restart-fight-us-170025756.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukrainian foreign minister says he warned Iranian counterpart against escalation, support for Russia",
-        "image": "https://media.zenfs.com/en/reuters.com/4490fb1243f5d25276156193dfc320ba",
-        "link": "https://www.yahoo.com/news/world/articles/ukrainian-foreign-minister-says-warned-182519006.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Iran hangs 2 protesters in public, crowd cries 'dishonorable' as security fires tear gas",
         "image": "https://media.zenfs.com/en/fox_news_text_979/4f62d746c4734d95475a07c116c445ae",
         "link": "https://www.yahoo.com/news/world/articles/iran-hangs-2-protesters-public-002459305.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Study suggests the threat of mold-associated illnesses may be underappreciated",
+        "image": "https://media.zenfs.com/en/ap.org/ce570837c64baa89f9143c86fdc796e1",
+        "link": "https://www.yahoo.com/news/science/articles/study-suggests-threat-mold-associated-190350162.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Police probe 'unexplained' deaths of man, 43, and woman, 36",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/04eafad6f245c1186c641f075cba9886",
+        "link": "https://www.yahoo.com/news/us/articles/police-probe-unexplained-deaths-man-111331265.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Report finds 2025 was deadliest year for antisemitic attacks outside Israel",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/report-finds-2025-was-deadliest-year-for-antisemitic-attacks-outside-israel/a-78166044?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany had the highest number of antisemitic incidents in 2025, both in absolute and relative terms, a report has found...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "How well are LGBTQ+ rights protected across Europe?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/how-well-are-lgbtq-rights-protected-across-europe/a-78166254?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After the attack on Berlin\u2019s Pride event on Saturday, the situation of the LGBTQ+ community in Germany is a topic of conversation. How well are queer ..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-egypt-s-difficult-balancing-act/a-78162983?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The US-Iran war has already had a negative economic impact on Egypt. Now new threats from the Houthi group in Yemen are likely to worsen that. At the ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "German Muslims are alarmed by the Islamist terror attack in Berlin",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/german-muslims-are-alarmed-by-the-islamist-terror-attack-in-berlin/a-78157854?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany's Muslim organizations condemn the Islamist terrorist attack targeting Berlin's Pride celebrations and fear repercussions...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "World Cup sell off: Has FIFA finally gone too far?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/world-cup-sell-off-has-fifa-finally-gone-too-far/a-78163682?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A new FIFA proposal to sell off a stake in the World Cup has been met with fury in the football world. Under Gianni Infantino\u2019s presidency, FIFA has b..."
     }
 ]
