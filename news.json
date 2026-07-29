@@ -1,6 +1,20 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Delaware Governor Signs Bill To Regulate And Tax Hemp THC Drinks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/delaware-governor-signs-bill-to-regulate-and-tax-hemp-thc-drinks/",
+        "summary": "<p>Delaware&#8217;s governor has signed a bill that seeks to regulate hemp-derived THC beverages\u2014including with an age limit, potency restrictions and..."
+    },
+    {
+        "source": "Marijuana Moment",
+        "title": "Marijuana Businesses Ask New York Governor To Veto Bill On Minimum Wage For Industry Workers",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/marijuana-businesses-ask-new-york-governor-to-veto-bill-on-minimum-wage-for-industry-workers/",
+        "summary": "<p>A coalition of New York marijuana businesses are asking the state&#8217;s governor to veto legislation that would create a new Cannabis Wage Board ..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "GOP Lawmaker Circulates Another New Bill To Keep Hemp THC Products Federally Legal",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/gop-lawmaker-circulates-another-new-bill-to-keep-hemp-thc-products-federally-legal/",
@@ -19,20 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/daily-marijuana-use-now-outpaces-alcohol-drinking-and-cigarette-smoking-federal-report-shows/",
         "summary": "<p>Americans are now more likely to use marijuana nearly every day than they are to smoke cigarettes or drink alcohol on a daily basis, according to a..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Banning Hemp THC Products Drives Consumers Toward Licensed Marijuana Businesses, Poll Shows",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/banning-hemp-thc-products-drives-consumers-toward-licensed-marijuana-businesses-poll-shows/",
-        "summary": "<p>With the federal recriminalization of hemp THC products looming in November, a growing number of states are enacting their own laws to ban intoxica..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Idaho Medical Marijuana Campaign Reacts To State Official\u2019s Claims About Its Unsuccessful Push To Get On Ballot",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/idaho-medical-marijuana-campaign-reacts-to-state-officials-claims-about-its-unsuccessful-push-to-get-on-ballot/",
-        "summary": "<p>A campaign that tried unsuccessfully to get a medical cannabis legalization initiative on Idaho&#8217;s ballot this year is pushing back against a ..."
     },
     {
         "source": "MJBizDaily",
@@ -78,13 +78,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Wisconsin brewery that offered 'free beer' when Trump dies says alcohol permit revoked",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/062e8c2177b8172ec9af3a4d1cc96f40",
-        "link": "https://www.yahoo.com/news/politics/articles/wisconsin-brewery-offered-free-beer-185718525.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Police probe 'unexplained' deaths of man, 43, and woman, 36",
         "image": "https://media.zenfs.com/en/bbc_us_articles_995/04eafad6f245c1186c641f075cba9886",
         "link": "https://www.yahoo.com/news/us/articles/police-probe-unexplained-deaths-man-111331265.html",
@@ -92,51 +85,58 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The 5 best midsize three-row SUVs, according to Edmunds",
-        "image": "https://media.zenfs.com/en/ap.org/205d0a2eff9fb197c2fb1a2b17b04c59",
-        "link": "https://autos.yahoo.com/deals-and-buying-guides/articles/5-best-midsize-three-row-112644578.html",
+        "title": "Wisconsin brewery that offered 'free beer' when Trump dies says alcohol permit revoked",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/062e8c2177b8172ec9af3a4d1cc96f40",
+        "link": "https://www.yahoo.com/news/politics/articles/wisconsin-brewery-offered-free-beer-185718525.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exposed Fauci diary shows he estimated COVID-19 death rate to be much lower than what he told Congress",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/5a5d3158b9ebfb1afeac3251f09df177",
-        "link": "https://www.yahoo.com/news/politics/articles/exposed-fauci-diary-shows-estimated-142545557.html",
+        "title": "EBay, former executives to pay $56 million to settle couple's harassment case",
+        "image": "https://media.zenfs.com/en/reuters.com/1bf7387f70ad0555febf97ba7e63751f",
+        "link": "https://finance.yahoo.com/news/ebay-former-executives-pay-56-143003495.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "ABC, NBC, CBS, CNN and MS NOW ignore Fauci diary entries that reveal fixation on fame during COVID",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/7c686b23ea8091bb6d86dfcf4f7c3a00",
+        "link": "https://www.yahoo.com/news/politics/articles/abc-nbc-cbs-cnn-ms-155330915.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "France: DJ Kavinsky found dead at Paris home",
+        "title": "World Cup sell off: Has FIFA finally gone too far?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/france-dj-kavinsky-found-dead-at-paris-home/a-78159118?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The star of the French electro scene, whose real name was Vincent Belorgey, was best known for his 2010 single Nightcall which he performed at the clo..."
+        "link": "https://www.dw.com/en/world-cup-sell-off-has-fifa-finally-gone-too-far/a-78163682?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A new FIFA proposal to sell off a stake in the World Cup has been met with fury in the football world. Under Gianni Infantino\u2019s presidency, FIFA has b..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Japan: Hospitals struggle after deadly Kumamoto earthquake",
+        "title": "Germany news: Temperatures to soar amid new heatwave",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/japan-hospitals-struggle-after-deadly-kumamoto-earthquake/live-78155782?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Rescuers are searching for survivors after a magnitude 7.1 earthquake struck southern Japan, killing over a dozen people and causing widespread damage..."
+        "link": "https://www.dw.com/en/germany-news-temperatures-to-soar-amid-new-heatwave/live-78155827?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany is once again baking under extreme heat. Meanwhile, Chancellor Merz's Cabinet shake-up \u2014 triggered by a surrogacy scandal \u2014 was formalized in ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany: How effective are exit programs for Islamists?",
+        "title": "BMW to cut up to 8,000 jobs",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-how-effective-are-exit-programs-for-islamists/a-78156050?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany has set up many programs to help individuals break away from the radical Islamist scene. Following the Islamist terror attack on Berlin's Prid..."
+        "link": "https://www.dw.com/en/bmw-to-cut-up-to-8-000-jobs/a-78162615?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Nearly half of BMW's German staff will receive a voluntary redundancy offer in the carmaker's bid to reduce staff by about 8,000 people...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany news: BMW to cut up to 8,000 jobs",
+        "title": "Europe wildfires: Spain lets people return, France faces extreme heat",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-bmw-to-cut-up-to-8-000-jobs/live-78155827?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The auto giant BMW has become the latest German car company to announce major job cuts, projected to shed 8,000 by the end of 2027. Meanwhile, new min..."
+        "link": "https://www.dw.com/en/europe-wildfires-spain-lets-people-return-france-faces-extreme-heat/a-78153758?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Spain lifted evacuations for Avila province, a day after doing so in parts of the Madrid area. To the north in France, temperatures rose again, with e..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "India news: Police issue FIRs over 'abusive' posts against Modi",
+        "title": "How a Ugandan lost 20 years of her life to xenophobia",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-police-issue-firs-over-abusive-posts-against-modi/live-78156014?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Delhi police asked X to provide details on users who allegedly posted or shared \"abusive\" content on Prime Minister Narendra Modi. Follow DW for more...."
+        "link": "https://www.dw.com/en/how-a-ugandan-lost-20-years-of-her-life-to-xenophobia/a-78144564?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After decades of building lives in South Africa, renewed anti-immigrant tensions in 2026 forced hundreds of African migrants to leave. A Ugandan who s..."
     }
 ]
