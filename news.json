@@ -85,9 +85,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran hangs 2 protesters in public, crowd cries 'dishonorable' as security fires tear gas",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/4f62d746c4734d95475a07c116c445ae",
-        "link": "https://www.yahoo.com/news/world/articles/iran-hangs-2-protesters-public-002459305.html",
+        "title": "Joe Rogan warns liberals against trying to turn Texas blue, says it would wreck the state's 'delicate balance'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/3d5dcd6dd4db062a96c6a0cd8a9d8fca",
+        "link": "https://www.yahoo.com/entertainment/celebrity/articles/joe-rogan-warns-liberals-against-005251773.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Joe Rogan warns liberals against trying to turn Texas blue, says it would wreck the state's 'delicate balance'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/3d5dcd6dd4db062a96c6a0cd8a9d8fca",
-        "link": "https://www.yahoo.com/entertainment/celebrity/articles/joe-rogan-warns-liberals-against-005251773.html",
+        "title": "Iran hangs 2 protesters in public, crowd cries 'dishonorable' as security fires tear gas",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/4f62d746c4734d95475a07c116c445ae",
+        "link": "https://www.yahoo.com/news/world/articles/iran-hangs-2-protesters-public-002459305.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "French student fined over Singapore straw licking prank",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/french-student-fined-over-singapore-straw-licking-prank/a-78167837?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A social media stunt involving a single straw has left a French student facing a hefty fine \u2014 and possible consequences for his right to remain in Sin..."
     },
     {
         "source": "Deutsche Welle",
@@ -120,9 +127,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iran war: US launches strikes on Iran as 'powerful response'",
+        "title": "Iran war: US carries out fresh strikes in 'powerful response'",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-us-launches-strikes-on-iran-as-powerful-response/live-78166958?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/iran-war-us-carries-out-fresh-strikes-in-powerful-response/live-78166958?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The US military said the strikes were in response to Iranian strikes on US forces a day earlier. Trump had threatened to hit Iran \"very hard\" in respo..."
     },
     {
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/explosions-in-kyiv-after-zelenskyy-warns-of-russian-strikes/a-78167375?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "At least one person was killed in a Russian air strike on Ukraine's capital, Kyiv. President Volodymyr Zelenskyy had warned that Russia had \"prepared ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Report finds 2025 was deadliest year for antisemitic attacks outside Israel",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/report-finds-2025-was-deadliest-year-for-antisemitic-attacks-outside-israel/a-78166044?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany had the highest number of antisemitic incidents in 2025, both in absolute and relative terms, a report has found...."
     }
 ]
