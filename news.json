@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Senior Citizens Can Order Marijuana On \u2018Easy Mode\u2019 From New Kiosk At Independent Living Community In Arizona",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/senior-citizens-can-order-marijuana-on-easy-mode-from-new-kiosk-at-independent-living-community-in-arizona/",
+        "summary": "<p>Senior residents at some independent living communities will soon have access to on-site kiosks allowing them to easily buy marijuana products with..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "FAA Considers New Marijuana Standards For Pilots And Air Traffic Controllers Under Trump\u2019s Rescheduling Move",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/faa-considers-new-marijuana-standards-for-pilots-and-air-traffic-controllers-under-trumps-rescheduling-move/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/california-treasurer-calls-voter-approved-marijuana-legalization-law-a-complete-failure-that-should-be-replaced-with-a-new-ballot-initiative/",
         "summary": "<p>California\u2019s marijuana legalization law that voters approved a decade ago has been a \u201ccomplete failure\u201d and should be replaced with a new ballot in..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Virginia Attorney General Launches Enforcement Effort On Hemp THC Products, Kratom And \u2018Emerging Intoxicants\u2019",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/virginia-attorney-general-launches-enforcement-effort-on-hemp-thc-products-kratom-and-emerging-intoxicants/",
-        "summary": "<p>&#8220;New intoxicating products and substances enter the market every single day, many of which include dangerous or illegal ingredients.&#8221; B..."
     },
     {
         "source": "MJBizDaily",
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive-Ford CEO tells employees Chinese automakers could enter US market in next decade",
-        "image": "https://media.zenfs.com/en/reuters.com/a77776fa2b26c3ec97cd1b7036067b32",
-        "link": "https://finance.yahoo.com/news/exclusive-ford-ceo-tells-employees-164329875.html",
+        "title": "Trump announces a $22.5B makeover of Dulles airport that will eliminate the 'people movers'",
+        "image": "https://media.zenfs.com/en/ap.org/4756a7394b25aa2e02743e6a272bebc7",
+        "link": "https://www.yahoo.com/news/us/articles/trump-set-announce-22b-makeover-180141297.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,20 @@
         "image": "https://media.zenfs.com/en/cnn_articles_875/7c9d264dbf853c8b06e2f405c23dbc32",
         "link": "https://www.yahoo.com/news/politics/articles/gop-senate-nominee-ends-press-224743959.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UK court allows plans for Chinese 'super' embassy to advance",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/uk-court-allows-plans-for-chinese-super-embassy-to-advance/a-78194764?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A court dismissed a legal challenge against Beijing's new embassy in London, which could become the largest in the UK. The case, brought by a neighbor..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Why Europe's wildfires are getting harder to stop",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/why-europe-s-wildfires-are-getting-harder-to-stop/a-78194776?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Wildfires may start with a single spark, but experts say climate change, drought and decades of forest management decisions have created the condition..."
     },
     {
         "source": "Deutsche Welle",
@@ -123,20 +137,6 @@
         "title": "Humanoid robots: Trump's latest China trade battle?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/humanoid-robots-trump-s-latest-china-trade-battle/a-78181288?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US has banned foreign-made humanoid robots \u2014 a market dominated by Chinese tech firms. Although Washington cited national security risks, analysts..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Unemployment tops 3 million as industry slumps",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-unemployment-tops-3-million-as-industry-slumps/live-78191048?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Over three million people are currently unemployed in Germany, with 1.1 million drawing unemployment checks, authorities say. Also, sales of air condi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Eco wins: From death strip to nature haven and other green surprises",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eco-wins-from-death-strip-to-nature-haven-and-other-green-surprises/a-78187601?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A Cold War relic becomes a biodiversity haven, a Pokemon Go for trees and seagrass gets a second life. This week's eco wins come from some unexpected ..."
+        "summary": "The US has banned foreign-made humanoid robots, a market Chinese tech firms dominates. Although Washington cited national security risks, analysts thi..."
     }
 ]
