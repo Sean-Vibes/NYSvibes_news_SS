@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Study suggests the threat of mold-associated illnesses may be underappreciated",
-        "image": "https://media.zenfs.com/en/ap.org/ce570837c64baa89f9143c86fdc796e1",
-        "link": "https://www.yahoo.com/news/science/articles/study-suggests-threat-mold-associated-190350162.html",
+        "title": "Ancient mummy DNA provides scientific evidence that colonization brought smallpox to the Americas",
+        "image": "https://media.zenfs.com/en/ap.org/5b14100932f5b37b27393be6d71ad9c1",
+        "link": "https://www.yahoo.com/news/science/articles/ancient-mummy-dna-provides-scientific-181640250.html",
         "summary": "..."
     },
     {
@@ -92,17 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump announces a $22.5B makeover of Dulles airport that will eliminate the 'people movers'",
-        "image": "https://media.zenfs.com/en/ap.org/4756a7394b25aa2e02743e6a272bebc7",
-        "link": "https://www.yahoo.com/news/us/articles/trump-set-announce-22b-makeover-180141297.html",
+        "title": "\u2018People are going to die\u2019: California residents address aftermath of Boyle Heights warehouse fire",
+        "image": "https://media.zenfs.com/en/nbcu_713/edcb74b85b290ff77fc3c67c69b45d3e",
+        "link": "https://www.yahoo.com/news/videos/people-going-die-california-residents-015917187.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "GOP Senate nominee ends press conference after questions on ties to White nationalist influencer",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/7c9d264dbf853c8b06e2f405c23dbc32",
-        "link": "https://www.yahoo.com/news/politics/articles/gop-senate-nominee-ends-press-224743959.html",
+        "title": "Colorado small town abandoned after all elected officials resign, water concerns grow",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/8d07fed26fcf6983ded9c7d6c53d9960",
+        "link": "https://www.yahoo.com/news/us/articles/colorado-small-town-abandoned-elected-134743421.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "DR Congo Ebola outbreak becomes world's second-largest ever",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/dr-congo-ebola-outbreak-becomes-world-s-second-largest-ever/a-78196627?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "DR Congo\u2019s fast-spreading Ebola outbreak has exceeded 3,500 cases, overtaking the country\u2019s deadliest epidemic and becoming the world\u2019s second-largest..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/from-petitions-to-memes-how-students-made-dissent-visible/a-78146908?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "From imperial China to present-day India, student movements have repeatedly adapted the tools and symbols of their age to challenge authority...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Humanoid robots: Trump's latest China trade battle?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/humanoid-robots-trump-s-latest-china-trade-battle/a-78181288?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US has banned foreign-made humanoid robots, a market Chinese tech firms dominates. Although Washington cited national security risks, analysts thi..."
     }
 ]
