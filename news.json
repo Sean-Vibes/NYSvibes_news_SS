@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Father who gave gun to Apalachee High School shooter sentenced to serve 15 years in prison",
-        "image": "https://media.zenfs.com/en/waga_fox_local_videos_854/05960b5dec12ac00dc45095780bb6f3e",
-        "link": "https://www.yahoo.com/news/us/articles/us--georgia-high-school-shooting-040705507.html",
+        "title": "Montana man hikes out of the mountains to get help after he was impaled by a trekking pole",
+        "image": "https://media.zenfs.com/en/krem_tegna_videos_762/ad778f6a3717932cada45b865db92c22",
+        "link": "https://www.yahoo.com/news/us/articles/us--impaled-hiker-041058539.html",
         "summary": "..."
     },
     {
@@ -85,24 +85,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Tim Cook signed off on his final Apple earnings call with a warning about a \u2018hundred year flood\u2019\u00a0in memory chip pricing",
+        "image": "https://media.zenfs.com/en/fortune_175/7523c689625dcc171d64edbece964835",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/tim-cook-signed-off-final-002807332.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Study suggests the threat of mold-associated illnesses may be underappreciated",
+        "image": "https://media.zenfs.com/en/ap.org/ce570837c64baa89f9143c86fdc796e1",
+        "link": "https://www.yahoo.com/news/science/articles/study-suggests-threat-mold-associated-190350162.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Laura Ingraham stands at Fauci hearing alongside others \u2018shamed\u2019 during COVID-19",
         "image": "https://media.zenfs.com/en/the_hill_articles_341/192622760269bbfd97fb7fc42635ac9a",
         "link": "https://www.yahoo.com/news/politics/articles/laura-ingraham-stands-fauci-hearing-180029854.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Investigation revealed 'devastating' reports of sexual misconduct at school supported by Epstein",
-        "image": "https://media.zenfs.com/en/ap.org/e09deb89ea2e8812fdb53619abd4bfdb",
-        "link": "https://www.yahoo.com/news/us/articles/investigation-revealed-devastating-reports-sexual-183017850.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Climate change made 'fire-prone' weather conditions more likely in Spain and France, scientists say",
-        "image": "https://media.zenfs.com/en/reuters.com/91f6827d254df4f4815c1d616ccccf22",
-        "link": "https://www.yahoo.com/news/science/articles/climate-change-made-fire-prone-220139925.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Anthropic says Claude AI hacked three companies during tests",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/anthropic-says-claude-ai-hacked-three-companies-during-tests/a-78184070?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Three separate versions of Claude AI broke out of cybertesting environments and hacked three firms, its developer Anthropic said. The development come..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/kenya-15-dead-elephants-likely-poisoned-by-cyanide/a-78181878?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The elephants ate contaminated tomatoes from nearby farms. It was unclear if the poisoning was deliberate or accidental...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Berlin Pride attack: Are German juvenile courts too lenient?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/berlin-pride-attack-are-german-juvenile-courts-too-lenient/a-78181294?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Islamist terror attack on Berlin Pride has put the work of juvenile courts into the spotlight. Many argue the 21-year-old perpetrator should have ..."
     }
 ]
