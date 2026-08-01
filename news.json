@@ -85,9 +85,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Psilocybin helps most vets with PTSD, small study shows",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/e171e5d69a1363605731ffcdb311e37c",
-        "link": "https://www.yahoo.com/news/science/articles/psilocybin-helps-most-vets-ptsd-151657289.html",
+        "title": "Democratic Socialists of America activists signed pledge to support, defend 'Chinese socialism'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/e572ac3c2a215baa9da773369faa0cbf",
+        "link": "https://www.yahoo.com/news/politics/articles/democratic-socialists-america-activists-signed-153458490.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "FBI investigating possible ties between Iran and cyberattacks on Minnesota water systems",
-        "image": "https://media.zenfs.com/en/nbcu_713/413f38e58f660a47b542806ca8991181",
-        "link": "https://www.yahoo.com/news/videos/fbi-investigating-possible-ties-between-215630645.html",
+        "title": "Psilocybin helps most vets with PTSD, small study shows",
+        "image": "https://media.zenfs.com/en/newsnation_articles_600/e171e5d69a1363605731ffcdb311e37c",
+        "link": "https://www.yahoo.com/news/science/articles/psilocybin-helps-most-vets-ptsd-151657289.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Famed climber Nirmal Purja among 10 killed in avalanche",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/famed-climber-nirmal-purja-among-10-killed-in-avalanche/a-78185586?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A major search was launched after an avalanche struck the expedition high on Pakistan's Broad Peak. The confirmation ended hopes of a rescue and marke..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/war-in-ukraine-why-crimea-has-become-a-strategic-target/a-78197135?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Ukraine has stepped up attacks on Russian logistics centers and energy facilities in Crimea. What are the consequences for local supplies, and how doe..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How crypto miners are stealing power in Southeast Asia",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-crypto-miners-are-stealing-power-in-southeast-asia/a-78175364?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Across Southeast Asia, illegal cryptocurrency miners are stealing vast amounts of electricity, straining national grids, and exposing links to organiz..."
     }
 ]
