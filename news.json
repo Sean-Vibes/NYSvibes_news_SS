@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Utah Medical Marijuana Officials Launch Applications For New Independent Pharmacy License In \u2018Underserved\u2019 Area",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/utah-medical-marijuana-officials-launch-applications-for-new-independent-pharmacy-license-in-underserved-area/",
+        "summary": "<p>\u201cHaving dependable local access to cannabis means that those who need it most will be able to access it safely and legally.\u201d By Kate McKellar, Utah..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Trump\u2019s Veterans Secretary Touts \u2018Massive Progress\u2019 In Developing Psychedelic Treatments",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/trumps-veterans-secretary-touts-massive-progress-in-developing-psychedelic-treatments/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/the-roots-of-marijuana-plants-have-underexplored-medical-potential-scientific-review-finds/",
         "summary": "<p>The roots of marijuana plants might be commonly treated as waste, but a new scientific review suggests they may be an underutilized source of bioac..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "CA treasurer wants to overhaul cannabis legalization law (Newsletter: July 31, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/ca-treasurer-wants-to-overhaul-cannabis-legalization-law-newsletter-july-31-2026/",
-        "summary": "<p>AOC touts psychedelics&#8217; medical &#8220;promise&#8221;; Study: Covering medical marijuana with workers&#8217; comp; VA THC &#38; kratom enforc..."
     },
     {
         "source": "MJBizDaily",
@@ -78,16 +78,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018Trump threw us all a curveball\u2019: South Carolina Republicans are stewing about Lindsey Graham\u2019s old Senate seat",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/e2dcd34157299de3fae05cb372bdb192",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-threw-us-curveball-south-103027900.html",
+        "title": "Democratic Socialists of America activists signed pledge to support, defend 'Chinese socialism'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/e572ac3c2a215baa9da773369faa0cbf",
+        "link": "https://www.yahoo.com/news/politics/articles/democratic-socialists-america-activists-signed-153458490.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Democratic Socialists of America activists signed pledge to support, defend 'Chinese socialism'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/e572ac3c2a215baa9da773369faa0cbf",
-        "link": "https://www.yahoo.com/news/politics/articles/democratic-socialists-america-activists-signed-153458490.html",
+        "title": "Russia seizes Jehovah\u2019s Witnesses properties",
+        "image": "https://media.zenfs.com/en/newsnation_articles_600/9637604a5daf202cbee86d91d39083e8",
+        "link": "https://www.yahoo.com/news/world/articles/russia-seizes-jehovah-witnesses-properties-142212531.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Psilocybin helps most vets with PTSD, small study shows",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/e171e5d69a1363605731ffcdb311e37c",
-        "link": "https://www.yahoo.com/news/science/articles/psilocybin-helps-most-vets-ptsd-151657289.html",
+        "title": "Stephen A. Smith on Fauci: \u2018You can\u2019t show up on Capitol Hill and plead the Fifth 111 times\u2019",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/7f7778b1c18ef85b4aa7f6144a6d698e",
+        "link": "https://www.yahoo.com/news/politics/articles/stephen-smith-fauci-t-show-121538766.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany's long road to equality for same-sex couples",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-s-long-road-to-equality-for-same-sex-couples/a-78193914?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "In 2001, same-sex couples in Germany were able to register a civil partnership for the first time. The Civil Partnership Act was a crucial step toward..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany widens deportations to Afghanistan",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-widens-deportations-to-afghanistan/a-78173466?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Earlier this week, Germany for the first time deported a man with no criminal record to Kabul. Faridoon Tofan, who is currently in deportation detenti..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-warns-neighbors-against-being-us-defensive-shield/live-78201442?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Iran has warned regional states against helping the US as Washington weighs possible \"very hard\" new strikes. Meanwhile, the Tehran-backed Houthis cla..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Greece battles wildfires, including near Athens",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/greece-battles-wildfires-including-near-athens/a-78201243?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Firefighters were battling blazes in over 70 locations across Greece. Strong winds continue to fan the flames, adding to the firefighters' struggles...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "War in Ukraine: Why Crimea has become a strategic target",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/war-in-ukraine-why-crimea-has-become-a-strategic-target/a-78197135?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukraine has stepped up attacks on Russian logistics centers and energy facilities in Crimea. What are the consequences for local supplies, and how doe..."
     }
 ]
