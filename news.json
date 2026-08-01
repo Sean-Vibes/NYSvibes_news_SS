@@ -71,9 +71,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Founder of Russian retailer Wildberries calls Ukrainian attacks 'acts of terrorism'",
-        "image": "https://media.zenfs.com/en/reuters.com/67671d0beb8a7cb74b2e4d3add5c97d0",
-        "link": "https://finance.yahoo.com/news/founder-russian-retailer-wildberries-calls-174418506.html",
+        "title": "Missouri proposal would create nation's toughest standard for citizen-led constitutional amendments",
+        "image": "https://media.zenfs.com/en/ap.org/0a812af8e27d51f5ac648dd99040dfc7",
+        "link": "https://www.yahoo.com/news/politics/articles/missouri-proposal-create-nations-toughest-110026481.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Stephen A. Smith on Fauci: \u2018You can\u2019t show up on Capitol Hill and plead the Fifth 111 times\u2019",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/7f7778b1c18ef85b4aa7f6144a6d698e",
+        "link": "https://www.yahoo.com/news/politics/articles/stephen-smith-fauci-t-show-121538766.html",
         "summary": "..."
     },
     {
@@ -85,24 +92,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Democratic Socialists of America activists signed pledge to support, defend 'Chinese socialism'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/e572ac3c2a215baa9da773369faa0cbf",
-        "link": "https://www.yahoo.com/news/politics/articles/democratic-socialists-america-activists-signed-153458490.html",
+        "title": "Iceland seizes Paul Watson Foundation's anti-whaling ship and detains its crew",
+        "image": "https://media.zenfs.com/en/ap.org/39f6013f05330071833237bfeb922a43",
+        "link": "https://www.yahoo.com/news/world/articles/iceland-seizes-paul-watson-foundations-123417225.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Missouri proposal would create nation's toughest standard for citizen-led constitutional amendments",
-        "image": "https://media.zenfs.com/en/ap.org/0a812af8e27d51f5ac648dd99040dfc7",
-        "link": "https://www.yahoo.com/news/politics/articles/missouri-proposal-create-nations-toughest-110026481.html",
+        "title": "McCarthy: Pelosi would \u2018yell\u2019 at Republicans that they \u2018shouldn\u2019t be in the room\u2019",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/4d9881533c97f3ac9e840bca0a9562bd",
+        "link": "https://www.yahoo.com/news/politics/articles/mccarthy-pelosi-yell-republicans-shouldn-212630009.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russia seizes Jehovah\u2019s Witnesses properties",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/9637604a5daf202cbee86d91d39083e8",
-        "link": "https://www.yahoo.com/news/world/articles/russia-seizes-jehovah-witnesses-properties-142212531.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "13 dead after small tourist plane crashes in Peru",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/13-dead-after-small-tourist-plane-crashes-in-peru/a-78204342?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The plane was taking tourists to see the Nazca Lines, a group of geoglyphs etched into the deserts of southern Peru...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "How does eastern Europe commemorate the Roma Holocaust?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/how-does-eastern-europe-commemorate-the-roma-holocaust/a-78183503?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "In 2015, the EU designated August 2 as the European Roma Holocaust Memorial Day. In Germany, the day is marked with memorial services, educational act..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/famed-climber-nirmal-purja-among-10-killed-in-avalanche/a-78185586?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A major search was launched after an avalanche struck the expedition high on Pakistan's Broad Peak. The confirmation ended hopes of a rescue and marke..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "More women die in heatwaves, but biology 'isn't main cause'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/more-women-die-in-heatwaves-but-biology-isn-t-main-cause/a-78187451?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In country after country, more women are dying from the heat than men. But researchers say biology isn't the main reason. Age, working conditions, and..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran warns neighbors against being US 'defensive shield'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-warns-neighbors-against-being-us-defensive-shield/live-78201442?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Iran has warned regional states against helping the US as Washington weighs possible \"very hard\" new strikes. Meanwhile, the Tehran-backed Houthis cla..."
     }
 ]
