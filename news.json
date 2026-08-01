@@ -71,30 +71,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Founder of Russian retailer Wildberries calls Ukrainian attacks 'acts of terrorism'",
-        "image": "https://media.zenfs.com/en/reuters.com/67671d0beb8a7cb74b2e4d3add5c97d0",
-        "link": "https://finance.yahoo.com/news/founder-russian-retailer-wildberries-calls-174418506.html",
+        "title": "Exclusive-Ford CEO tells employees Chinese automakers could enter US market in next decade",
+        "image": "https://media.zenfs.com/en/reuters.com/a77776fa2b26c3ec97cd1b7036067b32",
+        "link": "https://finance.yahoo.com/news/exclusive-ford-ceo-tells-employees-164329875.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Joe Rogan warns liberals against trying to turn Texas blue, says it would wreck the state's 'delicate balance'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/3d5dcd6dd4db062a96c6a0cd8a9d8fca",
-        "link": "https://www.yahoo.com/entertainment/celebrity/articles/joe-rogan-warns-liberals-against-005251773.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Climate change made 'fire-prone' weather conditions more likely in Spain and France, scientists say",
-        "image": "https://media.zenfs.com/en/reuters.com/91f6827d254df4f4815c1d616ccccf22",
-        "link": "https://www.yahoo.com/news/science/articles/climate-change-made-fire-prone-220139925.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Montana man hikes out of the mountains to get help after he was impaled by a trekking pole",
-        "image": "https://media.zenfs.com/en/krem_tegna_videos_762/ad778f6a3717932cada45b865db92c22",
-        "link": "https://www.yahoo.com/news/us/articles/us--impaled-hiker-041058539.html",
+        "title": "Psilocybin helps most vets with PTSD, small study shows",
+        "image": "https://media.zenfs.com/en/newsnation_articles_600/e171e5d69a1363605731ffcdb311e37c",
+        "link": "https://www.yahoo.com/news/science/articles/psilocybin-helps-most-vets-ptsd-151657289.html",
         "summary": "..."
     },
     {
@@ -103,6 +89,34 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/8d07fed26fcf6983ded9c7d6c53d9960",
         "link": "https://www.yahoo.com/news/us/articles/colorado-small-town-abandoned-elected-134743421.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Republican Indiana Senate leader who defied Trump on redistricting leaving post",
+        "image": "https://media.zenfs.com/en/ap.org/54208886b765cb49347d28fa6ea35896",
+        "link": "https://www.yahoo.com/news/politics/articles/republican-indiana-senate-leader-defied-161020663.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "10-year-old girl still missing in New Jersey river after boy's death",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/718739974282b9aff44cce4d795a75dc",
+        "link": "https://www.yahoo.com/news/us/articles/10-old-girl-still-missing-182350814.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine: Russia hits Kyiv with deadly missile strikes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-deadly-missile-strikes/a-78198568?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "At least four people died and 15 were injured after Russia struck Ukraine's capital with ballistic missiles, according to officials...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "FIFA chief Infantino abandons World Cup sell-off plans after backlash",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/fifa-chief-infantino-abandons-world-cup-sell-off-plans-after-backlash/a-78198144?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Europe's governing body, UEFA, had threatened to boycott FIFA tournaments, including the World Cup, unless Gianni Infantino withdrew his plans to sell..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/why-europe-s-wildfires-are-getting-harder-to-stop/a-78194776?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Wildfires may start with a single spark, but experts say climate change, drought and decades of forest management decisions have created the condition..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Sudan civil war: When drones strike the classroom",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/sudan-civil-war-when-drones-strike-the-classroom/a-78089487?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Children in Sudan's besieged city of el-Obeid are afraid to go to school as drone attacks hit civilian infrastructure. Aid groups warn of a worsening ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "From petitions to memes: How students made dissent visible",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/from-petitions-to-memes-how-students-made-dissent-visible/a-78146908?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "From imperial China to present-day India, student movements have repeatedly adapted the tools and symbols of their age to challenge authority...."
     }
 ]
