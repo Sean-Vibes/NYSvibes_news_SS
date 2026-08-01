@@ -85,24 +85,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Jensen Huang says \u2018a lot\u2019 of six-figure jobs in plumbing and construction will soon be unlocked because someone needs to build new AI centers",
-        "image": "https://media.zenfs.com/en/fortune_175/4062994d1bf7ae6ff8233554daa0c275",
-        "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-says-lot-six-133112188.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Republican Indiana Senate leader who defied Trump on redistricting leaving post",
-        "image": "https://media.zenfs.com/en/ap.org/54208886b765cb49347d28fa6ea35896",
-        "link": "https://www.yahoo.com/news/politics/articles/republican-indiana-senate-leader-defied-161020663.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "\u2018Trump threw us all a curveball\u2019: South Carolina Republicans are stewing about Lindsey Graham\u2019s old Senate seat",
         "image": "https://media.zenfs.com/en/cnn_articles_875/e2dcd34157299de3fae05cb372bdb192",
         "link": "https://www.yahoo.com/news/politics/articles/trump-threw-us-curveball-south-103027900.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Maryland Gov. Wes Moore says he's 'very concerned' Trump will interfere in the midterm elections",
+        "image": "https://media.zenfs.com/en/ap.org/41557e81fe33c37b08a6a8fa3c7b5171",
+        "link": "https://www.yahoo.com/news/politics/articles/maryland-gov-wes-moore-says-114843274.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "FBI Probes Possible Iranian Link to Minnesota Water Cyberattack",
+        "image": "https://media.zenfs.com/en/nbcu_713/f90077853580b142c74810eca493cf9e",
+        "link": "https://www.yahoo.com/news/videos/fbi-probes-possible-iranian-minnesota-111111251.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Homemade bomb goes off outside upscale Moscow restaurant state officials say",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/homemade-bomb-goes-off-outside-upscale-moscow-restaurant-state-officials-say/a-78205022?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Russian authorities said the blast occurred outside a restaurant on Kudrinskaya Square when a woman allegedly carrying explosives was stopped by a sec..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-widens-deportations-to-afghanistan/a-78173466?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Earlier this week, Germany for the first time deported a man with no criminal record to Kabul. Faridoon Tofan, who is currently in deportation detenti..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Famed climber Nirmal Purja among 10 killed in avalanche",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/famed-climber-nirmal-purja-among-10-killed-in-avalanche/a-78185586?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A major search was launched after an avalanche struck the expedition high on Pakistan's Broad Peak. The confirmation ended hopes of a rescue and marke..."
     }
 ]
