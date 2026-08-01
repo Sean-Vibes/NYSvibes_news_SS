@@ -78,23 +78,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Psilocybin helps most vets with PTSD, small study shows",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/e171e5d69a1363605731ffcdb311e37c",
-        "link": "https://www.yahoo.com/news/science/articles/psilocybin-helps-most-vets-ptsd-151657289.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "2 in 3 MAGA voters say they\u2019d support GOP candidate accused of sexual assault: Poll",
         "image": "https://media.zenfs.com/en/the_hill_articles_341/b7bbf96af9dce7e9ae1c77552065fbdf",
         "link": "https://www.yahoo.com/news/politics/articles/2-3-maga-voters-d-142333245.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive-Ford CEO tells employees Chinese automakers could enter US market in next decade",
-        "image": "https://media.zenfs.com/en/reuters.com/a77776fa2b26c3ec97cd1b7036067b32",
-        "link": "https://finance.yahoo.com/news/exclusive-ford-ceo-tells-employees-164329875.html",
         "summary": "..."
     },
     {
@@ -105,38 +91,52 @@
         "summary": "..."
     },
     {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "NASA Prepares to Launch the Most Advanced Telescope Ever Built",
+        "image": "https://media.zenfs.com/en/nbcu_713/22c98b6edf1745760bf1938481019d5e",
+        "link": "https://www.yahoo.com/news/videos/nasa-prepares-launch-most-advanced-114442688.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "McCarthy: Pelosi would \u2018yell\u2019 at Republicans that they \u2018shouldn\u2019t be in the room\u2019",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/4d9881533c97f3ac9e840bca0a9562bd",
+        "link": "https://www.yahoo.com/news/politics/articles/mccarthy-pelosi-yell-republicans-shouldn-212630009.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "More women die in heatwaves, but biology 'isn't main cause'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/more-women-die-in-heatwaves-but-biology-isn-t-main-cause/a-78187451?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "In country after country, more women are dying from the heat than men. But researchers say biology isn't the main reason. Age, working conditions, and..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran warns neighbors against being US 'defensive shield'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-warns-neighbors-against-being-us-defensive-shield/live-78201442?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran has warned regional states against helping the US as Washington weighs possible \"very hard\" new strikes. Meanwhile, the Tehran-backed Houthis cla..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Greece battles wildfires, including near Athens",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/greece-battles-wildfires-including-near-athens/a-78201243?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Firefighters were battling blazes in over 70 locations across Greece. Strong winds continue to fan the flames, adding to the firefighters' struggles...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "War in Ukraine: Why Crimea has become a strategic target",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/war-in-ukraine-why-crimea-has-become-a-strategic-target/a-78197135?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ukraine has stepped up attacks on Russian logistics centers and energy facilities in Crimea. What are the consequences for local supplies, and how doe..."
+    },
+    {
         "source": "Deutsche Welle",
         "title": "How crypto miners are stealing power in Southeast Asia",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/how-crypto-miners-are-stealing-power-in-southeast-asia/a-78175364?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Across Southeast Asia, illegal cryptocurrency miners are stealing vast amounts of electricity, straining national grids, and exposing links to organiz..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ceuta: Spain under pressure as Italy suspends Schengen deal",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ceuta-spain-under-pressure-as-italy-suspends-schengen-deal/live-78191601?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Several EU governments have urged Spain to take control of its border following the mass intrusion in Ceuta. Meanwhile, Madrid said scores were killed..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany weighs the future of minijobs",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-weighs-the-future-of-minijobs/a-78147900?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany's popular minijob system allows millions of workers, including students, to avoid paying income tax or social security contributions. But a re..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine: Zelenskyy says Patriot missile shortage costs lives",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-zelenskyy-says-patriot-missile-shortage-costs-lives/a-78198568?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "At least nine people died, and more than 20 were injured after Russia struck Ukraine's capital with ballistic missiles. President Volodymyr Zelenskyy ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India: Modi says he forgives 'children' who abused him",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-modi-says-he-forgives-children-who-abused-him/a-78200008?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Modi shared a video message in which he described CJP protesters as \"misguided children\" who deserve guidance...."
     }
 ]
