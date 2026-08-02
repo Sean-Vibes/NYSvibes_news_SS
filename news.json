@@ -106,6 +106,27 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Indonesia: At least 5 dead in ferry fire",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/indonesia-at-least-5-dead-in-ferry-fire/a-78206895?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Search and rescue officials report some 41 missing after a fire on a ferry near the Indonesia island of Madura. The cause of the blaze remains unclear..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Poland: Prime Minister Tusk defies anti-Ukrainian violence",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/poland-prime-minister-tusk-defies-anti-ukrainian-violence/a-78203187?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Anti-Ukrainian sentiment in Poland is on the rise, with numerous attacks against refugees from the war in Ukraine. Prime Minister Donald Tusk has spok..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany: Islamism and right-wing extremism \u2014 a story of mutual radicalization",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-islamism-and-right-wing-extremism-a-story-of-mutual-radicalization/a-78194607?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Following the attack on a Berlin Pride festival, the focus in Germany is turning to Islamist terrorism. An expert warns: Looking only at Islamists ove..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Germany: As temperatures rise, so does climate skepticism",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-as-temperatures-rise-so-does-climate-skepticism/a-78206354?maca=en-rss-en-all-1573-xml-mrss",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/china-dozens-dead-in-gansu-flash-floods/a-78206328?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Chinese authorities will launch an investigation into the floods, amid warnings of further landslides as the rainy weather continues...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "On the front line of Europe's battle against wildfires",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/on-the-front-line-of-europe-s-battle-against-wildfires/a-78204324?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "French firefighters have won out over a massive blaze, with almost 200,000 evacuees returning home. But Europe's climate-fueled wildfire season is far..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "No new Iran strikes for now amid deal hopes \u2014 Trump",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/no-new-iran-strikes-for-now-amid-deal-hopes-trump/live-78201442?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Donald Trump says the US and Israel have agreed to hold off on strikes on Iran if a peace deal is reached \"rapidly.\" Iran has vowed a decisive respons..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US: Multiple dead in shooting at In-N-Out Burger in Idaho",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-multiple-dead-in-shooting-at-in-n-out-burger-in-idaho/a-78205684?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Multiple people were killed in a shooting at an In-N-Out Burger restaurant in southern Idaho. The suspected shooter is dead, police said...."
     }
 ]
