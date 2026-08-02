@@ -78,16 +78,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018Trump threw us all a curveball\u2019: South Carolina Republicans are stewing about Lindsey Graham\u2019s old Senate seat",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/e2dcd34157299de3fae05cb372bdb192",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-threw-us-curveball-south-103027900.html",
+        "title": "Jensen Huang says \u2018a lot\u2019 of six-figure jobs in plumbing and construction will soon be unlocked because someone needs to build new AI centers",
+        "image": "https://media.zenfs.com/en/fortune_175/4062994d1bf7ae6ff8233554daa0c275",
+        "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-says-lot-six-133112188.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Jensen Huang says \u2018a lot\u2019 of six-figure jobs in plumbing and construction will soon be unlocked because someone needs to build new AI centers",
-        "image": "https://media.zenfs.com/en/fortune_175/4062994d1bf7ae6ff8233554daa0c275",
-        "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-says-lot-six-133112188.html",
+        "title": "Bryan Kohberger's former defense expert calls for death penalty, says investigators missed key evidence",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/533a9a8684c16c4fa7e04ea4bc9c4097",
+        "link": "https://www.yahoo.com/news/us/articles/bryan-kohbergers-former-defense-expert-151543732.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mamdani\u2019s city-owned supermarkets will fight the one force no city has ever beaten: the market",
-        "image": "https://media.zenfs.com/en/fortune_175/844b52877153a74602c68b0ca6c19147",
-        "link": "https://finance.yahoo.com/economy/policy/articles/mamdani-city-owned-supermarkets-fight-070000218.html",
+        "title": "Body of missing 10-year-old girl found in Passaic River in NJ",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/620dea258be48048410d8fec29917e18",
+        "link": "https://www.yahoo.com/news/us/articles/body-missing-10-old-girl-211956756.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine hits targets deep inside Russia, killing eight",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-hits-targets-deep-inside-russia-killing-eight/a-78208850?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ukrainian drone strikes inside Russia killed eight people overnight in attacks that targeted military and civilian infrastructure. Russia said Moscow'..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-db-hampered-by-organized-irresponsibility/live-78199317?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "DB chief Evelyn Palla wants to overcome the culture of ''organized irresponsibility\" by empowering new decision-makers within the railway operator. Ba..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Moscow restaurant blast a 'brutal terror attack,' mayor says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/moscow-restaurant-blast-a-brutal-terror-attack-mayor-says/a-78205022?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The deadly explosion outside an upscale Moscow restaurant at Kudrinskaya Square was a \"brutal terror attack,\" Moscow Mayor Sergei Sobyanin said, promi..."
     }
 ]
