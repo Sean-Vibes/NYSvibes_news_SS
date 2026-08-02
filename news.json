@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Founder of Russian retailer Wildberries calls Ukrainian attacks 'acts of terrorism'",
-        "image": "https://media.zenfs.com/en/reuters.com/67671d0beb8a7cb74b2e4d3add5c97d0",
-        "link": "https://finance.yahoo.com/news/founder-russian-retailer-wildberries-calls-174418506.html",
+        "title": "Capital One says it closed Trump Organization's accounts after anti-money laundering probe",
+        "image": "https://media.zenfs.com/en/reuters.com/47c84dca8951a62b43b54814a1830a2d",
+        "link": "https://finance.yahoo.com/news/capital-one-says-closed-trump-231856774.html",
         "summary": "..."
     },
     {
@@ -85,9 +85,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018Trump threw us all a curveball\u2019: South Carolina Republicans are stewing about Lindsey Graham\u2019s old Senate seat",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/e2dcd34157299de3fae05cb372bdb192",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-threw-us-curveball-south-103027900.html",
+        "title": "Unions to boycott Labour women's conference over trans ban",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/7a65cd910478c4180db1a476a761994e",
+        "link": "https://www.yahoo.com/news/politics/articles/unions-boycott-labour-womens-conference-094717758.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "FBI Probes Possible Iranian Link to Minnesota Water Cyberattack",
-        "image": "https://media.zenfs.com/en/nbcu_713/f90077853580b142c74810eca493cf9e",
-        "link": "https://www.yahoo.com/news/videos/fbi-probes-possible-iranian-minnesota-111111251.html",
+        "title": "\u2018Trump threw us all a curveball\u2019: South Carolina Republicans are stewing about Lindsey Graham\u2019s old Senate seat",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/e2dcd34157299de3fae05cb372bdb192",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-threw-us-curveball-south-103027900.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Hungary to shut sole nuclear plant for first time on Sunday",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/hungary-to-shut-sole-nuclear-plant-for-first-time-on-sunday/a-78205668?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Record-low water levels on the Danube forced the Paks plant offline, leaving Hungary facing a potential power crunch...."
     },
     {
         "source": "Deutsche Welle",
@@ -113,9 +120,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "13 dead after small tourist plane crashes in Peru",
+        "title": "13 killed in tourist plane crash in Peru",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/13-dead-after-small-tourist-plane-crashes-in-peru/a-78204342?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/13-killed-in-tourist-plane-crash-in-peru/a-78204342?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The plane was taking tourists to see the Nazca Lines, a group of geoglyphs etched into the deserts of southern Peru...."
     },
     {
@@ -127,16 +134,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany's long road to equality for same-sex couples",
+        "title": "Germany news: Big turnout for Pride after Berlin attack",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-long-road-to-equality-for-same-sex-couples/a-78193914?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In 2001, same-sex couples in Germany were able to register a civil partnership for the first time. The Civil Partnership Act was a crucial step toward..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany widens deportations to Afghanistan",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-widens-deportations-to-afghanistan/a-78173466?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Earlier this week, Germany for the first time deported a man with no criminal record to Kabul. Faridoon Tofan, who is currently in deportation detenti..."
+        "link": "https://www.dw.com/en/germany-news-big-turnout-for-pride-after-berlin-attack/live-78199317?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Several German cities are holding Pride events a week after a deadly attack on a march in Berlin. A forest fire is burning out of control in Bavaria. ..."
     }
 ]
