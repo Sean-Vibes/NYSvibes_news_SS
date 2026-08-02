@@ -78,13 +78,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Stephen A. Smith on Fauci: \u2018You can\u2019t show up on Capitol Hill and plead the Fifth 111 times\u2019",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/7f7778b1c18ef85b4aa7f6144a6d698e",
-        "link": "https://www.yahoo.com/news/politics/articles/stephen-smith-fauci-t-show-121538766.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "\u2018Trump threw us all a curveball\u2019: South Carolina Republicans are stewing about Lindsey Graham\u2019s old Senate seat",
         "image": "https://media.zenfs.com/en/cnn_articles_875/e2dcd34157299de3fae05cb372bdb192",
         "link": "https://www.yahoo.com/news/politics/articles/trump-threw-us-curveball-south-103027900.html",
@@ -92,17 +85,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Republican Indiana Senate leader who defied Trump on redistricting leaving post",
-        "image": "https://media.zenfs.com/en/ap.org/54208886b765cb49347d28fa6ea35896",
-        "link": "https://www.yahoo.com/news/politics/articles/republican-indiana-senate-leader-defied-161020663.html",
+        "title": "Jensen Huang says \u2018a lot\u2019 of six-figure jobs in plumbing and construction will soon be unlocked because someone needs to build new AI centers",
+        "image": "https://media.zenfs.com/en/fortune_175/4062994d1bf7ae6ff8233554daa0c275",
+        "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-says-lot-six-133112188.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Man tries to build floating pub 'for a bit of fun'",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/6e80af33a6f6afe504255b27c318c7b1",
-        "link": "https://www.yahoo.com/lifestyle/articles/man-tries-build-floating-pub-060008907.html",
+        "title": "Founder of Russian retailer Wildberries calls Ukrainian attacks 'acts of terrorism'",
+        "image": "https://media.zenfs.com/en/reuters.com/67671d0beb8a7cb74b2e4d3add5c97d0",
+        "link": "https://finance.yahoo.com/news/founder-russian-retailer-wildberries-calls-174418506.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Mamdani\u2019s city-owned supermarkets will fight the one force no city has ever beaten: the market",
+        "image": "https://media.zenfs.com/en/fortune_175/844b52877153a74602c68b0ca6c19147",
+        "link": "https://finance.yahoo.com/economy/policy/articles/mamdani-city-owned-supermarkets-fight-070000218.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: DB hampered by 'organized irresponsibility'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-db-hampered-by-organized-irresponsibility/live-78199317?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "DB chief Evelyn Palla wants to move away from the culture of ''organized irresponsibility\" by empowering new decision-makers within the railway operat..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Moscow restaurant blast a 'brutal terror attack,' mayor says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/moscow-restaurant-blast-a-brutal-terror-attack-mayor-says/a-78205022?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The deadly explosion outside an upscale Moscow restaurant at Kudrinskaya Square was a \"brutal terror attack,\" Moscow Mayor Sergei Sobyanin said, promi..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-islamism-and-right-wing-extremism-a-story-of-mutual-radicalization/a-78194607?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Following the attack on a Berlin Pride festival, the focus in Germany is turning to Islamist terrorism. An expert warns: Looking only at Islamists ove..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany: As temperatures rise, so does climate skepticism",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-as-temperatures-rise-so-does-climate-skepticism/a-78206354?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Some 98% of active climate scientists say climate change is happening, and is man-made. Nonetheless, a new study shows the number of climate-change sk..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "China: Dozens dead in Gansu flash floods",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/china-dozens-dead-in-gansu-flash-floods/a-78206328?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Chinese authorities will launch an investigation into the floods, amid warnings of further landslides as the rainy weather continues...."
     }
 ]
