@@ -85,24 +85,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "\u2018Trump threw us all a curveball\u2019: South Carolina Republicans are stewing about Lindsey Graham\u2019s old Senate seat",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/e2dcd34157299de3fae05cb372bdb192",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-threw-us-curveball-south-103027900.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Republican Indiana Senate leader who defied Trump on redistricting leaving post",
+        "image": "https://media.zenfs.com/en/ap.org/54208886b765cb49347d28fa6ea35896",
+        "link": "https://www.yahoo.com/news/politics/articles/republican-indiana-senate-leader-defied-161020663.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Man tries to build floating pub 'for a bit of fun'",
         "image": "https://media.zenfs.com/en/bbc_us_articles_995/6e80af33a6f6afe504255b27c318c7b1",
         "link": "https://www.yahoo.com/lifestyle/articles/man-tries-build-floating-pub-060008907.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Founder of Russian retailer Wildberries calls Ukrainian attacks 'acts of terrorism'",
-        "image": "https://media.zenfs.com/en/reuters.com/67671d0beb8a7cb74b2e4d3add5c97d0",
-        "link": "https://finance.yahoo.com/news/founder-russian-retailer-wildberries-calls-174418506.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Germany: As temperatures rise, so does climate skepticism",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-as-temperatures-rise-so-does-climate-skepticism/a-78206354?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Some 98% of active climate scientists say climate change is happening, and is man-made. Nonetheless, a new study shows the number of climate-change sk..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018Trump threw us all a curveball\u2019: South Carolina Republicans are stewing about Lindsey Graham\u2019s old Senate seat",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/e2dcd34157299de3fae05cb372bdb192",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-threw-us-curveball-south-103027900.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "China: Dozens dead in Gansu flash floods",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/china-dozens-dead-in-gansu-flash-floods/a-78206328?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Chinese authorities will launch an investigation into the floods, amid warnings of further landslides as the rainy weather continues...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "On the front line of Europe's battle against wildfires",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/on-the-front-line-of-europe-s-battle-against-wildfires/a-78204324?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "French firefighters have won out over a massive blaze, with almost 200,000 evacuees returning home. But Europe's climate-fueled wildfire season is far..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-multiple-dead-in-shooting-at-in-n-out-burger-in-idaho/a-78205684?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Multiple people were killed in a shooting at an In-N-Out Burger restaurant in southern Idaho. The suspected shooter is dead, police said...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hungary to shut sole nuclear plant for first time on Sunday",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hungary-to-shut-sole-nuclear-plant-for-first-time-on-sunday/a-78205668?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Record-low water levels on the Danube forced the Paks plant offline, leaving Hungary facing a potential power crunch...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Homemade bomb goes off outside upscale Moscow restaurant state officials say",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/homemade-bomb-goes-off-outside-upscale-moscow-restaurant-state-officials-say/a-78205022?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russian authorities said the blast occurred outside a restaurant on Kudrinskaya Square when a woman allegedly carrying explosives was stopped by a sec..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "13 killed in tourist plane crash in Peru",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/13-killed-in-tourist-plane-crash-in-peru/a-78204342?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The plane was taking tourists to see the Nazca Lines, a group of geoglyphs etched into the deserts of southern Peru...."
     }
 ]
