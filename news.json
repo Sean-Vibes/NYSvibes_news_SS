@@ -85,16 +85,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Unions to boycott Labour women's conference over trans ban",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/7a65cd910478c4180db1a476a761994e",
-        "link": "https://www.yahoo.com/news/politics/articles/unions-boycott-labour-womens-conference-094717758.html",
+        "title": "Man tries to build floating pub 'for a bit of fun'",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/6e80af33a6f6afe504255b27c318c7b1",
+        "link": "https://www.yahoo.com/lifestyle/articles/man-tries-build-floating-pub-060008907.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Maryland Gov. Wes Moore says he's 'very concerned' Trump will interfere in the midterm elections",
-        "image": "https://media.zenfs.com/en/ap.org/41557e81fe33c37b08a6a8fa3c7b5171",
-        "link": "https://www.yahoo.com/news/politics/articles/maryland-gov-wes-moore-says-114843274.html",
+        "title": "Founder of Russian retailer Wildberries calls Ukrainian attacks 'acts of terrorism'",
+        "image": "https://media.zenfs.com/en/reuters.com/67671d0beb8a7cb74b2e4d3add5c97d0",
+        "link": "https://finance.yahoo.com/news/founder-russian-retailer-wildberries-calls-174418506.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,20 @@
         "image": "https://media.zenfs.com/en/cnn_articles_875/e2dcd34157299de3fae05cb372bdb192",
         "link": "https://www.yahoo.com/news/politics/articles/trump-threw-us-curveball-south-103027900.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "No new Iran strikes for now amid deal hopes \u2014 Trump",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/no-new-iran-strikes-for-now-amid-deal-hopes-trump/live-78201442?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Donald Trump says the US and Israel have agreed to hold off on strikes on Iran if a peace deal is reached \"rapidly.\" Iran has vowed a decisive respons..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US: Multiple dead in shooting at In-N-Out Burger in Idaho",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-multiple-dead-in-shooting-at-in-n-out-burger-in-idaho/a-78205684?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Multiple people were killed in a shooting at an In-N-Out Burger restaurant in southern Idaho. The suspected shooter is dead, police said...."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/13-killed-in-tourist-plane-crash-in-peru/a-78204342?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The plane was taking tourists to see the Nazca Lines, a group of geoglyphs etched into the deserts of southern Peru...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How does eastern Europe commemorate the Roma Holocaust?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-does-eastern-europe-commemorate-the-roma-holocaust/a-78183503?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In 2015, the EU designated August 2 as the European Roma Holocaust Memorial Day. In Germany, the day is marked with memorial services, educational act..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Big turnout for Pride after Berlin attack",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-big-turnout-for-pride-after-berlin-attack/live-78199317?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Several German cities are holding Pride events a week after a deadly attack on a march in Berlin. A forest fire is burning out of control in Bavaria. ..."
     }
 ]
