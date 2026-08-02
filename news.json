@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nancy Guthrie ransom notes released",
-        "image": "https://media.zenfs.com/en/nbcu_713/595595edde95c98d459e3eeb7d46d297",
-        "link": "https://www.yahoo.com/news/videos/nancy-guthrie-ransom-notes-released-005634947.html",
+        "title": "RFK Jr. says parents should vaccinate children against measles as U.S. cases hit a 35-year high",
+        "image": "https://s.yimg.com/uu/api/res/1.2/2bd9hYBzu9t8tvkk60cGMg--~B/aD0yNjU2O3c9Mzk4NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-08/eb90d0c1-3e5d-4592-b574-e9c5fdebde56",
+        "link": "https://www.yahoo.com/news/politics/article/rfk-jr-says-parents-should-vaccinate-children-against-measles-as-us-cases-hit-a-35-year-high-160031759.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,20 @@
         "image": "https://media.zenfs.com/en/fortune_175/844b52877153a74602c68b0ca6c19147",
         "link": "https://finance.yahoo.com/economy/policy/articles/mamdani-city-owned-supermarkets-fight-070000218.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ceuta: Most who breached border have left, Spain says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ceuta-most-who-breached-border-have-left-spain-says/live-78191601?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Nearly all of the more than 50,000 migrants who breached the border this week have returned to Morocco, according to Spanish officials. At least 72 pe..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Greece: fire brigade helicopters collide as wildfires spread",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/greece-fire-brigade-helicopters-collide-as-wildfires-spread/a-78207952?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The crew of one of the helicopters is reported to be safe but the search for the second is ongoing. Prime Minister Mitsotakis has warned of \"extremely..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/moscow-restaurant-blast-a-brutal-terror-attack-mayor-says/a-78205022?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The deadly explosion outside an upscale Moscow restaurant at Kudrinskaya Square was a \"brutal terror attack,\" Moscow Mayor Sergei Sobyanin said, promi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Indonesia: At least 5 dead in ferry fire",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/indonesia-at-least-5-dead-in-ferry-fire/a-78206895?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Search and rescue officials report some 41 missing after a fire on a ferry near the Indonesia island of Madura. The cause of the blaze remains unclear..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Poland: Prime Minister Tusk defies anti-Ukrainian violence",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/poland-prime-minister-tusk-defies-anti-ukrainian-violence/a-78203187?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Anti-Ukrainian sentiment in Poland is on the rise, with numerous attacks against refugees from the war in Ukraine. Prime Minister Donald Tusk has spok..."
     }
 ]
