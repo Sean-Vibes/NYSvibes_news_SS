@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Current Ebola outbreak worst ever in DR Congo, WHO says",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/de1c178a22bbb96a5689e1b7ccd78185",
-        "link": "https://www.yahoo.com/news/world/articles/current-ebola-outbreak-worst-ever-161622537.html",
+        "title": "Body of missing 10-year-old girl found in Passaic River in NJ",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/620dea258be48048410d8fec29917e18",
+        "link": "https://www.yahoo.com/news/us/articles/body-missing-10-old-girl-211956756.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Man arrested over death of British woman found in suitcase in Athens",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/man-arrested-over-death-of-british-woman-found-in-suitcase-in-athens/a-78210183?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The body of Scottish national Elisabeth-Jane Ross was discovered last month in a suitcase in a derelict building in Athens...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/greece-fire-brigade-helicopters-collide-as-wildfires-spread/a-78207952?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The crew of one of the helicopters is reported to be safe but the search for the second is ongoing. Prime Minister Mitsotakis has warned of \"extremely..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Small insects, big damage: The global ant trade is booming",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/small-insects-big-damage-the-global-ant-trade-is-booming/a-78186729?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Legal or not, the trade in African ants bound for Europe is booming. What do hobbyists find appealing about these insects, and what risks does the tra..."
     }
 ]
