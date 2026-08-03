@@ -1,6 +1,20 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Alcohol Retailers Celebrate Senate\u2019s Move To Keep Hemp THC Drinks Legal, For Now",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/alcohol-retailers-celebrate-senates-move-to-keep-hemp-thc-drinks-legal-for-now/",
+        "summary": "<p>A coalition of alcohol retailers are cheering Senate leaders&#8217; inclusion of provisions in a key funding bill to delay the planned federal recr..."
+    },
+    {
+        "source": "Marijuana Moment",
+        "title": "Virginia Hemp Businesses Sue State Officials Over New THC Product Limits",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/virginia-hemp-businesses-sue-state-officials-over-new-thc-product-limits/",
+        "summary": "<p>A coalition of Virginia hemp businesses are suing state officials in federal court over soon-to-be-enacted restrictions on the products they produc..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Massachusetts Should Regulate Marijuana More Like Alcohol And Tobacco, Liquor Store Rep Says (Op-Ed)",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/massachusetts-should-regulate-marijuana-more-like-alcohol-and-tobacco-liquor-store-rep-says-op-ed/",
@@ -19,20 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/faa-eyes-new-cannabis-policies-for-pilots-after-rescheduling-newsletter-august-3-2026/",
         "summary": "<p>Senate advances hemp ban delay; Marijuana kiosks for senior citizens; Study: Cannabis roots&#8217; medical potential; Trump VA secretary on psyched..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Senate Gives Hemp THC Products A Lifeline By Including Provisions To Delay Planned Federal Ban In New Spending Bill",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/senate-gives-hemp-thc-products-a-lifeline-by-including-provisions-to-delay-planned-federal-ban-in-new-spending-bill/",
-        "summary": "<p>U.S. Senate leaders have included provisions to delay the planned federal recriminalization of hemp THC products in a key new spending bill. Indust..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Utah Medical Marijuana Officials Launch Applications For New Independent Pharmacy License In \u2018Underserved\u2019 Area",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/utah-medical-marijuana-officials-launch-applications-for-new-independent-pharmacy-license-in-underserved-area/",
-        "summary": "<p>\u201cHaving dependable local access to cannabis means that those who need it most will be able to access it safely and legally.\u201d By Kate McKellar, Utah..."
     },
     {
         "source": "MJBizDaily",
@@ -78,13 +78,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Body of missing 10-year-old girl found in Passaic River in NJ",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/620dea258be48048410d8fec29917e18",
-        "link": "https://www.yahoo.com/news/us/articles/body-missing-10-old-girl-211956756.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "GOP senator on Trump\u2019s Reflecting Pool vandalism claims: \u2018He grows anxious when he has an unexpressed thought\u2019",
         "image": "https://media.zenfs.com/en/the_hill_articles_341/fe2ffeeb99841ec9ac249519ecda70d6",
         "link": "https://www.yahoo.com/news/politics/articles/gop-senator-trump-reflecting-pool-163526012.html",
@@ -92,9 +85,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Savannah Guthrie issues new plea six months after mother\u2019s kidnapping",
-        "image": "https://media.zenfs.com/en/nbcu_713/fcd313857e5f7112f6c7ba010d5ec679",
-        "link": "https://www.yahoo.com/news/videos/savannah-guthrie-issues-plea-six-224536817.html",
+        "title": "Body of missing 10-year-old girl found in Passaic River in NJ",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/620dea258be48048410d8fec29917e18",
+        "link": "https://www.yahoo.com/news/us/articles/body-missing-10-old-girl-211956756.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Suspect in shooting at Idaho fast-food restaurant died from self-inflicted gunshot wound, police say",
+        "image": "https://media.zenfs.com/en/ap.org/d8b4da5cb6ded760804e170ae3fc3033",
+        "link": "https://www.yahoo.com/news/us/articles/n-burger-employee-among-3-175205664.html",
         "summary": "..."
     },
     {
@@ -106,37 +106,37 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Iran war: Trump tells Iranians to make deal or surrender",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-trump-tells-iranians-to-make-deal-or-surrender/live-78210315?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "President Donald Trump declared that the US military blockade would continue until Iran either made a deal or went for \"total surrender.\" Follow DW fo..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ceuta: EU calls borders a 'shared European responsibility'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ceuta-eu-calls-borders-a-shared-european-responsibility/a-78220701?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The European Commission has offered Morocco more support at the border to Ceuta and Melilla, and called for \"united action\" from the bloc on border se..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Growing impact of extreme heat on informal workers in Asia's cities",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/growing-impact-of-extreme-heat-on-informal-workers-in-asia-s-cities/a-78220714?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "When temperatures soar across Asia's cities, informal workers face a choice: risk their health or lose their income. For many, the effects don't end w..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Russia says civilians killed in strike on Black Sea resort",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/russia-says-civilians-killed-in-strike-on-black-sea-resort/a-78219979?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Moscow has accued Kyiv of stepping up attacks on civilian targets in recent weeks. Meanwhile, Ukrainian President Volodymyr Zelenskyy put Ukraine's ch..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Binging on cringe: It's as addictive as 'eating junk food'",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/binging-on-cringe-it-s-as-addictive-as-eating-junk-food/a-78145287?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Flexing achievements? Cringe. Expressing genuine emotions? Cringe. You want to look away, but you can\u2019t. Cringe. It's so addictive, people have built ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Can PM Modi reconnect with India's Gen Z?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/can-pm-modi-reconnect-with-india-s-gen-z/a-78216627?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Student protests exposed a growing disconnect between PM Narendra Modi's BJP and young Indians. Experts say Instagram reels alone won't close it...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Indian court acquits ex-wrestling chief of harassment",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/indian-court-acquits-ex-wrestling-chief-of-harassment/a-78215415?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "While the court ruled in lawmaker Brij Bhushan Sharan Singh's favor, female athletes say their legal battle is not over. The case sparked months of pr..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "What happens next for Infantino and FIFA?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/what-happens-next-for-infantino-and-fifa/a-78213350?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "FIFA President Gianni Infantino is under pressure after the failure of his plan to create a commercial subsidiary for the World Cup. But will he be ou..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia: Bridge-building with North Korea",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-bridge-building-with-north-korea/a-78212053?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In the far east, well away from world events, Russia and North Korea are building their first road connection. The project has set alarm bells ringing..."
     }
 ]
