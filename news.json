@@ -1,6 +1,20 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Massachusetts Should Regulate Marijuana More Like Alcohol And Tobacco, Liquor Store Rep Says (Op-Ed)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/massachusetts-should-regulate-marijuana-more-like-alcohol-and-tobacco-liquor-store-rep-says-op-ed/",
+        "summary": "<p>&#8220;Demanding regulatory parity is not about dismantling the legal cannabis economy or advocating for a repeal of legal retail sales at the ball..."
+    },
+    {
+        "source": "Marijuana Moment",
+        "title": "New Congressional Bill Would Require Drinks With Cannabis, Alcohol Or Kratom To Have Color-Coded Labels",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/new-congressional-bill-would-require-drinks-with-cannabis-alcohol-or-kratom-to-have-color-coded-labels/",
+        "summary": "<p>A new bill from a Republican congressman would require federal officials to establish a system for color coding cannabis-infused beverages and othe..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "FAA eyes new cannabis policies for pilots after rescheduling (Newsletter: August 3, 2026)",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/faa-eyes-new-cannabis-policies-for-pilots-after-rescheduling-newsletter-august-3-2026/",
@@ -19,20 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/utah-medical-marijuana-officials-launch-applications-for-new-independent-pharmacy-license-in-underserved-area/",
         "summary": "<p>\u201cHaving dependable local access to cannabis means that those who need it most will be able to access it safely and legally.\u201d By Kate McKellar, Utah..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Trump\u2019s Veterans Secretary Touts \u2018Massive Progress\u2019 In Developing Psychedelic Treatments",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/trumps-veterans-secretary-touts-massive-progress-in-developing-psychedelic-treatments/",
-        "summary": "<p>&#8220;I think we\u2019re making massive progress in how we diagnose things, but also how we do new treatments.&#8221; By Mitch Perry, Florida Phoenix M..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Senior Citizens Can Order Marijuana On \u2018Easy Mode\u2019 From New Kiosk At Independent Living Community In Arizona",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/senior-citizens-can-order-marijuana-on-easy-mode-from-new-kiosk-at-independent-living-community-in-arizona/",
-        "summary": "<p>Senior residents at some independent living communities will soon have access to on-site kiosks allowing them to easily buy marijuana products with..."
     },
     {
         "source": "MJBizDaily",
@@ -92,17 +92,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Top US admiral warns against coercion, says no nation will dominate Indo-Pacific",
-        "image": "https://media.zenfs.com/en/ap.org/7c02c9ffdef3a6c05487390b098b322b",
-        "link": "https://www.yahoo.com/news/politics/articles/top-us-admiral-warns-against-085729214.html",
+        "title": "Savannah Guthrie issues new plea six months after mother\u2019s kidnapping",
+        "image": "https://media.zenfs.com/en/nbcu_713/fcd313857e5f7112f6c7ba010d5ec679",
+        "link": "https://www.yahoo.com/news/videos/savannah-guthrie-issues-plea-six-224536817.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Jensen Huang says \u2018a lot\u2019 of six-figure jobs in plumbing and construction will soon be unlocked because someone needs to build new AI centers",
-        "image": "https://media.zenfs.com/en/fortune_175/4062994d1bf7ae6ff8233554daa0c275",
-        "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-says-lot-six-133112188.html",
+        "title": "\u2018Trump threw us all a curveball\u2019: South Carolina Republicans are stewing about Lindsey Graham\u2019s old Senate seat",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/e2dcd34157299de3fae05cb372bdb192",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-threw-us-curveball-south-103027900.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Binging on cringe: It's as addictive as 'eating junk food'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/binging-on-cringe-it-s-as-addictive-as-eating-junk-food/a-78145287?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Flexing achievements? Cringe. Expressing genuine emotions? Cringe. You want to look away, but you can\u2019t. Cringe. It's so addictive, people have built ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Can PM Modi reconnect with India's Gen Z?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/can-pm-modi-reconnect-with-india-s-gen-z/a-78216627?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Student protests exposed a growing disconnect between PM Narendra Modi's BJP and young Indians. Experts say Instagram reels alone won't close it...."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/russia-bridge-building-with-north-korea/a-78212053?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "In the far east, well away from world events, Russia and North Korea are building their first road connection. The project has set alarm bells ringing..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Calls intensify to ban Meta Glasses",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-calls-intensify-to-ban-meta-glasses/live-78212257?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Both rights groups and regulators say the new AI tech is dangerous to consumers. At the same time, debate is heating up over pension reforms. DW has m..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Myanmar: Aung San Suu Kyi meets Red Cross official, junta says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/myanmar-aung-san-suu-kyi-meets-red-cross-official-junta-says/a-78211532?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Myanmar\u2019s military-led government released images from the 81-year-old Nobel laureate\u2019s meeting with ICRC\u2019s resident representative for Myanmar, Arnau..."
     }
 ]
