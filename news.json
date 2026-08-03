@@ -78,16 +78,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "GOP senator on Trump\u2019s Reflecting Pool vandalism claims: \u2018He grows anxious when he has an unexpressed thought\u2019",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/fe2ffeeb99841ec9ac249519ecda70d6",
-        "link": "https://www.yahoo.com/news/politics/articles/gop-senator-trump-reflecting-pool-163526012.html",
+        "title": "Body of missing 10-year-old girl found in Passaic River in NJ",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/620dea258be48048410d8fec29917e18",
+        "link": "https://www.yahoo.com/news/us/articles/body-missing-10-old-girl-211956756.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Jensen Huang says \u2018a lot\u2019 of six-figure jobs in plumbing and construction will soon be unlocked because someone needs to build new AI centers",
-        "image": "https://media.zenfs.com/en/fortune_175/4062994d1bf7ae6ff8233554daa0c275",
-        "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-says-lot-six-133112188.html",
+        "title": "GOP senator on Trump\u2019s Reflecting Pool vandalism claims: \u2018He grows anxious when he has an unexpressed thought\u2019",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/fe2ffeeb99841ec9ac249519ecda70d6",
+        "link": "https://www.yahoo.com/news/politics/articles/gop-senator-trump-reflecting-pool-163526012.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Body of missing 10-year-old girl found in Passaic River in NJ",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/620dea258be48048410d8fec29917e18",
-        "link": "https://www.yahoo.com/news/us/articles/body-missing-10-old-girl-211956756.html",
+        "title": "Jensen Huang says \u2018a lot\u2019 of six-figure jobs in plumbing and construction will soon be unlocked because someone needs to build new AI centers",
+        "image": "https://media.zenfs.com/en/fortune_175/4062994d1bf7ae6ff8233554daa0c275",
+        "link": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-says-lot-six-133112188.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "5.0 magnitude earthquake strikes Egypt",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/5-0-magnitude-earthquake-strikes-egypt/a-78210318?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The quake occurred at 3 a.m. local time about 22 miles north \u2060of the Egyptian city of Suez, the US Geological Survey said...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ceuta-most-who-breached-border-have-left-spain-says/live-78191601?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Nearly all of the more than 50,000 migrants who breached the border this week have returned to Morocco, according to Spanish officials. At least 72 pe..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Greece: Fire brigade helicopters collide as wildfires spread",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/greece-fire-brigade-helicopters-collide-as-wildfires-spread/a-78207952?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The crew of one of the helicopters is reported to be safe but the search for the second is ongoing. Prime Minister Mitsotakis has warned of \"extremely..."
     }
 ]
