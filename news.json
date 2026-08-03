@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Texas Officials Are Facing A Federal Lawsuit Over New Hemp Product Restrictions",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/texas-officials-are-facing-a-federal-lawsuit-over-new-hemp-product-restrictions/",
+        "summary": "<p>&#8220;For more than seven years, Texans have built a multibillion-dollar hemp industry under laws that define these products as legal hemp.&#8221;..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Alcohol Retailers Celebrate Senate\u2019s Move To Keep Hemp THC Drinks Legal, For Now",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/alcohol-retailers-celebrate-senates-move-to-keep-hemp-thc-drinks-legal-for-now/",
@@ -28,11 +35,11 @@
         "summary": "<p>A new bill from a Republican congressman would require federal officials to establish a system for color coding cannabis-infused beverages and othe..."
     },
     {
-        "source": "Marijuana Moment",
-        "title": "FAA eyes new cannabis policies for pilots after rescheduling (Newsletter: August 3, 2026)",
+        "source": "MJBizDaily",
+        "title": "Missouri cannabis retail workers ratify state\u2019s second union contract",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/faa-eyes-new-cannabis-policies-for-pilots-after-rescheduling-newsletter-august-3-2026/",
-        "summary": "<p>Senate advances hemp ban delay; Marijuana kiosks for senior citizens; Study: Cannabis roots&#8217; medical potential; Trump VA secretary on psyched..."
+        "link": "https://mjbizdaily.com/news/missouri-cannabis-retail-workers-ratify-states-second-union-contract/617239/",
+        "summary": "<p>Key Cannabis won wage increases, bonuses and more paid time off, as well as more stable scheduling and stronger anti-harassment protections.</p>\n<p..."
     },
     {
         "source": "MJBizDaily",
@@ -63,17 +70,17 @@
         "summary": "<p>This could be the first and last Lollapalooza to serve hemp-derived THC beverages.</p>\n<p><a href=\"https://mjbizdaily.com/news/hemp-thc-drinks-to-b..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Utah to add another medical cannabis license",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/utah-to-add-another-medical-cannabis-license/617206/",
-        "summary": "<p>The move reflects a broader trend in which medical-only states tie new licenses to patient counts rather than open market expansion.</p>\n<p><a href..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Capital One says it closed Trump Organization's accounts after anti-money laundering probe",
         "image": "https://media.zenfs.com/en/reuters.com/47c84dca8951a62b43b54814a1830a2d",
         "link": "https://finance.yahoo.com/news/capital-one-says-closed-trump-231856774.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Kohberger may have targeted Idaho students because they were women",
+        "image": "https://media.zenfs.com/en/newsnation_articles_600/90ee4dfbf23b0c3554081cd70555de40",
+        "link": "https://www.yahoo.com/news/us/articles/kohberger-may-targeted-victims-because-045620721.html",
         "summary": "..."
     },
     {
@@ -85,30 +92,37 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Body of missing 10-year-old girl found in Passaic River in NJ",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/620dea258be48048410d8fec29917e18",
-        "link": "https://www.yahoo.com/news/us/articles/body-missing-10-old-girl-211956756.html",
+        "title": "Trump frequently announces he's halting strikes in Iran. But they keep happening",
+        "image": "https://media.zenfs.com/en/ap.org/29fe69cb75e86e224c19243cdde6a712",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-frequently-announces-hes-halting-200909968.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Suspect in shooting at Idaho fast-food restaurant died from self-inflicted gunshot wound, police say",
-        "image": "https://media.zenfs.com/en/ap.org/d8b4da5cb6ded760804e170ae3fc3033",
-        "link": "https://www.yahoo.com/news/us/articles/n-burger-employee-among-3-175205664.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018Trump threw us all a curveball\u2019: South Carolina Republicans are stewing about Lindsey Graham\u2019s old Senate seat",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/e2dcd34157299de3fae05cb372bdb192",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-threw-us-curveball-south-103027900.html",
+        "title": "Savannah Guthrie Makes Plea After Ransom Notes Made Public",
+        "image": "https://media.zenfs.com/en/nbcu_713/d994debf04b1b06567020f028c2355ba",
+        "link": "https://www.yahoo.com/news/videos/savannah-guthrie-makes-plea-ransom-114247090.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iran war: Trump tells Iranians to make deal or surrender",
+        "title": "Study shows why younger generations may be more cancer-prone",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-trump-tells-iranians-to-make-deal-or-surrender/live-78210315?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/study-shows-why-younger-generations-may-be-more-cancer-prone/a-78163655?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Researchers are observing certain age-related types of cancer more frequently in younger people. A new study suggests this could be because younger ge..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Dry Danube River threatens nuclear power in Romania, Hungary",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/dry-danube-river-threatens-nuclear-power-in-romania-hungary/a-78223402?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Hungary's Paks nuclear power plant was operating at about 10% of capacity because of a lack of cooling riverwater. In Romania, the military blew up a ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: Trump tells Iranian leaders to make deal or surrender",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-trump-tells-iranian-leaders-to-make-deal-or-surrender/live-78210315?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "President Donald Trump declared that the US military blockade would continue until Iran either made a deal or went for \"total surrender.\" Follow DW fo..."
     },
     {
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/growing-impact-of-extreme-heat-on-informal-workers-in-asia-s-cities/a-78220714?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "When temperatures soar across Asia's cities, informal workers face a choice: risk their health or lose their income. For many, the effects don't end w..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia says civilians killed in strike on Black Sea resort",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-says-civilians-killed-in-strike-on-black-sea-resort/a-78219979?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Moscow has accued Kyiv of stepping up attacks on civilian targets in recent weeks. Meanwhile, Ukrainian President Volodymyr Zelenskyy put Ukraine's ch..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Binging on cringe: It's as addictive as 'eating junk food'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/binging-on-cringe-it-s-as-addictive-as-eating-junk-food/a-78145287?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Flexing achievements? Cringe. Expressing genuine emotions? Cringe. You want to look away, but you can\u2019t. Cringe. It's so addictive, people have built ..."
     }
 ]
