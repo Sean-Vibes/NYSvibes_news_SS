@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Marijuana Business Sues New Jersey Officials In Federal Court Over Labor Union Requirements",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/marijuana-business-sues-new-jersey-officials-in-federal-court-over-labor-union-requirements/",
+        "summary": "<p>\u201cVerano did not want any of these terms. Had it been free to do so, it would not have accepted any of them. In fact, it would have signed no [labor..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Boxing And Combat Sports Officials Consider Marijuana Breathalyzer Device For Fighters",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/boxing-and-combat-sports-officials-consider-marijuana-breathalyzer-device-for-fighters/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/gop-senator-aims-to-keep-hemp-thc-product-ban-on-track-for-november-with-new-amendment/",
         "summary": "<p>A Republican senator wants to make sure that hemp THC products are federally recriminalized on time under a current plan that is set to go into eff..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Alcohol retailers push Congress to keep hemp THC drinks legal (Newsletter: August 4, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/alcohol-retailers-push-congress-to-keep-hemp-thc-drinks-legal-newsletter-august-4-2026/",
-        "summary": "<p>New bill to color-code cannabis beverages; TX &#38; VA hemp restriction lawsuits; MA liquor store lobby: don&#8217;t roll back marijuana legalizati..."
     },
     {
         "source": "MJBizDaily",
@@ -78,16 +78,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kohberger may have targeted Idaho students because they were women",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/90ee4dfbf23b0c3554081cd70555de40",
-        "link": "https://www.yahoo.com/news/us/articles/kohberger-may-targeted-victims-because-045620721.html",
+        "title": "North Carolina couple found dead one day after 40th anniversary in suspected murder-suicide",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/d8b0bd2d358457d279237e8385c95914",
+        "link": "https://www.yahoo.com/news/us/articles/north-carolina-couple-found-dead-154650924.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "North Carolina couple found dead one day after 40th anniversary in suspected murder-suicide",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/d8b0bd2d358457d279237e8385c95914",
-        "link": "https://www.yahoo.com/news/us/articles/north-carolina-couple-found-dead-154650924.html",
+        "title": "Kohberger may have targeted Idaho students because they were women",
+        "image": "https://media.zenfs.com/en/newsnation_articles_600/90ee4dfbf23b0c3554081cd70555de40",
+        "link": "https://www.yahoo.com/news/us/articles/kohberger-may-targeted-victims-because-045620721.html",
         "summary": "..."
     },
     {
@@ -99,17 +99,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Man arrested over death of nine-year-old girl found injured in industrial estate",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/0e2bdd9fb66774598b3e124172b1f57e",
-        "link": "https://www.yahoo.com/news/us/articles/man-arrested-death-nine-old-081951605.html",
+        "title": "Sanders warns Democrats: Any effort to fast-track Social Security changes would undercut party trust",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/094cac2fc8339f655c2468d46b0334ea",
+        "link": "https://www.yahoo.com/news/politics/articles/sanders-warns-democrats-effort-fast-150211136.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Middle East: Hezbollah condemns latest Israel-Lebanon talks",
+        "title": "Who is responsible for the Ceuta border surge?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/middle-east-hezbollah-condemns-latest-israel-lebanon-talks/live-78235099?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Hezbollah and Lebanon's government traded verbal blows amid the latest round of talks with Israel in Italy. And the Trump administration is touting pr..."
+        "link": "https://www.dw.com/en/who-is-responsible-for-the-ceuta-border-surge/a-78237295?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Tens of thousands of migrants crossed into the Spanish exclave of Ceuta several days ago. DW interviewed two experts to understand what may have cause..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Middle East: India says commercial ship sunk off Yemen",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/middle-east-india-says-commercial-ship-sunk-off-yemen/live-78235099?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "India reported an attack on a \"defenseless\" commercial ship which caused it to capsize and sink, but noted the crew were safe. Meanwhile, Lebanon and ..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/eu-agrees-to-send-border-aid-to-spain-after-ceuta-talks/a-78233082?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Schengen Area was \"in no way\" compromised during the Ceuta incursion, Spanish Interior Minister Fernando Grande-Marlaska said after a video confer..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Is Bangladesh backtracking on post-Hasina reforms?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/is-bangladesh-backtracking-on-post-hasina-reforms/a-78231437?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Two years after a student-led uprising toppled PM Sheikh Hasina, critics say Bangladesh's reform momentum is fading as political divisions deepen and ..."
     }
 ]
