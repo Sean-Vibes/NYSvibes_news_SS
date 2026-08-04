@@ -1,6 +1,20 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Boxing And Combat Sports Officials Consider Marijuana Breathalyzer Device For Fighters",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/boxing-and-combat-sports-officials-consider-marijuana-breathalyzer-device-for-fighters/",
+        "summary": "<p>A company that makes a marijuana breath testing device is pitching its services to boxing and mixed marital arts (MMA) associations as a way to ass..."
+    },
+    {
+        "source": "Marijuana Moment",
+        "title": "State Attorneys General Push Congress Not To Reverse Course On Banning Hemp THC Products",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/state-attorneys-general-push-congress-not-to-reverse-course-on-banning-hemp-thc-products/",
+        "summary": "<p>A bipartisan coalition of 35 state and territory attorneys general are calling on Congress not to reverse the planned federal recriminalization of ..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Maryland Court Allows Police To Search Cars Based On Smell Of Marijuana If Occupants Are Underage",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/maryland-court-allows-police-to-search-cars-based-on-smell-of-marijuana-if-occupants-are-underage/",
@@ -19,20 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/alcohol-retailers-push-congress-to-keep-hemp-thc-drinks-legal-newsletter-august-4-2026/",
         "summary": "<p>New bill to color-code cannabis beverages; TX &#38; VA hemp restriction lawsuits; MA liquor store lobby: don&#8217;t roll back marijuana legalizati..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Texas Officials Are Facing A Federal Lawsuit Over New Hemp Product Restrictions",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/texas-officials-are-facing-a-federal-lawsuit-over-new-hemp-product-restrictions/",
-        "summary": "<p>&#8220;For more than seven years, Texans have built a multibillion-dollar hemp industry under laws that define these products as legal hemp.&#8221;..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Alcohol Retailers Celebrate Senate\u2019s Move To Keep Hemp THC Drinks Legal, For Now",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/alcohol-retailers-celebrate-senates-move-to-keep-hemp-thc-drinks-legal-for-now/",
-        "summary": "<p>A coalition of alcohol retailers are cheering Senate leaders&#8217; inclusion of provisions in a key funding bill to delay the planned federal recr..."
     },
     {
         "source": "MJBizDaily",
@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US Supreme Court won't halt $655 million judgment against Palestinians over attacks",
-        "image": "https://media.zenfs.com/en/reuters.com/0b3d81d99d81af7b7b37d7799ff051b1",
-        "link": "https://www.yahoo.com/news/politics/articles/us-supreme-court-wont-halt-205821242.html",
+        "title": "Leonardo DiCaprio and Jeff Bezos lead $200M project to save 100 of globe's most threatened species",
+        "image": "https://media.zenfs.com/en/ap.org/561dec3327914e6e73d10c951875070d",
+        "link": "https://www.yahoo.com/news/science/articles/leonardo-dicaprio-jeff-bezos-lead-100028696.html",
         "summary": "..."
     },
     {
@@ -92,17 +92,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "How to Tell if You Have a Healthy Gut (and What to Do if You Don't)",
-        "image": "https://media.zenfs.com/en/nbcu_713/519c010a7f3671467a7a3dabf8c66cb6",
-        "link": "https://www.yahoo.com/news/videos/tell-healthy-gut-dont-133005177.html",
+        "title": "US Supreme Court won't halt $655 million judgment against Palestinians over attacks",
+        "image": "https://media.zenfs.com/en/reuters.com/0b3d81d99d81af7b7b37d7799ff051b1",
+        "link": "https://www.yahoo.com/news/politics/articles/us-supreme-court-wont-halt-205821242.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "GOP senator on Trump\u2019s Reflecting Pool vandalism claims: \u2018He grows anxious when he has an unexpressed thought\u2019",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/fe2ffeeb99841ec9ac249519ecda70d6",
-        "link": "https://www.yahoo.com/news/politics/articles/gop-senator-trump-reflecting-pool-163526012.html",
+        "title": "Man arrested over death of nine-year-old girl found injured in industrial estate",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/0e2bdd9fb66774598b3e124172b1f57e",
+        "link": "https://www.yahoo.com/news/us/articles/man-arrested-death-nine-old-081951605.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Middle East: Hezbollah condemns latest Israel-Lebanon talks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/middle-east-hezbollah-condemns-latest-israel-lebanon-talks/live-78235099?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Hezbollah and Lebanon's government traded verbal blows amid the latest round of talks with Israel in Italy. And the Trump administration is touting pr..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "South Sudan: How climate change can result in toxic water",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/south-sudan-how-climate-change-can-result-in-toxic-water/a-78193418?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Years of flooding have resulted in disastrous water pollution in South Sudan's main oil region. As communities, scientists and health workers scramble..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/is-bangladesh-backtracking-on-post-hasina-reforms/a-78231437?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Two years after a student-led uprising toppled PM Sheikh Hasina, critics say Bangladesh's reform momentum is fading as political divisions deepen and ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Guatemala: Towns evacuated as Fuego volcano erupts",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/guatemala-towns-evacuated-as-fuego-volcano-erupts/a-78230836?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The country's disaster energy issued in second-highest warning level and urged residents to seek shelter. Onlookers have also been warned to stop clim..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Tennis star Sabalenka supports sport's new sex test policy",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/tennis-star-sabalenka-supports-sport-s-new-sex-test-policy/a-78228069?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The world number one women's tennis player supports the WTA's new sex testing rules. Others are more critical of the policy...."
     }
 ]
