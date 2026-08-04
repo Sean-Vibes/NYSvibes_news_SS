@@ -1,6 +1,20 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Maryland Court Allows Police To Search Cars Based On Smell Of Marijuana If Occupants Are Underage",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/maryland-court-allows-police-to-search-cars-based-on-smell-of-marijuana-if-occupants-are-underage/",
+        "summary": "<p>\u201cThe searches were not prohibited\u2026because they were not based solely on the odor of cannabis. Instead, they were based on the odor of cannabis, plu..."
+    },
+    {
+        "source": "Marijuana Moment",
+        "title": "GOP Senator Aims To Keep Hemp THC Product Ban On Track For November With New Amendment",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/gop-senator-aims-to-keep-hemp-thc-product-ban-on-track-for-november-with-new-amendment/",
+        "summary": "<p>A Republican senator wants to make sure that hemp THC products are federally recriminalized on time under a current plan that is set to go into eff..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Alcohol retailers push Congress to keep hemp THC drinks legal (Newsletter: August 4, 2026)",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/alcohol-retailers-push-congress-to-keep-hemp-thc-drinks-legal-newsletter-august-4-2026/",
@@ -19,20 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/alcohol-retailers-celebrate-senates-move-to-keep-hemp-thc-drinks-legal-for-now/",
         "summary": "<p>A coalition of alcohol retailers are cheering Senate leaders&#8217; inclusion of provisions in a key funding bill to delay the planned federal recr..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Virginia Hemp Businesses Sue State Officials Over New THC Product Limits",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/virginia-hemp-businesses-sue-state-officials-over-new-thc-product-limits/",
-        "summary": "<p>A coalition of Virginia hemp businesses are suing state officials in federal court over soon-to-be-enacted restrictions on the products they produc..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Massachusetts Should Regulate Marijuana More Like Alcohol And Tobacco, Liquor Store Rep Says (Op-Ed)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/massachusetts-should-regulate-marijuana-more-like-alcohol-and-tobacco-liquor-store-rep-says-op-ed/",
-        "summary": "<p>&#8220;Demanding regulatory parity is not about dismantling the legal cannabis economy or advocating for a repeal of legal retail sales at the ball..."
     },
     {
         "source": "MJBizDaily",
@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Pakistan teams search on foot for remains of climbers as weather grounds helicopters",
-        "image": "https://media.zenfs.com/en/ap.org/1ef722708dfeb897c69023e8f0d31bc3",
-        "link": "https://www.yahoo.com/news/world/articles/pakistan-teams-search-foot-remains-092939210.html",
+        "title": "US Supreme Court won't halt $655 million judgment against Palestinians over attacks",
+        "image": "https://media.zenfs.com/en/reuters.com/0b3d81d99d81af7b7b37d7799ff051b1",
+        "link": "https://www.yahoo.com/news/politics/articles/us-supreme-court-wont-halt-205821242.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive-US has used 'virtually all' of its long-range precision missiles during Iran war, sources say",
-        "image": "https://media.zenfs.com/en/reuters.com/08f72b2f42a96636952a7cad32ec8c45",
-        "link": "https://www.yahoo.com/news/politics/articles/exclusive-us-used-virtually-long-100839538.html",
+        "title": "How to Tell if You Have a Healthy Gut (and What to Do if You Don't)",
+        "image": "https://media.zenfs.com/en/nbcu_713/519c010a7f3671467a7a3dabf8c66cb6",
+        "link": "https://www.yahoo.com/news/videos/tell-healthy-gut-dont-133005177.html",
         "summary": "..."
     },
     {
@@ -106,37 +106,37 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "What does Zambia's opposition stand without Edgar Lungu?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/what-does-zambia-s-opposition-stand-without-edgar-lungu/a-78231174?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The death of former President Edgar Lungu reshaped opposition politics in Zambia ahead of the August 13 general election. Analysts say the vote will t..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "EU agrees to send border aid to Spain after Ceuta talks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eu-agrees-to-send-border-aid-to-spain-after-ceuta-talks/a-78233082?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Schengen Area was \"in no way\" compromised during the Ceuta incursion, Spanish Interior Minister Fernando Grande-Marlaska said after a video confer..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Is Bangladesh backtracking on post-Hasina reforms?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/is-bangladesh-backtracking-on-post-hasina-reforms/a-78231437?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Two years after a student-led uprising toppled PM Sheikh Hasina, critics say Bangladesh's reform momentum is fading as political divisions deepen and ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Guatemala: Towns evacuated as Fuego volcano erupts",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/guatemala-towns-evacuated-as-fuego-volcano-erupts/a-78230836?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The country's disaster energy issued in second-highest warning level and urged residents to seek shelter. Onlookers have also been warned to stop clim..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Tennis star Sabalenka supports sport's new sex test policy",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/tennis-star-sabalenka-supports-sport-s-new-sex-test-policy/a-78228069?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The world number one women's tennis player supports the WTA's new sex testing rules. Others are more critical of the policy...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran: Is Reza Pahlavi's political star fading?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-is-reza-pahlavi-s-political-star-fading/a-78219536?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Once seen as a leading opposition figure, Pahlavi now faces questions about his political relevance in Western capitals and inside Iran...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine drone strikes kill five near Moscow, Russia says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-drone-strikes-kill-five-near-moscow-russia-says/live-78227405?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russian officials say Ukrainian drones have killed five people, hitting industrial and warehouse sites near Moscow and St Petersburg. Meanwhile, a sol..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "South Korea: 16 dead amid record heat wave, President Lee urges action",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/south-korea-16-dead-amid-record-heat-wave-president-lee-urges-action/a-78225858?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "President Lee Jae Myung called on officials to take prompt action as extreme weather conditions became \"normal.\" Authorities extended their first-ever..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Three lions die of heatstroke at Tokyo zoo",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/three-lions-die-of-heatstroke-at-tokyo-zoo/a-78226382?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The zoo said that 10 of its 16 lions have been ill. Japan has been experiencing an extreme heat wave since late July...."
     }
 ]
