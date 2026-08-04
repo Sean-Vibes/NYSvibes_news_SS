@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Capital One says it closed Trump Organization's accounts after anti-money laundering probe",
-        "image": "https://media.zenfs.com/en/reuters.com/47c84dca8951a62b43b54814a1830a2d",
-        "link": "https://finance.yahoo.com/news/capital-one-says-closed-trump-231856774.html",
+        "title": "RFK Jr. says parents should vaccinate children against measles as U.S. cases hit a 35-year high",
+        "image": "https://s.yimg.com/uu/api/res/1.2/2bd9hYBzu9t8tvkk60cGMg--~B/aD0yNjU2O3c9Mzk4NDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-08/eb90d0c1-3e5d-4592-b574-e9c5fdebde56",
+        "link": "https://www.yahoo.com/news/politics/article/rfk-jr-says-parents-should-vaccinate-children-against-measles-as-us-cases-hit-a-35-year-high-160031759.html",
         "summary": "..."
     },
     {
@@ -92,17 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Top US admiral warns against coercion, says no nation will dominate Indo-Pacific",
-        "image": "https://media.zenfs.com/en/ap.org/7c02c9ffdef3a6c05487390b098b322b",
-        "link": "https://www.yahoo.com/news/politics/articles/top-us-admiral-warns-against-085729214.html",
+        "title": "Trump wanted a Lindsey Graham tribute. South Carolina Republicans want a choice",
+        "image": "https://media.zenfs.com/en/reuters.com/aa1cb2942c984429e8d367934049c9b2",
+        "link": "https://www.yahoo.com/news/articles/trump-wanted-lindsey-graham-tribute-201530190.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Satellite images show evidence of oil leak spreading from sanctioned vessel near Oman",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/611c701c0ccf39fd251e63f180b5bfdf",
-        "link": "https://www.yahoo.com/news/world/articles/satellite-images-show-evidence-oil-123553596.html",
+        "title": "New details on victims of In-N-Out shooting",
+        "image": "https://media.zenfs.com/en/nbcu_713/fa527fbd3cfd2a653e3e7483bd461220",
+        "link": "https://www.yahoo.com/news/videos/details-victims-n-shooting-230222483.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US: 25 states sue over Trump's new tariffs",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-25-states-sue-over-trump-s-new-tariffs/a-78224794?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The coalition of largely Democratic-led states is challenging the Trump administration's argument that tariffs will address imports produced by allege..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ceuta-eu-calls-borders-a-shared-european-responsibility/a-78220701?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The European Commission has offered Morocco more support at the border to Ceuta and Melilla, and called for \"united action\" from the bloc on border se..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Growing impact of extreme heat on informal workers in Asia's cities",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/growing-impact-of-extreme-heat-on-informal-workers-in-asia-s-cities/a-78220714?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "When temperatures soar across Asia's cities, informal workers face a choice: risk their health or lose their income. For many, the effects don't end w..."
     }
 ]
