@@ -71,9 +71,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Top US admiral warns against coercion, says no nation will dominate Indo-Pacific",
-        "image": "https://media.zenfs.com/en/ap.org/7c02c9ffdef3a6c05487390b098b322b",
-        "link": "https://www.yahoo.com/news/politics/articles/top-us-admiral-warns-against-085729214.html",
+        "title": "Leonardo DiCaprio and Jeff Bezos lead $200M project to save 100 of globe's most threatened species",
+        "image": "https://media.zenfs.com/en/ap.org/561dec3327914e6e73d10c951875070d",
+        "link": "https://www.yahoo.com/news/science/articles/leonardo-dicaprio-jeff-bezos-lead-100028696.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Air Force says two advanced stealthy aircraft are ahead of schedule, with first delivery set for 2027",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/7f35afeff234a30f46267d03e6c6e3e2",
+        "link": "https://www.yahoo.com/news/us/articles/air-force-says-two-advanced-212040276.html",
         "summary": "..."
     },
     {
@@ -85,24 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Top US admiral warns against coercion, says no nation will dominate Indo-Pacific",
+        "image": "https://media.zenfs.com/en/ap.org/7c02c9ffdef3a6c05487390b098b322b",
+        "link": "https://www.yahoo.com/news/politics/articles/top-us-admiral-warns-against-085729214.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Kohberger may have targeted Idaho students because they were women",
         "image": "https://media.zenfs.com/en/newsnation_articles_600/90ee4dfbf23b0c3554081cd70555de40",
         "link": "https://www.yahoo.com/news/us/articles/kohberger-may-targeted-victims-because-045620721.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "US Supreme Court won't halt $655 million judgment against Palestinians over attacks",
-        "image": "https://media.zenfs.com/en/reuters.com/0b3d81d99d81af7b7b37d7799ff051b1",
-        "link": "https://www.yahoo.com/news/politics/articles/us-supreme-court-wont-halt-205821242.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Sanders warns Democrats: Any effort to fast-track Social Security changes would undercut party trust",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/094cac2fc8339f655c2468d46b0334ea",
-        "link": "https://www.yahoo.com/news/politics/articles/sanders-warns-democrats-effort-fast-150211136.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Ukraine: Russian strikes on Kyiv kill at least 1",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-russian-strikes-on-kyiv-kill-at-least-1/a-78238963?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "At least two were killed as explosions rocked Kyiv and the surrounding region overnight. Russian missiles tore through residential buildings and wareh..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/who-is-responsible-for-the-ceuta-border-surge/a-78237295?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Tens of thousands of migrants crossed into the Spanish exclave of Ceuta several days ago. DW interviewed two experts to understand what may have cause..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Middle East: India says commercial ship sunk off Yemen",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/middle-east-india-says-commercial-ship-sunk-off-yemen/live-78235099?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "India reported an attack on a \"defenseless\" commercial ship which caused it to capsize and sink, but noted the crew were safe. Meanwhile, Lebanon and ..."
     }
 ]
