@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Puerto Rico Governor Signs Psychedelics Executive Order",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/puerto-rico-governor-signs-psychedelics-executive-order/",
+        "summary": "<p>&#8220;We are moving toward making Puerto Rico a leader in clinical research and opening new opportunities for our patients, researchers, healthcar..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "White House Denies That Push To Protect Hemp From Ban Is Aimed At Boosting Business Interests Of Top Trump Staffer\u2019s Family",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/white-house-denies-that-push-to-protect-hemp-from-ban-is-aimed-at-boosting-business-interests-of-top-trump-staffers-family/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/north-carolina-bill-to-ban-hemp-thc-products-wont-get-a-house-vote-until-at-least-november/",
         "summary": "<p>&#8220;Folks recognize that the current state of our law is not tenable. There are basically no rules.&#8221; By Claire Michal, NC Newsline The Nor..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Senate amendment would keep hemp THC product ban on track (Newsletter: August 5, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/senate-amendment-would-keep-hemp-thc-product-ban-on-track-newsletter-august-5-2026/",
-        "summary": "<p>State AGs push Congress not to undo hemp recriminalization; NC gov wants legal marijuana; Combat sports officials weigh cannabis breathalyzer Subsc..."
     },
     {
         "source": "MJBizDaily",
@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Grocer-turned-lawmaker says Mamdani\u2019s government-run stores 'might not even last a year\u2019",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/b18a00399af8b10383ec3008728440dc",
-        "link": "https://www.yahoo.com/news/politics/articles/grocer-turned-lawmaker-says-mamdani-130027342.html",
+        "title": "First deaths from lettuce-linked outbreak",
+        "image": "https://media.zenfs.com/en/nbcu_713/e6e9b92b678bc84db3f1178e7509c644",
+        "link": "https://www.yahoo.com/news/videos/first-deaths-lettuce-linked-outbreak-224824368.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "WHO's Tedros vists DR Congo as Ebola outbreak accelerates",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/who-s-tedros-vists-dr-congo-as-ebola-outbreak-accelerates/a-78258054?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The head of the World Health Organization warned that \"we must urgently and massively scale up all our efforts\" against the latest Ebola outbreak, wit..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-s-gen-z-protest-enters-a-new-online-battle/a-78253169?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The streets are quiet, but a fight over the legacy of the Cockroach Janta Party movement is intensifying across Instagram, memes and social media...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Middle East: Israel strikes southern Lebanon, accuses Hezbollah of 'blatant' ceasefire violation",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/middle-east-israel-strikes-southern-lebanon-accuses-hezbollah-of-blatant-ceasefire-violation/live-78251565?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Israel's military says it is conducting \"precision strikes\" against Hezbollah in southern Lebanon, after calling on residents of Mansouri to evacuate...."
     }
 ]
