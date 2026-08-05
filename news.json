@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "Georgia medical cannabis patient growth continues to surge",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/georgia-medical-cannabis-patient-growth-continues-to-surge/617275/",
+        "summary": "<p>Georgia's medical cannabis patient registry posted its fastest growth in a decade after a new law eased access.</p>\n<p><a href=\"https://mjbizdaily...."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "Virginia hemp THC operators sue to block ban as North Carolina hemp THC ban looms",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/virginia-hemp-thc-operators-sue-to-block-ban-as-north-carolina-hemp-thc-ban-looms/617259/",
@@ -63,13 +70,6 @@
         "summary": "<p>With state fairs handing out awards for top cannabis flower and extracts, there may be more cannabis awards than ever before. How can a brand best ..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Senate floats plan to save hemp THC but only for a month",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/senate-floats-plan-to-save-hemp-thc-but-only-for-a-month/617244/",
-        "summary": "<p>A Senate spending bill would delay implementation of a federal hemp ban until Dec. 11. </p>\n<p><a href=\"https://mjbizdaily.com/news/senate-floats-p..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Leonardo DiCaprio and Jeff Bezos lead $200M project to save 100 of globe's most threatened species",
         "image": "https://media.zenfs.com/en/ap.org/561dec3327914e6e73d10c951875070d",
@@ -92,17 +92,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump vowed to 'bring free speech back.' Judges in 75 cases ruled that he has stifled it",
-        "image": "https://media.zenfs.com/en/cover_media_us_video_962/bbd4943672785604ad30025189907a12",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-vowed-to-bring-free-speech-back-judges-in-75-cases-ruled-that-he-has-stifled-it-135031173.html",
+        "title": "Markets surge to record highs",
+        "image": "https://media.zenfs.com/en/nbcu_713/4a073dbef6f5bb8da1ce8e3cb6a8d4fb",
+        "link": "https://www.yahoo.com/news/videos/markets-surge-record-highs-233632229.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "First deaths from lettuce-linked outbreak",
-        "image": "https://media.zenfs.com/en/nbcu_713/e6e9b92b678bc84db3f1178e7509c644",
-        "link": "https://www.yahoo.com/news/videos/first-deaths-lettuce-linked-outbreak-224824368.html",
+        "title": "Grocer-turned-lawmaker says Mamdani\u2019s government-run stores 'might not even last a year\u2019",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/b18a00399af8b10383ec3008728440dc",
+        "link": "https://www.yahoo.com/news/politics/articles/grocer-turned-lawmaker-says-mamdani-130027342.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US: Abdul El-Sayed wins contentious Michigan Senate primary",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-abdul-el-sayed-wins-contentious-michigan-senate-primary/a-78258380?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Progressive Abdul El-Sayed defeated moderate Haley Stevens in a contest seen as a proxy war for the future ideological direction of the Democratic par..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Will Russia start a fresh mobilization drive?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/will-russia-start-a-fresh-mobilization-drive/a-78253252?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Russia is preparing a new mobilization campaign to boost troop numbers, Ukrainian officials and independent Russian media outlets report. The Kremlin ..."
     },
     {
         "source": "Deutsche Welle",
@@ -120,23 +134,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany news: Explosive drone defused at Leipzig airport",
+        "title": "Germany: Leipzig explosive drone 'new level of danger' \u2014 Minister",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-explosive-drone-defused-at-leipzig-airport/live-78241747?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A German airport was disrupted for hours after an explosive-laden drone was discovered near one of the runways. Meanwhile, members of a youth terror c..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Fears of renewed conflict in Ethiopia",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fears-of-renewed-conflict-in-ethiopia/a-78242293?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Military activity in and around the disputed city of Alamata has sparked concerns that the fragile peace that followed the 2020\u20132022 Tigray War could ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India's Gen Z protest enters a new online battle",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-s-gen-z-protest-enters-a-new-online-battle/a-78253169?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The streets are quiet, but a fight over the legacy of the Cockroach Janta Party movement is intensifying across Instagram, memes and social media...."
+        "link": "https://www.dw.com/en/germany-leipzig-explosive-drone-new-level-of-danger-minister/live-78241747?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany's Interior Minister Dobrindt, who cut his summer break short to deal with the Leipzig Airport situation, said the incident was being treated a..."
     }
 ]
