@@ -92,24 +92,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Top US admiral warns against coercion, says no nation will dominate Indo-Pacific",
-        "image": "https://media.zenfs.com/en/ap.org/7c02c9ffdef3a6c05487390b098b322b",
-        "link": "https://www.yahoo.com/news/politics/articles/top-us-admiral-warns-against-085729214.html",
+        "title": "Trump vowed to 'bring free speech back.' Judges in 75 cases ruled that he has stifled it",
+        "image": "https://media.zenfs.com/en/cover_media_us_video_962/bbd4943672785604ad30025189907a12",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-vowed-to-bring-free-speech-back-judges-in-75-cases-ruled-that-he-has-stifled-it-135031173.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kohberger may have targeted Idaho students because they were women",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/90ee4dfbf23b0c3554081cd70555de40",
-        "link": "https://www.yahoo.com/news/us/articles/kohberger-may-targeted-victims-because-045620721.html",
+        "title": "New details on victims of In-N-Out shooting",
+        "image": "https://media.zenfs.com/en/nbcu_713/fa527fbd3cfd2a653e3e7483bd461220",
+        "link": "https://www.yahoo.com/news/videos/details-victims-n-shooting-230222483.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Ukraine: Russian strikes on Kyiv kill at least 1",
+        "title": "Turkish court orders X to block Imamoglu candidacy account",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-russian-strikes-on-kyiv-kill-at-least-1/a-78238963?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "At least two were killed as explosions rocked Kyiv and the surrounding region overnight. Russian missiles tore through residential buildings and wareh..."
+        "link": "https://www.dw.com/en/turkish-court-orders-x-to-block-imamoglu-candidacy-account/a-78239919?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ekrem Imamoglu, a member of the main opposition Republican People's Party, is widely seen as the main challenger to Turkish President Recep Tayyip Erd..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine: Russian strikes on Kyiv, surrounding region kill at least 17",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-russian-strikes-on-kyiv-surrounding-region-kill-at-least-17/a-78238963?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "At least 17 were killed as explosions rocked Kyiv and the surrounding region overnight. Russian missiles tore through residential buildings and wareho..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "AI ecosystem's 'circular' investment: risk or advantage?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ai-ecosystem-s-circular-investment-risk-or-advantage/a-78186917?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Amid talk of an AI sector bubble, one aspect is under scrutiny. Many big AI players are invested in smaller ones, who then buy the bigger firm's produ..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/new-gaza-peace-plan-will-us-pressure-israel-to-accede/a-78237611?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Reports suggest US President Donald Trump would be \"very disappointed\" if Israel doesn't agree to a new peace plan for Gaza, announced last week. But ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Italy: Garbage workers help woman find \u20ac1 million jackpot",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/italy-garbage-workers-help-woman-find-\u20ac1-million-jackpot/a-78237944?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A woman who won \u20ac1 million mistakenly threw her lottery ticket in a trash bin in Bitonto, southern Italy \u2014 prompting her local sanitation company to l..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Who is responsible for the Ceuta border surge?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/who-is-responsible-for-the-ceuta-border-surge/a-78237295?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Tens of thousands of migrants crossed into the Spanish exclave of Ceuta several days ago. DW interviewed two experts to understand what may have cause..."
     }
 ]
