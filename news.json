@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Senate amendment would keep hemp THC product ban on track (Newsletter: August 5, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/senate-amendment-would-keep-hemp-thc-product-ban-on-track-newsletter-august-5-2026/",
+        "summary": "<p>State AGs push Congress not to undo hemp recriminalization; NC gov wants legal marijuana; Combat sports officials weigh cannabis breathalyzer Subsc..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "North Carolina Governor Pushes Lawmakers To Create A \u2018Well-Regulated\u2019 Legal Marijuana Market Instead Of Passing A Limited Hemp Bill",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/north-carolina-governor-pushes-lawmakers-to-create-a-well-regulated-legal-marijuana-market-instead-of-passing-a-limited-hemp-bill/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/state-attorneys-general-push-congress-not-to-reverse-course-on-banning-hemp-thc-products/",
         "summary": "<p>A bipartisan coalition of 35 state and territory attorneys general are calling on Congress not to reverse the planned federal recriminalization of ..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Maryland Court Allows Police To Search Cars Based On Smell Of Marijuana If Occupants Are Underage",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/maryland-court-allows-police-to-search-cars-based-on-smell-of-marijuana-if-occupants-are-underage/",
-        "summary": "<p>\u201cThe searches were not prohibited\u2026because they were not based solely on the odor of cannabis. Instead, they were based on the odor of cannabis, plu..."
     },
     {
         "source": "MJBizDaily",
@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Leonardo DiCaprio and Jeff Bezos lead $200M project to save 100 of globe's most threatened species",
-        "image": "https://media.zenfs.com/en/ap.org/561dec3327914e6e73d10c951875070d",
-        "link": "https://www.yahoo.com/news/science/articles/leonardo-dicaprio-jeff-bezos-lead-100028696.html",
+        "title": "Trump vowed to 'bring free speech back.' Judges in 75 cases ruled that he has stifled it",
+        "image": "https://media.zenfs.com/en/cover_media_us_video_962/bbd4943672785604ad30025189907a12",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-vowed-to-bring-free-speech-back-judges-in-75-cases-ruled-that-he-has-stifled-it-135031173.html",
         "summary": "..."
     },
     {
@@ -92,17 +92,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump vowed to 'bring free speech back.' Judges in 75 cases ruled that he has stifled it",
-        "image": "https://media.zenfs.com/en/cover_media_us_video_962/bbd4943672785604ad30025189907a12",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-vowed-to-bring-free-speech-back-judges-in-75-cases-ruled-that-he-has-stifled-it-135031173.html",
+        "title": "Divided federal appeals court says Trump administration was wrong to terminate climate funds",
+        "image": "https://media.zenfs.com/en/ap.org/6d3c6f080d4a6a56b96a22f35d460fa1",
+        "link": "https://www.yahoo.com/news/science/articles/divided-federal-appeals-court-says-175058727.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "New details on victims of In-N-Out shooting",
-        "image": "https://media.zenfs.com/en/nbcu_713/fa527fbd3cfd2a653e3e7483bd461220",
-        "link": "https://www.yahoo.com/news/videos/details-victims-n-shooting-230222483.html",
+        "title": "SpaceX says it\u2019s coming for AT&T, Verizon, and T-Mobile customers",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/e061aedb7da0d08ff87c993ff6b87f32",
+        "link": "https://finance.yahoo.com/technology/articles/spacex-says-coming-t-verizon-005508467.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Low water levels in the Danube revealing Nazi shipwrecks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/low-water-levels-in-the-danube-revealing-nazi-shipwrecks/a-78242343?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "There are believed to be about 200 Nazi ships on the floor of the Danube near Prahovo, Serbia. Ferries, tourist boats, and shipping have also become s..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Lightning strike cuts Bavarian town in two",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-lightning-strike-cuts-bavarian-town-in-two/live-78241747?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A bolt from the sky knocked out two railroad crossings, forcing drivers to make long detours between east and west. Meanwhile, flights at Leipzig airp..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "South Korea: Police raid Starbucks HQ over 'Tank Day' fiasco",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/south-korea-police-raid-starbucks-hq-over-tank-day-fiasco/a-78241294?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Starbucks Korea faced major backlash after being accused of trivializing a 1980 massacre. Police say their internal investigation was not thorough eno..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India: Heavy monsoon season claims more than 100 lives",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-heavy-monsoon-season-claims-more-than-100-lives/live-78240054?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Heavy rainfall and thunderstorms have claimed dozens of lives across India, with more rain forecast in several states. Meanwhile, Sheikh Hasina is set..."
     },
     {
         "source": "Deutsche Welle",
@@ -110,33 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/turkish-court-orders-x-to-block-imamoglu-candidacy-account/a-78239919?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Ekrem Imamoglu, a member of the main opposition Republican People's Party, is widely seen as the main challenger to Turkish President Recep Tayyip Erd..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine: Russian strikes on Kyiv, surrounding region kill at least 17",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-russian-strikes-on-kyiv-surrounding-region-kill-at-least-17/a-78238963?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "At least 17 were killed as explosions rocked Kyiv and the surrounding region overnight. Russian missiles tore through residential buildings and wareho..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "AI ecosystem's 'circular' investment: risk or advantage?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ai-ecosystem-s-circular-investment-risk-or-advantage/a-78186917?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Amid talk of an AI sector bubble, one aspect is under scrutiny. Many big AI players are invested in smaller ones, who then buy the bigger firm's produ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "White House revokes visa of Brazil's ambassador to US",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/white-house-revokes-visa-of-brazil-s-ambassador-to-us/a-78238439?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The move was in response to Brazil delaying formal diplomatic approval of the US ambassador to Brasilia and denying visas to several US diplomats. Bra..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "New Gaza peace plan: Will US pressure Israel to accede?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/new-gaza-peace-plan-will-us-pressure-israel-to-accede/a-78237611?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Reports suggest US President Donald Trump would be \"very disappointed\" if Israel doesn't agree to a new peace plan for Gaza, announced last week. But ..."
     }
 ]
