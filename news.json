@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Explainer-Why Congo's Ebola outbreak is spreading faster than previous epidemics",
-        "image": "https://media.zenfs.com/en/reuters.com/29bdb5eafcaae3341c4aeabf0ecb39d6",
-        "link": "https://www.yahoo.com/news/science/articles/explainer-why-congos-ebola-outbreak-150330906.html",
+        "title": "Divided federal appeals court says Trump administration was wrong to terminate climate funds",
+        "image": "https://media.zenfs.com/en/ap.org/6d3c6f080d4a6a56b96a22f35d460fa1",
+        "link": "https://www.yahoo.com/news/science/articles/divided-federal-appeals-court-says-175058727.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/politico_453/16251058ae6472a5c0791ff2680140b6",
         "link": "https://www.yahoo.com/news/politics/articles/hands-deck-oil-industry-rallies-200000360.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "FIFA president Infantino to stay on after crisis meeting",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/fifa-president-infantino-to-stay-on-after-crisis-meeting/a-78258824?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "FIFA's leadership has apologized for the controversial plan to open the World Cup to private investment. The plan has since been scrapped...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-court-jails-far-right-youth-terror-cell-members/a-78253691?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A Hamburg court has handed down stiff prison sentences to members of the far-right terrorist group \"Last Wave of Defense.\" Politicians are warning tha..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany: Leipzig explosive drone 'new level of danger' \u2014 Minister",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-leipzig-explosive-drone-new-level-of-danger-minister/live-78241747?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany's Interior Minister Dobrindt, who cut his summer break short to deal with the Leipzig Airport situation, said the incident was being treated a..."
     }
 ]
