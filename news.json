@@ -92,51 +92,51 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Divided federal appeals court says Trump administration was wrong to terminate climate funds",
-        "image": "https://media.zenfs.com/en/ap.org/6d3c6f080d4a6a56b96a22f35d460fa1",
-        "link": "https://www.yahoo.com/news/science/articles/divided-federal-appeals-court-says-175058727.html",
+        "title": "FBI agents fired over Trump investigation get broad backing in lawsuit against administration",
+        "image": "https://media.zenfs.com/en/ap.org/40ea53e8cb4a4164767d57a7c1acdc6a",
+        "link": "https://www.yahoo.com/news/politics/articles/fbi-agents-fired-over-trump-145408791.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Man gets third-degree burns from hot sand after using disposable beach BBQ",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/d1132908920689b5b9fabeadd573db49",
-        "link": "https://www.yahoo.com/news/us/articles/man-gets-third-degree-burns-121702301.html",
+        "title": "\u2018All hands on deck\u2019: Oil industry rallies to keep Trump from stopping exports",
+        "image": "https://media.zenfs.com/en/politico_453/16251058ae6472a5c0791ff2680140b6",
+        "link": "https://www.yahoo.com/news/politics/articles/hands-deck-oil-industry-rallies-200000360.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Student protests in Jharkhand enter 13th day",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-student-protests-in-jharkhand-enter-13th-day/live-78260247?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The movement in the eastern Indian state of Jharkhand has gained momentum after protesters called for people to march to Jharkhand's state legislature..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Why is Russia selling its gold?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/why-is-russia-selling-its-gold/a-78145069?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Russia has become one of the world's biggest sellers of gold over the past 12 months. It's an attempt to raise cash in the face of budget issues, but ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Search for second drone after Leipzig incident",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-search-for-second-drone-after-leipzig-incident/live-78259460?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Investigators are looking for parts of a second drone believed to have hit an aircraft after an explosive-laden drone was found on a runway. Germany's..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Exiled PM Sheikh Hasina vows return to Bangladesh",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/exiled-pm-sheikh-hasina-vows-return-to-bangladesh/a-78258875?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Sheikh Hasina vowed to return to Bangladesh despite facing a death penalty, telling supporters that fear could not decide her \"duty to the people.\"..."
     },
     {
         "source": "Deutsche Welle",
         "title": "What's behind the Algeria-Morocco rivalry?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/what-s-behind-the-algeria-morocco-rivalry/a-78258062?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Morocco and Algeria have been at odds for decades, chiefly over the disputed Western Sahara region. But their rivalry now extends far beyond the terri..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hiroshima survivors warn against Japan's rearmament",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hiroshima-survivors-warn-against-japan-s-rearmament/a-78249290?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "On the anniversary of the atomic bombings, survivors and activists tell DW Japan's military buildup risks eroding its longstanding commitment to pacif..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "FIFA president Infantino to stay on after crisis meeting",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fifa-president-infantino-to-stay-on-after-crisis-meeting/a-78258824?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "FIFA's leadership has apologized for the controversial plan to open the World Cup to private investment. The plan has since been scrapped...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US: Abdul El-Sayed wins contentious Michigan Senate primary",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-abdul-el-sayed-wins-contentious-michigan-senate-primary/a-78258380?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Progressive Abdul El-Sayed defeated moderate Haley Stevens in a contest seen as a proxy war for the future ideological direction of the Democratic par..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Will Russia start a fresh mobilization drive?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/will-russia-start-a-fresh-mobilization-drive/a-78253252?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russia is preparing a new mobilization campaign to boost troop numbers, Ukrainian officials and independent Russian media outlets report. The Kremlin ..."
+        "summary": "Morocco and Algeria have been at odds for decades, chiefly over the territory of Western Sahara. But their rivalry now extends far beyond the territor..."
     }
 ]
