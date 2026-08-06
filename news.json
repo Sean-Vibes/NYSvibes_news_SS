@@ -85,9 +85,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Man gets third-degree burns from hot sand after using disposable beach BBQ",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/d1132908920689b5b9fabeadd573db49",
-        "link": "https://www.yahoo.com/news/us/articles/man-gets-third-degree-burns-121702301.html",
+        "title": "Cyclospora has expanded to fruit, other vegetables: Ex-CDC director",
+        "image": "https://media.zenfs.com/en/newsnation_articles_600/beea73d37ef8603a0f1431fd810c7262",
+        "link": "https://www.yahoo.com/news/science/articles/cyclospora-expanded-fruit-other-vegetables-005055889.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018All hands on deck\u2019: Oil industry rallies to keep Trump from stopping exports",
-        "image": "https://media.zenfs.com/en/politico_453/16251058ae6472a5c0791ff2680140b6",
-        "link": "https://www.yahoo.com/news/politics/articles/hands-deck-oil-industry-rallies-200000360.html",
+        "title": "Man gets third-degree burns from hot sand after using disposable beach BBQ",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/d1132908920689b5b9fabeadd573db49",
+        "link": "https://www.yahoo.com/news/us/articles/man-gets-third-degree-burns-121702301.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "What's behind the Algeria-Morocco rivalry?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/what-s-behind-the-algeria-morocco-rivalry/a-78258062?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Morocco and Algeria have been at odds for decades, chiefly over the disputed Western Sahara region. But their rivalry now extends far beyond the terri..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Hiroshima survivors warn against Japan's rearmament",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/hiroshima-survivors-warn-against-japan-s-rearmament/a-78249290?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "On the anniversary of the atomic bombings, survivors and activists tell DW Japan's military buildup risks eroding its longstanding commitment to pacif..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/will-russia-start-a-fresh-mobilization-drive/a-78253252?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Russia is preparing a new mobilization campaign to boost troop numbers, Ukrainian officials and independent Russian media outlets report. The Kremlin ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "WHO's Tedros vists DR Congo as Ebola outbreak accelerates",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/who-s-tedros-vists-dr-congo-as-ebola-outbreak-accelerates/a-78258054?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The head of the World Health Organization warned that \"we must urgently and massively scale up all our efforts\" against the latest Ebola outbreak, wit..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany: Court jails far-right youth terror cell members",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-court-jails-far-right-youth-terror-cell-members/a-78253691?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A Hamburg court has handed down stiff prison sentences to members of the far-right terrorist group \"Last Wave of Defense.\" Politicians are warning tha..."
     }
 ]
