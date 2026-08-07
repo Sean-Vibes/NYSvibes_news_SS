@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "New York legalizes cannabis sales at farmers\u2019 markets, pop-up events",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/new-york-legalizes-cannabis-sales-at-farmers-markets-pop-up-events/617312/",
+        "summary": "<p>Licensed cannabis microbusinesses can now sell their products at pop-up venues such as farmers\u2019 markets and community events.</p>\n<p><a href=\"https..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "Congress barely understands hemp THC. Lawmakers should learn and regulate \u2013 not ban",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/congress-barely-understands-hemp-thc-lawmakers-should-learn-and-regulate-not-ban/617298/",
@@ -63,17 +70,10 @@
         "summary": "<p>Most operators don\u2019t know what to buy, why they need it or what decisions the data can drive once they have it.</p>\n<p><a href=\"https://mjbizdaily...."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Report: Trump White House insider pushed for hemp THC reprieve",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/report-trump-white-house-insider-pushed-for-hemp-thc-reprieve/617283/",
-        "summary": "<p>The White House lobbied Congress to keep hemp THC products legal thanks to a pressure campaign led by Trump administration insiders, a New York Tim..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US offers $25 million reward targeting US citizen who reportedly leads Mexico's most powerful cartel",
-        "image": "https://media.zenfs.com/en/ap.org/ddb994504ed0671ab9cd10df984dc087",
-        "link": "https://www.yahoo.com/news/us/articles/trump-administration-offers-25m-us-165317283.html",
+        "title": "Former Ukraine ambassador to US accused of illegal enrichment",
+        "image": "https://media.zenfs.com/en/reuters.com/8955e1353fe26fae0c489e490242837d",
+        "link": "https://www.yahoo.com/news/world/articles/former-ukraine-ambassador-us-accused-115030039.html",
         "summary": "..."
     },
     {
@@ -92,17 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former Ukraine ambassador to US accused of illegal enrichment",
-        "image": "https://media.zenfs.com/en/reuters.com/8955e1353fe26fae0c489e490242837d",
-        "link": "https://www.yahoo.com/news/world/articles/former-ukraine-ambassador-us-accused-115030039.html",
+        "title": "Trump signs orders to limit US birthright citizenship, despite Supreme Court ruling",
+        "image": "https://media.zenfs.com/en/reuters.com/4d18de8f715ad423d7d7526a6a98b60e",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-sign-orders-birthright-citizenship-194948463.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump distances himself from voter frustration with GOP: \u2018They\u2019re not angry at me\u2019",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/3c42f6b106acdb99456efebe7970fa94",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-distances-himself-voter-frustration-133935411.html",
+        "title": "Delaware dance teacher arrested for alleged sexual abuse, solicitation of teen students",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/498939565ec46bacf1004e666d1d2f5b",
+        "link": "https://www.yahoo.com/news/us/articles/delaware-dance-teacher-arrested-alleged-182349448.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Trump to appeal ballroom construction halt to Supreme Court",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-to-appeal-ballroom-construction-halt-to-supreme-court/a-78285628?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A US Court of Appeals upheld a ruling that saying Trump cannot build a White House ballroom without congressional approval. The president vowed to app..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/eco-wins-hungary-goes-solar-marmots-go-viral-and-rome-gets-an-upgrade/a-78281783?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "From Hungary's accidental solar revolution to marmot crowdfunding and a long-overdue upgrade for Rome's big snake, good news comes in strange packages..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Thailand: Several killed in school shooting north of Bangkok",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/thailand-several-killed-in-school-shooting-north-of-bangkok/a-78273568?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The shooting incident took place at the Debsirin Nonthaburi School in \u200bthe \u200cBang Kruai district of Nonthaburi, just north of the capital city of Bangk..."
     }
 ]
