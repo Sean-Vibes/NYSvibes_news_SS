@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Square Tells Businesses To Stop Selling Hemp And CBD Products In Light Of Upcoming Federal Ban",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/square-tells-businesses-to-stop-selling-hemp-and-cbd-products-in-light-of-upcoming-federal-ban/",
+        "summary": "<p>The popular point-of-sale and payments service Square says it will no longer allow CBD and other hemp-derived products to be sold on its platform, ..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Dr. Oz Asks Senators To Delay Hemp Product Ban So Seniors Can Get CBD Products Covered Through Medicare",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/dr-oz-asks-senators-to-delay-hemp-product-ban-so-seniors-can-get-cbd-products-covered-through-medicare/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/senators-step-up-push-for-hemp-thc-ban-in-november-newsletter-august-7-2026/",
         "summary": "<p>Groups on both sides push Congress over hemp; NY gov signs marijuana farmers&#8217; market bill; Study: CBD for athlete recovery Subscribe\u00a0to recei..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "CBD Has \u2018Potentially Performance-Enhancing Properties\u2019 In Sports And May Help Athletes Recover After Exercise, Study Shows",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/cbd-has-potentially-performance-enhancing-properties-in-sports-and-may-help-athletes-recover-after-exercise-study-shows/",
-        "summary": "<p>The non-intoxicating marijuana component CBD holds &#8220;potentially performance-enhancing properties&#8221; for athletes and may serve as an effe..."
     },
     {
         "source": "MJBizDaily",
@@ -71,9 +71,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Plan to limit 'vertical drinking' decried by pub landlords and UK politicians",
-        "image": "https://media.zenfs.com/en/ap.org/b4bcfdbe6d9126daebc2369e96ed720f",
-        "link": "https://www.yahoo.com/news/politics/articles/plan-limit-vertical-drinking-decried-111448747.html",
+        "title": "Former Ukraine ambassador to US accused of illegal enrichment",
+        "image": "https://media.zenfs.com/en/reuters.com/8955e1353fe26fae0c489e490242837d",
+        "link": "https://www.yahoo.com/news/world/articles/former-ukraine-ambassador-us-accused-115030039.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "GOP senator deals crushing blow to Trump's AG nominee after Alaska lobbying blitz",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/ed0fb7beaf94515ec6532e4bffbb8bea",
+        "link": "https://www.yahoo.com/news/politics/articles/gop-senator-deals-crushing-blow-120146443.html",
         "summary": "..."
     },
     {
@@ -85,24 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Romania rushes to sink 4 barges in the Danube to keep a nuclear power plant's second reactor running",
+        "image": "https://media.zenfs.com/en/ap.org/04de4d783b19cae5289e59d67922a4fa",
+        "link": "https://www.yahoo.com/news/science/articles/romania-rushes-sink-4-barges-152139690.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "\u2018All hands on deck\u2019: Oil industry rallies to keep Trump from stopping exports",
         "image": "https://media.zenfs.com/en/politico_453/16251058ae6472a5c0791ff2680140b6",
         "link": "https://www.yahoo.com/news/politics/articles/hands-deck-oil-industry-rallies-200000360.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Texas judge rules that law regulating firearm suppressors and some guns can't be enforced",
-        "image": "https://media.zenfs.com/en/ap.org/22c6f8f17ad2aa97739aabc5db4803d7",
-        "link": "https://www.yahoo.com/news/politics/articles/texas-judge-rules-law-regulating-233846267.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Saudi Arabia warns war could be spreading after attack wounds 11",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/fd3321dee591668508ff56d254d8174e",
-        "link": "https://www.yahoo.com/news/world/articles/saudi-arabia-warns-war-could-101941395.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "How viable is the potential Iran-Oman Hormuz shipping deal?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/how-viable-is-the-potential-iran-oman-hormuz-shipping-deal/a-78283434?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran says a shipping accord with Oman is in its final stages, but analysts warn sanctions, security concerns and rival US-Iran goals could limit its i..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/what-should-europe-do-about-its-drying-rivers/a-78276662?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Rhine and Danube have reached historic lows. Dwindling water levels are affecting shipping, agriculture and ecosystems \u2014 and raising concerns abou..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Myanmar's Min Aung Hlaing seeks legitimacy in Thailand",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/myanmar-s-min-aung-hlaing-seeks-legitimacy-in-thailand/a-78278172?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Bangkok rolled out the red carpet for the Myanmar leader, but experts say the former junta chief still faces major obstacles in his bid for regional a..."
     }
 ]
