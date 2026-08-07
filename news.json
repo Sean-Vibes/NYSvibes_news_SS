@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "VA Launches New Study Using Psilocybin To Treat Veterans With Depression And PTSD",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/va-launches-new-study-using-psilocybin-to-treat-veterans-with-depression-and-ptsd/",
+        "summary": "<p>The U.S. Department of Veterans Affairs (VA) is launching a new clinical trial to investigate whether psilocybin can help military veterans who are..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Senators step up push for hemp THC ban in November (Newsletter: August 7, 2026)",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/senators-step-up-push-for-hemp-thc-ban-in-november-newsletter-august-7-2026/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/new-york-governor-signs-bill-to-allow-small-businesses-to-sell-marijuana-at-farmers-markets/",
         "summary": "<p>The governor of New York has signed legislation clarifying that marijuana microbusinesses can fully participate in cannabis farmers&#8217; markets ..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "GOP Senators Argue That Hemp Product Ban Should Take Effect As Scheduled, Raising Alarm About Kids\u2019 Access To THC",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/gop-senators-argue-that-hemp-product-ban-should-take-effect-as-scheduled-raising-alarm-about-kids-access-to-thc/",
-        "summary": "<p>A pair of Republican lawmakers took to the Senate floor on Wednesday to urge their colleagues not to delay the federal recriminalization of hemp TH..."
     },
     {
         "source": "MJBizDaily",
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Oil settles up $3 as Iran reviews bill to ban US, Israeli vessels from Hormuz",
-        "image": "https://media.zenfs.com/en/reuters.com/e6f101600562556285dba09a25d9adde",
-        "link": "https://finance.yahoo.com/news/oil-prices-slip-iran-oman-010712479.html",
+        "title": "Romania rushes to sink 4 barges in the Danube to keep a nuclear power plant's second reactor running",
+        "image": "https://media.zenfs.com/en/ap.org/04de4d783b19cae5289e59d67922a4fa",
+        "link": "https://www.yahoo.com/news/science/articles/romania-rushes-sink-4-barges-152139690.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,20 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/92784890b2f68fece9b254d96be42298",
         "link": "https://www.yahoo.com/news/us/articles/oklahoma-teen-accused-raping-two-191218663.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany: Far-right AfD extends its lead in nationwide polls",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-far-right-afd-extends-its-lead-in-nationwide-polls/a-78279279?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "In the latest Sunday poll, the AfD continues to pull ahead. And more and more people are against excluding the right-wing populists from decision-maki..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Middle East: Saudi Arabia, Turkey, Pakistan sign defense deal",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/middle-east-saudi-arabia-turkey-pakistan-sign-defense-deal/live-78272895?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Saudi Arabia, Turkey and Pakistan signed a joint defense deal. According to the agreement, an armed attack on any one of the three countries will be r..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/is-it-really-the-hottest-day-ever/a-78264330?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Every time a new heat record is broken, skepticism follows. How do scientists know a day or a summer was really the hottest on record or that a heat w..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: CJP announces plan for nationwide campaign",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-cjp-announces-plan-for-nationwide-campaign/live-78274696?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Cockroach Janta Party (CJP) has unveiled the agenda for its \"Kya Bolti Public\" campaign, which will start in September. Follow DW for more...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Thailand: Several killed in school shooting north of Bangkok",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/thailand-several-killed-in-school-shooting-north-of-bangkok/a-78273568?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The shooting incident took place at the Debsirin Nonthaburi School in \u200bthe \u200cBang Kruai district of Nonthaburi, just north of the capital city of Bangk..."
     }
 ]
