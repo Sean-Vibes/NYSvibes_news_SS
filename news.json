@@ -71,16 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former Ukraine ambassador to US accused of illegal enrichment",
-        "image": "https://media.zenfs.com/en/reuters.com/8955e1353fe26fae0c489e490242837d",
-        "link": "https://www.yahoo.com/news/world/articles/former-ukraine-ambassador-us-accused-115030039.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "GOP senator deals crushing blow to Trump's AG nominee after Alaska lobbying blitz",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/ed0fb7beaf94515ec6532e4bffbb8bea",
-        "link": "https://www.yahoo.com/news/politics/articles/gop-senator-deals-crushing-blow-120146443.html",
+        "title": "US offers $25 million reward targeting US citizen who reportedly leads Mexico's most powerful cartel",
+        "image": "https://media.zenfs.com/en/ap.org/ddb994504ed0671ab9cd10df984dc087",
+        "link": "https://www.yahoo.com/news/us/articles/trump-administration-offers-25m-us-165317283.html",
         "summary": "..."
     },
     {
@@ -92,17 +85,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Romania rushes to sink 4 barges in the Danube to keep a nuclear power plant's second reactor running",
-        "image": "https://media.zenfs.com/en/ap.org/04de4d783b19cae5289e59d67922a4fa",
-        "link": "https://www.yahoo.com/news/science/articles/romania-rushes-sink-4-barges-152139690.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "\u2018All hands on deck\u2019: Oil industry rallies to keep Trump from stopping exports",
         "image": "https://media.zenfs.com/en/politico_453/16251058ae6472a5c0791ff2680140b6",
         "link": "https://www.yahoo.com/news/politics/articles/hands-deck-oil-industry-rallies-200000360.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Former Ukraine ambassador to US accused of illegal enrichment",
+        "image": "https://media.zenfs.com/en/reuters.com/8955e1353fe26fae0c489e490242837d",
+        "link": "https://www.yahoo.com/news/world/articles/former-ukraine-ambassador-us-accused-115030039.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump distances himself from voter frustration with GOP: \u2018They\u2019re not angry at me\u2019",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/3c42f6b106acdb99456efebe7970fa94",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-distances-himself-voter-frustration-133935411.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ceuta: Spain warns Italy it will reciprocate entry checks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ceuta-spain-warns-italy-it-will-reciprocate-entry-checks/a-78282840?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Spain has told Italy it will impose entry checks on visitors unless Rome halts its controls by Sunday. Even though they don't share a land border, the..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/thailand-several-killed-in-school-shooting-north-of-bangkok/a-78273568?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The shooting incident took place at the Debsirin Nonthaburi School in \u200bthe \u200cBang Kruai district of Nonthaburi, just north of the capital city of Bangk..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "What should Europe do about its drying rivers?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/what-should-europe-do-about-its-drying-rivers/a-78276662?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Rhine and Danube have reached historic lows. Dwindling water levels are affecting shipping, agriculture and ecosystems \u2014 and raising concerns abou..."
     }
 ]
