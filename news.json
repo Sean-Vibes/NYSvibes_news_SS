@@ -71,16 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US offers $25 million reward targeting US citizen who reportedly leads Mexico's most powerful cartel",
-        "image": "https://media.zenfs.com/en/ap.org/ddb994504ed0671ab9cd10df984dc087",
-        "link": "https://www.yahoo.com/news/us/articles/trump-administration-offers-25m-us-165317283.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Vineyard harvests grapes early due to dry weather",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/72949f358c374ac0f0c707585823b517",
-        "link": "https://www.yahoo.com/news/weather-news/articles/vineyard-harvests-grapes-early-due-155338810.html",
+        "title": "Trump signs orders to limit US birthright citizenship, despite Supreme Court ruling",
+        "image": "https://media.zenfs.com/en/reuters.com/4d18de8f715ad423d7d7526a6a98b60e",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-sign-orders-birthright-citizenship-194948463.html",
         "summary": "..."
     },
     {
@@ -92,17 +85,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former Ukraine ambassador to US accused of illegal enrichment",
-        "image": "https://media.zenfs.com/en/reuters.com/8955e1353fe26fae0c489e490242837d",
-        "link": "https://www.yahoo.com/news/world/articles/former-ukraine-ambassador-us-accused-115030039.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "\u2018All hands on deck\u2019: Oil industry rallies to keep Trump from stopping exports",
         "image": "https://media.zenfs.com/en/politico_453/16251058ae6472a5c0791ff2680140b6",
         "link": "https://www.yahoo.com/news/politics/articles/hands-deck-oil-industry-rallies-200000360.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Oil settles up $3 as Iran reviews bill to ban US, Israeli vessels from Hormuz",
+        "image": "https://media.zenfs.com/en/reuters.com/e6f101600562556285dba09a25d9adde",
+        "link": "https://finance.yahoo.com/news/oil-prices-slip-iran-oman-010712479.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Democratic strategist James Carville says he could become a Republican under one major condition",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/5e26643d7af154aba1b5f0cc7060292a",
+        "link": "https://www.yahoo.com/news/politics/articles/democratic-strategist-james-carville-says-223438248.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Thailand: Several killed in school shooting north of Bangkok",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/thailand-several-killed-in-school-shooting-north-of-bangkok/a-78273568?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The shooting incident took place at the Debsirin Nonthaburi School in \u200bthe \u200cBang Kruai district of Nonthaburi, just north of the capital city of Bangk..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US judge orders Meta to pay $567 million over harm to children",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-judge-orders-meta-to-pay-567-million-over-harm-to-children/a-78272884?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A New Mexico judge ruled Meta created a \"public nuisance\" that harmed children's mental health, ordering the company to pay over half a billion dollar..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Middle East: Houthi attack wounds 11 in Saudi Arabia",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/middle-east-houthi-attack-wounds-11-in-saudi-arabia/live-78272895?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Shelling by Yemen's Iran-backed Houthis has left 11 civilians injured in southern Saudi Arabia. Meanwhile, Saudi Arabia, Turkey and Pakistan are due t..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/trump-signs-new-orders-restricting-birthright-citizenship/a-78272447?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The US president's move comes just two months after the Supreme Court ruled that his first executive order on citizenship was unconstitutional...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ebola: Africa CDC plans to use vaccine for different strain as outbreak spreads",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ebola-africa-cdc-plans-to-use-vaccine-for-different-strain-as-outbreak-spreads/a-78271789?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The head of the Africa Centres for Disease Control pledged to deploy a vaccine for a previous Ebola strain in the current DRC outbreak, with test case..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How drought threatens electricity supplies in Europe",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-drought-threatens-electricity-supplies-in-europe/a-78269916?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Droughts, heat and falling water levels in the Danube are hitting central and southeastern Europe hard. Hungary and Romania are experiencing an energy..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ceuta leader says 100 migrants died in border rush",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ceuta-leader-says-100-migrants-died-in-border-rush/a-78271067?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "With over 3,000 migrants still in Ceuta after rushing the border last week, Ceuta leader Juan Jesus Vivas warns the situation in the Spanish exclave i..."
     }
 ]
