@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Georgia woman says she was wrongly diagnosed with cancer and had hysterectomy due to labeling error",
-        "image": "https://media.zenfs.com/en/ap.org/5bdbb8a9ca6a576140224eeefab7eaac",
-        "link": "https://www.yahoo.com/news/us/articles/georgia-woman-says-she-wrongly-214906739.html",
+        "title": "Trump goes unmentioned but not ignored as Clinton, Bush and Obama step up as essayists on presidents",
+        "image": "https://media.zenfs.com/en/ap.org/83a935856b0792d5b5303d8286f83e2a",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-goes-unmentioned-not-ignored-122628900.html",
         "summary": "..."
     },
     {
@@ -92,16 +92,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Oil settles up $3 as Iran reviews bill to ban US, Israeli vessels from Hormuz",
-        "image": "https://media.zenfs.com/en/reuters.com/e6f101600562556285dba09a25d9adde",
-        "link": "https://finance.yahoo.com/news/oil-prices-slip-iran-oman-010712479.html",
+        "title": "Hunter Biden says his father's prostate cancer is causing him pain even as he continues to speak out",
+        "image": "https://media.zenfs.com/en/ap.org/8a2b5d9d2d594421464bc6ec017036ad",
+        "link": "https://www.yahoo.com/news/politics/articles/hunter-biden-says-fathers-prostate-130146087.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Delaware dance teacher arrested for alleged sexual abuse, solicitation of teen students",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/498939565ec46bacf1004e666d1d2f5b",
-        "link": "https://www.yahoo.com/news/us/articles/delaware-dance-teacher-arrested-alleged-182349448.html",
+        "title": "Schumer said \u2018Democrats support voter ID\u2019 \u2014 then every Senate Democrat voted against GOP bill",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/b48f3bfe9e62e7523ee9a3350e38aae4",
+        "link": "https://www.yahoo.com/news/politics/articles/schumer-said-democrats-support-voter-094813475.html",
         "summary": "..."
     },
     {
@@ -120,6 +120,13 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Ukraine: Russia pounds Kyiv as Zelenskyy visits Serbia",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-russia-pounds-kyiv-as-zelenskyy-visits-serbia/a-78287715?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ukrainian President Volodymyr Zelenskyy is visiting Serbia, a country that has traditionally been friendly with Moscow, as Russia strikes the Kyiv reg..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Iran war: IRGC says Hormuz to open if US accepts Iran's terms",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-irgc-says-hormuz-to-open-if-us-accepts-iran-s-terms/live-78289364?maca=en-rss-en-all-1573-xml-mrss",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/war-terror-diplomacy-what-if-israel-takes-al-aqsa-mosque/a-78284016?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Reports from Jerusalem suggest that Israeli authorities are taking over one of Islam's holiest sites, the Al-Aqsa Mosque. If they do, experts say anyt..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Bulgaria: Unknown drone explodes near Romanian border",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/bulgaria-unknown-drone-explodes-near-romanian-border/a-78288825?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A drone that entered Bulgaria's airspace exploded near the Romanian border and the Trans-Balkan gas pipeline, the Bulgarian prime minister said. Bulga..."
     }
 ]
