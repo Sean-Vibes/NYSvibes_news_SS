@@ -78,16 +78,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Oklahoma teen accused of raping two girls walks free; DA furiously calls in feds: \u2018Made my blood boil\u2019",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/92784890b2f68fece9b254d96be42298",
-        "link": "https://www.yahoo.com/news/us/articles/oklahoma-teen-accused-raping-two-191218663.html",
+        "title": "Unearthed clip of El-Sayed revealing his 'hate' for iconic Michigan town sparks online firestorm: 'Dark heart'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/ec360726327a40334efd24144447f49d",
+        "link": "https://www.yahoo.com/news/politics/articles/unearthed-clip-el-sayed-revealing-200429658.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Delaware dance teacher arrested for alleged sexual abuse, solicitation of teen students",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/498939565ec46bacf1004e666d1d2f5b",
-        "link": "https://www.yahoo.com/news/us/articles/delaware-dance-teacher-arrested-alleged-182349448.html",
+        "title": "Oklahoma teen accused of raping two girls walks free; DA furiously calls in feds: \u2018Made my blood boil\u2019",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/92784890b2f68fece9b254d96be42298",
+        "link": "https://www.yahoo.com/news/us/articles/oklahoma-teen-accused-raping-two-191218663.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Crowded Russian beach descends into chaos after alleged Ukrainian drone incident kills 7, including 4 children",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/e177b6d35ca9c1bc2f315c73bbdc04d9",
-        "link": "https://www.yahoo.com/news/world/articles/crowded-russian-beach-descends-chaos-014612836.html",
+        "title": "San Francisco dad questioned by park rangers for teaching his own kids tennis at public court",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/77f79a348750ba99a92241eba9cbb75f",
+        "link": "https://www.yahoo.com/news/us/articles/san-francisco-dad-questioned-park-211939712.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ceuta: Spain sets up border controls on travelers from Italy",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ceuta-spain-sets-up-border-controls-on-travelers-from-italy/a-78282840?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Spain had warned Italy it would impose entry checks on visitors unless Rome halts its controls by Sunday. Even though they don't share a land border, ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Colombia: Trump ally De la Espriella takes office",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/colombia-trump-ally-de-la-espriella-takes-office/a-78286636?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Conservative Abelardo de la Espriella was sworn in as Colombia's president, promising to crack down on armed drug gangs...."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukraine-s-zelenskyy-makes-first-visit-to-russia-friendly-serbia/a-78285302?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Ukrainian President Zelenskyy is making his first visit to Serbia. His host, President Aleksandar Vucic, hopes to score points with the EU, while Zele..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump to appeal ballroom construction halt to Supreme Court",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-to-appeal-ballroom-construction-halt-to-supreme-court/a-78285628?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A US Court of Appeals upheld a ruling that saying Trump cannot build a White House ballroom without congressional approval. The president vowed to app..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ceuta: Spain sets up border controls on travelers from Italy",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ceuta-spain-sets-up-border-controls-on-travelers-from-italy/a-78282840?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Spain had warned Italy it would impose entry checks on visitors unless Rome halts its controls by Sunday. Even though they don't share a land border, ..."
     }
 ]
