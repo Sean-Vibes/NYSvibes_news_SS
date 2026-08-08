@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Senators head for the exits without meeting Trump's demands for voting bill",
-        "image": "https://media.zenfs.com/en/ap.org/441d2570579bde07359458a38e8293df",
-        "link": "https://www.yahoo.com/news/politics/articles/senators-head-exits-without-meeting-091505620.html",
+        "title": "Georgia woman says she was wrongly diagnosed with cancer and had hysterectomy due to labeling error",
+        "image": "https://media.zenfs.com/en/ap.org/5bdbb8a9ca6a576140224eeefab7eaac",
+        "link": "https://www.yahoo.com/news/us/articles/georgia-woman-says-she-wrongly-214906739.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Analysis-'Build it in Mar-a-Lago!' Trump's aluminum smelter upends Oklahoma governor's race",
-        "image": "https://media.zenfs.com/en/reuters.com/5add6a83fe7b0372afd5d5baaad960f8",
-        "link": "https://www.yahoo.com/news/articles/analysis-build-mar-lago-trumps-100553935.html",
+        "title": "Oil settles up $3 as Iran reviews bill to ban US, Israeli vessels from Hormuz",
+        "image": "https://media.zenfs.com/en/reuters.com/e6f101600562556285dba09a25d9adde",
+        "link": "https://finance.yahoo.com/news/oil-prices-slip-iran-oman-010712479.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/498939565ec46bacf1004e666d1d2f5b",
         "link": "https://www.yahoo.com/news/us/articles/delaware-dance-teacher-arrested-alleged-182349448.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Thousands attend Prague Pride parade",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/thousands-attend-prague-pride-parade/a-78290467?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Participants observed a minute of silence in memory of the victims of a van ramming near the CSD parade in Berlin. The march was accompanied by enhanc..."
     },
     {
         "source": "Deutsche Welle",
@@ -130,13 +137,6 @@
         "title": "Bulgaria: Unknown drone explodes near Romanian border",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/bulgaria-unknown-drone-explodes-near-romanian-border/a-78288825?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A drone that entered Bulgaria's airspace exploded near the Romanian border and the Trans-Balkan gas pipeline, the Bulgarian prime minister said...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "EU holds talks with big tech over Ceuta misinformation",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-holds-talks-with-big-tech-over-ceuta-misinformation/a-78288214?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "EU digital chief Henna Virkkunen has called for closer monitoring of social media platforms moving forward, amid the spread of misinformation during t..."
+        "summary": "A drone that entered Bulgaria's airspace exploded near the Romanian border and the Trans-Balkan gas pipeline, the Bulgarian prime minister said. Bulga..."
     }
 ]
