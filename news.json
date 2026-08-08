@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Analysis-'Build it in Mar-a-Lago!' Trump's aluminum smelter upends Oklahoma governor's race",
-        "image": "https://media.zenfs.com/en/reuters.com/5add6a83fe7b0372afd5d5baaad960f8",
-        "link": "https://www.yahoo.com/news/articles/analysis-build-mar-lago-trumps-100553935.html",
+        "title": "Trump signs orders to limit US birthright citizenship, despite Supreme Court ruling",
+        "image": "https://media.zenfs.com/en/reuters.com/4d18de8f715ad423d7d7526a6a98b60e",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-sign-orders-birthright-citizenship-194948463.html",
         "summary": "..."
     },
     {
@@ -106,6 +106,13 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Nigeria marries 1,500 couples in mass wedding",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/nigeria-marries-1-500-couples-in-mass-wedding/a-78291396?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The government describes the program as a way to support low-income families and promote social stability. Among those married were people who lost fa..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Kosovo PM Kurti egged in parliament amid political crisis",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/kosovo-pm-kurti-egged-in-parliament-amid-political-crisis/a-78291171?maca=en-rss-en-all-1573-xml-mrss",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukraine-russia-pounds-kyiv-as-zelenskyy-visits-serbia/a-78287715?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Ukrainian President Volodymyr Zelenskyy is visiting Serbia, a country that has traditionally been friendly with Moscow, as Russia strikes the Kyiv reg..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: IRGC says Hormuz to open if US accepts Iran's terms",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-irgc-says-hormuz-to-open-if-us-accepts-iran-s-terms/live-78289364?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Iran's Revolutionary Guard said the reopening of the vital Strait of Hormuz did not depend on the outcome of ongoing talks with Oman. DW has more...."
     }
 ]
