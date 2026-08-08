@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Romania rushes to sink 4 barges in the Danube to keep a nuclear power plant's second reactor running",
-        "image": "https://media.zenfs.com/en/ap.org/04de4d783b19cae5289e59d67922a4fa",
-        "link": "https://www.yahoo.com/news/science/articles/romania-rushes-sink-4-barges-152139690.html",
+        "title": "Analysis-'Build it in Mar-a-Lago!' Trump's aluminum smelter upends Oklahoma governor's race",
+        "image": "https://media.zenfs.com/en/reuters.com/5add6a83fe7b0372afd5d5baaad960f8",
+        "link": "https://www.yahoo.com/news/articles/analysis-build-mar-lago-trumps-100553935.html",
         "summary": "..."
     },
     {
@@ -106,10 +106,17 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Bulgaria: Unknown drone explodes near Romanian border",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/bulgaria-unknown-drone-explodes-near-romanian-border/a-78288825?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A drone that entered Bulgaria's airspace exploded near the Romanian border and the Trans-Balkan gas pipeline, the Bulgarian prime minister said...."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "EU holds talks with big tech over Ceuta misinformation",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/eu-holds-talks-with-big-tech-over-ceuta-misinformation/a-78288214?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "EU digital chief Henna Virkkunen has called for closer monitoring on social media platforms moving forward, amid the spread of misinformation during t..."
+        "summary": "EU digital chief Henna Virkkunen has called for closer monitoring of social media platforms moving forward, amid the spread of misinformation during t..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-wary-of-potential-100-us-tariffs-over-russian-oil/live-78287317?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The US Senate passed a sanctions bill that could result in tariffs on India as a major consumer of Russian oil. Follow DW for more...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Typhoon Dolphin hits Japan as China braces for coming storm",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/typhoon-dolphin-hits-japan-as-china-braces-for-coming-storm/a-78286728?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A typhoon is lashing Japan's south, causing injuries and blackouts. It is now headed for China, where ports have been closed in preparation...."
     }
 ]
