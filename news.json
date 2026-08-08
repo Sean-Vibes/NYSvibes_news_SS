@@ -78,13 +78,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Video shows US military tracking what appears to be mysterious object flying over Middle East in 2025",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/0fdee8d39c2967d68ebb42b2112cb52a",
-        "link": "https://www.yahoo.com/news/science/articles/video-shows-us-military-tracking-172618497.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Schumer said \u2018Democrats support voter ID\u2019 \u2014 then every Senate Democrat voted against GOP bill",
         "image": "https://media.zenfs.com/en/fox_news_text_979/b48f3bfe9e62e7523ee9a3350e38aae4",
         "link": "https://www.yahoo.com/news/politics/articles/schumer-said-democrats-support-voter-094813475.html",
@@ -92,9 +85,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hunter Biden says his father's prostate cancer is causing him pain even as he continues to speak out",
-        "image": "https://media.zenfs.com/en/ap.org/8a2b5d9d2d594421464bc6ec017036ad",
-        "link": "https://www.yahoo.com/news/politics/articles/hunter-biden-says-fathers-prostate-130146087.html",
+        "title": "Video shows US military tracking what appears to be mysterious object flying over Middle East in 2025",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/0fdee8d39c2967d68ebb42b2112cb52a",
+        "link": "https://www.yahoo.com/news/science/articles/video-shows-us-military-tracking-172618497.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Memphis forward Brandon Clarke died from effects of heroin and cocaine, authorities say",
+        "image": "https://media.zenfs.com/en/ap.org/4d42b34d8308660800e35e8499e6f773",
+        "link": "https://sports.yahoo.com/articles/memphis-forward-brandon-clarke-died-212407114.html",
         "summary": "..."
     },
     {
