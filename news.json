@@ -92,17 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hunter Biden says his father's prostate cancer is causing him pain even as he continues to speak out",
-        "image": "https://media.zenfs.com/en/ap.org/8a2b5d9d2d594421464bc6ec017036ad",
-        "link": "https://www.yahoo.com/news/politics/articles/hunter-biden-says-fathers-prostate-130146087.html",
+        "title": "Trump signs orders to limit US birthright citizenship, despite Supreme Court ruling",
+        "image": "https://media.zenfs.com/en/reuters.com/4d18de8f715ad423d7d7526a6a98b60e",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-sign-orders-birthright-citizenship-194948463.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hillary Clinton calls out far-left reluctance to support her, warns GOP 'communist' attacks will be effective",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/ab0b7915fd8531473249e2a322cf45b9",
-        "link": "https://www.yahoo.com/news/politics/articles/hillary-clinton-calls-far-left-152839165.html",
+        "title": "DOJ says man charged in Philadelphia mosque fire targeted it because it was a mosque",
+        "image": "https://media.zenfs.com/en/reuters.com/0abd3901616a328edbb0fac6bcf72879",
+        "link": "https://www.yahoo.com/news/us/articles/doj-says-man-charged-philadelphia-024405059.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Kosovo PM Kurti egged in parliament amid political crisis",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/kosovo-pm-kurti-egged-in-parliament-amid-political-crisis/a-78291171?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Kosovo has held three elections in over two years. Albin Kurti's ruling Vetevendosje is struggling to garner the two-thirds majority required to elect..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-irgc-says-hormuz-to-open-if-us-accepts-iran-s-terms/live-78289364?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Iran's Revolutionary Guard said the reopening of the vital Strait of Hormuz did not depend on the outcome of ongoing talks with Oman. DW has more...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "War, terror, diplomacy: What if Israel takes Al-Aqsa Mosque?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/war-terror-diplomacy-what-if-israel-takes-al-aqsa-mosque/a-78284016?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Reports from Jerusalem suggest that Israeli authorities are taking over one of Islam's holiest sites, the Al-Aqsa Mosque. If they do, experts say anyt..."
     }
 ]
