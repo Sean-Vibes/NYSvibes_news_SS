@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Video shows US military tracking what appears to be mysterious object flying over Middle East in 2025",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/0fdee8d39c2967d68ebb42b2112cb52a",
-        "link": "https://www.yahoo.com/news/science/articles/video-shows-us-military-tracking-172618497.html",
+        "title": "Iran Hormuz Deal Advances Amid US Munitions Supply Questions",
+        "image": "https://media.zenfs.com/en/nbcu_713/b7f668d85f77ae2c382febfcdcd30bd5",
+        "link": "https://www.yahoo.com/news/videos/iran-hormuz-deal-advances-amid-112326915.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India wary of potential 100% US tariffs over Russian oil",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-wary-of-potential-100-us-tariffs-over-russian-oil/live-78287317?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US Senate passed a sanctions bill that could result in tariffs on India as a major consumer of Russian oil. Follow DW for more...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/colombia-trump-ally-de-la-espriella-takes-office/a-78286636?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Conservative Abelardo de la Espriella was sworn in as Colombia's president, promising to crack down on armed drug gangs...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iceland\u2019s EU vote: A nation divided over Europe",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iceland-s-eu-vote-a-nation-divided-over-europe/a-78285133?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Security concerns, control over fishing rights and rising living costs are shaping Iceland's debate over whether to restart talks on joining the Europ..."
     }
 ]
