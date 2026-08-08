@@ -106,6 +106,13 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Typhoon Dolphin hits Japan as China braces for coming storm",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/typhoon-dolphin-hits-japan-as-china-braces-for-coming-storm/a-78286728?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A typhoon is lashing Japan's south, causing injuries and blackouts. It is now headed for China, where ports have been closed in preparation...."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Germany debates reintroducing mandatory civilian service",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-debates-reintroducing-mandatory-civilian-service/a-78264088?maca=en-rss-en-all-1573-xml-mrss",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iceland-s-eu-vote-a-nation-divided-over-europe/a-78285133?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Security concerns, control over fishing rights and rising living costs are shaping Iceland's debate over whether to restart talks on joining the Europ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Migrant tunnels in Lithuania direct suspicion towards Minsk",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/migrant-tunnels-in-lithuania-direct-suspicion-towards-minsk/a-78280640?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Lithuania's border guards have discovered tunnels through which migrants are trying to enter the country from Belarus. Analysts see them as a means to..."
     }
 ]
