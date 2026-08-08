@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Rhode Island Officials Restart Marijuana Business Licensing Process After End Of Litigation That Blocked Prior Effort",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/rhode-island-officials-restart-marijuana-business-licensing-process-after-end-of-litigation-that-blocked-prior-effort/",
+        "summary": "<p>&#8220;Our focus is to maintain that momentum by implementing the amended Cannabis Act as efficiently as possible.&#8221; By Christopher Shea, Rhod..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Senate Votes To Delay Hemp Ban, Giving Lawmakers More Time To Craft Regulations To Keep THC Products Legal",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/senate-rejects-amendment-to-keep-hemp-thc-product-ban-on-track-for-november-teeing-up-delay-trump-pushed-for/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/texas-banning-cannabis-is-an-insane-form-of-corruption-that-benefits-big-beer-big-tobacco-and-drug-cartels-talarico-says/",
         "summary": "<p>The fact that Texas is keeping marijuana illegal while also moving to restrict hemp THC products is &#8220;insane,&#8221; Democratic U.S. Senate ca..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "VA Launches New Study Using Psilocybin To Treat Veterans With Depression And PTSD",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/va-launches-new-study-using-psilocybin-to-treat-veterans-with-depression-and-ptsd/",
-        "summary": "<p>The U.S. Department of Veterans Affairs (VA) is launching a new clinical trial to investigate whether psilocybin can help military veterans who are..."
     },
     {
         "source": "MJBizDaily",
@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump signs orders to limit US birthright citizenship, despite Supreme Court ruling",
-        "image": "https://media.zenfs.com/en/reuters.com/4d18de8f715ad423d7d7526a6a98b60e",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-sign-orders-birthright-citizenship-194948463.html",
+        "title": "Trump goes unmentioned but not ignored as Clinton, Bush and Obama step up as essayists on presidents",
+        "image": "https://media.zenfs.com/en/ap.org/3ae17d08800390f388bb9c7724d9d9f7",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-goes-unmentioned-not-ignored-122628900.html",
         "summary": "..."
     },
     {
@@ -85,23 +85,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Delaware dance teacher arrested for alleged sexual abuse, solicitation of teen students",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/498939565ec46bacf1004e666d1d2f5b",
-        "link": "https://www.yahoo.com/news/us/articles/delaware-dance-teacher-arrested-alleged-182349448.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Georgia woman says she was wrongly diagnosed with cancer and had hysterectomy due to labeling error",
-        "image": "https://media.zenfs.com/en/ap.org/5bdbb8a9ca6a576140224eeefab7eaac",
-        "link": "https://www.yahoo.com/news/us/articles/georgia-woman-says-she-wrongly-214906739.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Video shows US military tracking what appears to be mysterious object flying over Middle East in 2025",
         "image": "https://media.zenfs.com/en/fox_news_text_979/0fdee8d39c2967d68ebb42b2112cb52a",
         "link": "https://www.yahoo.com/news/science/articles/video-shows-us-military-tracking-172618497.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump signs orders to limit US birthright citizenship, despite Supreme Court ruling",
+        "image": "https://media.zenfs.com/en/reuters.com/4d18de8f715ad423d7d7526a6a98b60e",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-sign-orders-birthright-citizenship-194948463.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Delaware dance teacher arrested for alleged sexual abuse, solicitation of teen students",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/498939565ec46bacf1004e666d1d2f5b",
+        "link": "https://www.yahoo.com/news/us/articles/delaware-dance-teacher-arrested-alleged-182349448.html",
         "summary": "..."
     },
     {
