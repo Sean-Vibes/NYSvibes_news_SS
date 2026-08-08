@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Romania rushes to sink 4 barges in the Danube to keep a nuclear power plant's second reactor running",
-        "image": "https://media.zenfs.com/en/ap.org/04de4d783b19cae5289e59d67922a4fa",
-        "link": "https://www.yahoo.com/news/science/articles/romania-rushes-sink-4-barges-152139690.html",
+        "title": "Georgia woman says she was wrongly diagnosed with cancer and had hysterectomy due to labeling error",
+        "image": "https://media.zenfs.com/en/ap.org/5bdbb8a9ca6a576140224eeefab7eaac",
+        "link": "https://www.yahoo.com/news/us/articles/georgia-woman-says-she-wrongly-214906739.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Judge orders Meta to pay hundreds of millions over kids\u2019 mental health",
-        "image": "https://media.zenfs.com/en/nbcu_713/610166941eadc9ac220a0b201746de2d",
-        "link": "https://www.yahoo.com/news/videos/judge-orders-meta-pay-hundreds-225218096.html",
+        "title": "Video shows US military tracking what appears to be mysterious object flying over Middle East in 2025",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/0fdee8d39c2967d68ebb42b2112cb52a",
+        "link": "https://www.yahoo.com/news/science/articles/video-shows-us-military-tracking-172618497.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Trucking rules eased as rivers run low",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-trucking-rules-eased-as-rivers-run-low/live-78287439?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Several states will let trucks use motorways on Sundays and holidays as freight shipping is hampered by low water levels. The body of a German sailor ..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ceuta-spain-sets-up-border-controls-on-travelers-from-italy/a-78282840?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Spain had warned Italy it would impose entry checks on visitors unless Rome halts its controls by Sunday. Even though they don't share a land border, ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Colombia: Trump ally De la Espriella takes office",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/colombia-trump-ally-de-la-espriella-takes-office/a-78286636?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Conservative Abelardo de la Espriella was sworn in as Colombia's president, promising to crack down on armed drug gangs...."
     }
 ]
