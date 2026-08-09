@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say",
-        "image": "https://media.zenfs.com/en/reuters.com/e77fe326eee9f1126d99b6ec2ce16ea5",
-        "link": "https://tech.yahoo.com/cybersecurity/articles/chinese-startup-moonshots-ai-model-083719864.html",
+        "title": "British Columbia declares state of emergency as more than 20,000 flee wildfires",
+        "image": "https://media.zenfs.com/en/reuters.com/ce6e631924db8790b3fc003250a8bc14",
+        "link": "https://www.yahoo.com/news/articles/british-columbia-district-declares-state-135456850.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,20 @@
         "image": "https://media.zenfs.com/en/fortune_175/f95362fc68628337829ed153730e412e",
         "link": "https://www.yahoo.com/news/politics/articles/broad-bipartisan-support-congress-trump-172327694.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Indonesia: Mount Bromo wildfire grows, spurs park closure",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/indonesia-mount-bromo-wildfire-grows-spurs-park-closure/a-78293431?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Indonesian authorities have closed a popular national park until further notice. Strong winds and rough terrain are making it difficult for firefighte..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India: Ex-Education Minister Pradhan says Gen Z 'misled'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-ex-education-minister-pradhan-says-gen-z-misled/live-78293276?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Dharmendra Pradhan spoke for the first time since his resignation as education minister following mass protests against him. He said he \"suffered\" bec..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/canada-british-columbia-declares-emergency-as-fires-spread/a-78291841?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "More than 20,000 people have been forced from their homes by out-of-control wildfires in Canada's British Columbia, where 105 blazes are currently bur..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "FIFA warns against 'concerted effort' to undermine Gianni Infantino",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fifa-warns-against-concerted-effort-to-undermine-gianni-infantino/a-78291551?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Pressure is mounting on the FIFA president Gianni Infantino after plans to sell a stake in the World Cup collapsed and fresh allegations emerged relat..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany: Interior Minister warns of 'daily' hybrid warfare",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-interior-minister-warns-of-daily-hybrid-warfare/a-78291550?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "German Interior Minister Alexander Dobrindt says attacks by foreign powers have become a constant threat to Germany. His remarks come just days after ..."
     }
 ]
