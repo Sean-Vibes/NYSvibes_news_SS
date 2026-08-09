@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ex-President Joe Biden's cancer has spread, is very painful, son says",
-        "image": "https://media.zenfs.com/en/reuters.com/5dd7fafa7f7369d70024f3f2ac440054",
-        "link": "https://www.yahoo.com/news/politics/articles/ex-president-joe-bidens-cancer-193456267.html",
+        "title": "Senators head for the exits without meeting Trump's demands for voting bill",
+        "image": "https://media.zenfs.com/en/ap.org/441d2570579bde07359458a38e8293df",
+        "link": "https://www.yahoo.com/news/politics/articles/senators-head-exits-without-meeting-091505620.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/b48f3bfe9e62e7523ee9a3350e38aae4",
         "link": "https://www.yahoo.com/news/politics/articles/schumer-said-democrats-support-voter-094813475.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Netanyahu says Israel rejects Trump\u2019s Gaza peace plan",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/netanyahu-says-israel-rejects-trump-s-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Israeli prime minister says his country will not withdraw from Gaza until Hamas fully disarms, putting him at odds with a US-backed roadmap endors..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-berlin-to-step-up-drone-security-research/live-78287439?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Interior Minister Alexander Dobrindt said Germany is moving to counter the threats posed by drones. Meanwhile, the transport minister said he wants De..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "German kidnapped in Niger released \u2014 Algeria",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/german-kidnapped-in-niger-released-algeria/a-78297237?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Algeria says a German citizen has been released after a \"criminal armed group\" kidnapped him in Niger two weeks ago...."
     }
 ]
