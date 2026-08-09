@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Democrats plan Trump investigations over impeachment if they win House, sources say",
-        "image": "https://media.zenfs.com/en/reuters.com/ecd43b7f8e504df6148968e23a5db09d",
-        "link": "https://www.yahoo.com/news/articles/democrats-plan-trump-investigations-over-100403454.html",
+        "title": "Senators head for the exits without meeting Trump's demands for voting bill",
+        "image": "https://media.zenfs.com/en/ap.org/441d2570579bde07359458a38e8293df",
+        "link": "https://www.yahoo.com/news/politics/articles/senators-head-exits-without-meeting-091505620.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "British Columbia declares state of emergency as more than 20,000 flee wildfires",
-        "image": "https://media.zenfs.com/en/reuters.com/ce6e631924db8790b3fc003250a8bc14",
-        "link": "https://www.yahoo.com/news/articles/british-columbia-district-declares-state-135456850.html",
+        "title": "Mitch McConnell Leaves Rehab to Continue Recovery at Home",
+        "image": "https://media.zenfs.com/en/nbcu_713/b658d525c2da407ec63cdea6899515fc",
+        "link": "https://www.yahoo.com/news/videos/mitch-mcconnell-leaves-rehab-continue-121026471.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fortune_175/f95362fc68628337829ed153730e412e",
         "link": "https://www.yahoo.com/news/politics/articles/broad-bipartisan-support-congress-trump-172327694.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Study: Obesity 'bigger cancer risk' than previously thought",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/study-obesity-bigger-cancer-risk-than-previously-thought/a-78291063?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A new study has found that being significantly overweight could be responsible for more cases of cancer than previously known. Abdominal fat, in parti..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-drone-incidents-prompt-security-research-boost/live-78287439?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Germany is moving to counter the threats posed by drones after a number of security incidents. The CEO of arms giant Rheinmetall says he is not \"chick..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Canada: British Columbia declares emergency as fires spread",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/canada-british-columbia-declares-emergency-as-fires-spread/a-78291841?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "More than 20,000 people have been forced from their homes by out-of-control wildfires in Canada's British Columbia, where 105 blazes are currently bur..."
     }
 ]
