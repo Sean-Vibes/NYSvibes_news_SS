@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "So Many Georgia Patients Are Signing Up For Expanded Medical Marijuana Law That Officials Are Having Trouble Processing Them All",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/so-many-georgia-patients-are-signing-up-for-expanded-medical-marijuana-law-that-officials-are-having-trouble-processing-them-all/",
+        "summary": "<p>&#8220;We understand applicants are eager to receive their cards, and we appreciate their patience as we work through this unprecedented volume.&#8..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Rhode Island Officials Restart Marijuana Business Licensing Process After End Of Litigation That Blocked Prior Effort",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/rhode-island-officials-restart-marijuana-business-licensing-process-after-end-of-litigation-that-blocked-prior-effort/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/dr-oz-asks-senators-to-delay-hemp-product-ban-so-seniors-can-get-cbd-products-covered-through-medicare/",
         "summary": "<p>Dr. Mehmet Oz, who leads the Centers for Medicare and Medicaid Services (CMS), is asking U.S. senators to reject an amendment that would keep a for..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Texas Banning Cannabis Is An \u2018Insane\u2019 Form Of Corruption That Benefits Big Beer, Big Tobacco And Drug Cartels, Talarico Says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/texas-banning-cannabis-is-an-insane-form-of-corruption-that-benefits-big-beer-big-tobacco-and-drug-cartels-talarico-says/",
-        "summary": "<p>The fact that Texas is keeping marijuana illegal while also moving to restrict hemp THC products is &#8220;insane,&#8221; Democratic U.S. Senate ca..."
     },
     {
         "source": "MJBizDaily",
@@ -85,9 +85,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Schumer said \u2018Democrats support voter ID\u2019 \u2014 then every Senate Democrat voted against GOP bill",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/b48f3bfe9e62e7523ee9a3350e38aae4",
-        "link": "https://www.yahoo.com/news/politics/articles/schumer-said-democrats-support-voter-094813475.html",
+        "title": "With broad bipartisan support, Congress is about to give Trump \u2018unchecked authority\u2019 to impose new tariffs of up to 100% on top trading partners",
+        "image": "https://media.zenfs.com/en/fortune_175/f95362fc68628337829ed153730e412e",
+        "link": "https://www.yahoo.com/news/politics/articles/broad-bipartisan-support-congress-trump-172327694.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "With broad bipartisan support, Congress is about to give Trump \u2018unchecked authority\u2019 to impose new tariffs of up to 100% on top trading partners",
-        "image": "https://media.zenfs.com/en/fortune_175/f95362fc68628337829ed153730e412e",
-        "link": "https://www.yahoo.com/news/politics/articles/broad-bipartisan-support-congress-trump-172327694.html",
+        "title": "Judge orders Meta to pay hundreds of millions over kids\u2019 mental health",
+        "image": "https://media.zenfs.com/en/nbcu_713/610166941eadc9ac220a0b201746de2d",
+        "link": "https://www.yahoo.com/news/videos/judge-orders-meta-pay-hundreds-225218096.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Canada: British Columbia wildfires burning out of control",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/canada-british-columbia-wildfires-burning-out-of-control/a-78296928?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Wildfires have grown in number and intensity across British Columbia, where a state of emergency has been declared. Evacuations are underway, but fire..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Divers in Italy find ancient Roman shipwreck, amphorae off coast of Sicily believed to be 2,100 years old",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/divers-in-italy-find-ancient-roman-shipwreck-amphorae-off-coast-of-sicily-believed-to-be-2-100-years-old/a-78296552?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The wreck is believed to be more than 2,000 years old. Italy's culture minister says it is \"one of the most important underwater archaeological\" finds..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/study-obesity-bigger-cancer-risk-than-previously-thought/a-78291063?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A new study has found that being significantly overweight could be responsible for more cases of cancer than previously known. Abdominal fat, in parti..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Indonesia: Mount Bromo wildfire grows, spurs park closure",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/indonesia-mount-bromo-wildfire-grows-spurs-park-closure/a-78293431?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Indonesian authorities have closed a popular national park until further notice. Strong winds and rough terrain are making it difficult for firefighte..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India: Ex-Education Minister Pradhan says Gen Z 'misled'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-ex-education-minister-pradhan-says-gen-z-misled/live-78293276?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Dharmendra Pradhan spoke for the first time since his resignation as education minister following mass protests against him. He said he \"suffered\" bec..."
     }
 ]
