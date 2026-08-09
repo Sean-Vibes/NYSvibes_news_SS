@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Senators head for the exits without meeting Trump's demands for voting bill",
-        "image": "https://media.zenfs.com/en/ap.org/441d2570579bde07359458a38e8293df",
-        "link": "https://www.yahoo.com/news/politics/articles/senators-head-exits-without-meeting-091505620.html",
+        "title": "Democrats plan Trump investigations over impeachment if they win House, sources say",
+        "image": "https://media.zenfs.com/en/reuters.com/ecd43b7f8e504df6148968e23a5db09d",
+        "link": "https://www.yahoo.com/news/articles/democrats-plan-trump-investigations-over-100403454.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "British Columbia declares state of emergency as more than 20,000 flee wildfires",
-        "image": "https://media.zenfs.com/en/reuters.com/ce6e631924db8790b3fc003250a8bc14",
-        "link": "https://www.yahoo.com/news/articles/british-columbia-district-declares-state-135456850.html",
+        "title": "Chinese startup Moonshot's AI model breaks out of testing environment, researchers say",
+        "image": "https://media.zenfs.com/en/reuters.com/e77fe326eee9f1126d99b6ec2ce16ea5",
+        "link": "https://tech.yahoo.com/cybersecurity/articles/chinese-startup-moonshots-ai-model-083719864.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fortune_175/f95362fc68628337829ed153730e412e",
         "link": "https://www.yahoo.com/news/politics/articles/broad-bipartisan-support-congress-trump-172327694.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Australia: Jetstar, Qatar Airways planes almost collide on Sydney Airport tarmac",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/australia-jetstar-qatar-airways-planes-almost-collide-on-sydney-airport-tarmac/a-78293085?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A flight crew member was injured in a near-miss collision on the runway at Australia's Sydney Airport. An investigation has been launched to determine..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-interior-minister-warns-of-daily-hybrid-warfare/a-78291550?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "German Interior Minister Alexander Dobrindt says attacks by foreign powers have become a constant threat to Germany. His remarks come just days after ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nigeria marries 1,500 couples in mass wedding",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nigeria-marries-1-500-couples-in-mass-wedding/a-78291396?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The government describes the program as a way to support low-income families and promote social stability. Among those married were people who lost fa..."
     }
 ]
