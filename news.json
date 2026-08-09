@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ex-President Joe Biden's cancer has spread, is very painful, son says",
-        "image": "https://media.zenfs.com/en/reuters.com/5dd7fafa7f7369d70024f3f2ac440054",
-        "link": "https://www.yahoo.com/news/politics/articles/ex-president-joe-bidens-cancer-193456267.html",
+        "title": "British Columbia declares state of emergency as more than 20,000 flee wildfires",
+        "image": "https://media.zenfs.com/en/reuters.com/ce6e631924db8790b3fc003250a8bc14",
+        "link": "https://www.yahoo.com/news/articles/british-columbia-district-declares-state-135456850.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fortune_175/f95362fc68628337829ed153730e412e",
         "link": "https://www.yahoo.com/news/politics/articles/broad-bipartisan-support-congress-trump-172327694.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Drone incidents prompt security research boost",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-drone-incidents-prompt-security-research-boost/live-78287439?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany is moving to counter the threats posed by drones after a number of security incidents. The CEO of arms giant Rheinmetall says he is not \"chick..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/nigeria-marries-1-500-couples-in-mass-wedding/a-78291396?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The government describes the program as a way to support low-income families and promote social stability. Among those married were people who lost fa..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Kosovo PM Kurti egged in parliament amid political crisis",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/kosovo-pm-kurti-egged-in-parliament-amid-political-crisis/a-78291171?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Kosovo has held three elections in over two years. Albin Kurti's ruling Vetevendosje is struggling to garner the two-thirds majority required to elect..."
     }
 ]
