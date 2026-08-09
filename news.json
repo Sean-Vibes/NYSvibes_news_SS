@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran's leaders think they have Trump cornered, but their strategy carries great risks",
-        "image": "https://media.zenfs.com/en/ap.org/7b73e3366db9019e24f6cb0e9beb5da4",
-        "link": "https://www.yahoo.com/news/politics/articles/iran-leaders-believe-victory-within-040344803.html",
+        "title": "Trump goes unmentioned but not ignored as Clinton, Bush and Obama step up as essayists on presidents",
+        "image": "https://media.zenfs.com/en/ap.org/83a935856b0792d5b5303d8286f83e2a",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-goes-unmentioned-not-ignored-122628900.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Democrats plan Trump investigations over impeachment if they win House, sources say",
-        "image": "https://media.zenfs.com/en/reuters.com/ecd43b7f8e504df6148968e23a5db09d",
-        "link": "https://www.yahoo.com/news/articles/democrats-plan-trump-investigations-over-100403454.html",
+        "title": "Senators head for the exits without meeting Trump's demands for voting bill",
+        "image": "https://media.zenfs.com/en/ap.org/441d2570579bde07359458a38e8293df",
+        "link": "https://www.yahoo.com/news/politics/articles/senators-head-exits-without-meeting-091505620.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,27 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/b48f3bfe9e62e7523ee9a3350e38aae4",
         "link": "https://www.yahoo.com/news/politics/articles/schumer-said-democrats-support-voter-094813475.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Denmark: Several wounded in suspected gang shooting",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/denmark-several-wounded-in-suspected-gang-shooting/a-78297276?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Police said they believed that the incident was linked to a \"settling of scores\" within criminal networks...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Berlin to step up drone security research",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-berlin-to-step-up-drone-security-research/live-78287439?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Interior Minister Alexander Dobrindt said Germany is moving to counter the threats posed by drones. Meanwhile, the transport minister said he wants De..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "German kidnapped in Niger released \u2014 Algeria",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/german-kidnapped-in-niger-released-algeria/a-78297237?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Algeria says a German citizen has been released after a \"criminal armed group\" kidnapped him in Niger two weeks ago...."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/divers-in-italy-find-ancient-roman-shipwreck-amphorae-off-coast-of-sicily-believed-to-be-2-100-years-old/a-78296552?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The wreck is believed to be more than 2,000 years old. Italy's culture minister says it is \"one of the most important underwater archaeological\" finds..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Middle East: Netanyahu says Israel rejects Trump's Gaza plan",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/middle-east-netanyahu-says-israel-rejects-trump-s-gaza-plan/live-78289364?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Israeli Prime Minister Benjamin Netanyahu announced Israel's rejection of US President Donald Trump's 15-point plan for Gaza. Follow DW for more...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine and Russia exchange attacks as Kyiv buys new ATACMS",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-and-russia-exchange-attacks-as-kyiv-buys-new-atacms/a-78294589?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Overnight drone and missile attacks killed several and injured dozens more in both Ukraine and Russia. As Kyiv seeks to defend itself it has now repor..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Study: Obesity 'bigger cancer risk' than previously thought",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/study-obesity-bigger-cancer-risk-than-previously-thought/a-78291063?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A new study has found that being significantly overweight could be responsible for more cases of cancer than previously known. Abdominal fat, in parti..."
     }
 ]
