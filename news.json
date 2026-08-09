@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Senators head for the exits without meeting Trump's demands for voting bill",
-        "image": "https://media.zenfs.com/en/ap.org/441d2570579bde07359458a38e8293df",
-        "link": "https://www.yahoo.com/news/politics/articles/senators-head-exits-without-meeting-091505620.html",
+        "title": "Ex-President Joe Biden's cancer has spread, is very painful, son says",
+        "image": "https://media.zenfs.com/en/reuters.com/5dd7fafa7f7369d70024f3f2ac440054",
+        "link": "https://www.yahoo.com/news/politics/articles/ex-president-joe-bidens-cancer-193456267.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/b48f3bfe9e62e7523ee9a3350e38aae4",
         "link": "https://www.yahoo.com/news/politics/articles/schumer-said-democrats-support-voter-094813475.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Syria says deal agreed with Russia on future of military bases",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/syria-says-deal-agreed-with-russia-on-future-of-military-bases/a-78297584?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Under the agreement, Syria will take over management of two Russian bases that were used to support ousted leader Bashar Assad during the Syrian civil..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/canada-british-columbia-wildfires-burning-out-of-control/a-78296928?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Wildfires have grown in number and intensity across British Columbia, where a state of emergency has been declared. Evacuations are underway, but fire..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Divers in Italy find ancient Roman shipwreck, amphorae off coast of Sicily believed to be 2,100 years old",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/divers-in-italy-find-ancient-roman-shipwreck-amphorae-off-coast-of-sicily-believed-to-be-2-100-years-old/a-78296552?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The wreck is believed to be more than 2,000 years old. Italy's culture minister says it is \"one of the most important underwater archaeological\" finds..."
     }
 ]
