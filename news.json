@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump signs orders to limit US birthright citizenship, despite Supreme Court ruling",
-        "image": "https://media.zenfs.com/en/reuters.com/4d18de8f715ad423d7d7526a6a98b60e",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-sign-orders-birthright-citizenship-194948463.html",
+        "title": "Senators head for the exits without meeting Trump's demands for voting bill",
+        "image": "https://media.zenfs.com/en/ap.org/441d2570579bde07359458a38e8293df",
+        "link": "https://www.yahoo.com/news/politics/articles/senators-head-exits-without-meeting-091505620.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Memphis forward Brandon Clarke died from effects of heroin and cocaine, authorities say",
-        "image": "https://media.zenfs.com/en/ap.org/4d42b34d8308660800e35e8499e6f773",
-        "link": "https://sports.yahoo.com/articles/memphis-forward-brandon-clarke-died-212407114.html",
+        "title": "NJ Family Finds 8-Foot Python Living Under Their Backyard Shed",
+        "image": "https://media.zenfs.com/en/nbcu_713/8d8fd08cb4ae1cf4d51af2c645c1570c",
+        "link": "https://www.yahoo.com/news/videos/nj-family-finds-8-foot-121643725.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,20 @@
         "image": "https://media.zenfs.com/en/fortune_175/f95362fc68628337829ed153730e412e",
         "link": "https://www.yahoo.com/news/politics/articles/broad-bipartisan-support-congress-trump-172327694.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "FIFA warns against 'concerted effort' to undermine Gianni Infantino",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/fifa-warns-against-concerted-effort-to-undermine-gianni-infantino/a-78291551?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Pressure is mounting on the FIFA president Gianni Infantino after plans to sell a stake in the World Cup collapsed and fresh allegations emerged relat..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany: Interior Minister warns of 'daily' hybrid warfare",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-interior-minister-warns-of-daily-hybrid-warfare/a-78291550?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "German Interior Minister Alexander Dobrindt says attacks by foreign powers have become a constant threat to Germany. His remarks come just days after ..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/thousands-attend-prague-pride-parade/a-78290467?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Participants observed a minute of silence in memory of the victims of a van ramming near the CSD parade in Berlin. The march was accompanied by enhanc..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US Senate confirms Trump loyalist Todd Blanche as new AG",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-senate-confirms-trump-loyalist-todd-blanche-as-new-ag/a-78289397?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Republicans dropped their opposition and confirmed President Donald Trump's former defense lawyer to a Cabinet position. Now, Todd Blanche will act as..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine: Russia pounds Kyiv as Zelenskyy visits Serbia",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-russia-pounds-kyiv-as-zelenskyy-visits-serbia/a-78287715?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukrainian President Volodymyr Zelenskyy is visiting Serbia, a country that has traditionally been friendly with Moscow, as Russia strikes the Kyiv reg..."
     }
 ]
