@@ -85,9 +85,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hawaii rep cruises to Dem primary win after challenger arrested for beach brawl",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/8fdbd1f43f024a5dfa1bf4eb22deb573",
-        "link": "https://www.yahoo.com/news/politics/articles/hawaii-rep-cruises-dem-primary-053916007.html",
+        "title": "Kentucky middle school teacher accused of crossing the line with student, arrested under new anti-grooming law",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/e2c1c744a862fe4ac957b46ef62329a8",
+        "link": "https://www.yahoo.com/news/us/articles/kentucky-middle-school-teacher-accused-014858508.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kentucky middle school teacher accused of crossing the line with student, arrested under new anti-grooming law",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/e2c1c744a862fe4ac957b46ef62329a8",
-        "link": "https://www.yahoo.com/news/us/articles/kentucky-middle-school-teacher-accused-014858508.html",
+        "title": "Hawaii rep cruises to Dem primary win after challenger arrested for beach brawl",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/8fdbd1f43f024a5dfa1bf4eb22deb573",
+        "link": "https://www.yahoo.com/news/politics/articles/hawaii-rep-cruises-dem-primary-053916007.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Russia: Top court bans opposition anti-war party from vote",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/russia-top-court-bans-opposition-anti-war-party-from-vote/a-78313252?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Yabloko, Russia's only anti-war party, has been barred from September's parliamentary elections. The motion to bar Yabloko was filed by the nationalis..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/which-country-is-the-new-mecca-defense-pact-targeting/a-78307673?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Observers suggest the new alliance between Saudi Arabia, Turkey and Pakistan won't result in any of the countries fighting for each other. Instead it'..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How climate change is reshaping Africa's malaria risk",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-climate-change-is-reshaping-africa-s-malaria-risk/a-78304711?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Researchers say warming temperatures are altering malaria transmission patterns across Africa, creating new challenges for health systems and disease ..."
     }
 ]
