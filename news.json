@@ -1,6 +1,20 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Delaware\u2019s First Year Of Legal Marijuana Sales Badly Underperformed Regulators\u2019 Lofty Projections",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/delawares-first-year-of-legal-marijuana-sales-badly-underperformed-regulators-lofty-projections/",
+        "summary": "<p>&#8220;If we just open stores without more growers online, we\u2019re going to see prices spike, and I don\u2019t think anybody wants to see that.&#8221; By ..."
+    },
+    {
+        "source": "Marijuana Moment",
+        "title": "Senate Vote On Hemp THC Products Splits Usual Partisan Coalitions",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/senate-vote-on-hemp-thc-products-splits-usual-partisan-coalitions/",
+        "summary": "<p>A U.S. Senate dispute over whether to implement a forthcoming ban on hemp THC products on time as scheduled or instead delay it in order to give la..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Virginia Officials\u2019 PSA On Impaired Driving Highlights Marijuana\u2019s Relaxation-Enhancing Abilities",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/virginia-officials-psa-on-impaired-driving-highlights-marijuanas-relaxation-enhancing-abilities/",
@@ -19,20 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/so-many-georgia-patients-are-signing-up-for-expanded-medical-marijuana-law-that-officials-are-having-trouble-processing-them-all/",
         "summary": "<p>&#8220;We understand applicants are eager to receive their cards, and we appreciate their patience as we work through this unprecedented volume.&#8..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Rhode Island Officials Restart Marijuana Business Licensing Process After End Of Litigation That Blocked Prior Effort",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/rhode-island-officials-restart-marijuana-business-licensing-process-after-end-of-litigation-that-blocked-prior-effort/",
-        "summary": "<p>&#8220;Our focus is to maintain that momentum by implementing the amended Cannabis Act as efficiently as possible.&#8221; By Christopher Shea, Rhod..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Senate Votes To Delay Hemp Ban, Giving Lawmakers More Time To Craft Regulations To Keep THC Products Legal",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/senate-rejects-amendment-to-keep-hemp-thc-product-ban-on-track-for-november-teeing-up-delay-trump-pushed-for/",
-        "summary": "<p>The U.S. Senate has rejected an amendment to\u00a0make sure that hemp THC products are federally recriminalized on time under a current plan that is set..."
     },
     {
         "source": "MJBizDaily",
@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russia rolling out Starlink-style network faster than expected, Kyiv says",
-        "image": "https://media.zenfs.com/en/reuters.com/64b0e9d55fe073e48203cd8d6266562e",
-        "link": "https://www.yahoo.com/news/world/articles/russia-rolling-starlink-style-network-140144199.html",
+        "title": "Trump announces staff secretary Will Scharf will be his new White House counsel",
+        "image": "https://media.zenfs.com/en/ap.org/fc96fe7a7ffff183bf09a56dd8530b33",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-announces-staff-secretary-scharf-221253112.html",
         "summary": "..."
     },
     {
@@ -85,31 +85,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kentucky middle school teacher accused of crossing the line with student, arrested under new anti-grooming law",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/e2c1c744a862fe4ac957b46ef62329a8",
-        "link": "https://www.yahoo.com/news/us/articles/kentucky-middle-school-teacher-accused-014858508.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Many immigrants face deportation without a lawyer at their side in court. This program tries to help",
-        "image": "https://media.zenfs.com/en/ap.org/790f275b51af9966f644b307b6f1dac4",
-        "link": "https://www.yahoo.com/news/politics/articles/many-immigrants-face-deportation-without-113559903.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "EXCLUSIVE: Talarico caught on tape giggling about his church housing illegal immigrants set for deportation",
         "image": "https://media.zenfs.com/en/fox_news_text_979/2c363b47b2145e899675c908ea9b302f",
         "link": "https://www.yahoo.com/news/politics/articles/exclusive-talarico-caught-tape-giggling-100004805.html",
         "summary": "..."
     },
     {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Shein finds there's no place like China after Vietnam warehouse experiment disappoints",
+        "image": "https://media.zenfs.com/en/reuters.com/c6ed1464d47e64e1c09fd7589774206c",
+        "link": "https://finance.yahoo.com/economy/policy/articles/shein-finds-theres-no-place-230848287.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "With broad bipartisan support, Congress is about to give Trump \u2018unchecked authority\u2019 to impose new tariffs of up to 100% on top trading partners",
+        "image": "https://media.zenfs.com/en/fortune_175/f95362fc68628337829ed153730e412e",
+        "link": "https://www.yahoo.com/news/politics/articles/broad-bipartisan-support-congress-trump-172327694.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Why the Rhine drought is bad news for Germany\u2019s recovery",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/why-the-rhine-drought-is-bad-news-for-germany-s-recovery/a-78300076?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany\u2019s inland waterways still move around 5% of the nation\u2019s goods. With the Rhine at a critically low level, DW explores how the drought is hittin..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Jharkhand police use tear gas, water cannons to disperse student protesters",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-jharkhand-police-use-tear-gas-water-cannons-to-disperse-student-protesters/live-78299334?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Police used force to disperse students marching towards the Jharkhand assembly, as protests over alleged irregularities in government recruitment exam..."
+    },
+    {
         "source": "Deutsche Welle",
         "title": "Colombia: Several killed after large earthquake rocks region",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/colombia-several-killed-after-large-earthquake-rocks-region/a-78307841?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A powerful earthquake, initially measured at magnitude 7.4, has struck Colombia, killing at least 18 people. Tremors were also felt in neighboring Ecu..."
+        "summary": "A powerful earthquake, initially measured at magnitude 7.4, has struck Colombia, killing at least 47 people. Cities including Cali, Pereira and Maniza..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/how-climate-change-is-reshaping-africa-s-malaria-risk/a-78304711?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Researchers say warming temperatures are altering malaria transmission patterns across Africa, creating new challenges for health systems and disease ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Middle East: Iran wants US concessions before opening Hormuz",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/middle-east-iran-wants-us-concessions-before-opening-hormuz/live-78305309?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Iran's Foreign Ministry reiterated that the US must meet Tehran's demands before the Strait of Hormuz is reopened and that ships transiting through wi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "ASEAN closing ranks as cyberscam threat escalates",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/asean-closing-ranks-as-cyberscam-threat-escalates/a-78304710?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Southeast Asian governments are searching for a joint strategy against cyberscammers, a criminal industry that has grown too big, too connected and to..."
     }
 ]
