@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Factbox-Who is Iran's Mohsen Rezaei, the hardliner appointed to key security role?",
-        "image": "https://media.zenfs.com/en/reuters.com/1a9828e60019083dcff8cac9da01e91e",
-        "link": "https://www.yahoo.com/news/world/articles/factbox-irans-mohsen-rezaei-hardliner-113220933.html",
+        "title": "Russia rolling out Starlink-style network faster than expected, Kyiv says",
+        "image": "https://media.zenfs.com/en/reuters.com/64b0e9d55fe073e48203cd8d6266562e",
+        "link": "https://www.yahoo.com/news/world/articles/russia-rolling-starlink-style-network-140144199.html",
         "summary": "..."
     },
     {
@@ -92,17 +92,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump announces staff secretary Will Scharf will be his new White House counsel",
-        "image": "https://media.zenfs.com/en/ap.org/fc96fe7a7ffff183bf09a56dd8530b33",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-announces-staff-secretary-scharf-221253112.html",
+        "title": "Many immigrants face deportation without a lawyer at their side in court. This program tries to help",
+        "image": "https://media.zenfs.com/en/ap.org/790f275b51af9966f644b307b6f1dac4",
+        "link": "https://www.yahoo.com/news/politics/articles/many-immigrants-face-deportation-without-113559903.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "With broad bipartisan support, Congress is about to give Trump \u2018unchecked authority\u2019 to impose new tariffs of up to 100% on top trading partners",
-        "image": "https://media.zenfs.com/en/fortune_175/f95362fc68628337829ed153730e412e",
-        "link": "https://www.yahoo.com/news/politics/articles/broad-bipartisan-support-congress-trump-172327694.html",
+        "title": "EXCLUSIVE: Talarico caught on tape giggling about his church housing illegal immigrants set for deportation",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/2c363b47b2145e899675c908ea9b302f",
+        "link": "https://www.yahoo.com/news/politics/articles/exclusive-talarico-caught-tape-giggling-100004805.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Colombia: Several killed after large earthquake rocks region",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/colombia-several-killed-after-large-earthquake-rocks-region/a-78307841?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A powerful earthquake, initially measured at magnitude 7.4, has struck Colombia, killing at least 18 people. Tremors were also felt in neighboring Ecu..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Which country is the new Mecca defense pact targeting?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/which-country-is-the-new-mecca-defense-pact-targeting/a-78307673?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Observers suggest the new alliance between Saudi Arabia, Turkey and Pakistan won't result in any of the countries fighting for each other. Instead it'..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "How climate change is reshaping Africa's malaria risk",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/how-climate-change-is-reshaping-africa-s-malaria-risk/a-78304711?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Researchers say warming temperatures are altering malaria transmission patterns across Africa, creating new challenges for health systems and disease ..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/asean-closing-ranks-as-cyberscam-threat-escalates/a-78304710?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Southeast Asian governments are searching for a joint strategy against cyberscammers, a criminal industry that has grown too big, too connected and to..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India: Student anger over alleged exam issues spreads to Jharkhand",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-student-anger-over-alleged-exam-issues-spreads-to-jharkhand/a-78304059?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Inspired by the Cockroach movement, young people in India's eastern state of Jharkhand are marching on the state assembly to demand transparency and a..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UEFA, other football federations unite against Infantino",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uefa-other-football-federations-unite-against-infantino/a-78301601?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A few weeks ago, Gianni Infantino looked set for another unopposed term as FIFA president. Now, with an election looming, the beleagured football exec..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukrainian drone attack kills at least 13 in central Russia",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukrainian-drone-attack-kills-at-least-13-in-central-russia/a-78300485?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukraine launched hundreds of drones at targets inside Russia, according to Russian officials. The strikes killed more than a dozen in one of Kyiv's de..."
     }
 ]
