@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "California cannabis regulators\u2019 fraud case against testing lab unravels",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/california-cannabis-regulators-fraud-case-against-testing-lab-unravels/617320/",
+        "summary": "<p>A prominent California cannabis testing lab remains shut despite a judge's finding that state regulators failed to provide allegations of fraud and..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "Senate extends temporary lifeline for hemp THC \u2013 and sets up fight with cannabis industry",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/senate-extends-temporary-lifeline-for-hemp-thc-and-sets-up-fight-with-cannabis-industry/617337/",
@@ -63,17 +70,10 @@
         "summary": "<p>A hemp entrepreneur tried to convince members of Congress to save the hemp industry. She discovered lawmakers barely understood what they're about ..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Another Colorado cannabis cultivation operation shuts down after acquisition",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/another-colorado-cannabis-cultivation-operation-shuts-down-after-acquisition/617300/",
-        "summary": "<p>The layoffs come days after Verdant, a cannabis investment and operations platform, acquired the Native Roots stores in a deal that closed July 31...."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hunter Biden says his father's prostate cancer is causing him pain even as he continues to speak out",
-        "image": "https://media.zenfs.com/en/ap.org/8a2b5d9d2d594421464bc6ec017036ad",
-        "link": "https://www.yahoo.com/news/politics/articles/hunter-biden-says-fathers-prostate-130146087.html",
+        "title": "Trump goes unmentioned but not ignored as Clinton, Bush and Obama step up as essayists on presidents",
+        "image": "https://media.zenfs.com/en/ap.org/83a935856b0792d5b5303d8286f83e2a",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-goes-unmentioned-not-ignored-122628900.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Berkshire Hathaway's new CEO Greg Abel spends a chunk of the company's massive cashpile",
-        "image": "https://media.zenfs.com/en/ap.org/a86408a6b6825a5df3a4c61b95962e25",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaways-ceo-greg-abel-132932802.html",
+        "title": "South Korea to launch $3.5 billion chip fund, speed development of semiconductor hubs",
+        "image": "https://media.zenfs.com/en/reuters.com/8b1d4d669335f51688036a50c8140c7f",
+        "link": "https://www.yahoo.com/news/articles/south-koreas-lee-wants-military-061609709.html",
         "summary": "..."
     },
     {
@@ -106,10 +106,17 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Ukrainian drone attack kills at least 12 in central Russia",
+        "title": "UEFA, CONCACAF and AFC accuse Infantino of 'breach of trust'",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukrainian-drone-attack-kills-at-least-12-in-central-russia/a-78300485?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukraine launched hundreds of drones at targets inside Russia, according to Russian officials. The strikes killed at least 12 people in one of Kyiv's d..."
+        "link": "https://www.dw.com/en/uefa-concacaf-and-afc-accuse-infantino-of-breach-of-trust/a-78301601?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A few weeks ago, Gianni Infantino looked set for another unopposed term as FIFA president. Now, with an election looming, the beleagured Swiss executi..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukrainian drone attack kills at least 13 in central Russia",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukrainian-drone-attack-kills-at-least-13-in-central-russia/a-78300485?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ukraine launched hundreds of drones at targets inside Russia, according to Russian officials. The strikes killed more than a dozen in one of Kyiv's de..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/when-extreme-heat-threatens-europe-s-nuclear-power/a-78297778?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Warm rivers and low water levels are forcing nuclear power plants to reduce output across Europe. Over a year, the losses are minimal, but on critical..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "China: Typhoon Dolphin prompts mass evacuation, canceled flights",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/china-typhoon-dolphin-prompts-mass-evacuation-canceled-flights/a-78299416?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Even as it weakens, Typhoon Dolphin is disrupting life in China. Close to 1,500 flights have been canceled in Shanghai while parts of Beijing are unde..."
     }
 ]
