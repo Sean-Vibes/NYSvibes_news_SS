@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump announces staff secretary Will Scharf will be his new White House counsel",
-        "image": "https://media.zenfs.com/en/ap.org/fc96fe7a7ffff183bf09a56dd8530b33",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-announces-staff-secretary-scharf-221253112.html",
+        "title": "Ukraine's push to cripple Russia in Crimea is just getting started, drone chief tells AP",
+        "image": "https://media.zenfs.com/en/ap.org/3ba69fa32a7f72f5534f409d8cc5150a",
+        "link": "https://www.yahoo.com/news/world/articles/crimea-strikes-could-rise-sevenfold-041446443.html",
         "summary": "..."
     },
     {
@@ -85,24 +85,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Hawaii rep cruises to Dem primary win after challenger arrested for beach brawl",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/8fdbd1f43f024a5dfa1bf4eb22deb573",
+        "link": "https://www.yahoo.com/news/politics/articles/hawaii-rep-cruises-dem-primary-053916007.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Morning Bid: Suddenly the Strait of Hormuz is 'irrelevant' to the US",
+        "image": "https://media.zenfs.com/en/reuters.com/ebbe418b03543319839344870fdb6637",
+        "link": "https://finance.yahoo.com/markets/articles/morning-bid-suddenly-strait-hormuz-043231428.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Kentucky middle school teacher accused of crossing the line with student, arrested under new anti-grooming law",
         "image": "https://media.zenfs.com/en/fox_news_text_979/e2c1c744a862fe4ac957b46ef62329a8",
         "link": "https://www.yahoo.com/news/us/articles/kentucky-middle-school-teacher-accused-014858508.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukraine's push to cripple Russia in Crimea is just getting started, drone chief tells AP",
-        "image": "https://media.zenfs.com/en/ap.org/3ba69fa32a7f72f5534f409d8cc5150a",
-        "link": "https://www.yahoo.com/news/world/articles/crimea-strikes-could-rise-sevenfold-041446443.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hawaii rep cruises to Dem primary win after challenger arrested for beach brawl",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/8fdbd1f43f024a5dfa1bf4eb22deb573",
-        "link": "https://www.yahoo.com/news/politics/articles/hawaii-rep-cruises-dem-primary-053916007.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Turkey MPs back historic law on reintegrating PKK militants",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/turkey-mps-back-historic-law-on-reintegrating-pkk-militants/a-78313397?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Turkey's parliament has taken a major step toward ending four decades of conflict with the PKK. The new law sets out how some militants can return to ..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-news-jharkhand-police-use-tear-gas-water-cannons-to-disperse-student-protesters/live-78299334?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Police used force to disperse students marching towards the Jharkhand assembly, as protests over alleged irregularities in government recruitment exam..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Which country is the new Mecca defense pact targeting?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/which-country-is-the-new-mecca-defense-pact-targeting/a-78307673?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Observers suggest the new alliance between Saudi Arabia, Turkey and Pakistan won't result in any of the countries fighting for each other. Instead it'..."
     }
 ]
