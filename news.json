@@ -106,6 +106,13 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Western Europe records hottest June and July on record",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/western-europe-records-hottest-june-and-july-on-record/a-78298751?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Drought is gripping large parts of Europe, with soils unusually dry and major rivers running low. A strengthening El Nino could push global temperatur..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Netanyahu rejects Trump-backed Gaza peace plan",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/netanyahu-rejects-trump-backed-gaza-peace-plan/a-78298282?maca=en-rss-en-all-1573-xml-mrss",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/denmark-several-wounded-in-suspected-gang-shooting/a-78297276?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Police said they believed that the incident was linked to a \"settling of scores\" within criminal networks...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Berlin to step up drone security research",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-berlin-to-step-up-drone-security-research/live-78287439?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Interior Minister Alexander Dobrindt said Germany is moving to counter the threats posed by drones. Meanwhile, the transport minister said he wants De..."
     }
 ]
