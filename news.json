@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Virginia Officials\u2019 PSA On Impaired Driving Highlights Marijuana\u2019s Relaxation-Enhancing Abilities",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/virginia-officials-psa-on-impaired-driving-highlights-marijuanas-relaxation-enhancing-abilities/",
+        "summary": "<p>A new public education campaign launched\u2014and then quickly deleted\u2014by Virginia state officials that aimed to discourage marijuana-impaired driving a..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Senate votes to delay hemp THC product ban (Newsletter: August 10, 2026)",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/senate-votes-to-delay-hemp-thc-product-ban-newsletter-august-10-2026/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/senate-rejects-amendment-to-keep-hemp-thc-product-ban-on-track-for-november-teeing-up-delay-trump-pushed-for/",
         "summary": "<p>The U.S. Senate has rejected an amendment to\u00a0make sure that hemp THC products are federally recriminalized on time under a current plan that is set..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Square Tells Businesses To Stop Selling Hemp And CBD Products In Light Of Upcoming Federal Ban",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/square-tells-businesses-to-stop-selling-hemp-and-cbd-products-in-light-of-upcoming-federal-ban/",
-        "summary": "<p>The popular point-of-sale and payments service Square says it will no longer allow CBD and other hemp-derived products to be sold on its platform, ..."
     },
     {
         "source": "MJBizDaily",
@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump goes unmentioned but not ignored as Clinton, Bush and Obama step up as essayists on presidents",
-        "image": "https://media.zenfs.com/en/ap.org/83a935856b0792d5b5303d8286f83e2a",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-goes-unmentioned-not-ignored-122628900.html",
+        "title": "Factbox-Who is Iran's Mohsen Rezaei, the hardliner appointed to key security role?",
+        "image": "https://media.zenfs.com/en/reuters.com/1a9828e60019083dcff8cac9da01e91e",
+        "link": "https://www.yahoo.com/news/world/articles/factbox-irans-mohsen-rezaei-hardliner-113220933.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "South Korea to launch $3.5 billion chip fund, speed development of semiconductor hubs",
-        "image": "https://media.zenfs.com/en/reuters.com/8b1d4d669335f51688036a50c8140c7f",
-        "link": "https://www.yahoo.com/news/articles/south-koreas-lee-wants-military-061609709.html",
+        "title": "Trump announces staff secretary Will Scharf will be his new White House counsel",
+        "image": "https://media.zenfs.com/en/ap.org/fc96fe7a7ffff183bf09a56dd8530b33",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-announces-staff-secretary-scharf-221253112.html",
         "summary": "..."
     },
     {
@@ -106,10 +106,31 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "UEFA, CONCACAF and AFC accuse Infantino of 'breach of trust'",
+        "title": "Middle East: Iran wants US concessions before opening Hormuz",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uefa-concacaf-and-afc-accuse-infantino-of-breach-of-trust/a-78301601?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A few weeks ago, Gianni Infantino looked set for another unopposed term as FIFA president. Now, with an election looming, the beleagured Swiss executi..."
+        "link": "https://www.dw.com/en/middle-east-iran-wants-us-concessions-before-opening-hormuz/live-78305309?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran's Foreign Ministry reiterated that the US must meet Tehran's demands before the Strait of Hormuz is reopened and that ships transiting through wi..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "ASEAN closing ranks as cyberscam threat escalates",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/asean-closing-ranks-as-cyberscam-threat-escalates/a-78304710?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Southeast Asian governments are searching for a joint strategy against cyberscammers, a criminal industry that has grown too big, too connected and to..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India: Student anger over alleged exam issues spreads to Jharkhand",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-student-anger-over-alleged-exam-issues-spreads-to-jharkhand/a-78304059?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Inspired by the Cockroach movement, young people in India's eastern state of Jharkhand are marching on the state assembly to demand transparency and a..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UEFA, other football federations unite against Infantino",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/uefa-other-football-federations-unite-against-infantino/a-78301601?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A few weeks ago, Gianni Infantino looked set for another unopposed term as FIFA president. Now, with an election looming, the beleagured football exec..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukrainian-drone-attack-kills-at-least-13-in-central-russia/a-78300485?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Ukraine launched hundreds of drones at targets inside Russia, according to Russian officials. The strikes killed more than a dozen in one of Kyiv's de..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Thai ex-lawmaker shoots local official dead over loan",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/thai-ex-lawmaker-shoots-local-official-dead-over-loan/a-78300045?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A former lawmaker confessed to shooting a senior official at a government office over a money dispute, police have said. The incident came just days a..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: Kerala arrest highlights online harassment of women at CJP protest",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-kerala-arrest-highlights-online-harassment-of-women-at-cjp-protest/live-78299334?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A right-wing activist was arrested over alleged remarks that women attending the CJP protests \"enjoy\" sexual assault as female demonstrators face a wi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "When extreme heat threatens Europe's nuclear power",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/when-extreme-heat-threatens-europe-s-nuclear-power/a-78297778?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Warm rivers and low water levels are forcing nuclear power plants to reduce output across Europe. Over a year, the losses are minimal, but on critical..."
     }
 ]
