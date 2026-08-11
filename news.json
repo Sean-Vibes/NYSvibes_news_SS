@@ -92,17 +92,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukraine's push to cripple Russia in Crimea is just getting started, drone chief tells AP",
-        "image": "https://media.zenfs.com/en/ap.org/3ba69fa32a7f72f5534f409d8cc5150a",
-        "link": "https://www.yahoo.com/news/world/articles/crimea-strikes-could-rise-sevenfold-041446443.html",
+        "title": "S.C. picks Lindsey Graham's successor, a democratic socialist eyes victory in Wis., Minn. tees up critical midterm battles: Everything at stake in Tuesday's primaries",
+        "image": "https://s.yimg.com/uu/api/res/1.2/njPzVA26nnj7vFakQkrcKg--~B/aD0yMjUwO3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/thumb-midterm-voting.jpg",
+        "link": "https://www.yahoo.com/news/politics/article/sc-picks-lindsey-grahams-successor-a-democratic-socialist-eyes-victory-in-wis-minn-tees-up-critical-midterm-battles-everything-at-stake-in-tuesdays-primaries-192527768.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hawaii rep cruises to Dem primary win after challenger arrested for beach brawl",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/8fdbd1f43f024a5dfa1bf4eb22deb573",
-        "link": "https://www.yahoo.com/news/politics/articles/hawaii-rep-cruises-dem-primary-053916007.html",
+        "title": "Fauci texts suggest officials were \u2018too slow to pivot' amid pandemic, says Dr Marc Siegel",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/9a5c887296960d470c2b147a16d8b95a",
+        "link": "https://www.yahoo.com/news/science/articles/fauci-texts-suggest-officials-were-015854986.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Rhine levels could cause production cuts",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-rhine-levels-could-cause-production-cuts/live-78313874?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The summer heat is not only causing water levels in Germany's key river arteries to drop to dangerously low levels, but also contributing to wildfires..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Middle East: Trump took secret flight out of Turkey over Iran threat",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/middle-east-trump-took-secret-flight-out-of-turkey-over-iran-threat/live-78313883?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "President Donald Trump reportedly used an elaborate ruse to leave the NATO summit in Turkey, amid a credible assassination threat. Meanwhile, oil pric..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/russia-top-court-bans-opposition-anti-war-party-from-vote/a-78313252?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Yabloko, Russia's only anti-war party, has been barred from September's parliamentary elections. The motion to bar Yabloko was filed by the nationalis..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Colombia earthquake: Death toll rises to over 100",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/colombia-earthquake-death-toll-rises-to-over-100/a-78307841?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A powerful earthquake, measured at magnitude 7.4, has struck Colombia, killing dozens of people and trapping many under rubble. Cities including Cali,..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why the Rhine drought is bad news for Germany's recovery",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-the-rhine-drought-is-bad-news-for-germany-s-recovery/a-78300076?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany\u2019s inland waterways still move around 5% of the nation's goods. With the Rhine at a critically low level, DW explores how the drought is hittin..."
     }
 ]
