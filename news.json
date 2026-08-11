@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Senate hemp vote transcends typical partisan lines (Newsletter: August 11, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/senate-hemp-vote-transcends-typical-partisan-lines-newsletter-august-11-2026/",
+        "summary": "<p>Bill to keep THC drinks federally legal like alcohol; VA marijuana PSA touts relaxation benefits; Houston cannabis ballot measure; DE sales Subscri..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Houston Voters Could Make Marijuana Arrests The \u2018Lowest Possible\u2019 Priority For Police With Ballot Measure In November",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/houston-voters-could-make-marijuana-arrests-the-lowest-possible-priority-for-police-with-ballot-measure-in-november/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/senate-vote-on-hemp-thc-products-splits-usual-partisan-coalitions/",
         "summary": "<p>A U.S. Senate dispute over whether to implement a forthcoming ban on hemp THC products on time as scheduled or instead delay it in order to give la..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Virginia Officials\u2019 PSA On Impaired Driving Highlights Marijuana\u2019s Relaxation-Enhancing Abilities",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/virginia-officials-psa-on-impaired-driving-highlights-marijuanas-relaxation-enhancing-abilities/",
-        "summary": "<p>A new public education campaign launched\u2014and then quickly deleted\u2014by Virginia state officials that aimed to discourage marijuana-impaired driving a..."
     },
     {
         "source": "MJBizDaily",
@@ -78,23 +78,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "EXCLUSIVE: Talarico caught on tape giggling about his church housing illegal immigrants set for deportation",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/2c363b47b2145e899675c908ea9b302f",
-        "link": "https://www.yahoo.com/news/politics/articles/exclusive-talarico-caught-tape-giggling-100004805.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Kentucky middle school teacher accused of crossing the line with student, arrested under new anti-grooming law",
         "image": "https://media.zenfs.com/en/fox_news_text_979/e2c1c744a862fe4ac957b46ef62329a8",
         "link": "https://www.yahoo.com/news/us/articles/kentucky-middle-school-teacher-accused-014858508.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukraine's push to cripple Russia in Crimea is just getting started, drone chief tells AP",
-        "image": "https://media.zenfs.com/en/ap.org/3ba69fa32a7f72f5534f409d8cc5150a",
-        "link": "https://www.yahoo.com/news/world/articles/crimea-strikes-could-rise-sevenfold-041446443.html",
         "summary": "..."
     },
     {
@@ -103,6 +89,27 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/5f88d32504fc30c29f944ebaf8c2777f",
         "link": "https://www.yahoo.com/news/politics/articles/mamdani-clashes-democratic-socialists-push-204848398.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Former Air Force Secretary says he'll sue Trump administration to restore his security clearance",
+        "image": "https://media.zenfs.com/en/ap.org/04e6dbaf8c6bd206cf51fdc3e9e1138e",
+        "link": "https://www.yahoo.com/news/politics/articles/former-air-force-secretary-says-013523816.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Moscow, Kyiv assassins hunt weapons bosses as Ukraine war spills beyond the battlefield",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/43ed65281ed24f87b64c031dfe55682d",
+        "link": "https://www.yahoo.com/news/world/articles/moscow-kyiv-assassins-hunt-weapons-212947519.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Some shipping stops as Rhine hits new lows",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-some-shipping-stops-as-rhine-hits-new-lows/live-78313874?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The summer heat is not only causing water levels in Germany's key river arteries to drop to dangerously low levels, but also contributing to wildfires..."
     },
     {
         "source": "Deutsche Welle",
@@ -116,7 +123,7 @@
         "title": "Syria sentences Bashar Assad to death in absentia",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/syria-sentences-bashar-assad-to-death-in-absentia/a-78316245?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A Syrian court has sentenced ousted President Bashar Assad to death in absentia. The ruling comes more than a year and a half after the former dictato..."
+        "summary": "A Syrian court has sentenced ousted President Bashar Assad to death in absentia. The ruling comes over a year and a half after the dictator was overth..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-news-jharkhand-student-leader-hospitalized-after-police-use-force/live-78314106?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Devendra Nath Mahto joined a march to the state Assembly despite being on a nine-day hunger strike. The CJP denounced the police use of tear gas, bato..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Rhine levels could cause production cuts",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-rhine-levels-could-cause-production-cuts/live-78313874?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The summer heat is not only causing water levels in Germany's key river arteries to drop to dangerously low levels, but also contributing to wildfires..."
     }
 ]
