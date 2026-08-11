@@ -92,17 +92,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "S.C. picks Lindsey Graham's successor, a democratic socialist eyes victory in Wis., Minn. tees up critical midterm battles: Everything at stake in Tuesday's primaries",
-        "image": "https://s.yimg.com/uu/api/res/1.2/njPzVA26nnj7vFakQkrcKg--~B/aD0yMjUwO3c9NDAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/thumb-midterm-voting.jpg",
-        "link": "https://www.yahoo.com/news/politics/article/sc-picks-lindsey-grahams-successor-a-democratic-socialist-eyes-victory-in-wis-minn-tees-up-critical-midterm-battles-everything-at-stake-in-tuesdays-primaries-192527768.html",
+        "title": "Former Air Force Secretary says he'll sue Trump administration to restore his security clearance",
+        "image": "https://media.zenfs.com/en/ap.org/04e6dbaf8c6bd206cf51fdc3e9e1138e",
+        "link": "https://www.yahoo.com/news/politics/articles/former-air-force-secretary-says-013523816.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Fauci texts suggest officials were \u2018too slow to pivot' amid pandemic, says Dr Marc Siegel",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/9a5c887296960d470c2b147a16d8b95a",
-        "link": "https://www.yahoo.com/news/science/articles/fauci-texts-suggest-officials-were-015854986.html",
+        "title": "Mamdani clashes with Democratic Socialists' push to abolish police and prisons",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/5f88d32504fc30c29f944ebaf8c2777f",
+        "link": "https://www.yahoo.com/news/politics/articles/mamdani-clashes-democratic-socialists-push-204848398.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "A court in Syria has sentenced ousted leader Bashar Assad to death in absentia",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/a-court-in-syria-has-sentenced-ousted-leader-bashar-assad-to-death-in-absentia/a-78316245?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A Syrian court has sentenced ousted President Bashar Assad to death in absentia. The ruling comes more than a year and a half after the former dictato..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "How one German city is preparing for climate extremes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/how-one-german-city-is-preparing-for-climate-extremes/a-78278373?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Western Europe has recorded its hottest-ever June and July, and extreme weather from wildfires to storms is here to stay. How can we adapt to what see..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Jharkhand student leader hospitalized after police use force",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-jharkhand-student-leader-hospitalized-after-police-use-force/live-78314106?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Devendra Nath Mahto joined a march to the state Assembly despite being on a nine-day hunger strike. The CJP denounced the police use of tear gas, bato..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/middle-east-trump-took-secret-flight-out-of-turkey-over-iran-threat/live-78313883?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "President Donald Trump reportedly used an elaborate ruse to leave the NATO summit in Turkey, amid a credible assassination threat. Meanwhile, oil pric..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump pushes overhaul of US policy on vaccines for children",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-pushes-overhaul-of-us-policy-on-vaccines-for-children/a-78313546?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In an executive order, President Trump calls for fewer recommended childhood vaccinations and more spacing between shots. Medical experts say the chan..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Turkey MPs back historic law on reintegrating PKK militants",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/turkey-mps-back-historic-law-on-reintegrating-pkk-militants/a-78313397?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Turkey's parliament has taken a major step toward ending four decades of conflict with the PKK. The new law sets out how some militants can return to ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia: Top court bans opposition anti-war party from vote",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-top-court-bans-opposition-anti-war-party-from-vote/a-78313252?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Yabloko, Russia's only anti-war party, has been barred from September's parliamentary elections. The motion to bar Yabloko was filed by the nationalis..."
     }
 ]
