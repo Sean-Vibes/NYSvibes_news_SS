@@ -71,9 +71,30 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump announces staff secretary Will Scharf will be his new White House counsel",
-        "image": "https://media.zenfs.com/en/ap.org/fc96fe7a7ffff183bf09a56dd8530b33",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-announces-staff-secretary-scharf-221253112.html",
+        "title": "Israeli military closes Palestinian Christian village Taybeh, citing settler attacks",
+        "image": "https://media.zenfs.com/en/reuters.com/baa458149b4c84368371ff3cbd136362",
+        "link": "https://www.yahoo.com/news/world/articles/israel-military-closes-palestinian-christian-194043705.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Joe Scarborough goes scorched earth on Democrats not separating themselves from Hasan Piker",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/ed131eee8a6ba3a9056a4d55a97190e1",
+        "link": "https://www.yahoo.com/news/politics/articles/joe-scarborough-goes-scorched-earth-203037372.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Democratic Michigan AG accuses her party of 'absolutely not' doing enough to counter antisemitism",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/92b20bbf1f2c60a2e4064f17b948e77b",
+        "link": "https://www.yahoo.com/news/politics/articles/democratic-michigan-ag-accuses-her-211435515.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Many immigrants face deportation without a lawyer at their side in court. This program tries to help",
+        "image": "https://media.zenfs.com/en/ap.org/790f275b51af9966f644b307b6f1dac4",
+        "link": "https://www.yahoo.com/news/politics/articles/many-immigrants-face-deportation-without-113559903.html",
         "summary": "..."
     },
     {
@@ -84,25 +105,11 @@
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hawaii rep cruises to Dem primary win after challenger arrested for beach brawl",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/8fdbd1f43f024a5dfa1bf4eb22deb573",
-        "link": "https://www.yahoo.com/news/politics/articles/hawaii-rep-cruises-dem-primary-053916007.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukraine's push to cripple Russia in Crimea is just getting started, drone chief tells AP",
-        "image": "https://media.zenfs.com/en/ap.org/3ba69fa32a7f72f5534f409d8cc5150a",
-        "link": "https://www.yahoo.com/news/world/articles/crimea-strikes-could-rise-sevenfold-041446443.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kentucky middle school teacher accused of crossing the line with student, arrested under new anti-grooming law",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/e2c1c744a862fe4ac957b46ef62329a8",
-        "link": "https://www.yahoo.com/news/us/articles/kentucky-middle-school-teacher-accused-014858508.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Trump pushes overhaul of US childhood vaccine policy",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-pushes-overhaul-of-us-childhood-vaccine-policy/a-78313546?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "In an executive order, President Trump calls for fewer recommended childhood vaccinations and more spacing between shots. Medical experts warn the cha..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/why-the-rhine-drought-is-bad-news-for-germany-s-recovery/a-78300076?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Germany\u2019s inland waterways still move around 5% of the nation's goods. With the Rhine at a critically low level, DW explores how the drought is hittin..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: Jharkhand police use tear gas, water cannons to disperse student protesters",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-jharkhand-police-use-tear-gas-water-cannons-to-disperse-student-protesters/live-78299334?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Police used force to disperse students marching towards the Jharkhand assembly, as protests over alleged irregularities in government recruitment exam..."
     }
 ]
