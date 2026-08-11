@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former Air Force Secretary says he'll sue Trump administration to restore his security clearance",
-        "image": "https://media.zenfs.com/en/ap.org/04e6dbaf8c6bd206cf51fdc3e9e1138e",
-        "link": "https://www.yahoo.com/news/politics/articles/former-air-force-secretary-says-013523816.html",
+        "title": "Ukraine's push to cripple Russia in Crimea is just getting started, drone chief tells AP",
+        "image": "https://media.zenfs.com/en/ap.org/3ba69fa32a7f72f5534f409d8cc5150a",
+        "link": "https://www.yahoo.com/news/world/articles/crimea-strikes-could-rise-sevenfold-041446443.html",
         "summary": "..."
     },
     {
@@ -106,9 +106,16 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "A court in Syria has sentenced ousted leader Bashar Assad to death in absentia",
+        "title": "Vietnam's VinSpace taps SpaceX for first satellite launches",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/a-court-in-syria-has-sentenced-ousted-leader-bashar-assad-to-death-in-absentia/a-78316245?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/vietnam-s-vinspace-taps-spacex-for-first-satellite-launches/a-78315984?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Vietnam's first private space company is turning to Elon Musk's SpaceX to get its first satellites into orbit. The deal comes as Vietnam steps up effo..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Syria sentences Bashar Assad to death in absentia",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/syria-sentences-bashar-assad-to-death-in-absentia/a-78316245?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A Syrian court has sentenced ousted President Bashar Assad to death in absentia. The ruling comes more than a year and a half after the former dictato..."
     },
     {
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-rhine-levels-could-cause-production-cuts/live-78313874?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The summer heat is not only causing water levels in Germany's key river arteries to drop to dangerously low levels, but also contributing to wildfires..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Middle East: Trump took secret flight out of Turkey over Iran threat",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/middle-east-trump-took-secret-flight-out-of-turkey-over-iran-threat/live-78313883?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "President Donald Trump reportedly used an elaborate ruse to leave the NATO summit in Turkey, amid a credible assassination threat. Meanwhile, oil pric..."
     }
 ]
