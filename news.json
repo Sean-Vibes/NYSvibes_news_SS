@@ -71,16 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump administration finalizes ownership reporting exemption for US firms",
-        "image": "https://media.zenfs.com/en/reuters.com/18a1e5b30f69549e0ffe16abc2f37567.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-finalizes-ownership-reporting-210336732.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Man, 20, dies in 'horrific accident' after slipping from towering Oregon waterfall",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/40479263c0476a673704b4c89602ea65.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/man-20-dies-horrific-accident-221459233.html",
+        "title": "Tiffany Haddish avoids more jail time by pleading guilty to a drunk driving charge in Georgia",
+        "image": "https://media.zenfs.com/en/ap.org/a40721d1244e1f3b1a17442e5211a9ce.jpg",
+        "link": "https://www.yahoo.com/entertainment/celebrity/articles/tiffany-haddish-avoids-additional-jail-193743778.html",
         "summary": "..."
     },
     {
@@ -92,17 +85,52 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "New transmission from animals likely caused Congo-Uganda Ebola outbreak, study says",
-        "image": "https://media.zenfs.com/en/reuters.com/c93f37a121bdf3e0ef4a5bc585b24c9d",
-        "link": "https://www.yahoo.com/news/science/articles/transmission-animals-likely-caused-congo-131424719.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "2 custodians found shot dead in elementary school, police say",
         "image": "https://media.zenfs.com/en/us.abcnews.gma.com/bb04284820c7f64dab10881220d074a9.jpg",
         "link": "https://www.yahoo.com/news/us/articles/2-custodians-found-shot-dead-112039148.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump administration finalizes ownership reporting exemption for US firms",
+        "image": "https://media.zenfs.com/en/reuters.com/18a1e5b30f69549e0ffe16abc2f37567.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-finalizes-ownership-reporting-210336732.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Dems hammer Mace for saying all Muslims in public office are 'a trojan horse'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/e29a78021fb7f6e823ecc43cd41f241e",
+        "link": "https://www.yahoo.com/news/politics/articles/dems-hammer-mace-saying-muslims-130217979.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Cabinet approves intelligence service reforms",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-cabinet-approves-intelligence-service-reforms/live-78330003?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany's domestic and foreign intelligence services are to get greater powers to deal with hybrid threats. Meanwhile, transport ministers are meeting..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "EU packaging rules: Why small firms are sounding the alarm",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eu-packaging-rules-why-small-firms-are-sounding-the-alarm/a-78326555?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The EU has introduced new rules targeting packaging waste and \u201cforever chemicals.\u201d Although the changes phase in over years, some small sellers have a..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "AI helping create popular mobile sports games",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ai-helping-create-popular-mobile-sports-games/a-78229226?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After the World Cup and before the domestic season, many football fans still crave more. Amateur coders are helping to fill this gap...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Key issues in Zambia's 2026 general election",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/key-issues-in-zambia-s-2026-general-election/a-78320087?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Economic recovery, youth turnout, women's representation and judicial independence are among the issues shaping Zambia's vote on Thursday...."
     },
     {
         "source": "Deutsche Welle",
@@ -110,33 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/solar-eclipse-what-to-look-forward-to/a-78330594?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The last solar eclipse visible from the European mainland was in 1999. Here's what to expect, and how to prepare for this rare occasion...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Transport ministers to talk low river levels",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-transport-ministers-to-talk-low-river-levels/live-78330003?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Federal and state transport ministers are to discuss the challenges to river shipping as water levels drop, whilst Cabinet is to decide on reforms giv..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: IndiGo engine failure triggers airport emergency",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-indigo-engine-failure-triggers-airport-emergency/live-78329904?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Chennai airport declared full emergency after an IndiGo flight suffered an engine failure, hours after reports that an Air India pilot involved in an ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pakistan says 3 nationals killed in Houthi Red Sea attack",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pakistan-says-3-nationals-killed-in-houthi-red-sea-attack/a-78330015?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Pakistan's foreign minister has said Islamabad \"strongly condemns\" Houthi attacks on commercial vessels while offering condolences to the families of ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Australia approves new rules benefiting gig delivery workers",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/australia-approves-new-rules-benefiting-gig-delivery-workers/a-78329580?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Delivery drivers in Australia are to be guaranteed \"world-leading\" higher pay and insurance cover on the job. The move could be a model for other coun..."
     }
 ]
