@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Tiffany Haddish avoids more jail time by pleading guilty to a drunk driving charge in Georgia",
-        "image": "https://media.zenfs.com/en/ap.org/a40721d1244e1f3b1a17442e5211a9ce.jpg",
-        "link": "https://www.yahoo.com/entertainment/celebrity/articles/tiffany-haddish-avoids-additional-jail-193743778.html",
+        "title": "Trump administration finalizes ownership reporting exemption for US firms",
+        "image": "https://media.zenfs.com/en/reuters.com/18a1e5b30f69549e0ffe16abc2f37567.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-finalizes-ownership-reporting-210336732.html",
         "summary": "..."
     },
     {
@@ -85,9 +85,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "2 custodians found shot dead in elementary school, police say",
-        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/bb04284820c7f64dab10881220d074a9.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/2-custodians-found-shot-dead-112039148.html",
+        "title": "Trump doesn't dismiss declaring national emergency to restrict voting",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/92c148843800815186ade8f08c8c6f77.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-doesnt-dismiss-declaring-national-214352655.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump doesn't dismiss declaring national emergency to restrict voting",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/92c148843800815186ade8f08c8c6f77.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-doesnt-dismiss-declaring-national-214352655.html",
+        "title": "2 custodians found shot dead in elementary school, police say",
+        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/bb04284820c7f64dab10881220d074a9.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/2-custodians-found-shot-dead-112039148.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Solar eclipse: What to look forward to",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/solar-eclipse-what-to-look-forward-to/a-78330594?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The last solar eclipse visible from the European mainland was in 1999. Here's what to expect, and how to prepare for this rare occasion...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Transport ministers to talk low river levels",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-transport-ministers-to-talk-low-river-levels/live-78330003?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Federal and state transport ministers are to discuss the challenges to river shipping as water levels drop, whilst Cabinet is to decide on reforms giv..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: IndiGo engine failure triggers airport emergency",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-indigo-engine-failure-triggers-airport-emergency/live-78329904?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Chennai airport declared full emergency after an IndiGo flight suffered an engine failure, hours after reports that an Air India pilot involved in an ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Pakistan says 3 nationals killed in Houthi Red Sea attack",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/pakistan-says-3-nationals-killed-in-houthi-red-sea-attack/a-78330015?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Pakistan's foreign minister has said Islamabad \"strongly condemns\" Houthi attacks on commercial vessels while offering condolences to the families of ..."
     },
     {
         "source": "Deutsche Welle",
@@ -110,33 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/australia-approves-new-rules-benefiting-gig-delivery-workers/a-78329580?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Delivery drivers in Australia are to be guaranteed \"world-leading\" higher pay and insurance cover on the job. The move could be a model for other coun..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Indonesia: Passengers rescued after Bali ferry catches fire",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/indonesia-passengers-rescued-after-bali-ferry-catches-fire/a-78329620?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Authorities said they had visually confirmed that no passengers remained on the burning ferry, but were still confirming the total number...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "North Korea tests missile ahead of US-South Korea drills",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/north-korea-tests-missile-ahead-of-us-south-korea-drills/a-78329244?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The suspected ballistic missile was launched towards Japan and likely fell just outside of its special economic zone, Tokyo said...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Drone attack hits Libya's largest oil refinery",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/drone-attack-hits-libya-s-largest-oil-refinery/a-78328962?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Fires broke out at the Zawiya oil complex after explosives-laden drones struck the site. Hours later, fresh violence in Benghazi highlighted Libya's p..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UNESCO: 2.4 million girls barred from school in Afghanistan",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/unesco-2-4-million-girls-barred-from-school-in-afghanistan/a-78328926?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Five years after the Taliban returned to power, millions of Afghan girls remain excluded from secondary education. UNESCO warns of lasting social and ..."
     }
 ]
