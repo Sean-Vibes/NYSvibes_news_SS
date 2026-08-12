@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Tiffany Haddish avoids more jail time by pleading guilty to a drunk driving charge in Georgia",
-        "image": "https://media.zenfs.com/en/ap.org/a40721d1244e1f3b1a17442e5211a9ce.jpg",
-        "link": "https://www.yahoo.com/entertainment/celebrity/articles/tiffany-haddish-avoids-additional-jail-193743778.html",
+        "title": "Former Air Force Secretary says he'll sue Trump administration to restore his security clearance",
+        "image": "https://media.zenfs.com/en/ap.org/04e6dbaf8c6bd206cf51fdc3e9e1138e",
+        "link": "https://www.yahoo.com/news/politics/articles/former-air-force-secretary-says-013523816.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,27 @@
         "image": "https://media.zenfs.com/en/newsnation_articles_600/beea73d37ef8603a0f1431fd810c7262.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/mistake-vaccinate-pregnant-women-dr-034537081.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany: More power for the intelligence agencies",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-more-power-for-the-intelligence-agencies/a-78341313?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "German intelligence agencies have been calling for more powers in the fight against cyberattacks, terrorism and extremism. Now the government has give..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Eritrea: An emerging key player in the geopolitical gamble at the Horn",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eritrea-an-emerging-key-player-in-the-geopolitical-gamble-at-the-horn/a-78335316?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Amid growing tensions and security risks at the Horn of Africa, Eritrea, with its strategically important coastal points on the Red Sea and a perceive..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Italy: Etna eruption in Sicily halts Catania flights",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/italy-etna-eruption-in-sicily-halts-catania-flights/a-78338205?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Sicily's Catania airport has suspended flights again as Mount Etna continues to spew lava and volcanic ash. The eruption has disrupted travel during t..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-data-centers-boom-as-water-supply-runs-low/a-78335533?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "More than half of India's data centers are in regions that are already water-stressed \u2015 and the country is racing to build more...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Short on US Patriot missiles, Ukraine looks for alternatives",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/short-on-us-patriot-missiles-ukraine-looks-for-alternatives/a-78328784?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russia is putting pressure on Ukraine with ballistic missiles, but Kyiv is short of Patriot interceptors. Domestic production and European alternative..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Europe braces for next heat wave",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/europe-braces-for-next-heat-wave/a-78334723?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "More than half the continent, including much of Germany, is set for a third wave of extreme heat this summer. The prolonged hot weather has significan..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Cabinet approves intelligence service reforms",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-cabinet-approves-intelligence-service-reforms/live-78330003?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany's domestic and foreign intelligence services are to get greater powers to deal with hybrid threats. Meanwhile, transport ministers are meeting..."
     }
 ]
