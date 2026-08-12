@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump administration finalizes ownership reporting exemption for US firms",
-        "image": "https://media.zenfs.com/en/reuters.com/18a1e5b30f69549e0ffe16abc2f37567.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-finalizes-ownership-reporting-210336732.html",
+        "title": "Tiffany Haddish avoids more jail time by pleading guilty to a drunk driving charge in Georgia",
+        "image": "https://media.zenfs.com/en/ap.org/a40721d1244e1f3b1a17442e5211a9ce.jpg",
+        "link": "https://www.yahoo.com/entertainment/celebrity/articles/tiffany-haddish-avoids-additional-jail-193743778.html",
         "summary": "..."
     },
     {
@@ -92,17 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Adopted Indian women find 'missing piece' when DNA test reveals they are sisters",
-        "image": "https://media.zenfs.com/en/reuters.com/0ee640fc2223992edc5baba5f1c0fea9.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/adopted-indian-women-missing-piece-111709197.html",
+        "title": "Trump administration finalizes ownership reporting exemption for US firms",
+        "image": "https://media.zenfs.com/en/reuters.com/18a1e5b30f69549e0ffe16abc2f37567.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-finalizes-ownership-reporting-210336732.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Proposal backed by Trump administration would allow 401K and IRA funds to be used in riskier investments",
-        "image": "https://media.zenfs.com/en/nbcu_713/7ad35d2b65bae77f9c608623f50a746e.jpg",
-        "link": "https://www.yahoo.com/news/videos/proposal-backed-trump-administration-allow-175631090.html",
+        "title": "Deadly disease outbreak kills 2,000 as experts reveal what Americans should know",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/3ecf18958349802de89f3326052a0ea4.jpg",
+        "link": "https://www.yahoo.com/news/science/articles/deadly-disease-outbreak-kills-2-110032021.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Brazil orders Discord to halt livestreaming after teen death",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/brazil-orders-discord-to-halt-livestreaming-after-teen-death/a-78343328?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Brazil has ordered Discord to suspend livestreaming as authorities scrutinize how the platform protects young users. The move follows a case described..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/no-oil-no-salary-iraqi-state-employees-are-feeling-the-crunch-of-the-hormuz-blockade/a-78341409?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Because of the blockage of the Strait of Hormuz, Iraq cannot export enough oil to fund the country's huge public sector. Protests have already started..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Mozart tribute ends on sour note after mass figurine theft",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/mozart-tribute-ends-on-sour-note-after-mass-figurine-theft/a-78341647?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A playful tribute to Mozart has turned into a whodunit after 210 gold-colored figures disappeared from one of Austria's busiest tourist spots. The mas..."
     }
 ]
