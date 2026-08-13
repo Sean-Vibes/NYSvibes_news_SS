@@ -78,13 +78,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Deadly disease outbreak kills 2,000 as experts reveal what Americans should know",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/3ecf18958349802de89f3326052a0ea4.jpg",
-        "link": "https://www.yahoo.com/news/science/articles/deadly-disease-outbreak-kills-2-110032021.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Trump doesn't dismiss declaring national emergency to restrict voting",
         "image": "https://media.zenfs.com/en/usa_today_news_641/92c148843800815186ade8f08c8c6f77.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/trump-doesnt-dismiss-declaring-national-214352655.html",
@@ -92,16 +85,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Putin says Russia will start seizing European vessels if its ships targeted",
-        "image": "https://media.zenfs.com/en/reuters.com/73b7103745e8ee9ec14ebc8c6e498837.jpg",
-        "link": "https://www.yahoo.com/news/articles/putin-says-russia-respond-kind-090418449.html",
+        "title": "2 custodians found shot dead in elementary school, police say",
+        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/bb04284820c7f64dab10881220d074a9.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/2-custodians-found-shot-dead-112039148.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "2 custodians found shot dead in elementary school, police say",
-        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/bb04284820c7f64dab10881220d074a9.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/2-custodians-found-shot-dead-112039148.html",
+        "title": "Law firm with ties to Trump administration declines offer to represent migrant children",
+        "image": "https://media.zenfs.com/en/ap.org/64748c61b3babccf1a71d2095b9c2801.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/law-firm-ties-trump-administration-195033707.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Deadly disease outbreak kills 2,000 as experts reveal what Americans should know",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/3ecf18958349802de89f3326052a0ea4.jpg",
+        "link": "https://www.yahoo.com/news/science/articles/deadly-disease-outbreak-kills-2-110032021.html",
         "summary": "..."
     },
     {
