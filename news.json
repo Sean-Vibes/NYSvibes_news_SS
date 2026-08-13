@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "Illinois adult-use cannabis retailers can apply for medical permits, with DEA and tax benefits possible",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/illinois-adult-use-cannabis-retailers-can-apply-for-medical-permits-with-dea-and-tax-benefits-possible/617401/",
+        "summary": "<p>Holding a medical license changes an operator\u2019s regulatory status and makes them eligible to register with the DEA.</p>\n<p><a href=\"https://mjbizda..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "California county cuts cannabis taxes after short-lived automatic increase",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/california-county-cuts-cannabis-taxes-after-short-lived-automatic-increase/617404/",
@@ -61,13 +68,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/european-acquisition-leads-to-record-revenue-for-canadian-cannabis-lp-organigram-global/617376/",
         "summary": "<p>Organigram's Q3 revenue rose 49% to CA$105.8 million after its Sanity Group acquisition, lifting international sales to 35% of the total.</p>\n<p><a..."
-    },
-    {
-        "source": "MJBizDaily",
-        "title": "How federal marijuana rescheduling rewrites the rules for cannabis business leases",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/how-federal-marijuana-rescheduling-rewrites-the-rules-for-cannabis-business-leases/617352/",
-        "summary": "<p>Schedule 3 lets medical cannabis operators deduct rent for the first time. </p>\n<p><a href=\"https://mjbizdaily.com/news/how-federal-marijuana-resch..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump doesn't dismiss declaring national emergency to restrict voting",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/92c148843800815186ade8f08c8c6f77.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-doesnt-dismiss-declaring-national-214352655.html",
+        "title": "Hospital managers face demotion and pay cuts",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/1b69777f022685f848c9d4a46d6ecd95.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/hospital-managers-face-demotion-pay-053325269.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Romania shuts nuclear plant, Hungary dams dry Danube River",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/romania-shuts-nuclear-plant-hungary-dams-dry-danube-river/a-78359581?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Romania has shut down its only nuclear plant in a rare move prompted by the lack of cooling water from the Danube River. Hungary, meanwhile, is racing..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/israeli-military-moves-as-settlers-besiege-3-west-bank-homes/a-78355266?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Israel's military has moved to try to stop a group of settlers from besieging three homes in the occupied West Bank. One was owned by a Palestinian Am..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine's monthly civilian casualties highest since 2022",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-s-monthly-civilian-casualties-highest-since-2022/live-78351269?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "UN monitors say civilian casualties in Ukraine hit their highest monthly level since the start of Russia's full-scale war. The latest attacks included..."
     }
 ]
