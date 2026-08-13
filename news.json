@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018It was a mistake to vaccinate pregnant women\u2019: Dr. Robert Redfield",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/beea73d37ef8603a0f1431fd810c7262.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/mistake-vaccinate-pregnant-women-dr-034537081.html",
+        "title": "Colombia quake death toll tops 250 as rescuers race to find survivors",
+        "image": "https://media.zenfs.com/en/reuters.com/74f94272f0cdce18c3d508e6f31a4900.jpg",
+        "link": "https://www.yahoo.com/news/articles/colombia-rescue-efforts-press-quake-060138540.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Far-right leader backs left-wing populist",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-far-right-leader-backs-left-wing-populist/live-78347793?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The leader of the far-right AfD in Thuringia, Bj\u00f6rn H\u00f6cke, has offered to back populist Sahra Wagenknecht as state premier. And heat-related deaths th..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/does-the-clean-energy-transition-need-forever-chemicals/a-77888704?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "As nations globally move to ban forever chemicals, should renewable energy technologies be exempt for the sake of saving the climate?..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia's Putin angers Japan with 1st visit to Kuril Islands",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-s-putin-angers-japan-with-1st-visit-to-kuril-islands/a-78345291?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Japan says it \"strongly protests\" Russian President Vladimir Putin's trip to the disputed Kuril Islands. Tensions over the Russian-controlled archipel..."
     }
 ]
