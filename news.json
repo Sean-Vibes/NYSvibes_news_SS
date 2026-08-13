@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump administration finalizes ownership reporting exemption for US firms",
-        "image": "https://media.zenfs.com/en/reuters.com/18a1e5b30f69549e0ffe16abc2f37567.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-finalizes-ownership-reporting-210336732.html",
+        "title": "Tiffany Haddish avoids more jail time by pleading guilty to a drunk driving charge in Georgia",
+        "image": "https://media.zenfs.com/en/ap.org/a40721d1244e1f3b1a17442e5211a9ce.jpg",
+        "link": "https://www.yahoo.com/entertainment/celebrity/articles/tiffany-haddish-avoids-additional-jail-193743778.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,20 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/3ecf18958349802de89f3326052a0ea4.jpg",
         "link": "https://www.yahoo.com/news/science/articles/deadly-disease-outbreak-kills-2-110032021.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Russia's Putin angers Japan with 1st visit to Kuril Islands",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/russia-s-putin-angers-japan-with-1st-visit-to-kuril-islands/a-78345291?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Japan says it \"strongly protests\" Russian President Vladimir Putin's trip to the disputed Kuril Islands. Tensions over the Russian-controlled archipel..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "How North Korea has profited from its support for Russia",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/how-north-korea-has-profited-from-its-support-for-russia/a-78345289?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Exceptionally high revenues, particularly from war aid for Russia, are consolidating the power of North Korea's autocratic leader. A small number of p..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/russia-why-is-the-yabloko-party-barred-from-the-elections/a-78341971?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Russia's supreme court has banned the anti-war opposition party Yabloko from September's parliamentary elections. What does this mean for the election..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "25 years Ohrid Agreement: Is N. Macedonia's peace holding?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/25-years-ohrid-agreement-is-n-macedonia-s-peace-holding/a-78340239?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A quarter of a century after the Ohrid Framework Agreement ended North Macedonia's 2001 conflict, analysts warn that peace between ethnic communities ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "No oil, no salary: Iraqi state employees are feeling the crunch of the Hormuz blockade",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/no-oil-no-salary-iraqi-state-employees-are-feeling-the-crunch-of-the-hormuz-blockade/a-78341409?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Because of the blockage of the Strait of Hormuz, Iraq cannot export enough oil to fund the country's huge public sector. Protests have already started..."
     }
 ]
