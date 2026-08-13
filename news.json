@@ -92,17 +92,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Tiffany Haddish avoids more jail time by pleading guilty to a drunk driving charge in Georgia",
-        "image": "https://media.zenfs.com/en/ap.org/a40721d1244e1f3b1a17442e5211a9ce.jpg",
-        "link": "https://www.yahoo.com/entertainment/celebrity/articles/tiffany-haddish-avoids-additional-jail-193743778.html",
+        "title": "Trump administration finalizes ownership reporting exemption for US firms",
+        "image": "https://media.zenfs.com/en/reuters.com/18a1e5b30f69549e0ffe16abc2f37567.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-finalizes-ownership-reporting-210336732.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Deadly disease outbreak kills 2,000 as experts reveal what Americans should know",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/3ecf18958349802de89f3326052a0ea4.jpg",
-        "link": "https://www.yahoo.com/news/science/articles/deadly-disease-outbreak-kills-2-110032021.html",
+        "title": "\u2018It was a mistake to vaccinate pregnant women\u2019: Dr. Robert Redfield",
+        "image": "https://media.zenfs.com/en/newsnation_articles_600/beea73d37ef8603a0f1431fd810c7262.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/mistake-vaccinate-pregnant-women-dr-034537081.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Parliament ends turbulent monsoon session",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-parliament-ends-turbulent-monsoon-session/live-78345872?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Prime Minister Narendra Modi was present as the session marked by a fierce standoff over student protests wrapped up. DW has the latest...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Colombia earthquake: Rescue operation enters 'final phase'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/colombia-earthquake-rescue-operation-enters-final-phase/a-78345817?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Rescuers are racing against a critical 72-hour window to find survivors after a magnitude 7.4 earthquake that has killed 265 people, left hundreds mis..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US: Karoline Leavitt to step down as Trump's spokesperson",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-karoline-leavitt-to-step-down-as-trump-s-spokesperson/a-78345847?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "White House press secretary Karoline Leavitt is to leave her job at the end of the month, President Donald Trump says. Leavitt, 28, is the youngest-ev..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Does the clean energy transition need forever chemicals?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/does-the-clean-energy-transition-need-forever-chemicals/a-77888704?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "As nations globally move to ban forever chemicals, should renewable energy technologies be exempt for the sake of saving the climate?..."
     },
     {
         "source": "Deutsche Welle",
@@ -110,33 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/russia-s-putin-angers-japan-with-1st-visit-to-kuril-islands/a-78345291?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Japan says it \"strongly protests\" Russian President Vladimir Putin's trip to the disputed Kuril Islands. Tensions over the Russian-controlled archipel..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How North Korea has profited from its support for Russia",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-north-korea-has-profited-from-its-support-for-russia/a-78345289?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Exceptionally high revenues, particularly from war aid for Russia, are consolidating the power of North Korea's autocratic leader. A small number of p..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Brazil orders Discord to halt livestreaming after teen death",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/brazil-orders-discord-to-halt-livestreaming-after-teen-death/a-78343328?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Brazil has ordered Discord to suspend livestreaming as authorities scrutinize how the platform protects young users. The move follows a case described..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Eurovision bars countries at war from hosting",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eurovision-bars-countries-at-war-from-hosting/a-78341915?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A Eurovision victory will no longer guarantee hosting rights if war or a wider security crisis affects the winning country. The change could have part..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia: Why is the Yabloko party barred from the elections?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-why-is-the-yabloko-party-barred-from-the-elections/a-78341971?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russia's supreme court has banned the anti-war opposition party Yabloko from September's parliamentary elections. What does this mean for the election..."
     }
 ]
