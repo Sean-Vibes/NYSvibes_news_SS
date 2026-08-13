@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "California county cuts cannabis taxes after short-lived automatic increase",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/california-county-cuts-cannabis-taxes-after-short-lived-automatic-increase/617404/",
+        "summary": "<p>San Luis Obispo County supervisors agreed to cut a cannabis tax, imposed on operators' gross receipts, back down to 6% starting Oct. 1 after a hike..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "The founders who reacquired their beverage brand from a cannabis MSO",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/how-levia-thc-beverage-brand-returned-to-its-founders/617367/",
@@ -63,17 +70,10 @@
         "summary": "<p>Schedule 3 lets medical cannabis operators deduct rent for the first time. </p>\n<p><a href=\"https://mjbizdaily.com/news/how-federal-marijuana-resch..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Will Congress save hemp THC beverages from the looming federal ban?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/will-congress-save-hemp-thc-beverages-from-the-looming-federal-ban/617359/",
-        "summary": "<p>Hemp THC beverage operators are hopeful a bipartisan proposal to legalize and tax the sale of low-dose drinks with hemp-derived THC is a sign that ..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Hegseth says reports about poor conditions aboard carrier are misrepresented",
-        "image": "https://media.zenfs.com/en/reuters.com/af0c0dff3a0fecf8d0c62dafe665f3e0.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/hegseth-says-reports-poor-conditions-160131843.html",
+        "image": "https://media.zenfs.com/en/nbcu_713/ba42132ddc2f0f4f651953612aa4eafd.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/hegseth-says-reports-about-poor-conditions-aboard-carrier-are-misrepresented-172931843.html",
         "summary": "..."
     },
     {
@@ -85,9 +85,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump doesn't dismiss declaring national emergency to restrict voting",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/92c148843800815186ade8f08c8c6f77.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-doesnt-dismiss-declaring-national-214352655.html",
+        "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/5605656c616e692f064692d5f781c987.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/vultures-disappearing-nigeria-vulture-king-231935346.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/5605656c616e692f064692d5f781c987.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/vultures-disappearing-nigeria-vulture-king-231935346.html",
+        "title": "Trump doesn't dismiss declaring national emergency to restrict voting",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/92c148843800815186ade8f08c8c6f77.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-doesnt-dismiss-declaring-national-214352655.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Kennedy Center board approves Trump name on facade, renovation plan",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/kennedy-center-board-approves-trump-name-on-facade-renovation-plan/a-78359935?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The move appears designed to circumvent a judge's ruling that the US president's name should be removed, potentially setting the stage for a new legal..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukraine-s-monthly-civilian-casualties-highest-since-2022/live-78351269?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "UN monitors say civilian casualties in Ukraine hit their highest monthly level since the start of Russia's full-scale war. The latest attacks included..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How Germany's drone defense fails",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-germany-s-drone-defense-fails/a-78353414?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Drone defense is a priority for the German government. The latest dramatic incident involving an explosive-laden drone at Leipzig airport shows there ..."
     }
 ]
