@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Texas Officials Call Hemp A Crisis While Bigger Public Safety Threats Go Unanswered (Op-Ed)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/texas-officials-call-hemp-a-crisis-while-bigger-public-safety-threats-go-unanswered-op-ed/",
+        "summary": "<p>&#8220;Texas can protect children and consumers without rebuilding the drug war.&#8221; By Michael A. Davis Texas officials have spent years treati..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Ohio Marijuana Prices Are Much Higher Than Those In Neighboring Michigan",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/ohio-marijuana-prices-are-much-higher-than-those-in-neighboring-michigan/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/trump-misinformed-on-hemp-issue-republican-senator-says-newsletter-august-13-2026/",
         "summary": "<p>Houston marijuana measure to ballot; NC hemp op-ed; VA gov &#38; AG defend hemp ban from lawsuit Subscribe\u00a0to receive Marijuana Moment\u2019s newsletter..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Congress Can Learn Lessons About The Hemp Debate From North Carolina\u2019s Experience (Op-Ed)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/congress-can-learn-lessons-about-the-hemp-debate-from-north-carolinas-experience-op-ed/",
-        "summary": "<p>&#8220;Lawmakers have an opportunity to build a regulatory framework that protects consumers while preserving access to products that millions of A..."
     },
     {
         "source": "MJBizDaily",
@@ -71,16 +71,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump administration finalizes ownership reporting exemption for US firms",
-        "image": "https://media.zenfs.com/en/reuters.com/18a1e5b30f69549e0ffe16abc2f37567.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-finalizes-ownership-reporting-210336732.html",
+        "title": "Hegseth says reports about poor conditions aboard carrier are misrepresented",
+        "image": "https://media.zenfs.com/en/reuters.com/af0c0dff3a0fecf8d0c62dafe665f3e0.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/hegseth-says-reports-poor-conditions-160131843.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "How the West watched most historic solar eclipse since 1999",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/6b9d9bf09ce2009453dd4392f50bb4ee.jpg",
-        "link": "https://www.yahoo.com/news/science/articles/west-watched-most-historic-solar-193751065.html",
+        "title": "Deadly disease outbreak kills 2,000 as experts reveal what Americans should know",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/3ecf18958349802de89f3326052a0ea4.jpg",
+        "link": "https://www.yahoo.com/news/science/articles/deadly-disease-outbreak-kills-2-110032021.html",
         "summary": "..."
     },
     {
@@ -92,17 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Law firm with ties to Trump administration declines offer to represent migrant children",
-        "image": "https://media.zenfs.com/en/ap.org/245906b7ff6362930c8d24f7b5bcd743.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/law-firm-ties-trump-administration-195033707.html",
+        "title": "Trump White House says it's losing $19B-$26B a year in revenue as countries dodge tariffs",
+        "image": "https://media.zenfs.com/en/ap.org/cff94b35bc270602ac29871c31cffd5c.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-white-house-says-losing-163701417.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Deadly disease outbreak kills 2,000 as experts reveal what Americans should know",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/3ecf18958349802de89f3326052a0ea4.jpg",
-        "link": "https://www.yahoo.com/news/science/articles/deadly-disease-outbreak-kills-2-110032021.html",
+        "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/5605656c616e692f064692d5f781c987.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/vultures-disappearing-nigeria-vulture-king-231935346.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "When the earth moves: six major earthquakes of 2026",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/when-the-earth-moves-six-major-earthquakes-of-2026/a-78358208?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Colombia, Venezuela, Mindanao: Thousands have died in powerful earthquakes this year. Six such events show that the magnitude of the quake is not the ..."
     },
     {
         "source": "Deutsche Welle",
@@ -127,16 +134,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Eritrea: Key geopolitical player in the Horn of Africa",
+        "title": "Eritrea: Rising political weight along key shipping arteries",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eritrea-key-geopolitical-player-in-the-horn-of-africa/a-78335316?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/eritrea-rising-political-weight-along-key-shipping-arteries/a-78335316?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Amid growing tensions and security risks in the Horn of Africa, Eritrea, with its strategically important coastal points on the Red Sea, is emerging a..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "What would a North Korean troop surge mean for Ukraine war?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/what-would-a-north-korean-troop-surge-mean-for-ukraine-war/a-78350896?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukraine is claiming that North Korea is preparing to send tens of thousands more troops to Russia, where they'll gain valuable battlefield experience...."
     }
 ]
