@@ -85,16 +85,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/5605656c616e692f064692d5f781c987.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/vultures-disappearing-nigeria-vulture-king-231935346.html",
+        "title": "Stacey Abrams tells nodding Kamala Harris that southerners have lived under 'soft authoritarianism' since 1776",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/f9ca7f89efae71c8efb770c0ad82dbbb.png",
+        "link": "https://www.yahoo.com/news/politics/articles/stacey-abrams-tells-nodding-kamala-211802146.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump White House says it's losing $19B-$26B a year in revenue as countries dodge tariffs",
-        "image": "https://media.zenfs.com/en/ap.org/cff94b35bc270602ac29871c31cffd5c.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-white-house-says-losing-163701417.html",
+        "title": "Trump orders Navy to abandon carrier launch system, return to steam catapults",
+        "image": "https://media.zenfs.com/en/reuters.com/07c1a965005d399ed27962c1ad1e0da3.jpg",
+        "link": "https://www.yahoo.com/news/articles/trump-orders-navy-abandon-carrier-214140921.html",
         "summary": "..."
     },
     {
@@ -106,6 +106,13 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Why women are breaking men's endurance records",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/why-women-are-breaking-men-s-endurance-records/a-78362321?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Sophie Woods has completed the 2,000-kilometer Via Alpina faster even than the fastest-ever man. DW explains why she is not the only woman breaking me..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Germany news: Wildfire forces evacuations in western woods",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-wildfire-forces-evacuations-in-western-woods/live-78361311?maca=en-rss-en-all-1573-xml-mrss",
@@ -113,10 +120,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Hunger stones: The history behind 'If you see me, weep'",
+        "title": "Hunger stones: The history behind 'if you see me, weep'",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/hunger-stones-the-history-behind-if-you-see-me-weep/a-78345729?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Centuries-old hunger stones are emerging as Europe's rivers recede. Among the most famous is the D\u011b\u010d\u00edn hunger stone in the Elbe River with its cryptic..."
+        "summary": "Centuries-old hunger stones are emerging as Europe's rivers recede. Among the most famous is the Decin hunger stone in the Elbe River with its cryptic..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-news-7-dead-3-trapped-in-uttarakhand-tunnel-collapse/live-78361577?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A rescue operation continues on Friday morning after a tunnel disaster in India's Uttrakhand state. An Air India flight that had suffered a 300-foot d..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Can childhood trauma be prevented with a drug?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/can-childhood-trauma-be-prevented-with-a-drug/a-78301961?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Researchers in Munich and Stockholm blocked the lifelong social cost of early adversity in mice with a single compound. The catch: it only worked when..."
     }
 ]
