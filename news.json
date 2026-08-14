@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Top Marijuana Advocacy Group Raises Alarm About Initiative To Roll Back Legalization In Massachusetts",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/top-marijuana-advocacy-group-raises-alarm-about-initiative-to-roll-back-legalization-in-massachusetts/",
+        "summary": "<p>One of the nation&#8217;s leading marijuana reform organizations says it would be &#8220;disastrous&#8221; for the cannabis industry is an initiati..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "DEA defends synthetic cannabinoid ban (Newsletter: August 14, 2026)",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/dea-defends-synthetic-cannabinoid-ban-newsletter-august-14-2026/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/ohio-marijuana-prices-are-much-higher-than-those-in-neighboring-michigan/",
         "summary": "<p>&#8220;People were already used to driving to Michigan to purchase cannabis, so as long as there\u2019s still a massive price differential, they\u2019re prob..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Illinois Recreational Marijuana Dispensaries Can Apply To Sell Medical Cannabis With New Form Posted By State Officials",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/illinois-recreational-marijuana-dispensaries-can-apply-to-sell-medical-cannabis-with-new-form-posted-by-state-officials/",
-        "summary": "<p>Illinois officials have posted a new form that recreational marijuana dispensaries can file in order to get permission to begin selling medical can..."
     },
     {
         "source": "MJBizDaily",
@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran's state media mock Trump over airplane switch, meme shows him hiding in a catering truck",
-        "image": "https://media.zenfs.com/en/reuters.com/d00beb7fd85f57ee7915350787d8c00a.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/irans-state-media-mock-trump-115129106.html",
+        "title": "Hegseth says reports about poor conditions aboard carrier are misrepresented",
+        "image": "https://media.zenfs.com/en/nbcu_713/ba42132ddc2f0f4f651953612aa4eafd.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/hegseth-says-reports-about-poor-conditions-aboard-carrier-are-misrepresented-172931843.html",
         "summary": "..."
     },
     {
@@ -85,24 +85,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/5605656c616e692f064692d5f781c987.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/vultures-disappearing-nigeria-vulture-king-231935346.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump White House says it's losing $19B-$26B a year in revenue as countries dodge tariffs",
+        "image": "https://media.zenfs.com/en/ap.org/cff94b35bc270602ac29871c31cffd5c.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-white-house-says-losing-163701417.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Trump Administration Claims Executive Privilege Over White House Conversations With Private Advisers\u00a0 (opinion)",
         "image": "https://media.zenfs.com/en/reason_com_245/6bc7a817a9ee3520198dd9cfb78928df.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/trump-administration-claims-executive-privilege-191644808.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nero\u2019s Bridge emerges from Tiber River as Rome faces water crisis",
-        "image": "https://media.zenfs.com/en/ap.org/568d01bd470c8641c7b726b0df29c29b.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/nero-bridge-emerges-tiber-river-165915195.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Fact check: False claims target US Senate candidate Abdul El-Sayed",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/fact-check-false-claims-target-us-senate-candidate-abdul-el-sayed/a-78340951?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Abdul El-Sayed, who could become the first Muslim elected to the US Senate if he wins in November, has been targeted by false claims online following ..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Hospital managers face demotion and pay cuts",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/1b69777f022685f848c9d4a46d6ecd95.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/hospital-managers-face-demotion-pay-053325269.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Can a massive Madonna help slow secularization in Poland?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/can-a-massive-madonna-help-slow-secularization-in-poland/a-78369179?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Europe's largest statue of the Virgin Mary will be inaugurated on Saturday in the Polish village of Konotopie. What will the monument mean for the vil..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "NATO jets shoot down drone over Latvia",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/nato-jets-shoot-down-drone-over-latvia/a-78366346?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Jets have shot down a foreign drone over Latvia after it entered the Baltic state's airspace. Its origin remains unclear, but the incident adds to con..."
     },
     {
         "source": "Deutsche Welle",
@@ -116,27 +137,6 @@
         "title": "Berlin's Russian House: A hub for propaganda and espionage?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/berlin-s-russian-house-a-hub-for-propaganda-and-espionage/a-73037945?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The \"Russian House\" stands in the heart of Berlin. Critics have long said it is used to spread propaganda for Putin's Russia. Now, French authorities ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why women are breaking men's endurance records",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-women-are-breaking-men-s-endurance-records/a-78362321?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Sophie Woods has completed the 2,000-kilometer Via Alpina faster even than the fastest-ever man. DW explains why she is not the only woman breaking me..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Wildfire forces evacuations in western woods",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-wildfire-forces-evacuations-in-western-woods/live-78361311?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Hundreds of villagers have been evacuated in western Germany after a wildfire spread close to a village. Meanwhile, farmers have warned that drought a..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hunger stones: The history behind 'if you see me, weep'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hunger-stones-the-history-behind-if-you-see-me-weep/a-78345729?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Centuries-old hunger stones are emerging as Europe's rivers recede. Among the most famous is the Decin hunger stone in the Elbe River with its cryptic..."
+        "summary": "The Russian House stands in the heart of Berlin. Critics have long said it's being used to spread propaganda for Putin's Russia. Now, French authoriti..."
     }
 ]
