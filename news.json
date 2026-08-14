@@ -78,13 +78,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Stacey Abrams tells nodding Kamala Harris that southerners have lived under 'soft authoritarianism' since 1776",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/f9ca7f89efae71c8efb770c0ad82dbbb.png",
-        "link": "https://www.yahoo.com/news/politics/articles/stacey-abrams-tells-nodding-kamala-211802146.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Mark Kelly on aircraft carrier catapult order: \u2018Donald Trump knows nothing about this stuff\u2019",
         "image": "https://media.zenfs.com/en/the_hill_articles_341/d40ac4064309b0a854e747df7ee10ba8.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/mark-kelly-aircraft-carrier-catapult-131140532.html",
@@ -92,9 +85,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Afghanistan marks 5 years under the Taliban with safer streets but pleas for jobs and education",
-        "image": "https://media.zenfs.com/en/ap.org/13d42282d3f99523b085d50ef1c3ea9a.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/afghanistan-marks-5-years-under-090022257.html",
+        "title": "Stacey Abrams tells nodding Kamala Harris that southerners have lived under 'soft authoritarianism' since 1776",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/f9ca7f89efae71c8efb770c0ad82dbbb.png",
+        "link": "https://www.yahoo.com/news/politics/articles/stacey-abrams-tells-nodding-kamala-211802146.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Russia seeks answers from US about alleged support for Ukrainian attacks, Lavrov says",
+        "image": "https://media.zenfs.com/en/reuters.com/01e42c9c557d9350956f2b5648e208fe.jpg",
+        "link": "https://www.yahoo.com/news/articles/russia-seeks-answers-us-alleged-102342301.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/reason_com_245/6bc7a817a9ee3520198dd9cfb78928df.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/trump-administration-claims-executive-privilege-191644808.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "In Germany record heat meets climate action fatigue",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/in-germany-record-heat-meets-climate-action-fatigue/a-78374727?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "For the German government climate action does not seem to be a priority \u2014 despite record temperatures, heat-related deaths and drought. Why don't more..."
     },
     {
         "source": "Deutsche Welle",
@@ -120,9 +127,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "France: Top court blocks social media ban for children",
+        "title": "France: Top watchdog blocks social media ban for children",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/france-top-court-blocks-social-media-ban-for-children/a-78373812?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/france-top-watchdog-blocks-social-media-ban-for-children/a-78373812?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Denying access to platforms such as Facebook, TikTok and YouTube for under-15s would infringe upon freedom of expression, the Constitutional Council h..."
     },
     {
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/eco-wins-a-dutch-gym-for-crops-a-climate-ready-city-and-a-beaver-comeback/a-78372639?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Dutch crops hit the \"climate gym,\" a German city is constructing for more extreme weather, and beavers are restoring rivers across Europe. This week's..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Taliban pressured by insurgents after 5 years in power",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/taliban-pressured-by-insurgents-after-5-years-in-power/a-78371144?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Taliban managed to retake power in Afghanistan on August 15, 2021. Now, they face armed factions who challenge the Taliban rule and strain their c..."
     }
 ]
