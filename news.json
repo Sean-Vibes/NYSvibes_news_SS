@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Talarico Suggests Paxton Cracked Down On Cannabis To \u2018Enrich\u2019 Donors In Alcohol And Tobacco Industries",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/talarico-suggests-paxton-cracked-down-on-cannabis-to-enrich-donors-in-alcohol-and-tobacco-industries/",
+        "summary": "<p>Texas Democratic U.S. Senate candidate James Talarico is suggesting that his Republican opponent for the seat supports banning cannabis in order to..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Top Marijuana Advocacy Group Raises Alarm About Initiative To Roll Back Legalization In Massachusetts",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/top-marijuana-advocacy-group-raises-alarm-about-initiative-to-roll-back-legalization-in-massachusetts/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/texas-officials-call-hemp-a-crisis-while-bigger-public-safety-threats-go-unanswered-op-ed/",
         "summary": "<p>&#8220;Texas can protect children and consumers without rebuilding the drug war.&#8221; By Michael A. Davis Texas officials have spent years treati..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Ohio Marijuana Prices Are Much Higher Than Those In Neighboring Michigan",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/ohio-marijuana-prices-are-much-higher-than-those-in-neighboring-michigan/",
-        "summary": "<p>&#8220;People were already used to driving to Michigan to purchase cannabis, so as long as there\u2019s still a massive price differential, they\u2019re prob..."
     },
     {
         "source": "MJBizDaily",
@@ -85,9 +85,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/5605656c616e692f064692d5f781c987.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/vultures-disappearing-nigeria-vulture-king-231935346.html",
+        "title": "Trump Administration Claims Executive Privilege Over White House Conversations With Private Advisers\u00a0 (opinion)",
+        "image": "https://media.zenfs.com/en/reason_com_245/6bc7a817a9ee3520198dd9cfb78928df.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-claims-executive-privilege-191644808.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump Administration Claims Executive Privilege Over White House Conversations With Private Advisers\u00a0 (opinion)",
-        "image": "https://media.zenfs.com/en/reason_com_245/6bc7a817a9ee3520198dd9cfb78928df.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-claims-executive-privilege-191644808.html",
+        "title": "Hospital managers face demotion and pay cuts",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/1b69777f022685f848c9d4a46d6ecd95.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/hospital-managers-face-demotion-pay-053325269.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "France: Top court blocks social media ban for children",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/france-top-court-blocks-social-media-ban-for-children/a-78373812?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Denying access to platforms such as Facebook, TikTok and YouTube for under-15s would infringe upon freedom of expression, the Constitutional Council h..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Eco wins: A Dutch gym for crops, a climate-ready city and a beaver comeback",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eco-wins-a-dutch-gym-for-crops-a-climate-ready-city-and-a-beaver-comeback/a-78372639?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Dutch crops hit the \"climate gym,\" a German city is constructing for more extreme weather, and beavers are restoring rivers across Europe. This week's..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Taliban pressured by insurgents after 5 years in power",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/taliban-pressured-by-insurgents-after-5-years-in-power/a-78371144?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Taliban managed to retake power in Afghanistan on August 15, 2021. Now, they face armed factions who challenge the Taliban rule and strain their c..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Congo: Ebola cases are rising at record pace",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/congo-ebola-cases-are-rising-at-record-pace/a-78364053?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Ebola virus is spreading rapidly in the DRC. In Kinshasa, a city of millions, fears of a serious health crisis are growing. Hospitals are scrambli..."
     },
     {
         "source": "Deutsche Welle",
@@ -110,33 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/fact-check-false-claims-target-us-senate-candidate-abdul-el-sayed/a-78340951?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Abdul El-Sayed, who could become the first Muslim elected to the US Senate if he wins in November, has been targeted by false claims online following ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Can a massive Madonna help slow secularization in Poland?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/can-a-massive-madonna-help-slow-secularization-in-poland/a-78369179?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Europe's largest statue of the Virgin Mary will be inaugurated on Saturday in the Polish village of Konotopie. What will the monument mean for the vil..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "NATO jets shoot down drone over Latvia",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nato-jets-shoot-down-drone-over-latvia/a-78366346?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Jets have shot down a foreign drone over Latvia after it entered the Baltic state's airspace. Its origin remains unclear, but the incident adds to con..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Zambia suspends vote count after violence",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/zambia-suspends-vote-count-after-violence/a-78368601?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Zambia has halted the counting and publication of election results after violence targeting poll workers and reports of stolen ballots. The electoral ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Berlin's Russian House: A hub for propaganda and espionage?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/berlin-s-russian-house-a-hub-for-propaganda-and-espionage/a-73037945?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Russian House stands in the heart of Berlin. Critics have long said it's being used to spread propaganda for Putin's Russia. Now, French authoriti..."
     }
 ]
