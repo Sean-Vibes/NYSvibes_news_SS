@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "Massachusetts cannabis regulators catch THC potency inflation in recent sting",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/massachusetts-cannabis-regulators-catch-thc-potency-inflation-in-recent-sting/617424/",
+        "summary": "<p>About 20% of more than 60 cannabis flower samples tested by the state CCC yielded results outside of an acceptable range, regulators said.</p>\n<p><..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "Ohio cannabis sales increase, on pace to set new annual record",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/ohio-cannabis-sales-increase-on-pace-to-set-new-annual-record/617420/",
@@ -63,13 +70,6 @@
         "summary": "<p>San Luis Obispo County supervisors agreed to cut a cannabis tax, imposed on operators' gross receipts, back down to 6% starting Oct. 1 after a hike..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "The founders who reacquired their beverage brand from a cannabis MSO",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/how-levia-thc-beverage-brand-returned-to-its-founders/617367/",
-        "summary": "<p>LEVIA's founders sold their cannabis beverage brand to Ayr Wellness, then spent two years buying it back.</p>\n<p><a href=\"https://mjbizdaily.com/ne..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Hegseth says reports about poor conditions aboard carrier are misrepresented",
         "image": "https://media.zenfs.com/en/nbcu_713/ba42132ddc2f0f4f651953612aa4eafd.jpg",
@@ -92,17 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Wildfires in Britain hit record levels after homes burn in intense heat",
-        "image": "https://media.zenfs.com/en/reuters.com/09d6a29ec9fae73acea37348d744572a.jpg",
-        "link": "https://www.yahoo.com/news/articles/wildfires-britain-hit-record-levels-124129006.html",
+        "title": "Russia seeks answers from US about alleged support for Ukrainian attacks, Lavrov says",
+        "image": "https://media.zenfs.com/en/reuters.com/01e42c9c557d9350956f2b5648e208fe.jpg",
+        "link": "https://www.yahoo.com/news/articles/russia-seeks-answers-us-alleged-102342301.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "New Yorkers take Zohran Mamdani free bus promise literally as MTA loses millions in skipped fares",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/89bede1a0d9965cf1b4a2a44f8579bbc.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/yorkers-zohran-mamdani-free-bus-141050557.html",
+        "title": "MN Senate candidate ripped for blaming Walz for fraud despite being his #2: 'Knows she's cooked'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/ff767daff3aadf7a5c0ddf8c40764059.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/mn-senate-candidate-ripped-blaming-162958575.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Jason Arday: Ex-Cambridge professor found dead \u2014 reports",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/jason-arday-ex-cambridge-professor-found-dead-reports/a-78377633?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "UK media is reporting that Jason Arday, the youngest ever black professor at Cambridge, was found unresponsive at an address in London. Arday had rece..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-car-industry-hemorrhaging-jobs/live-78374907?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The country's famed auto sector is losing jobs faster than any industrial branch in the economy, official statistics show. Meanwhile, farmers say drou..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "France: Top watchdog blocks social media ban for children",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/france-top-watchdog-blocks-social-media-ban-for-children/a-78373812?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Denying access to platforms such as Facebook, TikTok and YouTube for under-15s would infringe upon freedom of expression, the Constitutional Council h..."
     }
 ]
