@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Appeals court sides with Trump in fight over subpoena of gender-affirming care provider",
-        "image": "https://media.zenfs.com/en/ap.org/96759cad08b3bdc57aae599f1bd807d8.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/appeals-court-sides-trump-fight-202543020.html",
+        "title": "Russia seeks answers from US about alleged support for Ukrainian attacks, Lavrov says",
+        "image": "https://media.zenfs.com/en/reuters.com/01e42c9c557d9350956f2b5648e208fe.jpg",
+        "link": "https://www.yahoo.com/news/articles/russia-seeks-answers-us-alleged-102342301.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,20 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/ff767daff3aadf7a5c0ddf8c40764059.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/mn-senate-candidate-ripped-blaming-162958575.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Donald Trump to declare Hormuz US territory 'soon'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/donald-trump-to-declare-hormuz-us-territory-soon/a-78377755?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Donald Trump said the strait would become part of the US after Iran is defeated. He also told Americans to accept higher gas prices, which have soared..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Trump asks Supreme Court to let White House ballroom construction continue",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-asks-supreme-court-to-let-white-house-ballroom-construction-continue/a-78377695?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Justice Department lawyers echoed the US president's claim that the $400 million White House ballroom \u200bproject is a security necessity...."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/in-germany-record-heat-meets-climate-action-fatigue/a-78374727?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "For the German government climate action does not seem to be a priority \u2014 despite record temperatures, heat-related deaths and drought. Why don't more..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Luigi Mangione pleads guilty to federal stalking charges in Brian Thompson death",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/luigi-mangione-pleads-guilty-to-federal-stalking-charges-in-brian-thompson-death/a-78375740?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The plea resolves the remaining federal charges tied to the killing of UnitedHealthcare CEO Brian Thompson and could affect a separate New York state ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Car industry hemorrhaging jobs",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-car-industry-hemorrhaging-jobs/live-78374907?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The country's famed auto sector is losing jobs faster than any industrial branch in the economy, official statistics show. Meanwhile, farmers say drou..."
     }
 ]
