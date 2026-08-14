@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Marijuana Legalization Boosts Agriculture Jobs In States That Enact It, New Study Shows",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/marijuana-legalization-boosts-agriculture-jobs-in-states-that-enact-it-new-study-shows/",
+        "summary": "<p>States that enact marijuana legalization see jobs in the agriculture sector increase more than they would have without the policy change, according..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Talarico Suggests Paxton Cracked Down On Cannabis To \u2018Enrich\u2019 Donors In Alcohol And Tobacco Industries",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/talarico-suggests-paxton-cracked-down-on-cannabis-to-enrich-donors-in-alcohol-and-tobacco-industries/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/medical-marijuana-improves-pain-sleep-and-anxiety-in-women-with-endometriosis-while-also-reducing-opioid-use-study-shows/",
         "summary": "<p>Medical marijuana helps women with endometriosis achieve long-term improvements in their symptoms while\u00a0also reducing the use of opioids, according..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Texas Officials Call Hemp A Crisis While Bigger Public Safety Threats Go Unanswered (Op-Ed)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/texas-officials-call-hemp-a-crisis-while-bigger-public-safety-threats-go-unanswered-op-ed/",
-        "summary": "<p>&#8220;Texas can protect children and consumers without rebuilding the drug war.&#8221; By Michael A. Davis Texas officials have spent years treati..."
     },
     {
         "source": "MJBizDaily",
@@ -106,6 +106,20 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Luigi Mangione pleads guilty to federal stalking charges in Brian Thompson death",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/luigi-mangione-pleads-guilty-to-federal-stalking-charges-in-brian-thompson-death/a-78375740?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The plea resolves the remaining federal charges tied to the killing of UnitedHealthcare CEO Brian Thompson and could affect a separate New York state ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Car industry hemorrhaging jobs",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-car-industry-hemorrhaging-jobs/live-78374907?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The country's famed auto sector is losing jobs faster than any industrial branch in the economy, official statistics show. Meanwhile, farmers say drou..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "France: Top court blocks social media ban for children",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/france-top-court-blocks-social-media-ban-for-children/a-78373812?maca=en-rss-en-all-1573-xml-mrss",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/taliban-pressured-by-insurgents-after-5-years-in-power/a-78371144?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Taliban managed to retake power in Afghanistan on August 15, 2021. Now, they face armed factions who challenge the Taliban rule and strain their c..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Congo: Ebola cases are rising at record pace",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/congo-ebola-cases-are-rising-at-record-pace/a-78364053?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Ebola virus is spreading rapidly in the DRC. In Kinshasa, a city of millions, fears of a serious health crisis are growing. Hospitals are scrambli..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Fact check: False claims target US Senate candidate Abdul El-Sayed",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fact-check-false-claims-target-us-senate-candidate-abdul-el-sayed/a-78340951?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Abdul El-Sayed, who could become the first Muslim elected to the US Senate if he wins in November, has been targeted by false claims online following ..."
     }
 ]
