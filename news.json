@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "In Republican-led Iowa, the GOP nominee for governor introduces an anti-establishment message",
-        "image": "https://media.zenfs.com/en/ap.org/386f49671d4dada04bd9308f95b42dad.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/iowa-republican-zach-lahn-confronts-040530671.html",
+        "title": "Trump White House says it's losing $19B-$26B a year in revenue as countries dodge tariffs",
+        "image": "https://media.zenfs.com/en/ap.org/cff94b35bc270602ac29871c31cffd5c.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-white-house-says-losing-163701417.html",
         "summary": "..."
     },
     {
@@ -106,10 +106,17 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "US: FDA recalls 19 million eggs over Salmonella risk",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-fda-recalls-19-million-eggs-over-salmonella-risk/a-78378361?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US has issued a serious health warning over the recalled eggs, saying exposure to the potentially contaminated products could cause severe illness..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Indonesia: Strong earthquake hits off coast of Flores island",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/indonesia-strong-earthquake-hits-off-coast-of-flores-island/a-78377990?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "At least two people have died and several buildings were damaged after the powerful magnitude 7.7 earthquake, which was followed by dozens of aftersho..."
+        "summary": "At least five people have died and several buildings were damaged after the powerful magnitude 7.7 earthquake, which was followed by dozens of aftersh..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead/a-78377633?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Jason Arday, the youngest ever Black professor at Cambridge, was found unresponsive at an address in London. Arday had recently resigned in the midst ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Vast German wildfire forces evacuation in Eifel forest",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/vast-german-wildfire-forces-evacuation-in-eifel-forest/live-78361311?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Firefighters tackling the biggest forest fire in the history of North-Rhine Westfalia say residents are unlikely to be able to return on Friday amid h..."
     }
 ]
