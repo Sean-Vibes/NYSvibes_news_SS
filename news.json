@@ -78,13 +78,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mark Kelly on aircraft carrier catapult order: \u2018Donald Trump knows nothing about this stuff\u2019",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/d40ac4064309b0a854e747df7ee10ba8.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/mark-kelly-aircraft-carrier-catapult-131140532.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Stacey Abrams tells nodding Kamala Harris that southerners have lived under 'soft authoritarianism' since 1776",
         "image": "https://media.zenfs.com/en/fox_news_text_979/f9ca7f89efae71c8efb770c0ad82dbbb.png",
         "link": "https://www.yahoo.com/news/politics/articles/stacey-abrams-tells-nodding-kamala-211802146.html",
@@ -92,9 +85,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump White House says it's losing $19B-$26B a year in revenue as countries dodge tariffs",
-        "image": "https://media.zenfs.com/en/ap.org/cff94b35bc270602ac29871c31cffd5c.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-white-house-says-losing-163701417.html",
+        "title": "Mark Kelly on aircraft carrier catapult order: \u2018Donald Trump knows nothing about this stuff\u2019",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/d40ac4064309b0a854e747df7ee10ba8.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/mark-kelly-aircraft-carrier-catapult-131140532.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "In Republican-led Iowa, the GOP nominee for governor introduces an anti-establishment message",
+        "image": "https://media.zenfs.com/en/ap.org/386f49671d4dada04bd9308f95b42dad.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/iowa-republican-zach-lahn-confronts-040530671.html",
         "summary": "..."
     },
     {
