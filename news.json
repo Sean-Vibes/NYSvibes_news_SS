@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "How This Woman Went From Footlocker Exec to Trailblazing Pilot",
-        "image": "https://media.zenfs.com/en/nbcu_713/b2e0d9613ad3f1ae3341a77a256e0731.jpg",
-        "link": "https://www.yahoo.com/news/videos/woman-went-footlocker-exec-trailblazing-134742063.html",
+        "title": "Afghanistan marks 5 years under the Taliban with safer streets but pleas for jobs and education",
+        "image": "https://media.zenfs.com/en/ap.org/f28cb9567c2e5a37b9f888b9ed575f51.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/afghanistan-marks-5-years-under-090022257.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/ff767daff3aadf7a5c0ddf8c40764059.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/mn-senate-candidate-ripped-blaming-162958575.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Indonesia: Strong earthquake hits off coast of Flores island",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/indonesia-strong-earthquake-hits-off-coast-of-flores-island/a-78377990?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A tsunami warning has been issued after the powerful magnitude 7.7 earthquake, which was followed by at least two aftershocks...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/vast-german-wildfire-forces-evacuation-in-eifel-forest/live-78361311?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Firefighters tackling the biggest forest fire in the history of North-Rhine Westfalia say residents are unlikely to be able to return on Friday amid h..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "In Germany record heat meets climate action fatigue",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/in-germany-record-heat-meets-climate-action-fatigue/a-78374727?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "For the German government climate action does not seem to be a priority \u2014 despite record temperatures, heat-related deaths and drought. Why don't more..."
     }
 ]
