@@ -106,9 +106,16 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "In Germany, record heat meets climate action fatigue",
+        "title": "Lebanon says 11 killed in Israeli airstrikes",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/in-germany-record-heat-meets-climate-action-fatigue/a-78374727?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Lebanon's prime minister denounced the attacks on villages in southern Lebanon for targeting civilians in their homes. Israel said it was firing on He..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Climate action doesn't seem to be a priority for Germany \u2014 despite heat-related deaths and drought. Why aren't more people taking to the streets?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/climate-action-doesn-t-seem-to-be-a-priority-for-germany-despite-heat-related-deaths-and-drought-why-aren-t-more-people-taking-to-the-streets/a-78374727?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Climate action does not seem to be a priority for the German government \u2014 despite record temperatures, heat-related deaths and drought. Why aren't mor..."
     },
     {
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/afghan-allies-still-waiting-for-the-safety-germany-promised/a-78319745?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "After the Taliban retook power on August 15, 2021, Berlin promised to bring Afghan staff to Germany. But people are still waiting to leave in Pakistan..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Donald Trump's Latin America allies open arms to Israel",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/donald-trump-s-latin-america-allies-open-arms-to-israel/a-78378930?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "While the ongoing military actions in Gaza and settler attacks on Palestinians in the West Bank have largely isolated Israel globally, Latin America's..."
     }
 ]
