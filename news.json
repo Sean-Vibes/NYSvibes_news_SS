@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "How This Woman Went From Footlocker Exec to Trailblazing Pilot",
-        "image": "https://media.zenfs.com/en/nbcu_713/b2e0d9613ad3f1ae3341a77a256e0731.jpg",
-        "link": "https://www.yahoo.com/news/videos/woman-went-footlocker-exec-trailblazing-134742063.html",
+        "title": "Russia seeks answers from US about alleged support for Ukrainian attacks, Lavrov says",
+        "image": "https://media.zenfs.com/en/reuters.com/01e42c9c557d9350956f2b5648e208fe.jpg",
+        "link": "https://www.yahoo.com/news/articles/russia-seeks-answers-us-alleged-102342301.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,20 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/234844e04c1cab6acd9275af12985887.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/dem-senate-nominee-admits-responsibility-201501948.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India: Modi promises free exam coaching, AI training for youth after protests",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-modi-promises-free-exam-coaching-ai-training-for-youth-after-protests/a-78378982?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Speaking on India's Independence Day, PM Modi announced free online coaching for competitive exams and AI training for 10 million youths, weeks after ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Russia lists research body as 'undesirable'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-russia-lists-research-body-as-undesirable/live-78378773?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Russia has added another German body to its list of \"undesirable organizations.\" A techno parade in Berlin is to take place under high security after ..."
     },
     {
         "source": "Deutsche Welle",
@@ -116,7 +130,7 @@
         "title": "Indonesia: Strong earthquake hits off coast of Flores island",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/indonesia-strong-earthquake-hits-off-coast-of-flores-island/a-78377990?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "At least five people have died and several buildings were damaged after the powerful magnitude 7.7 earthquake, which was followed by dozens of aftersh..."
+        "summary": "At least 20 people have died and several buildings were damaged after the powerful magnitude 7.7 earthquake, which was followed by dozens of aftershoc..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/donald-trump-to-declare-hormuz-us-territory-soon/a-78377755?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Donald Trump said the strait would become part of the US after Iran is defeated. He also told Americans to accept higher gas prices, which have soared..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump asks Supreme Court to let White House ballroom construction continue",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-asks-supreme-court-to-let-white-house-ballroom-construction-continue/a-78377695?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Justice Department lawyers echoed the US president's claim that the $400 million White House ballroom \u200bproject is a security necessity...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Jason Arday: Ex-Cambridge professor at centre of plagiarism scandal found dead",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/jason-arday-ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead/a-78377633?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Jason Arday, the youngest ever Black professor at Cambridge, was found unresponsive at an address in London. Arday had recently resigned in the midst ..."
     }
 ]
