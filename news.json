@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "North Carolina Police Can Search Based On Smell Of Cannabis, Supreme Court Rules",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/north-carolina-police-can-search-based-on-smell-of-cannabis-supreme-court-rules/",
+        "summary": "<p>&#8220;The totality of the circumstances, including the odor of cannabis, provided law enforcement with probable cause to search.&#8221; By Carolin..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Marijuana Legalization Boosts Agriculture Jobs In States That Enact It, New Study Shows",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/marijuana-legalization-boosts-agriculture-jobs-in-states-that-enact-it-new-study-shows/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/dea-defends-synthetic-cannabinoid-ban-newsletter-august-14-2026/",
         "summary": "<p>IL marijuana biz form; Study: Medical cannabis for endometriosis; TX hemp product ban op-ed; OH marijuana prices Subscribe\u00a0to receive Marijuana Mom..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Medical Marijuana Improves Pain, Sleep And Anxiety In Women With Endometriosis While Also Reducing Opioid Use, Study Shows",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/medical-marijuana-improves-pain-sleep-and-anxiety-in-women-with-endometriosis-while-also-reducing-opioid-use-study-shows/",
-        "summary": "<p>Medical marijuana helps women with endometriosis achieve long-term improvements in their symptoms while\u00a0also reducing the use of opioids, according..."
     },
     {
         "source": "MJBizDaily",
@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Teen Dies From Irregular Heartbeat After Taking GLP-1: Report",
-        "image": "https://media.zenfs.com/en/nbcu_713/c27816815b6a48913ff87432faf1a7bd.jpg",
-        "link": "https://www.yahoo.com/news/videos/teen-dies-irregular-heartbeat-taking-174212093.html",
+        "title": "Dem Senate nominee admits 'I take responsibility' after police report alleges he broke down door, punched man",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/234844e04c1cab6acd9275af12985887.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/dem-senate-nominee-admits-responsibility-201501948.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "In Germany, record heat meets climate action fatigue",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/in-germany-record-heat-meets-climate-action-fatigue/a-78374727?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Climate action does not seem to be a priority for the German government \u2014 despite record temperatures, heat-related deaths and drought. Why aren't mor..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/donald-trump-s-latin-america-allies-open-arms-to-israel/a-78378930?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "While the ongoing military actions in Gaza and settler attacks on Palestinians in the West Bank have largely isolated Israel globally, Latin America's..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India: Modi promises free exam coaching, AI training for youth after protests",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-modi-promises-free-exam-coaching-ai-training-for-youth-after-protests/a-78378982?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Speaking on India's Independence Day, PM Modi announced free online coaching for competitive exams and AI training for 10 million youths, weeks after ..."
     }
 ]
