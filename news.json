@@ -85,24 +85,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Exclusive: Israel seizes vast Iran terror axis arsenal with surprising foreign origins",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/932e963bf7e331603f098fa2119ef67c.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/exclusive-israel-seizes-vast-iran-174948173.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "The buck stops somewhere else: A look at Trump's tendency to avoid blame when things go awry",
+        "image": "https://media.zenfs.com/en/ap.org/785871ed3ea91ff9960d0b296a86953f.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/buck-stops-somewhere-else-look-115227385.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Former Bernie Sanders operative warns radical left has 'overtaken' the Democratic Party from within",
         "image": "https://media.zenfs.com/en/fox_news_text_979/6928d76966d0a87311855d4d647015b3.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/former-bernie-sanders-operative-warns-151710125.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Wife of US soldier is removed from deportation flight and released from federal immigration custody",
-        "image": "https://media.zenfs.com/en/ap.org/53778b01246bedfaa47ad36165e4b2ae.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/wife-us-soldier-removed-deportation-133356500.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Belgium: Hundreds evacuated as firefighters battle largest wildfire on record",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/belgium-hundreds-evacuated-as-firefighters-battle-largest-wildfire-on-record/a-78386242?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A rapidly spreading wildfire in the High Fens nature reserve near Belgium's border with Germany has scorched around 2,700 hectares and forced hundreds..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Brave widow of slain UnitedHealthcare CEO Brian Thompson comes face to face with Luigi Mangione for first time",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/8e44551cf54096a0c7248a9df30677ab.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/brave-widow-slain-unitedhealthcare-ceo-195145467.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Iran war: Qatar denies holding missing Iranian fighter pilots",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-qatar-denies-holding-missing-iranian-fighter-pilots/a-78386015?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Tehran said the three pilots \"were captured alive\" by Qatari forces after their fighter jets were shot down in the early days of the US-Israel war wit..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/climate-action-doesn-t-seem-to-be-a-priority-for-germany-despite-heat-related-deaths-and-drought-why-aren-t-more-people-taking-to-the-streets/a-78374727?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Climate action does not seem to be a priority for the German government \u2014 despite record temperatures, heat-related deaths and drought. Why aren't mor..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hawaii under state of emergency ahead of historic hurricane",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hawaii-under-state-of-emergency-ahead-of-historic-hurricane/a-78382001?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A hurricane is forecast to hit the Big Island of Hawaii this weekend, bringing heavy rain and wind. Should it make landfall, Lala would be the first h..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russians snap up new homes built on Ukraine 'graveyard'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russians-snap-up-new-homes-built-on-ukraine-graveyard/a-78360176?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russia is constructing high-rises in the occupied Ukrainian city of Mariupol, on the sites of buildings it destroyed. Who's buying these properties? A..."
     }
 ]
