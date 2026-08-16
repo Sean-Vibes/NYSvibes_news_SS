@@ -71,16 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukrainian drones strike Moscow region, killing one",
-        "image": "https://media.zenfs.com/en/reuters.com/eb42be6b4b6bfb7ddfa8ed1b26f495d2.jpg",
-        "link": "https://www.yahoo.com/news/articles/ukrainian-drones-strike-moscow-region-075250810.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive: Israel seizes vast Iran terror axis arsenal with surprising foreign origins",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/932e963bf7e331603f098fa2119ef67c.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/exclusive-israel-seizes-vast-iran-174948173.html",
+        "title": "Ohio city fires police officer who shot and killed 15-year-old, settles lawsuit with family",
+        "image": "https://media.zenfs.com/en/ap.org/52f95567b6bc2c865483a02a26124f2a.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/ohio-city-fires-police-officer-183112602.html",
         "summary": "..."
     },
     {
@@ -92,9 +85,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ohio city fires police officer who shot and killed 15-year-old, settles lawsuit with family",
-        "image": "https://media.zenfs.com/en/ap.org/52f95567b6bc2c865483a02a26124f2a.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/ohio-city-fires-police-officer-183112602.html",
+        "title": "Exclusive: Israel seizes vast Iran terror axis arsenal with surprising foreign origins",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/932e963bf7e331603f098fa2119ef67c.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/exclusive-israel-seizes-vast-iran-174948173.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Iran war a boon for China's e-trucks, fuelling export surge",
+        "image": "https://media.zenfs.com/en/reuters.com/2156b9aeda119cfb30e153b1a1a00e5d.jpg",
+        "link": "https://finance.yahoo.com/energy/articles/iran-war-boon-chinas-e-230551604.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/1a6ea98ce6f173d5c726aaa922629fcf.jpg",
         "link": "https://www.yahoo.com/news/us/articles/alaska-runner-hospitalized-using-bear-013226158.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Bus crash in Hungary kills at least 12",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/bus-crash-in-hungary-kills-at-least-12/a-78387230?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The driver of a bus that has crashed in Hungary, killing at least 12 people, has been arrested, police say. The bus was carrying Polish pilgrims, repo..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/africa-s-low-key-high-stakes-strait-of-hormuz-diplomacy/a-78376699?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "African governments have kept a low profile on the international stage during the crisis in the Strait of Hormuz. But that doesn't mean they haven't b..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How Germany supports recovery of Berlin Pride attack victims",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-germany-supports-recovery-of-berlin-pride-attack-victims/a-78370256?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After a terrorist attack, public attention tends to focus primarily on the perpetrator. But what about the victims? What support can they expect? And ..."
     }
 ]
