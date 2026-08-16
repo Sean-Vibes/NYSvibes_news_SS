@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump says USS Lincoln's record time at sea during Iran operations 'not nearly long enough'",
-        "image": "https://media.zenfs.com/en/ap.org/66f2db7dbc87fed72a24ab0b2920a3e3.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-says-record-setting-navy-183431551.html",
+        "title": "US special forces ready to step up combat drills in Philippines and help deter aggression in Asia",
+        "image": "https://media.zenfs.com/en/ap.org/457b0862bb13ef0bc5574a7429578838.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/us-special-forces-ready-step-105515041.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/6928d76966d0a87311855d4d647015b3.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/former-bernie-sanders-operative-warns-151710125.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "How Germany supports recovery of Berlin Pride attack victims",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/how-germany-supports-recovery-of-berlin-pride-attack-victims/a-78370256?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After a terrorist attack, public attention tends to focus primarily on the perpetrator. But what about the victims? What support can they expect? And ..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Lebanon's prime minister denounced the attacks on villages in southern Lebanon for targeting civilians in their homes. Israel said it was firing on He..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Climate action doesn't seem to be a priority for Germany \u2014 despite heat-related deaths and drought. Why aren't more people taking to the streets?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/climate-action-doesn-t-seem-to-be-a-priority-for-germany-despite-heat-related-deaths-and-drought-why-aren-t-more-people-taking-to-the-streets/a-78374727?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Climate action does not seem to be a priority for the German government \u2014 despite record temperatures, heat-related deaths and drought. Why aren't mor..."
     }
 ]
