@@ -71,16 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "While Taliban leaders mark 5 years in power in Afghanistan, a UN official warns of a rights crisis",
-        "image": "https://media.zenfs.com/en/ap.org/6b808d4e8506f19b277d82ab8aecb1d3.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/while-taliban-leaders-mark-5-093849051.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Psaki attacks outgoing press secretary Karoline Leavitt as a liar, claims she faced hardly any tough questions",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/36e4112971b35ad6ae5545e17120139c.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/psaki-attacks-outgoing-press-secretary-162537936.html",
+        "title": "The buck stops somewhere else: A look at Trump's tendency to avoid blame when things go awry",
+        "image": "https://media.zenfs.com/en/ap.org/785871ed3ea91ff9960d0b296a86953f.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/buck-stops-somewhere-else-look-115227385.html",
         "summary": "..."
     },
     {
@@ -92,16 +85,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive-US to tell partners they must pick sides in AI race with China",
-        "image": "https://media.zenfs.com/en/reuters.com/93426a6da5437f3b01a58b3eb5dea858.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/exclusive-us-tell-partners-must-210941673.html",
+        "title": "Brave widow of slain UnitedHealthcare CEO Brian Thompson comes face to face with Luigi Mangione for first time",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/8e44551cf54096a0c7248a9df30677ab.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/brave-widow-slain-unitedhealthcare-ceo-195145467.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump scores major immigration victory as judge clears way to end TPS protections for thousands of Somalis",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/008a5833c94a19581aa743ca66d6baaa.png",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-scores-major-immigration-victory-094312228.html",
+        "title": "While Taliban leaders mark 5 years in power in Afghanistan, a UN official warns of a rights crisis",
+        "image": "https://media.zenfs.com/en/ap.org/6b808d4e8506f19b277d82ab8aecb1d3.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/while-taliban-leaders-mark-5-093849051.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Nearly 10 years after a Florida teen vanished in the middle of the night, detectives turn to psychics for help",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/46352cf3d37af8a8ec4c8af40660b8cc.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/nearly-10-years-florida-teen-103030685.html",
         "summary": "..."
     },
     {
@@ -137,6 +137,6 @@
         "title": "Troops from North Korea to boost Russia's Ukraine forces",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Intelligence agencies report that North Korea is preparing to send up to 50,000 troops to Russia. But military experts doubt that this will make a fun..."
+        "summary": "Intelligence agencies report that North Korea is preparing to send up to 50,000 troops to Russia. But military experts doubt this will make a fundamen..."
     }
 ]
