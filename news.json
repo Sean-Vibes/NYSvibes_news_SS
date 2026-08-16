@@ -78,13 +78,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mark Kelly on aircraft carrier catapult order: \u2018Donald Trump knows nothing about this stuff\u2019",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/d40ac4064309b0a854e747df7ee10ba8.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/mark-kelly-aircraft-carrier-catapult-131140532.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Exclusive: Israel seizes vast Iran terror axis arsenal with surprising foreign origins",
         "image": "https://media.zenfs.com/en/fox_news_text_979/932e963bf7e331603f098fa2119ef67c.jpg",
         "link": "https://www.yahoo.com/news/world/articles/exclusive-israel-seizes-vast-iran-174948173.html",
@@ -92,9 +85,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The buck stops somewhere else: A look at Trump's tendency to avoid blame when things go awry",
-        "image": "https://media.zenfs.com/en/ap.org/785871ed3ea91ff9960d0b296a86953f.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/buck-stops-somewhere-else-look-115227385.html",
+        "title": "Mark Kelly on aircraft carrier catapult order: \u2018Donald Trump knows nothing about this stuff\u2019",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/d40ac4064309b0a854e747df7ee10ba8.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/mark-kelly-aircraft-carrier-catapult-131140532.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump says USS Lincoln's record time at sea during Iran operations 'not nearly long enough'",
+        "image": "https://media.zenfs.com/en/ap.org/66f2db7dbc87fed72a24ab0b2920a3e3.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-says-record-setting-navy-183431551.html",
         "summary": "..."
     },
     {
