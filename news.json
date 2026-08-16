@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ohio city fires police officer who shot and killed 15-year-old, settles lawsuit with family",
-        "image": "https://media.zenfs.com/en/ap.org/52f95567b6bc2c865483a02a26124f2a.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/ohio-city-fires-police-officer-183112602.html",
+        "title": "Iran war a boon for China's e-trucks, fuelling export surge",
+        "image": "https://media.zenfs.com/en/reuters.com/2156b9aeda119cfb30e153b1a1a00e5d.jpg",
+        "link": "https://finance.yahoo.com/energy/articles/iran-war-boon-chinas-e-230551604.html",
         "summary": "..."
     },
     {
@@ -85,38 +85,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive: Israel seizes vast Iran terror axis arsenal with surprising foreign origins",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/932e963bf7e331603f098fa2119ef67c.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/exclusive-israel-seizes-vast-iran-174948173.html",
+        "title": "Psaki attacks outgoing press secretary Karoline Leavitt as a liar, claims she faced hardly any tough questions",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/36e4112971b35ad6ae5545e17120139c.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/psaki-attacks-outgoing-press-secretary-162537936.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran war a boon for China's e-trucks, fuelling export surge",
-        "image": "https://media.zenfs.com/en/reuters.com/2156b9aeda119cfb30e153b1a1a00e5d.jpg",
-        "link": "https://finance.yahoo.com/energy/articles/iran-war-boon-chinas-e-230551604.html",
+        "title": "One woman's struggle to survive, 5 years after the Taliban took Kabul, in photos",
+        "image": "https://media.zenfs.com/en/ap.org/52b4a445c7aec9c5c077df59bc488f61.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/one-womans-struggle-survive-5-192146149.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Alaska runner hospitalized after using bear spray to fight off brown bear on Alaska trail",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/1a6ea98ce6f173d5c726aaa922629fcf.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/alaska-runner-hospitalized-using-bear-013226158.html",
+        "title": "Trump scores major immigration victory as judge clears way to end TPS protections for thousands of Somalis",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/008a5833c94a19581aa743ca66d6baaa.png",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-scores-major-immigration-victory-094312228.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Hundreds flee as Belgium battles wildfire at German border",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/hundreds-flee-as-belgium-battles-wildfire-at-german-border/a-78386242?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A rapidly spreading wildfire has scorched about 2,700 hectares in the High Fens nature reserve near Belgium's border with Germany. The German town of ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine launches one of its largest attacks of war",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-launches-one-of-its-largest-attacks-of-war/a-78386779?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Moscow says hundreds of drones targeted the Russian capital overnight, with six fatalities in the Russian capital and southern Rostov region. Five peo..."
     },
     {
         "source": "Deutsche Welle",
         "title": "Bus crash in Hungary kills at least 12",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/bus-crash-in-hungary-kills-at-least-12/a-78387230?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The driver of a bus that has crashed in Hungary, killing at least 12 people, has been arrested, police say. The bus was carrying Polish pilgrims, repo..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Moscow says 600 drones targeted region overnight",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/moscow-says-600-drones-targeted-region-overnight/a-78386779?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Moscow says hundreds of drones targeted the Russian capital overnight, while NATO jets were again called into action farther south. Six people were re..."
+        "summary": "Police say they have arrested the driver of a bus that crashed in Hungary, killing at least 12 people. The bus was carrying Polish pilgrims, media rep..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is expected to weaken gradually. However, the hurricane caused roads ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Africa's low-key high-stakes Strait of Hormuz diplomacy",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/africa-s-low-key-high-stakes-strait-of-hormuz-diplomacy/a-78376699?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "African governments have kept a low profile on the international stage during the crisis in the Strait of Hormuz. But that doesn't mean they haven't b..."
     }
 ]
