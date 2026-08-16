@@ -78,9 +78,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Four more belugas arrive at Chicago aquarium from shuttered Canadian theme park",
-        "image": "https://media.zenfs.com/en/ap.org/e4259acbbfd83c0d4a00b787b1e01796.jpg",
-        "link": "https://www.yahoo.com/news/science/articles/four-more-belugas-arrive-chicago-193906623.html",
+        "title": "Nearly 10 years after a Florida teen vanished in the middle of the night, detectives turn to psychics for help",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/46352cf3d37af8a8ec4c8af40660b8cc.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/nearly-10-years-florida-teen-103030685.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Exclusive: Israel seizes vast Iran terror axis arsenal with surprising foreign origins",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/932e963bf7e331603f098fa2119ef67c.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/exclusive-israel-seizes-vast-iran-174948173.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Earthquake hits Spanish city of Granada, buildings and cars damaged",
+        "image": "https://media.zenfs.com/en/reuters.com/164c56fe5a527858a24abc251140708a.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/earthquake-hits-spanish-city-granada-064149724.html",
         "summary": "..."
     },
     {
@@ -91,18 +105,11 @@
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "While Taliban leaders mark 5 years in power in Afghanistan, a UN official warns of a rights crisis",
-        "image": "https://media.zenfs.com/en/ap.org/6b808d4e8506f19b277d82ab8aecb1d3.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/while-taliban-leaders-mark-5-093849051.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nearly 10 years after a Florida teen vanished in the middle of the night, detectives turn to psychics for help",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/46352cf3d37af8a8ec4c8af40660b8cc.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/nearly-10-years-florida-teen-103030685.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators in..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/bus-crash-in-hungary-kills-at-least-12/a-78387230?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Police say they have arrested the driver of a bus that crashed in Hungary, killing at least 12 people. The bus was carrying Polish pilgrims, media rep..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Troops from North Korea to boost Russia's Ukraine forces",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Intelligence agencies report that North Korea is preparing to send up to 50,000 troops to Russia. But military experts doubt this will make a fundamen..."
     }
 ]
