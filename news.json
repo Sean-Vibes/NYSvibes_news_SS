@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Republicans won the redistricting competition. Don't tell that to this California congressman",
-        "image": "https://media.zenfs.com/en/ap.org/47d3c100357563a0836bc16c6c63b644.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/republicans-won-redistricting-competition-dont-114232311.html",
+        "title": "While Taliban leaders mark 5 years in power in Afghanistan, a UN official warns of a rights crisis",
+        "image": "https://media.zenfs.com/en/ap.org/6b808d4e8506f19b277d82ab8aecb1d3.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/while-taliban-leaders-mark-5-093849051.html",
         "summary": "..."
     },
     {
@@ -92,17 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Israel's Ben Gvir advocates killing '30 to 40' people in Gaza nightly while speaking to ex-hostage",
-        "image": "https://media.zenfs.com/en/ap.org/569183c54cf233800a3d21bf53326242.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/israels-ben-gvir-advocates-killing-141720683.html",
+        "title": "Exclusive-US to tell partners they must pick sides in AI race with China",
+        "image": "https://media.zenfs.com/en/reuters.com/93426a6da5437f3b01a58b3eb5dea858.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/exclusive-us-tell-partners-must-210941673.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The cost of long-term care keeps going up, and it's a growing problem for Americans of all ages",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/51640c9af6f8fc7b171a17009dc347da.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/cost-long-term-care-keeps-085801088.html",
+        "title": "Trump scores major immigration victory as judge clears way to end TPS protections for thousands of Somalis",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/008a5833c94a19581aa743ca66d6baaa.png",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-scores-major-immigration-victory-094312228.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine attacks Wildberries, Russia's biggest online market",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-attacks-wildberries-russia-s-biggest-online-market/a-78384605?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Since mid-July, Ukraine has been targeting warehouses of Russia's largest online retailer Wildberries almost every day. Ukraine says it's disrupting f..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Intelligence agencies report that North Korea is preparing to send up to 50,000 troops to Russia. But military experts doubt that this will make a fun..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is gradually weakening. However, the hurricane caused roads to flood ..."
     }
 ]
