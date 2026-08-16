@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The buck stops somewhere else: A look at Trump's tendency to avoid blame when things go awry",
-        "image": "https://media.zenfs.com/en/ap.org/785871ed3ea91ff9960d0b296a86953f.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/buck-stops-somewhere-else-look-115227385.html",
+        "title": "Earthquake hits Spanish city of Granada, buildings and cars damaged",
+        "image": "https://media.zenfs.com/en/reuters.com/164c56fe5a527858a24abc251140708a.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/earthquake-hits-spanish-city-granada-064149724.html",
         "summary": "..."
     },
     {
@@ -92,17 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Earthquake hits Spanish city of Granada, buildings and cars damaged",
-        "image": "https://media.zenfs.com/en/reuters.com/164c56fe5a527858a24abc251140708a.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/earthquake-hits-spanish-city-granada-064149724.html",
+        "title": "Russia hits steel plant in new strikes on Ukraine, Kyiv attacks Moscow region",
+        "image": "https://media.zenfs.com/en/reuters.com/6e311b7c601811fba4046cd7a4afb3db.jpg",
+        "link": "https://www.yahoo.com/news/articles/russian-missile-attack-kyiv-sparks-013305567.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Brave widow of slain UnitedHealthcare CEO Brian Thompson comes face to face with Luigi Mangione for first time",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/8e44551cf54096a0c7248a9df30677ab.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/brave-widow-slain-unitedhealthcare-ceo-195145467.html",
+        "title": "Murder inquiry after man bitten by dog dies",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/e8c1dc5b83b4f6d944d26a47ffacd1ba.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/murder-inquiry-man-bitten-dog-115818662.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Italy: Thieves steal key Renaissance paintings in Sicily",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/italy-thieves-steal-key-renaissance-paintings-in-sicily/a-78389559?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Four Renaissance paintings by Antonello da Messina were stolen from his Sicilian hometown on Saturday after surviving earthquakes and centuries of his..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukraine-launches-one-of-its-largest-attacks-of-war/a-78386779?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Russia says hundreds of drones targeted Moscow overnight, with six fatalities in the capital and southern Rostov region. Five people were killed in st..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Bus crash in Hungary kills at least 12",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/bus-crash-in-hungary-kills-at-least-12/a-78387230?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Police say they have arrested the driver of a bus that crashed in Hungary, killing at least 12 people. The bus was carrying Polish pilgrims, media rep..."
     }
 ]
