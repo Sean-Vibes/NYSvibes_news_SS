@@ -71,16 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Lala is again a tropical storm, sending drenching rain and winds across the Hawaiian islands",
-        "image": "https://media.zenfs.com/en/ap.org/0f23a43f394c890fefb1c8d7e5c84065.jpg",
-        "link": "https://www.yahoo.com/news/weather-news/articles/lala-again-tropical-storm-sending-125604312.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "The cost of long-term care keeps going up, and it's a growing problem for Americans of all ages",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/51640c9af6f8fc7b171a17009dc347da.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/cost-long-term-care-keeps-085801088.html",
+        "title": "Iran war a boon for China's e-trucks, fuelling export surge",
+        "image": "https://media.zenfs.com/en/reuters.com/2156b9aeda119cfb30e153b1a1a00e5d.jpg",
+        "link": "https://finance.yahoo.com/energy/articles/iran-war-boon-chinas-e-230551604.html",
         "summary": "..."
     },
     {
@@ -92,16 +85,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Republicans won the redistricting competition. Don't tell that to this California congressman",
-        "image": "https://media.zenfs.com/en/ap.org/47d3c100357563a0836bc16c6c63b644.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/republicans-won-redistricting-competition-dont-114232311.html",
+        "title": "The cost of long-term care keeps going up, and it's a growing problem for Americans of all ages",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/51640c9af6f8fc7b171a17009dc347da.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/cost-long-term-care-keeps-085801088.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Colorado woman says she saw 7- to 9-foot Bigfoot \u2018gliding\u2019 in woods",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/d1454e50a34e02fa7b219c538aafd313.jpg",
-        "link": "https://www.yahoo.com/news/science/articles/colorado-woman-says-she-saw-233159928.html",
+        "title": "Exclusive-US to tell partners they must pick sides in AI race with China",
+        "image": "https://media.zenfs.com/en/reuters.com/93426a6da5437f3b01a58b3eb5dea858.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/exclusive-us-tell-partners-must-210941673.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Chad's president pardons main rival and opposition leader in jail",
+        "image": "https://media.zenfs.com/en/reuters.com/fc4ad2dd3aba26fc738d58bcde164610.jpg",
+        "link": "https://www.yahoo.com/news/articles/chads-president-pardons-main-rival-114959444.html",
         "summary": "..."
     },
     {
@@ -137,6 +137,6 @@
         "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is expected to weaken gradually. However, the hurricane caused roads ..."
+        "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is gradually weakening. However, the hurricane caused roads to flood ..."
     }
 ]
