@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US special forces ready to step up combat drills in Philippines and help deter aggression in Asia",
-        "image": "https://media.zenfs.com/en/ap.org/457b0862bb13ef0bc5574a7429578838.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/us-special-forces-ready-step-105515041.html",
+        "title": "Wife of US soldier is removed from deportation flight and released from federal immigration custody",
+        "image": "https://media.zenfs.com/en/ap.org/53778b01246bedfaa47ad36165e4b2ae.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/wife-us-soldier-removed-deportation-133356500.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,20 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/6928d76966d0a87311855d4d647015b3.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/former-bernie-sanders-operative-warns-151710125.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Category 1 hurricane could bring up to 25 inches of rain, life-threatening flooding and mudslides as Hawaii declares a state of emergency...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Africa's low-key high-stakes Strait of Hormuz diplomacy",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/africa-s-low-key-high-stakes-strait-of-hormuz-diplomacy/a-78376699?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "African governments have kept a low profile on the international stage during the crisis in the Strait of Hormuz. But that doesn't mean they haven't b..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-war-qatar-denies-holding-missing-iranian-fighter-pilots/a-78386015?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Tehran said the three pilots \"were captured alive\" by Qatari forces after their fighter jets were shot down in the early days of the US-Israel war wit..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Morocco detains dozens of migrants trying to enter Spanish North African exclave Ceuta",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/morocco-detains-dozens-of-migrants-trying-to-enter-spanish-north-african-exclave-ceuta/a-78385761?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The attempted crossings come two weeks after around 72,000 people rushed into the Spanish North African exclave from Morocco. Calls for another mass c..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Lebanon says 11 killed in Israeli airstrikes",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/lebanon-says-11-killed-in-israeli-airstrikes/a-78383713?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Lebanon's prime minister denounced the attacks on villages in southern Lebanon for targeting civilians in their homes. Israel said it was firing on He..."
     }
 ]
