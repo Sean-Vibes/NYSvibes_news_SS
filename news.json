@@ -92,24 +92,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Wife of US soldier is removed from deportation flight and released from federal immigration custody",
-        "image": "https://media.zenfs.com/en/ap.org/53778b01246bedfaa47ad36165e4b2ae.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/wife-us-soldier-removed-deportation-133356500.html",
+        "title": "How This Woman Went From Footlocker Exec to Trailblazing Pilot",
+        "image": "https://media.zenfs.com/en/nbcu_713/b2e0d9613ad3f1ae3341a77a256e0731.jpg",
+        "link": "https://www.yahoo.com/news/videos/woman-went-footlocker-exec-trailblazing-134742063.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former Bernie Sanders operative warns radical left has 'overtaken' the Democratic Party from within",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/6928d76966d0a87311855d4d647015b3.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/former-bernie-sanders-operative-warns-151710125.html",
+        "title": "Alaska runner hospitalized after using bear spray to fight off brown bear on Alaska trail",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/1a6ea98ce6f173d5c726aaa922629fcf.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/alaska-runner-hospitalized-using-bear-013226158.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Troops from North Korea to boost Russia's Ukraine forces",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/troops-from-north-korea-to-boost-russia-s-ukraine-forces/a-78385524?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Intelligence agencies report that North Korea is preparing to send up to 50,000 troops to Russia. But military experts doubt that this will make a fun..."
     },
     {
         "source": "Deutsche Welle",
         "title": "US: Hurricane Lala brings Hawaii heavy rain, strong winds",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-hurricane-lala-brings-hawaii-heavy-rain-strong-winds/a-78386551?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Category 1 hurricane could bring up to 25 inches of rain, life-threatening flooding and mudslides as Hawaii declares a state of emergency...."
+        "summary": "The Category 1 storm passed over Hawaii's Big Island without making landfall and is expected to weaken gradually. However, the hurricane caused roads ..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/belgium-hundreds-evacuated-as-firefighters-battle-largest-wildfire-on-record/a-78386242?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A rapidly spreading wildfire in the High Fens nature reserve near Belgium's border with Germany has scorched around 2,700 hectares and forced hundreds..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran war: Qatar denies holding missing Iranian fighter pilots",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-qatar-denies-holding-missing-iranian-fighter-pilots/a-78386015?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Tehran said the three pilots \"were captured alive\" by Qatari forces after their fighter jets were shot down in the early days of the US-Israel war wit..."
     }
 ]
