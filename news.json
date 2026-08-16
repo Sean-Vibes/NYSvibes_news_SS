@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Wife of US soldier is removed from deportation flight and released from federal immigration custody",
-        "image": "https://media.zenfs.com/en/ap.org/53778b01246bedfaa47ad36165e4b2ae.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/wife-us-soldier-removed-deportation-133356500.html",
+        "title": "Russia seeks answers from US about alleged support for Ukrainian attacks, Lavrov says",
+        "image": "https://media.zenfs.com/en/reuters.com/01e42c9c557d9350956f2b5648e208fe.jpg",
+        "link": "https://www.yahoo.com/news/articles/russia-seeks-answers-us-alleged-102342301.html",
         "summary": "..."
     },
     {
@@ -85,24 +85,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "AI will make the biggest companies bigger and the smallest more powerful. Hotels show who gets squeezed",
-        "image": "https://media.zenfs.com/en/fortune_175/bb4d7ac7e776130d28a69790fb0a44ae.jpg",
-        "link": "https://finance.yahoo.com/technology/ai/articles/ai-biggest-companies-bigger-smallest-100000295.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "In Republican-led Iowa, the GOP nominee for governor introduces an anti-establishment message",
-        "image": "https://media.zenfs.com/en/ap.org/386f49671d4dada04bd9308f95b42dad.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/iowa-republican-zach-lahn-confronts-040530671.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Former Bernie Sanders operative warns radical left has 'overtaken' the Democratic Party from within",
         "image": "https://media.zenfs.com/en/fox_news_text_979/6928d76966d0a87311855d4d647015b3.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/former-bernie-sanders-operative-warns-151710125.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Wife of US soldier is removed from deportation flight and released from federal immigration custody",
+        "image": "https://media.zenfs.com/en/ap.org/53778b01246bedfaa47ad36165e4b2ae.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/wife-us-soldier-removed-deportation-133356500.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Brave widow of slain UnitedHealthcare CEO Brian Thompson comes face to face with Luigi Mangione for first time",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/8e44551cf54096a0c7248a9df30677ab.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/brave-widow-slain-unitedhealthcare-ceo-195145467.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Morocco detains dozens of migrants trying to enter Spanish North African exclave Ceuta",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/morocco-detains-dozens-of-migrants-trying-to-enter-spanish-north-african-exclave-ceuta/a-78385761?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The attempted crossings come two weeks after around 72,000 people rushed into the Spanish North African exclave from Morocco. Calls for another mass c..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/russians-snap-up-new-homes-built-on-ukraine-graveyard/a-78360176?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Russia is constructing high-rises in the occupied Ukrainian city of Mariupol, on the sites of buildings it destroyed. Who's buying these properties? A..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Afghan allies still waiting for the safety Germany promised",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/afghan-allies-still-waiting-for-the-safety-germany-promised/a-78319745?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After the Taliban retook power on August 15, 2021, Berlin promised to bring Afghan staff to Germany. But people are still waiting to leave in Pakistan..."
     }
 ]
