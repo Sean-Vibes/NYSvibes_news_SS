@@ -106,6 +106,13 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Indonesia: Thousands await aid as quake death toll rises to 54",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/indonesia-thousands-await-aid-as-quake-death-toll-rises-to-54/a-78395000?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Indonesia marked its Independence Day on Monday but celebrations have been overshadowed by an earthquake which has left over 50 people dead and thousa..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "India's testing agency in focus after more exams canceled",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-s-testing-agency-in-focus-after-more-exams-canceled/live-78391139?maca=en-rss-en-all-1573-xml-mrss",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-actress-hayden-panettiere-dies-at-36/a-78391169?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Hayden Panettiere's death was announced by her father in a statement to US network ABC news. The actress was known for her roles in TV shows such as \"..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hundreds flee as Belgium battles wildfire at German border",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hundreds-flee-as-belgium-battles-wildfire-at-german-border/a-78386242?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A rapidly spreading wildfire has scorched about 2,700 hectares in the High Fens nature reserve near Belgium's border with Germany. Some homes in the G..."
     }
 ]
