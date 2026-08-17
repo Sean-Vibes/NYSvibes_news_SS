@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "Connecticut cannabis sales flat, but state collected more taxes. What happened?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/connecticut-cannabis-sales-flat-but-state-collected-more-taxes-what-happened/617460/",
+        "summary": "<p>Connecticut's cannabis tax revenue jumped 67% while sales stayed nearly flat. The state's THC potency tax, which ends Oct. 1, drove the gap.</p>\n<p..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "Does federal marijuana rescheduling mean medical cannabis can be mailed? Georgia thinks so.",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/does-federal-marijuana-rescheduling-mean-medical-cannabis-can-be-mailed-georgia-thinks-so/617437/",
@@ -63,24 +70,10 @@
         "summary": "<p>Cannabis brands need to make sure they're producing consistent products well before interstate commerce begins.</p>\n<p><a href=\"https://mjbizdaily...."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Illinois adult-use cannabis retailers can apply for medical permits, with DEA and tax benefits possible",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/illinois-adult-use-cannabis-retailers-can-apply-for-medical-permits-with-dea-and-tax-benefits-possible/617401/",
-        "summary": "<p>Holding a medical license changes an operator\u2019s regulatory status and makes them eligible to register with the DEA.</p>\n<p><a href=\"https://mjbizda..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "After killing hundreds in boat strikes, US military expands campaign on land in Latin America",
-        "image": "https://media.zenfs.com/en/video.dailybeast.com/01f63adbea19538a954f5de838cbbdf5.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/lt--us-military-latin-america-070322387.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Repeat offender with 7 prior convictions arrested 3 times in 12 days over alleged attacks on women",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/800ce8d29d7b22b7e27591d97b4e5231",
-        "link": "https://www.yahoo.com/news/us/articles/repeat-offender-7-prior-convictions-170331780.html",
+        "title": "Iran says it will escalate if US does not honour deal within weeks",
+        "image": "https://media.zenfs.com/en/wthr_tegna_videos_609/987e9503b21115caacb1b7df24d00bbf.jpg",
+        "link": "https://www.yahoo.com/news/articles/iran-says-it-will-escalate-if-us-does-not-honour-deal-within-weeks-134114337.html",
         "summary": "..."
     },
     {
@@ -92,9 +85,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "In Spain's Ceuta, hundreds of migrants stage protest and demand asylum",
-        "image": "https://media.zenfs.com/en/reuters.com/f7dfac7d93dd563834182453de1337ff.jpg",
-        "link": "https://www.yahoo.com/news/articles/spains-ceuta-hundreds-migrants-stage-164250662.html",
+        "title": "Repeat offender with 7 prior convictions arrested 3 times in 12 days over alleged attacks on women",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/800ce8d29d7b22b7e27591d97b4e5231",
+        "link": "https://www.yahoo.com/news/us/articles/repeat-offender-7-prior-convictions-170331780.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "After killing hundreds in boat strikes, US military expands campaign on land in Latin America",
+        "image": "https://media.zenfs.com/en/video.dailybeast.com/01f63adbea19538a954f5de838cbbdf5.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/lt--us-military-latin-america-070322387.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/547e52c89cf86cdc7e419a59328e8c78.png",
         "link": "https://www.yahoo.com/news/us/articles/louisiana-man-accused-killing-wife-012057869.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US tourist killed by lightning on Sicily's Mount Etna",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-tourist-killed-by-lightning-on-sicily-s-mount-etna/a-78405901?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Italian officials deployed a rescue helicopter in an attempt to save a US national after he was struck by lightning while apparently wondering above t..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-bundeswehr-troop-numbers-reach-13-year-high/a-78400706?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Germany's Defense Ministry is reporting a comparatively rare success story in its bid to bolster troop numbers. At the end of July, the total stood at..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Norway wealth fund warns of AI-driven stock market bubble",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/norway-wealth-fund-warns-of-ai-driven-stock-market-bubble/a-78351371?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The head of Norway's sovereign wealth fund has warned that soaring AI-driven stock valuations could trigger a sharp correction. How exposed is the wor..."
     }
 ]
