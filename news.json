@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Texas Democrats Call Out Paxton For Dodging Cannabis Question As Joe Rogan Warns THC Ban Could Turn The State Blue",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/texas-democrats-call-out-paxton-for-dodging-cannabis-question-as-joe-rogan-warns-thc-ban-could-turn-the-state-blue/",
+        "summary": "<p>The Texas Democratic Party is calling out the Republican candidate in a high-stakes election for a seat to represent the state in the U.S. Senate o..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Senate candidates clash on cannabis (Newsletter: August 17, 2026)",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/senate-candidates-clash-on-cannabis-newsletter-august-17-2026/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/marijuana-legalization-boosts-agriculture-jobs-in-states-that-enact-it-new-study-shows/",
         "summary": "<p>States that enact marijuana legalization see jobs in the agriculture sector increase more than they would have without the policy change, according..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Talarico Suggests Paxton Cracked Down On Cannabis To \u2018Enrich\u2019 Donors In Alcohol And Tobacco Industries",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/talarico-suggests-paxton-cracked-down-on-cannabis-to-enrich-donors-in-alcohol-and-tobacco-industries/",
-        "summary": "<p>Texas Democratic U.S. Senate candidate James Talarico is suggesting that his Republican opponent for the seat supports banning cannabis in order to..."
     },
     {
         "source": "MJBizDaily",
@@ -99,10 +99,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Murder inquiry after man bitten by dog dies",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/e8c1dc5b83b4f6d944d26a47ffacd1ba.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/murder-inquiry-man-bitten-dog-115818662.html",
+        "title": "Louisiana man accused of killing wife, propping her body up for multistate drive",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/547e52c89cf86cdc7e419a59328e8c78.png",
+        "link": "https://www.yahoo.com/news/us/articles/louisiana-man-accused-killing-wife-012057869.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The meeting comes amid a stalled post-war Gaza plan and after an Israeli minister called for more Palestinians to be killed in the enclave. Meanwhile,..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Putin visited Kuril to 'punish' Japan over Ukraine stance",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/putin-visited-kuril-to-punish-japan-over-ukraine-stance/a-78398035?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Analysts have said a visit by Russia's leader to a disputed island chain sent a \"message\" to Japan, which for decades has sought to reclaim control of..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/drc-ebola-outbreak-becomes-deadliest-in-country-s-history/a-78394992?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "An Ebola outbreak in the Democratic Republic of Congo has now killed 2,325 people, according to government figures. The UN says one person in the coun..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Indonesia: Thousands await aid as quake death toll rises to 68",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/indonesia-thousands-await-aid-as-quake-death-toll-rises-to-68/a-78395000?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Indonesia marked its Independence Day on Monday but celebrations have been overshadowed by an earthquake which has left over 60 people dead and thousa..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India's testing agency in focus after more exams canceled",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-s-testing-agency-in-focus-after-more-exams-canceled/live-78391139?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Months after canceling the medical entrance exam, India's testing agency has canceled three other exams prompting outrage among opposition leaders. In..."
     }
 ]
