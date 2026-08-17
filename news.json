@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran defiant on strait as Trump tells Americans to accept high gasoline prices",
-        "image": "https://media.zenfs.com/en/reuters.com/ad0d27523541e928ed2ea5a5caff5024.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-urges-americans-accept-higher-203543611.html",
+        "title": "States take Meta to trial in California in the biggest fight yet over social media harms to children",
+        "image": "https://media.zenfs.com/en/ap.org/1b8b9e4279eb6c8d97d1b3fde6ede3f3.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/states-meta-trial-california-biggest-040212035.html",
         "summary": "..."
     },
     {
@@ -106,6 +106,13 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Hundreds flee as Belgium battles wildfire at German border",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/hundreds-flee-as-belgium-battles-wildfire-at-german-border/a-78386242?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A rapidly spreading wildfire has scorched about 2,700 hectares in the High Fens nature reserve near Belgium's border with Germany. Some homes in the G..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "India: Six dead in Bihar temple stampede",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-six-dead-in-bihar-temple-stampede/a-78390719?maca=en-rss-en-all-1573-xml-mrss",
@@ -113,9 +120,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Trump orders to scale back US-South Korea military drills",
+        "title": "Trump says US-South Korea military drills to be scaled back",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-orders-to-scale-back-us-south-korea-military-drills/a-78390592?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/trump-says-us-south-korea-military-drills-to-be-scaled-back/a-78390592?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "US President Donald Trump said annual military drills with South Korea send an \"inappropriate and hostile\" signal to North Korea...."
     },
     {
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators an..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine attacks Wildberries, Russia's biggest online market",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-attacks-wildberries-russia-s-biggest-online-market/a-78384605?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Since mid-July, Ukraine has been targeting warehouses of Russia's largest online retailer Wildberries almost every day. Ukraine says it's disrupting f..."
     }
 ]
