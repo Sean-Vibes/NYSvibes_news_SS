@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Virginia Hemp Businesses Push Lawmakers For Special Session After Judge Declines To Block New THC Product Restrictions",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/virginia-hemp-businesses-push-lawmakers-for-special-session-after-judge-declines-to-block-new-thc-product-restrictions/",
+        "summary": "<p>&#8220;The judge himself acknowledged that this was rushed legislation, leading to complications and unintended consequences.&#8221; By Samantha Wi..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "South Carolina Lawmakers Are Letting Hemp THC Products Stay Legal Until At Least Next Year",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/south-carolina-lawmakers-are-letting-hemp-thc-products-stay-legal-until-at-least-next-year/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/senate-candidates-clash-on-cannabis-newsletter-august-17-2026/",
         "summary": "<p>MA anti-marijuana ballot measure alarm; Study: Legal cannabis boosts agriculture jobs; NC cannabis smell court ruling; HI hemp lawsuit Subscribe\u00a0to..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Hawaii Officials Defend Hemp Crackdown From Industry Lawsuit",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/hawaii-officials-defend-hemp-crackdown-from-industry-lawsuit/",
-        "summary": "<p>&#8220;There are products that have not been subject to the same rigorous testing that the medical marijuana requires.&#8221; By Stewart Yerton, Ho..."
     },
     {
         "source": "MJBizDaily",
@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran says it will escalate if US does not honour deal within weeks",
-        "image": "https://media.zenfs.com/en/wthr_tegna_videos_609/987e9503b21115caacb1b7df24d00bbf.jpg",
-        "link": "https://www.yahoo.com/news/articles/iran-says-it-will-escalate-if-us-does-not-honour-deal-within-weeks-134114337.html",
+        "title": "After killing hundreds in boat strikes, US military expands campaign on land in Latin America",
+        "image": "https://media.zenfs.com/en/ap.org/77a995198e4bf33572cae31e00fb5fee.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/killing-hundreds-boat-strikes-us-070322387.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "After killing hundreds in boat strikes, US military expands campaign on land in Latin America",
-        "image": "https://media.zenfs.com/en/ap.org/77a995198e4bf33572cae31e00fb5fee.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/killing-hundreds-boat-strikes-us-070322387.html",
+        "title": "Republicans won the redistricting competition. Don't tell that to this California congressman",
+        "image": "https://media.zenfs.com/en/ap.org/6fac0b27cea874b88c5f93fc6352ce5a.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/republicans-won-redistricting-competition-dont-114232311.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/7020f0f8bddd52b39c7348c74b8219c9.jpg",
         "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-sell-gaming-arm-1-010119129.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Russia: Prison for opposition leader over war criticism",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/russia-prison-for-opposition-leader-over-war-criticism/a-78403203?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Lev Shlosberg of the Yabloko party has been sentenced to over 11 years in a penal colony for criticizing the war in Ukraine. \"A single person is impri..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/wildfires-belgium-battles-blaze-france-s-lecornu-jeered/a-78397186?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Fires are raging from Belgium to Greece as Europe suffers one of its most severe wildfire seasons to date. The blazes come amid frequent heat waves an..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Middle East updates: Kushner meets Netanyahu in Jerusalem",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The meeting comes amid a stalled post-war Gaza plan and after an Israeli minister called for more Palestinians to be killed in the enclave. Meanwhile,..."
     }
 ]
