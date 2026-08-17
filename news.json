@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "States take Meta to trial in California in the biggest fight yet over social media harms to children",
-        "image": "https://media.zenfs.com/en/ap.org/1b8b9e4279eb6c8d97d1b3fde6ede3f3.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/states-meta-trial-california-biggest-040212035.html",
+        "title": "Iran defiant on strait as Trump tells Americans to accept high gasoline prices",
+        "image": "https://media.zenfs.com/en/reuters.com/ad0d27523541e928ed2ea5a5caff5024.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-urges-americans-accept-higher-203543611.html",
         "summary": "..."
     },
     {
@@ -106,6 +106,27 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Fatty food raises risk of colorectal cancer",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/fatty-food-raises-risk-of-colorectal-cancer/a-78284704?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Did you know fatty foods can increase production of an acid in your gut that promotes tumor growth? That's on top of all the other health risks linked..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Belgium blaze kept out of Germany for now",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-belgium-blaze-kept-out-of-germany-for-now/live-78391144?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Some residents in the Eifel town of Monschau were evacuated as a massive fire in Belgium threatened to cross the border. Meanwhile, shipping shortfall..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US actress Hayden Panettiere dies at 36",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-actress-hayden-panettiere-dies-at-36/a-78391169?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Hayden Panettiere's death was announced by her father in a statement to US network ABC news. The actress was known for her roles in TV shows such as \"..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Hundreds flee as Belgium battles wildfire at German border",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/hundreds-flee-as-belgium-battles-wildfire-at-german-border/a-78386242?maca=en-rss-en-all-1573-xml-mrss",
@@ -113,30 +134,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "India: Six dead in Bihar temple stampede",
+        "title": "India temple stampede in Bihar kills 7",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-six-dead-in-bihar-temple-stampede/a-78390719?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "At least six people were killed after a stampede broke out at a Hindu shrine in eastern India. An investigation into the incident is underway...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump says US-South Korea military drills to be scaled back",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-says-us-south-korea-military-drills-to-be-scaled-back/a-78390592?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US President Donald Trump said annual military drills with South Korea send an \"inappropriate and hostile\" signal to North Korea...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Italy: Thieves steal key Renaissance paintings in Sicily",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/italy-thieves-steal-key-renaissance-paintings-in-sicily/a-78389559?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Four Renaissance paintings by Antonello da Messina were stolen from his Sicilian hometown on Saturday after surviving earthquakes and centuries of his..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UAE, Saudi Arabia, others condemn Israel's rejection of Trump Gaza plan",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uae-saudi-arabia-others-condemn-israel-s-rejection-of-trump-gaza-plan/a-78389399?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators an..."
+        "link": "https://www.dw.com/en/india-temple-stampede-in-bihar-kills-7/a-78390719?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "At least seven people were killed after a stampede broke out at a Hindu shrine in eastern India. An investigation into the incident is underway...."
     }
 ]
