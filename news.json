@@ -72,8 +72,8 @@
     {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Iran says it will escalate if US does not honour deal within weeks",
-        "image": "https://media.zenfs.com/en/reuters.com/e50a3082fd3380a024268f95960b1c38.jpg",
-        "link": "https://www.yahoo.com/news/articles/iran-says-escalate-us-does-134114337.html",
+        "image": "https://media.zenfs.com/en/wthr_tegna_videos_609/987e9503b21115caacb1b7df24d00bbf.jpg",
+        "link": "https://www.yahoo.com/news/articles/iran-says-it-will-escalate-if-us-does-not-honour-deal-within-weeks-134114337.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Israel's Ben-Gvir advocates killing '30 to 40' people in Gaza nightly while speaking to ex-hostage",
-        "image": "https://media.zenfs.com/en/ap.org/817fc12408da7f7dea72420dee54eca8.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/israels-ben-gvir-advocates-killing-141720683.html",
+        "title": "After killing hundreds in boat strikes, US military expands campaign on land in Latin America",
+        "image": "https://media.zenfs.com/en/ap.org/77a995198e4bf33572cae31e00fb5fee.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/killing-hundreds-boat-strikes-us-070322387.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/7020f0f8bddd52b39c7348c74b8219c9.jpg",
         "link": "https://finance.yahoo.com/technology/ai/articles/alibaba-sell-gaming-arm-1-010119129.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany: Bundeswehr troop numbers reach 13-year high",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-bundeswehr-troop-numbers-reach-13-year-high/a-78400706?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany's Defense Ministry is reporting a comparatively rare success story in its bid to bolster troop numbers. At the end of July, the total stood at..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/middle-east-updates-kushner-meets-netanyahu-in-jerusalem/live-78396539?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The meeting comes amid a stalled post-war Gaza plan and after an Israeli minister called for more Palestinians to be killed in the enclave. Meanwhile,..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Putin visited Kuril Islands to 'punish' Japan over Ukraine stance",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/putin-visited-kuril-islands-to-punish-japan-over-ukraine-stance/a-78398035?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Analysts have said a visit by Russia's leader to a disputed island chain sent a \"message\" to Japan, which for decades has sought to reclaim control of..."
     }
 ]
