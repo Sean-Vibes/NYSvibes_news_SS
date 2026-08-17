@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran defiant on strait as Trump tells Americans to accept high gasoline prices",
-        "image": "https://media.zenfs.com/en/reuters.com/ad0d27523541e928ed2ea5a5caff5024.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-urges-americans-accept-higher-203543611.html",
+        "title": "Earthquake hits Spanish city of Granada, buildings and cars damaged",
+        "image": "https://media.zenfs.com/en/reuters.com/164c56fe5a527858a24abc251140708a.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/earthquake-hits-spanish-city-granada-064149724.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-        "image": "https://media.zenfs.com/en/ap.org/cae750102753c9ec7a7f429e06d6d098.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/ukraine-launches-one-largest-aerial-074233307.html",
+        "title": "Iran defiant on strait as Trump tells Americans to accept high gasoline prices",
+        "image": "https://media.zenfs.com/en/reuters.com/ad0d27523541e928ed2ea5a5caff5024.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-urges-americans-accept-higher-203543611.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/1c42f5acb65ea8cb373f356c38b777d1.jpg",
         "link": "https://www.yahoo.com/news/us/articles/killer-ex-cop-executed-childs-100030652.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India: Six dead in Bihar temple stampede",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-six-dead-in-bihar-temple-stampede/a-78390719?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "At least six people were killed after a stampede broke out at a Hindu shrine in eastern India. An investigation into the incident is underway...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukraine-attacks-wildberries-russia-s-biggest-online-market/a-78384605?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Since mid-July, Ukraine has been targeting warehouses of Russia's largest online retailer Wildberries almost every day. Ukraine says it's disrupting f..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hundreds flee as Belgium battles wildfire at German border",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hundreds-flee-as-belgium-battles-wildfire-at-german-border/a-78386242?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A rapidly spreading wildfire has scorched about 2,700 hectares in the High Fens nature reserve near Belgium's border with Germany. The German town of ..."
     }
 ]
