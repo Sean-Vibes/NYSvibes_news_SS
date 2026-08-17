@@ -78,13 +78,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nearly 10 years after a Florida teen vanished in the middle of the night, detectives turn to psychics for help",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/46352cf3d37af8a8ec4c8af40660b8cc.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/nearly-10-years-florida-teen-103030685.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Exclusive: Israel seizes vast Iran terror axis arsenal with surprising foreign origins",
         "image": "https://media.zenfs.com/en/fox_news_text_979/932e963bf7e331603f098fa2119ef67c.jpg",
         "link": "https://www.yahoo.com/news/world/articles/exclusive-israel-seizes-vast-iran-174948173.html",
@@ -92,17 +85,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran defiant on strait as Trump tells Americans to accept high gasoline prices",
-        "image": "https://media.zenfs.com/en/reuters.com/ad0d27523541e928ed2ea5a5caff5024.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-urges-americans-accept-higher-203543611.html",
+        "title": "Nearly 10 years after a Florida teen vanished in the middle of the night, detectives turn to psychics for help",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/46352cf3d37af8a8ec4c8af40660b8cc.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/nearly-10-years-florida-teen-103030685.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Murder inquiry after man bitten by dog dies",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/e8c1dc5b83b4f6d944d26a47ffacd1ba.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/murder-inquiry-man-bitten-dog-115818662.html",
+        "title": "Hakeem Jeffries says \u2018I don\u2019t support\u2019 the Democratic Socialists of America agenda: Full interview",
+        "image": "https://media.zenfs.com/en/nbcu_713/891a002b02dd83bfa2f0ee88baeda6fa.jpg",
+        "link": "https://www.yahoo.com/news/videos/hakeem-jeffries-says-don-t-130012202.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Killer ex-cop executed for child's slaying as sheriff says he\u2019s sure same monster murdered another girl",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/1c42f5acb65ea8cb373f356c38b777d1.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/killer-ex-cop-executed-childs-100030652.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Trump orders to scale back US-South Korea military drills",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-orders-to-scale-back-us-south-korea-military-drills/a-78390592?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US President Donald Trump said annual military drills with South Korea send an \"inappropriate and hostile\" signal to North Korea...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/hundreds-flee-as-belgium-battles-wildfire-at-german-border/a-78386242?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A rapidly spreading wildfire has scorched about 2,700 hectares in the High Fens nature reserve near Belgium's border with Germany. The German town of ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine launches one of its largest attacks of war",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-launches-one-of-its-largest-attacks-of-war/a-78386779?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russia says hundreds of drones targeted Moscow overnight, with six fatalities in the capital and southern Rostov region. Five people were killed in st..."
     }
 ]
