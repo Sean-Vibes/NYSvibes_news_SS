@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Marijuana Could Generate $111 Billion In Tax Revenue Over A Decade If Legalized Federally And In All 50 States, Yale Report Shows",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/marijuana-could-generate-111-billion-in-tax-revenue-over-a-decade-if-legalized-federally-and-in-all-50-states-yale-report-shows/",
+        "summary": "<p>Federally legalizing marijuana would generate $57.9 billion in new tax revenue over a decade, according to a new Yale University analysis\u2014and addit..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Hemp Company Pushes Back On DEA Claim That Synthetic Cannabis Compound HHC Is Illegal",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/hemp-company-pushes-back-on-dea-claim-that-synthetic-cannabis-compound-hhc-is-illegal/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/medical-marijuana-can-be-delivered-in-the-mail-by-usps-under-trumps-rescheduling-move-georgia-officials-say/",
         "summary": "<p>Georgia regulators are proposing new rules that will allow medical marijuana to be delivered directly to patients\u2014including via the U.S. Postal Ser..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Texas Democrats Call Out Paxton For Dodging Cannabis Question As Joe Rogan Warns THC Ban Could Turn The State Blue",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/texas-democrats-call-out-paxton-for-dodging-cannabis-question-as-joe-rogan-warns-thc-ban-could-turn-the-state-blue/",
-        "summary": "<p>The Texas Democratic Party is calling out the Republican candidate in a high-stakes election for a seat to represent the state in the U.S. Senate o..."
     },
     {
         "source": "MJBizDaily",
@@ -78,16 +78,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nearly 10 years after a Florida teen vanished in the middle of the night, detectives turn to psychics for help",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/46352cf3d37af8a8ec4c8af40660b8cc.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/nearly-10-years-florida-teen-103030685.html",
+        "title": "The US Army wants machines that can pull drinking water from the air for fights far from reliable supply lines",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/995f2d82eef909aa3ad6ec9e67665309.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/us-army-wants-machines-pull-161719640.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Louisiana man accused of killing wife, propping her body up for multistate drive",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/547e52c89cf86cdc7e419a59328e8c78.png",
-        "link": "https://www.yahoo.com/news/us/articles/louisiana-man-accused-killing-wife-012057869.html",
+        "title": "Nearly 10 years after a Florida teen vanished in the middle of the night, detectives turn to psychics for help",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/46352cf3d37af8a8ec4c8af40660b8cc.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/nearly-10-years-florida-teen-103030685.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Blanche: Congress has already approved White House ballroom project",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/fe7afbce27d47861a4219612e6707d08.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/blanche-congress-already-approved-white-155321985.html",
+        "title": "Louisiana man accused of killing wife, propping her body up for multistate drive",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/547e52c89cf86cdc7e419a59328e8c78.png",
+        "link": "https://www.yahoo.com/news/us/articles/louisiana-man-accused-killing-wife-012057869.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Somalia: Pirates seize commercial cargo ship",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/somalia-pirates-seize-commercial-cargo-ship/a-78405330?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Monitors say eight armed men have taken control of a cargo ship off the coast of Somalia. Renewed pirate activity adds to the problems facing shippers..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/norway-wealth-fund-warns-of-ai-driven-stock-market-bubble/a-78351371?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The head of Norway's sovereign wealth fund has warned that soaring AI-driven stock valuations could trigger a sharp correction. How exposed is the wor..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Indonesia neutrality tested by joint naval drill with China",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/indonesia-neutrality-tested-by-joint-naval-drill-with-china/a-78400288?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Indonesia maintains a nonaligned foreign policy, but Jakarta's limited participation in a low-level naval exercise with China's navy near Taiwan has r..."
     }
 ]
