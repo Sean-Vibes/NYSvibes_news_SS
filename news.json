@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "A physics graduate, a soccer player, a teen who couldn't swim: They died in the Ceuta migrant surge",
-        "image": "https://media.zenfs.com/en/ap.org/e4f5d02e1c87bc1402df7d2c25a3d181.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/physics-graduate-soccer-player-teen-040741176.html",
+        "title": "Gold shows early signs of reclaiming safe-haven appeal after Iran war selloff",
+        "image": "https://media.zenfs.com/en/reuters.com/8cdf718b8477373f12012bc5d9b0da3c.jpg",
+        "link": "https://finance.yahoo.com/news/gold-shows-early-signs-reclaiming-154522774.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "AG Todd Blanche says \u2018of course\u2019 he\u2019ll listen to Trump\u2019s opinion on prosecutions: Full interview",
-        "image": "https://media.zenfs.com/en/nbcu_713/623f3edfb0bae20fa9ca7aacd617693a.jpg",
-        "link": "https://www.yahoo.com/news/videos/ag-todd-blanche-says-course-130013471.html",
+        "title": "Myanmar confirms nearly 309,000 Rohingya in Bangladesh, says security issues delaying repatriation",
+        "image": "https://media.zenfs.com/en/reuters.com/1c57174721bd188e58a3a3d70db27a7d.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/myanmar-confirms-nearly-309-000-040145788.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,27 @@
         "image": "https://media.zenfs.com/en/cnn_articles_875/46352cf3d37af8a8ec4c8af40660b8cc.jpg",
         "link": "https://www.yahoo.com/news/us/articles/nearly-10-years-florida-teen-103030685.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany updates: new drone resarch center to be opened",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-updates-new-drone-resarch-center-to-be-opened/live-78407037?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Two weeks after a drone security breach at Leipzig airport, Interior Minister Alexander Dobrindt is set to open a new drone research center. Meanwhile..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India: Testing agency revamp follows renewed criticism",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-testing-agency-revamp-follows-renewed-criticism/live-78407227?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "India's education ministry has directed the NTA to audit its exam process amid renewed calls for the agency to be dissolved. Meanwhile, Indian sailors..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Tupac Shakur murder trial opens as prosecutors say 'Keffe D' ordered 1996 killing",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/tupac-shakur-murder-trial-opens-as-prosecutors-say-keffe-d-ordered-1996-killing/a-78407221?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A trial is finally underway 30 years after rap artist Tupac Shakur was killed in a drive-by shooting. The case was long regarded as one of the nation'..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/zambia-s-hichilema-wins-second-presidential-term/a-78406328?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Hakainde Hichilema won over 60% of the vote in the first round of Zambia's presidential election, which also saw authorities launch raids against lead..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US tourist killed by lightning on Sicily's Mount Etna",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-tourist-killed-by-lightning-on-sicily-s-mount-etna/a-78405901?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Italian officials deployed a rescue helicopter in an attempt to save a US national after he was struck by lightning while apparently wondering above t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Somalia: Pirates seize commercial cargo ship",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/somalia-pirates-seize-commercial-cargo-ship/a-78405330?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Monitors say eight armed men have taken control of a cargo ship off the coast of Somalia. Renewed pirate activity adds to the problems facing shippers..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UAE economy: On the verge of collapse or on way to recovery?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uae-economy-on-the-verge-of-collapse-or-on-way-to-recovery/a-78402980?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "On one hand, the UAE economy is suffering due to the Iran war, as residents leave and tourists cancel plans. On the other hand, UAE authorities insist..."
     }
 ]
