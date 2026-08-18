@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Gold shows early signs of reclaiming safe-haven appeal after Iran war selloff",
-        "image": "https://media.zenfs.com/en/reuters.com/8cdf718b8477373f12012bc5d9b0da3c.jpg",
-        "link": "https://finance.yahoo.com/news/gold-shows-early-signs-reclaiming-154522774.html",
+        "title": "After killing hundreds in boat strikes, US military expands campaign on land in Latin America",
+        "image": "https://media.zenfs.com/en/video.dailybeast.com/01f63adbea19538a954f5de838cbbdf5.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/lt--us-military-latin-america-070322387.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Myanmar confirms nearly 309,000 Rohingya in Bangladesh, says security issues delaying repatriation",
-        "image": "https://media.zenfs.com/en/reuters.com/1c57174721bd188e58a3a3d70db27a7d.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/myanmar-confirms-nearly-309-000-040145788.html",
+        "title": "Gold shows early signs of reclaiming safe-haven appeal after Iran war selloff",
+        "image": "https://media.zenfs.com/en/reuters.com/8cdf718b8477373f12012bc5d9b0da3c.jpg",
+        "link": "https://finance.yahoo.com/news/gold-shows-early-signs-reclaiming-154522774.html",
         "summary": "..."
     },
     {
@@ -106,9 +106,16 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany updates: new drone resarch center to be opened",
+        "title": "Meta trial over social media harm to children begins",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-updates-new-drone-resarch-center-to-be-opened/live-78407037?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/meta-trial-over-social-media-harm-to-children-begins/a-78408050?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Four US states are taking Meta to court, accusing the social media giant of deliberately making Facebook and Instagram addictive for children. They're..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany updates: new drone research center to be opened",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-updates-new-drone-research-center-to-be-opened/live-78407037?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Two weeks after a drone security breach at Leipzig airport, Interior Minister Alexander Dobrindt is set to open a new drone research center. Meanwhile..."
     },
     {
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/philippines-student-livestreams-school-shooting/a-78406343?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Two students, including the shooter, have been killed and at least two others wounded at a private university campus in the southern port city of Zamb..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Zambia's Hichilema wins second presidential term",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/zambia-s-hichilema-wins-second-presidential-term/a-78406328?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Hakainde Hichilema won over 60% of the vote in the first round of Zambia's presidential election, which also saw authorities launch raids against lead..."
     }
 ]
