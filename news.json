@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "USPS could deliver medical cannabis under rescheduling, state officials say (Newsletter: August 18, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/usps-could-deliver-medical-cannabis-under-rescheduling-state-officials-say-newsletter-august-18-2026/",
+        "summary": "<p>DEA &#38; hemp company battle over HHC in federal court; TX Dems bash GOP candidate&#8217;s marijuana stance; Yale study on cannabis tax revenue Su..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Marijuana Could Generate $111 Billion In Tax Revenue Over A Decade If Legalized Federally And In All 50 States, Yale Report Shows",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/marijuana-could-generate-111-billion-in-tax-revenue-over-a-decade-if-legalized-federally-and-in-all-50-states-yale-report-shows/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/south-carolina-lawmakers-are-letting-hemp-thc-products-stay-legal-until-at-least-next-year/",
         "summary": "<p>&#8220;With THC drinks, it\u2019s different from alcohol that you can smell or smokable marijuana that you can smell.&#8221; By Skylar Laird, South Caro..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Medical Marijuana Can Be Delivered In The Mail By USPS Under Trump\u2019s Rescheduling Move, Georgia Officials Say",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/medical-marijuana-can-be-delivered-in-the-mail-by-usps-under-trumps-rescheduling-move-georgia-officials-say/",
-        "summary": "<p>Georgia regulators are proposing new rules that will allow medical marijuana to be delivered directly to patients\u2014including via the U.S. Postal Ser..."
     },
     {
         "source": "MJBizDaily",
@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Gold shows early signs of reclaiming safe-haven appeal after Iran war selloff",
-        "image": "https://media.zenfs.com/en/reuters.com/8cdf718b8477373f12012bc5d9b0da3c.jpg",
-        "link": "https://finance.yahoo.com/news/gold-shows-early-signs-reclaiming-154522774.html",
+        "title": "Republicans won the redistricting competition. Don't tell that to this California congressman",
+        "image": "https://media.zenfs.com/en/ap.org/6fac0b27cea874b88c5f93fc6352ce5a.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/republicans-won-redistricting-competition-dont-114232311.html",
         "summary": "..."
     },
     {
@@ -92,17 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Myanmar confirms nearly 309,000 Rohingya in Bangladesh, says security issues delaying repatriation",
-        "image": "https://media.zenfs.com/en/reuters.com/1c57174721bd188e58a3a3d70db27a7d.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/myanmar-confirms-nearly-309-000-040145788.html",
+        "title": "Gold shows early signs of reclaiming safe-haven appeal after Iran war selloff",
+        "image": "https://media.zenfs.com/en/reuters.com/8cdf718b8477373f12012bc5d9b0da3c.jpg",
+        "link": "https://finance.yahoo.com/news/gold-shows-early-signs-reclaiming-154522774.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "American Airlines flight emergency on the tarmac",
-        "image": "https://media.zenfs.com/en/nbcu_713/cf41c19398a9bafe3fa262bf052266d1.jpg",
-        "link": "https://www.yahoo.com/news/videos/american-airlines-flight-emergency-tarmac-231200567.html",
+        "title": "What Parents Should Know About Trump\u2019s Change to Vaccinations",
+        "image": "https://media.zenfs.com/en/nbcu_713/98e26a935b30e308ba886d1e681e6084.jpg",
+        "link": "https://www.yahoo.com/news/videos/parents-know-trump-change-vaccinations-130235640.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Hyrox: A global fitness sensation Made in Germany",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/hyrox-a-global-fitness-sensation-made-in-germany/a-78074218?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Founded in Germany but successful worldwide, Hyrox combines running and functional training into a unique competition format. How a German idea became..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/fact-check-how-do-i-spot-propaganda/a-60245403?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Across the world, politicians use propaganda to manipulate the thoughts and actions of others. It's a strategy deployed by democracies and dictatorshi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Do not inhale! How wildfire smoke 'affects the whole body'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/do-not-inhale-how-wildfire-smoke-affects-the-whole-body/a-76039654?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Wildfires destroy lives and livelihoods. But survivors and firefighters also suffer long-term harm to their health. A growing body of research suggest..."
     }
 ]
