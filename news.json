@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Massachusetts Democratic Voters Strongly Oppose Ballot Measure To Roll Back Marijuana Legalization, Poll Shows",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/massachusetts-democratic-voters-strongly-oppose-ballot-measure-to-roll-back-marijuana-legalization-poll-shows/",
+        "summary": "<p>Democratic voters in Massachusetts strongly oppose a measure on the November ballot to roll back the state&#8217;s marijuana legalization law. The ..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "New DOJ Rule Makes It Easier For Marijuana Users To Regain Their Gun Rights",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/new-doj-rule-makes-it-easier-for-marijuana-users-to-regain-their-gun-rights/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/hemp-company-pushes-back-on-dea-claim-that-synthetic-cannabis-compound-hhc-is-illegal/",
         "summary": "<p>A hemp company is pushing back on a recent court filing from the Drug Enforcement Administration (DEA) about the agency&#8217;s stance that a canna..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Virginia Hemp Businesses Push Lawmakers For Special Session After Judge Declines To Block New THC Product Restrictions",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/virginia-hemp-businesses-push-lawmakers-for-special-session-after-judge-declines-to-block-new-thc-product-restrictions/",
-        "summary": "<p>&#8220;The judge himself acknowledged that this was rushed legislation, leading to complications and unintended consequences.&#8221; By Samantha Wi..."
     },
     {
         "source": "MJBizDaily",
@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Judge blocks the Trump administration from moving FBI headquarters to DC office building",
-        "image": "https://media.zenfs.com/en/ap.org/9918b095b818e8cb03e530946f1aebfb.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/judge-blocks-trump-administration-moving-234035705.html",
+        "title": "A physics graduate, a soccer player, a teen who couldn't swim: They died in the Ceuta migrant surge",
+        "image": "https://media.zenfs.com/en/ap.org/990dc76b3fe3ec8c38b6b96f3c9e0fcf.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/physics-graduate-soccer-player-teen-040741176.html",
         "summary": "..."
     },
     {
@@ -85,24 +85,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Can old debt be re-added to your credit report?",
-        "image": "https://media.zenfs.com/en/cbs_news_897/ba5eb463b5b8053a4df5696064e99879.jpg",
-        "link": "https://finance.yahoo.com/markets/articles/old-debt-added-credit-report-155727056.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive-Israeli settler confronts Palestinian American at his besieged West Bank home",
-        "image": "https://media.zenfs.com/en/reuters.com/e3230d2909f75f7f98ff273811ef6d7a.jpg",
-        "link": "https://www.yahoo.com/news/articles/exclusive-israeli-settler-confronts-palestinian-111642581.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Nearly 10 years after a Florida teen vanished in the middle of the night, detectives turn to psychics for help",
         "image": "https://media.zenfs.com/en/cnn_articles_875/46352cf3d37af8a8ec4c8af40660b8cc.jpg",
         "link": "https://www.yahoo.com/news/us/articles/nearly-10-years-florida-teen-103030685.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Meta Faces New Youth Social Media Addiction Suit After $1B Loss",
+        "image": "https://media.zenfs.com/en/nbcu_713/07ef34d05a384278af558a1735acab1f.jpg",
+        "link": "https://www.yahoo.com/news/videos/meta-faces-youth-social-media-121526279.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Kushner gives Hamas stark ultimatum: Disarm or Israel gets US backing to \u2018finish the job\u2019",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/5df34858adcb7c302d4c6bec9dbdb686.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/kushner-gives-hamas-stark-ultimatum-230043827.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Designing food for a hotter world",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/designing-food-for-a-hotter-world/a-78413324?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Inside futuristic labs, plants are scanned, stressed and analysed. The aim is to use the results to produce plant strains that can better serve a grow..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "German court convicts Ukrainian man over Russia parcel plot",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/german-court-convicts-ukrainian-man-over-russia-parcel-plot/a-78414153?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The court said the man sent packages with GPS trackers from Germany to Ukraine to scope out potential sabotage targets for Russian secret services...."
     },
     {
         "source": "Deutsche Welle",
@@ -116,7 +130,7 @@
         "title": "Trump's North Korea overture triggers fears for US alliances",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/trump-s-north-korea-overture-triggers-fears-for-us-alliances/a-78413321?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In announcing scaled back joint military drills with South Korea, the US president appears to be moving towards Pyongyang just as North Korea becomes ..."
+        "summary": "In announcing scaled back joint military drills with South Korea, the US president appears to be moving toward Pyongyang just as North Korea becomes m..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/hyrox-a-global-fitness-sensation-made-in-germany/a-78074218?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Founded in Germany but successful worldwide, Hyrox combines running and functional training into a unique competition format. How a German idea became..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine, Russia trade strikes; Wildberries site hit again",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-russia-trade-strikes-wildberries-site-hit-again/a-78408178?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukriane reported 10 dead in a missile strike in the northeastern Kharkiv oblast near the border. Russia, meanwhile, reported more than 600 drones appr..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pakistan top court orders Imran Khan moved from jail to hospital",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pakistan-top-court-orders-imran-khan-moved-from-jail-to-hospital/a-78409549?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The former Pakistani prime minister's family has repeatedly raised concerns about his deteriorating health in prison. The 73-year-old was jailed in 20..."
     }
 ]
