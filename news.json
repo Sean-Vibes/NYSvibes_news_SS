@@ -85,24 +85,52 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nearly 10 years after a Florida teen vanished in the middle of the night, detectives turn to psychics for help",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/46352cf3d37af8a8ec4c8af40660b8cc.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/nearly-10-years-florida-teen-103030685.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Meta Faces New Youth Social Media Addiction Suit After $1B Loss",
-        "image": "https://media.zenfs.com/en/nbcu_713/07ef34d05a384278af558a1735acab1f.jpg",
-        "link": "https://www.yahoo.com/news/videos/meta-faces-youth-social-media-121526279.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Kushner gives Hamas stark ultimatum: Disarm or Israel gets US backing to \u2018finish the job\u2019",
         "image": "https://media.zenfs.com/en/fox_news_text_979/5df34858adcb7c302d4c6bec9dbdb686.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/kushner-gives-hamas-stark-ultimatum-230043827.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Exclusive-Israeli settler confronts Palestinian American at his besieged West Bank home",
+        "image": "https://media.zenfs.com/en/reuters.com/e3230d2909f75f7f98ff273811ef6d7a.jpg",
+        "link": "https://www.yahoo.com/news/articles/exclusive-israeli-settler-confronts-palestinian-111642581.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Louisiana man accused of killing wife, propping her body up for multistate drive",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/547e52c89cf86cdc7e419a59328e8c78.png",
+        "link": "https://www.yahoo.com/news/us/articles/louisiana-man-accused-killing-wife-012057869.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Dressed for power: Giorgia Meloni and the language of fashion",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/dressed-for-power-giorgia-meloni-and-the-language-of-fashion/a-78413559?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "From Giorgia Meloni\u2019s shift from dark suits to pastels to Angela Merkel\u2019s signature jackets, politicians have long used clothing to shape how voters s..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Syria, US condemn Israeli strikes on military base",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/syria-us-condemn-israeli-strikes-on-military-base/a-78417507?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Israel has not officially claimed the strikes on Abu al-Duhur airbase in Idlib, some 70 kilometers from the Turkish border. US envoy Tom Barrack calle..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Should India be worried about the Mecca defense pact?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/should-india-be-worried-about-the-mecca-defense-pact/a-78415444?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A defense agreement between Pakistan, Saudi Arabia and Turkey brings Islamabad deeper into the security architecture of the Middle East. How is India ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Fact check: How do I spot AI-generated images?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/fact-check-how-do-i-spot-ai-generated-images/a-65252602?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Images created or manipulated with artificial intelligence tools are flooding social media. How can you know what\u2019s real and what\u2019s not? Here are a fe..."
     },
     {
         "source": "Deutsche Welle",
@@ -110,33 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/designing-food-for-a-hotter-world/a-78413324?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Inside futuristic labs, plants are scanned, stressed and analysed. The aim is to use the results to produce plant strains that can better serve a grow..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "German court convicts Ukrainian man over Russia parcel plot",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/german-court-convicts-ukrainian-man-over-russia-parcel-plot/a-78414153?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The court said the man sent packages with GPS trackers from Germany to Ukraine to scope out potential sabotage targets for Russian secret services...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Belgium wildfire: Rains help High Fens containment efforts",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/belgium-wildfire-rains-help-high-fens-containment-efforts/a-78411972?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Firefighters continue to battle one of the worst wildfires in Belgian history near the German border. Rains and cooler temperatures are helping them b..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump's North Korea overture triggers fears for US alliances",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-s-north-korea-overture-triggers-fears-for-us-alliances/a-78413321?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In announcing scaled back joint military drills with South Korea, the US president appears to be moving toward Pyongyang just as North Korea becomes m..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hyrox: a global fitness sensation made in Germany",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hyrox-a-global-fitness-sensation-made-in-germany/a-78074218?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Founded in Germany but successful worldwide, Hyrox combines running and functional training into a unique competition format. How a German idea became..."
     }
 ]
