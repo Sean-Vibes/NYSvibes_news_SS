@@ -71,16 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Judge blocks the Trump administration from moving FBI headquarters to DC office building",
-        "image": "https://media.zenfs.com/en/ap.org/9918b095b818e8cb03e530946f1aebfb.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/judge-blocks-trump-administration-moving-234035705.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nearly 10 years after a Florida teen vanished in the middle of the night, detectives turn to psychics for help",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/46352cf3d37af8a8ec4c8af40660b8cc.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/nearly-10-years-florida-teen-103030685.html",
+        "title": "Iran says it will escalate if US does not honour deal within weeks",
+        "image": "https://media.zenfs.com/en/wthr_tegna_videos_609/987e9503b21115caacb1b7df24d00bbf.jpg",
+        "link": "https://www.yahoo.com/news/articles/iran-says-it-will-escalate-if-us-does-not-honour-deal-within-weeks-134114337.html",
         "summary": "..."
     },
     {
@@ -92,9 +85,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "AG Todd Blanche says \u2018of course\u2019 he\u2019ll listen to Trump\u2019s opinion on prosecutions: Full interview",
-        "image": "https://media.zenfs.com/en/nbcu_713/623f3edfb0bae20fa9ca7aacd617693a.jpg",
-        "link": "https://www.yahoo.com/news/videos/ag-todd-blanche-says-course-130013471.html",
+        "title": "Nearly 10 years after a Florida teen vanished in the middle of the night, detectives turn to psychics for help",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/46352cf3d37af8a8ec4c8af40660b8cc.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/nearly-10-years-florida-teen-103030685.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Judge blocks the Trump administration from moving FBI headquarters to DC office building",
+        "image": "https://media.zenfs.com/en/ap.org/9918b095b818e8cb03e530946f1aebfb.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/judge-blocks-trump-administration-moving-234035705.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,20 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/547e52c89cf86cdc7e419a59328e8c78.png",
         "link": "https://www.yahoo.com/news/us/articles/louisiana-man-accused-killing-wife-012057869.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Philippines: student livestreams school shooting",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/philippines-student-livestreams-school-shooting/a-78406343?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Two students, including the shooter, have been killed and at least two others wounded at a private university campus in the southern port city of Zamb..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Zambia's Hichilema wins second presidential term",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/zambia-s-hichilema-wins-second-presidential-term/a-78406328?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Hakainde Hichilema won over 60% of the vote in the first round of Zambia's presidential election. which also saw authorities launch raids against lead..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/uae-economy-on-the-verge-of-collapse-or-on-way-to-recovery/a-78402980?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "On one hand, the UAE economy is suffering due to the Iran war, as residents leave and tourists cancel plans. On the other hand, UAE authorities insist..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia: Prison for opposition leader over war criticism",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-prison-for-opposition-leader-over-war-criticism/a-78403203?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Lev Shlosberg of the Yabloko party has been sentenced to over 11 years in a penal colony for criticizing the war in Ukraine. \"A single person is impri..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany: Bundeswehr troop numbers reach 13-year high",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-bundeswehr-troop-numbers-reach-13-year-high/a-78400706?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany's Defense Ministry is reporting a comparatively rare success story in its bid to bolster troop numbers. At the end of July, the total stood at..."
     }
 ]
