@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "New DOJ Rule Makes It Easier For Marijuana Users To Regain Their Gun Rights",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/new-doj-rule-makes-it-easier-for-marijuana-users-to-regain-their-gun-rights/",
+        "summary": "<p>A new Department of Justice rule intended to help restore gun rights to people who have been barred from possessing firearms contains provisions th..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "USPS could deliver medical cannabis under rescheduling, state officials say (Newsletter: August 18, 2026)",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/usps-could-deliver-medical-cannabis-under-rescheduling-state-officials-say-newsletter-august-18-2026/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/virginia-hemp-businesses-push-lawmakers-for-special-session-after-judge-declines-to-block-new-thc-product-restrictions/",
         "summary": "<p>&#8220;The judge himself acknowledged that this was rushed legislation, leading to complications and unintended consequences.&#8221; By Samantha Wi..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "South Carolina Lawmakers Are Letting Hemp THC Products Stay Legal Until At Least Next Year",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/south-carolina-lawmakers-are-letting-hemp-thc-products-stay-legal-until-at-least-next-year/",
-        "summary": "<p>&#8220;With THC drinks, it\u2019s different from alcohol that you can smell or smokable marijuana that you can smell.&#8221; By Skylar Laird, South Caro..."
     },
     {
         "source": "MJBizDaily",
@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "How U.S. military funding propelled China\u2019s robot dogs",
-        "image": "https://media.zenfs.com/en/reuters.com/854e92e2cf00e1c346bfab0d935ea661.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/u-military-funding-propelled-china-101213006.html",
+        "title": "Judge blocks the Trump administration from moving FBI headquarters to DC office building",
+        "image": "https://media.zenfs.com/en/ap.org/9918b095b818e8cb03e530946f1aebfb.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/judge-blocks-trump-administration-moving-234035705.html",
         "summary": "..."
     },
     {
@@ -85,24 +85,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Can old debt be re-added to your credit report?",
+        "image": "https://media.zenfs.com/en/cbs_news_897/ba5eb463b5b8053a4df5696064e99879.jpg",
+        "link": "https://finance.yahoo.com/markets/articles/old-debt-added-credit-report-155727056.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Exclusive-Israeli settler confronts Palestinian American at his besieged West Bank home",
+        "image": "https://media.zenfs.com/en/reuters.com/e3230d2909f75f7f98ff273811ef6d7a.jpg",
+        "link": "https://www.yahoo.com/news/articles/exclusive-israeli-settler-confronts-palestinian-111642581.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Nearly 10 years after a Florida teen vanished in the middle of the night, detectives turn to psychics for help",
         "image": "https://media.zenfs.com/en/cnn_articles_875/46352cf3d37af8a8ec4c8af40660b8cc.jpg",
         "link": "https://www.yahoo.com/news/us/articles/nearly-10-years-florida-teen-103030685.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Republicans won the redistricting competition. Don't tell that to this California congressman",
-        "image": "https://media.zenfs.com/en/ap.org/6fac0b27cea874b88c5f93fc6352ce5a.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/republicans-won-redistricting-competition-dont-114232311.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Belgium wildfire: Rains help High Fens containment efforts",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/belgium-wildfire-rains-help-high-fens-containment-efforts/a-78411972?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Firefighters continue to battle one of the worst wildfires in Belgian history near the German border. Rains and cooler temperatures are helping them b..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kushner gives Hamas stark ultimatum: Disarm or Israel gets US backing to \u2018finish the job\u2019",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/5df34858adcb7c302d4c6bec9dbdb686.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/kushner-gives-hamas-stark-ultimatum-230043827.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Trump's North Korea overture triggers fears for US alliances",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-s-north-korea-overture-triggers-fears-for-us-alliances/a-78413321?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "In announcing scaled back joint military drills with South Korea, the US president appears to be moving towards Pyongyang just as North Korea becomes ..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/pakistan-top-court-orders-imran-khan-moved-from-jail-to-hospital/a-78409549?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The former Pakistani prime minister's family has repeatedly raised concerns about his deteriorating health in prison. The 73-year-old was jailed in 20..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Zambia's election marred by irregularities and 'militia' arrests",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/zambia-s-election-marred-by-irregularities-and-militia-arrests/a-78400154?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Zambia is gripped by allegations of armed plots, intimidation and electoral interference. As President Hakainde Hichilema leads the count, concerns ar..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Fact check: How do I spot propaganda?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fact-check-how-do-i-spot-propaganda/a-60245403?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Across the world, politicians use propaganda to manipulate the thoughts and actions of others. It's a strategy deployed by democracies and dictatorshi..."
     }
 ]
