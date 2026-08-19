@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Senator presses Hegseth, Caine for commitment to keep US military out of the midterm elections",
-        "image": "https://media.zenfs.com/en/ap.org/182b87e0960bec509825f4015cf2a1c8.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/senator-presses-hegseth-caine-commitment-165520325.html",
+        "title": "A physics graduate, a soccer player, a teen who couldn't swim: They died in the Ceuta migrant surge",
+        "image": "https://media.zenfs.com/en/ap.org/990dc76b3fe3ec8c38b6b96f3c9e0fcf.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/physics-graduate-soccer-player-teen-040741176.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,20 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/28cc6c7ac42f8a02fe6462626d5f84d3.jpg",
         "link": "https://www.yahoo.com/news/us/articles/penn-state-frat-coke-rings-170351185.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US: Meta hooked children, prosecutors say, as trial over social media harm begins",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-meta-hooked-children-prosecutors-say-as-trial-over-social-media-harm-begins/a-78408050?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Four US states have taken Meta to court, accusing the social media giant of deliberately making Facebook and Instagram addictive for children. Meta ha..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "German Africa Prize goes to Kenyan social entrepreneur",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/german-africa-prize-goes-to-kenyan-social-entrepreneur/a-78417681?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Wawira Njiru organizes meals for hundreds of thousands of schoolchildren in Kenya, while at the same time supporting local farmers. For this, she is b..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/nigeria-dozens-killed-in-plateau-state-attack/a-78419529?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Officials in Nigeria have said at least 25 people were killed in their homes when armed men stormed their village Monday night. Fears of reprisal are ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Middle East: No talks or conversations with Iran, Trump says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/middle-east-no-talks-or-conversations-with-iran-trump-says/live-78419518?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Trump also claimed that the Strait of Hormuz was \"open and operating,\" contrary to Iranian reports. Meanwhile, Syria, the US and Turkey condemned Isra..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Afghanistan: Only 5% of labor market are women under Taliban",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/afghanistan-only-5-of-labor-market-are-women-under-taliban/a-78415895?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The International Labour Organization estimates that only 5.1% of workers in Afghanistan are women, five years after the Taliban's return to power. Th..."
     }
 ]
