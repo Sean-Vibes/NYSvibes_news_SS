@@ -78,23 +78,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Dredging works to improve historic port begins",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/a8d6726bc6f12b28a997616ab4ce7b3d.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/dredging-works-improve-historic-port-050900853.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Manhunt underway after off-duty Massachusetts police veteran found dead at woman's home",
         "image": "https://media.zenfs.com/en/fox_news_text_979/8a9a8ee1345d9376f6480837f5bad023.png",
         "link": "https://www.yahoo.com/news/us/articles/manhunt-underway-off-duty-massachusetts-195944160.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Judge blocks the Trump administration from moving FBI headquarters to DC office building",
-        "image": "https://media.zenfs.com/en/ap.org/9918b095b818e8cb03e530946f1aebfb.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/judge-blocks-trump-administration-moving-234035705.html",
         "summary": "..."
     },
     {
@@ -105,6 +91,27 @@
         "summary": "..."
     },
     {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Senator presses Hegseth, Caine for commitment to keep US military out of the midterm elections",
+        "image": "https://media.zenfs.com/en/ap.org/182b87e0960bec509825f4015cf2a1c8.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/senator-presses-hegseth-caine-commitment-165520325.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Veteran Dem defeats scandal-plagued former lawmaker, progressive challenger in Trump's backyard",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/e5991ebaea811f3cc1a1b50e18da830b.png",
+        "link": "https://www.yahoo.com/news/politics/articles/veteran-dem-defeats-scandal-plagued-232739945.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US, South Korea cut short joint drills after Trump criticism",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-south-korea-cut-short-joint-drills-after-trump-criticism/a-78421117?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Allies US and South Korea are currently holding joint military exercises. The drills will, however, wrap up earlier than planned after Trump ordered c..."
+    },
+    {
         "source": "Deutsche Welle",
         "title": "In drought-stricken France, tankers supply drinking water",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
@@ -113,10 +120,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "US, Canada agree deal that pauses 50% tariffs, Trump says",
+        "title": "US, Canada reach deal that pauses 50% tariffs, Trump says",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-canada-agree-deal-that-pauses-50-tariffs-trump-says/a-78421098?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Donald Trump says the deal, reached the day before 50% tariffs were set to take effect, could also revive the controversial Keystone XL pipeline proje..."
+        "link": "https://www.dw.com/en/us-canada-reach-deal-that-pauses-50-tariffs-trump-says/a-78421098?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Donald Trump said the deal, reached the day before 50% tariffs were set to take effect, could also revive the controversial Keystone XL pipeline proje..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/german-africa-prize-goes-to-kenyan-social-entrepreneur/a-78417681?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Wawira Njiru organizes meals for hundreds of thousands of schoolchildren in Kenya, while at the same time supporting local farmers. For this, she is b..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US imposes new sanctions on ICC president, senior lawyer in latest escalation",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-imposes-new-sanctions-on-icc-president-senior-lawyer-in-latest-escalation/a-78420261?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US has announced it will impose additional sanctions on members of the International Criminal Court. The ICC said the latest US move against it \"u..."
     }
 ]
