@@ -92,17 +92,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "A physics graduate, a soccer player, a teen who couldn't swim: They died in the Ceuta migrant surge",
-        "image": "https://media.zenfs.com/en/ap.org/990dc76b3fe3ec8c38b6b96f3c9e0fcf.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/physics-graduate-soccer-player-teen-040741176.html",
+        "title": "Exclusive-Israeli settler confronts Palestinian American at his besieged West Bank home",
+        "image": "https://media.zenfs.com/en/reuters.com/e3230d2909f75f7f98ff273811ef6d7a.jpg",
+        "link": "https://www.yahoo.com/news/articles/exclusive-israeli-settler-confronts-palestinian-111642581.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Fact check: Every single part of this Trump story about South Korea is wrong",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/dbaf546069d0a89615aa74673957bbc5.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/fact-check-every-single-part-223113956.html",
+        "title": "Pedestrian dies after being struck by lorry in Scottish Borders",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/577ece5a0bb03b39f06adad8645777c1.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/pedestrian-dies-being-struck-lorry-210940124.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Nick Kyrgios suspended after testing positive for cocaine",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/nick-kyrgios-suspended-after-testing-positive-for-cocaine/a-78426460?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Australian tennis player Nick Kyrgios has been provisionally suspended since August 4 after testing positive for cocaine. The 31-year-old apologized t..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Minister wants to help renters to install AC",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-minister-wants-to-help-renters-to-install-ac/live-78421815?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The justice minister wants to make it easier for tenants to install air conditioning or external blinds. The CEO of a defense startup is reportedly in..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Who really owns the Caspian Sea?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/who-really-owns-the-caspian-sea/a-78396946?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Five countries border the Caspian Sea, but none owns a fixed share. A 2018 convention established rules for navigation, security and fishing while lea..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/messi-retirement-hint-highlights-football-era-nearing-an-end/a-78415527?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Soon after propelling Argentina to a second consecutive World Cup final, Lionel Messi has cast some doubt on his future. While retirement doesn't seem..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine updates: Ousted minister Fedorov calls for elections",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-updates-ousted-minister-fedorov-calls-for-elections/live-78421712?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Former Ukrainian Defense Minister Mykhailo Fedorov has called for wartime elections in Ukraine in the biggest challenge to President Volodymyr Zelensk..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nigeria: Campaign kicks off for 2027 presidential election",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nigeria-campaign-kicks-off-for-2027-presidential-election/a-78421873?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Electioneering has begun in Nigeria five months ahead of the presidential poll. The economy and security are expected to be the two main issues for ca..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: Several killed in Kolkata hotel fire",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-several-killed-in-kolkata-hotel-fire/live-78421640?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "At least nine people have died, including some Bangladeshi nationals, authorities said. Meanwhile, the building's owner was reportedly absconding. DW ..."
     }
 ]
