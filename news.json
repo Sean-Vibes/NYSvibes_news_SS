@@ -71,9 +71,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Senator presses Hegseth, Caine for commitment to keep US military out of the midterm elections",
-        "image": "https://media.zenfs.com/en/ap.org/182b87e0960bec509825f4015cf2a1c8.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/senator-presses-hegseth-caine-commitment-165520325.html",
+        "title": "Israeli settler confronts Palestinian American at his besieged West Bank home",
+        "image": "https://media.zenfs.com/en/reuters.com/2c4f28b938944b23232e17cdff13939e.jpg",
+        "link": "https://www.yahoo.com/news/articles/exclusive-israeli-settler-confronts-palestinian-111642581.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Prosecutors say bullet engraving shows Charlie Kirk was shot over his politics",
+        "image": "https://media.zenfs.com/en/cbs_news_897/503f6e7f641fbe3ac3d585ae4f7faee3.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/prosecutors-bullet-engraving-shows-charlie-112023520.html",
         "summary": "..."
     },
     {
@@ -85,30 +92,30 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Senator presses Hegseth, Caine for commitment to keep US military out of the midterm elections",
+        "image": "https://media.zenfs.com/en/ap.org/182b87e0960bec509825f4015cf2a1c8.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/senator-presses-hegseth-caine-commitment-165520325.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Hayden Panettiere\u2019s ex Brian Hickerson handed police bag of medication after her death",
         "image": "https://media.zenfs.com/en/fox_news_text_979/b8fdb4238a466ec1c496b6f187c4892b.jpg",
         "link": "https://www.yahoo.com/entertainment/celebrity/articles/hayden-panettiere-ex-brian-hickerson-121339364.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russia's Putin orders government to help rebuild warehouses destroyed in Ukrainian attacks",
-        "image": "https://media.zenfs.com/en/reuters.com/81b0fb14cae01a762475019433200428.jpg",
-        "link": "https://www.yahoo.com/news/articles/russias-putin-orders-government-help-131815853.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Lightning sparks massive explosion at Oklahoma pipeline facility",
-        "image": "https://media.zenfs.com/en/nbcu_713/5441ed20348bfedb00611f62a9aa3e07.jpg",
-        "link": "https://www.yahoo.com/news/videos/lightning-sparks-massive-explosion-oklahoma-225550014.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "CAR: Scores killed in landslide at illegal gold mine",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/car-scores-killed-in-landslide-at-illegal-gold-mine/a-78435510?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "More than 100 workers may have been killed in a landslide at an illegal mine near the Central African Republic's border with Cameroon, say authorities..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "German lawmakers condemn Israeli minister's Gaza remarks",
+        "title": "Germany condemns Israeli minister's call to 'remove' Palestinians",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/german-lawmakers-condemn-israeli-minister-s-gaza-remarks/a-78435299?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/germany-condemns-israeli-minister-s-call-to-remove-palestinians/a-78435299?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "German Chancellor Friedrich Merz has denounced a call by Israel's far-right security minister to carry out \"targeted killings\" of Palestinians in Gaza..."
     },
     {
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-s-rusting-sea-munitions-are-a-toxic-time-bomb/a-78419545?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Toxic chemicals from decades-old bombs are contaminating marine life in German waters. Scientists warn that the window to remove the weapons is closin..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Amid extreme heat, water grows scarce around Berlin",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/amid-extreme-heat-water-grows-scarce-around-berlin/a-78428993?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Though the German state of Brandenburg that wraps around Berlin is getting drier, it is also home to thirsty industrial plants such as Tesla and Red B..."
     }
 ]
