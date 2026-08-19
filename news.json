@@ -106,6 +106,13 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "US, Canada agree deal that pauses 50% tariffs, Trump says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-canada-agree-deal-that-pauses-50-tariffs-trump-says/a-78421098?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Donald Trump says the deal, reached the day before 50% tariffs were set to take effect, could also revive the controversial Keystone XL pipeline proje..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "US: Meta hooked children, prosecutors say, as trial over social media harm begins",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-meta-hooked-children-prosecutors-say-as-trial-over-social-media-harm-begins/a-78408050?maca=en-rss-en-all-1573-xml-mrss",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/minors-living-alone-on-ceuta-s-streets-at-risk-of-abuse/a-78416604?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Several thousand unaccompanied minors have gathered in Ceuta, a Spanish enclave on the northern coast of Africa. Illness and abuse are rife, and the a..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nigeria: Dozens killed in Plateau state attack",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nigeria-dozens-killed-in-plateau-state-attack/a-78419529?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Officials in Nigeria have said at least 25 people were killed in their homes when armed men stormed their village Monday night. Fears of reprisal are ..."
     }
 ]
