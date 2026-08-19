@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Israeli settler confronts Palestinian American at his besieged West Bank home",
-        "image": "https://media.zenfs.com/en/reuters.com/2c4f28b938944b23232e17cdff13939e.jpg",
-        "link": "https://www.yahoo.com/news/articles/exclusive-israeli-settler-confronts-palestinian-111642581.html",
+        "title": "Russia's Putin orders government to help rebuild warehouses destroyed in Ukrainian attacks",
+        "image": "https://media.zenfs.com/en/reuters.com/81b0fb14cae01a762475019433200428.jpg",
+        "link": "https://www.yahoo.com/news/articles/russias-putin-orders-government-help-131815853.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/359e299439a3ec646b98738f14fc3d6a.jpg",
         "link": "https://health.yahoo.com/conditions/cancer/stomach-cancer/articles/popular-daily-drinking-habit-could-110023427.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Kenya: Helicopter crash kills 7, including Ecuador spy boss",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/kenya-helicopter-crash-kills-7-including-ecuador-spy-boss/a-78437850?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Six passengers \u2014 five US citizens and Ecuador's intel boss \u2014 all died in a remote area of Kenya on Wednesday when their helicopter crashed. Aviation a..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/liberia-says-it-s-taking-in-1-200-third-country-us-deportees/a-78436127?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The government in Monrovia says the first batch of 20 people should arrive in Liberia on Thursday. The Trump administration has been seeking countries..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "CAR: Scores killed in landslide at illegal gold mine",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/car-scores-killed-in-landslide-at-illegal-gold-mine/a-78435510?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "More than 100 workers may have been killed in a landslide at an illegal mine near the Central African Republic's border with Cameroon, say authorities..."
     }
 ]
