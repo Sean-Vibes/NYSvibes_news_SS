@@ -92,17 +92,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "'No serious dispute' that Comey's seashell post could be read as a Trump threat, prosecutors say",
-        "image": "https://media.zenfs.com/en/ap.org/6048f6fef1a1c475a8a317f8724851b9.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/no-serious-dispute-comeys-seashell-115135961.html",
+        "title": "Russia's Putin orders government to help rebuild warehouses destroyed in Ukrainian attacks",
+        "image": "https://media.zenfs.com/en/reuters.com/81b0fb14cae01a762475019433200428.jpg",
+        "link": "https://www.yahoo.com/news/articles/russias-putin-orders-government-help-131815853.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Safari helicopter crash in Kenya kills 7, including Telemundo executive",
-        "image": "https://media.zenfs.com/en/nbcu_713/9450440eddf2ca87817f25cb00f4e065.jpg",
-        "link": "https://www.yahoo.com/news/videos/safari-helicopter-crash-kenya-kills-223759223.html",
+        "title": "Third body found in Minneapolis in three days as police investigate string of deaths: report",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/dceef07c356a40ef154ac11edc8c1ada.jpg",
+        "link": "https://www.yahoo.com/news/articles/third-body-found-minneapolis-three-221304471.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "North Korea fires possible ballistic missile toward sea",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/north-korea-fires-possible-ballistic-missile-toward-sea/a-78440280?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The launch came hours after US President Trump announced plans to meet Kim Jong Un later this year...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Powerful storms damage homes, leave 1 dead",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-powerful-storms-damage-homes-leave-1-dead/live-78439067?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany is grappling with the impacts of damaging storms after a prolonged dry spell. Meanwhile, a CDU politician in Saxony-Anhalt reportedly donated ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: US envoy's Kashmir remarks reignite Pakistan row",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-us-envoy-s-kashmir-remarks-reignite-pakistan-row/live-78438645?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US envoy Sergio Gor's remark calling Jammu and Kashmir an \"important part of India,\" triggering a diplomatic spat between Islamabad and New Delhi. DW ..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/middle-east-updates-trump-warns-economic-consequences-for-nations-helping-iran/live-78438056?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "US President Donald Trump has threatened Iran with an \"economic warfare\". Meanwhile, Australia summoned Israel's envoy over the 2024 death of an aid w..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Bangladesh lawmakers set to elect Alamgir president",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/bangladesh-lawmakers-set-to-elect-alamgir-president/a-78438534?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "With the ruling party holding more than a two-thirds majority in parliament, the veteran BNP politician is expected to secure the largely ceremonial p..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Harry and Meghan moving back to Britain: reports",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/harry-and-meghan-moving-back-to-britain-reports/a-78438052?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Prince Harry and Meghan Markle will return to the UK after living in the US for over six years, according to reports. The former senior royals will re..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine: Several killed in fresh Russian strikes on Kyiv",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-several-killed-in-fresh-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The strikes on the Ukrainian capital and its surrounding regions also injured dozens. In neighboring Poland, the military started preventive aviation ..."
     }
 ]
