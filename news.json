@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Cannabis Drinks Help People Consume Less Alcohol While Improving Sleep And Mood, Study Finds",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/cannabis-drinks-help-people-consume-less-alcohol-while-improving-sleep-and-mood-study-finds/",
+        "summary": "<p>Most people who consume cannabis beverages end up drinking less alcohol\u2014 and see improved sleep, less stress and reduced pain, according to the res..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "SXSW Is Considering Marijuana And Psychedelics Panel Proposals For 2027 Festival, And You Can Vote On Them",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/sxsw-is-considering-marijuana-and-psychedelics-panel-proposals-for-2027-festival-and-you-can-vote-on-them/",
@@ -28,11 +35,11 @@
         "summary": "<p>NH lawmakers override marijuana greenhouse veto; Study: Medical cannabis helps sleep; Study: Psilocybin boosts mental health; Rescheduling op-ed Su..."
     },
     {
-        "source": "Marijuana Moment",
-        "title": "New Hampshire Lawmakers Override Governor\u2019s Veto Of Bill Allowing Medical Marijuana Cultivation In Greenhouses",
+        "source": "MJBizDaily",
+        "title": "New Mexico cannabis sales steady as Texas border towns drive growth",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/new-hampshire-lawmakers-override-governors-veto-of-bill-allowing-medical-marijuana-cultivation-in-greenhouses/",
-        "summary": "<p>New Hampshire lawmakers have voted to override the governor&#8217;s veto of a bill to let medical cannabis companies grow marijuana in greenhouses...."
+        "link": "https://mjbizdaily.com/news/new-mexico-cannabis-sales-steady-as-texas-border-towns-drive-growth/617521/",
+        "summary": "<p>Through the first half of the year, retailers generated about $284.9 million in combined adult-use and medical marijuana sales.</p>\n<p><a href=\"htt..."
     },
     {
         "source": "MJBizDaily",
@@ -63,17 +70,10 @@
         "summary": "<p>Data center developers are eyeing distressed cannabis grow facilities for their high-capacity power, HVAC and security as the industry downturn dee..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Cannabis MSO Curaleaf advances hostile takeover of Canadian LP Aurora",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/cannabis-mso-curaleaf-advances-hostile-takeover-of-canadian-lp-aurora/617472/",
-        "summary": "<p>Curaleaf commenced the offer Aug. 18, moving past Aurora\u2019s leadership to put the proposal in front of investors.</p>\n<p><a href=\"https://mjbizdaily..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ex-Fauci adviser pleads guilty to plotting to conceal COVID-19 research records during pandemic",
-        "image": "https://media.zenfs.com/en/khou_tegna_videos_705/e4dcbd5c17f1ce52a3b228354bd81aa6",
-        "link": "https://www.yahoo.com/news/politics/articles/us--fauci-adviser-guilty-plea-000209167.html",
+        "title": "'No serious dispute' that Comey's seashell post could be read as a Trump threat, prosecutors say",
+        "image": "https://media.zenfs.com/en/ap.org/6048f6fef1a1c475a8a317f8724851b9.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/no-serious-dispute-comeys-seashell-115135961.html",
         "summary": "..."
     },
     {
@@ -92,17 +92,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Israeli settler confronts Palestinian American at his besieged West Bank home",
-        "image": "https://media.zenfs.com/en/reuters.com/2c4f28b938944b23232e17cdff13939e.jpg",
-        "link": "https://www.yahoo.com/news/articles/exclusive-israeli-settler-confronts-palestinian-111642581.html",
+        "title": "Deputy tried to serve civil papers to Deion Sanders at Colorado practice, but coach was unavailable",
+        "image": "https://media.zenfs.com/en/ap.org/1b5758959d4e06c910196024ce8dcc7f.jpg",
+        "link": "https://sports.yahoo.com/articles/deputy-tried-serve-civil-papers-181225925.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran loses key economic lifeline in Middle East that Trump's sanctions couldn't reach as deadlock persists",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/af85e2b57d2230c2ffa3b1e2881de597.jpg",
-        "link": "https://finance.yahoo.com/economy/articles/iran-loses-key-economic-lifeline-145534682.html",
+        "title": "Two college cyclists killed in Tennessee crash",
+        "image": "https://media.zenfs.com/en/nbcu_713/65e224b7b80c38b63ba1f3d610518fa0.jpg",
+        "link": "https://www.yahoo.com/news/videos/two-college-cyclists-killed-tennessee-225734005.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Nigeria: Dozens dead after boat capsizes in Sokoto",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/nigeria-dozens-dead-after-boat-capsizes-in-sokoto/a-78449903?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "At least 50 people \u2014 many of them reportedly children \u2014 have died in a boat accident in northwestern Nigeria...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Why is Israel's military presence growing in Syria?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/why-is-israel-s-military-presence-growing-in-syria/a-78435811?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The recent Israeli attack on a Syrian airbase is just one of many Israeli incursions into Syria. In southern Syria, locals say Israeli troops have det..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-powerful-storms-turn-deadly/live-78439067?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Germany is grappling with the impacts of damaging storms after a prolonged dry spell. Meanwhile, a CDU politician in Saxony-Anhalt reportedly donated ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why are Germany's gas storage levels so low?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-are-germany-s-gas-storage-levels-so-low/a-78440677?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany's gas storage facilities are only 50% full as traders bet that wholesale prices will fall if the Iran war ends. With around three months until..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How do teenagers keep accessing guns in Southeast Asia?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-do-teenagers-keep-accessing-guns-in-southeast-asia/a-78446354?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Recent deadly shootings in Thailand and the Philippines have put gun laws under scrutiny while raising questions about a broader problem of firearm ac..."
     }
 ]
