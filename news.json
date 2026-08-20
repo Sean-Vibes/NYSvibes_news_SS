@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Senator presses Hegseth, Caine for commitment to keep US military out of the midterm elections",
-        "image": "https://media.zenfs.com/en/ap.org/182b87e0960bec509825f4015cf2a1c8.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/senator-presses-hegseth-caine-commitment-165520325.html",
+        "title": "Israeli settler confronts Palestinian American at his besieged West Bank home",
+        "image": "https://media.zenfs.com/en/reuters.com/2c4f28b938944b23232e17cdff13939e.jpg",
+        "link": "https://www.yahoo.com/news/articles/exclusive-israeli-settler-confronts-palestinian-111642581.html",
         "summary": "..."
     },
     {
@@ -92,17 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ex-Fauci adviser pleads guilty to plotting to conceal COVID-19 research records during pandemic",
-        "image": "https://media.zenfs.com/en/khou_tegna_videos_705/e4dcbd5c17f1ce52a3b228354bd81aa6",
-        "link": "https://www.yahoo.com/news/politics/articles/us--fauci-adviser-guilty-plea-000209167.html",
+        "title": "Appeals court says Trump-appointed US attorney in Nevada can\u2019t legally serve in the role",
+        "image": "https://media.zenfs.com/en/ap.org/f53a66cf46797327026f18e544c58ddc.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/appeals-court-says-trump-appointed-163130513.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Karen Bass ripped after viral video lays out taxpayer-funded match of campaign donations",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/364d3fcb58db1bf75abb6d0d14e437ec.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/karen-bass-ripped-viral-video-182455425.html",
+        "title": "How AI Has Become a Fixture in Classrooms and Homes",
+        "image": "https://media.zenfs.com/en/nbcu_713/8ad2cfc7bca03509b4ce141d37b71d2c.jpg",
+        "link": "https://www.yahoo.com/news/videos/ai-become-fixture-classrooms-homes-123040169.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine: Several killed in fresh Russian strikes on Kyiv",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-several-killed-in-fresh-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The strikes on the Ukrainian capital and its surrounding regions also injured dozens. In neighboring Poland, the military started preventive aviation ..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,13 +131,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ceuta-madrid-to-transfer-500-vulnerable-youths-to-mainland/a-78437405?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Spanish officials have come up with a plan to transfer unaccompanied youth in the exclave Ceuta to mainland Spain. Mostly girls, they will be placed i..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Zambia: Mundubile seeks to overturn election result in court",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/zambia-mundubile-seeks-to-overturn-election-result-in-court/a-78436788?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Zambian opposition leader Brian Mundubile's party alleges shots were fired during a raid of his house on election night. UN rights chief Volker T\u00fcrk c..."
     },
     {
         "source": "Deutsche Welle",
