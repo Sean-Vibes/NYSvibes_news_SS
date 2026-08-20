@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Israeli settler confronts Palestinian American at his besieged West Bank home",
-        "image": "https://media.zenfs.com/en/reuters.com/2c4f28b938944b23232e17cdff13939e.jpg",
-        "link": "https://www.yahoo.com/news/articles/exclusive-israeli-settler-confronts-palestinian-111642581.html",
+        "title": "Russia's Putin orders government to help rebuild warehouses destroyed in Ukrainian attacks",
+        "image": "https://media.zenfs.com/en/reuters.com/81b0fb14cae01a762475019433200428.jpg",
+        "link": "https://www.yahoo.com/news/articles/russias-putin-orders-government-help-131815853.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Analysis-Moderna, Merck breakthrough could usher in wave of cancer vaccines",
-        "image": "https://media.zenfs.com/en/reuters.com/2a0c304a75dadd52058d3ded5b349c74.jpg",
-        "link": "https://finance.yahoo.com/news/analysis-moderna-merck-breakthrough-could-210035955.html",
+        "title": "Comedians Eric Andr\u00e9 and Clayton English settle lawsuit over drug search program at Atlanta airport",
+        "image": "https://media.zenfs.com/en/ap.org/f7187e556f0bf6d54463e2a065976a4f.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/comedians-eric-andr-clayton-english-173046661.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,27 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/28cc6c7ac42f8a02fe6462626d5f84d3.jpg",
         "link": "https://www.yahoo.com/news/us/articles/penn-state-frat-coke-rings-170351185.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Why are Germany's gas storage levels so low?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/why-are-germany-s-gas-storage-levels-so-low/a-78440677?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany's gas storage facilities are only 50% full as traders bet that wholesale prices will fall if the Iran war ends. With around three months until..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "How do teenagers keep accessing guns in Southeast Asia?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/how-do-teenagers-keep-accessing-guns-in-southeast-asia/a-78446354?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Deadly attacks in Thailand and the Philippines have put gun laws under scrutiny while raising questions about a broader problem of firearm access, acc..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Romania destroys drone near gas project, blames Russia",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/romania-destroys-drone-near-gas-project-blames-russia/a-78447040?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Two F-16 fighter jets scrambled after spotting a drone \"loaded with explosives\" near a Black Sea gas project. EU chief Ursula von der Leyen said the i..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/bangladesh-lawmakers-elect-bnp-s-alamgir-as-president/a-78438534?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The longtime opposition figure's party came to power after the 2024 revolution, which ousted the government of Sheikh Hasina...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "In Iran, contact with foreigners could soon be a crime",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/in-iran-contact-with-foreigners-could-soon-be-a-crime/a-78443425?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A new bill would impose sweeping restrictions and penalties for ties with foreign institutions and contacts with foreign-based media, making it even m..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Munich prosecutors close fatal 1970 antisemitic arson case",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/munich-prosecutors-close-fatal-1970-antisemitic-arson-case/a-78440307?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Prosecutors and police in Munich believe they have identified the man who set a 1970 fire at a Jewish community center and old people's home that kill..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "South Africa's ANC faces voter backlash",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/south-africa-s-anc-faces-voter-backlash/a-78430445?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Anti-migrant violence, economic stagnation and corruption allegations are eroding support for South Africa's ruling ANC ahead of local elections in No..."
     }
 ]
