@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Massachusetts Voters Don\u2019t Support Repealing Recreational Marijuana Sales On The Ballot, Poll Shows",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/massachusetts-voters-dont-support-repealing-recreational-marijuana-sales-on-the-ballot-poll-shows/",
+        "summary": "<p>Most Massachusetts voters oppose\u00a0a measure on the November ballot to roll back the state&#8217;s marijuana legalization law, according to a new pol..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "FDA Wants Help Monitoring Marijuana And Hemp Posts On TikTok, Reddit And Instagram",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/fda-seeks-contractor-to-monitor-marijuana-and-hemp-posts-on-tiktok-reddit-and-instagram/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/why-deas-marijuana-rescheduling-proposal-may-be-doa-under-the-trump-administration-op-ed/",
         "summary": "<p>&#8220;Trump himself has never called for relaxing federal controls on adult-use marijuana.&#8221; By Robert A. Mikos, Vanderbilt University Law Sc..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Oregon\u2019s Psilocybin Program Helps People Improve Mental Health, Federally Funded Study Published By American Medical Association Shows",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/oregons-psilocybin-program-helps-people-improve-mental-health-federally-funded-study-published-by-american-medical-association-shows/",
-        "summary": "<p>&#8220;They reported decreases in depression, anxiety, and posttraumatic stress disorder symptoms; improved life satisfaction; and improved mental ..."
     },
     {
         "source": "MJBizDaily",
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Deputy tried to serve civil papers to Deion Sanders at Colorado practice, but coach was unavailable",
-        "image": "https://media.zenfs.com/en/ap.org/1b5758959d4e06c910196024ce8dcc7f.jpg",
-        "link": "https://sports.yahoo.com/articles/deputy-tried-serve-civil-papers-181225925.html",
+        "title": "Analysis-Moderna, Merck breakthrough could usher in wave of cancer vaccines",
+        "image": "https://media.zenfs.com/en/reuters.com/2a0c304a75dadd52058d3ded5b349c74.jpg",
+        "link": "https://finance.yahoo.com/news/analysis-moderna-merck-breakthrough-could-210035955.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/28cc6c7ac42f8a02fe6462626d5f84d3.jpg",
         "link": "https://www.yahoo.com/news/us/articles/penn-state-frat-coke-rings-170351185.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Israel warns Turkey against 'dangerous adventures in Syria'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/israel-warns-turkey-against-dangerous-adventures-in-syria/a-78443259?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Turkey says it will continue supporting Syria's sovereignty after Israel bombed a Syrian air base and accused Turkish President Erdogan of dragging hi..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/south-africa-s-anc-faces-voter-backlash/a-78430445?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Anti-migrant violence, economic stagnation and corruption allegations are eroding support for South Africa's ruling ANC ahead of local elections in No..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How DW fact-checks fake news",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-dw-fact-checks-fake-news/a-64950646?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Disinformation spreads fast. Step inside DW's fact-checking process and see how the team puts online claims to the test...."
     }
 ]
