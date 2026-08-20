@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Israeli strikes an air base in northwest Syria to prevent Turkish troops from deploying",
-        "image": "https://media.zenfs.com/en/ap.org/1ec38e7c629b59aee4d48c1dc7bcce93.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/syrian-state-tv-israeli-strikes-092442010.html",
+        "title": "Israeli settler confronts Palestinian American at his besieged West Bank home",
+        "image": "https://media.zenfs.com/en/reuters.com/2c4f28b938944b23232e17cdff13939e.jpg",
+        "link": "https://www.yahoo.com/news/articles/exclusive-israeli-settler-confronts-palestinian-111642581.html",
         "summary": "..."
     },
     {
@@ -92,17 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Quebec separatist leader says no independence referendum until Trump leaves office",
-        "image": "https://media.zenfs.com/en/ap.org/00a10460be8c35c80fab5c80ea18feca.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/quebec-separatist-leader-says-no-135828214.html",
+        "title": "'No serious dispute' that Comey's seashell post could be read as a Trump threat, prosecutors say",
+        "image": "https://media.zenfs.com/en/ap.org/6048f6fef1a1c475a8a317f8724851b9.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/no-serious-dispute-comeys-seashell-115135961.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Teacher found dead with throat slit; detectives scrutinize husband\u2019s shifting story",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/475dadd75b2b5d97fef185cf14a634dd.png",
-        "link": "https://www.yahoo.com/news/us/articles/teacher-found-dead-throat-slit-213007424.html",
+        "title": "Safari helicopter crash in Kenya kills 7, including Telemundo executive",
+        "image": "https://media.zenfs.com/en/nbcu_713/9450440eddf2ca87817f25cb00f4e065.jpg",
+        "link": "https://www.yahoo.com/news/videos/safari-helicopter-crash-kenya-kills-223759223.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Evergrande founder Hui Ka Yan sentenced to life in prison",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/evergrande-founder-hui-ka-yan-sentenced-to-life-in-prison/a-78439153?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A Chinese court ordered the former billionaire's assets to be confiscated and fined Evergrande-related companies billions of dollars...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukraine-several-killed-in-fresh-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The strikes on the Ukrainian capital and its surrounding regions also injured dozens. In neighboring Poland, the military started preventive aviation ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Kenya: Helicopter crash kills 7, including Ecuador spy boss",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/kenya-helicopter-crash-kills-7-including-ecuador-spy-boss/a-78437850?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Six passengers \u2014 five US citizens and Ecuador's intel boss \u2014 all died in a remote area of Kenya on Wednesday when their helicopter crashed. Aviation a..."
     }
 ]
