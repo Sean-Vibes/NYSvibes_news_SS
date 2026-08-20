@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russia's Putin orders government to help rebuild warehouses destroyed in Ukrainian attacks",
-        "image": "https://media.zenfs.com/en/reuters.com/81b0fb14cae01a762475019433200428.jpg",
-        "link": "https://www.yahoo.com/news/articles/russias-putin-orders-government-help-131815853.html",
+        "title": "'No serious dispute' that Comey's seashell post could be read as a Trump threat, prosecutors say",
+        "image": "https://media.zenfs.com/en/ap.org/6048f6fef1a1c475a8a317f8724851b9.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/no-serious-dispute-comeys-seashell-115135961.html",
         "summary": "..."
     },
     {
@@ -85,24 +85,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Penn State frat coke ring's alleged ringleader denied bail after missing arraignment, turning himself in",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/28cc6c7ac42f8a02fe6462626d5f84d3.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/penn-state-frat-coke-rings-170351185.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Kennedy Center tells court it won't try to restore Trump's name to the building before Sept. 8",
+        "image": "https://media.zenfs.com/en/ap.org/2af64d080f63b2229f62afc15c6908db.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/kennedy-center-tells-court-wont-134001375.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Third body found in Minneapolis in three days as police investigate string of deaths: report",
         "image": "https://media.zenfs.com/en/fox_news_text_979/dceef07c356a40ef154ac11edc8c1ada.jpg",
         "link": "https://www.yahoo.com/news/articles/third-body-found-minneapolis-three-221304471.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Comedians Eric Andr\u00e9 and Clayton English settle lawsuit over drug search program at Atlanta airport",
-        "image": "https://media.zenfs.com/en/ap.org/f7187e556f0bf6d54463e2a065976a4f.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/comedians-eric-andr-clayton-english-173046661.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Penn State frat coke ring's alleged ringleader denied bail after missing arraignment, turning himself in",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/28cc6c7ac42f8a02fe6462626d5f84d3.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/penn-state-frat-coke-rings-170351185.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Germany news: Powerful storms turn deadly",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-powerful-storms-turn-deadly/live-78439067?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany is grappling with the impacts of damaging storms after a prolonged dry spell. Meanwhile, a CDU politician in Saxony-Anhalt reportedly donated ..."
     },
     {
         "source": "Deutsche Welle",
@@ -116,7 +123,7 @@
         "title": "How do teenagers keep accessing guns in Southeast Asia?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/how-do-teenagers-keep-accessing-guns-in-southeast-asia/a-78446354?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Deadly attacks in Thailand and the Philippines have put gun laws under scrutiny while raising questions about a broader problem of firearm access, acc..."
+        "summary": "Recent deadly shootings in Thailand and the Philippines have put gun laws under scrutiny while raising questions about a broader problem of firearm ac..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/israel-warns-turkey-against-dangerous-adventures-in-syria/a-78443259?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Turkey says it will continue supporting Syria's sovereignty after Israel bombed a Syrian air base and accused Turkish President Erdogan of dragging hi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Bangladesh lawmakers elect BNP's Alamgir as president",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/bangladesh-lawmakers-elect-bnp-s-alamgir-as-president/a-78438534?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The longtime opposition figure's party came to power after the 2024 revolution, which ousted the government of Sheikh Hasina...."
     }
 ]
