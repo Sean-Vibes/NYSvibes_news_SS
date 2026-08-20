@@ -92,17 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Deputy tried to serve civil papers to Deion Sanders at Colorado practice, but coach was unavailable",
-        "image": "https://media.zenfs.com/en/ap.org/1b5758959d4e06c910196024ce8dcc7f.jpg",
-        "link": "https://sports.yahoo.com/articles/deputy-tried-serve-civil-papers-181225925.html",
+        "title": "Israeli settler confronts Palestinian American at his besieged West Bank home",
+        "image": "https://media.zenfs.com/en/reuters.com/2c4f28b938944b23232e17cdff13939e.jpg",
+        "link": "https://www.yahoo.com/news/articles/exclusive-israeli-settler-confronts-palestinian-111642581.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Two college cyclists killed in Tennessee crash",
-        "image": "https://media.zenfs.com/en/nbcu_713/65e224b7b80c38b63ba1f3d610518fa0.jpg",
-        "link": "https://www.yahoo.com/news/videos/two-college-cyclists-killed-tennessee-225734005.html",
+        "title": "Masked suspect accused of terrorizing people in Philadelphia identified: Police",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/c710e1346dd9a988a14c7a0420f73a04.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/masked-suspect-accused-terrorizing-people-172342529.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Peru: Strong earthquake shakes southern Andes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/peru-strong-earthquake-shakes-southern-andes/a-78450656?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The quake has a magnitude of 6.7 according to the US Geological Survey, while Peru's Geophysics Institute puts the figure at 7.2. There are no immedia..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/colombia-13-dead-in-illegal-gold-mine-collapse/a-78449479?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Another seven people were injured and all those missing have been accounted for. Accidents at unregulated mines are fairly common in Colombia...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Powerful storms turn deadly",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-powerful-storms-turn-deadly/live-78439067?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany is grappling with the impacts of damaging storms after a prolonged dry spell. Meanwhile, a CDU politician in Saxony-Anhalt reportedly donated ..."
     }
 ]
