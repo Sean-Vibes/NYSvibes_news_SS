@@ -106,6 +106,27 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Munich prosecutors close fatal 1970 antisemitic arson case",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/munich-prosecutors-close-fatal-1970-antisemitic-arson-case/a-78440307?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Prosecutors and police in Munich believe they have identified the man who set a 1970 fire at a Jewish community center and old people's home that kill..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "South Africa's ANC faces voter backlash",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/south-africa-s-anc-faces-voter-backlash/a-78430445?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Anti-migrant violence, economic stagnation and corruption allegations are eroding support for South Africa's ruling ANC ahead of local elections in No..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "How DW fact-checks fake news",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/how-dw-fact-checks-fake-news/a-64950646?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Disinformation spreads fast. Step inside DW's fact-checking process and see how the team puts online claims to the test...."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "How to better protect Europe from wildfires",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/how-to-better-protect-europe-from-wildfires/a-78435243?maca=en-rss-en-all-1573-xml-mrss",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukraine-several-killed-in-massive-russian-strikes-on-kyiv/a-78437970?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The strikes on the Ukrainian capital and its surrounding regions also injured dozens, damaged buildings and caused power cuts. In neighboring Poland, ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Bernadette Amani 'living her dream' at Bayern Munich",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/bernadette-amani-living-her-dream-at-bayern-munich/a-78141213?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Bernadette Amani is heading into her first full season with Bayern Munich, having joined the club in January. Making a living at football is something..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "North Korea fires possible ballistic missiles toward sea",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/north-korea-fires-possible-ballistic-missiles-toward-sea/a-78440280?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The launch came hours after US President Trump announced plans to meet Kim Jong Un later this year...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Powerful storms damage homes, leave 1 dead",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-powerful-storms-damage-homes-leave-1-dead/live-78439067?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany is grappling with the impacts of damaging storms after a prolonged dry spell. Meanwhile, a CDU politician in Saxony-Anhalt reportedly donated ..."
     }
 ]
