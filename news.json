@@ -85,9 +85,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Untapped Karmelo Anthony evidence cache showed he stalked ex-girlfriend, had 'knives' obsession: prosecutors",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/fe0583ce82488f458fb7a9fa21fd2a81.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/judge-days-decide-whether-karmelo-135248159.html",
+        "title": "Popular daily drinking habit could nearly triple risk of deadly cancer, major study finds",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/359e299439a3ec646b98738f14fc3d6a.jpg",
+        "link": "https://health.yahoo.com/conditions/cancer/stomach-cancer/articles/popular-daily-drinking-habit-could-110023427.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Popular daily drinking habit could nearly triple risk of deadly cancer, major study finds",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/359e299439a3ec646b98738f14fc3d6a.jpg",
-        "link": "https://health.yahoo.com/conditions/cancer/stomach-cancer/articles/popular-daily-drinking-habit-could-110023427.html",
+        "title": "Untapped Karmelo Anthony evidence cache showed he stalked ex-girlfriend, had 'knives' obsession: prosecutors",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/fe0583ce82488f458fb7a9fa21fd2a81.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/judge-days-decide-whether-karmelo-135248159.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Why is Israel's military presence growing in Syria?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/why-is-israel-s-military-presence-growing-in-syria/a-78435811?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The recent Israeli attack on a Syrian airbase is just one of many Israeli incursions into Syria. In southern Syria, locals say Israeli troops have det..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/morocco-migrants-caught-between-ceuta-dreams-and-reality/a-78443537?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Moroccan city of Fnideq is next to Spanish-controlled Ceuta. In Fnideq, would-be migrants dream of crossing to a better life, even as locals who w..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Guatemala says it received nearly 2,300 US-deported Mexicans",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/guatemala-says-it-received-nearly-2-300-us-deported-mexicans/a-78452443?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US President Donald Trump's administration is ramping up third country deportations, with Mexican deportees being sent to Guatemala and reportedly Hon..."
     }
 ]
