@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Vietnam police charge man with rape after American woman alleges attack",
-        "image": "https://media.zenfs.com/en/ap.org/7effe15f0176575a946a37b6a47af743.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/vietnam-police-charge-man-rape-100706400.html",
+        "title": "Former Fauci adviser pleads guilty in US to conspiring to conceal COVID records",
+        "image": "https://media.zenfs.com/en/reuters.com/bf72da88827fbdaf1a786c7fa7a902be.jpg",
+        "link": "https://www.yahoo.com/news/articles/former-fauci-adviser-pleads-guilty-032322554.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,27 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/af85e2b57d2230c2ffa3b1e2881de597.jpg",
         "link": "https://finance.yahoo.com/economy/articles/iran-loses-key-economic-lifeline-145534682.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "DRC Ebola outbreak 'growing exponentially,' UN says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/drc-ebola-outbreak-growing-exponentially-un-says/a-78457248?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Ebola outbreak in the DRC is rapidly spreading in an area \"bigger than France,\" according to a senior UN official. The WHO is providing the countr..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "North Korea: Will Trump-Kim talks happen anytime soon?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/north-korea-will-trump-kim-talks-happen-anytime-soon/a-78456342?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "As Donald Trump claims a meeting is planned with Kim Jong Un, North Korea's response sends a signal that it wants maximum concessions in return for ta..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Bauhaus Manifesto: Broad alliance promoting artistic freedom",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/bauhaus-manifesto-broad-alliance-promoting-artistic-freedom/a-78456460?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Weeks before Saxony-Anhalt's state election, representatives from German cultural, crafts, architecture, design and church sectors unite to promote fr..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ronaldinho-to-make-football-comeback-aged-46/a-78453950?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "More than a decade after his last professional appearance, Brazilian superstar Ronaldinho is set for a comeback. The former world player of the year i..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why is Israel's military presence growing in Syria?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-is-israel-s-military-presence-growing-in-syria/a-78435811?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The recent Israeli attack on a Syrian airbase is just one of many Israeli incursions into Syria. In southern Syria, locals say Israeli troops have det..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Panama Canal to cap ship transits due to El Nino drought",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/panama-canal-to-cap-ship-transits-due-to-el-nino-drought/a-78453054?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Panama Canal will cut daily transits of ships from September because of low rainfall and amid an intensifying El Nino event...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Alaska charter flight crash kills 8",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/alaska-charter-flight-crash-kills-8/a-78453258?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A small \u200cCessna 441 plane operated by a private charter company crashed near a US military-managed radar site in Alaska. All on board have reportedly ..."
     }
 ]
