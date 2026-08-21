@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former Fauci adviser pleads guilty in US to conspiring to conceal COVID records",
-        "image": "https://media.zenfs.com/en/reuters.com/bf72da88827fbdaf1a786c7fa7a902be.jpg",
-        "link": "https://www.yahoo.com/news/articles/former-fauci-adviser-pleads-guilty-032322554.html",
+        "title": "Ousted Ukrainian defence minister's gamble against Zelenskiy backfires as protests end",
+        "image": "https://media.zenfs.com/en/reuters.com/c828a0728f6b37e48b99d68a265a5ada.jpg",
+        "link": "https://www.yahoo.com/news/articles/analysis-ousted-ukrainian-defence-ministers-165330564.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/dceef07c356a40ef154ac11edc8c1ada.jpg",
         "link": "https://www.yahoo.com/news/articles/third-body-found-minneapolis-three-221304471.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "France issues warning over thousands of substandard condoms",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/france-issues-warning-over-thousands-of-substandard-condoms/a-78462877?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "French anti-fraud and health agencies have issued a recall order for roughly 260,000 condoms. They advised users to consider sexually transmitted infe..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/what-to-do-when-wildfires-trigger-trauma/a-78449930?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The wildfires this summer have broken records in Germany and are unlikely to subside in future. Psychologists say post-traumatic stress disorder cause..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Sweden: Several wounded in school sword attack",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/sweden-several-wounded-in-school-sword-attack/a-78460421?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Police say they have arrested an individual who stabbed several people with a sword at a high school in central Sweden...."
     }
 ]
