@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Michigan GOP Governor Candidate Pledges Huge Tax Cut For Marijuana Industry, Along With Crackdown On Hemp Products",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/michigan-gop-governor-candidate-pledges-huge-tax-cut-for-marijuana-industry-along-with-crackdown-on-hemp-products/",
+        "summary": "<p>The Republican Party&#8217;s nominee for governor of Michigan is promising to repeal or significantly roll back a recently enacted tax hike on the ..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Iowa Officials File Rules To Let Out-Of-State Patients Register For Medical Marijuana Access",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/iowa-officials-file-rules-to-let-out-of-state-patients-register-for-medical-marijuana-access/",
@@ -28,11 +35,11 @@
         "summary": "<p>The judge overseeing a\u00a0Drug Enforcement Administration (DEA) hearing on the Trump administration\u2019s marijuana rescheduling proposal has issued an or..."
     },
     {
-        "source": "Marijuana Moment",
-        "title": "FDA wants help monitoring cannabis convos on social media (Newsletter: August 21, 2026)",
+        "source": "MJBizDaily",
+        "title": "Canadian LPs expand presence in European cannabis",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/fda-wants-help-monitoring-cannabis-convos-on-social-media-newsletter-august-21-2026/",
-        "summary": "<p>Poll: MA voters oppose legalization rollback; SXSW marijuana &#38; psychedelics panels; Study: THC cannabis drinks reduce alcohol consumption Subsc..."
+        "link": "https://mjbizdaily.com/news/canadian-lps-expand-presence-in-european-cannabis/617539/",
+        "summary": "<p>Tilray raises global medical cannabis capacity, expanding cultivation in Quebec and Portugal to meet rising demand.</p>\n<p><a href=\"https://mjbizda..."
     },
     {
         "source": "MJBizDaily",
@@ -63,13 +70,6 @@
         "summary": "<p>Through the first half of the year, retailers generated about $284.9 million in combined adult-use and medical marijuana sales.</p>\n<p><a href=\"htt..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "The case for cannabis AI guardrails \u2013 and how to create an AI tool that works",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/the-case-for-cannabis-ai-guardrails-and-how-to-create-an-ai-tool-that-works/617502/",
-        "summary": "<p>Cannabis operators face a flood of AI tools that dazzle in demos but fail at scale. Palomar Group's Nick Afonsky on how to spot real ROI.</p>\n<p><a..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Russia is ready for new ideas on Ukraine peace, but with conditions, senior diplomat says",
         "image": "https://media.zenfs.com/en/reuters.com/ba0b5bff27a15a14c7f7141b007af440.jpg",
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "NATO members discuss Strait of Hormuz options without alliance involvement",
-        "image": "https://media.zenfs.com/en/reuters.com/92973aa90d593d45cea45637d7d6e89a.jpg",
-        "link": "https://www.yahoo.com/news/articles/nato-members-discuss-strait-hormuz-163705918.html",
+        "title": "Iranian oil offers to Chinese buyers fall as US blockade bites, sources say",
+        "image": "https://media.zenfs.com/en/reuters.com/756c7b8964e44b3f9c5e632051d47121.jpg",
+        "link": "https://finance.yahoo.com/energy/articles/iranian-oil-offers-chinese-buyers-081555135.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/dceef07c356a40ef154ac11edc8c1ada.jpg",
         "link": "https://www.yahoo.com/news/articles/third-body-found-minneapolis-three-221304471.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Sweden: One killed in school sword attack",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/sweden-one-killed-in-school-sword-attack/a-78460421?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Police have said they have arrested an individual who stabbed several people, killing one person, with a sword at a high school in central Sweden...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-s-president-time-to-end-war-in-position-of-strength/a-78460267?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Iranian media cite Masoud Pezeshkian as saying it would be a good time to end the war with the US, \"as we are in a position of strength and dignity.\" ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "40 years after the Lake Nyos disaster in Cameroon",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/40-years-after-the-lake-nyos-disaster-in-cameroon/a-78459694?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "On August 21, 1986, a silent cloud of carbon dioxide swept through villages around Lake Nyos in Cameroon, killing nearly 2,000 people in their sleep. ..."
     }
 ]
