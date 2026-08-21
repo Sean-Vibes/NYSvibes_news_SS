@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "Second major marijuana MSO sues New Jersey over labor-friendly licensing requirement",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/second-major-marijuana-mso-sues-new-jersey-over-labor-friendly-licensing-requirement/617540/",
+        "summary": "<p>A second major marijuana multistate operator is attempting to elude labor-friendly licensing requirements in New Jersey cannabis law with a federal..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "How cannabis retailers can maximize holiday sales",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/how-cannabis-retailers-can-maximize-holiday-sales/617529/",
@@ -63,13 +70,6 @@
         "summary": "<p>Cannabis operators face a flood of AI tools that dazzle in demos but fail at scale. Palomar Group's Nick Afonsky on how to spot real ROI.</p>\n<p><a..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Insurance carrier sues major marijuana MSO to dodge class-action payout",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/insurance-carrier-sues-major-marijuana-mso-to-dodge-class-action-payout/617516/",
-        "summary": "<p>A major cannabis MSO is being sued by its insurance carrier to avoid any payout in a separate multistate class-action lawsuit.</p>\n<p><a href=\"http..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Russia is ready for new ideas on Ukraine peace, but with conditions, senior diplomat says",
         "image": "https://media.zenfs.com/en/reuters.com/ba0b5bff27a15a14c7f7141b007af440.jpg",
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump announces plan to lower beef prices, but ranchers and some Republicans are already balking",
-        "image": "https://media.zenfs.com/en/ap.org/b52f5c4d25bcc14acb0933e5fadbcd86.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/president-donald-trump-announces-plan-162025279.html",
+        "title": "NATO members discuss Strait of Hormuz options without alliance involvement",
+        "image": "https://media.zenfs.com/en/reuters.com/92973aa90d593d45cea45637d7d6e89a.jpg",
+        "link": "https://www.yahoo.com/news/articles/nato-members-discuss-strait-hormuz-163705918.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,20 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/dceef07c356a40ef154ac11edc8c1ada.jpg",
         "link": "https://www.yahoo.com/news/articles/third-body-found-minneapolis-three-221304471.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "'Masha and the Bear': Ukraine sanctions Russian cartoon",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/masha-and-the-bear-ukraine-sanctions-russian-cartoon/a-78464406?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ukraine has imposed sanctions on the hit Russian children's cartoon \"Masha and the Bear,\" a step towards banning it. The culture minister called the s..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "German army helps Poland construct a defensive barrier against Russia",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/german-army-helps-poland-construct-a-defensive-barrier-against-russia/a-78464726?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Poland is building a defense system along its northern and eastern borders to protect itself from Russia. Since June, German sappers have been assisti..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/40-years-after-the-lake-nyos-disaster-in-cameroon/a-78459694?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "On August 21, 1986, a silent cloud of carbon dioxide swept through villages around Lake Nyos in Cameroon, killing nearly 2,000 people in their sleep. ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine's farmers struggle to sell harvest amid war, drought",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-s-farmers-struggle-to-sell-harvest-amid-war-drought/a-78435344?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russian attacks on ships and ports in the Black Sea are threatening Ukraine's agricultural sector. Grain exports are severely restricted, and Kyiv is ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "What to do when wildfires trigger trauma",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/what-to-do-when-wildfires-trigger-trauma/a-78449930?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The wildfires this summer have broken records in Germany and are unlikely to subside in future. Psychologists say post-traumatic stress disorder cause..."
     }
 ]
