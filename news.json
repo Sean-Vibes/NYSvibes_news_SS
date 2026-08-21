@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former Fauci adviser pleads guilty in US to conspiring to conceal COVID records",
-        "image": "https://media.zenfs.com/en/reuters.com/bf72da88827fbdaf1a786c7fa7a902be.jpg",
-        "link": "https://www.yahoo.com/news/articles/former-fauci-adviser-pleads-guilty-032322554.html",
+        "title": "Israeli settler confronts Palestinian American at his besieged West Bank home",
+        "image": "https://media.zenfs.com/en/reuters.com/2c4f28b938944b23232e17cdff13939e.jpg",
+        "link": "https://www.yahoo.com/news/articles/exclusive-israeli-settler-confronts-palestinian-111642581.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/359e299439a3ec646b98738f14fc3d6a.jpg",
         "link": "https://health.yahoo.com/conditions/cancer/stomach-cancer/articles/popular-daily-drinking-habit-could-110023427.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Morrocco: migrants caught between Ceuta dreams and reality",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/morrocco-migrants-caught-between-ceuta-dreams-and-reality/a-78443537?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Moroccan city of Fnideq is next to Spanish-controlled Ceuta. In Fnideq, would-be migrants dream of crossing to a better life, even as locals who w..."
     },
     {
         "source": "Deutsche Welle",
@@ -123,7 +130,7 @@
         "title": "Pakistan: Former PM Khan briefly moved to private hospital",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/pakistan-former-pm-khan-briefly-moved-to-private-hospital/a-78451553?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Khan's supporters say his health has deteriorated during more than \u200bthree years in prison since being removed from office in 2022...."
+        "summary": "Khan was examined by a team of doctors before being moved back to prison. The former PM's supporters say his health has deteriorated during more than ..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/peru-strong-earthquake-shakes-southern-andes/a-78450656?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The quake has a magnitude of 6.7 according to the US Geological Survey, while Peru's Geophysical Institute put the figure even higher. There are no im..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nigeria: Dozens dead after boat capsizes in Sokoto",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nigeria-dozens-dead-after-boat-capsizes-in-sokoto/a-78449903?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "At least 50 people \u2014 many of them reportedly children \u2014 have died in a boat accident in northwestern Nigeria...."
     }
 ]
