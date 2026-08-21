@@ -78,13 +78,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Prosecutors say bullet engraving shows Charlie Kirk was shot over his politics",
-        "image": "https://media.zenfs.com/en/cbs_news_897/503f6e7f641fbe3ac3d585ae4f7faee3.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/prosecutors-bullet-engraving-shows-charlie-112023520.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Untapped Karmelo Anthony evidence cache showed he stalked ex-girlfriend, had 'knives' obsession: prosecutors",
         "image": "https://media.zenfs.com/en/fox_news_text_979/fe0583ce82488f458fb7a9fa21fd2a81.jpg",
         "link": "https://www.yahoo.com/news/us/articles/judge-days-decide-whether-karmelo-135248159.html",
@@ -92,23 +85,51 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former Fauci adviser pleads guilty in US to conspiring to conceal COVID records",
-        "image": "https://media.zenfs.com/en/reuters.com/bf72da88827fbdaf1a786c7fa7a902be.jpg",
-        "link": "https://www.yahoo.com/news/articles/former-fauci-adviser-pleads-guilty-032322554.html",
+        "title": "Lindsay Clancy's ex-husband has quietly remarried and started over amid her murder trial",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/cdc0188edb23ca70cce8708ff204a0fd.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/lindsay-clancys-ex-husband-quietly-040047766.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran loses key economic lifeline in Middle East that Trump's sanctions couldn't reach as deadlock persists",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/af85e2b57d2230c2ffa3b1e2881de597.jpg",
-        "link": "https://finance.yahoo.com/economy/articles/iran-loses-key-economic-lifeline-145534682.html",
+        "title": "Still recovering from Hurricane Lala, Hawaii prepares for a possible weekend cyclone",
+        "image": "https://media.zenfs.com/en/ap.org/6b4c52b0ca94988e8528d3db9137b39f.jpg",
+        "link": "https://www.yahoo.com/news/weather-news/articles/still-recovering-hurricane-lala-hawaii-152531023.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Telemundo executive among those killed in Kenya helicopter crash",
+        "image": "https://media.zenfs.com/en/nbcu_713/a934f3ee4103e4b0149f2cc42f300144.jpg",
+        "link": "https://www.yahoo.com/news/videos/telemundo-executive-among-those-killed-175207127.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany investigates arms cache found in woods near Berlin last year",
+        "title": "What to do when wildfires trigger trauma",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-investigates-arms-cache-found-in-woods-near-berlin-last-year/a-78371750?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/what-to-do-when-wildfires-trigger-trauma/a-78449930?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The wildfires this summer have broken records in Germany and are unlikely to subside in future. Psychologists say post-traumatic stress disorder cause..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Sweden: Several wounded in school sword attack",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/sweden-several-wounded-in-school-sword-attack/a-78460421?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Police say they have arrested an individual who stabbed several people with a sword at a high school in central Sweden...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Swiss tourist jailed in Bali for insulting Hindu holiday",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/swiss-tourist-jailed-in-bali-for-insulting-hindu-holiday/a-78459089?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The 26-year-old was given a one-year prison sentence for offensive remarks posted on Instagram. During the trial, he apologized to the Balinese people..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany investigates arms cache found in woods near Berlin",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-investigates-arms-cache-found-in-woods-near-berlin/a-78371750?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Handguns and ammunition were found in a forest near Berlin last year. German authorities suspect they were to be used for assassinations on behalf of ..."
     },
     {
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ceuta-spanish-police-arrest-5-alleged-migrant-traffickers/a-78458143?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The arrests come after Spain's North African exclave saw a deadly border surge in late July, when tens of thousands of migrants entered Ceuta...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "DRC Ebola outbreak 'growing exponentially,' UN says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/drc-ebola-outbreak-growing-exponentially-un-says/a-78457248?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Ebola outbreak in the DRC is rapidly spreading in an area \"bigger than France,\" according to a senior UN official. The WHO is providing the countr..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "North Korea: Will Trump-Kim talks happen anytime soon?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/north-korea-will-trump-kim-talks-happen-anytime-soon/a-78456342?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As Donald Trump claims a meeting is planned with Kim Jong Un, North Korea's response sends a signal that it wants maximum concessions in return for ta..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Bauhaus Manifesto: Broad alliance promoting artistic freedom",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/bauhaus-manifesto-broad-alliance-promoting-artistic-freedom/a-78456460?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Weeks before Saxony-Anhalt's state election, representatives from German cultural, crafts, architecture, design and church sectors unite to promote fr..."
     }
 ]
