@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "MAHA activists urge Trump against promoting coal to power energy-hungry AI data centers",
-        "image": "https://media.zenfs.com/en/ap.org/9222bc274564e735cb19148493db8f7f.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/maha-activists-criticize-trump-promoting-171115617.html",
+        "title": "Ousted Ukrainian defence minister's gamble against Zelenskiy backfires as protests end",
+        "image": "https://media.zenfs.com/en/reuters.com/c828a0728f6b37e48b99d68a265a5ada.jpg",
+        "link": "https://www.yahoo.com/news/articles/analysis-ousted-ukrainian-defence-ministers-165330564.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/db5730e89900414ec04a3df1d93d2b55.jpg",
         "link": "https://www.yahoo.com/news/world/articles/ukraine-equalizer-bomb-aims-blow-090023875.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany investigates arms cache found in woods near Berlin",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-investigates-arms-cache-found-in-woods-near-berlin/a-78371750?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Handguns and ammunition were found in a forest near Berlin last year. German authorities suspect they were to be used for assassinations on behalf of ..."
     },
     {
         "source": "Deutsche Welle",
@@ -116,7 +123,7 @@
         "title": "US imposes 50% tariffs on some Canadian products as trade talks fail",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-imposes-50-tariffs-on-some-canadian-products-as-trade-talks-fail/a-78466352?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US Trade Representative Jamieson Greer said Canada was \"continuing its retaliation against the US,\" minutes before fresh Trump tariffs were due to com..."
+        "summary": "US Trade Representative Jamieson Greer said Canada had declined to finalize a trade deal, minutes before fresh Trump tariffs were due to take effect. ..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/sweden-one-killed-in-school-sword-attack/a-78460421?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Police have said they have arrested an individual who stabbed several people, killing one person, with a sword at a high school in central Sweden...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "'Masha and the Bear': Ukraine sanctions Russian cartoon",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/masha-and-the-bear-ukraine-sanctions-russian-cartoon/a-78464406?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukraine has imposed sanctions on the hit Russian children's cartoon \"Masha and the Bear,\" a step towards banning it. The culture minister called the s..."
     }
 ]
