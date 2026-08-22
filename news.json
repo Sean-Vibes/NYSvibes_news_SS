@@ -92,17 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Paramount and California to hold preliminary talks on Warner Bros deal, NYT reports",
-        "image": "https://media.zenfs.com/en/reuters.com/a6f217aca718de8e143893f9f724f986.jpg",
-        "link": "https://finance.yahoo.com/media-advertising/articles/paramount-california-hold-preliminary-talks-185659000.html",
+        "title": "New video of wanted Philadelphia masked man",
+        "image": "https://media.zenfs.com/en/nbcu_713/223bac7287a608496265d64380d7e46e.jpg",
+        "link": "https://www.yahoo.com/news/videos/video-wanted-philadelphia-masked-man-232303392.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "ChatGPT Can Now Control iMessage, Potentially Raising Apple Privacy Concerns",
-        "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/405ee776f56f44e2e4cda02e89384a39.jpg",
-        "link": "https://finance.yahoo.com/technology/ai/articles/chatgpt-now-control-imessage-potentially-205633657.html",
+        "title": "Panama Canal to cap daily transits, anticipating severe El Ni\u00f1o",
+        "image": "https://media.zenfs.com/en/reuters.com/df9ece72b5182a06584f4452962cbf66.jpg",
+        "link": "https://www.yahoo.com/news/weather-news/articles/panama-canal-cap-daily-transits-213446059.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Cargo vessel sinks off Indian coast",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/cargo-vessel-sinks-off-indian-coast/a-78472142?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Panama\u2011flagged Ocean Winner reportedly had a crew of 24, at least two of whom appear to have been rescued. The ship is thought to have been carryi..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/kazakhstan-s-future-after-the-elections-russia-eu-or-china/a-78449637?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Kazakhstan, where power is being continuously consolidated in the president's hands, will have to continue its tough balancing act between the EU, Rus..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Spain battles forest fire a short drive from flash flood",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/spain-battles-forest-fire-a-short-drive-from-flash-flood/a-78469115?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The blaze, near Valencia, forced more than 1,000 people from their homes. In nearby Catalonia, civil defense teams carried out 200 rescue operations a..."
     }
 ]
