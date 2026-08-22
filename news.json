@@ -106,6 +106,13 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "India news: Gandhi's handwritten notes sold for $1.7 million at Mumbai auction",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-gandhi-s-handwritten-notes-sold-for-1-7-million-at-mumbai-auction/live-78466889?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A collection of notes written by Mahatma Gandhi has fetched the highest ever price for an Indian historical document in Mumbai. Meanwhile, a reported ..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Germany's Foreign Minister Johann Wadephul visits Kyiv as Russia steps up attacks",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-s-foreign-minister-johann-wadephul-visits-kyiv-as-russia-steps-up-attacks/a-78467414?maca=en-rss-en-all-1573-xml-mrss",
@@ -127,16 +134,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Pentagon fires military newspaper leadership for 'insubordination'",
+        "title": "Industry and residents clash over water near Berlin",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pentagon-fires-military-newspaper-leadership-for-insubordination/a-78466373?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The editor-in-chief of Stars and Stripes said he was fired, alongside the newspaper's publisher and a reporter, for insubordination after he objected ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US imposes 50% tariffs on some Canadian products as trade talks fail",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-imposes-50-tariffs-on-some-canadian-products-as-trade-talks-fail/a-78466352?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US Trade Representative Jamieson Greer said Canada had declined to finalize a trade deal, minutes before fresh Trump tariffs were due to take effect. ..."
+        "link": "https://www.dw.com/en/industry-and-residents-clash-over-water-near-berlin/a-78428993?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The state surrounding Berlin is drying out, but local Tesla and Red Bull plants are looking to expand. Is Brandenburg running out of water to share?..."
     }
 ]
