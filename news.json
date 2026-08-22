@@ -106,6 +106,13 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Small German airplane crashes in Croatia, killing 2",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/small-german-airplane-crashes-in-croatia-killing-2/a-78467649?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The two-seater motor glider went down in the Velebit mountains, near Zadar, killing both passengers...."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "India news: Gandhi's handwritten notes sold for $1.7 million at Mumbai auction",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-news-gandhi-s-handwritten-notes-sold-for-1-7-million-at-mumbai-auction/live-78466889?maca=en-rss-en-all-1573-xml-mrss",
@@ -113,9 +120,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany's Foreign Minister Johann Wadephul visits Kyiv as Russia steps up attacks",
+        "title": "Ukraine: Russia steps up attacks as German Foreign Minister Johan Wadephul visits Kyiv",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-foreign-minister-johann-wadephul-visits-kyiv-as-russia-steps-up-attacks/a-78467414?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/ukraine-russia-steps-up-attacks-as-german-foreign-minister-johan-wadephul-visits-kyiv/a-78467414?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "German Foreign Minister Johann Wadephul arrived in Kyiv by a special train, just days ahead of Ukraine's 35th independence day. His visit comes as two..."
     },
     {
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-investigates-arms-cache-found-in-woods-near-berlin/a-78371750?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Handguns and ammunition were found in a forest near Berlin last year. German authorities suspect they were to be used for assassinations on behalf of ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Industry and residents clash over water near Berlin",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/industry-and-residents-clash-over-water-near-berlin/a-78428993?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The state surrounding Berlin is drying out, but local Tesla and Red Bull plants are looking to expand. Is Brandenburg running out of water to share?..."
     }
 ]
