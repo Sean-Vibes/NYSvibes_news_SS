@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukrainian drones kill several, hit warehouse of Russian online retailer Ozon",
-        "image": "https://media.zenfs.com/en/reuters.com/69dcae2df07af6499bf583f43f791833.jpg",
-        "link": "https://www.yahoo.com/news/articles/ukrainian-drones-hit-warehouse-russian-073810666.html",
+        "title": "Russia is ready for new ideas on Ukraine peace, but with conditions, senior diplomat says",
+        "image": "https://media.zenfs.com/en/reuters.com/ba0b5bff27a15a14c7f7141b007af440.jpg",
+        "link": "https://www.yahoo.com/news/articles/russia-ready-ideas-ukraine-peace-052516094.html",
         "summary": "..."
     },
     {
@@ -85,24 +85,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Klobuchar's fraud fight claim takes hit after GOP opponent combs through receipts: 'Where were you?'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/2bedc9700d3c22cac9a16e93f1cc5b0c.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/klobuchars-fraud-fight-claim-takes-100057478.html",
+        "title": "Ukraine\u2019s \u2018Equalizer\u2019 bomb aims to blow up reliance on US, European weapons",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/db5730e89900414ec04a3df1d93d2b55.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/ukraine-equalizer-bomb-aims-blow-090023875.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iranian oil offers to Chinese buyers fall as US blockade bites, sources say",
-        "image": "https://media.zenfs.com/en/reuters.com/756c7b8964e44b3f9c5e632051d47121.jpg",
-        "link": "https://finance.yahoo.com/energy/articles/iranian-oil-offers-chinese-buyers-081555135.html",
+        "title": "Court cuts $50M judgment against Infowars' Alex Jones over falsely labeling Newtown killings a hoax",
+        "image": "https://media.zenfs.com/en/wpri-providence/24897f445e39861470a4d8887d42e41c.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/us-newtown-shootings-infowars-150326711.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "This CEO was out to dinner when he caught his AI agent wasting $1,000 in tokens. He says \u2018insecurity\u2019 is a bigger problem",
-        "image": "https://media.zenfs.com/en/fortune_175/c84cfdaf0a629914d1f8884bd3376bae.png",
-        "link": "https://finance.yahoo.com/technology/ai/articles/ceo-dinner-caught-ai-agent-110000990.html",
+        "title": "Trump US attorney pick can no longer investigate one of the president\u2019s top foes, court rules",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/28d456bb260ca06d28c3773e2e90a1a1.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-us-attorney-pick-no-180248863.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Nigeria: Jihadis kidnap dozens during Friday prayers",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/nigeria-jihadis-kidnap-dozens-during-friday-prayers/a-78471356?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Witnesses said men carrying guns and machetes set upon two villages in Niger State. Many details about the attack have yet to be confirmed by police...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Friedrich Merz visits area struck by fires",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-friedrich-merz-visits-area-struck-by-fires/live-78467416?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Chancellor Merz thanked firefighters who tackled recent devastating blazes in western Germany. Meanwhile, a German Cup soccer match ended in a mass br..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/chinese-robot-beats-usain-bolt-s-100m-world-record/a-78468749?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Chinese humanoid robot \"Lightning\" ran a 100-meter trial race faster than human world-record holder Usain Bolt. A year ago, humanoid robots strugg..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Myanmar military airstrike kills 14 at Buddhist monastery: reports",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/myanmar-military-airstrike-kills-14-at-buddhist-monastery-reports/a-78468290?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Around 100 people were attending a meditation retreat in central Myanmar when the building was targeted by military planes, witnesses said...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Small German airplane crashes in Croatia, killing 2",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/small-german-airplane-crashes-in-croatia-killing-2/a-78467649?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The two-seater motor glider went down in the Velebit mountains, near Zadar, killing both passengers...."
     }
 ]
