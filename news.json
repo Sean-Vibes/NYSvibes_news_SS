@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russia is ready for new ideas on Ukraine peace, but with conditions, senior diplomat says",
-        "image": "https://media.zenfs.com/en/reuters.com/ba0b5bff27a15a14c7f7141b007af440.jpg",
-        "link": "https://www.yahoo.com/news/articles/russia-ready-ideas-ukraine-peace-052516094.html",
+        "title": "Putin says Ukraine opened 'Pandora's box' with strikes on economic targets",
+        "image": "https://media.zenfs.com/en/reuters.com/8e2c0e36cec1c4ae366dff28b32cde15.jpg",
+        "link": "https://www.yahoo.com/news/articles/putin-says-ukraine-opened-pandoras-155348727.html",
         "summary": "..."
     },
     {
@@ -85,24 +85,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Rogan says Dems 'full of sh--' if they won't specify which 'Woke 1.0' stances went too far, strategists agree",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/3d5dcd6dd4db062a96c6a0cd8a9d8fca.png",
+        "link": "https://www.yahoo.com/news/politics/articles/rogan-says-dems-full-sh-151518883.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Iranian oil offers to Chinese buyers fall as US blockade bites, sources say",
+        "image": "https://media.zenfs.com/en/reuters.com/756c7b8964e44b3f9c5e632051d47121.jpg",
+        "link": "https://finance.yahoo.com/energy/articles/iranian-oil-offers-chinese-buyers-081555135.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Trump US attorney pick can no longer investigate one of the president\u2019s top foes, court rules",
         "image": "https://media.zenfs.com/en/cnn_articles_875/28d456bb260ca06d28c3773e2e90a1a1.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/trump-us-attorney-pick-no-180248863.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "New video of wanted Philadelphia masked man",
-        "image": "https://media.zenfs.com/en/nbcu_713/223bac7287a608496265d64380d7e46e.jpg",
-        "link": "https://www.yahoo.com/news/videos/video-wanted-philadelphia-masked-man-232303392.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukraine\u2019s \u2018Equalizer\u2019 bomb aims to blow up reliance on US, European weapons",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/db5730e89900414ec04a3df1d93d2b55.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/ukraine-equalizer-bomb-aims-blow-090023875.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Canada to hit back with retaliatory tariffs after US trade talks fail",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/canada-to-hit-back-with-retaliatory-tariffs-after-us-trade-talks-fail/a-78471618?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The trade standoff between Ottawa and Washington has escalated as Canada announced tariffs on US products. The move comes in response to the US saying..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/spain-battles-forest-fire-a-short-drive-from-flash-flood/a-78469115?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The blaze, near Valencia, forced more than 1,000 people from their homes. In nearby Catalonia, civil defense teams carried out 200 rescue operations a..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Chinese robot beats Usain Bolt's 100m world record",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/chinese-robot-beats-usain-bolt-s-100m-world-record/a-78468749?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Chinese humanoid robot \"Lightning\" ran a 100-meter trial race faster than human world-record holder Usain Bolt. A year ago, humanoid robots strugg..."
     }
 ]
