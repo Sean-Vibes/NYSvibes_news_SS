@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Tennessee Hemp Product Ban Could Lead To $110 Million Tax Shortfall, Projections Show",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/tennessee-hemp-product-ban-could-lead-to-110-million-tax-shortfall-projections-show/",
+        "summary": "<p>&#8220;Their decisions left Tennesseans who rely on hemp for chronic pain out on the side of our busted roads and stuck the rest of us with the tax..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Michigan GOP Governor Candidate Pledges Huge Tax Cut For Marijuana Industry, Along With Crackdown On Hemp Products",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/michigan-gop-governor-candidate-pledges-huge-tax-cut-for-marijuana-industry-along-with-crackdown-on-hemp-products/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/texas-officials-sued-again-in-federal-court-over-hemp-thc-product-restrictions/",
         "summary": "<p>&#8220;We are asking the Court to uphold the Texas Constitution, protect thousands of Texas jobs, and keep policy decisions where they belong\u2014with ..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "DEA Judge Issues Order On Marijuana Rescheduling Hearing Transcript Corrections",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/dea-judge-issues-order-on-marijuana-rescheduling-hearing-transcript-corrections/",
-        "summary": "<p>The judge overseeing a\u00a0Drug Enforcement Administration (DEA) hearing on the Trump administration\u2019s marijuana rescheduling proposal has issued an or..."
     },
     {
         "source": "MJBizDaily",
@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukraine\u2019s \u2018Equalizer\u2019 bomb aims to blow up reliance on US, European weapons",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/db5730e89900414ec04a3df1d93d2b55.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/ukraine-equalizer-bomb-aims-blow-090023875.html",
+        "title": "New video of wanted Philadelphia masked man",
+        "image": "https://media.zenfs.com/en/nbcu_713/223bac7287a608496265d64380d7e46e.jpg",
+        "link": "https://www.yahoo.com/news/videos/video-wanted-philadelphia-masked-man-232303392.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Myanmar military airstrike kills 14 at Buddhist monastery: reports",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/myanmar-military-airstrike-kills-14-at-buddhist-monastery-reports/a-78468290?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Around 100 people were attending a meditation retreat in central Myanmar when the building was targeted by military planes, witnesses said...."
     },
     {
         "source": "Deutsche Welle",
@@ -123,7 +130,7 @@
         "title": "Ukraine: Russia steps up attacks as German Foreign Minister Johan Wadephul visits Kyiv",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukraine-russia-steps-up-attacks-as-german-foreign-minister-johan-wadephul-visits-kyiv/a-78467414?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "German Foreign Minister Johann Wadephul has traveled to Kyiv ahead of Ukraine's 35th Independence Day. His visit comes as two Ukrainians were killed o..."
+        "summary": "German Foreign Minister Johann Wadephul has traveled to Kyiv ahead of Ukraine's 35th Independence Day. His visit comes as several people were killed o..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-friedrich-merz-to-visit-area-struck-by-fires/live-78467416?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Chancellor Merz is set to thank firefighters who tackled recent devastating blazes in western Germany. Meanwhile, a German Cup soccer match ended in a..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany investigates arms cache found in woods near Berlin",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-investigates-arms-cache-found-in-woods-near-berlin/a-78371750?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Handguns and ammunition were found in a forest near Berlin last year. German authorities suspect they were to be used for assassinations on behalf of ..."
     }
 ]
