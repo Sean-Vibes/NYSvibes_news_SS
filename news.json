@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russia is ready for new ideas on Ukraine peace, but with conditions, senior diplomat says",
-        "image": "https://media.zenfs.com/en/reuters.com/ba0b5bff27a15a14c7f7141b007af440.jpg",
-        "link": "https://www.yahoo.com/news/articles/russia-ready-ideas-ukraine-peace-052516094.html",
+        "title": "Ousted Ukrainian defence minister's gamble against Zelenskiy backfires as protests end",
+        "image": "https://media.zenfs.com/en/reuters.com/c828a0728f6b37e48b99d68a265a5ada.jpg",
+        "link": "https://www.yahoo.com/news/articles/analysis-ousted-ukrainian-defence-ministers-165330564.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "New video of wanted Philadelphia masked man",
-        "image": "https://media.zenfs.com/en/nbcu_713/223bac7287a608496265d64380d7e46e.jpg",
-        "link": "https://www.yahoo.com/news/videos/video-wanted-philadelphia-masked-man-232303392.html",
+        "title": "Klobuchar's fraud fight claim takes hit after GOP opponent combs through receipts: 'Where were you?'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/2bedc9700d3c22cac9a16e93f1cc5b0c.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/klobuchars-fraud-fight-claim-takes-100057478.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Chinese robot beats Usain Bolt's 100m world record",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/chinese-robot-beats-usain-bolt-s-100m-world-record/a-78468749?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Chinese humanoid robot \"Lightning\" ran a 100-meter trial race faster than human world-record holder Usain Bolt. A year ago, humanoid robots strugg..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukraine-russia-steps-up-attacks-as-german-foreign-minister-johan-wadephul-visits-kyiv/a-78467414?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "German Foreign Minister Johann Wadephul has traveled to Kyiv ahead of Ukraine's 35th Independence Day. His visit comes as several people were killed o..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Friedrich Merz to visit area struck by fires",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-friedrich-merz-to-visit-area-struck-by-fires/live-78467416?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Chancellor Merz is set to thank firefighters who tackled recent devastating blazes in western Germany. Meanwhile, a German Cup soccer match ended in a..."
     }
 ]
