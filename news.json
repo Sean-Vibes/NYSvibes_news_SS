@@ -85,24 +85,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump US attorney pick can no longer investigate one of the president\u2019s top foes, court rules",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/28d456bb260ca06d28c3773e2e90a1a1.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-us-attorney-pick-no-180248863.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russian online retailer Ozon warehouse in Orenburg region hit in drone attack, governor says",
-        "image": "https://media.zenfs.com/en/reuters.com/709123192b415bf1273251c7d39b9ebd.jpg",
-        "link": "https://www.yahoo.com/news/articles/russian-online-retailer-ozon-warehouse-073627070.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Disney will cut medical insurance for spouses with other coverage options",
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/e25dd899524d3025e0164b08a3ada95d.jpg",
         "link": "https://finance.yahoo.com/healthcare/articles/disney-drop-medical-insurance-employees-215226589.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Alex Jones gets Sandy Hook family's Texas verdict reduced on appeal",
+        "image": "https://media.zenfs.com/en/reuters.com/b41246b1dfff1d86e3a6864d39432ae7.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/alex-jones-gets-sandy-hook-200949622.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "America's largest association of cattle ranchers says Trump's plan to lower beef prices is 'undermining' farmers",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/29cd94b8aa5e1162f52e12d68156f3b6.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/americas-largest-association-cattle-ranchers-185500684.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Guinea: Garbage collapse at landfill kills dozens",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/guinea-garbage-collapse-at-landfill-kills-dozens/a-78478597?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Heavy seasonal rains caused a mound of garbage to collapse, burying dozens of people and nearby homes before the break of dawn...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/harry-kane-named-footballer-of-the-year-in-germany/a-78476228?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Harry Kane has added another honor after a remarkable season for Bayern Munich and a strong World Cup with England. Bayern also took the top prize in ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine: Zelenskyy rejects wartime elections",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Ukrainian president says wartime elections, as called for by the ex-defense minister, could \"split Ukraine.\" He also said Russia was planning to m..."
     }
 ]
