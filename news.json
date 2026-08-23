@@ -106,6 +106,20 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Trump hits out at Canada over retaliatory tariffs",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-hits-out-at-canada-over-retaliatory-tariffs/a-78471618?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Donald Trump has accused Canada of treating US farmers unfairly for years as a trade standoff between Ottawa and Washington escalates. Both sides are ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Australia confirms H5N1 bird flu case in local mammal",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/australia-confirms-h5n1-bird-flu-case-in-local-mammal/a-78473874?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Australian authorities said the deadly virus's spread to mammals was \"concerning\" but \"not unexpected.\"..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Red faces as Sydney Marathon medal shows German stadium",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/red-faces-as-sydney-marathon-medal-shows-german-stadium/a-78473705?maca=en-rss-en-all-1573-xml-mrss",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/mexican-governor-facing-us-drug-charges-says-leaving-office/a-78473557?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Embroiled in drug trafficking charges, Ruben Rocha Moya has asked for another leave of absence just days after returning to his position as Sinaloa st..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Kazakhstan's future after the elections: Russia, EU or China",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/kazakhstan-s-future-after-the-elections-russia-eu-or-china/a-78449637?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Kazakhstan, where power is being continuously consolidated in the president's hands, will have to continue its tough balancing act between the EU, Rus..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Canada to hit back with retaliatory tariffs after US trade talks fail",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/canada-to-hit-back-with-retaliatory-tariffs-after-us-trade-talks-fail/a-78471618?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The trade standoff between Ottawa and Washington has escalated as Canada announced tariffs on US products. The move comes in response to the US saying..."
     }
 ]
