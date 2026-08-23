@@ -78,13 +78,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Bill Maher blasts Democratic Party, says it is fine with religion 'as long as that faith isn\u2019t Jewish'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/1f40eefc3b5851a23e15737815945862",
-        "link": "https://www.yahoo.com/entertainment/celebrity/articles/bill-maher-blasts-democratic-party-181739524.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "'Near miss' in harbour after boat runs red light",
         "image": "https://media.zenfs.com/en/bbc_us_articles_995/5e04e2c2f7a5beaac065ff1631d62f27.jpg",
         "link": "https://www.yahoo.com/news/articles/near-miss-harbour-boat-runs-093006859.html",
@@ -92,9 +85,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russia is ready for new ideas on Ukraine peace, but with conditions, senior diplomat says",
-        "image": "https://media.zenfs.com/en/reuters.com/ba0b5bff27a15a14c7f7141b007af440.jpg",
-        "link": "https://www.yahoo.com/news/articles/russia-ready-ideas-ukraine-peace-052516094.html",
+        "title": "Todd Blanche vows to 'come after' bad actors following $400M TikTok settlement",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/ebbc83b05ea0b496f16ad97a51b43e8b",
+        "link": "https://www.yahoo.com/news/politics/articles/todd-blanche-vows-come-bad-192157708.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Iran security chief threatens neighbors against economic measures, and other Mideast developments",
+        "image": "https://media.zenfs.com/en/ap.org/f7b217c42b9595b5f585fca57f5db0c6.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/iran-says-world-accepted-defeated-092357518.html",
         "summary": "..."
     },
     {
@@ -106,10 +106,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iran warns countries against joining US 'economic war'",
+        "title": "Kazakhstan's future after the elections: Russia, EU or China",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-warns-countries-against-joining-us-economic-war/a-78473222?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Iran has said nations joining US economic sanctions against it would be considered enemies. Earlier this week, President Trump had announced what he c..."
+        "link": "https://www.dw.com/en/kazakhstan-s-future-after-the-elections-russia-eu-or-china/a-78449637?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Kazakhstan, where power is being continuously consolidated in the president's hands, will have to continue its tough balancing act between the EU, Rus..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,6 +117,13 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/canada-to-hit-back-with-retaliatory-tariffs-after-us-trade-talks-fail/a-78471618?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The trade standoff between Ottawa and Washington has escalated as Canada announced tariffs on US products. The move comes in response to the US saying..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran warns countries against joining US 'economic war'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-warns-countries-against-joining-us-economic-war/a-78473222?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran has said nations joining US economic sanctions against it would be considered enemies. Earlier this week, President Trump had announced what he c..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/nigeria-jihadis-kidnap-dozens-during-friday-prayers/a-78471356?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Witnesses said men carrying guns and machetes set upon two villages in Niger State. Many details about the attack have yet to be confirmed by police...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Friedrich Merz visits area struck by fires",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-friedrich-merz-visits-area-struck-by-fires/live-78467416?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Chancellor Merz thanked firefighters who tackled recent devastating blazes in western Germany. Meanwhile, a German Cup soccer match ended in a mass br..."
     }
 ]
