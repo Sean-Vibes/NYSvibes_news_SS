@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ousted Ukrainian defence minister's gamble against Zelenskiy backfires as protests end",
-        "image": "https://media.zenfs.com/en/reuters.com/c828a0728f6b37e48b99d68a265a5ada.jpg",
-        "link": "https://www.yahoo.com/news/articles/analysis-ousted-ukrainian-defence-ministers-165330564.html",
+        "title": "Iranian oil offers to Chinese buyers fall as US blockade bites, sources say",
+        "image": "https://media.zenfs.com/en/reuters.com/756c7b8964e44b3f9c5e632051d47121.jpg",
+        "link": "https://finance.yahoo.com/energy/articles/iranian-oil-offers-chinese-buyers-081555135.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,20 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/ebbc83b05ea0b496f16ad97a51b43e8b",
         "link": "https://www.yahoo.com/news/politics/articles/todd-blanche-vows-come-bad-192157708.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Red faces as Sydney Marathon medal shows German stadium",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/red-faces-as-sydney-marathon-medal-shows-german-stadium/a-78473705?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A medal minted for finishers in the Sydney Marathon features a skyline of the city \u2014 with one landmark from rather far away. Organizers say the muddle..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine: Could ex-defense minister challenge Zelenskyy?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-could-ex-defense-minister-challenge-zelenskyy/a-78469496?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Last week, former Ukrainian defense minister Mykhailo Fedorov released a video in which he spoke of corruption, a crisis of leadership and elections. ..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/canada-to-hit-back-with-retaliatory-tariffs-after-us-trade-talks-fail/a-78471618?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The trade standoff between Ottawa and Washington has escalated as Canada announced tariffs on US products. The move comes in response to the US saying..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran warns countries against joining US 'economic war'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-warns-countries-against-joining-us-economic-war/a-78473222?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Iran has said nations joining US economic sanctions against it would be considered enemies. Earlier this week, President Trump had announced what he c..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Cargo vessel sinks off Indian coast",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/cargo-vessel-sinks-off-indian-coast/a-78472142?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Panama\u2011flagged Ocean Winner reportedly had a crew of 24, at least two of whom appear to have been rescued. The ship is thought to have been carryi..."
     }
 ]
