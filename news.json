@@ -85,24 +85,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Florida couple allegedly held four children in tractor-trailer cab for nearly seven years",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/74464c0186aedb794aeeb60546574ea1",
+        "link": "https://www.yahoo.com/news/us/articles/florida-couple-allegedly-held-four-110025696.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Alex Jones gets Sandy Hook family's Texas verdict reduced on appeal",
+        "image": "https://media.zenfs.com/en/reuters.com/b41246b1dfff1d86e3a6864d39432ae7.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/alex-jones-gets-sandy-hook-200949622.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "America's largest association of cattle ranchers says Trump's plan to lower beef prices is 'undermining' farmers",
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/29cd94b8aa5e1162f52e12d68156f3b6.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/americas-largest-association-cattle-ranchers-185500684.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Court cuts $50M judgment against Infowars' Alex Jones over falsely labeling Newtown killings a hoax",
-        "image": "https://media.zenfs.com/en/wpri-providence/24897f445e39861470a4d8887d42e41c.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/us-newtown-shootings-infowars-150326711.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Iran: President defends deal with US as best option for peace",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-president-defends-deal-with-us-as-best-option-for-peace/a-78477486?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran's president has said the country's economy needs a peace deal to attract investors. The Foreign Ministry said Pakistan's top army official will v..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Disney will cut medical insurance for spouses with other coverage options",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/e25dd899524d3025e0164b08a3ada95d.jpg",
-        "link": "https://finance.yahoo.com/healthcare/articles/disney-drop-medical-insurance-employees-215226589.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Could Russia's growing fuel crisis help end the Ukraine war?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/could-russia-s-growing-fuel-crisis-help-end-the-ukraine-war/a-78472138?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Empty pumps, long waits: Attacks on oil refineries have left Russia increasingly short of fuel. Dissident Russian economists say growing anger about s..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Ukrainian president says wartime elections, as called for by the ex-defense minister, could \"split Ukraine.\" He also said Russia was planning to m..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Is the US seeing a turning point in obesity rates?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/is-the-us-seeing-a-turning-point-in-obesity-rates/a-78436782?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Obesity rates climbed in the US for years, but now there are signs this could be changing. Use of weight-loss drugs such as Ozempic and Wegovy has inc..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "What is the 'political firewall' against Germany's far-right AfD?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/what-is-the-political-firewall-against-germany-s-far-right-afd/a-78431554?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany's centrist parties reject any cooperation with the Alternative for Germany (AfD), parts of which are classified as right-wing extremist. Howev..."
     }
 ]
