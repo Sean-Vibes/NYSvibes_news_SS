@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iranian oil offers to Chinese buyers fall as US blockade bites, sources say",
-        "image": "https://media.zenfs.com/en/reuters.com/756c7b8964e44b3f9c5e632051d47121.jpg",
-        "link": "https://finance.yahoo.com/energy/articles/iranian-oil-offers-chinese-buyers-081555135.html",
+        "title": "Philanthropist Nancy Kissinger, wife of former Secretary of State Henry Kissinger, dies at 92",
+        "image": "https://media.zenfs.com/en/ap.org/7723724d9d6bdaee794c0b45b6ead5e7.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/philanthropist-nancy-kissinger-wife-former-172409424.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,27 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/ebbc83b05ea0b496f16ad97a51b43e8b",
         "link": "https://www.yahoo.com/news/politics/articles/todd-blanche-vows-come-bad-192157708.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Is the US seeing a turning point in obesity rates?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/is-the-us-seeing-a-turning-point-in-obesity-rates/a-78436782?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Obesity rates climbed in the US for years, but now there are signs this could be changing. Use of weight-loss drugs such as Ozempic and Wegovy has inc..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "What is the 'political firewall' against Germany's far-right AfD?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/what-is-the-political-firewall-against-germany-s-far-right-afd/a-78431554?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany's centrist parties reject any cooperation with the Alternative for Germany (AfD), parts of which are classified as right-wing extremist. Howev..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Kazakhstan parliamentary vote to cement president's power",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/kazakhstan-parliamentary-vote-to-cement-president-s-power/a-78474598?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Candidates from seven state-approved parties are taking part in the election, while opposition parties have been banned. Central Asia's largest nation..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/trump-hits-out-at-canada-over-retaliatory-tariffs/a-78471618?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Donald Trump has accused Canada of treating US farmers unfairly for years as a trade standoff between Ottawa and Washington escalates. Both sides are ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Australia confirms H5N1 bird flu case in local mammal",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/australia-confirms-h5n1-bird-flu-case-in-local-mammal/a-78473874?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Australian authorities said the deadly virus's spread to mammals was \"concerning\" but \"not unexpected.\"..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Red faces as Sydney Marathon medal shows German stadium",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/red-faces-as-sydney-marathon-medal-shows-german-stadium/a-78473705?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A medal minted for finishers in the Sydney Marathon features a skyline of the city \u2014 with one landmark from rather far away. Organizers say the muddle..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine: Could ex-defense minister challenge Zelenskyy?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-could-ex-defense-minister-challenge-zelenskyy/a-78469496?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Last week, former Ukrainian defense minister Mykhailo Fedorov released a video in which he spoke of corruption, a crisis of leadership and elections. ..."
     }
 ]
