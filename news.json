@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Alex Jones gets Sandy Hook family's Texas verdict reduced on appeal",
-        "image": "https://media.zenfs.com/en/reuters.com/b41246b1dfff1d86e3a6864d39432ae7.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/alex-jones-gets-sandy-hook-200949622.html",
+        "title": "Russian online retailer Ozon warehouse in Orenburg region hit in drone attack, governor says",
+        "image": "https://media.zenfs.com/en/reuters.com/709123192b415bf1273251c7d39b9ebd.jpg",
+        "link": "https://www.yahoo.com/news/articles/russian-online-retailer-ozon-warehouse-073627070.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/29cd94b8aa5e1162f52e12d68156f3b6.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/americas-largest-association-cattle-ranchers-185500684.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Greece: Migrants clash with police at detention center",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/greece-migrants-clash-with-police-at-detention-center/a-78478650?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Clashes broke out between police and people at a migrant detention center in northern Greece, with 35 having escaped the facility before half of them ..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/congo-m23-rebels-agree-to-peace-roadmap/a-78476169?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Negotiators representing the Democratic Republic of Congo and Rwanda-backed M23 rebels have agreed to a roadmap for peace. The US State Department, a ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Harry Kane named footballer of the year in Germany",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/harry-kane-named-footballer-of-the-year-in-germany/a-78476228?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Harry Kane has added another honor after a remarkable season for Bayern Munich and a strong World Cup with England. Bayern also took the top prize in ..."
     }
 ]
