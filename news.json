@@ -78,31 +78,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "'Near miss' in harbour after boat runs red light",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/5e04e2c2f7a5beaac065ff1631d62f27.jpg",
-        "link": "https://www.yahoo.com/news/articles/near-miss-harbour-boat-runs-093006859.html",
+        "title": "Trump US attorney pick can no longer investigate one of the president\u2019s top foes, court rules",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/28d456bb260ca06d28c3773e2e90a1a1.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-us-attorney-pick-no-180248863.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "LA socialist's fumbled answer to Graham Platner question draws groans from Dem audience",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/cb0a4ff62458bbc922921726bb663138.png",
-        "link": "https://www.yahoo.com/news/politics/articles/la-socialists-fumbled-answer-graham-100035506.html",
+        "title": "Vance unloads on El-Sayed over Sharia remarks: \u2018That\u2019s not my grandpa\u2019s Democratic Party\u2019",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/ae222bd1fe09c49a252e6d8478aed42e.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/vance-unloads-el-sayed-over-213550720.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Philanthropist Nancy Kissinger, wife of former Secretary of State Henry Kissinger, dies at 92",
-        "image": "https://media.zenfs.com/en/ap.org/7723724d9d6bdaee794c0b45b6ead5e7.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/philanthropist-nancy-kissinger-wife-former-172409424.html",
+        "title": "Court cuts $50M judgment against Infowars' Alex Jones over falsely labeling Newtown killings a hoax",
+        "image": "https://media.zenfs.com/en/wpri-providence/24897f445e39861470a4d8887d42e41c.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/us-newtown-shootings-infowars-150326711.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Todd Blanche vows to 'come after' bad actors following $400M TikTok settlement",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/ebbc83b05ea0b496f16ad97a51b43e8b",
-        "link": "https://www.yahoo.com/news/politics/articles/todd-blanche-vows-come-bad-192157708.html",
+        "title": "Disney will cut medical insurance for spouses with other coverage options",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/e25dd899524d3025e0164b08a3ada95d.jpg",
+        "link": "https://finance.yahoo.com/healthcare/articles/disney-drop-medical-insurance-employees-215226589.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine: Zelenskyy rejects wartime elections",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Ukrainian president says wartime elections, as called for by the ex-defense minister, could \"split Ukraine.\" He also said Russia was planning to m..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/search-resumes-for-22-crew-after-cargo-ship-sinks-off-india/a-78472142?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Panama\u2011flagged Ocean Winner had 24 people on board when it sank in the Bay of Bengal. The ship is thought to have been carrying iron ore from Indi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump hits out at Canada over retaliatory tariffs",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-hits-out-at-canada-over-retaliatory-tariffs/a-78471618?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Donald Trump has accused Canada of treating US farmers unfairly for years as a trade standoff between Ottawa and Washington escalates. Both sides are ..."
     }
 ]
