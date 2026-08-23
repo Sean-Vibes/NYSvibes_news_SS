@@ -85,24 +85,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "LA socialist's fumbled answer to Graham Platner question draws groans from Dem audience",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/cb0a4ff62458bbc922921726bb663138.png",
+        "link": "https://www.yahoo.com/news/politics/articles/la-socialists-fumbled-answer-graham-100035506.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Ousted Ukrainian defence minister's gamble against Zelenskiy backfires as protests end",
+        "image": "https://media.zenfs.com/en/reuters.com/c828a0728f6b37e48b99d68a265a5ada.jpg",
+        "link": "https://www.yahoo.com/news/articles/analysis-ousted-ukrainian-defence-ministers-165330564.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Todd Blanche vows to 'come after' bad actors following $400M TikTok settlement",
         "image": "https://media.zenfs.com/en/fox_news_text_979/ebbc83b05ea0b496f16ad97a51b43e8b",
         "link": "https://www.yahoo.com/news/politics/articles/todd-blanche-vows-come-bad-192157708.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran security chief threatens neighbors against economic measures, and other Mideast developments",
-        "image": "https://media.zenfs.com/en/ap.org/f7b217c42b9595b5f585fca57f5db0c6.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/iran-says-world-accepted-defeated-092357518.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "LA socialist's fumbled answer to Graham Platner question draws groans from Dem audience",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/cb0a4ff62458bbc922921726bb663138.png",
-        "link": "https://www.yahoo.com/news/politics/articles/la-socialists-fumbled-answer-graham-100035506.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Mexican governor facing US drug charges says leaving office",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/mexican-governor-facing-us-drug-charges-says-leaving-office/a-78473557?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Embroiled in drug trafficking charges, Ruben Rocha Moya has asked for another leave of absence just days after returning to his position as Sinaloa st..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/cargo-vessel-sinks-off-indian-coast/a-78472142?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Panama\u2011flagged Ocean Winner reportedly had a crew of 24, at least two of whom appear to have been rescued. The ship is thought to have been carryi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nigeria: Jihadis kidnap dozens during Friday prayers",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nigeria-jihadis-kidnap-dozens-during-friday-prayers/a-78471356?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Witnesses said men carrying guns and machetes set upon two villages in Niger State. Many details about the attack have yet to be confirmed by police...."
     }
 ]
