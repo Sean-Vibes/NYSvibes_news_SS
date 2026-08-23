@@ -79,15 +79,15 @@
     {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Bill Maher blasts Democratic Party, says it is fine with religion 'as long as that faith isn\u2019t Jewish'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/1f40eefc3b5851a23e15737815945862.jpg",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/1f40eefc3b5851a23e15737815945862",
         "link": "https://www.yahoo.com/entertainment/celebrity/articles/bill-maher-blasts-democratic-party-181739524.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "LA socialist's fumbled answer to Graham Platner question draws groans from Dem audience",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/cb0a4ff62458bbc922921726bb663138.png",
-        "link": "https://www.yahoo.com/news/politics/articles/la-socialists-fumbled-answer-graham-100035506.html",
+        "title": "'Near miss' in harbour after boat runs red light",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/5e04e2c2f7a5beaac065ff1631d62f27.jpg",
+        "link": "https://www.yahoo.com/news/articles/near-miss-harbour-boat-runs-093006859.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "'Near miss' in harbour after boat runs red light",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/5e04e2c2f7a5beaac065ff1631d62f27.jpg",
-        "link": "https://www.yahoo.com/news/articles/near-miss-harbour-boat-runs-093006859.html",
+        "title": "LA socialist's fumbled answer to Graham Platner question draws groans from Dem audience",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/cb0a4ff62458bbc922921726bb663138.png",
+        "link": "https://www.yahoo.com/news/politics/articles/la-socialists-fumbled-answer-graham-100035506.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran warns countries against joining US 'economic war'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-warns-countries-against-joining-us-economic-war/a-78473222?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran has said nations joining US economic sanctions against it would be considered enemies. Earlier this week, President Trump had announced what he c..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-friedrich-merz-visits-area-struck-by-fires/live-78467416?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Chancellor Merz thanked firefighters who tackled recent devastating blazes in western Germany. Meanwhile, a German Cup soccer match ended in a mass br..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Kazakhstan's future after the elections: Russia, EU or China",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/kazakhstan-s-future-after-the-elections-russia-eu-or-china/a-78449637?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Kazakhstan, where power is being continuously consolidated in the president's hands, will have to continue its tough balancing act between the EU, Rus..."
     }
 ]
