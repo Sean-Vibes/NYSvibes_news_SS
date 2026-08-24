@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "Aurora Cannabis urges shareholders to reject Curaleaf hostile takeover",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/aurora-cannabis-urges-shareholders-to-reject-curaleaf-hostile-takeover/617583/",
+        "summary": "<p>Aurora Cannabis is asking its shareholders to sit tight and treat Curaleaf Holdings\u2019 hostile takeover bid with skepticism. In a statement Monday, t..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "Canada still dominates global cannabis exports, but changes are coming fast",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/germanys-ongoing-medical-cannabis-boom-is-redrawing-global-marijuana/617537/",
@@ -63,13 +70,6 @@
         "summary": "<p>Not every holiday is created equal, and cannabis sales vary wildly from holiday to holiday - and from day to day. Learn how to adapt your store's r..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Illinois may legalize outdoor cannabis cultivation in potential boost for craft growers",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/illinois-may-legalize-outdoor-cannabis-cultivation-in-potential-boost-for-craft-growers/617525/",
-        "summary": "<p>Illinois cannabis regulators are proposing to allow outdoor cannabis cultivation for the first time. The proposal could boost small craft growers, ..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Putin hands Russian state right to take control of badly protected infrastructure objects",
         "image": "https://media.zenfs.com/en/reuters.com/12ea92b42efdba10f02f1ad79162ff73.jpg",
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran official says support for new sanctions would be an 'act of war,' and other Middle East news",
-        "image": "https://media.zenfs.com/en/ap.org/c0ffc4346d24f40bb66dd935d2d0656a.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/iran-president-says-us-memorandum-080628964.html",
+        "title": "Congo's Ebola outbreak records one of its highest weekly death tolls yet",
+        "image": "https://media.zenfs.com/en/ap.org/a43a1742fe265fb87dc6a0954dc0e348",
+        "link": "https://www.yahoo.com/news/world/articles/congos-ebola-outbreak-records-one-130920369.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/85807a215af921fbe5f6987c1233a49b.png",
         "link": "https://www.yahoo.com/news/us/articles/california-dad-paralyzed-neck-down-012506291.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Sudan: US proposes expanding UN arms embargo",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/sudan-us-proposes-expanding-un-arms-embargo/a-78490440?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US has called for a UN arms embargo for Darfur to be broadened to the whole of Sudan. The change would require Security Council approval, with Rus..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/trump-says-canada-to-face-50-auto-steel-tariffs-from-2027/a-78487268?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The latest threat comes after the neighbors failed to reach a deal to avert a 50% US levy on a range of other Canadian goods. Ottawa says it plans to ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran protest victim: 'They were shooting to kill'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-protest-victim-they-were-shooting-to-kill/a-78486217?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "DW spoke with several Iranians affected by a brutal crackdown at the hands of the Tehran's security forces during the height of massive public protest..."
     }
 ]
