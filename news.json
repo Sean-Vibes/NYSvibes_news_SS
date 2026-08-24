@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "More Americans Are Now Smoking Marijuana Than Ever Before As Cigarettes Hit All-Time Low, Gallup Poll Shows",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/more-americans-are-smoking-marijuana-now-than-ever-before-as-cigarettes-hit-all-time-low-gallup-poll-shows/",
+        "summary": "<p>A record-high number of U.S. adults now smoke marijuana, while cigarette smoking is at an all-time low, according to a new Gallup poll. The survey,..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "DEA judge orders cannabis rescheduling transcript corrections (Newsletter: August 24, 2026)",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/dea-judge-orders-cannabis-rescheduling-transcript-corrections-newsletter-august-24-2026/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/tennessee-hemp-product-ban-could-lead-to-110-million-tax-shortfall-projections-show/",
         "summary": "<p>&#8220;Their decisions left Tennesseans who rely on hemp for chronic pain out on the side of our busted roads and stuck the rest of us with the tax..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Michigan GOP Governor Candidate Pledges Huge Tax Cut For Marijuana Industry, Along With Crackdown On Hemp Products",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/michigan-gop-governor-candidate-pledges-huge-tax-cut-for-marijuana-industry-along-with-crackdown-on-hemp-products/",
-        "summary": "<p>The Republican Party&#8217;s nominee for governor of Michigan is promising to repeal or significantly roll back a recently enacted tax hike on the ..."
     },
     {
         "source": "MJBizDaily",
@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Indonesia says death toll from August 15 earthquake reaches 100",
-        "image": "https://media.zenfs.com/en/reuters.com/9cc227849bcf04ef72a6e7bcc9ed2a83.jpg",
-        "link": "https://www.yahoo.com/news/articles/indonesia-says-death-toll-august-095206594.html",
+        "title": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him.",
+        "image": "https://media.zenfs.com/en/ap.org/853522d544573f8669b88f4df13fc4fd.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/waiting-son-return-uss-lincoln-200359816.html",
         "summary": "..."
     },
     {
@@ -85,24 +85,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "London Zoo animals hop on scales for weigh-in",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/351e1c347b683121b618c5d2837e86ef.jpg",
+        "link": "https://www.yahoo.com/lifestyle/articles/london-zoo-animals-hop-scales-102501198.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Iran official says support for new sanctions would be an 'act of war,' and other Middle East news",
+        "image": "https://media.zenfs.com/en/ap.org/c0ffc4346d24f40bb66dd935d2d0656a.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/iran-president-says-us-memorandum-080628964.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "California dad paralyzed from neck down after diving into ocean to rescue child",
         "image": "https://media.zenfs.com/en/fox_news_text_979/85807a215af921fbe5f6987c1233a49b.png",
         "link": "https://www.yahoo.com/news/us/articles/california-dad-paralyzed-neck-down-012506291.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him.",
-        "image": "https://media.zenfs.com/en/ap.org/853522d544573f8669b88f4df13fc4fd.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/waiting-son-return-uss-lincoln-200359816.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Star violinist Anne-Sophie Mutter: 50 years on stage",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/star-violinist-anne-sophie-mutter-50-years-on-stage/a-78484739?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Anne-Sophie Mutter constantly reinvents herself. For her 50th onstage anniversary, the star violinist is surprising audiences with sounds from around ..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018The writing on the wall\u2019: Trump\u2019s staff departs ahead of possible turmoil",
-        "image": "https://media.zenfs.com/en/politico_453/a37bdd1cf622a7021551c77ca9ae88ee.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/writing-wall-trump-staff-departs-150000716.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "US to unveil new Iran sanctions, says war entering 'endgame'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-to-unveil-new-iran-sanctions-says-war-entering-endgame/a-78483909?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "In what Donald Trump has called \"economic D-Day,\" the US says the new economic sanctions will be \"the single greatest financial offensive ever marshal..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Syria sentences Assad-era top Muslim cleric to life in prison",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/syria-sentences-assad-era-top-muslim-cleric-to-life-in-prison/a-78485344?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Muslim cleric Ahmad Hassoun was convicted of crimes including inciting sectarian violence and justifying murder. He is the latest Syrian official alig..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/scientists-discover-new-immune-hubs-in-skull-bone-marrow/a-78460417?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "In mouse skull marrow, 'immune hubs' that actively defend the brain have been discovered. Similar cells exist in human skulls, but their role remains ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Spiraling health costs force Iranians to delay care",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/spiraling-health-costs-force-iranians-to-delay-care/a-78455430?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A single chemotherapy session in Iran can cost six times the monthly minimum wage. As drug prices soar and medicine is in short supply, doctors say mo..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: Police used 'excessive force' on CJP protesters",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-police-used-excessive-force-on-cjp-protesters/live-78480551?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Amnesty International alleges that police in the capital New Delhi and the state of Bihar used excessive force against youth-led Cockroach protesters...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: State premier visits VW for crisis talks",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-state-premier-visits-vw-for-crisis-talks/live-78480873?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Political leaders are visiting car giant Volkswagen for crisis talks, while Chancellor Friedrich Merz meets party colleagues after a testing summer. D..."
     }
 ]
