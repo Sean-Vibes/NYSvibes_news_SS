@@ -85,24 +85,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Mark Cuban wants to solve wealth inequality by making employers choose between paying higher taxes or giving every member of staff company stock",
+        "image": "https://media.zenfs.com/en/fortune_175/b659bf53d831f1932345bd8bc85fb1bb.jpg",
+        "link": "https://finance.yahoo.com/economy/policy/articles/mark-cuban-wants-solve-wealth-112644662.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Putin wants to draft 300,000 new troops, Zelenskiy says",
+        "image": "https://media.zenfs.com/en/reuters.com/bbd1ddfca868e46c6bea43d5d62c7b5e.jpg",
+        "link": "https://www.yahoo.com/news/articles/putin-draft-300-000-troops-081614692.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "California dad paralyzed from neck down after diving into ocean to rescue child",
         "image": "https://media.zenfs.com/en/fox_news_text_979/85807a215af921fbe5f6987c1233a49b.png",
         "link": "https://www.yahoo.com/news/us/articles/california-dad-paralyzed-neck-down-012506291.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran official says support for new sanctions would be an 'act of war,' and other Middle East news",
-        "image": "https://media.zenfs.com/en/ap.org/c0ffc4346d24f40bb66dd935d2d0656a.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/iran-president-says-us-memorandum-080628964.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mark Cuban wants to solve wealth inequality by making employers choose between paying higher taxes or giving every member of staff company stock",
-        "image": "https://media.zenfs.com/en/fortune_175/b659bf53d831f1932345bd8bc85fb1bb.jpg",
-        "link": "https://finance.yahoo.com/economy/policy/articles/mark-cuban-wants-solve-wealth-112644662.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "The new Bundesliga season is here, but has the glow gone?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/the-new-bundesliga-season-is-here-but-has-the-glow-gone/a-78062032?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Another Bundesliga season arrives, but are the golden years of Germany's top football league already over, and what can it do to change its course?..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-to-unveil-new-iran-sanctions-says-war-entering-endgame/a-78483909?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "In what Donald Trump has called \"economic D-Day,\" the US says the new economic sanctions will be \"the single greatest financial offensive ever marshal..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Star violinist Anne-Sophie Mutter: 50 years on stage",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/star-violinist-anne-sophie-mutter-50-years-on-stage/a-78484739?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Anne-Sophie Mutter constantly reinvents herself. For her 50th onstage anniversary, the star violinist is surprising audiences with sounds from around ..."
     }
 ]
