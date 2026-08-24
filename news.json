@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Roche, Eli Lilly's Alzheimer's blood test gets FDA clearance",
-        "image": "https://media.zenfs.com/en/reuters.com/c49adb33c96864d4ecd8bf9e590a4aba.jpg",
-        "link": "https://www.yahoo.com/news/science/articles/roche-eli-lillys-alzheimers-blood-115543585.html",
+        "title": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him.",
+        "image": "https://media.zenfs.com/en/ap.org/853522d544573f8669b88f4df13fc4fd.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/waiting-son-return-uss-lincoln-200359816.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "\u2018The writing on the wall\u2019: Trump\u2019s staff departs ahead of possible turmoil",
-        "image": "https://media.zenfs.com/en/politico_453/a37bdd1cf622a7021551c77ca9ae88ee.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/writing-wall-trump-staff-departs-150000716.html",
+        "title": "Mark Cuban wants to solve wealth inequality by making employers choose between paying higher taxes or giving every member of staff company stock",
+        "image": "https://media.zenfs.com/en/fortune_175/b659bf53d831f1932345bd8bc85fb1bb.jpg",
+        "link": "https://finance.yahoo.com/economy/policy/articles/mark-cuban-wants-solve-wealth-112644662.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Trump says Canada to face 50% auto, steel tariffs from 2027",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-says-canada-to-face-50-auto-steel-tariffs-from-2027/a-78487268?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The latest threat comes after the neighbors failed to reach a deal to avert a 50% US levy on a range of other Canadian goods. Ottawa says it plans to ..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/star-violinist-anne-sophie-mutter-50-years-on-stage/a-78484739?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Anne-Sophie Mutter constantly reinvents herself. For her 50th onstage anniversary, the star violinist is surprising audiences with sounds from around ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Syria sentences Assad-era top Muslim cleric to life in prison",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/syria-sentences-assad-era-top-muslim-cleric-to-life-in-prison/a-78485344?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Muslim cleric Ahmad Hassoun was convicted of crimes including inciting sectarian violence and justifying murder. He is the latest Syrian official alig..."
     }
 ]
