@@ -85,24 +85,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Thetford accused out of prison after charge dropped",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/64f68d93b7ec1b82597074ef63dcf9ba.png",
-        "link": "https://www.yahoo.com/news/us/articles/thetford-accused-prison-charge-dropped-104006324.html",
+        "title": "'Office' star says James Talarico's religious beliefs 'achingly close' to Jesus Christ",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/c134bd971514defcded1cd4e9494b29c.png",
+        "link": "https://www.yahoo.com/news/politics/articles/office-star-says-james-talaricos-222656301.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Horrific plane crash kills eight in Alaska",
-        "image": "https://media.zenfs.com/en/nbcu_713/d512e7e0b65baa6fc9f1cf5abe378b16.jpg",
-        "link": "https://www.yahoo.com/news/videos/horrific-plane-crash-kills-eight-231728338.html",
+        "title": "Russian online retailer Ozon warehouse in Orenburg region hit in drone attack, governor says",
+        "image": "https://media.zenfs.com/en/reuters.com/709123192b415bf1273251c7d39b9ebd.jpg",
+        "link": "https://www.yahoo.com/news/articles/russian-online-retailer-ozon-warehouse-073627070.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Bill Maher blasts Democratic Party, says it is fine with religion 'as long as that faith isn\u2019t Jewish'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/1f40eefc3b5851a23e15737815945862",
-        "link": "https://www.yahoo.com/entertainment/celebrity/articles/bill-maher-blasts-democratic-party-181739524.html",
+        "title": "America's largest association of cattle ranchers says Trump's plan to lower beef prices is 'undermining' farmers",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/29cd94b8aa5e1162f52e12d68156f3b6.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/americas-largest-association-cattle-ranchers-185500684.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine: UK Prime Minister Andy Burnham to visit Kyiv in show of support on Ukraine's Independence Day",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-uk-prime-minister-andy-burnham-to-visit-kyiv-in-show-of-support-on-ukraine-s-independence-day/live-78479580?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Andy Burnham's first trip abroad as PM will see him co-chair a meeting of Ukraine's main backers and meet with Volodymyr Zelenskyy. The visit comes as..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/greece-migrants-clash-with-police-at-detention-center/a-78478650?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Clashes broke out between police and people at a migrant detention center in northern Greece, with 35 having escaped the facility before half of them ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Guinea: Garbage collapse at landfill kills dozens",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/guinea-garbage-collapse-at-landfill-kills-dozens/a-78478597?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Heavy seasonal rains caused a mound of garbage to collapse, burying dozens of people and nearby homes before the break of dawn...."
     }
 ]
