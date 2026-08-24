@@ -92,17 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russian online retailer Ozon warehouse in Orenburg region hit in drone attack, governor says",
-        "image": "https://media.zenfs.com/en/reuters.com/709123192b415bf1273251c7d39b9ebd.jpg",
-        "link": "https://www.yahoo.com/news/articles/russian-online-retailer-ozon-warehouse-073627070.html",
+        "title": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him.",
+        "image": "https://media.zenfs.com/en/ap.org/853522d544573f8669b88f4df13fc4fd.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/waiting-son-return-uss-lincoln-200359816.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "U.S. imposes 50% tariffs on some Canadian goods after trade talks collapse",
-        "image": "https://media.zenfs.com/en/nbcu_713/fdd48be083bd3b616d4bb985c9ae5c70.jpg",
-        "link": "https://www.yahoo.com/news/videos/u-imposes-50-tariffs-canadian-113022967.html",
+        "title": "Florida couple allegedly held four children in tractor-trailer cab for nearly seven years",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/74464c0186aedb794aeeb60546574ea1",
+        "link": "https://www.yahoo.com/news/us/articles/florida-couple-allegedly-held-four-110025696.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US: Wildfire forces mass evacuations near Reno, Nevada",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-wildfire-forces-mass-evacuations-near-reno-nevada/a-78480080?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A wind-driven wildfire has forced roughly 42,000 people to evacuate and destroyed homes as fire crews continue to battle extreme conditions...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/zelenskyy-repeats-ukraine-not-behind-nord-stream-attack/a-78478791?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Volodymyr Zelenskyy said Ukraine was assisting German authorities with their investigation into the Nord Stream explosions. A second Ukrainian nationa..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Greece: Migrants clash with police at detention center",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/greece-migrants-clash-with-police-at-detention-center/a-78478650?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Clashes broke out between police and people at a migrant detention center in northern Greece, with 35 having escaped the facility before half of them ..."
     }
 ]
