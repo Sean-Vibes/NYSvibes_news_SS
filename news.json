@@ -106,6 +106,20 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Germany news: Third drone found in Leipzig airport probe",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-third-drone-found-in-leipzig-airport-probe/live-78491814?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "German media say investigators have found a third drone and suspected explosives linked to the Leipzig/Halle Airport incident. DW has the latest...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Australia's music chart bars fully AI-generated music",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/australia-s-music-chart-bars-fully-ai-generated-music/a-78491743?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The ARIA chart is drawing a line between artists who use AI as a tool and songs created largely by machines...."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "US: Trump administration plans to revoke up to 200,000 visas from asylum seekers",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-trump-administration-plans-to-revoke-up-to-200-000-visas-from-asylum-seekers/a-78491300?maca=en-rss-en-all-1573-xml-mrss",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/haiti-gang-members-kill-dozens-near-port-au-prince/a-78491117?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "At least 40 people were killed, some of them execution-style, during the attack in Kenscoff. The local mayor described \"a night of terror\" in the town..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Sudan: US proposes expanding UN arms embargo",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/sudan-us-proposes-expanding-un-arms-embargo/a-78490440?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US has called for a UN arms embargo for Darfur to be broadened to the whole of Sudan. The change would require Security Council approval, with Rus..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US announces bid to further isolate Iran economically",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-announces-bid-to-further-isolate-iran-economically/a-78483909?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US Treasury Secretary Scott Bessent has outlined what he called \"unprecedented\" moves to isolate Iran economically. He said it will focus on third cou..."
     }
 ]
