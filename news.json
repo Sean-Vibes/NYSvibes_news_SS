@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Illinois Adds Two New Medical Marijuana Qualifying Conditions",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/illinois-adds-two-new-medical-marijuana-qualifying-conditions/",
+        "summary": "<p>Illinois officials have added two new qualifying conditions for the state&#8217;s medical marijuana program. The Illinois Department of Public Heal..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "More Than 200,000 People Were Arrested For Marijuana Possession In The U.S. Last Year, FBI Data Shows",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/more-than-200000-people-were-arrested-for-marijuana-possession-in-the-u-s-last-year-fbi-data-shows/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/texas-democrats-say-gop-lieutenant-governor-pushed-for-hemp-thc-product-ban-to-benefit-his-alcohol-industry-donors/",
         "summary": "<p>Texas Democrats are calling out a key Republican official for allegedly working to ban hemp THC products in order to benefit alcohol companies, whi..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Cannabis smoking outpaces cigarettes in US, Gallup poll shows (Newsletter: August 25, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/cannabis-smoking-outpaces-cigarettes-in-us-gallup-poll-shows-newsletter-august-25-2026/",
-        "summary": "<p>Congressional researchers call out FDA hemp delay; CA marijuana packaging bill to gov; Cannabis workers unionize; OR lawmaker plans edibles rollbac..."
     },
     {
         "source": "MJBizDaily",
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Putin hands Russian state right to take control of badly protected infrastructure objects",
-        "image": "https://media.zenfs.com/en/reuters.com/12ea92b42efdba10f02f1ad79162ff73.jpg",
-        "link": "https://www.yahoo.com/news/articles/putin-hands-state-control-badly-131902662.html",
+        "title": "Trump says Strait of Hormuz has been demined, warns Iran not to plant more",
+        "image": "https://media.zenfs.com/en/reuters.com/dae1ecb8700c1e34723cac5f3a2d4e85.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/trump-says-strait-hormuz-demined-150510817.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,20 @@
         "image": "https://media.zenfs.com/en/cnn_articles_875/3d9679cc097fc0236d64f48e02a04663.jpg",
         "link": "https://www.yahoo.com/news/us/articles/8-old-dies-rare-brain-063606804.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US country music legend Dolly Parton dies aged 80",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The family of the US country music legend announced her passing on social media. Dolly Parton's career spans more than half a century and includes a w..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Grain exports stall as Ukraine steps up attacks on Russia's Black Sea ports",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/grain-exports-stall-as-ukraine-steps-up-attacks-on-russia-s-black-sea-ports/a-78499629?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ukrainian drone strikes on Russian infrastructure on the Black Sea are disrupting grain and oil exports from the port of Novorossiysk and other key hu..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/canada-announces-retaliatory-tariffs-on-us-goods/a-78491819?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Canada's government said it would impose tariffs on some 700 US goods as of next month, amid the latest trade spat between Donald Trump and Mark Carne..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Schalke coach looks to Bosnia bond in Bundesliga return",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/schalke-coach-looks-to-bosnia-bond-in-bundesliga-return/a-78486008?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After three seasons in the second division, Schalke are back in the Bundesliga. Just a year ago, few would have guessed that their revival would large..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How Germany's drone defense fails",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-germany-s-drone-defense-fails/a-78353414?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Drone defense is a priority for the German government. Several dramatic incidents involving explosive-laden drones at Leipzig airport show there are s..."
     }
 ]
