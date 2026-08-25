@@ -36,6 +36,20 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "Too much cannabis banking? New Mexico credit union exits industry, citing competition.",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/too-much-cannabis-banking-new-mexico-credit-union-exits-industry-citing-competition/617602/",
+        "summary": "<p>US Eagle Federal Credit Union will close its cannabis banking arm Nov. 1, citing rising competition rather than weak demand for the service.</p>\n<p..."
+    },
+    {
+        "source": "MJBizDaily",
+        "title": "Cultivation potential leads Grown Rogue to snap up PharmaCann\u2019s New York medical cannabis permit",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/cultivation-potential-leads-grown-rogue-to-snap-up-pharmacanns-new-york-medical-cannabis-permit/617572/",
+        "summary": "<p>Grown Rogue enters New York with a $4.5 million buy of PharmaCann assets, targeting a shortage of indoor flower canopy.</p>\n<p><a href=\"https://mjb..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "Twice-ousted Massachusetts cannabis czar sues again, claiming corruption and public safety risks",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/twice-ousted-massachusetts-cannabis-czar-sues-again-claiming-corruption-and-public-safety-risks/617586/",
@@ -54,20 +68,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/germanys-ongoing-medical-cannabis-boom-is-redrawing-global-marijuana/617537/",
         "summary": "<p>Germany and Canada still dominate the global cannabis import-export market, but the Canada-to-Germany pipeline is under threat.</p>\n<p><a href=\"htt..."
-    },
-    {
-        "source": "MJBizDaily",
-        "title": "Canadian LPs expand presence in European cannabis",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/canadian-lps-expand-presence-in-european-cannabis/617539/",
-        "summary": "<p>Tilray raises global medical cannabis capacity, expanding cultivation in Quebec and Portugal to meet rising demand.</p>\n<p><a href=\"https://mjbizda..."
-    },
-    {
-        "source": "MJBizDaily",
-        "title": "Second major marijuana MSO sues New Jersey over labor-friendly licensing requirement",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/second-major-marijuana-mso-sues-new-jersey-over-labor-friendly-licensing-requirement/617540/",
-        "summary": "<p>A second major marijuana multistate operator is attempting to elude labor-friendly licensing requirements in New Jersey cannabis law with a federal..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump says Strait of Hormuz has been demined, warns Iran not to plant more",
-        "image": "https://media.zenfs.com/en/reuters.com/dae1ecb8700c1e34723cac5f3a2d4e85.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/trump-says-strait-hormuz-demined-150510817.html",
+        "title": "Colombian president orders immigration raids, vows deportations of migrants without legal status",
+        "image": "https://media.zenfs.com/en/ap.org/fbeafd0ebea30b6696963948355df3fd.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/colombian-president-orders-immigration-raids-230531032.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/cnn_articles_875/3d9679cc097fc0236d64f48e02a04663.jpg",
         "link": "https://www.yahoo.com/news/us/articles/8-old-dies-rare-brain-063606804.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Remembering Dolly Parton: 8 facts about the icon",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Dolly Parton was one of the world's most successful artists. On Tuesday, her family announced that she passed away at 80. Here are some important and ..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/houthi-strikes-threaten-to-pull-yemen-back-into-full-scale-war/a-78497448?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Iran-backed Houthis are using regional warfare to increase pressure on Saudi Arabia, while their attacks risk reopening Yemen's own conflict and d..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Canada announces retaliatory tariffs on US goods",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/canada-announces-retaliatory-tariffs-on-us-goods/a-78491819?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Canada's government said it would impose tariffs on some 700 US goods as of next month, amid the latest trade spat between Donald Trump and Mark Carne..."
     }
 ]
