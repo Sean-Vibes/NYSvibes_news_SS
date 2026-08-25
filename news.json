@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukraine's Zelenskiy sees window for U.S. mediation until summer 2027",
-        "image": "https://media.zenfs.com/en/reuters.com/11ac7c4057dca3133a2e909ab81105f7.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/ukraines-zelenskiy-sees-window-u-091703086.html",
+        "title": "Gold climbs to more than three-month high as markets await US inflation data",
+        "image": "https://media.zenfs.com/en/reuters.com/b6c6ba63375313613019e005f914057b.jpg",
+        "link": "https://finance.yahoo.com/news/gold-hits-over-3-month-065846742.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,20 @@
         "image": "https://media.zenfs.com/en/cnn_articles_875/3d9679cc097fc0236d64f48e02a04663.jpg",
         "link": "https://www.yahoo.com/news/us/articles/8-old-dies-rare-brain-063606804.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Why Starlink won't open Vietnam's heavily censored internet",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/why-starlink-won-t-open-vietnam-s-heavily-censored-internet/a-78494983?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Starlink promises better connectivity in remote and mountainous areas. But in one of Southeast Asia's most tightly controlled online environments, mor..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Will tougher US sanctions disrupt Iran's shadow economy?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/will-tougher-us-sanctions-disrupt-iran-s-shadow-economy/a-78494630?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US is expanding sanctions on Iran's financial networks, targeting crypto, gold, aviation and shipping. Analysts say the measures may fuel inflatio..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/canada-set-to-announce-retaliatory-tariffs-on-us-goods-after-talks-fail/a-78491819?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Tariffs of 50% on Canadian goods came into effect after trade talks collapsed. US President Trump has warned Ottawa to \"fall in line,\" but Canadian Pr..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Third drone found in Leipzig airport probe",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-third-drone-found-in-leipzig-airport-probe/live-78491814?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "German media say investigators have found a third drone and suspected explosives linked to the Leipzig/Halle Airport incident. DW has the latest...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Australia's music chart bars fully AI-generated music",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/australia-s-music-chart-bars-fully-ai-generated-music/a-78491743?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The ARIA chart is drawing a line between artists who use AI as a tool and songs created largely by machines...."
     }
 ]
