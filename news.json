@@ -85,24 +85,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Democrat mayor blasted by DHS for 'hunting down' property owners leasing to ICE: 'Unhinged'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/7363e681aaf77ae592a3cc54a30b0ab3.png",
-        "link": "https://www.yahoo.com/news/politics/articles/democrat-mayor-blasted-dhs-hunting-090050210.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him.",
-        "image": "https://media.zenfs.com/en/video.cbsnewsvideos.com/7cd0d5871199752aa6c0e74b743a8f71.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/us--uss-lincoln-sailor-father-arrested-200359816.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "California dad paralyzed from neck down after diving into ocean to rescue child",
         "image": "https://media.zenfs.com/en/fox_news_text_979/85807a215af921fbe5f6987c1233a49b.png",
         "link": "https://www.yahoo.com/news/us/articles/california-dad-paralyzed-neck-down-012506291.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Putin hands Russian state right to take control of badly protected infrastructure objects",
+        "image": "https://media.zenfs.com/en/reuters.com/12ea92b42efdba10f02f1ad79162ff73.jpg",
+        "link": "https://www.yahoo.com/news/articles/putin-hands-state-control-badly-131902662.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "8-year-old dies from rare brain-eating amoeba likely contracted while swimming in Louisiana lake",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/3d9679cc097fc0236d64f48e02a04663.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/8-old-dies-rare-brain-063606804.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Will Volkswagen's crunch week decide Germany's auto future?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/will-volkswagen-s-crunch-week-decide-germany-s-auto-future/a-78483715?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Volkswagen bosses face angry workers this week over restructuring plans that could eliminate up to 100,000 jobs and threaten several German plants. DW..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/why-starlink-won-t-open-vietnam-s-heavily-censored-internet/a-78494983?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Starlink promises better connectivity in remote and mountainous areas. But in one of Southeast Asia's most tightly controlled online environments, mor..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Will tougher US sanctions disrupt Iran's shadow economy?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/will-tougher-us-sanctions-disrupt-iran-s-shadow-economy/a-78494630?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US is expanding sanctions on Iran's financial networks, targeting crypto, gold, aviation and shipping. DW spoke with analysts about what could cha..."
     }
 ]
