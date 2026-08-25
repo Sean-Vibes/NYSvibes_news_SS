@@ -106,6 +106,13 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "US: Trump administration plans to revoke up to 200,000 visas from asylum seekers",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-trump-administration-plans-to-revoke-up-to-200-000-visas-from-asylum-seekers/a-78491300?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The State Department is reportedly looking to revoke the visas of up to 200,000 foreigners who sought asylum after entering on tourist or business vis..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Tornado in France damages homes, injures dozens",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/tornado-in-france-damages-homes-injures-dozens/a-78491206?maca=en-rss-en-all-1573-xml-mrss",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-announces-bid-to-further-isolate-iran-economically/a-78483909?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "US Treasury Secretary Scott Bessent has outlined what he called \"unprecedented\" moves to isolate Iran economically. He said it will focus on third cou..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "DR Congo peace roadmap: Will the fighting finally end?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/dr-congo-peace-roadmap-will-the-fighting-finally-end/a-78487489?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A new roadmap sets out the conditions toward peace in the eastern Democratic Republic of Congo (DRC). But disagreements over M23 rebels, Rwanda's role..."
     }
 ]
