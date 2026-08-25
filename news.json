@@ -1,6 +1,20 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "More Than 200,000 People Were Arrested For Marijuana Possession In The U.S. Last Year, FBI Data Shows",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/more-than-200000-people-were-arrested-for-marijuana-possession-in-the-u-s-last-year-fbi-data-shows/",
+        "summary": "<p>More than 200,000 people were arrested for possessing marijuana in the U.S. last year, according to the FBI&#8217;s latest annual crime report, and..."
+    },
+    {
+        "source": "Marijuana Moment",
+        "title": "DEA Releases Full Marijuana Rescheduling Hearing Transcript As Judge Prepares To Issue His Recommendation",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/dea-releases-full-marijuana-rescheduling-hearing-transcript-as-judge-prepares-to-issue-his-recommendation/",
+        "summary": "<p>The full official transcript of a\u00a0Drug Enforcement Administration (DEA) hearing on the Trump administration\u2019s marijuana rescheduling proposal has n..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Reports Of Increases In Problematic Cannabis Use Don\u2019t Mean We Should Return To Prohibition (Op-Ed)",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/reports-of-increases-in-problematic-cannabis-use-dont-mean-we-should-return-to-prohibition-op-ed/",
@@ -19,20 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/cannabis-smoking-outpaces-cigarettes-in-us-gallup-poll-shows-newsletter-august-25-2026/",
         "summary": "<p>Congressional researchers call out FDA hemp delay; CA marijuana packaging bill to gov; Cannabis workers unionize; OR lawmaker plans edibles rollbac..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Oregon Lawmaker Announces Push To Ban Marijuana Edibles With More Than 10 Milligrams Of THC",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/oregon-lawmaker-announces-push-to-ban-marijuana-edibles-with-more-than-10-milligrams-of-thc/",
-        "summary": "<p>&#8220;I\u2019m hoping that the cannabis industry will take the lead, and they\u2019ll decide they don\u2019t want to be like the tobacco industry.&#8221; By Mia ..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Workers At Another Missouri Marijuana Business Secure A Union Contract",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/workers-at-another-missouri-marijuana-business-secure-a-union-contract/",
-        "summary": "<p>\u201cWe already got our raises. Our [personal time off] is taking effect. Bonuses have been handed out\u2026and job security is in place.\u201d By Rebecca Rivas,..."
     },
     {
         "source": "MJBizDaily",
@@ -92,17 +92,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Putin hands Russian state right to take control of badly protected infrastructure objects",
-        "image": "https://media.zenfs.com/en/reuters.com/12ea92b42efdba10f02f1ad79162ff73.jpg",
-        "link": "https://www.yahoo.com/news/articles/putin-hands-state-control-badly-131902662.html",
+        "title": "Deportees who refused to exit a US flight in Liberia are sent to Equatorial Guinea",
+        "image": "https://media.zenfs.com/en/ap.org/d73610e0c101140877be99790c10e16f.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/deportees-refused-exit-us-flight-150205760.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "8-year-old dies from rare brain-eating amoeba likely contracted while swimming in Louisiana lake",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/3d9679cc097fc0236d64f48e02a04663.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/8-old-dies-rare-brain-063606804.html",
+        "title": "Firefighters Finally Gain Upper Hand on Raging Nevada Wildfire",
+        "image": "https://media.zenfs.com/en/nbcu_713/0d37e458027b0b35e893f98dd1ebad5c.jpg",
+        "link": "https://www.yahoo.com/news/videos/firefighters-finally-gain-upper-hand-111453012.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Houthi strikes threaten to pull Yemen back into full-scale war",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/houthi-strikes-threaten-to-pull-yemen-back-into-full-scale-war/a-78497448?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Iran-backed Houthis are using regional warfare to increase pressure on Saudi Arabia, while their attacks risk reopening Yemen's own conflict and d..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Canada announces retaliatory tariffs on US goods",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/canada-announces-retaliatory-tariffs-on-us-goods/a-78491819?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Canada's government said it would impose tariffs on some 700 US goods as of next month, amid the latest trade spat between Donald Trump and Mark Carne..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Schalke coach looks to Bosnia bond in Bundesliga return",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/schalke-coach-looks-to-bosnia-bond-in-bundesliga-return/a-78486008?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After three seasons in the second division, Schalke are back in the Bundesliga. Just a year ago, few would have guessed that their revival would large..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "How Germany's drone defense fails",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/how-germany-s-drone-defense-fails/a-78353414?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Drone defense is a priority for the German government. Several dramatic incidents involving explosive-laden drones at Leipzig airport show there are s..."
     },
     {
         "source": "Deutsche Welle",
@@ -110,33 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/will-volkswagen-s-crunch-week-decide-germany-s-auto-future/a-78483715?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Volkswagen bosses face angry workers this week over restructuring plans that could eliminate up to 100,000 jobs and threaten several German plants. DW..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germans swap friends for screens in their free time",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germans-swap-friends-for-screens-in-their-free-time/a-78497420?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "People are spending less time going out with friends and more of their leisure time online. AI is now part of that shift...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nigeria's jet fuel conundrum: Scarcity at home, abundance abroad",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nigeria-s-jet-fuel-conundrum-scarcity-at-home-abundance-abroad/a-78492451?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Nigeria is fast becoming Europe's biggest jet fuel supplier, as it continues to help ease ongoing shortages abroad. Meanwhile at home, the West Africa..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Will Iran withdraw from nuclear non-proliferation treaty?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/will-iran-withdraw-from-nuclear-non-proliferation-treaty/a-78495930?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Iranian lawmakers have again raised the possibility of leaving a decades-old international nuclear weapons treaty. Analysts say the threat to quit may..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why Starlink won't open Vietnam's heavily censored internet",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-starlink-won-t-open-vietnam-s-heavily-censored-internet/a-78494983?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Starlink promises better connectivity in remote and mountainous areas. But in one of Southeast Asia's most tightly controlled online environments, mor..."
     }
 ]
