@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "He was waiting for his son to return from the USS Lincoln. Then Border Patrol arrested him.",
-        "image": "https://media.zenfs.com/en/video.cbsnewsvideos.com/7cd0d5871199752aa6c0e74b743a8f71.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/us--uss-lincoln-sailor-father-arrested-200359816.html",
+        "title": "Police find the body of Karen Solomon, who was sought in the killing of her police officer husband",
+        "image": "https://media.zenfs.com/en/ap.org/730001a561bba8fb9b8353bd9a89cf4e.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/police-body-massachusetts-woman-named-204453828.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/cnn_articles_875/3d9679cc097fc0236d64f48e02a04663.jpg",
         "link": "https://www.yahoo.com/news/us/articles/8-old-dies-rare-brain-063606804.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Canada set to announce retaliatory tariffs on US goods after talks fail",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/canada-set-to-announce-retaliatory-tariffs-on-us-goods-after-talks-fail/a-78491819?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Tariffs of 50% on Canadian goods came into effect after trade talks collapsed. US President Trump has warned Ottawa to \"fall in line,\" but Canadian Pr..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-trump-administration-plans-to-revoke-up-to-200-000-visas-from-asylum-seekers/a-78491300?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The State Department is reportedly looking to revoke the visas of up to 200,000 foreigners who sought asylum after entering on tourist or business vis..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Tornado in France damages homes, injures dozens",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/tornado-in-france-damages-homes-injures-dozens/a-78491206?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A tornado tore through southwestern France, uprooting trees, damaging dozens of homes and causing transport chaos across the region...."
     }
 ]
