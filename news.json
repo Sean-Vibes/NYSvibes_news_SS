@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Cannabis smoking outpaces cigarettes in US, Gallup poll shows (Newsletter: August 25, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/cannabis-smoking-outpaces-cigarettes-in-us-gallup-poll-shows-newsletter-august-25-2026/",
+        "summary": "<p>Congressional researchers call out FDA hemp delay; CA marijuana packaging bill to gov; Cannabis workers unionize; OR lawmaker plans edibles rollbac..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Oregon Lawmaker Announces Push To Ban Marijuana Edibles With More Than 10 Milligrams Of THC",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/oregon-lawmaker-announces-push-to-ban-marijuana-edibles-with-more-than-10-milligrams-of-thc/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/congressional-researchers-call-out-fda-for-not-publishing-hemp-cannabinoid-lists-and-guidance-on-product-containers-thats-six-months-overdue/",
         "summary": "<p>Congressional researchers are again\u00a0noting that the Food and Drug Administration (FDA) has missed a legal deadline to publish a list of known canna..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "More Americans Are Now Smoking Marijuana Than Ever Before As Cigarettes Hit All-Time Low, Gallup Poll Shows",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/more-americans-are-smoking-marijuana-now-than-ever-before-as-cigarettes-hit-all-time-low-gallup-poll-shows/",
-        "summary": "<p>A record-high number of U.S. adults now smoke marijuana, while cigarette smoking is at an all-time low, according to a new Gallup poll. The survey,..."
     },
     {
         "source": "MJBizDaily",
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Police find the body of Karen Solomon, who was sought in the killing of her police officer husband",
-        "image": "https://media.zenfs.com/en/ap.org/730001a561bba8fb9b8353bd9a89cf4e.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/police-body-massachusetts-woman-named-204453828.html",
+        "title": "Ukraine's Zelenskiy sees window for U.S. mediation until summer 2027",
+        "image": "https://media.zenfs.com/en/reuters.com/11ac7c4057dca3133a2e909ab81105f7.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/ukraines-zelenskiy-sees-window-u-091703086.html",
         "summary": "..."
     },
     {
@@ -106,17 +106,24 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Middle East: Iran vows response to fresh US sanctions",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/middle-east-iran-vows-response-to-fresh-us-sanctions/live-78492098?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Iran vowed to push back against new US \"economic D-day,\" sanctions saying key trading partners would resist US pressure. Meanwhile, Pakistan reports p..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Trees are vital for cooler cities, but they need help too",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trees-are-vital-for-cooler-cities-but-they-need-help-too/a-78488665?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Record-breaking heat and drought are putting urban trees at risk. Experts explain how to protect these essential assets and build city forests that ca..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Canada set to announce retaliatory tariffs on US goods after talks fail",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/canada-set-to-announce-retaliatory-tariffs-on-us-goods-after-talks-fail/a-78491819?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Tariffs of 50% on Canadian goods came into effect after trade talks collapsed. US President Trump has warned Ottawa to \"fall in line,\" but Canadian Pr..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Middle East: Pakistan sees progress in US-Iran mediation",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/middle-east-pakistan-sees-progress-in-us-iran-mediation/live-78492098?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Pakistani mediators have hailed \"productive\" talks in Tehran on the US-Israeli war on Iran and the prospect of peace. Meanwhile, Iran says it will ret..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/australia-s-music-chart-bars-fully-ai-generated-music/a-78491743?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The ARIA chart is drawing a line between artists who use AI as a tool and songs created largely by machines...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US: Trump administration plans to revoke up to 200,000 visas from asylum seekers",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-trump-administration-plans-to-revoke-up-to-200-000-visas-from-asylum-seekers/a-78491300?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The State Department is reportedly looking to revoke the visas of up to 200,000 foreigners who sought asylum after entering on tourist or business vis..."
     }
 ]
