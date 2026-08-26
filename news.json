@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Putin hands Russian state right to take control of badly protected infrastructure objects",
-        "image": "https://media.zenfs.com/en/reuters.com/12ea92b42efdba10f02f1ad79162ff73.jpg",
-        "link": "https://www.yahoo.com/news/articles/putin-hands-state-control-badly-131902662.html",
+        "title": "A Montana man killed 8 relatives, including 4 kids, at Sunday dinner, family says",
+        "image": "https://media.zenfs.com/en/ap.org/4aa5f76fddf3adf812996594dbe557ac.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/montana-man-killed-8-relatives-212333934.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Deportees who refused to exit a US flight in Liberia are sent to Equatorial Guinea",
-        "image": "https://media.zenfs.com/en/ap.org/d73610e0c101140877be99790c10e16f.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/deportees-refused-exit-us-flight-150205760.html",
+        "title": "Rescuers find no trace of 22 missing crew days after cargo ship sinks in Bay of Bengal",
+        "image": "https://media.zenfs.com/en/ap.org/96c0128c2755ff2627b9c24fa343966e.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/rescuers-no-trace-22-missing-081210896.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/85807a215af921fbe5f6987c1233a49b.png",
         "link": "https://www.yahoo.com/news/us/articles/california-dad-paralyzed-neck-down-012506291.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Haiti: UN chief condemns Haiti attack that killed 47",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The UN Secretary General has condemned a violent attack that left at least 47 dead and saw over 50 more kidnapped...."
     },
     {
         "source": "Deutsche Welle",
@@ -116,7 +123,7 @@
         "title": "US country music legend Dolly Parton dies aged 80",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The family of the US country music legend announced her passing on social media. Dolly Parton's career spans more than half a century and includes a w..."
+        "summary": "Representatives of the country music legend told US media that Dolly Parton died after a \"brief battle with cancer.\" Parton's career spans more than h..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/cia-director-in-moscow-for-meetings-us-media-reports/a-78500042?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "US media outlets say John Ratcliffe was in Russia to attend meetings. Flight tracking websites had earlier detected the arrival of a US military trans..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Houthi strikes threaten to pull Yemen back into full-scale war",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/houthi-strikes-threaten-to-pull-yemen-back-into-full-scale-war/a-78497448?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Iran-backed Houthis are using regional warfare to increase pressure on Saudi Arabia, while their attacks risk reopening Yemen's own conflict and d..."
     }
 ]
