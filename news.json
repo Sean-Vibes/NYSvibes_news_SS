@@ -106,6 +106,27 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Pakistan: Islamabad hospital fire kills 15 infants",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/pakistan-islamabad-hospital-fire-kills-15-infants/a-78503056?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A fire broke out in the third floor of a maternity ward in Islamabad. Pakistani Prime Minister Shehbaz Sharif has called for an immediate investigatio..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Despite international bans, landmines are back in force",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/despite-international-bans-landmines-are-back-in-force/a-78501702?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "It was considered a major achievement when most countries in the world agreed to ban anti-personnel mines in the 1990s. But given the Russia-Ukraine w..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US military kills 4 in Caribbean boat strike",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-military-kills-4-in-caribbean-boat-strike/a-78502726?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US military killed four people in a strike on a suspected drug-smuggling boat in the Caribbean, the latest in a campaign that has killed more than..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "China: Dissident artist jailed for satirical Mao sculptures",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/china-dissident-artist-jailed-for-satirical-mao-sculptures/a-78502724?maca=en-rss-en-all-1573-xml-mrss",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The UN Secretary General has condemned a violent attack that left at least 47 dead and saw over 50 more kidnapped...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Remembering Dolly Parton: 8 facts about the icon",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/remembering-dolly-parton-8-facts-about-the-icon/a-75503168?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Dolly Parton was one of the world's most successful artists. On Tuesday, her family announced that she passed away at 80. Here are some important and ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US country music legend Dolly Parton dies aged 80",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-country-music-legend-dolly-parton-dies-aged-80/a-78501931?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Representatives of the country music legend told US media that Dolly Parton died after a \"brief battle with cancer.\" Parton's career spans more than h..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Grain exports stall as Ukraine steps up attacks on Russia's Black Sea ports",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/grain-exports-stall-as-ukraine-steps-up-attacks-on-russia-s-black-sea-ports/a-78499629?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukrainian drone strikes on Russian infrastructure on the Black Sea are disrupting grain and oil exports from the port of Novorossiysk and other key hu..."
     }
 ]
