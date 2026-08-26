@@ -92,17 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Rescuers find no trace of 22 missing crew days after cargo ship sinks in Bay of Bengal",
-        "image": "https://media.zenfs.com/en/ap.org/96c0128c2755ff2627b9c24fa343966e.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/rescuers-no-trace-22-missing-081210896.html",
+        "title": "Putin hands Russian state right to take control of badly protected infrastructure objects",
+        "image": "https://media.zenfs.com/en/reuters.com/12ea92b42efdba10f02f1ad79162ff73.jpg",
+        "link": "https://www.yahoo.com/news/articles/putin-hands-state-control-badly-131902662.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Firefighters Finally Gain Upper Hand on Raging Nevada Wildfire",
-        "image": "https://media.zenfs.com/en/nbcu_713/0d37e458027b0b35e893f98dd1ebad5c.jpg",
-        "link": "https://www.yahoo.com/news/videos/firefighters-finally-gain-upper-hand-111453012.html",
+        "title": "A powerful lunar eclipse is coming: What your zodiac sign can expect",
+        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/4da4d91de16a06e1c82feaafcd192092.jpg",
+        "link": "https://www.yahoo.com/lifestyle/articles/powerful-lunar-eclipse-coming-zodiac-000022556.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany: Carnivalgoers rescued after being trapped on ride",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-carnivalgoers-rescued-after-being-trapped-on-ride/a-78504830?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Passengers became stranded high up in the air after a swing carousel malfunctioned in Hamburg...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/despite-international-bans-landmines-are-back-in-force/a-78501702?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "It was considered a major achievement when most countries in the world agreed to ban anti-personnel mines in the 1990s. But given the Russia-Ukraine w..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US military kills 4 in Caribbean boat strike",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-military-kills-4-in-caribbean-boat-strike/a-78502726?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US military killed four people in a strike on a suspected drug-smuggling boat in the Caribbean, the latest in a campaign that has killed more than..."
     }
 ]
