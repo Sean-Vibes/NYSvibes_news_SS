@@ -85,24 +85,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Surveillance Camera Saboteurs Are Getting Government Officials' Attention",
-        "image": "https://media.zenfs.com/en/reason_com_245/06fbee7b55697ce1b8c55b8cd9dc92b8.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/surveillance-camera-saboteurs-getting-government-110007064.html",
+        "title": "A powerful lunar eclipse is coming: What your zodiac sign can expect",
+        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/4da4d91de16a06e1c82feaafcd192092.jpg",
+        "link": "https://www.yahoo.com/lifestyle/articles/powerful-lunar-eclipse-coming-zodiac-000022556.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kremlin says US spy chief held talks with Russian counterparts during Moscow visit",
-        "image": "https://media.zenfs.com/en/reuters.com/222d2df9713a9c08c5bd290a67d742cc.jpg",
-        "link": "https://www.yahoo.com/news/articles/kremlin-says-us-spy-chief-101906076.html",
+        "title": "Bessent announces new Iranian sanctions in 'Operation Economic Outcast'",
+        "image": "https://media.zenfs.com/en/nbcu_713/85de72e0764d655bd503d3dbc08555d6.jpg",
+        "link": "https://www.yahoo.com/news/videos/bessent-announces-iranian-sanctions-operation-171245511.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Grocers issue warning over Mamdani\u2019s taxpayer-backed stores: 'We're going to go after' them",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/735207d6f15922668a4a1fd3ca13d758.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/grocers-issue-warning-over-mamdani-090017122.html",
+        "title": "30 major US airports with the most departure delays, ranked",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/5bc68a9e1099c271e9f102e19e1890d3.jpg",
+        "link": "https://travel.yahoo.com/flights/articles/30-major-us-airports-most-140210330.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Saxony-Anhalt a state dominated by the Chemical industry and a strong AfD",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/saxony-anhalt-a-state-dominated-by-the-chemical-industry-and-a-strong-afd/a-78482588?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Saxony-Anhalt is a structurally weak, predominantly rural state. Could it become the first German state to be governed by the far-right AfD?..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Frankfurt Airport worker dies after malaria infection",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/frankfurt-airport-worker-dies-after-malaria-infection/a-78512056?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "An unusual cluster of malaria cases at Frankfurt Airport infected six employees, one fatally. It is thought to have been caused by a mosquito brought ..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/could-syria-become-the-focus-of-an-israeli-turkish-conflict/a-78507781?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "An Israeli attack on a Syrian military airfield just recently demonstrated once again that Syria is becoming a key battleground for the rivalry betwee..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Zambia after the polls: A test for democracy in Africa",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/zambia-after-the-polls-a-test-for-democracy-in-africa/a-78509362?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Zambia's democratic institutions are under scrutiny, as the opposition continues to dispute the election results and courts remain closed. Weeks after..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Moscow confirms visit of CIA Director John Ratcliffe",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/moscow-confirms-visit-of-cia-director-john-ratcliffe/a-78508645?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Russian government said that spy chief John Ratcliffe held talks with counterparts, but not President Vladimir Putin, on his Moscow trip...."
     }
 ]
