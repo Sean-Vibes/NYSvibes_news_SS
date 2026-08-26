@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump admin says Kennedy Center 'to be taken down' without renovations",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/fd2b8a1b4a55264e6fc29b5631642e0e.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-admin-says-kennedy-center-203223394.html",
+        "title": "A powerful lunar eclipse is coming: What your zodiac sign can expect",
+        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/4da4d91de16a06e1c82feaafcd192092.jpg",
+        "link": "https://www.yahoo.com/lifestyle/articles/powerful-lunar-eclipse-coming-zodiac-000022556.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "China: Dissident artist jailed for satirical Mao sculptures",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/china-dissident-artist-jailed-for-satirical-mao-sculptures/a-78502724?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Sculptor Gao Zhen was charged under China's \"Law on the Protection \u2060of Heroes \u200band Martyrs.\" His supporters have called for his immediate release...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/grain-exports-stall-as-ukraine-steps-up-attacks-on-russia-s-black-sea-ports/a-78499629?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Ukrainian drone strikes on Russian infrastructure on the Black Sea are disrupting grain and oil exports from the port of Novorossiysk and other key hu..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "CIA director in Moscow for meetings \u2014 US media reports",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/cia-director-in-moscow-for-meetings-us-media-reports/a-78500042?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US media outlets say John Ratcliffe was in Russia to attend meetings. Flight tracking websites had earlier detected the arrival of a US military trans..."
     }
 ]
