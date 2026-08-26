@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "DEA releases cannabis rescheduling hearing transcript (Newsletter: August 26, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/dea-releases-cannabis-rescheduling-hearing-transcript-newsletter-august-26-2026/",
+        "summary": "<p>FBI&#8217;s updated marijuana arrest data; TX Dems slam GOP over hemp THC ban; New IL medical cannabis conditions; Problematic use &#38; prohibitio..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Illinois Adds Two New Medical Marijuana Qualifying Conditions",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/illinois-adds-two-new-medical-marijuana-qualifying-conditions/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/reports-of-increases-in-problematic-cannabis-use-dont-mean-we-should-return-to-prohibition-op-ed/",
         "summary": "<p>&#8220;A free society should be capable of learning to live with potentially risky substances without the government banning them.&#8221; By Jeffre..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Texas Democrats Say GOP Lieutenant Governor Pushed For Hemp THC Product Ban To Benefit His Alcohol Industry Donors",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/texas-democrats-say-gop-lieutenant-governor-pushed-for-hemp-thc-product-ban-to-benefit-his-alcohol-industry-donors/",
-        "summary": "<p>Texas Democrats are calling out a key Republican official for allegedly working to ban hemp THC products in order to benefit alcohol companies, whi..."
     },
     {
         "source": "MJBizDaily",
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Putin hands Russian state right to take control of badly protected infrastructure objects",
-        "image": "https://media.zenfs.com/en/reuters.com/12ea92b42efdba10f02f1ad79162ff73.jpg",
-        "link": "https://www.yahoo.com/news/articles/putin-hands-state-control-badly-131902662.html",
+        "title": "Rescuers find no trace of 22 missing crew days after cargo ship sinks in Bay of Bengal",
+        "image": "https://media.zenfs.com/en/ap.org/96c0128c2755ff2627b9c24fa343966e.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/rescuers-no-trace-22-missing-081210896.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/us.abcnews.gma.com/4da4d91de16a06e1c82feaafcd192092.jpg",
         "link": "https://www.yahoo.com/lifestyle/articles/powerful-lunar-eclipse-coming-zodiac-000022556.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Deadly flash flood wipes away villages in Nepal, Tibet",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/deadly-flash-flood-wipes-away-villages-in-nepal-tibet/a-78505576?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Rescue helicopters have been unable to land in affected areas due to high flood waters. The leaders of Nepal and China ordered major rescue operations..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/pakistan-islamabad-hospital-fire-kills-at-least-14-infants/a-78503056?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A fire broke out in the third floor of a maternity ward in Islamabad. Pakistani Prime Minister Shehbaz Sharif has called for an immediate investigatio..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Despite international bans, landmines are back in force",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/despite-international-bans-landmines-are-back-in-force/a-78501702?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "It was considered a major achievement when most countries in the world agreed to ban anti-personnel mines in the 1990s. But given the Russia-Ukraine w..."
     }
 ]
