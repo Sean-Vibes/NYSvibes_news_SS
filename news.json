@@ -92,17 +92,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Putin hands Russian state right to take control of badly protected infrastructure objects",
-        "image": "https://media.zenfs.com/en/reuters.com/12ea92b42efdba10f02f1ad79162ff73.jpg",
-        "link": "https://www.yahoo.com/news/articles/putin-hands-state-control-badly-131902662.html",
+        "title": "Rescuers find no trace of 22 missing crew days after cargo ship sinks in Bay of Bengal",
+        "image": "https://media.zenfs.com/en/ap.org/96c0128c2755ff2627b9c24fa343966e.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/rescuers-no-trace-22-missing-081210896.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "A powerful lunar eclipse is coming: What your zodiac sign can expect",
-        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/4da4d91de16a06e1c82feaafcd192092.jpg",
-        "link": "https://www.yahoo.com/lifestyle/articles/powerful-lunar-eclipse-coming-zodiac-000022556.html",
+        "title": "Firefighters Finally Gain Upper Hand on Raging Nevada Wildfire",
+        "image": "https://media.zenfs.com/en/nbcu_713/0d37e458027b0b35e893f98dd1ebad5c.jpg",
+        "link": "https://www.yahoo.com/news/videos/firefighters-finally-gain-upper-hand-111453012.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Sugar tax plan leaves sour taste",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-sugar-tax-plan-leaves-sour-taste/live-78504011?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany's plans for a sugar tax are facing growing opposition amid claims that it's more about raising revenue than health. DW has the latest...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "NYC: Mamdani opposes rally with Hindu nationalist leader",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/nyc-mamdani-opposes-rally-with-hindu-nationalist-leader/a-78502850?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "NYC Mayor Zohran Mamdani voiced opposition to an upcoming event featuring RSS chief Mohan Bhagwat, calling the Hindu nationalist group's ideology \"exc..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-military-kills-4-in-caribbean-boat-strike/a-78502726?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The US military killed four people in a strike on a suspected drug-smuggling boat in the Caribbean, the latest in a campaign that has killed more than..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "China: Dissident artist jailed for satirical Mao sculptures",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/china-dissident-artist-jailed-for-satirical-mao-sculptures/a-78502724?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Sculptor Gao Zhen was charged under China's \"Law on the Protection \u2060of Heroes \u200band Martyrs.\" His supporters have called for his immediate release...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Haiti: UN chief condemns Haiti attack that killed 47",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/haiti-un-chief-condemns-haiti-attack-that-killed-47/a-78502635?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The UN Secretary General has condemned a violent attack that left at least 47 dead and saw over 50 more kidnapped...."
     }
 ]
