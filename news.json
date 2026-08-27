@@ -85,24 +85,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Terrifying video captures people fleeing incoming mudslide at Nepal-China border",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/cd189049576269d222e6f1e42e505f35.jpg",
-        "link": "https://www.yahoo.com/news/weather-news/articles/terrifying-video-captures-people-fleeing-174905411.html",
+        "title": "NFL owner's prostitution arrest puts top Dem committee on defense: 'So desperate for cash'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/66be77cbab54d994098516f6de589613",
+        "link": "https://sports.yahoo.com/articles/nfl-owners-prostitution-arrest-puts-210234659.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Cousin of 10-year-old Wisconsin girl pleads guilty to her killing and gets life in prison",
-        "image": "https://media.zenfs.com/en/ap.org/b9fd8a69799252a092a3bd4a9a16f6ee.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/cousin-10-old-wisconsin-girl-182924523.html",
+        "title": "Rescuers find no trace of 22 missing crew days after cargo ship sinks in Bay of Bengal",
+        "image": "https://media.zenfs.com/en/ap.org/96c0128c2755ff2627b9c24fa343966e.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/rescuers-no-trace-22-missing-081210896.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "A powerful lunar eclipse is coming: What your zodiac sign can expect",
-        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/4da4d91de16a06e1c82feaafcd192092.jpg",
-        "link": "https://www.yahoo.com/lifestyle/articles/powerful-lunar-eclipse-coming-zodiac-000022556.html",
+        "title": "Trump admin says Kennedy Center 'to be taken down' without renovations",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/fd2b8a1b4a55264e6fc29b5631642e0e.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-admin-says-kennedy-center-203223394.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Japanese artist Yayoi Kusama dies at 97",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/japanese-artist-yayoi-kusama-dies-at-97/a-78518473?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "From works of \"self-obliteration\" to polka dotted nudes, the pioneering artist developed a unique body of work likely to be relevant for years to come..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US Army to spend $2 billion nuclear microreactors for bases",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-army-to-spend-2-billion-nuclear-microreactors-for-bases/a-78518374?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US Army has announced a plan to install what it calls nuclear microreactors at five of its bases across the country. The move would ensure the fac..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "France: Car rams crowd at bus stop in Caen",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/france-car-rams-crowd-at-bus-stop-in-caen/a-78518309?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "At least one person was killed and several injured when a car drove into a bus shelter in the northern French city of Caen...."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/no-this-wasn-t-a-completely-normal-summer-despite-far-right-climate-denial/a-78513682?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Some political messaging denies the role of human-caused climate change in this summer's extreme heat. The science tells a different story...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Tim Curry, of 'The Rocky Horror Picture Show,' dies at 80",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/tim-curry-of-the-rocky-horror-picture-show-dies-at-80/a-78514945?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The gender-bending role as Dr. Frank-N-Furter put Curry on the map in 1975. He then went on to play a number of villainous roles like Gomez Addams, Pe..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "This extremely successful author polarizes German readers",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/this-extremely-successful-author-polarizes-german-readers/a-78500452?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "She's young and she says what she thinks: Caroline Wahl is topping Germany's bestseller lists with her novels. But she has also faced public backlash...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Saxony-Anhalt: an AfD stronghold in Germany's east",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/saxony-anhalt-an-afd-stronghold-in-germany-s-east/a-78482588?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Saxony-Anhalt is a structurally weak, predominantly rural state. Could it become the first German state to be governed by the far-right AfD?..."
     }
 ]
