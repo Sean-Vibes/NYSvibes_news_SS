@@ -71,16 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Florida grand jury finds DeSantis administration misused $10 million, but no charges filed",
-        "image": "https://media.zenfs.com/en/ap.org/779a111c7eab38381729abda1fe75e66.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/florida-grand-jury-finds-desantis-212836687.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kamala Harris dives into midterm fight only to get roasted for never having 'an original thought in her life\u2019",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/d9a73c259a573d8f42c9a74a33f67829.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/kamala-harris-dives-midterm-fight-160939937.html",
+        "title": "North Carolina congressman Edwards asks House colleagues not to censure him",
+        "image": "https://media.zenfs.com/en/ap.org/4ad48c4919d0bf4f63c3c6d8667a8742.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/north-carolina-congressman-edwards-asks-183226856.html",
         "summary": "..."
     },
     {
@@ -92,24 +85,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US officials tie cyclospora outbreak involving iceberg lettuce to 3 more states",
-        "image": "https://media.zenfs.com/en/ap.org/ae6885a29efdeaf917d4cc9c26d1da54.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/us-officials-tie-cyclospora-outbreak-212913905.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Federal judge says Trump discussing payoff to Stormy Daniels isn\u2019t an official presidential action",
         "image": "https://media.zenfs.com/en/cnn_articles_875/fa95704eda0fe090e5ae6857d6409ef8.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/judge-rejects-trump-newest-bid-171815336.html",
         "summary": "..."
     },
     {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Iran's disfigured supreme leader remains invisible six months into an existential war",
+        "image": "https://media.zenfs.com/en/reuters.com/c25d19b70375ead6d4e44cd7591315d8.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/irans-disfigured-supreme-leader-remains-050412085.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Lindsay Clancy verdict: Retired judge explains what happens if insanity defense prevails",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/eb6ecacad1dbf19810ae2f49861cf5b8.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/lindsay-clancy-verdict-retired-judge-160939368.html",
+        "summary": "..."
+    },
+    {
         "source": "Deutsche Welle",
-        "title": "Trump hails major oil deal with Venezuela",
+        "title": "Nearly 200,000 forced deportees received by Haiti, UN says",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-hails-major-oil-deal-with-venezuela/a-78553607?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US President Donald Trump said the United States signed an agreement with Venezuela to take control of 65 billion barrels of oil...."
+        "link": "https://www.dw.com/en/nearly-200-000-forced-deportees-received-by-haiti-un-says/a-78554006?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Amid surging gang violence, Haiti received thousands of forced returnees. An emergency meeting of the UN Security Council was called to discuss the si..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Niger: Gunfire and explosions heard in capital",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/niger-gunfire-and-explosions-heard-in-capital/a-78554001?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Niger is ruled by a military junta like its neighbors Mali and Burkina Faso. The three countries have struggled to contain jihadi violence in recent y..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US, Venezuela announce 'historic' oil deal",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-venezuela-announce-historic-oil-deal/a-78553607?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US President Donald Trump announced an agreement with Venezuela to take control of 65 billion barrels of oil. The South American country has the large..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/spain-asks-eu-s-frontex-for-help-in-processing-ceuta-migrants/a-78553545?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Of the over 70,000 migrants who illegally crossed into Ceuta from Morocco in late July, some 5,000 still remain in the Spanish exclave. Ceuta resident..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Austria museum heist: Thieves snatch diamond necklace",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/austria-museum-heist-thieves-snatch-diamond-necklace/a-78552889?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The stolen necklace, studded with 673 precious stones, belonged to Egypt's Queen Nazli. It was being displayed as part of the museum's exhibition for ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Baltic summit plans hybrid-threat task force",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-baltic-summit-plans-hybrid-threat-task-force/live-78540334?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ministers from countries bordering the Baltic Sea have agreed on a rapid response force to counter hybrid threats. Meanwhile, the far-right AfD has fa..."
     }
 ]
