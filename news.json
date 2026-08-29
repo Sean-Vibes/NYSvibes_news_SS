@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Florida grand jury finds DeSantis administration misused $10 million, but no charges filed",
-        "image": "https://media.zenfs.com/en/ap.org/779a111c7eab38381729abda1fe75e66.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/florida-grand-jury-finds-desantis-212836687.html",
+        "title": "Risk of lake burst near China-Nepal border disaster site wanes",
+        "image": "https://media.zenfs.com/en/reuters.com/cb339a5f802acbcdd3ea97231e8ab0a6.jpg",
+        "link": "https://www.yahoo.com/news/articles/risk-lake-burst-near-china-061012571.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Risk of lake burst near China-Nepal border disaster site wanes",
-        "image": "https://media.zenfs.com/en/reuters.com/cb339a5f802acbcdd3ea97231e8ab0a6.jpg",
-        "link": "https://www.yahoo.com/news/articles/risk-lake-burst-near-china-061012571.html",
+        "title": "US academic who accused Jason Arday of plagiarism allowed to resume some work",
+        "image": "https://media.zenfs.com/en/reuters.com/784a5852b39d5f3bd9cb88a208b9bc9b.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/us-academic-accused-jason-arday-151637438.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,20 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/d634ea8469a75b3c4c02314703700e70.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/one-constitution-puts-liberals-appetite-120006604.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Israeli settlers attack Palestinian homes in West Bank",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/israeli-settlers-attack-palestinian-homes-in-west-bank/a-78560116?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Masked Israeli settlers launched their first major attack since initiating a siege in the village of Qusra earlier this month. Saturday's attacks were..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Zimbabwe crash involving church minibus kills 27",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/zimbabwe-crash-involving-church-minibus-kills-27/a-78558710?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Dozens of people were killed when a minibus carrying churchgoers collided head-on with a truck in central Zimbabwe. The crash near the town of Chivhu ..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-news-pm-modi-in-uzbekistan-on-way-to-sco-summit/live-78554796?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Indian Prime Minister Narendra Modi is in Uzbekistan for a two-day state visit, after which he will go to Kyrgyzstan for the SCO Summit. Meanwhile, hu..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russian strike on ammunition depot near Kyiv kills dozens",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russian-strike-on-ammunition-depot-near-kyiv-kills-dozens/a-78556008?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Hundreds were also forced to flee after a Russian attack near Ukraine's capital, Kyiv, sparked a huge fire and explosions. The strike was the second t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Death toll from Nepal-Tibet floods rises to over 600",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/death-toll-from-nepal-tibet-floods-rises-to-over-600/a-78555290?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Heavy rain is complicating an already difficult rescue effort, as hundreds remain missing three days after deadly flash floods hit the Nepal-Tibet bor..."
     }
 ]
