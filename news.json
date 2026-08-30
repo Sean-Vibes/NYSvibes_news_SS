@@ -71,16 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Risk of lake burst near China-Nepal border disaster site wanes",
-        "image": "https://media.zenfs.com/en/reuters.com/cb339a5f802acbcdd3ea97231e8ab0a6.jpg",
-        "link": "https://www.yahoo.com/news/articles/risk-lake-burst-near-china-061012571.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Federal judge says Trump discussing payoff to Stormy Daniels isn\u2019t an official presidential action",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/fa95704eda0fe090e5ae6857d6409ef8.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/judge-rejects-trump-newest-bid-171815336.html",
+        "title": "Crowds flock to independent Hong Kong bookstore before shutters close",
+        "image": "https://media.zenfs.com/en/reuters.com/8e0035d1cb356e2c85708b57413ca416.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/crowds-flock-independent-hong-kong-123242655.html",
         "summary": "..."
     },
     {
@@ -92,9 +85,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "FBI no longer treating an applicant's experience with prostitution as automatic bar against hiring",
-        "image": "https://media.zenfs.com/en/ap.org/be26a972ab6fdb8cc0e1eddc2f581555.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/fbi-no-longer-treating-applicants-212043423.html",
+        "title": "Chicago mayor demands companies reveal whether leaders \u2018reflect diversity\u2019 for city contracts",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/4aef827ddb4687bb865379e9a3a1d654.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/chicago-mayor-demands-companies-reveal-175712808.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Risk of lake burst near China-Nepal border disaster site wanes",
+        "image": "https://media.zenfs.com/en/reuters.com/cb339a5f802acbcdd3ea97231e8ab0a6.jpg",
+        "link": "https://www.yahoo.com/news/articles/risk-lake-burst-near-china-061012571.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,20 @@
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/c9993bea95bf333274a3a14ef6a649ac.jpg",
         "link": "https://finance.yahoo.com/small-business/articles/spent-saturday-target-exec-mission-095701831.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: US military strikes Iran's Larak Island",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-us-military-strikes-iran-s-larak-island/live-78566992?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The attack targeting Iranian rocket launchers in the Strait of Hormuz was the first in over a month. Iran's Revolutionary Guards have vowed retaliatio..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Fact check: Germany's Merz misstates record in ARD interview",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/fact-check-germany-s-merz-misstates-record-in-ard-interview/a-78566319?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Migration, debt and electric vehicles: Chancellor Friedrich Merz made several misleading claims in his ARD summer interview. DW Fact check reviewed th..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-s-christian-churches-take-a-stand-against-far-right/a-78482465?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The AfD in Saxony-Anhalt has embarked on a confrontational course toward the churches. Representatives of the Catholic and Protestant churches are res..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "EU wants drones to spray pesticides \u2014 but it could backfire",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-wants-drones-to-spray-pesticides-but-it-could-backfire/a-78557154?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The EU wants to lift a decades-old ban on spraying pesticides from the air, allowing drones to be used for greater precision. But experts warn the pla..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Guinea-Bissau votes to reshape presidency",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/guinea-bissau-votes-to-reshape-presidency/a-78562523?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The West African nation's military government wants to amend the constitution to give more powers to the president. The junta, which seized power last..."
     }
 ]
