@@ -78,13 +78,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Liverpool airport to raise drop-off charge to \u00a37",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/f0aa858dcf1346d80f6eef8b77c77799.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/liverpool-airport-raise-drop-off-141118718.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Federal judge says Trump discussing payoff to Stormy Daniels isn\u2019t an official presidential action",
         "image": "https://media.zenfs.com/en/cnn_articles_875/fa95704eda0fe090e5ae6857d6409ef8.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/judge-rejects-trump-newest-bid-171815336.html",
@@ -92,51 +85,58 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Chinese rescue team finds 'nothing but ruins' at flood-hit Himalayan border crossing",
-        "image": "https://media.zenfs.com/en/reuters.com/db26dc1b127d2cab47e8b568ba3a155e.jpg",
-        "link": "https://www.yahoo.com/news/weather-news/articles/rescuers-scour-nepal-flood-debris-014837667.html",
+        "title": "Retired Port Authority officers tell Mamdani, Hochul to stay away from Ground Zero on 9/11",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/841ed196804ef2de963d7466c57215fc.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/retired-port-authority-officers-tell-030033301.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Lindsay Clancy verdict: Retired judge explains what happens if insanity defense prevails",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/eb6ecacad1dbf19810ae2f49861cf5b8.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/lindsay-clancy-verdict-retired-judge-160939368.html",
+        "title": "US academic who accused Jason Arday of plagiarism allowed to resume some work",
+        "image": "https://media.zenfs.com/en/reuters.com/784a5852b39d5f3bd9cb88a208b9bc9b.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/us-academic-accused-jason-arday-151637438.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Republican governor asks his AG to look into \u2018aggressive\u2019 behavior by Trump admin\u2019s election monitors",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/61f07d77fbaff142b442142da332c74f.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/republican-governor-asks-ag-look-143032532.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iceland EU referendum sees slim, early lead for 'yes' camp",
+        "title": "Iceland voters reject EU accession talks",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iceland-eu-referendum-sees-slim-early-lead-for-yes-camp/a-78560633?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The 'yes' camp won 51.2% of the vote in early counting, but election officials stressed that a more reliable result might not be ready until later on ..."
+        "link": "https://www.dw.com/en/iceland-voters-reject-eu-accession-talks/a-78560633?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A nationwide referendum failed to win enough support to restart negotiations on European Union membership, despite geopolitical tensions in the North ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany news: Merkel tells voters to 'stand up' for democracy",
+        "title": "Greece, Turkey clash over protected Aegean marine areas",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-merkel-tells-voters-to-stand-up-for-democracy/live-78555302?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Former German Chancellor Merkel has weighed in on elections in Saxony-Anhalt, where the far-right AfD leads the polls. Meanwhile, German firms paid ou..."
+        "link": "https://www.dw.com/en/greece-turkey-clash-over-protected-aegean-marine-areas/a-78550021?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Turkey has announced the creation of two protected zones in a disputed area of the Aegean Sea, sparking an angry reaction from Greece. Does this mark ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Norway\u2019s new King Haakon remembers \u2018dear father\u2019 Harald in first speech as sovereign",
+        "title": "India's citizen-led school audits test limits of activism",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/norway-s-new-king-haakon-remembers-dear-father-harald-in-first-speech-as-sovereign/a-78560155?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "New monarch Haakon VIII paid an emotional tribute to his late father, Harald V, in his first address to the nation. Vowing to follow his own path, Haa..."
+        "link": "https://www.dw.com/en/india-s-citizen-led-school-audits-test-limits-of-activism/a-78545789?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The student-led \"Cockroach\" movement is taking its campaign for accountability to government schools, but the activists' methods are encountering grow..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Turkish, Somali forces free vessel seized by pirates in Somalia",
+        "title": "Manhunt underway after woman killed in Swiss rave shooting",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/turkish-somali-forces-free-vessel-seized-by-pirates-in-somalia/a-78560087?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Turkish and Somali forces have freed the MV LUTUF after pirates hijacked the vessel off the coast of Somalia. The 10-day operation killed 14 alleged p..."
+        "link": "https://www.dw.com/en/manhunt-underway-after-woman-killed-in-swiss-rave-shooting/a-78561106?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The shooting happened outside a rave in the northern Swiss town of Aarau. Police said they were still searching for the perpetrator or perpetrators...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Israeli settlers attack Palestinian homes in West Bank",
+        "title": "Nepal issues fresh flood warning as 3,000 still missing",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/israeli-settlers-attack-palestinian-homes-in-west-bank/a-78560116?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Masked Israeli settlers launched their first major attack since initiating a siege in the village of Qusra earlier this month. Saturday's attacks were..."
+        "link": "https://www.dw.com/en/nepal-issues-fresh-flood-warning-as-3-000-still-missing/a-78561068?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Rescuers are trying to reach dozens of hydropower workers trapped in flooded tunnels, but have been hampered by further rainfall...."
     }
 ]
