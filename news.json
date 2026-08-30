@@ -78,13 +78,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump says 'Meet the Press' host Kristen Welker will be reported to FCC",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/4b4287f5a778a2e13894eaf68765153d.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-says-meet-press-host-135014196.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Federal judge says Trump discussing payoff to Stormy Daniels isn\u2019t an official presidential action",
         "image": "https://media.zenfs.com/en/cnn_articles_875/fa95704eda0fe090e5ae6857d6409ef8.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/judge-rejects-trump-newest-bid-171815336.html",
@@ -92,24 +85,52 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "A Dutch institute issues a 'Red Alert' over potentially lethal Trump-shaped ecstasy pills",
-        "image": "https://media.zenfs.com/en/ap.org/b6dcf94ac22f7acc5c58d80b0c4a46d2.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/dutch-institute-issues-red-alert-160313284.html",
+        "title": "Trump says Kristen Welker of 'Meet the Press' will be reported to FCC",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/4b4287f5a778a2e13894eaf68765153d.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-says-meet-press-host-135014196.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "UN agency warns of 17,000 children in urgent need of assistance as aid reaches some Nepal survivors",
-        "image": "https://media.zenfs.com/en/ap.org/c3e8ccf68ca0d4cf3930f2f4e4bc029a.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/un-agency-warns-17-000-154729900.html",
+        "title": "FBI no longer treating an applicant's experience with prostitution as automatic bar against hiring",
+        "image": "https://media.zenfs.com/en/ap.org/be26a972ab6fdb8cc0e1eddc2f581555.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/fbi-no-longer-treating-applicants-212043423.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "I spent my Saturday with the Target exec on a mission to fix its stores",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/c9993bea95bf333274a3a14ef6a649ac.jpg",
+        "link": "https://finance.yahoo.com/small-business/articles/spent-saturday-target-exec-mission-095701831.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany news: Politicians call for ban on radical AfD state branches",
+        "title": "Germany news: Merz warns of 'problems' in Saxony-Anhalt under AfD",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-politicians-call-for-ban-on-radical-afd-state-branches/live-78555302?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Some German politicians have called for a ban on the far-right Alternative for Germany (AfD) party's more radical state branches. Follow DW for the la..."
+        "link": "https://www.dw.com/en/germany-news-merz-warns-of-problems-in-saxony-anhalt-under-afd/live-78555302?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Chancellor Friedrich Merz said that a victory for the far-right Alternative for Germany (AfD) party in next week's election in Saxony-Anhalt would ser..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "NASA launches first telescope named after female scientist",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/nasa-launches-first-telescope-named-after-female-scientist/a-78565941?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Nancy Grace Roman Space Telescope, named after NASA's first Chief of Astronomy, will observe black holes, exoplanets and exploding stars...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany's Christian Churches take a stand against far right",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-s-christian-churches-take-a-stand-against-far-right/a-78482465?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The AfD in Saxony-Anhalt has embarked on a confrontational course toward the churches. Representatives of the Catholic and Protestant churches are res..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "EU wants drones to spray pesticides \u2014 but it could backfire",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eu-wants-drones-to-spray-pesticides-but-it-could-backfire/a-78557154?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The EU wants to lift a decades-old ban on spraying pesticides from the air, allowing drones to be used for greater precision. But experts warn the pla..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/guinea-bissau-votes-to-reshape-presidency/a-78562523?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The West African nation's military government wants to amend the constitution to give more powers to the president. The junta, which seized power last..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ferry carrying over 260 people capsizes off Cyprus",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ferry-carrying-over-260-people-capsizes-off-cyprus/a-78562769?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Several people have died after a passenger \u2060boat carrying more than 260 people capsized off \u200cnorthern Cyprus, Turkish media reported. \u200c..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iceland voters reject EU accession talks",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iceland-voters-reject-eu-accession-talks/a-78560633?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A nationwide referendum failed to win enough support to restart negotiations on European Union membership, despite geopolitical tensions in the North ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Greece, Turkey clash over protected Aegean marine areas",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/greece-turkey-clash-over-protected-aegean-marine-areas/a-78550021?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Turkey has announced the creation of two protected zones in a disputed area of the Aegean Sea, sparking an angry reaction from Greece. Does this mark ..."
     }
 ]
