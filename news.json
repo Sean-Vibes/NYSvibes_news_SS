@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "New Mexico Launches Medical Psilocybin Producer Permit Applications",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/new-mexico-launches-medical-psilocybin-producer-permit-applications/",
+        "summary": "<p>\u201cThe state is working really hard to operationalize this program as quickly as possible. People are suffering and they want to address that sufferi..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Missouri Officials Defend Hemp Product Ban From Industry Lawsuit In Federal Court",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/missouri-officials-defend-hemp-product-ban-from-industry-lawsuit-in-federal-court/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/medical-cannabis-reduces-pain-insomnia-or-mood-issues-in-91-of-older-adults-study-finds/",
         "summary": "<p>Medical marijuana helps 91 percent of older adults improve their pain, insomnia and mood or behavioral symptoms, a new study has found. The researc..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Florida Dems Pounce On Grand Jury Finding That DeSantis Admin \u2018Misappropriated\u2019 Medicaid Funds To Fight Marijuana Legalization",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/florida-dems-pounce-on-grand-jury-finding-that-desantis-admin-misappropriated-medicaid-funds-to-fight-marijuana-legalization/",
-        "summary": "<p>&#8220;The scheme defunded healthcare services for poor children to instead advance the political agenda of Gov. Ron DeSantis.&#8221; By Christine ..."
     },
     {
         "source": "MJBizDaily",
@@ -78,6 +78,13 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump says 'Meet the Press' host Kristen Welker will be reported to FCC",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/4b4287f5a778a2e13894eaf68765153d.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-says-meet-press-host-135014196.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Federal judge says Trump discussing payoff to Stormy Daniels isn\u2019t an official presidential action",
         "image": "https://media.zenfs.com/en/cnn_articles_875/fa95704eda0fe090e5ae6857d6409ef8.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/judge-rejects-trump-newest-bid-171815336.html",
@@ -85,24 +92,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Retired Port Authority officers tell Mamdani, Hochul to stay away from Ground Zero on 9/11",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/841ed196804ef2de963d7466c57215fc.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/retired-port-authority-officers-tell-030033301.html",
+        "title": "A Dutch institute issues a 'Red Alert' over potentially lethal Trump-shaped ecstasy pills",
+        "image": "https://media.zenfs.com/en/ap.org/b6dcf94ac22f7acc5c58d80b0c4a46d2.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/dutch-institute-issues-red-alert-160313284.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US academic who accused Jason Arday of plagiarism allowed to resume some work",
-        "image": "https://media.zenfs.com/en/reuters.com/784a5852b39d5f3bd9cb88a208b9bc9b.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/us-academic-accused-jason-arday-151637438.html",
+        "title": "UN agency warns of 17,000 children in urgent need of assistance as aid reaches some Nepal survivors",
+        "image": "https://media.zenfs.com/en/ap.org/c3e8ccf68ca0d4cf3930f2f4e4bc029a.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/un-agency-warns-17-000-154729900.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Republican governor asks his AG to look into \u2018aggressive\u2019 behavior by Trump admin\u2019s election monitors",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/61f07d77fbaff142b442142da332c74f.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/republican-governor-asks-ag-look-143032532.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Germany news: Politicians call for ban on radical AfD state branches",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-politicians-call-for-ban-on-radical-afd-state-branches/live-78555302?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Some German politicians have called for a ban on the far-right Alternative for Germany (AfD) party's more radical state branches. Follow DW for the la..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Guinea-Bissau votes to reshape presidency",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/guinea-bissau-votes-to-reshape-presidency/a-78562523?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The West African nation's military government wants to amend the constitution to give more powers to the president. The junta, which seized power last..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ferry carrying over 260 people capsizes off Cyprus",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ferry-carrying-over-260-people-capsizes-off-cyprus/a-78562769?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Several people have died after a passenger \u2060boat carrying more than 260 people capsized off \u200cnorthern Cyprus, Turkish media reported. \u200c..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/greece-turkey-clash-over-protected-aegean-marine-areas/a-78550021?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Turkey has announced the creation of two protected zones in a disputed area of the Aegean Sea, sparking an angry reaction from Greece. Does this mark ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India's citizen-led school audits test limits of activism",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-s-citizen-led-school-audits-test-limits-of-activism/a-78545789?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The student-led \"Cockroach\" movement is taking its campaign for accountability to government schools, but the activists' methods are encountering grow..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Manhunt underway after woman killed in Swiss rave shooting",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/manhunt-underway-after-woman-killed-in-swiss-rave-shooting/a-78561106?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The shooting happened outside a rave in the northern Swiss town of Aarau. Police said they were still searching for the perpetrator or perpetrators...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nepal issues fresh flood warning as 3,000 still missing",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nepal-issues-fresh-flood-warning-as-3-000-still-missing/a-78561068?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Rescuers are trying to reach dozens of hydropower workers trapped in flooded tunnels, but have been hampered by further rainfall...."
     }
 ]
