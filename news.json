@@ -71,9 +71,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Crowds flock to independent Hong Kong bookstore before shutters close",
-        "image": "https://media.zenfs.com/en/reuters.com/8e0035d1cb356e2c85708b57413ca416.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/crowds-flock-independent-hong-kong-123242655.html",
+        "title": "Trump still teases a third presidential run, but he's talking more and more about life after 2028",
+        "image": "https://media.zenfs.com/en/ap.org/120b80ed52a4d58341b01feaa12edec8.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-still-teases-third-presidential-040924825.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump won the heart of Michigan\u2019s Arab American community. They're moving away from Mike Rogers.",
+        "image": "https://media.zenfs.com/en/politico_453/30cbc28ff248f2c61499ac316aac2482.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-arab-american-allies-michigan-180000602.html",
         "summary": "..."
     },
     {
@@ -85,58 +92,51 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Chicago mayor demands companies reveal whether leaders \u2018reflect diversity\u2019 for city contracts",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/4aef827ddb4687bb865379e9a3a1d654.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/chicago-mayor-demands-companies-reveal-175712808.html",
+        "title": "Trump says Iran's Kharg is being 'blown to smithereens', but gives no details",
+        "image": "https://media.zenfs.com/en/reuters.com/46ae2709c2c5e172296ff7f0915bfc3e.jpg",
+        "link": "https://www.yahoo.com/news/articles/us-iran-exchange-fire-flare-021359484.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Risk of lake burst near China-Nepal border disaster site wanes",
-        "image": "https://media.zenfs.com/en/reuters.com/cb339a5f802acbcdd3ea97231e8ab0a6.jpg",
-        "link": "https://www.yahoo.com/news/articles/risk-lake-burst-near-china-061012571.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "More than a dozen people feared missing in Grand Canyon flash floods",
-        "image": "https://media.zenfs.com/en/nbcu_713/05805101669a1b1012ade9a7abd97cc1.jpg",
-        "link": "https://www.yahoo.com/news/videos/more-dozen-people-feared-missing-225457241.html",
+        "title": "Jim Clyburn says impeaching Trump should not be a priority for Democrats",
+        "image": "https://media.zenfs.com/en/nbcu_713/1650e92174cb6a2e6b47d6f7fd9f0afa.jpg",
+        "link": "https://www.yahoo.com/news/videos/jim-clyburn-says-impeaching-trump-135501948.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iran war: US military strikes Iran's Larak Island",
+        "title": "Germany news: Police operation in Cologne after shots fired",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-us-military-strikes-iran-s-larak-island/live-78566992?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The attack targeting Iranian rocket launchers in the Strait of Hormuz was the first in over a month. Iran's Revolutionary Guards have vowed retaliatio..."
+        "link": "https://www.dw.com/en/germany-news-police-operation-in-cologne-after-shots-fired/live-78568957?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Police have cordoned off part of southern Cologne, reporting multiple shots fired at an apparently empty cafe early in the morning. They did not repor..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Fact check: Germany's Merz misstates record in ARD interview",
+        "title": "Nepal flood: Death toll crosses 900, thousands still missing",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fact-check-germany-s-merz-misstates-record-in-ard-interview/a-78566319?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Migration, debt and electric vehicles: Chancellor Friedrich Merz made several misleading claims in his ARD summer interview. DW Fact check reviewed th..."
+        "link": "https://www.dw.com/en/nepal-flood-death-toll-crosses-900-thousands-still-missing/a-78568505?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Rescue teams are racing to reach stranded people, even as nearly 4,800 remain missing. Meanwhile, mass burials have sparked controversy in Nepal...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany news: Merz warns of 'problems' in Saxony-Anhalt under AfD",
+        "title": "South Korea hands jail term to Unification Church leader",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-merz-warns-of-problems-in-saxony-anhalt-under-afd/live-78555302?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Chancellor Friedrich Merz said that a victory for the far-right Alternative for Germany (AfD) party in next week's election in Saxony-Anhalt would ser..."
+        "link": "https://www.dw.com/en/south-korea-hands-jail-term-to-unification-church-leader/a-78568345?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Han Hak Ja has been convicted on bribery charges after giving the former first lady several luxury gifts. She has denied any wrongdoing...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "NASA launches first telescope named after female scientist",
+        "title": "US: Deadly flash flood hits Grand Canyon",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nasa-launches-first-telescope-named-after-female-scientist/a-78565941?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Nancy Grace Roman Space Telescope, named after NASA's first Chief of Astronomy, will observe black holes, exoplanets and exploding stars...."
+        "link": "https://www.dw.com/en/us-deadly-flash-flood-hits-grand-canyon/a-78568246?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Arizona's Grand Canyon received rainfall of up to 1 inch triggering a flash flood which forced more than 60 people to evacuate. At least one person ha..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany's Christian Churches take a stand against far right",
+        "title": "Google Maps changes Lake Ontario to 'Lake America' in US",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-christian-churches-take-a-stand-against-far-right/a-78482465?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The AfD in Saxony-Anhalt has embarked on a confrontational course toward the churches. Representatives of the Catholic and Protestant churches are res..."
+        "link": "https://www.dw.com/en/google-maps-changes-lake-ontario-to-lake-america-in-us/a-78567904?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The name change even made its way to some government websites in Canada which pull map data from Google Maps. Meanwhile, Ontario Premier Doug Ford mad..."
     }
 ]
