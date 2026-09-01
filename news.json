@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Hemp Seeds Could Be Banned As A Side Effect Of The Fight Over THC Products (Op-Ed)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/hemp-seeds-could-be-banned-as-a-side-effect-of-the-fight-over-thc-products-op-ed/",
+        "summary": "<p>&#8220;American hemp farmers deserve to know their seed supply is not about to become collateral damage in a fight that was never about them.&#8221..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "These Ten States Were Responsible For More Than Half The Marijuana Arrests In The U.S. Last Year",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/these-ten-states-were-responsible-for-more-than-half-the-marijuana-arrests-in-the-u-s-last-year/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/california-governor-signs-bill-restricting-marijuana-packaging-thats-attractive-to-children/",
         "summary": "<p>California&#8217;s governor has signed a bill to more clearly define the types of marijuana packaging and labeling that is prohibited due to appeal..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Louisiana Governor Asks Schools To Publicize New Marijuana Penalties That Will Jail People For Smoking Near Campuses",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/louisiana-governor-asks-schools-to-publicize-new-marijuana-penalties-that-will-jail-people-for-smoking-near-campuses/",
-        "summary": "<p>Louisiana&#8217;s governor is asking schools to publicize a new law he signed that threatens to send people to jail for up to one year if they smok..."
     },
     {
         "source": "MJBizDaily",
@@ -99,10 +99,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump says Kristen Welker of 'Meet the Press' will be reported to FCC",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/4b4287f5a778a2e13894eaf68765153d.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-says-meet-press-host-135014196.html",
+        "title": "Family sues after 6-year-old girl dies when badminton racket shaft pierces skull",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/c98af094738b68f4df1e07c5a06725b8.png",
+        "link": "https://www.yahoo.com/news/us/articles/family-sues-6-old-girl-230631144.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany terminates lease for Berlin's Russian House",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-terminates-lease-for-berlin-s-russian-house/a-73037945?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany has announced the termination of the lease for the Russian House in the heart of Berlin. Critics have long said it is a hub for propaganda and..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany says Russia behind attempted drone attack at Leipzig airport",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Investigators believe an explosives-laden drone was deliberately targeting a Ukrainian cargo aircraft at Leipzig/Halle airport in early August. The Ge..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "War and sanctions deepen Iran's fuel crisis",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/war-and-sanctions-deepen-iran-s-fuel-crisis/a-78636429?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Long lines at fuel stations are spreading across Iran as war damage, import constraints and new US sanctions squeeze supplies...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "As glaciers melt, can communities be protected?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/as-glaciers-melt-can-communities-be-protected/a-78615775?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Rising temperatures are increasing the risk of floods and avalanches in mountain regions. The disaster in Nepal and Tibet shows the urgent need for so..."
     },
     {
         "source": "Deutsche Welle",
@@ -110,33 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/mladic-s-death-bosnia-and-serbia-s-unfinished-reckoning/a-78602733?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The death of Ratko Mladic did not close a dark chapter of European history; it reopened old wounds. The ideology that created him lives on. The Dayton..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Will Bangladesh join the Mecca defense pact?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/will-bangladesh-join-the-mecca-defense-pact/a-78613944?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "While Bangladesh is weighing the risks of joining the Mecca mutual defense alliance, experts warn that any move to join the pact could complicate rela..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Norway's new King Haakon VIII takes oath in parliament",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/norway-s-new-king-haakon-viii-takes-oath-in-parliament/a-78606923?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The new king swore to uphold the constitution in parliament in Oslo, the first major institutional step of his reign. Haakon VIII's wife Queen Mette-M..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany's SPD is fighting for survival",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-spd-is-fighting-for-survival/a-78586448?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Social Democratic Party SPD is sinking ever deeper into crisis. Voters are turning away, while unrest is growing within its grassroots ranks. Will..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Nepal flood: Death toll tops 1,000 as rescue continues",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nepal-flood-death-toll-tops-1-000-as-rescue-continues/a-78589460?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Nepalese authorities say 4,000 people remain unaccounted for as rescue teams with search dogs comb through mud, rocks and debris...."
     }
 ]
