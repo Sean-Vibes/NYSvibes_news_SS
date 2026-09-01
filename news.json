@@ -106,6 +106,20 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Germany says Russia behind attempted drone attack at Leipzig airport",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Investigators believe an explosives-laden drone was deliberately targeting a Ukrainian cargo aircraft at Leipzig/Halle airport in early August. The Ge..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran war: US, Tehran trade fire in new flare-up",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-war-us-tehran-trade-fire-in-new-flare-up/live-78656656?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Explosions have been reported around the Strait of Hormuz, including at an airport in southern Iran. US President Donald Trump said the strikes were a..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Iran: US launches fresh strikes as hostilities flare again",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-us-launches-fresh-strikes-as-hostilities-flare-again/a-78655364?maca=en-rss-en-all-1573-xml-mrss",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-terminates-lease-for-berlin-s-russian-house/a-73037945?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Germany has announced the termination of the lease for the Russian House in the heart of Berlin. Critics have long said it is a hub for propaganda and..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany says Russia behind attempted drone attack at Leipzig airport",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Investigators believe an explosives-laden drone was deliberately targeting a Ukrainian cargo aircraft at Leipzig/Halle airport in early August. The Ge..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "War and sanctions deepen Iran's fuel crisis",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/war-and-sanctions-deepen-iran-s-fuel-crisis/a-78636429?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Long lines at fuel stations are spreading across Iran as war damage, import constraints and new US sanctions squeeze supplies...."
     }
 ]
