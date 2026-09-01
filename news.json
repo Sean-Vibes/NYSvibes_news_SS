@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "California Governor Signs Bill Restricting Marijuana Packaging That\u2019s \u2018Attractive To Children\u2019",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/california-governor-signs-bill-restricting-marijuana-packaging-thats-attractive-to-children/",
+        "summary": "<p>California&#8217;s governor has signed a bill to more clearly define the types of marijuana packaging and labeling that is prohibited due to appeal..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Louisiana Governor Asks Schools To Publicize New Marijuana Penalties That Will Jail People For Smoking Near Campuses",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/louisiana-governor-asks-schools-to-publicize-new-marijuana-penalties-that-will-jail-people-for-smoking-near-campuses/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/there-are-positive-uses-of-hemp-and-congress-shouldnt-ban-it-kentucky-governor-says/",
         "summary": "<p>The governor of Kentucky says that hemp is &#8220;important&#8221; to the state, and voters shouldn&#8217;t reelect any members of Congress who are..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "DEA Has A List Of Questions For Marijuana Businesses That Register For Federal Rescheduling Protections",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/dea-has-a-list-of-questions-for-marijuana-businesses-that-register-for-federal-rescheduling-protections/",
-        "summary": "<p>The Drug Enforcement Administration (DEA) wants to know whether medical marijuana businesses seeking federal protections in line with the Trump adm..."
     },
     {
         "source": "MJBizDaily",
@@ -78,13 +78,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump says Kristen Welker of 'Meet the Press' will be reported to FCC",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/4b4287f5a778a2e13894eaf68765153d.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-says-meet-press-host-135014196.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Family sues after 6-year-old girl dies when badminton racket shaft pierces skull",
         "image": "https://media.zenfs.com/en/fox_news_text_979/c98af094738b68f4df1e07c5a06725b8.png",
         "link": "https://www.yahoo.com/news/us/articles/family-sues-6-old-girl-230631144.html",
@@ -92,9 +85,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump says Iran's Kharg is being 'blown to smithereens', but gives no details",
-        "image": "https://media.zenfs.com/en/reuters.com/46ae2709c2c5e172296ff7f0915bfc3e.jpg",
-        "link": "https://www.yahoo.com/news/articles/us-iran-exchange-fire-flare-021359484.html",
+        "title": "Trump says Kristen Welker of 'Meet the Press' will be reported to FCC",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/4b4287f5a778a2e13894eaf68765153d.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-says-meet-press-host-135014196.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Suspect and female victim dead after Times Square stabbing spree",
+        "image": "https://media.zenfs.com/en/nbcu_713/f78637e2e25cb2a894fc38d74023dde4.jpg",
+        "link": "https://www.yahoo.com/news/videos/suspect-female-victim-dead-times-230516878.html",
         "summary": "..."
     },
     {
@@ -106,10 +106,17 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Tupac Shakur murder trial: Duane 'Keffe D' Davis guilty",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/tupac-shakur-murder-trial-duane-keffe-d-davis-guilty/a-78581756?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The jury reached a verdict in less than three hours in a case that had been unsolved for nearly 30 years...."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "US Supreme Court allows Trump ballroom project to proceed",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Trump administration will now be able to continue the $400 million White House ballroom construction project for now, following the courts decisio..."
+        "summary": "The ruling was backed by five of the court's six conservative justices. US President Donald Trump praised the decision in a post on his Truth Social p..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/court-says-india-must-uphold-pakistan-water-treaty/a-78579010?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "An international tribunal has ordered India to \"observe its obligations\" under a water-treaty with Pakistan...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How China buried Tibet flood images after Nepal disaster",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-china-buried-tibet-flood-images-after-nepal-disaster/a-78576472?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In Tibet, a digital crackdown followed the deadly flood that has devastated communities along the China-Nepal border. Censors erased viral footage whi..."
     }
 ]
