@@ -78,38 +78,59 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Family sues after 6-year-old girl dies when badminton racket shaft pierces skull",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/c98af094738b68f4df1e07c5a06725b8.png",
-        "link": "https://www.yahoo.com/news/us/articles/family-sues-6-old-girl-230631144.html",
+        "title": "Abdul El-Sayed stands by criticism of fireworks, tells Americans to find other ways to 'show you love'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/f99a5fa2adbf18b1e03274c4f9de29a2.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/abdul-el-sayed-stands-criticism-231503665.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump says Kristen Welker of 'Meet the Press' will be reported to FCC",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/4b4287f5a778a2e13894eaf68765153d.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-says-meet-press-host-135014196.html",
+        "title": "Ms Rachel confronted on accusing Israel of 'genocide' in park interaction with podcaster",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/21a2b270359cc7fc7d4ee4ba190be1fe.jpg",
+        "link": "https://www.yahoo.com/entertainment/celebrity/articles/ms-rachel-confronted-accusing-israel-215727704.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Suspect and female victim dead after Times Square stabbing spree",
-        "image": "https://media.zenfs.com/en/nbcu_713/f78637e2e25cb2a894fc38d74023dde4.jpg",
-        "link": "https://www.yahoo.com/news/videos/suspect-female-victim-dead-times-230516878.html",
+        "title": "Trump says Iran's Kharg is being 'blown to smithereens', but gives no details",
+        "image": "https://media.zenfs.com/en/reuters.com/46ae2709c2c5e172296ff7f0915bfc3e.jpg",
+        "link": "https://www.yahoo.com/news/articles/us-iran-exchange-fire-flare-021359484.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran\u2019s president admits \u2018we have many problems\u2019 and missiles \u2018are of no use\u2019 as the U.S. chokes its economy while weakening Tehran\u2019s grip on Hormuz",
-        "image": "https://media.zenfs.com/en/fortune_175/1625cbaba994f2cf7529e5c7baa4f771.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/iran-president-admits-many-problems-231054810.html",
+        "title": "NBC Crew, Palestinian Woman Attacked by Masked Israeli Settlers",
+        "image": "https://media.zenfs.com/en/nbcu_713/262c67b7db1ced57f6ef44864938f17e.jpg",
+        "link": "https://www.yahoo.com/news/videos/nbc-crew-palestinian-woman-attacked-123422209.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Times Square stabbing in NYC leaves 1 dead, assailant killed",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/times-square-stabbing-in-nyc-leaves-1-dead-assailant-killed/a-78582543?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A woman armed with two kitchen knives killed one person and wounded another in New York City's Times Square before police fatally shot her. Authoritie..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine updates: Russia hits Kyiv for sixth straight day",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-updates-russia-hits-kyiv-for-sixth-straight-day/live-78582421?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Deadly attacks both in Ukraine and Russia continue as European Union defense ministers discuss the \"hybrid\" threat from Moscow in Europe. Follow DW fo..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "AfD's Ulrich Siegmund has plans for Saxony-Anhalt and beyond",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/afd-s-ulrich-siegmund-has-plans-for-saxony-anhalt-and-beyond/a-78579499?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The AfD's lead candidate in the upcoming election aims to turn his small federal state into a blueprint for right-wing extremist politics across Germa..."
     },
     {
         "source": "Deutsche Welle",
         "title": "Tupac Shakur murder trial: Duane 'Keffe D' Davis guilty",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/tupac-shakur-murder-trial-duane-keffe-d-davis-guilty/a-78581756?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The jury reached a verdict in less than three hours in a case that had been unsolved for nearly 30 years...."
+        "summary": "The jury reached a verdict in less than three hours in a case that had been unsolved for nearly 30 years. Davis was convicted of murder with the use o..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-supreme-court-allows-trump-ballroom-project-to-proceed/a-78581275?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The ruling was backed by five of the court's six conservative justices. US President Donald Trump praised the decision in a post on his Truth Social p..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Poland launches sabotage probe in drone factory fire",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/poland-launches-sabotage-probe-in-drone-factory-fire/a-78580918?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "According to the prosecution, the fire that occurred at a drone factory 150 kilometers south of Warsaw was deliberately set...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Lionel Messi announces retirement from international football",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/lionel-messi-announces-retirement-from-international-football/a-78579502?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Argentine legend announced that he will not play for the national team again, ending an illustrious international career...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Court says India must uphold Pakistan water treaty",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/court-says-india-must-uphold-pakistan-water-treaty/a-78579010?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "An international tribunal has ordered India to \"observe its obligations\" under a water-treaty with Pakistan...."
     }
 ]
