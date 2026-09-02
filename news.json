@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Justice Department seizes more than $560,000 in cryptocurrency donations for Hamas",
-        "image": "https://media.zenfs.com/en/ap.org/8e005e93b354052894ea6aea68eb185f.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/justice-department-seizes-more-560-205327371.html",
+        "title": "Democrats sink Republican bid to cement US Supreme Court's conservative majority",
+        "image": "https://media.zenfs.com/en/reuters.com/6b1fc12cc5e8d3a6a43302d61d031188.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/democrats-sink-republican-bid-cement-204008045.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "UK to unveil 'comprehensive' response to Israeli West Bank settlement plans in coming weeks",
-        "image": "https://media.zenfs.com/en/reuters.com/534ed043ac2360cea04090b68028923b.jpg",
-        "link": "https://www.yahoo.com/news/articles/uk-unveil-comprehensive-response-israeli-140514167.html",
+        "title": "Exclusive-US may require parents to prove citizenship to get passports for their children",
+        "image": "https://media.zenfs.com/en/reuters.com/2634c71b1af7f8d8ae9224b7336c704f.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/exclusive-trump-birthright-curbs-may-211049017.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/cnn_articles_875/d6ed07133b10b9ca98db5247ae6faa07.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/democrats-shocked-2-members-cross-221803140.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Malta: Businessman acquitted of journalist's murder",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/malta-businessman-acquitted-of-journalist-s-murder/a-78814305?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Yorgen Fenech was suspected to have masterminded the murder of investigative journalist Daphne Caruana Galizia, whose family continue to demand justic..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "French President Emmanuel Macron is on a shorter-term visit to the UK than the renowned on-loan 11th century tapestry. He viewed the ancient artwork w..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia's hybrid attacks on Germany: When is it 'war?'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-s-hybrid-attacks-on-germany-when-is-it-war/a-78784262?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The German government is holding Russia responsible for an unsuccessful attack in Leipzig. Yet many feel that its response has been too mild...."
     }
 ]
