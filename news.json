@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Newly Released VA Records Raise Questions About How \u2018Cannabis Use Disorder\u2019 Diagnoses Are Affecting Veterans (Op-Ed)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/newly-released-va-records-raise-questions-about-how-cannabis-use-disorder-diagnoses-are-affecting-veterans-op-ed/",
+        "summary": "<p>&#8220;Diagnoses are sometimes entered into medical records without&#8230;meaningful consideration of medically authorized cannabis use.&#8221; By ..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "California Has Generated $8.4 Billion In Marijuana Tax Revenue, Governor Announces",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/california-has-generated-8-4-billion-in-marijuana-tax-revenue-governor-announces/",
@@ -28,11 +35,18 @@
         "summary": "<p>House and Senate lawmakers from both major parties say it&#8217;s time for Congress to get to work crafting regulations for hemp THC products now t..."
     },
     {
-        "source": "Marijuana Moment",
-        "title": "Hemp ban delay passes Congress, heads to Trump\u2019s desk (Newsletter: September 2, 2026)",
+        "source": "MJBizDaily",
+        "title": "California cannabis sales recover from earlier slump",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/hemp-ban-delay-passes-congress-heads-to-trumps-desk-newsletter-september-2-2026/",
-        "summary": "<p>CA gov signs marijuana labeling bill; 10 states made over half of cannabis arrests; Study: THC can produce psychedelic-like effects; Hemp seed op-e..."
+        "link": "https://mjbizdaily.com/news/california-cannabis-sales/617864/",
+        "summary": "<p>California's cannabis market may have found its footing. Second-quarter retail sales hit $1.013 billion, holding steady year over year.</p>\n<p><a h..."
+    },
+    {
+        "source": "MJBizDaily",
+        "title": "Hemp and cannabis lobbies intensify feud after Congress delays federal ban",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/hemp-and-cannabis-lobbies-intensify-feud-after-congress-delays-federal-ban/617862/",
+        "summary": "<p>The new deadline for when a federal hemp ban takes effect is December, after a one-month reprieve passed Congress.</p>\n<p><a href=\"https://mjbizdai..."
     },
     {
         "source": "MJBizDaily",
@@ -56,20 +70,6 @@
         "summary": "<p>Despite federal medical cannabis rescheduling and state-level legalization, cannabis is still absent from advertising and marketing partnerships in..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Rhode Island\u2019s 24 planned adult-use cannabis stores stuck in limbo",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/rhode-islands-24-planned-adult-use-cannabis-stores-stuck-in-limbo/617830/",
-        "summary": "<p>Four years after Rhode Island legalized recreational marijuana, licensing delays and regulatory bottlenecks have kept new retail stores closed.</p>..."
-    },
-    {
-        "source": "MJBizDaily",
-        "title": "Has convenience become the deciding factor in cannabis sales?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/has-convenience-become-the-deciding-factor-in-cannabis-sales/617815/",
-        "summary": "<p>Convenience is reshaping cannabis. Disposable vapes, infused pre-rolls and Cresco's Zyn-style pouch signal what's next for consumer demand.</p>\n<p>..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Justice Department seizes more than $560,000 in cryptocurrency donations for Hamas",
         "image": "https://media.zenfs.com/en/ap.org/8e005e93b354052894ea6aea68eb185f.jpg",
@@ -85,23 +85,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Democrats shocked after 2 members cross aisle to help Republicans",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/d6ed07133b10b9ca98db5247ae6faa07.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/democrats-shocked-2-members-cross-221803140.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Zelenskyy Vows Retaliation After Russia Launches Massive Attack",
-        "image": "https://media.zenfs.com/en/nbcu_713/dc9cc8c219a6e5d75d6c0c14694baf86.jpg",
-        "link": "https://www.yahoo.com/news/videos/zelenskyy-vows-retaliation-russia-launches-112906768.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Georgia cop kills beloved pet donkey in his own pasture as heartbroken owner demands justice: 'We miss him'",
         "image": "https://media.zenfs.com/en/fox_news_text_979/bc77d80f15a944f3a9243beab5c04397.png",
         "link": "https://www.yahoo.com/news/us/articles/georgia-cop-kills-beloved-pet-064727226.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "UK to unveil 'comprehensive' response to Israeli West Bank settlement plans in coming weeks",
+        "image": "https://media.zenfs.com/en/reuters.com/534ed043ac2360cea04090b68028923b.jpg",
+        "link": "https://www.yahoo.com/news/articles/uk-unveil-comprehensive-response-israeli-140514167.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Democrats shocked after 2 members cross aisle to help Republicans",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/d6ed07133b10b9ca98db5247ae6faa07.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/democrats-shocked-2-members-cross-221803140.html",
         "summary": "..."
     },
     {
@@ -127,9 +127,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Macron visits Bayeux Tapestry on UK arrival with King Charles, PM Burnham",
+        "title": "Macron visits Bayeux Tapestry with King Charles, PM Andy Burnham",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/macron-visits-bayeux-tapestry-on-uk-arrival-with-king-charles-pm-burnham/a-78772317?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "French President Emmanuel Macron is on a shorter-term visit to the UK than the renowned on-loan 11th century tapestry. He viewed the ancient artwork w..."
     },
     {
