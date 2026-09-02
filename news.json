@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "California Gov. Gavin Newsom signs cannabis packaging crackdown into law",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/newsom-signs-cannabis-label-crackdown-into-law/617842/",
+        "summary": "<p>California's new law targets cannabis packaging with cartoon and fruit imagery, tasking the DCC with enforcing child-safe labeling rules.</p>\n<p><a..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "Oklahoma cannabis lab in deadly explosion had lost state permit",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/oklahoma-cannabis-lab-in-deadly-explosion-had-lost-state-permit/617844/",
@@ -63,17 +70,17 @@
         "summary": "<p>Convenience is reshaping cannabis. Disposable vapes, infused pre-rolls and Cresco's Zyn-style pouch signal what's next for consumer demand.</p>\n<p>..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Supply shortages, licensing delays slow Kentucky\u2019s MMJ market",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/supply-shortages-licensing-delays-slow-kentuckys-mmj-market/617809/",
-        "summary": "<p>Kentucky legalized medical marijuana in 2023, but 20 months later, only 39 businesses are open and MMJ cardholders still struggle to find product.<..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Trump still teases seeking a third term. But he's now talking more about post-presidency life",
         "image": "https://media.zenfs.com/en/ap.org/c4297632488fda4f12c50d6244b5d825.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/trump-still-teases-third-presidential-040924825.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Democrats shocked after 2 members cross aisle to help Republicans",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/d6ed07133b10b9ca98db5247ae6faa07.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/democrats-shocked-2-members-cross-221803140.html",
         "summary": "..."
     },
     {
@@ -85,13 +92,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Georgia cop kills beloved pet donkey in his own pasture as heartbroken owner demands justice: 'We miss him'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/bc77d80f15a944f3a9243beab5c04397.png",
-        "link": "https://www.yahoo.com/news/us/articles/georgia-cop-kills-beloved-pet-064727226.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Trump says Iran's Kharg is being 'blown to smithereens', but gives no details",
         "image": "https://media.zenfs.com/en/reuters.com/46ae2709c2c5e172296ff7f0915bfc3e.jpg",
         "link": "https://www.yahoo.com/news/articles/us-iran-exchange-fire-flare-021359484.html",
@@ -99,17 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Family sues after 6-year-old girl dies when badminton racket shaft pierces skull",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/c98af094738b68f4df1e07c5a06725b8.png",
-        "link": "https://www.yahoo.com/news/us/articles/family-sues-6-old-girl-230631144.html",
+        "title": "Scientists extracted DNA from mummified cheetah remains and made a surprising discovery",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/73841c2d798657d8a3f904a0017cc973.jpg",
+        "link": "https://www.yahoo.com/news/articles/scientists-extracted-dna-mummified-cheetah-150204075.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany says Russia behind attempted drone attack at Leipzig airport",
+        "title": "Hong Kong activist Joshua Wong pleads guilty to collusion",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Investigators believe an explosives-laden drone was deliberately targeting a Ukrainian cargo aircraft at Leipzig/Halle airport in early August. The Ge..."
+        "link": "https://www.dw.com/en/hong-kong-activist-joshua-wong-pleads-guilty-to-collusion/a-78657525?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The prominent activist pleaded guilty to colluding with foreign entities. He faces a lengthy prison sentence...."
     },
     {
         "source": "Deutsche Welle",
@@ -120,23 +120,23 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Ukraine: Russia threatens 'devastating' Baltic response",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-russia-threatens-devastating-baltic-response/live-78582421?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Any escalation in the Baltic region will lead to a significant response, Moscow said...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany says Russia behind attempted drone attack at Leipzig airport",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-says-russia-behind-attempted-drone-attack-at-leipzig-airport/a-78584589?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Investigators believe an explosives-laden drone was deliberately targeting a Ukrainian cargo aircraft at Leipzig/Halle airport in early August. The Ge..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Iran: US launches fresh strikes as hostilities flare again",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/iran-us-launches-fresh-strikes-as-hostilities-flare-again/a-78655364?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Explosions were reported in and around the Strait of Hormuz, as well as at an airport in southern Iran. US President Trump described the strikes as \"l..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Congo's Ebola caseload tops 6,000 as concerns grow",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/congo-s-ebola-caseload-tops-6-000-as-concerns-grow/a-78638447?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Ebola outbreak in the Democratic Republic of Congo has surpassed 6,000 confirmed cases, with nearly 3,000 deaths. As the virus spreads, authoritie..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany terminates lease for Berlin's Russian House",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-terminates-lease-for-berlin-s-russian-house/a-73037945?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany has announced the termination of the lease for the Russian House in the heart of Berlin. Critics have long said it is a hub for propaganda and..."
     }
 ]
