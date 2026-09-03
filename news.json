@@ -71,9 +71,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US pressure on Iran starting to tell, as sanctions and blockade bite",
-        "image": "https://media.zenfs.com/en/reuters.com/58a2b123fba9277676918d24cf605f00.jpg",
-        "link": "https://www.yahoo.com/news/articles/us-pressure-iran-starting-tell-150155652.html",
+        "title": "FACT FOCUS: Trump claims US banks cannot operate in Canada. That's not true",
+        "image": "https://media.zenfs.com/en/ap.org/058b470add1a5bfa05f6ea2c55a4b743.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/fact-focus-trump-claims-us-201737023.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Woman who fatally shot man during confrontation over parking space won't be charged",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/5027af5feae54672eb4c64b27bba284d.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/woman-fatally-shot-man-during-200509827.html",
         "summary": "..."
     },
     {
@@ -85,24 +92,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Ukraine's Zelenskiy says investigation underway after clash between two security agencies",
+        "image": "https://media.zenfs.com/en/reuters.com/b1a0cddd23ad54119a088093d722dd52.jpg",
+        "link": "https://www.yahoo.com/news/articles/ukraines-zelenskiy-says-investigation-underway-212716660.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Democrats block proposed constitutional amendment to keep Supreme Court justices to nine",
         "image": "https://media.zenfs.com/en/the_hill_articles_341/347d1c3bb4dab0f367a95261306aa89a.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/democrats-block-proposed-constitutional-amendment-212039185.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Pacific leaders at summit fail to reach unanimous condemnation of China's ballistic missile launch",
-        "image": "https://media.zenfs.com/en/ap.org/ce66febdc70c9888c7eab716b79e04c5.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/pacific-leaders-summit-fail-reach-193147212.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "FIFA blames UEFA for 'smear campaign' against Infantino",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/fifa-blames-uefa-for-smear-campaign-against-infantino/a-78896105?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The dispute between the two football associations reached a US court, in which UEFA is looking for permission to collect evidence for criminal proceed..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Video captures unknown animal that's been randomly attacking people",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/7411e4823ab5a63dce716db505afaa0c.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/video-captures-unknown-animal-thats-182915675.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Berlin: BER Airport Terminal 1 reopened after security scare",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/berlin-ber-airport-terminal-1-reopened-after-security-scare/a-78895207?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Police have given the all-clear at Terminal 1 at Berlin's BER Airport following an earlier security scare and evacuation. The airport said some flight..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/trump-s-iran-strategy-could-this-become-a-forever-war/a-78875030?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The US has launched fresh attacks on military targets in Iran. It wants to prevent Tehran rebuilding its destroyed capabilities, but risks triggering ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Berlin BER airport Terminal 1 evacuated after security scare",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/berlin-ber-airport-terminal-1-evacuated-after-security-scare/a-78895207?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Authorities have emptied Terminal 1 at BER airport in Berlin, at least as a precaution. The airport said that more than two-dozen flights had been del..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Norway seizes Russian ship in Svalbard to compensate Ukraine",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/norway-seizes-russian-ship-in-svalbard-to-compensate-ukraine/a-78889005?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Authorities in Norway have seized a Russian ship, the Professor Molchanov, on a court order sought and obtained by Naftogaz in Ukraine. Russia has pro..."
     }
 ]
