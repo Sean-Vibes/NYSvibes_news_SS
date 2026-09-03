@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Democrats sink Republican bid to cement US Supreme Court's conservative majority",
-        "image": "https://media.zenfs.com/en/reuters.com/6b1fc12cc5e8d3a6a43302d61d031188.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/democrats-sink-republican-bid-cement-204008045.html",
+        "title": "Lawmakers ask Army to explain why it told a military unit to stop specializing in drone warfare",
+        "image": "https://media.zenfs.com/en/ap.org/cda3e366d9d451c67875937e1bf82660.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/lawmakers-ask-army-explain-why-120058901.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Exclusive-US may require parents to prove citizenship to get passports for their children",
-        "image": "https://media.zenfs.com/en/reuters.com/2634c71b1af7f8d8ae9224b7336c704f.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/exclusive-trump-birthright-curbs-may-211049017.html",
+        "title": "OpenAI says upcoming model is so capable it requires stronger guardrails",
+        "image": "https://media.zenfs.com/en/reuters.com/fb054b9a0b193215e7d02a93210c8c82.jpg",
+        "link": "https://tech.yahoo.com/ai/chatgpt/articles/openai-says-upcoming-model-capable-200654042.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,27 @@
         "image": "https://media.zenfs.com/en/cnn_articles_875/d6ed07133b10b9ca98db5247ae6faa07.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/democrats-shocked-2-members-cross-221803140.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US: 3 dead including suspect in Minneapolis shooting",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-3-dead-including-suspect-in-minneapolis-shooting/a-78815092?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The motive for the shooting is still unclear. Local authorities and the FBI are responding to the incident...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UNICEF: 1 in 5 youths targeted by online sexual abuse",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/unicef-1-in-5-youths-targeted-by-online-sexual-abuse/a-78654173?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A survey of around 21,000 young people by the UN's agency for children has found that online sexual abuse of minors is on the rise...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Spain: Tens of thousands rally over Ceuta crisis",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/spain-tens-of-thousands-rally-over-ceuta-crisis/a-78814756?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Tensions continue over migrants still stranded in Ceuta and the Sanchez government\u2019s handling of the fallout...."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/berlin-s-punitive-measures-unlikely-to-deter-putin-experts/a-78803217?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Germany has announced punitive measures after publicly blaming Russia for an attempted airport drone attack. But a former diplomat, political and secu..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Unity at last: Is Libya's damaging power struggle at an end?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/unity-at-last-is-libya-s-damaging-power-struggle-at-an-end/a-78758325?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "For over a decade, Libya has been split between two opposing governments. Elections, meant to end the rivalry and unite the country, are now scheduled..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany: How to woo voters with an immigrant background",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-how-to-woo-voters-with-an-immigrant-background/a-78790775?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The number of voters in Germany with an immigrant background is rising. Yet the established parties barely manage to reach them. Why not?..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Macron visits Bayeux Tapestry with King Charles, PM Andy Burnham",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/macron-visits-bayeux-tapestry-with-king-charles-pm-andy-burnham/a-78772317?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "French President Emmanuel Macron is on a shorter-term visit to the UK than the renowned on-loan 11th century tapestry. He viewed the ancient artwork w..."
     }
 ]
