@@ -85,9 +85,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Mexican musician, pregnant wife, child and nanny killed in grisly shootings",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/c75d711310f4c54576f75af454d5f692.jpg",
-        "link": "https://www.yahoo.com/entertainment/music/articles/mexican-musician-pregnant-wife-child-033933371.html",
+        "title": "Democrats block proposed constitutional amendment to keep Supreme Court justices to nine",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/347d1c3bb4dab0f367a95261306aa89a.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/democrats-block-proposed-constitutional-amendment-212039185.html",
         "summary": "..."
     },
     {
@@ -99,17 +99,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Democrats block proposed constitutional amendment to keep Supreme Court justices to nine",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/347d1c3bb4dab0f367a95261306aa89a.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/democrats-block-proposed-constitutional-amendment-212039185.html",
+        "title": "Mexican musician, pregnant wife, child and nanny killed in grisly shootings",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/c75d711310f4c54576f75af454d5f692.jpg",
+        "link": "https://www.yahoo.com/entertainment/music/articles/mexican-musician-pregnant-wife-child-033933371.html",
         "summary": "..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "FIFA blames UEFA for 'smear campaign' against Infantino",
+        "title": "FIFA accuses UEFA of 'smear campaign' against Infantino",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fifa-blames-uefa-for-smear-campaign-against-infantino/a-78896105?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/fifa-accuses-uefa-of-smear-campaign-against-infantino/a-78896105?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The dispute between the two football associations reached a US court, in which UEFA is looking for permission to collect evidence for criminal proceed..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Volkswagen to cut 100,000 jobs by end of decade",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/volkswagen-to-cut-100-000-jobs-by-end-of-decade/a-78896123?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The company will carry out the biggest job cuts ever seen in the industry. Volkswagen also plans to restructure and invest in research...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/indonesia-thousands-fall-sick-from-free-school-meals/a-78894485?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Hundreds of new food poisoning cases have been reported this week linked to President Prabowo Subianto's free school lunch program. The costly scheme ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump's Iran strategy: Could this become a forever war?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-s-iran-strategy-could-this-become-a-forever-war/a-78875030?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US has launched fresh attacks on military targets in Iran. It wants to prevent Tehran rebuilding its destroyed capabilities, but risks triggering ..."
     }
 ]
