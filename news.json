@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "Report: Arizona cannabis testing lab keeps breaking rules, but stays open",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/report-arizona-cannabis-testing-lab-keeps-breaking-rules-but-stays-open/617927/",
+        "summary": "<p>Fined last year for breaking the rules, an Arizona cannabis testing laboratory kept up the bad behavior, according to the result of state inspectio..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "Florida moves to ban celebrity endorsements in MMJ marketing revamp",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/florida-moves-to-ban-celebrity-endorsements-in-mmj-marketing-revamp/617915/",
@@ -63,24 +70,10 @@
         "summary": "<p>California law enforcement officials are investigating a state-licensed cannabis cultivator in Lake County after the unexplained death of a worker ..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Three States, Three Ban Rates, One Lesson About Reading Them",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/sponsored/three-states-three-ban-rates-one-lesson-about-reading-them/617613/",
-        "summary": "<p>State-level cannabis opt-out rates can be misleading. A closer look at Michigan, New York, and Massachusetts shows how municipal decisions, populat..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US probes Iran wedding strike that analysis shows was likely direct hit by US munition",
-        "image": "https://media.zenfs.com/en/reuters.com/c0b53a5fa05c2065947108f4bb6d37ae.jpg",
-        "link": "https://www.yahoo.com/news/articles/us-probes-iran-wedding-strike-235700084.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Woman who fatally shot man during confrontation over parking space won't be charged",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/5027af5feae54672eb4c64b27bba284d.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/woman-fatally-shot-man-during-200509827.html",
+        "title": "FACT FOCUS: Trump claims US banks cannot operate in Canada. That's not true",
+        "image": "https://media.zenfs.com/en/ap.org/058b470add1a5bfa05f6ea2c55a4b743.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/fact-focus-trump-claims-us-201737023.html",
         "summary": "..."
     },
     {
@@ -92,16 +85,23 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Number of Iranian military personnel reported killed by US strikes this week rises to 13",
-        "image": "https://media.zenfs.com/en/reuters.com/cffbc79fdebd4bd12acee3823aa59b85.jpg",
-        "link": "https://www.yahoo.com/news/articles/number-iranian-military-personnel-reported-135003599.html",
+        "title": "Woman who fatally shot man during confrontation over parking space won't be charged",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/5027af5feae54672eb4c64b27bba284d.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/woman-fatally-shot-man-during-200509827.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Democrats block proposed constitutional amendment to keep Supreme Court justices to nine",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/347d1c3bb4dab0f367a95261306aa89a.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/democrats-block-proposed-constitutional-amendment-212039185.html",
+        "title": "US probes Iran wedding strike that analysis shows was likely direct hit by US munition",
+        "image": "https://media.zenfs.com/en/reuters.com/c0b53a5fa05c2065947108f4bb6d37ae.jpg",
+        "link": "https://www.yahoo.com/news/articles/us-probes-iran-wedding-strike-235700084.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Mexican musician, pregnant wife, child and nanny killed in grisly shootings",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/c75d711310f4c54576f75af454d5f692.jpg",
+        "link": "https://www.yahoo.com/entertainment/music/articles/mexican-musician-pregnant-wife-child-033933371.html",
         "summary": "..."
     },
     {
