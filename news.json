@@ -92,17 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Supreme Court grants Republican emergency appeal on TV ad rates before midterms",
-        "image": "https://media.zenfs.com/en/ap.org/af8cf332e664df467853634e4637752a.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/supreme-court-grants-republican-emergency-195613592.html",
+        "title": "US pressure on Iran starting to tell, as sanctions and blockade bite",
+        "image": "https://media.zenfs.com/en/reuters.com/450245cdf8c51c87fa6af22300a1046d.jpg",
+        "link": "https://www.yahoo.com/news/articles/us-pressure-iran-starting-tell-150155652.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Renewable energy in NI reaches record level",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/64f68d93b7ec1b82597074ef63dcf9ba.png",
-        "link": "https://www.yahoo.com/news/science/articles/renewable-energy-ni-reaches-record-051149830.html",
+        "title": "Ex-Fetterman staffers promise more damaging details after blistering report: \u2018Tip of the iceberg\u2019",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/9157ab9d626bf04c75dbe78612e87cbc.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/ex-fetterman-staffers-promise-more-130007560.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Croatia: Toxic waste protest draws tens of thousands",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/croatia-toxic-waste-protest-draws-tens-of-thousands/a-79049228?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Zagreb demonstrators demanded that the government come up with a plan to clear illegal toxic waste in 20 days. Prime Minister Plenkovic has promis..."
     },
     {
         "source": "Deutsche Welle",
@@ -127,16 +134,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Iran war: Explosions reported near Kharg Island",
+        "title": "Iran: US hits 3 IRGC-linked oil tankers",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-war-explosions-reported-near-kharg-island/live-79044467?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Iranian media has reported that a tanker was targeted near the oil hub of Kharg Island. DW has the latest...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany: From emigration to immigration destination",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-from-emigration-to-immigration-destination/a-78805541?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Migration is a sensitive topic in Germany, with public debate dominated by the fear of uncontrolled immigration. But over two centuries, millions of G..."
+        "link": "https://www.dw.com/en/iran-us-hits-3-irgc-linked-oil-tankers/live-79044467?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US military said it had destroyed three vessels linked to Iran's Revolutionary Guards. Tehran responded by threatening to increase strikes on US s..."
     }
 ]
