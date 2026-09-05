@@ -78,13 +78,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Woman who fatally shot man during confrontation over parking space won't be charged",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/5027af5feae54672eb4c64b27bba284d.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/woman-fatally-shot-man-during-200509827.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "\u2018We've told them he cannot come\u2019: Republicans grapple with how to handle Trump on the trail",
         "image": "https://s.yimg.com/uu/api/res/1.2/QlcU5qIwIWRSoBKp2NOgBw--~B/aD0yNjMyO3c9MzkzNjthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/3f621746-29d0-4f79-ba19-4a35b67a98d4",
         "link": "https://www.yahoo.com/news/politics/articles/weve-told-them-cannot-come-084500626.html",
@@ -92,17 +85,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukraine's Zelenskiy says investigation underway after clash between two security agencies",
-        "image": "https://media.zenfs.com/en/reuters.com/b1a0cddd23ad54119a088093d722dd52.jpg",
-        "link": "https://www.yahoo.com/news/articles/ukraines-zelenskiy-says-investigation-underway-212716660.html",
+        "title": "Woman who fatally shot man during confrontation over parking space won't be charged",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/5027af5feae54672eb4c64b27bba284d.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/woman-fatally-shot-man-during-200509827.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Renewable energy in NI reaches record level",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/64f68d93b7ec1b82597074ef63dcf9ba.png",
-        "link": "https://www.yahoo.com/news/science/articles/renewable-energy-ni-reaches-record-051149830.html",
+        "title": "Supreme Court grants Republican emergency appeal on TV ad rates before midterms",
+        "image": "https://media.zenfs.com/en/ap.org/af8cf332e664df467853634e4637752a.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/supreme-court-grants-republican-emergency-195613592.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Young Orthodox Christians take part in a lights procession in Romania\u2019s capital",
+        "image": "https://media.zenfs.com/en/ap.org/cd937b1efbdf82411e4c9c6539184885.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/young-orthodox-christians-part-lights-095456668.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Tunisia: Judge orders arrest of journalist Mohamed Yousfi",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/tunisia-judge-orders-arrest-of-journalist-mohamed-yousfi/a-79040802?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A journalist and vocal critic of the Tunisian president, Mohamed Yousfi has been taken into custody ahead of an interview. A union called the arrest a..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Bolivia: Deadly explosion rocks military base in Viacha",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/bolivia-deadly-explosion-rocks-military-base-in-viacha/a-79040892?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The explosion occurred at an army base where fireworks were stored. The exact cause of the blast is under investigation...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US envoys to visit Russia, Ukraine with plan 'to end war'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-envoys-to-visit-russia-ukraine-with-plan-to-end-war/a-79040773?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Jared Kushner and Steve Witkoff are set to travel to Russia and Ukraine to revive peace talks. The trip would be the pair's first visit to Kyiv since ..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/outrage-as-maltese-tycoon-acquitted-in-journalist-s-murder/a-79027008?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Maltese businessman Yorgen Fenech has been found not guilty of complicity to murder journalist Daphne Caruana Galizia. Almost nine years after the att..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Yemen: Fighting intensifies amid Houthi push in the west",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/yemen-fighting-intensifies-amid-houthi-push-in-the-west/a-79039588?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Houthi forces are trying to secure high ground and solidify their control of the entry to the Red Sea in the southwest. The Iran-backed militia abando..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Saxony-Anhalt: Small parties will be the kingmakers",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/saxony-anhalt-small-parties-will-be-the-kingmakers/a-78482460?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The far-right AfD has good odds of winning an absolute majority in Saxony-Anhalt's parliament this state election, enabling them to govern alone. It a..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany's alliance against the far right",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-alliance-against-the-far-right/a-79009105?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Trade unions, churches and human rights activists are worried about the rise of the far-right AfD. How can civil society protect people who are threat..."
     }
 ]
