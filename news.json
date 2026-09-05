@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "North Carolina Officials Weigh Marijuana And Hemp Policies As Federal Law Remains In Flux",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/north-carolina-officials-weigh-marijuana-and-hemp-policies-as-federal-law-remains-in-flux/",
+        "summary": "<p>&#8220;We are not in any way convinced that we are definitely moving to be a marijuana-legal state. It could happen, but it may not.&#8221; By Clay..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Trump Releases More Federal Marijuana Prisoners As DEA Considers Rescheduling Cannabis",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/trump-releases-more-federal-marijuana-prisoners-as-dea-considers-rescheduling-cannabis/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/lawmakers-debate-how-and-whether-to-regulate-hemp-thc-products-after-trump-signs-bill-to-delay-scheduled-ban/",
         "summary": "<p>Now that President Donald Trump has signed a bill that contains provisions to delay the federal recriminalization of hemp THC products that was sch..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "New Hampshire Should Legalize Marijuana And Stop Sending Money To Neighboring States, Democrat Running For Governor Says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/new-hampshire-should-legalize-marijuana-and-stop-sending-money-to-neighboring-states-democrat-running-for-governor-says/",
-        "summary": "<p>A New Hampshire Democratic candidate for governor says the state should legalize marijuana and stop adding revenue to the coffers of its neighbors ..."
     },
     {
         "source": "MJBizDaily",
@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The Moment Lindsay Clancy Judge Declared Mistrial After Defense's Emergency Appeal Denied",
-        "image": "https://media.zenfs.com/en/nbcu_713/a3fcc2c70f814401498262e9994342cd.jpg",
-        "link": "https://www.yahoo.com/entertainment/videos/moment-lindsay-clancy-judge-declared-195524946.html",
+        "title": "Renewable energy in NI reaches record level",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/64f68d93b7ec1b82597074ef63dcf9ba.png",
+        "link": "https://www.yahoo.com/news/science/articles/renewable-energy-ni-reaches-record-051149830.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Russia announces three-day halt in strikes as Trump envoys visit for Ukraine talks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/russia-announces-three-day-halt-in-strikes-as-trump-envoys-visit-for-ukraine-talks/a-79040773?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Jared Kushner and Steve Witkoff have arrived in Moscow to revive Ukraine peace talks. The trip is the pair's first visit to Kyiv since US President Do..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-news-275-indians-still-missing-in-nepal-floods/live-79043198?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Official estimates say that 275 Indians continue to be unaccounted for in Nepal's flood catastrophe. Meanwhile, no Indian travelers are said to be str..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Thousands expected at Saxony-Anhalt rallies",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-thousands-expected-at-saxony-anhalt-rallies/live-79041302?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ahead of Saxony-Anhalt's state election on Sunday, a democracy festival by civil society groups is planned in Magdeburg. The far-right AfD will also h..."
     }
 ]
