@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Putin meets US envoys for 3 hours, says situation in Ukraine is 'difficult'",
-        "image": "https://media.zenfs.com/en/reuters.com/482005ad35ce0ba29942799666293d7e.jpg",
-        "link": "https://www.yahoo.com/news/articles/putins-envoy-dmitriev-meet-witkoff-100051885.html",
+        "title": "US pressure on Iran starting to tell, as sanctions and blockade bite",
+        "image": "https://media.zenfs.com/en/reuters.com/450245cdf8c51c87fa6af22300a1046d.jpg",
+        "link": "https://www.yahoo.com/news/articles/us-pressure-iran-starting-tell-150155652.html",
         "summary": "..."
     },
     {
@@ -85,24 +85,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ex-Fetterman staffers promise more damaging details after blistering report: \u2018Tip of the iceberg\u2019",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/9157ab9d626bf04c75dbe78612e87cbc.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/ex-fetterman-staffers-promise-more-130007560.html",
+        "title": "Democratic lawmakers erupt after anti-Israel journalist calls Hakeem Jeffries an \u2018AIPAC monkey\u2019 in viral rant",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/cde4ceed0db630af7f3aea0b6c0760cf.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/democratic-lawmakers-erupt-anti-israel-182530062.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukraine's Zelenskiy says investigation underway after clash between two security agencies",
-        "image": "https://media.zenfs.com/en/reuters.com/b1a0cddd23ad54119a088093d722dd52.jpg",
-        "link": "https://www.yahoo.com/news/articles/ukraines-zelenskiy-says-investigation-underway-212716660.html",
+        "title": "The Venezuelan billionaire the US investigated for money laundering now has a Pentagon oil deal",
+        "image": "https://media.zenfs.com/en/reuters.com/1a4494339b2660e727f8bee96c8b299f.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/venezuelan-billionaire-us-investigated-money-100502036.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "American automakers urge Congress to ban Chinese vehicle sales in U.S.",
-        "image": "https://media.zenfs.com/en/cbs_news_897/cae0748229fa591fa2f548b47cdb50ab.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/american-automakers-urge-congress-ban-211845663.html",
+        "title": "Trump Makes Surprising Pick to Lead Army After Secretary Resigns",
+        "image": "https://media.zenfs.com/en/nbcu_713/df673149e0ba51a08069de927de48b81.jpg",
+        "link": "https://www.yahoo.com/news/videos/trump-makes-surprising-pick-lead-112622275.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US envoys meet with Putin, leave Russia for Kyiv",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-envoys-meet-with-putin-leave-russia-for-kyiv/a-79040773?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Jared Kushner and Steve Witkoff met with Russian President Vladimir Putin in Moscow to try to revive talks to end the war in Ukraine. The US envoys ar..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "German company successfully launches rocket to space",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/german-company-successfully-launches-rocket-to-space/a-79050717?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Bavaria-based Isar Aerospace managed to launch its Spectrum rocket into orbit, 18 months after its first attempt. This is the first such launch from E..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/masked-anti-migrant-protesters-block-uk-s-dover-terminal/a-79046929?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Chanting \"stop the boats\" and wearing balaclavas, the demonstrators blocked traffic at the UK's busiest international ferry port...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Fact check: Germany's postal voting system isn't rigged",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fact-check-germany-s-postal-voting-system-isn-t-rigged/a-78958438?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As Germany heads into three elections in September, rumors are circulating on social media claiming that postal voting is not secure \u2014 claims that hav..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia to pause strikes against Kyiv amid Ukraine talks",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-to-pause-strikes-against-kyiv-amid-ukraine-talks/a-79040773?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Jared Kushner and Steve Witkoff have arrived in Moscow to revive Ukraine peace talks. They are also scheduled to visit Kyiv on Sunday...."
     }
 ]
