@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Supreme Court grants Republican emergency appeal on TV ad rates before midterms",
-        "image": "https://media.zenfs.com/en/ap.org/af8cf332e664df467853634e4637752a.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/supreme-court-grants-republican-emergency-195613592.html",
+        "title": "US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles",
+        "image": "https://media.zenfs.com/en/ap.org/5e9e9db6993f509fcfbd145a23ff807e.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/us-military-hits-3-iranian-135346839.html",
         "summary": "..."
     },
     {
@@ -92,17 +92,24 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Iran to tackle economic issues, says further attacks will be 'more painful'",
-        "image": "https://media.zenfs.com/en/reuters.com/ca65aae228822df5f081cde92bee98ab.jpg",
-        "link": "https://www.yahoo.com/news/articles/iran-tackle-economic-issues-says-114140936.html",
+        "title": "The Venezuelan billionaire the US investigated for money laundering now has a Pentagon oil deal",
+        "image": "https://media.zenfs.com/en/reuters.com/1a4494339b2660e727f8bee96c8b299f.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/venezuelan-billionaire-us-investigated-money-100502036.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Human urine responsible for tons of Mount Everest ice melt: Study",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/77dd9a47c84f9d4e2afcdf397a263cc8.jpg",
-        "link": "https://www.yahoo.com/news/science/articles/human-urine-responsible-tons-mount-193518855.html",
+        "title": "Trump\u2019s \u2018dumb\u2019 story makes no sense",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/59524bad800c7c2a253d93a88c7e66bf.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-dumb-story-makes-no-103029078.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Fact check: Election fraud claims spread in Saxony-Anhalt",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/fact-check-election-fraud-claims-spread-in-saxony-anhalt/a-79093254?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "False and misleading claims are raising questions about the integrity of the election in Saxony-Anhalt. DW Fact Check takes a closer look...."
     },
     {
         "source": "Deutsche Welle",
@@ -113,30 +120,23 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Israeli strikes on Lebanon kill several despite truce",
+        "title": "Saxony-Anhalt's state election will have a nationwide impact",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/israeli-strikes-on-lebanon-kill-several-despite-truce/a-79065011?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Lebanon's President Joseph Aoun has appealed to the international community to \"take immediate action to stop these violations\" of the ceasefire agree..."
+        "link": "https://www.dw.com/en/saxony-anhalt-s-state-election-will-have-a-nationwide-impact/a-78874569?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The election in the eastern state of Saxony-Anhalt could have dramatic consequences for Germany's federal government. Pollsters point to dissatisfacti..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "US envoys Witkoff, Kushner arrive in Kiyv after Putin talks",
+        "title": "Fact check: Germany's postal voting system isn't rigged",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-envoys-witkoff-kushner-arrive-in-kiyv-after-putin-talks/a-79054779?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The two US offcials are meeting Ukrainian President Volodymyr Zelenskyy in Kyiv, with national security advisors the UK, France, and Germany reportedl..."
+        "link": "https://www.dw.com/en/fact-check-germany-s-postal-voting-system-isn-t-rigged/a-78958438?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ahead of Germany's state elections in September, rumors began circulating on social media claiming that postal voting is not secure \u2014 claims that have..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "India news: Rahul Gandhi backs student protests in Maharashtra",
+        "title": "Saxony-Anhalt election: Why the AfD is so strong",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-rahul-gandhi-backs-student-protests-in-maharashtra/live-79043198?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Opposition Rahul Gandhi has said that students are \"tormented\" by the ruling Bharatiya Janata Party. The Congress politician has demanded immediate ac..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany, Kosovo unite against ticks carrying deadly virus",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-kosovo-unite-against-ticks-carrying-deadly-virus/a-78655223?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany has high-security labs while Kosovo has Hyalomma ticks and experience with the deadly Crimean-Congo hemorrhagic fever. Working together, Germa..."
+        "link": "https://www.dw.com/en/saxony-anhalt-election-why-the-afd-is-so-strong/a-78482588?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The AfD has emerged as the strongest party in Germany's eastern state of Saxony-Anhalt by a wide margin. What is driving support for the far right in ..."
     }
 ]
