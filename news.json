@@ -71,16 +71,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles",
-        "image": "https://media.zenfs.com/en/ap.org/5e9e9db6993f509fcfbd145a23ff807e.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/us-military-hits-3-iranian-135346839.html",
+        "title": "Federal appeals court upholds ban on Trump's bid to use citizenship data for voter checks",
+        "image": "https://media.zenfs.com/en/reuters.com/aa7825b8494f1ab1ad1f2b554672d250.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/federal-appeals-court-upholds-ban-160245632.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Fighter jet crashes at air show, killing 2 pilots with thousands of spectators watching",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/dcba69535d544309374b951e5b56370f.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/fighter-jet-crashes-air-show-201654342.html",
+        "title": "After 'Lake America,' Trump suggests a new name for the state of New Mexico",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/1be47cf0f48bbe1821980f4e0b54df30.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/lake-america-trump-suggests-name-194441299.html",
         "summary": "..."
     },
     {
@@ -92,17 +92,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The Venezuelan billionaire the US investigated for money laundering now has a Pentagon oil deal",
-        "image": "https://media.zenfs.com/en/reuters.com/1a4494339b2660e727f8bee96c8b299f.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/venezuelan-billionaire-us-investigated-money-100502036.html",
+        "title": "Nepali woman found alive days after family began mourning rites",
+        "image": "https://media.zenfs.com/en/reuters.com/307df749ec32ce912c9298b4b487e41c.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/nepali-woman-found-alive-days-131511896.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump\u2019s \u2018dumb\u2019 story makes no sense",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/59524bad800c7c2a253d93a88c7e66bf.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-dumb-story-makes-no-103029078.html",
+        "title": "Fighter jet crashes at air show, killing 2 pilots with thousands of spectators watching",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/dcba69535d544309374b951e5b56370f.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/fighter-jet-crashes-air-show-201654342.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US envoys Witkoff and Kushner hold Ukraine talks after meeting Putin",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-envoys-witkoff-and-kushner-hold-ukraine-talks-after-meeting-putin/a-79054779?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US envoys Steve Witkoff and Jared Kushner held talks with Ukrainian President Volodymyr Zelenskyy in Kyiv, seeking to revive efforts to end the war. B..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "AfD wants to form a government in Saxony-Anhalt \u2014 but how?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/afd-wants-to-form-a-government-in-saxony-anhalt-but-how/a-79107331?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Following its record-breaking success in the state election, the far-right AfD in Saxony-Anhalt is aiming to form a government...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Saxony-Anhalt: Digesting the AfD's landmark election win",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/saxony-anhalt-digesting-the-afd-s-landmark-election-win/a-79103981?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "With well over 40% for the far-right Alternative for Germany (AfD), Saxony-Anhalt has witnessed a landmark election night. DW's reporters were on the ..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/saxony-anhalt-far-right-afd-secures-huge-lead-in-key-vote/live-78754934?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The far-right AfD has taken a massive lead at the Saxony-Anhalt election, although it was not clear if it will be able to form government. The party's..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Saxony-Anhalt's state election will have a nationwide impact",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/saxony-anhalt-s-state-election-will-have-a-nationwide-impact/a-78874569?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The election in the eastern state of Saxony-Anhalt could have dramatic consequences for Germany's federal government. Pollsters point to dissatisfacti..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Fact check: Germany's postal voting system isn't rigged",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fact-check-germany-s-postal-voting-system-isn-t-rigged/a-78958438?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ahead of Germany's state elections in September, rumors began circulating on social media claiming that postal voting is not secure \u2014 claims that have..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Saxony-Anhalt election: Why the AfD is so strong",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/saxony-anhalt-election-why-the-afd-is-so-strong/a-78482588?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The AfD has emerged as the strongest party in Germany's eastern state of Saxony-Anhalt by a wide margin. What is driving support for the far right in ..."
     }
 ]
