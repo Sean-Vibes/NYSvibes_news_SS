@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "US strikes 3 Iranian oil tankers after saying warships were targeted with ballistic missiles",
-        "image": "https://media.zenfs.com/en/ap.org/5e9e9db6993f509fcfbd145a23ff807e.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/us-military-hits-3-iranian-135346839.html",
+        "title": "US pressure on Iran starting to tell, as sanctions and blockade bite",
+        "image": "https://media.zenfs.com/en/reuters.com/450245cdf8c51c87fa6af22300a1046d.jpg",
+        "link": "https://www.yahoo.com/news/articles/us-pressure-iran-starting-tell-150155652.html",
         "summary": "..."
     },
     {
@@ -85,24 +85,45 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Democratic lawmakers erupt after anti-Israel journalist calls Hakeem Jeffries an \u2018AIPAC monkey\u2019 in viral rant",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/cde4ceed0db630af7f3aea0b6c0760cf.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/democratic-lawmakers-erupt-anti-israel-182530062.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump Makes Surprising Pick to Lead Army After Secretary Resigns",
-        "image": "https://media.zenfs.com/en/nbcu_713/df673149e0ba51a08069de927de48b81.jpg",
-        "link": "https://www.yahoo.com/news/videos/trump-makes-surprising-pick-lead-112622275.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Ex-Fetterman staffers promise more damaging details after blistering report: \u2018Tip of the iceberg\u2019",
         "image": "https://media.zenfs.com/en/fox_news_text_979/9157ab9d626bf04c75dbe78612e87cbc.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/ex-fetterman-staffers-promise-more-130007560.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "The Venezuelan billionaire the US investigated for money laundering now has a Pentagon oil deal",
+        "image": "https://media.zenfs.com/en/reuters.com/1a4494339b2660e727f8bee96c8b299f.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/venezuelan-billionaire-us-investigated-money-100502036.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Human urine responsible for tons of Mount Everest ice melt: Study",
+        "image": "https://media.zenfs.com/en/newsnation_articles_600/77dd9a47c84f9d4e2afcdf397a263cc8.jpg",
+        "link": "https://www.yahoo.com/news/science/articles/human-urine-responsible-tons-mount-193518855.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Saxony-Anhalt: Far-right AfD eyes power in German state vote",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/saxony-anhalt-far-right-afd-eyes-power-in-german-state-vote/live-78754934?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Although the eastern state accounts for less than 3% of the nationwide electorate, the election outcome could serve as a bellwether about the far-righ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Indonesia: Flights canceled as Anak Krakatau volcano erupts",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/indonesia-flights-canceled-as-anak-krakatau-volcano-erupts/a-79050871?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The spread of ash after the volcanic eruption of Anak Krakatau has impacted thousands of passengers, as flights were canceled at Jakarta's internation..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Saxony-Anhalt's state election will have a nationwide impact",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/saxony-anhalt-s-state-election-will-have-a-nationwide-impact/a-78874569?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The parliamentary election in the small eastern state of Saxony-Anhalt could have dramatic consequences for Germany's federal government, further rais..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/german-company-successfully-launches-rocket-to-space/a-79050717?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Bavaria-based Isar Aerospace managed to launch its Spectrum rocket into orbit, 18 months after its first attempt. This is the first such launch from E..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why many Syrians feel Assad death sentence isn't enough",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-many-syrians-feel-assad-death-sentence-isn-t-enough/a-78985915?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In July, a Syrian court sentenced former dictator Bashar Assad to death for crimes against his own people. But after 14 years of civil war, many survi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Croatia: Toxic waste protest draws tens of thousands",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/croatia-toxic-waste-protest-draws-tens-of-thousands/a-79049228?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Zagreb demonstrators demanded that the government come up with a plan to clear illegal toxic waste in 20 days. Prime Minister Plenkovic has promis..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Masked anti-migrant protesters block UK's Dover terminal",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/masked-anti-migrant-protesters-block-uk-s-dover-terminal/a-79046929?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Chanting \"stop the boats\" and wearing balaclavas, the demonstrators blocked traffic at the UK's busiest international ferry port...."
     }
 ]
