@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The Moment Lindsay Clancy Judge Declared Mistrial After Defense's Emergency Appeal Denied",
-        "image": "https://media.zenfs.com/en/nbcu_713/a3fcc2c70f814401498262e9994342cd.jpg",
-        "link": "https://www.yahoo.com/entertainment/videos/moment-lindsay-clancy-judge-declared-195524946.html",
+        "title": "Iran to tackle economic issues, says further attacks will be 'more painful'",
+        "image": "https://media.zenfs.com/en/reuters.com/ca65aae228822df5f081cde92bee98ab.jpg",
+        "link": "https://www.yahoo.com/news/articles/iran-tackle-economic-issues-says-114140936.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,20 @@
         "image": "https://media.zenfs.com/en/newsnation_articles_600/77dd9a47c84f9d4e2afcdf397a263cc8.jpg",
         "link": "https://www.yahoo.com/news/science/articles/human-urine-responsible-tons-mount-193518855.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Saxony-Anhalt: Far-right AfD secures huge lead in key vote",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/saxony-anhalt-far-right-afd-secures-huge-lead-in-key-vote/live-78754934?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The far-right AfD has taken a massive lead at the Saxony-Anhalt election, although it was not clear if it will be able to form government. The party's..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Israeli strikes on Lebanon kill several despite truce",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/israeli-strikes-on-lebanon-kill-several-despite-truce/a-79065011?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Lebanon's President Joseph Aoun has appealed to the international community to \"take immediate action to stop these violations\" of the ceasefire agree..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-kosovo-unite-against-ticks-carrying-deadly-virus/a-78655223?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Germany has high-security labs while Kosovo has Hyalomma ticks and experience with the deadly Crimean-Congo hemorrhagic fever. Working together, Germa..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany plans anti-drone shield over Leipzig attack \u2014 report",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-plans-anti-drone-shield-over-leipzig-attack-report/a-79052604?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Several German cities will receive rapidly deployable units capable of defending against drone strikes on critical infrastructure, according to Bild a..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How climate change and food insecurity could fuel future conflicts",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-climate-change-and-food-insecurity-could-fuel-future-conflicts/a-78871431?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Climate change, conflict, and trade tensions are putting pressure on the global food system. New research suggests the biggest risk is not food shorta..."
     }
 ]
