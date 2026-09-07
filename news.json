@@ -85,24 +85,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump's apparent hair color change sparks buzz on social media",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/fe648d7bc7a824b863f518535f02063c.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trumps-apparent-hair-color-change-195354141.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Five European nations seek deals to send migrants out of the EU",
+        "image": "https://media.zenfs.com/en/reuters.com/680090bad1597632c0f6da6541f2530d.jpg",
+        "link": "https://www.yahoo.com/news/articles/denmark-expects-send-first-migrants-065333345.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Ex-Fetterman staffers promise more damaging details after blistering report: \u2018Tip of the iceberg\u2019",
         "image": "https://media.zenfs.com/en/fox_news_text_979/9157ab9d626bf04c75dbe78612e87cbc.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/ex-fetterman-staffers-promise-more-130007560.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Nepali woman found alive days after family began mourning rites",
-        "image": "https://media.zenfs.com/en/reuters.com/307df749ec32ce912c9298b4b487e41c.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/nepali-woman-found-alive-days-131511896.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Fighter jet crashes at air show, killing 2 pilots with thousands of spectators watching",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/dcba69535d544309374b951e5b56370f.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/fighter-jet-crashes-air-show-201654342.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Several killed in Amazon cargo plane crash in Miami",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/several-killed-in-amazon-cargo-plane-crash-in-miami/a-79107365?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "At least five people have died after a cargo plane crashed at Miami International Airport. The aircraft overran a runway, struck several vehicles and ..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/fact-check-election-fraud-claims-spread-in-saxony-anhalt/a-79093254?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "False and misleading claims are raising questions about the integrity of the election in Saxony-Anhalt. DW Fact Check takes a closer look...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Saxony-Anhalt: Far-right AfD secures huge lead in key vote",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/saxony-anhalt-far-right-afd-secures-huge-lead-in-key-vote/live-78754934?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The far-right AfD has taken a massive lead at the Saxony-Anhalt election, although it was not clear if it will be able to form government. The party's..."
     }
 ]
