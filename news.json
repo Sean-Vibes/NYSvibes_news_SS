@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Marijuana Should Be Federally Legalized And Taxed, U.S. Senate Candidate Josh Turek Says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/marijuana-should-be-federally-legalized-and-taxed-u-s-senate-candidate-josh-turek-says/",
+        "summary": "<p>Josh Turek, the Democratic nominee in a U.S. Senate race in Iowa this year, says it&#8217;s time to federally legalize, regulate and tax marijuana...."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Convenience Store Industry Says Congress Should Regulate Hemp THC Products Instead Of Banning Them",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/convenience-store-industry-says-congress-should-regulate-hemp-thc-products-instead-of-banning-them/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/trump-releases-federal-cannabis-prisoners-newsletter-september-7-2026/",
         "summary": "<p>GOP lawmakers talk hemp regulations; NH legalization push; TX Dem campaigns on marijuana; NE medical cannabis laws upheld Subscribe\u00a0to receive Mari..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Rhode Island Hemp Farmer Wants Attorney General Candidates To Answer These Questions (Op-Ed)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/rhode-island-hemp-farmer-wants-attorney-general-candidates-to-answer-these-questions-op-ed/",
-        "summary": "<p>&#8220;Rhode Island has already chosen to regulate hemp rather than prohibit it. Our next attorney general should explain whether they intend to de..."
     },
     {
         "source": "MJBizDaily",
@@ -85,24 +85,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Fighter jet crashes at air show, killing 2 pilots with thousands of spectators watching",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/dcba69535d544309374b951e5b56370f.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/fighter-jet-crashes-air-show-201654342.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Lindsay Clancy Case Ends in Mistrial: Will She Be Tried Again?",
-        "image": "https://media.zenfs.com/en/nbcu_713/0a49f08c8a8138dd8703c468e1b3de39.jpg",
-        "link": "https://www.yahoo.com/news/videos/lindsay-clancy-case-ends-mistrial-113719015.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Virginia mom placed on child abuse registry for 7 years after letting 5-year-old walk alone",
         "image": "https://media.zenfs.com/en/fox_news_text_979/f0456f5ffd80899dfeba9ff6f474e6b0.jpg",
         "link": "https://www.yahoo.com/news/us/articles/virginia-mom-placed-child-abuse-175200586.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies",
+        "image": "https://media.zenfs.com/en/reuters.com/c4e0e292e8ad475c655896b4dee3eaee.jpg",
+        "link": "https://finance.yahoo.com/technology/ai/articles/taiwan-flexes-chip-diplomacy-muscles-022559044.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Marine F-35 pilots who switched over from the Harrier jump jet have had to unlearn almost everything they know",
+        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/f1fc63760667b44d87319b6e52bc191c.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/marine-f-35-pilots-switched-123001148.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "3 years on, Morocco earthquake victims still wait for help",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/3-years-on-morocco-earthquake-victims-still-wait-for-help/a-78874844?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Reconstruction has progressed in the three years since the 2023 Morocco earthquake, but some survivors are still living in tents. Locals are divided a..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/can-the-afd-form-a-government-in-saxony-anhalt/a-79107331?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Following its record election success, the far-right Alternative for Germany aims to form a government. What options does it have without the absolute..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia announces it is closing Germany's consulate in St. Petersburg",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-announces-it-is-closing-germany-s-consulate-in-st-petersburg/a-79149908?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The tit-for-tat reaction comes after Germany said it is shutting down Russia's consulate in Bonn and its cultural center in Berlin...."
     }
 ]
