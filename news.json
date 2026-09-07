@@ -71,30 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Federal appeals court upholds ban on Trump's bid to use citizenship data for voter checks",
-        "image": "https://media.zenfs.com/en/reuters.com/aa7825b8494f1ab1ad1f2b554672d250.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/federal-appeals-court-upholds-ban-160245632.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "After 'Lake America,' Trump suggests a new name for the state of New Mexico",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/1be47cf0f48bbe1821980f4e0b54df30.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/lake-america-trump-suggests-name-194441299.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump's apparent hair color change sparks buzz on social media",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/fe648d7bc7a824b863f518535f02063c.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trumps-apparent-hair-color-change-195354141.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Five European nations seek deals to send migrants out of the EU",
-        "image": "https://media.zenfs.com/en/reuters.com/680090bad1597632c0f6da6541f2530d.jpg",
-        "link": "https://www.yahoo.com/news/articles/denmark-expects-send-first-migrants-065333345.html",
+        "title": "The Venezuelan billionaire the US investigated for money laundering now has a Pentagon oil deal",
+        "image": "https://media.zenfs.com/en/reuters.com/1a4494339b2660e727f8bee96c8b299f.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/venezuelan-billionaire-us-investigated-money-100502036.html",
         "summary": "..."
     },
     {
@@ -103,6 +82,41 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/9157ab9d626bf04c75dbe78612e87cbc.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/ex-fetterman-staffers-promise-more-130007560.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Fighter jet crashes at air show, killing 2 pilots with thousands of spectators watching",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/dcba69535d544309374b951e5b56370f.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/fighter-jet-crashes-air-show-201654342.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Kremlin says Ukraine talks with US envoys were useful; no sign of breakthrough",
+        "image": "https://media.zenfs.com/en/reuters.com/8d3f3ac29ded916c2775f7a4a487579c.jpg",
+        "link": "https://www.yahoo.com/news/articles/putins-envoy-dmitriev-meet-witkoff-100051885.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump\u2019s \u2018dumb\u2019 story makes no sense",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/59524bad800c7c2a253d93a88c7e66bf.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-dumb-story-makes-no-103029078.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Von der Leyen in Greenland with EU investments amid Trump pressure",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/von-der-leyen-in-greenland-with-eu-investments-amid-trump-pressure/a-79109197?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The EU is preparing a major investment package and closer political ties with the Danish Arctic territory amid Donald Trump's demand for greater US co..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Saxony-Anhalt: Preliminary official results show AfD tops vote",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/saxony-anhalt-preliminary-official-results-show-afd-tops-vote/live-78754934?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The far-right Alternative for Germany (AfD) party won the Saxony-Anhalt state election but failed to secure an absolute majority in the state parliame..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/afd-wants-to-form-a-government-in-saxony-anhalt-but-how/a-79107331?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Following its record-breaking success in the state election, the far-right AfD in Saxony-Anhalt is aiming to form a government...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Saxony-Anhalt: Digesting the AfD's landmark election win",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/saxony-anhalt-digesting-the-afd-s-landmark-election-win/a-79103981?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "With well over 40% for the far-right Alternative for Germany (AfD), Saxony-Anhalt has witnessed a landmark election night. DW's reporters were on the ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Fact check: Election fraud claims spread in Saxony-Anhalt",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fact-check-election-fraud-claims-spread-in-saxony-anhalt/a-79093254?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "False and misleading claims are raising questions about the integrity of the election in Saxony-Anhalt. DW Fact Check takes a closer look...."
     }
 ]
