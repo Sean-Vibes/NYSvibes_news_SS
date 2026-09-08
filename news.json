@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "The Venezuelan billionaire the US investigated for money laundering now has a Pentagon oil deal",
-        "image": "https://media.zenfs.com/en/reuters.com/1a4494339b2660e727f8bee96c8b299f.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/venezuelan-billionaire-us-investigated-money-100502036.html",
+        "title": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies",
+        "image": "https://media.zenfs.com/en/reuters.com/c4e0e292e8ad475c655896b4dee3eaee.jpg",
+        "link": "https://finance.yahoo.com/technology/ai/articles/taiwan-flexes-chip-diplomacy-muscles-022559044.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Taiwan flexes chip diplomacy muscles as it faces pressure to share AI wealth with allies",
-        "image": "https://media.zenfs.com/en/reuters.com/c4e0e292e8ad475c655896b4dee3eaee.jpg",
-        "link": "https://finance.yahoo.com/technology/ai/articles/taiwan-flexes-chip-diplomacy-muscles-022559044.html",
+        "title": "Trump says Canada's Bombardier cannot sell in US unless it builds there",
+        "image": "https://media.zenfs.com/en/reuters.com/a1271bb539cef6f2bf47fedd0d8797ed.jpg",
+        "link": "https://finance.yahoo.com/economy/policy/articles/trump-says-canadas-bombardier-cannot-175122394.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/f1fc63760667b44d87319b6e52bc191c.jpg",
         "link": "https://www.yahoo.com/news/us/articles/marine-f-35-pilots-switched-123001148.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Eiffel Tower employees strike after female staff removed",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eiffel-tower-employees-strike-after-female-staff-removed/a-79152603?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The employees protested against the removal of the site's female workers due to a request by a visiting Hindu group. The tower's operating company apo..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/saxony-anhalt-germany-wakes-up-to-unsettling-afd-victory/live-78754934?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The far-right Alternative for Germany (AfD) party won the Saxony-Anhalt state election but without an absolute majority in parliament. Other European ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Can the AfD form a government in Saxony-Anhalt?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/can-the-afd-form-a-government-in-saxony-anhalt/a-79107331?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Following its record election success, the far-right Alternative for Germany aims to form a government. What options does it have without the absolute..."
     }
 ]
