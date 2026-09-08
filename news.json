@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "Delaware cannabis sales hit record in July, trail projections",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/delaware-cannabis-sales-hit-record-in-july-trail-projections/617960/",
+        "summary": "<p>Licensing delays have stalled the launch of retail-only stores, while high prices and limited options drive buyers to neighboring states.</p>\n<p><a..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "Why a cannabis business is betting on dogs to reach FDA approval",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/why-a-cannabis-business-is-betting-on-dogs-to-reach-fda-approval/617908/",
@@ -63,13 +70,6 @@
         "summary": "<p>Texas Gov. Greg Abbott said he wanted to regulate hemp THC, not ban it. The state's actions since tell a different story.</p>\n<p><a href=\"https://m..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Marijuana MSO Cresco scoops up PharmaCann Pennsylvania assets",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/mso-cresco-pays-50m-for-9-pennsylvania-mmj-stores/617878/",
-        "summary": "<p>The deal makes Cresco Pennsylvania's No. 1 MMJ retailer and wholesaler, deepening its grip on the second-largest US medical market.</p>\n<p><a href=..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Trump told Putin he wants swift end to Ukraine war and US-Russia ties restored - Kremlin",
         "image": "https://media.zenfs.com/en/reuters.com/a3aed60fd75af812534549e0f127c3da.jpg",
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "NYC releases trove of 9/11 documents showing officials knew air quality at Ground Zero was unsafe",
-        "image": "https://s.yimg.com/uu/api/res/1.2/uLMXNITiRjZXwN3RzjM2mg--~B/aD0xNjg3O3c9Mjk5OTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/user-uploaded/thumb-9-11-air_2627.jpg",
-        "link": "https://www.yahoo.com/news/us/article/nyc-releases-trove-of-911-documents-showing-officials-knew-air-quality-at-ground-zero-was-unsafe-174358156.html",
+        "title": "IRS under Trump unlawfully shared taxpayer info with immigration authorities, court rules",
+        "image": "https://media.zenfs.com/en/reuters.com/dcdf8dbb48d356d82df49b0ea9074627.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/irs-under-trump-unlawfully-shared-192212347.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/cbs_news_897/bc21e75d3eac51d02e79bae7e0d216bd.jpg",
         "link": "https://www.yahoo.com/news/us/articles/witness-says-pilot-amazon-crash-164936273.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "German economy frets about Saxony-Anhalt election results",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/german-economy-frets-about-saxony-anhalt-election-results/a-79162871?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The AfD won the election in the eastern German state by a wide margin. While politicians and election analysts are still debating the reasons for the ..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/bsw-and-afd-a-political-love-hate-relationship-in-germany/a-79185782?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Sahra Wagenknecht Alliance (BSW) could help the Alternative for Germany (AfD) into power in Saxony-Anhalt. But the BSW is riddled with infighting..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "EU court rules against Belgian far-right party in IKEA case",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-court-rules-against-belgian-far-right-party-in-ikea-case/a-79159207?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A European court has backed Ikea's challenge against a Belgian far-right party, saying the use of Ikea-style visuals could harm the company's reputati..."
     }
 ]
