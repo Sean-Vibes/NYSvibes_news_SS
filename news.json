@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Marine F-35 pilots who switched over from the Harrier jump jet have had to unlearn almost everything they know",
-        "image": "https://media.zenfs.com/en/business_insider_consolidated_articles_886/f1fc63760667b44d87319b6e52bc191c.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/marine-f-35-pilots-switched-123001148.html",
+        "title": "Trump\u2019s \u2018dumb\u2019 story makes no sense",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/59524bad800c7c2a253d93a88c7e66bf.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-dumb-story-makes-no-103029078.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine updates: Explosions rock Kyiv as 3-day truce ends",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-updates-explosions-rock-kyiv-as-3-day-truce-ends/live-79153168?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A series of explosions rocked Kyiv and neighboring cities signaling the end of Russia's three-day ceasefire. DW has the latest...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/nicaragua-challenges-german-arms-exports-to-israel-at-icj/a-79148044?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Germany has asked the International Court of Justice to dismiss the case on jurisdiction grounds. It also said its arms exports to Israel were documen..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Saxony-Anhalt: Germany wakes up to 'unsettling' AfD victory",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/saxony-anhalt-germany-wakes-up-to-unsettling-afd-victory/live-78754934?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The far-right Alternative for Germany (AfD) party won the Saxony-Anhalt state election but without an absolute majority in parliament. Other European ..."
     }
 ]
