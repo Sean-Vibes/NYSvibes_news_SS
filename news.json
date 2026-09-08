@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "Ohio cannabis store voluntarily closes as state investigates \u2018serious health events\u2019",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/ohio-cannabis-store-voluntarily-closes-as-state-investigates-serious-health-events/617967/",
+        "summary": "<p>An Arizona-based cannabis multistate operator closed an Ohio cannabis store after learning that state regulators are investigating at least two ser..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "Delaware cannabis sales hit record in July, trail projections",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/delaware-cannabis-sales-hit-record-in-july-trail-projections/617960/",
@@ -63,13 +70,6 @@
         "summary": "<p>Renewal fees jumped to $1.3 million and licenses lost value as Florida floats tighter marijuana marketing rules that operators call draconian.</p>\n..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Texas rejected a hemp THC ban. Why is the industry being regulated out of business?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/texas-rejected-a-hemp-thc-ban-why-is-the-industry-being-regulated-out-of-business/617887/",
-        "summary": "<p>Texas Gov. Greg Abbott said he wanted to regulate hemp THC, not ban it. The state's actions since tell a different story.</p>\n<p><a href=\"https://m..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Trump told Putin he wants swift end to Ukraine war and US-Russia ties restored - Kremlin",
         "image": "https://media.zenfs.com/en/reuters.com/a3aed60fd75af812534549e0f127c3da.jpg",
@@ -93,7 +93,7 @@
     {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "IRS under Trump unlawfully shared taxpayer info with immigration authorities, court rules",
-        "image": "https://media.zenfs.com/en/reuters.com/dcdf8dbb48d356d82df49b0ea9074627.jpg",
+        "image": "https://media.zenfs.com/en/reuters.com/76be9dfe418ca0d06256202903cbfbec.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/irs-under-trump-unlawfully-shared-192212347.html",
         "summary": "..."
     },
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/cbs_news_897/bc21e75d3eac51d02e79bae7e0d216bd.jpg",
         "link": "https://www.yahoo.com/news/us/articles/witness-says-pilot-amazon-crash-164936273.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US strikes oil tankers off coast of Iran",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-strikes-oil-tankers-off-coast-of-iran/a-79194562?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US attacked four oil-carrying vessels in the Gulf of Oman and one in the Strait of Hormuz. Iran's Revolutionary Guard said it would strike ships o..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ratko-mladic-s-funeral-casts-shadow-over-bosnia-and-herzegovina-vote/a-79189319?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Ratko Mladic\u2019s funeral in Belgrade, attended by Serbian and Bosnian Serb leaders, has deepened regional tensions and could affect the upcoming electio..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "BSW and AfD \u2013 a political love-hate relationship in Germany",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/bsw-and-afd-a-political-love-hate-relationship-in-germany/a-79185782?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Sahra Wagenknecht Alliance (BSW) could help the Alternative for Germany (AfD) into power in Saxony-Anhalt. But the BSW is riddled with infighting..."
     }
 ]
