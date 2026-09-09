@@ -85,24 +85,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Eiffel Tower closed due to strike after female staff allegedly removed for religious group",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/419000f16dd94aedde91965dffdd82c8.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/eiffel-tower-closed-due-strike-051513603.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Far-right triumph in eastern Germany leaves migrants questioning their future",
+        "image": "https://media.zenfs.com/en/reuters.com/4817d3f83f4fc72385cfd728fb4d8a4a.jpg",
+        "link": "https://www.yahoo.com/news/articles/far-triumph-eastern-germany-leaves-153724521.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Unearthed interview exposes what Talarico thought about 'tough-on-crime' tactics",
         "image": "https://media.zenfs.com/en/fox_news_text_979/3abcdb0cd85be8f9247066709e3506c3.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/unearthed-interview-exposes-talarico-thought-110007248.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "IRS under Trump unlawfully shared taxpayer info with immigration authorities, court rules",
-        "image": "https://media.zenfs.com/en/reuters.com/76be9dfe418ca0d06256202903cbfbec.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/irs-under-trump-unlawfully-shared-192212347.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Trump escalates trade war with Canada with import bans, 50% tariffs",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-escalates-trade-war-with-canada-with-import-bans-50-tariffs/a-79195010?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US President Trump has announced new import bans and 50% tariffs on some Canadian goods as tensions between the two countries intensify. This comes a ..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Witness says pilot in Amazon crash was shaking afterward: \"My career is over\"",
-        "image": "https://media.zenfs.com/en/cbs_news_897/bc21e75d3eac51d02e79bae7e0d216bd.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/witness-says-pilot-amazon-crash-164936273.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Israel's Netanyahu denies UAE warned him of October 7 attack",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/israel-s-netanyahu-denies-uae-warned-him-of-october-7-attack/a-79194436?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Israeli media reported that the UAE contacted Israeli Prime Minister Netanyahu before the October 7, 2023 attacks, warning him that Hamas was planning..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/eu-uk-express-dismay-over-mladic-funeral-in-serbia/a-79190233?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The EU is deliberating an official response to the glorification of war criminal Ratko Mladic in Belgrade. The UK, meanwhile, summoned Serbia's charge..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Fifty years after Mao\u2019s death, China has transformed. DW looks at why his political legacy still matters.",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/fifty-years-after-mao-s-death-china-has-transformed-dw-looks-at-why-his-political-legacy-still-matters/a-79189751?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Mao Zedong was perhaps the most influential, and certainly one of the most controversial, figures in 20th-century China. Even five decades after his d..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ratko Mladic\u2019s funeral casts shadow over Bosnia and Herzegovina vote",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ratko-mladic-s-funeral-casts-shadow-over-bosnia-and-herzegovina-vote/a-79189319?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ratko Mladic\u2019s funeral in Belgrade, attended by Serbian and Bosnian Serb leaders, has deepened regional tensions and could affect the upcoming electio..."
     }
 ]
