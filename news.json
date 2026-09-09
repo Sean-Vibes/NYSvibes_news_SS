@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "Missouri moves intoxicating hemp into regulated market Nov. 12",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/missouri-moves-intoxicating-hemp-into-regulated-market/617984/",
+        "summary": "<p>Anything over 0.4 milligrams of THC per container becomes marijuana, sellable only in licensed stores and grown in state-licensed facilities.</p>\n<..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "Campaign to criminalize Massachusetts cannabis sales heavily outspending opposition",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/campaign-to-criminalize-massachusetts-cannabis-sales-heavily-outspending-opposition/617991/",
@@ -63,17 +70,17 @@
         "summary": "<p>An Arizona-based cannabis multistate operator closed an Ohio cannabis store after learning that state regulators are investigating at least two ser..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Delaware cannabis sales hit record in July, trail projections",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/delaware-cannabis-sales-hit-record-in-july-trail-projections/617960/",
-        "summary": "<p>Licensing delays have stalled the launch of retail-only stores, while high prices and limited options drive buyers to neighboring states.</p>\n<p><a..."
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "As midterms approach, new poll finds that few Americans trust campaigns or Trump",
+        "image": "https://media.zenfs.com/en/ap.org/aacaf541f7bf7cd141466fad5f1c5230.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/mistrust-us-government-information-rising-090559274.html",
+        "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump administration proposes dropping huge swath of immigrants from US\u00a0census",
-        "image": "https://media.zenfs.com/en/reuters.com/2c3e4c064cece8cf42d1450a04ef48d7.jpg",
-        "link": "https://www.yahoo.com/news/articles/trump-administration-proposes-dropping-huge-181104098.html",
+        "title": "Kelsey Grammer says Trump may go down as one of the best presidents",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/7ea80d3f7931177b13572597cb2403dd.png",
+        "link": "https://www.yahoo.com/entertainment/celebrity/articles/kelsey-grammer-says-trump-may-204623817.html",
         "summary": "..."
     },
     {
@@ -85,16 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Meta Ran Over 300 Ads With Suspected AI Child Abuse, NGO Says",
-        "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/369a5170afe1d42e6c67bb5d1443a940.jpg",
-        "link": "https://finance.yahoo.com/technology/ai/articles/meta-ran-over-300-ads-023109043.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Former Colorado crime analyst gets 10-year prison sentence for manipulating DNA data",
-        "image": "https://media.zenfs.com/en/ap.org/f77cec1ea9dc1b4fdf6b1ae5a81c22e5.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/former-colorado-crime-analyst-gets-202755255.html",
+        "title": "Trump administration proposes dropping huge swath of immigrants from US\u00a0census",
+        "image": "https://media.zenfs.com/en/reuters.com/2c3e4c064cece8cf42d1450a04ef48d7.jpg",
+        "link": "https://www.yahoo.com/news/articles/trump-administration-proposes-dropping-huge-181104098.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/3abcdb0cd85be8f9247066709e3506c3.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/unearthed-interview-exposes-talarico-thought-110007248.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Finland: Google announces \u20ac13 billion AI, energy investment",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/finland-google-announces-\u20ac13-billion-ai-energy-investment/a-79208034?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Google has announced a plan to expand AI data centers and buy massive amounts of nuclear energy. Finland's security services have warned of there are ..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-s-connection-to-the-september-11-2001-attacks/a-79202918?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The 9/11 attacks were partly planned in Hamburg, via the so-called Hamburg cell, whose members played key roles in the plot. A look back at a day that..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Serbia, the conflicted EU candidate",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/serbia-the-conflicted-eu-candidate/a-79203774?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "On paper, Belgrade has pursued EU membership for years. But accession has long been stalled. The hero's farewell given to war criminal Mladic exposed ..."
     }
 ]
