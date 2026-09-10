@@ -78,16 +78,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Kelsey Grammer says Trump may go down as one of the best presidents",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/7ea80d3f7931177b13572597cb2403dd.png",
-        "link": "https://www.yahoo.com/entertainment/celebrity/articles/kelsey-grammer-says-trump-may-204623817.html",
+        "title": "Colorado TPUSA chapter enrollment 'flat' after elderly supporter was struck by student with Taco Bell cup",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/a7db7a0454f37f3c5516183315cf52d3.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/colorado-tpusa-chapter-enrollment-flat-150031999.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Colorado TPUSA chapter enrollment 'flat' after elderly supporter was struck by student with Taco Bell cup",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/a7db7a0454f37f3c5516183315cf52d3.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/colorado-tpusa-chapter-enrollment-flat-150031999.html",
+        "title": "Unearthed interview exposes what Talarico thought about 'tough-on-crime' tactics",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/3abcdb0cd85be8f9247066709e3506c3.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/unearthed-interview-exposes-talarico-thought-110007248.html",
         "summary": "..."
     },
     {
@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Unearthed interview exposes what Talarico thought about 'tough-on-crime' tactics",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/3abcdb0cd85be8f9247066709e3506c3.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/unearthed-interview-exposes-talarico-thought-110007248.html",
+        "title": "Gavin Newsom expresses 'openness' to packing SCOTUS, calls Electoral College system 'perverted'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/15c7148dacbf80011d95e3df1508bcb6.png",
+        "link": "https://www.yahoo.com/news/politics/articles/gavin-newsom-expresses-openness-packing-222420268.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Philippines: Several killed, dozens missing after fire on ferry",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/philippines-several-killed-dozens-missing-after-fire-on-ferry/a-79208236?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Footage released by the Coast Guard showed the vessel engulfed in flames as rescuers brought bodies ashore in body bags. The ship's manifest listed 13..."
     },
     {
         "source": "Deutsche Welle",
@@ -127,16 +134,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Ceuta: EU grants Spain \u20ac115 million in emergency aid",
+        "title": "Ceuta: Documents show Spanish intelligence warned of crisis",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ceuta-eu-grants-spain-\u20ac115-million-in-emergency-aid/a-79206505?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The EU has said the funds will go toward bolstering border security and returning migrants to Morocco. The move comes in the wake of a crisis that saw..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany's connection to the September 11, 2001 attacks",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-connection-to-the-september-11-2001-attacks/a-79202918?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The 9/11 attacks were partly planned in Hamburg, via the so-called Hamburg cell, whose members played key roles in the plot. A look back at a day that..."
+        "link": "https://www.dw.com/en/ceuta-documents-show-spanish-intelligence-warned-of-crisis/a-79206505?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Spain declassified documents that showed warnings issued a day before more than 70,000 migrants rushed the Ceuta border fence. Meanwhile, the EU annou..."
     }
 ]
