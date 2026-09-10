@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "Federal hemp rules threaten 225,000 jobs and $8.9 billion in wages",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/federal-hemp-rules-threaten-jobs-and-wages/618019/",
+        "summary": "<p>A federal ban on intoxicating hemp products expected to take effect Dec. 11 threatens to reduce retail revenue by $28.3 billion.</p>\n<p><a href=\"ht..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "Trump medical marijuana rescheduling order survives initial challenge",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/trump-medical-marijuana-rescheduling-order-survives-initial-challenge/618016/",
@@ -63,17 +70,10 @@
         "summary": "<p>The national anti-marijuana group behind the push to outlaw the $1.65 billion annual Massachusetts cannabis industry is outspending the industry si..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Can South Africa challenge Canada for global cannabis export dominance?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/can-south-africa-challenge-canada-for-global-cannabis-export-dominance/617981/",
-        "summary": "<p>Canadian companies still dominate global cannabis exports, but a new challenger is emerging: South Africa, where producers are confident they can c..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump administration proposes dropping huge swath of immigrants from US\u00a0census",
-        "image": "https://media.zenfs.com/en/reuters.com/2c3e4c064cece8cf42d1450a04ef48d7.jpg",
-        "link": "https://www.yahoo.com/news/articles/trump-administration-proposes-dropping-huge-181104098.html",
+        "title": "As midterms approach, new poll finds that few Americans trust campaigns or Trump",
+        "image": "https://media.zenfs.com/en/ap.org/aacaf541f7bf7cd141466fad5f1c5230.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/mistrust-us-government-information-rising-090559274.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "IRS under Trump unlawfully shared taxpayer info with immigration authorities, court rules",
-        "image": "https://media.zenfs.com/en/reuters.com/76be9dfe418ca0d06256202903cbfbec.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/irs-under-trump-unlawfully-shared-192212347.html",
+        "title": "Trump administration proposes dropping huge swath of immigrants from US\u00a0census",
+        "image": "https://media.zenfs.com/en/reuters.com/2c3e4c064cece8cf42d1450a04ef48d7.jpg",
+        "link": "https://www.yahoo.com/news/articles/trump-administration-proposes-dropping-huge-181104098.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,13 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/894b0c7aa4c020921382c7b5124a6aac.png",
         "link": "https://www.yahoo.com/news/us/articles/surrogate-refused-abortion-takes-fight-224859688.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Algeria cuts diplomatic ties with UAE",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/algeria-cuts-diplomatic-ties-with-uae/a-79222141?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Algeria said that it was closing its airspace and severing ties with the United Arab Emirates. Algiers accuses Abu Dhabi of destabilizing countries su..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/25-years-after-9-11-al-qaeda-weakened-but-not-gone/a-79202457?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "25 years after 9/11, the terrorist group al-Qaeda is no longer the global terrorist organization it once was. Its central leadership has been weakened..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany sets its sights on Russia's shadow fleet",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-sets-its-sights-on-russia-s-shadow-fleet/a-79211123?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The German government wants to follow other EU countries and take more decisive action against Russia's shadow fleet, accusing it of helping Moscow ev..."
     }
 ]
