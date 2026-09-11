@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "Illinois adult-use cannabis retailers scoop up MMJ permits",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/illinois-adult-use-cannabis-retailers-scoop-up-mmj-permits/618043/",
+        "summary": "<p>Illinois adult-use retailers can now apply for a medical marijuana license under SB 3222, unlocking DEA eligibility and 280E tax relief. </p>\n<p><a..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "Republican gubernatorial candidate courts Michigan cannabis industry, vows to kill new 24% MJ tax",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/republican-gubernatorial-candidate-courts-michigan-cannabis-industry-vows-to-kill-new-24-mj-tax/618038/",
@@ -63,13 +70,6 @@
         "summary": "<p>But the ruling doesn't close out a legal challenge to marijuana rescheduling.</p>\n<p><a href=\"https://mjbizdaily.com/news/trump-medical-marijuana-r..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Why cannabis growers are locking in harvest labor now",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/why-cannabis-growers-are-locking-in-harvest-labor-now/617977/",
-        "summary": "<p>Croptober drives cannabis hiring to its yearly peak, with Vangst issuing 10,000 W2s. </p>\n<p><a href=\"https://mjbizdaily.com/news/why-cannabis-grow..."
-    },
-    {
         "source": "Yahoo News - Latest News & Headlines",
         "title": "Trump administration lends $100M to US-owned cell phone network in Africa to expand American tech",
         "image": "https://media.zenfs.com/en/ap.org/f47dc67355d5ed54fdd2fae1591e68f6.jpg",
@@ -85,24 +85,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Appeals Court Grants Immunity to Texas Cops Who Held Handcuffed Woman Face Down in a Fire Ant Hill",
-        "image": "https://media.zenfs.com/en/reason_com_245/c1ced843485301662b18e0d6c04b0fd0.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/appeals-court-grants-immunity-texas-190152694.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Andy Card and Walter Isaacson Share Reflections on 9/11 Attacks",
-        "image": "https://media.zenfs.com/en/nbcu_713/2428746ba6226f07a3554d693c04c499.jpg",
-        "link": "https://www.yahoo.com/news/videos/andy-card-walter-isaacson-share-125911354.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Surrogate who refused abortion takes fight to Supreme Court as baby's life hangs in balance",
         "image": "https://media.zenfs.com/en/fox_news_text_979/894b0c7aa4c020921382c7b5124a6aac.png",
         "link": "https://www.yahoo.com/news/us/articles/surrogate-refused-abortion-takes-fight-224859688.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Former Canadian leader Jean Chr\u00e9tien tells US: \u2018Never mistake our generosity for weakness'",
+        "image": "https://media.zenfs.com/en/ap.org/318cfe8db6e5d5328800a5fb5262bc74.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/former-canadian-leader-jean-chr-202036796.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Oakland schools in hot seat over 'students of color' program while taking millions in federal funding",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/971a1e5bc4c1a777095a00cd580dc61f.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/oakland-schools-hot-seat-over-140050214.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "France: About 20 injured in train derailment",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/france-about-20-injured-in-train-derailment/a-79241365?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The train derailed between Rouen and Caen in Normandy, northwest France, on Friday evening. France's transport minister cautioned that the casualty to..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/india-s-brics-strategy-tested-with-xi-putin-set-to-visit/a-79231879?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "New Delhi's \"America Plus\" approach sees India deepening its ties with China and Russia, while also trying to keep BRICS from turning into an anti-Wes..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Uber leaves two key African markets \u2014 and their drivers in despair",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uber-leaves-two-key-african-markets-and-their-drivers-in-despair/a-79232189?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Uber's departure from Nigeria and Uganda has left countless customers high and dry. But what about drivers? With fuel prices, maintenance and other op..."
     }
 ]
