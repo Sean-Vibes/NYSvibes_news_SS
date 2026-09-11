@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "As midterms approach, new poll finds that few Americans trust campaigns or Trump",
-        "image": "https://media.zenfs.com/en/ap.org/aacaf541f7bf7cd141466fad5f1c5230.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/mistrust-us-government-information-rising-090559274.html",
+        "title": "Judge accused of enabling immigrant to escape ICE gets a rare public reprimand",
+        "image": "https://media.zenfs.com/en/ap.org/bfd04eacd85fc05b415e50cc020888f8.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/judge-accused-enabling-immigrant-escape-170343303.html",
         "summary": "..."
     },
     {
@@ -92,9 +92,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump administration proposes dropping huge swath of immigrants from US\u00a0census",
-        "image": "https://media.zenfs.com/en/reuters.com/2c3e4c064cece8cf42d1450a04ef48d7.jpg",
-        "link": "https://www.yahoo.com/news/articles/trump-administration-proposes-dropping-huge-181104098.html",
+        "title": "Republicans showcase their 'big beautiful bill' to voters, but the law's impact has been mixed",
+        "image": "https://media.zenfs.com/en/ap.org/f2fb9baa42c8597fc61e95374534b7ff.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/republicans-showcase-big-beautiful-bill-120542075.html",
         "summary": "..."
     },
     {
@@ -103,6 +103,20 @@
         "image": "https://media.zenfs.com/en/fox_news_text_979/894b0c7aa4c020921382c7b5124a6aac.png",
         "link": "https://www.yahoo.com/news/us/articles/surrogate-refused-abortion-takes-fight-224859688.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Why are European banks moving their gold out of the US?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/why-are-european-banks-moving-their-gold-out-of-the-us/a-79213013?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Netherlands and France have moved their gold out of US vaults. Part of the reason is fear over US reliability, but equally important is the need t..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Spanish lawmakers back citizenship for Sahrawis",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/spanish-lawmakers-back-citizenship-for-sahrawis/a-79222841?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Spanish lawmakers approved a bill that could give citizenship to tens of thousands of Sahrawis and their descendants, amid tense ties with Morocco. Th..."
     },
     {
         "source": "Deutsche Welle",
@@ -120,23 +134,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Digital data leeches: trading on our profiles",
+        "title": "Digital data leeches: Trading on our profiles",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/digital-data-leeches-trading-on-our-profiles/a-79219770?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "US tech companies gather, link, and sell more and more information about their users. The scandal involving the dating app Grindr shows how easy it is..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Canada, Ukraine pledge 100-year partnership",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/canada-ukraine-pledge-100-year-partnership/a-79209534?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukrainian President Volodymyr Zelenskyy said that Canada would provide Ukraine with a \"very important\" air defense package...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "25 years after 9/11: Al-Qaeda weakened but not gone",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/25-years-after-9-11-al-qaeda-weakened-but-not-gone/a-79202457?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "25 years after 9/11, the terrorist group al-Qaeda is no longer the global terrorist organization it once was. Its central leadership has been weakened..."
     }
 ]
