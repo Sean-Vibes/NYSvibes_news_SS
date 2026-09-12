@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Africa's top health body warns Congo\u2019s Ebola outbreak is rapidly spreading beyond epicenter",
-        "image": "https://media.zenfs.com/en/ap.org/d53c44e1aa12d6e2271a98dda01c8201.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/africas-top-health-body-warns-184659732.html",
+        "title": "Trump administration lends $100M to US-owned cell phone network in Africa to expand American tech",
+        "image": "https://media.zenfs.com/en/ap.org/f47dc67355d5ed54fdd2fae1591e68f6.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-lends-100m-us-130435559.html",
         "summary": "..."
     },
     {
@@ -85,24 +85,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "California woman chased, fatally shot by illegal immigrant DoorDash driver who stalked her for months: DHS",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/c07fb21a9ea09236c41bdb0b0c9c34ab",
-        "link": "https://www.yahoo.com/news/us/articles/california-woman-chased-fatally-shot-193220227.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump administration lends $100M to US-owned cell phone network in Africa to expand American tech",
-        "image": "https://media.zenfs.com/en/ap.org/f47dc67355d5ed54fdd2fae1591e68f6.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-lends-100m-us-130435559.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Fed\u2019s Rate Decision May Have Come Down to Phone Plan Changes",
         "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/bbe106bbe7f74bc50afe7b34597a852b.jpg",
         "link": "https://finance.yahoo.com/economy/policy/articles/fed-rate-decision-may-come-154304847.html",
         "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "More than 500,000 Russian troops killed in Ukraine, UK defense chief says",
+        "image": "https://media.zenfs.com/en/ap.org/c16e0f0123cec92216f03e6d20dfb7d2.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/russian-drones-target-kyiv-gas-094434012.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Shouts of \u2018he should be shot\u2019 heard during GOP midterm convention speech criticizing Democratic candidates",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/a0d8789f1659cf45a6f82e033c5d9df8.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/shouts-shot-heard-during-gop-015453481.html",
+        "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Why are European banks moving gold out of United States?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/why-are-european-banks-moving-gold-out-of-united-states/a-79213013?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Netherlands and France have moved their gold out of US vaults. Part of the reason is fears about the reliability of the US, but equally important ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine: Several killed in series of Russian strikes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-several-killed-in-series-of-russian-strikes/a-79245980?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Local authorities said several civilians were killed and dozens more wounded across Ukraine by Russian strikes. Meanwhile, the Kremlin has rejected Vo..."
     },
     {
         "source": "Deutsche Welle",
@@ -123,20 +137,6 @@
         "title": "Uganda lays 'boy king' Oyo to rest amid succession row",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/uganda-lays-boy-king-oyo-to-rest-amid-succession-row/a-79243428?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A funeral is underway for King Oyo Nyimba, who was crowned in the Tooro Kingdom in 1995 aged just 3. His death at 34 has triggered a dispute over a su..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "BRICS summit leaders urge 'maximum restraint' in Middle East",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/brics-summit-leaders-urge-maximum-restraint-in-middle-east/live-79224239?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The joint declaration at the BRICS 2026 summit expressed 'deep concern' over hostilities in the Middle East. China's President Xi Jinping said the Ira..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russian GRU spies behind failed Leipzig attack: reports",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russian-gru-spies-behind-failed-leipzig-attack-reports/a-79244858?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A German newspaper has cited reports tying a failed attack at Leipzig Airport to Moscow's GRU military intelligence agency. One suspect's ties to GRU ..."
+        "summary": "Uganda has buried King Oyo Nyimba, who was crowned in the Tooro Kingdom in 1995 aged just 3. His death at 34 has triggered a dispute over a successor,..."
     }
 ]
