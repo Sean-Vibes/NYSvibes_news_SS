@@ -71,9 +71,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russian nuclear head says Ukraine attacked fuel trucks, endangered Zaporizhzhia plant",
-        "image": "https://media.zenfs.com/en/reuters.com/506fa40c629259f8883c4620d2226b6a.jpg",
-        "link": "https://www.yahoo.com/news/articles/russian-nuclear-head-says-ukraine-070250520.html",
+        "title": "Convicted sex offender offered opening prayer at rally for GOP Senate nominee in North Carolina",
+        "image": "https://media.zenfs.com/en/ap.org/df025d42953d716621e3718250b2fb34.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/convicted-sex-offender-offered-opening-214710553.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Arrest rips apart media narrative on death of Black woman found hanging from Mississippi tree",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/4acb02020d0f25184611b037773395d0.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/arrest-rips-apart-media-narrative-172440117.html",
         "summary": "..."
     },
     {
@@ -85,13 +92,6 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "El-Sayed ignites firestorm after sharing 9/11 message on social media: 'Piece of s---'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/48583494c726ee1afd27c2791cb1fc3a.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/el-sayed-ignites-firestorm-sharing-001111620.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
         "title": "Union leader behind California billionaires' tax proposal accused of threatening, harassing women",
         "image": "https://media.zenfs.com/en/ap.org/fa1b902e7833b3d348d8a95eb0b08a8c.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/union-leader-behind-california-billionaires-232212098.html",
@@ -99,10 +99,17 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "GOP women sound alarm as Lindsay Clancy backlash revives calls to repeal 19th Amendment: \u2018Definitely a threat\u2019",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/4d004b45b9ebbe50b247a6099af58d7a.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/gop-women-sound-alarm-lindsay-120027677.html",
+        "title": "El-Sayed ignites firestorm after sharing 9/11 message on social media: 'Piece of s---'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/48583494c726ee1afd27c2791cb1fc3a.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/el-sayed-ignites-firestorm-sharing-001111620.html",
         "summary": "..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Sweden election: Center-left coalition leads initial polls",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/sweden-election-center-left-coalition-leads-initial-polls/a-79248599?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The left-wing opposition led by former PM Andersson held a lead narrow lead, according to exit polls...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/croatia-monster-fire-triggers-evacuation-on-brac-island/a-79250480?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A rapidly spreading wildfire threatened homes and tourist accommodations on the Croatian island of Brac, with firefighters battling the blaze overnigh..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Vanuatu ferry capsize leaves one dead, 30 missing",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/vanuatu-ferry-capsize-leaves-one-dead-30-missing/a-79249954?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Rescue efforts have been slow after a South Pacific inter-island ferry sank in bad weather on Friday. An investigation has already begun into negligen..."
     }
 ]
