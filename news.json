@@ -71,9 +71,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Convicted sex offender offered opening prayer at rally for GOP Senate nominee in North Carolina",
-        "image": "https://media.zenfs.com/en/ap.org/df025d42953d716621e3718250b2fb34.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/convicted-sex-offender-offered-opening-214710553.html",
+        "title": "House Speaker Mike Johnson says Trump's $5,000 'dividend' needs congressional approval",
+        "image": "https://media.zenfs.com/en/ap.org/0727d1a7b5e836f7fffbce7289cf7cc6.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/house-speaker-mike-johnson-says-184540398.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Popular GLP-1 weight-loss drugs linked to potentially deadly brain disorder",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/a0b085bcb569e1eedd572a6b669276b5.jpg",
+        "link": "https://health.yahoo.com/your-body/weight-management/weight-loss/articles/popular-glp-1-weight-loss-170019957.html",
         "summary": "..."
     },
     {
@@ -85,31 +92,31 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Pete Buttigieg: It\u2019s \u2018deeply dangerous\u2019 for Congress to \u2018sit on its hands\u2019 over AI regulation",
+        "image": "https://media.zenfs.com/en/nbcu_713/005a8397e83a223d2421e5ff97207730.jpg",
+        "link": "https://www.yahoo.com/news/videos/pete-buttigieg-deeply-dangerous-congress-134124554.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Pennsylvania lawmaker suggests Trump should rename Lake Erie to 'Lake Pennsylvania'",
         "image": "https://media.zenfs.com/en/fox_news_text_979/1be47cf0f48bbe1821980f4e0b54df30.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/pennsylvania-lawmaker-suggests-trump-rename-100349657.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Union leader behind California billionaires' tax proposal accused of threatening, harassing women",
-        "image": "https://media.zenfs.com/en/ap.org/fa1b902e7833b3d348d8a95eb0b08a8c.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/union-leader-behind-california-billionaires-232212098.html",
-        "summary": "..."
-    },
-    {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "El-Sayed ignites firestorm after sharing 9/11 message on social media: 'Piece of s---'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/48583494c726ee1afd27c2791cb1fc3a.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/el-sayed-ignites-firestorm-sharing-001111620.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Germany's Zverev wins US Open in golden year",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-s-zverev-wins-us-open-in-golden-year/a-79212706?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Alexander Zverev has won the US Open for the first time, defeating Ben Shelton in the final. It is Zverev's second Grand Slam win of 2026 after a long..."
     },
     {
         "source": "Deutsche Welle",
         "title": "Sweden election: Center-left coalition leads initial polls",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/sweden-election-center-left-coalition-leads-initial-polls/a-79248599?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The left-wing opposition led by former PM Andersson held a lead narrow lead, according to exit polls...."
+        "summary": "The left-wing opposition led by former PM Andersson held a narrow lead, according to exit polls...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/russians-on-the-goethe-institut-hostage-to-politics/a-79218936?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Canceled language exams, disrupted plans to study in Germany and the disappearance of an important cultural link: DW users shared how the closure of G..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Croatia: 'Monster' fire triggers evacuation on Brac island",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/croatia-monster-fire-triggers-evacuation-on-brac-island/a-79250480?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A rapidly spreading wildfire threatened homes and tourist accommodations on the Croatian island of Brac, with firefighters battling the blaze overnigh..."
     }
 ]
