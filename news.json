@@ -85,16 +85,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Arrest rips apart media narrative on death of Black woman found hanging from Mississippi tree",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/4acb02020d0f25184611b037773395d0.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/arrest-rips-apart-media-narrative-172440117.html",
+        "title": "Hasan Piker doubles down, defends his 'God-given right' to say how much he hates America",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/be3646ba6b9b3b27449e9837b56ee0c9.jpg",
+        "link": "https://www.yahoo.com/entertainment/celebrity/articles/hasan-piker-doubles-down-defends-212959412.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Pete Buttigieg: It\u2019s \u2018deeply dangerous\u2019 for Congress to \u2018sit on its hands\u2019 over AI regulation",
-        "image": "https://media.zenfs.com/en/nbcu_713/005a8397e83a223d2421e5ff97207730.jpg",
-        "link": "https://www.yahoo.com/news/videos/pete-buttigieg-deeply-dangerous-congress-134124554.html",
+        "title": "Trump says 'very negative forces' raising exaggerated concerns over AI",
+        "image": "https://media.zenfs.com/en/reuters.com/87015b1344bd90c0986a13efe7cedac7.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-says-very-negative-forces-142843614.html",
         "summary": "..."
     },
     {
@@ -106,17 +106,24 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Germany: CDU ahead in Lower Saxony local election",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-cdu-ahead-in-lower-saxony-local-election/live-79223427?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The CDU is on course to win in municipal polls in the northwestern state of Lower Saxony that were seen as a gauge of support for the far-right AfD pa..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Sweden election 'very close' as left bloc claims tight lead",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/sweden-election-very-close-as-left-bloc-claims-tight-lead/a-79248599?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The left-wing opposition is narrowly ahead, but it will be \"very close,\" Social Democrat leader Andersson said. The far-right Sweden Democrats surpris..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Germany's Zverev wins US Open in golden year",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-s-zverev-wins-us-open-in-golden-year/a-79212706?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Alexander Zverev has won the US Open for the first time, defeating Ben Shelton in the final. It is Zverev's second Grand Slam win of 2026 after a long..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Sweden election: Center-left coalition leads initial polls",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/sweden-election-center-left-coalition-leads-initial-polls/a-79248599?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The left-wing opposition led by former PM Andersson held a narrow lead, according to exit polls...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukraine-poland-say-russia-hit-warsaw-bound-passenger-train/a-79251428?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The strike hit a locomotive of a passenger train headed to Warsaw with reports that senior Western figures were at the station shortly before the atta..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russians on the Goethe-Institut: 'Hostage to politics'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russians-on-the-goethe-institut-hostage-to-politics/a-79218936?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Canceled language exams, disrupted plans to study in Germany and the disappearance of an important cultural link: DW users shared how the closure of G..."
     }
 ]
