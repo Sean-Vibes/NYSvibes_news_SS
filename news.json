@@ -71,9 +71,16 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "McConnell returns to the Senate for the first time since his June hospitalization",
-        "image": "https://media.zenfs.com/en/ap.org/0e528f75c96f0a01e3ef2e72f8d628a2.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/mcconnell-hell-vote-senate-first-215740619.html",
+        "title": "A Christian pastor called Arapaho ceremonies 'idol worship.' Now the tribe wants her church gone",
+        "image": "https://media.zenfs.com/en/ap.org/3e7223c3b11227edc56e45e22eec2d66.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/christian-pastor-called-arapaho-ceremonies-120445820.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Family of Alaska teen who survived 62 hours at sea reveals what saved him",
+        "image": "https://media.zenfs.com/en/newsnation_articles_600/cac4b188eda2369ccb041d7d7fe04ab3.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/family-alaska-teen-survived-62-214614924.html",
         "summary": "..."
     },
     {
@@ -85,24 +92,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "FCC Chairman Brendan Carr accuses James Talarico of running a 'hoax' over equal time statute",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/b955b56582bd4cbe7a732f77036280db.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/fcc-chairman-brendan-carr-accuses-163016321.html",
+        "title": "House Speaker Mike Johnson says Trump's $5,000 'dividend' needs congressional approval",
+        "image": "https://media.zenfs.com/en/ap.org/0727d1a7b5e836f7fffbce7289cf7cc6.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/house-speaker-mike-johnson-says-184540398.html",
         "summary": "..."
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Ukraine will support energy ceasefire if US ensures Moscow's intent, Zelenskiy says",
-        "image": "https://media.zenfs.com/en/reuters.com/8fe9d9377f213bb8339120dd6ed9518f.jpg",
-        "link": "https://www.yahoo.com/news/articles/ukraine-wants-specifics-partners-halting-174643478.html",
+        "title": "Russia readies new 500-mile missile as weapon expert warns of 'terminal end game surprises'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/55b281ea38942833afff516026c2ccf7.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/russia-readies-500-mile-missile-200439959.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Inside House Republicans' plan to end run Dem opposition and pass Trump-backed voter ID",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/2f971fe6a2207ae2fdb0c82a442f89ba.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/inside-house-republicans-plan-end-164157711.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "US Supreme Court denies Trump bid to restrict mail-in ballots",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-supreme-court-denies-trump-bid-to-restrict-mail-in-ballots/a-79267854?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The court said election officials do not have sufficient time to implement the rule before the November midterms. Trump has argued, without providing ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Merz urges CDU discipline as pressure grows",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-merz-urges-cdu-discipline-as-pressure-grows/live-79256902?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Chancellor Friedrich Merz has urged his party to stay disciplined as pressure grows over his leadership. Meanwhile, Germany's homeownership rate has f..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Kremlin-linked Russian oligarch helped fund Trump Jr.'s wedding celebration",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/kremlin-linked-russian-oligarch-helped-fund-trump-jr-s-wedding-celebration/a-79267341?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Trump's son and his wife confirmed reports that Umar Kremlev paid for parts of the festivities. Kremlev was awarded the \"Order of Friendship\" by Putin..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukraine-russia-set-for-new-round-of-us-mediated-talks/a-79261147?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "New trilateral talks between Ukraine, Russia and the US could begin in October, according to Kyiv and Moscow. Few expect a breakthrough, but Ukraine i..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump seeks halt to energy attacks by both Russia, Ukraine",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-seeks-halt-to-energy-attacks-by-both-russia-ukraine/a-79265774?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Donald Trump, under fire for record US diesel prices, claims Russia and Ukraine have agreed to stop striking energy targets. Russia said nothing; Ukra..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Donald Trump dismisses concerns about dangers of AI",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/donald-trump-dismisses-concerns-about-dangers-of-ai/a-79264523?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The president called efforts to slow the development of artificial intelligence a \"sick conspiracy,\" claiming they only serve China. Market leaders ha..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Yemen's Houthis attack Saudis, seize crucial Red Sea islands",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/yemen-s-houthis-attack-saudis-seize-crucial-red-sea-islands/a-79263838?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Iran-backed Houthi rebels have tightened their grip on a key shipping route, capturing two strategic Red Sea islands. The closure of another global tr..."
     }
 ]
