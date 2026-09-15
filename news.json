@@ -85,24 +85,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Russia readies new 500-mile missile as weapon expert warns of 'terminal end game surprises'",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/55b281ea38942833afff516026c2ccf7.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/russia-readies-500-mile-missile-200439959.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "Trump says 'very negative forces' raising exaggerated concerns over AI",
+        "image": "https://media.zenfs.com/en/reuters.com/87015b1344bd90c0986a13efe7cedac7.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-says-very-negative-forces-142843614.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Joe Manchin says he supports Republican candidates in battleground Senate races in Maine and Michigan",
         "image": "https://media.zenfs.com/en/cnn_articles_875/185f190034223d741226b0d3edabbb49.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/joe-manchin-says-supports-republican-182316577.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "House Speaker Mike Johnson says Trump's $5,000 'dividend' needs congressional approval",
-        "image": "https://media.zenfs.com/en/ap.org/0727d1a7b5e836f7fffbce7289cf7cc6.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/house-speaker-mike-johnson-says-184540398.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "US scraps greenhouse gas rules for power plants",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-scraps-greenhouse-gas-rules-for-power-plants/a-79268393?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Environmental Protection Agency said it was repealing Biden-era limits on emissions made by power plants, in the \"largest power sector deregulatio..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Russia readies new 500-mile missile as weapon expert warns of 'terminal end game surprises'",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/55b281ea38942833afff516026c2ccf7.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/russia-readies-500-mile-missile-200439959.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "NATO jets shoot down drone over Lithuania",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/nato-jets-shoot-down-drone-over-lithuania/a-79267975?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Lithuania has reported frequent drone incursions since Moscow launched its war against Ukraine. Lithuanian media reports suggest the drone was coming ..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/kremlin-linked-russian-oligarch-helped-fund-trump-jr-s-wedding-celebration/a-79267341?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Trump's son and his wife confirmed reports that Umar Kremlev paid for parts of the festivities. Kremlev was awarded the \"Order of Friendship\" by Putin..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Arctic power plays: EU searches for a new strategy",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/arctic-power-plays-eu-searches-for-a-new-strategy/a-79266739?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russia\u2019s aggression, Trump\u2019s threats against Greenland and the race for critical raw materials are pushing the Arctic to the top of Europe\u2019s agenda...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine, Russia set for new round of US-mediated talks",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-russia-set-for-new-round-of-us-mediated-talks/a-79261147?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "New trilateral talks between Ukraine, Russia and the US could begin in October, according to Kyiv and Moscow. Few expect a breakthrough, but Ukraine i..."
     }
 ]
