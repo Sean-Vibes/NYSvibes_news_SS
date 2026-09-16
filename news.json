@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "Trump nominates wife of 'God Bless the USA' singer Lee Greenwood to serve as US ambassador",
-        "image": "https://media.zenfs.com/en/ap.org/572e00a29c537d8cf3f416113e6dcf2b.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-nominates-wife-god-bless-220245900.html",
+        "title": "$1.1 billion from Nike co-founder will build Oregon\u2019s first women\u2019s hospital",
+        "image": "https://media.zenfs.com/en/ap.org/cc69fd0e89ca608c067a82866dbc00e2.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/1-1-billion-nike-co-165720175.html",
         "summary": "..."
     },
     {
@@ -106,6 +106,13 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "AI leaders call for regulations, Trump dismisses 'hoaxes'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ai-leaders-call-for-regulations-trump-dismisses-hoaxes/a-79284638?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "AI giants are working to create a standards body amid rising alarms about the dangers of the industry. Meanwhile, Trump has dismissed the warnings, an..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Criticism of LGBTQ+ raids in Turkey is growing",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/criticism-of-lgbtq-raids-in-turkey-is-growing/a-79284021?maca=en-rss-en-all-1573-xml-mrss",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/south-africa-now-probing-deaths-of-8-women-near-johannesburg/a-79278296?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Police have warned women to take extra care in parts of Johannesburg as similarities between at least eight deaths fuel fears that the cases could be ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why do authoritarian regimes target the LGBTQ+ community?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-do-authoritarian-regimes-target-the-lgbtq-community/a-79276831?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A recent crackdown on the LGBTQ+ community in Turkey is symptomatic of a wider rights regression, according to experts. It's worse under authoritarian..."
     }
 ]
