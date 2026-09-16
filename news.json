@@ -71,9 +71,9 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
-        "title": "$1.1 billion from Nike co-founder will build Oregon\u2019s first women\u2019s hospital",
-        "image": "https://media.zenfs.com/en/ap.org/cc69fd0e89ca608c067a82866dbc00e2.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/1-1-billion-nike-co-165720175.html",
+        "title": "A Christian pastor called Arapaho ceremonies 'idol worship.' Now the tribe wants her church gone",
+        "image": "https://media.zenfs.com/en/ap.org/3e7223c3b11227edc56e45e22eec2d66.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/christian-pastor-called-arapaho-ceremonies-120445820.html",
         "summary": "..."
     },
     {
@@ -85,24 +85,38 @@
     },
     {
         "source": "Yahoo News - Latest News & Headlines",
+        "title": "Joe Manchin says he supports Republican candidates in battleground Senate races in Maine and Michigan",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/185f190034223d741226b0d3edabbb49.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/joe-manchin-says-supports-republican-182316577.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
+        "title": "As the last US troops pack up in Iraq, militias signal their weapons will stay",
+        "image": "https://media.zenfs.com/en/ap.org/38d321f3f160c3173685a0efefc8d34a.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/last-us-troops-pack-iraq-051346700.html",
+        "summary": "..."
+    },
+    {
+        "source": "Yahoo News - Latest News & Headlines",
         "title": "Georgia mayor, 23, ousted 10 months after making history as state\u2019s youngest mayor",
         "image": "https://media.zenfs.com/en/fox_news_text_979/327837fe6fb51e7ab8b6399fea2130af.jpg",
         "link": "https://www.yahoo.com/news/us/articles/georgia-mayor-23-ousted-10-021133213.html",
         "summary": "..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "McConnell returns to the Senate for the first time since his June hospitalization",
-        "image": "https://media.zenfs.com/en/kare_tegna_videos_906/d6e9737f24f7fbf7f5a6ec1ae327c7c6.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/mcconnell-hell-vote-senate-first-215740619.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Saudi Arabia says Houthis target Mecca, warns of 'red line'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/saudi-arabia-says-houthis-target-mecca-warns-of-red-line/a-79285099?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Saudi-led coalition said its air defenses had destroyed a Houthi-deployed drone just outside the holy city of Mecca \u2014 a claim Houthis were quick t..."
     },
     {
-        "source": "Yahoo News - Latest News & Headlines",
-        "title": "Joe Manchin says he supports Republican candidates in battleground Senate races in Maine and Michigan",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/185f190034223d741226b0d3edabbb49.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/joe-manchin-says-supports-republican-182316577.html",
-        "summary": "..."
+        "source": "Deutsche Welle",
+        "title": "Supporting acts pull out of Ed Sheeran's tour over dropping Macklemore",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/supporting-acts-pull-out-of-ed-sheeran-s-tour-over-dropping-macklemore/a-79284880?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Macklemore was dropped over his pro-Palestinian stance, amid accusations of antisemitism. Sheeran said removing the artist was not his decision but th..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/high-fuel-prices-challenge-the-german-government/a-79282456?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Chancellor Friedrich Merz wants to provide relief to motorists. But exactly how this is to happen remains unclear...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Knobloch: 'It is a very dangerous situation at the moment'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/knobloch-it-is-a-very-dangerous-situation-at-the-moment/a-79278429?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Charlotte Knobloch survived the Holocaust by passing as the daughter of non-Jewish farmers. She recently spoke with DW to express her shock following ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "South Africa now probing deaths of 8 women near Johannesburg",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/south-africa-now-probing-deaths-of-8-women-near-johannesburg/a-79278296?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Police have warned women to take extra care in parts of Johannesburg as similarities between at least eight deaths fuel fears that the cases could be ..."
     }
 ]
