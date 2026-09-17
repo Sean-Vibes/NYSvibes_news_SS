@@ -71,10 +71,31 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "House panel votes to hold billionaire Leon Black in contempt in Epstein probe",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/3ce144df69e0d72802b4194cfd6991fc.jpg_c768cc4f10ee5fe4f6a1254060492c99fbf0b0f10415e317a62818b59ab8f89d.jpg",
-        "link": "https://www.usatoday.com/story/news/politics/2026/09/16/leon-black-epstein-james-comer/91792494007/",
-        "summary": "<p>A key House panel investigating law enforcement's handling of the Jeffrey Epstein case has voted to hold the investor and hedge fund manager Leon B..."
+        "title": "Trump slams Fed rate hike and says he told Warsh 'you might as well vote with the board'",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/32d6ff8f-2250-43cb-8434-e7172b752e06_34aa123c5cd44b43d2cc05e9d3875456dceb666d8ffcfdbd414d7780d83a9480.jpg",
+        "link": "https://finance.yahoo.com/economy/policy/article/trump-slams-the-fed-rate-hike-says-he-told-warsh-you-might-as-well-vote-with-the-board-205145796.html",
+        "summary": "<p style=\"text-align: left;\">President Trump reacted to <a class=\"link\" href=\"https://finance.yahoo.com/economy/policy/article/fed-raises-interest-rat..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "NBC L.A. helicopter's final broadcast could hold key clue to deadly crash",
+        "image": "https://media.zenfs.com/en/la_times_articles_853/9c3a99efd44928ca4fce4f11e4f918bc.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/dramatic-recording-could-help-answer-221346622.html",
+        "summary": "<figure><img alt=\"Aerials of the NBC4 news helicopter crash in Chatsworth.\" height=\"560\" src=\"https://media.zenfs.com/en/la_times_articles_853/9c3a99e..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Macklemore and Robert Kraft pledge millions amid Ed Sheeran tour controversy",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-ed-sheeran-macklemore_9355.jpg",
+        "link": "https://www.yahoo.com/news/us/article/opening-acts-are-abandoning-ed-sheerans-tour-after-macklemore-was-dropped-over-his-pro-palestinian-comments-211418941.html",
+        "summary": "<p style=\"text-align: left;\">Macklemore on Wednesday pledged to donate the \u201c<a class=\"link\" href=\"https://www.instagram.com/p/DdXFZLNARm4/?hl=en&amp;i..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "House passes Russia sanctions bill championed by Lindsey Graham",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/5b8f2416-857a-436d-a79b-e1fe1ff74083_c59574b8d7e099facc36c32971e896b0b9c81dedae07adfe234a27e8ccc0e9fe.jpg",
+        "link": "https://www.politico.com/news/2026/09/16/house-russia-sanctions-bill-trump-01081210",
+        "summary": "<p>The House passed the <a href=\"https://legislation.politicopro.com/bill/US_119_HR_5334\" target=\"_blank\">sweeping Russia sanctions bill</a> long cham..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -84,25 +105,25 @@
         "summary": "<p style=\"text-align: left;\">The Federal Reserve raised interest rates on Wednesday, marking its first hike in more than three years, in a move that w..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Fed hikes interest rates for 1st time in 3 years in unanimous decision",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bd29aae2-b02b-40cb-ac2d-ee94bd82ccf9_93f47fcd2665744b266333c4ea0b3610b5df20ab75918ee39d461e4d631ee448.jpg",
-        "link": "https://finance.yahoo.com/economy/policy/article/fed-raises-interest-rates-by-a-quarter-point-in-unanimous-decision-marking-first-hike-in-3-years-171212149.html",
-        "summary": "<p style=\"text-align: left;\">The Federal Reserve raised interest rates for the first time in three years in a unanimous decision on Wednesday, with ce..."
+        "source": "Deutsche Welle",
+        "title": "How climate change worsened Nepal's deadly mountain collapse",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/how-climate-change-worsened-nepal-s-deadly-mountain-collapse/a-79293578?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A glacier and rock collapse in Nepal killed nearly 1,400 people and left thousands missing. Scientists say decades of warming helped set the disaster ..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "House speaker sends lawmakers home early ahead of midterm election recess",
-        "image": "https://media.zenfs.com/en/the_guardian_765/30b1aab6e71480a81c5018f8ef8d4e1a.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/house-speaker-sending-lawmakers-home-162641013.html",
-        "summary": "<figure>\n<img src=\"https://media.zenfs.com/en/the_guardian_765/30b1aab6e71480a81c5018f8ef8d4e1a.jpg\" />\n<figcaption>\n<span>The speaker of the House, M..."
+        "source": "Deutsche Welle",
+        "title": "US Congress passes Russia sanctions bill",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-congress-passes-russia-sanctions-bill/a-79299088?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The sanctions package is considered the most substantial US legislative effort against Moscow since Trump returned to the White House. Measures in the..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Ed Sheeran has 10 U.S. shows left \u2014 and no backing band or opening acts",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-ed-sheeran_1995.jpg",
-        "link": "https://www.yahoo.com/news/us/article/every-act-on-ed-sheerans-tour-has-quit-his-next-show-is-in-3-days-174613425.html",
-        "summary": "<p style=\"text-align: left;\">The fate of Ed Sheeran's Loop Tour is <a class=\"link\" href=\"https://www.yahoo.com/news/us/article/opening-acts-are-abando..."
+        "source": "Deutsche Welle",
+        "title": "Sweden's center-left bloc set to win election, STV reports",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/sweden-s-center-left-bloc-set-to-win-election-stv-reports/a-79299076?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The center-left opposition won the Swedish elections by a very slim margin, the public broadcaster reported after 99% of the votes were counted. Thorn..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-oktoberfest-beer-prices-rise-outpacing-inflation/a-79296932?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Oktoberfest's traditional beer mug, the Mass, will cost an average of \u20ac15.61 ($18.50) at this year's festival in Munich...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UK: Village votes to 'secede' in asylum center plan protest",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-village-votes-to-secede-in-asylum-center-plan-protest/a-79295826?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Residents of Piddington, a tiny, remote village in Oxfordshire in England, have staged a \"referendum\" on leaving the UK. They are objecting to plans t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Chancellor Merz seeks CDU support as AfD encroaches",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/chancellor-merz-seeks-cdu-support-as-afd-encroaches/a-79290192?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Following the CDU's crushing defeat in the Saxony-Anhalt state election, many are expressing doubts about the party's leader, Chancellor Friedrich Mer..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Can Canada and the EU build a deeper partnership?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/can-canada-and-the-eu-build-a-deeper-partnership/a-79295388?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Canadian Prime Minister Carney is known for standing up to US President Donald Trump. Now he wants to forge a \"unique alliance\" with Europe. But what ..."
     }
 ]
