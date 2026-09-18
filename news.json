@@ -71,6 +71,13 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Trump says he has a 'big decision coming up' on whether to 'annihilate' Iran",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/74d9cf8b-b903-4de5-9c2e-39e161a7941e_79191ca3fc81076eaeb794ced754407ac2aa73341c14af83405aefcde85e2dd2.jpg",
+        "link": "https://thehill.com/homenews/administration/6096198-trump-iran-annihilate-decision/",
+        "summary": "<figure><img height=\"506\" src=\"https://media.zenfs.com/en/the_hill_articles_341/3c0f94edc89df77d1aecc87e36a80274.jpg\" width=\"900\" /></figure>\n<p>Presi..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Urgent motion filed to stop carving of Trump's name into Institute of Peace building",
         "image": "https://media.zenfs.com/en/politico_453/cb85741edbdce3e793bf2969cef57129.jpg",
         "link": "https://www.politico.com/news/2026/09/17/trump-carving-us-institute-of-peace-01083535",
@@ -85,58 +92,51 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Rubio takes behind-the-scenes role on Iran war while keeping future options open",
-        "image": "https://media.zenfs.com/en/nbc_news_122/314d5fccffd9536cb2365ef014f185e6.jpg",
-        "link": "https://www.nbcnews.com/politics/trump-administration/marco-rubio-role-iran-war-keeping-options-open-future-rcna596618",
-        "summary": "<figure><img alt=\"Marco Rubio. (Andrew Harnik / Getty Images)\" height=\"1666\" src=\"https://media.zenfs.com/en/nbc_news_122/314d5fccffd9536cb2365ef014f1..."
+        "title": "Trump approves $24 billion sale of F-35s to Saudis. Some in Congress have concerns.",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/0f83944b978263108c93cd56a1e90879.jpg",
+        "link": "https://www.bbc.com/news/articles/c3x2zrn01pxko?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "summary": "<figure>\n<img alt=\"President Donald Trump (R) meets with Crown Prince and Prime Minister Mohammed bin Salman of Saudi Arabia during a bilateral meetin..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Scientists discover the first new cat species in more than 100 years",
-        "image": "https://media.zenfs.com/en/national_geographic_articles_149/f0c2190f4fadb132077b0a8a871ddbfd.jpg",
-        "link": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
-        "summary": "<p>In 2016, <a dir=\"ltr\" href=\"https://explorers.nationalgeographic.org/directory/paola-m-nogales-ascarrunz\">Paola Nogales-Ascarrunz</a>, a biologist ..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Pilot ejects safely after Texas Air National Guard F-16 crashes in Michigan",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/916d299b3527270d77db771cce19ee07.jpg_e5e60ca0ae8550bddd1b3088974e6858f512bfb498efa4eec664fb90d8bc6aa2.jpg",
-        "link": "https://abcnews.com/US/texas-air-national-guard-16-crashes-michigan/story?id=136540121",
-        "summary": "<div><p>A Texas Air National Guard F-16 crashed in Michigan during a training mission on Thursday afternoon, sparking an hourslong evacuation near the..."
+        "title": "Lone holdout juror in Lindsay Clancy trial says he 'didn't have any doubts'",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/b2c9cfda-7125-469e-9d26-f6c051b70bb9_9f9021e226a7b08321fcaf39e199848a658d4b215da9d77b8725c568a22ac612.jpg",
+        "link": "https://www.cbsnews.com/news/lindsay-clancy-trial-holdout-juror/",
+        "summary": "<p></p><p></p><p>The <a href=\"https://www.cbsnews.com/news/lindsay-clancy-holdout-juror-domestic-violence-allegation-dismissed/?ftag=YHF4eb9d17\">lone ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Nigeria: At least 37 suspected illegal miners die in custody",
+        "title": "India news: Long queues hit stores as new iPhones go on sale",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nigeria-at-least-37-suspected-illegal-miners-die-in-custody/a-79316847?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Dozens of suspects accused of illegal mining were found dead in custody in Nigeria's north-central Niger State. Officials blame disease, while reports..."
+        "link": "https://www.dw.com/en/india-news-long-queues-hit-stores-as-new-iphones-go-on-sale/live-79320496?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The iPhone 18 has gone on sale in India, drawing huge queues across the country. Meanwhile, the Election Commission has barred both Trinamool factions..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Aztec manuscript returns to Mexico after two centuries, on loan",
+        "title": "Philippines: At least 2 students killed in school shooting",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/aztec-manuscript-returns-to-mexico-after-two-centuries-on-loan/a-79316983?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "For years, Mexico has demanded the return of a treasured manuscript. Now the Aztec relic is back home from France \u2014 but on loan...."
+        "link": "https://www.dw.com/en/philippines-at-least-2-students-killed-in-school-shooting/a-79319854?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Emergency services received reports of gunfire at the Banga National High School in southern Mindanao on Friday afternoon. At least two students were ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "UN mission notes possible US war crimes in Iran strikes",
+        "title": "Everything you need to know about Oktoberfest 2026",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/un-mission-notes-possible-us-war-crimes-in-iran-strikes/a-79316385?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A United Nations fact-finding mission said it found \"reasonable grounds\" to believe that the United States committed war crimes in two airstrikes in I..."
+        "link": "https://www.dw.com/en/everything-you-need-to-know-about-oktoberfest-2026/a-79311285?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "This year, AI will be used to manage overcrowded situations. Find all the numbers surrounding the fest \u2014 including the price of water!..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Trump hails 'major progress' in setting up US base in Poland",
+        "title": "Australia: Man killed in shark attack near Perth",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-hails-major-progress-in-setting-up-us-base-in-poland/a-79316328?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The location of the permanent US military base in Poland could be announced \"very soon,\" Donald Trump has said. The US president also praised the lead..."
+        "link": "https://www.dw.com/en/australia-man-killed-in-shark-attack-near-perth/a-79319936?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A swimmer was mauled by a shark, with witnesses reporting a massive pool of blood in the water. There have been four confirmed fatal shark attacks in ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "US: Trump administration weakens Endangered Species Act",
+        "title": "Venezuela unblocks some news websites censored for years",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-trump-administration-weakens-endangered-species-act/a-79316188?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In a recent memo, the US government would no longer consider the unintentional killing of protected wildlife as unlawful...."
+        "link": "https://www.dw.com/en/venezuela-unblocks-some-news-websites-censored-for-years/a-79319441?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Venezuela has restored access to 17 news sites that were blocked for years under Nicolas Maduro's administration. While activists welcomed the move, t..."
     }
 ]
