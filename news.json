@@ -71,6 +71,20 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Urgent motion filed to stop carving of Trump's name into Institute of Peace building",
+        "image": "https://media.zenfs.com/en/politico_453/cb85741edbdce3e793bf2969cef57129.jpg",
+        "link": "https://www.politico.com/news/2026/09/17/trump-carving-us-institute-of-peace-01083535",
+        "summary": "<p>Ousted board members of the U.S. Institute of Peace are asking a federal court to block the imminent carving of President Donald Trump\u2019s name on th..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Bipartisan frustration builds as senators seek transparency from Pentagon",
+        "image": "https://media.zenfs.com/en/ap.org/413aaa0b8ac69c2f11813f4a73e6ac08.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/senators-both-parties-voice-criticism-223456912.html",
+        "summary": "<p>WASHINGTON (AP) \u2014 Tensions are mounting between the Pentagon and Congress over the flow of information to lawmakers about <a href=\"https://apnews.c..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Rubio takes behind-the-scenes role on Iran war while keeping future options open",
         "image": "https://media.zenfs.com/en/nbc_news_122/314d5fccffd9536cb2365ef014f185e6.jpg",
         "link": "https://www.nbcnews.com/politics/trump-administration/marco-rubio-role-iran-war-keeping-options-open-future-rcna596618",
@@ -78,31 +92,31 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump-backed congresswoman criticizes his immigration policies",
-        "image": "https://media.zenfs.com/en/time_72/7dc4974f4764219fbf2d00f02f00da44.jpg",
-        "link": "https://time.com/article/2026/09/17/trump-immigration-florida-republican-maria-elvira-salazar-midterms/",
-        "summary": "<section><figure><img src=\"https://media.zenfs.com/en/time_72/7dc4974f4764219fbf2d00f02f00da44.jpg\" /><figcaption>Rep. Maria Elvira Salazar (R-FL) tal..."
+        "title": "Scientists discover the first new cat species in more than 100 years",
+        "image": "https://media.zenfs.com/en/national_geographic_articles_149/f0c2190f4fadb132077b0a8a871ddbfd.jpg",
+        "link": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+        "summary": "<p>In 2016, <a dir=\"ltr\" href=\"https://explorers.nationalgeographic.org/directory/paola-m-nogales-ascarrunz\">Paola Nogales-Ascarrunz</a>, a biologist ..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump's rate hike comments place renewed scrutiny on the Fed's independence",
-        "image": "https://media.zenfs.com/en/cnn_business_articles_218/8fe2af78d66902befb086cfc89ead6f2.jpg",
-        "link": "https://www.cnn.com/2026/09/17/economy/fed-trump-rate-hike-warsh",
-        "summary": "<figure><img alt=\"President Donald Trump with Federal Reserve Chairman Kevin Warsh at the White House in Washington, DC, on May 22. - Jonathan Ernst/R..."
+        "title": "Pilot ejects safely after Texas Air National Guard F-16 crashes in Michigan",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/916d299b3527270d77db771cce19ee07.jpg_e5e60ca0ae8550bddd1b3088974e6858f512bfb498efa4eec664fb90d8bc6aa2.jpg",
+        "link": "https://abcnews.com/US/texas-air-national-guard-16-crashes-michigan/story?id=136540121",
+        "summary": "<div><p>A Texas Air National Guard F-16 crashed in Michigan during a training mission on Thursday afternoon, sparking an hourslong evacuation near the..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Judge sets new condition as Trump talks about Kennedy Center being 'ripped down'",
-        "image": "https://media.zenfs.com/en/reuters.com/453dad505598c482d817d533cca85d3b.jpg",
-        "link": "https://www.yahoo.com/news/articles/court-filing-cites-trump-comments-140537765.html",
-        "summary": "<p>By Katharine Jackson and Mike Scarcella </p> <p>  WASHINGTON, Sept 17 (Reuters) - A federal judge ordered President Donald Trump's administration o..."
+        "source": "Deutsche Welle",
+        "title": "Nigeria: At least 37 suspected illegal miners die in custody",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/nigeria-at-least-37-suspected-illegal-miners-die-in-custody/a-79316847?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Dozens of suspects accused of illegal mining were found dead in custody in Nigeria's north-central Niger State. Officials blame disease, while reports..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "White House withdraws ICE director nominee after Republican blocks hearing",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/70a5b106-5bd6-47b6-9b41-d035b4525a56",
-        "link": "https://www.yahoo.com/news/politics/articles/white-house-pulls-stalled-ice-161820449.html",
-        "summary": "<p>The White House on Thursday <a href=\"https://www.whitehouse.gov/presidential-actions/2026/09/withdrawals-sent-to-the-senate/\" target=\"_blank\"><u>wi..."
+        "source": "Deutsche Welle",
+        "title": "Aztec manuscript returns to Mexico after two centuries, on loan",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/aztec-manuscript-returns-to-mexico-after-two-centuries-on-loan/a-79316983?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "For years, Mexico has demanded the return of a treasured manuscript. Now the Aztec relic is back home from France \u2014 but on loan...."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-trump-administration-weakens-endangered-species-act/a-79316188?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "In a recent memo, the US government would no longer consider the unintentional killing of protected wildlife as unlawful...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russian birth tourism to Brazil increases",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russian-birth-tourism-to-brazil-increases/a-79312304?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Since Russia's full-scale invasion of Ukraine and stricter regulations in Argentina, more and more Russians are choosing to travel to Brazil to give b..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "A war-fatigued and anxious Russia picks a new parliament",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/a-war-fatigued-and-anxious-russia-picks-a-new-parliament/a-79312440?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Fuel shortages, drone strikes and mobilization rumors are fueling anxiety and war fatigue in Russia. As support for peace talks grows among Russians, ..."
     }
 ]
