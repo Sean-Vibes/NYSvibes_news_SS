@@ -71,6 +71,20 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Protesters form human chain at Kennedy Center after Trump threatens demolition",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/81652524-8019-4279-ae4d-1fd07e28e140_396da0658365b3e7ac339a6f1f51829dbd3450a728ba44d4548cbf97c4dfb055.jpg",
+        "link": "https://abcnews.com/Politics/protesters-plan-form-human-chain-kennedy-center-amid/story?id=136558872",
+        "summary": "<div><p>Hundreds of activists gathered at the Kennedy Center Friday night in opposition to President Donald Trump's attempted takeover of the presiden..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Is Trump's latest White House media ban legal? Recent history shows mixed signals.",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1059e89f060013812b7f5448016f80b0.jpg_10394c1b2c87d437f929bf34fe798bdf8a1a0842885ff99ae7735cf72c8f4163.jpg",
+        "link": "https://www.usatoday.com/story/news/politics/2026/09/18/trump-media-outlet-ban-white-house-legality-cases/91831619007/",
+        "summary": "<p>WASHINGTON \u2013 If recent history is the judge, <a href=\"https://www.usatoday.com/news/politics/donald-trump/\" target=\"_blank\">President Donald Trump<..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Trump says U.S. has reached a deal to take 'permanent control' of Greenland's security",
         "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/293f5212a1fb58b8e47112ea5d924933.jpg_811c7131ab0f37d60d9f76d7d302f3d6ac7a80e8f9e9c85686e58cb5606696fc.jpg",
         "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-us-greenland-denmark-deal-b3052755.html",
@@ -78,31 +92,38 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump says he's banning CNN, MSNOW and Politico from the White House",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/3418834d-b672-4a39-86fc-13c843ff995e_6f044afc0dbe3ab352626f6e057f6e4fae3aec5f2fcbc81bb90b095d2cf02ccc.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-says-banning-cnn-msnow-191600117.html",
-        "summary": "<p>NEW YORK (AP) \u2014 <a href=\"https://apnews.com/hub/donald-trump\">President Donald Trump</a> said Friday that he was barring CNN, MS NOW and Politico f..."
+        "title": "Google says Gemini hacked real systems after mistaking them for a test",
+        "image": "https://media.zenfs.com/en/nbc_news_122/05070000b752c1ca5c7b26512bf957bb.jpg",
+        "link": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651",
+        "summary": "<figure><img alt=\"Gemini AI signage. (David Paul Morris / Bloomberg via Getty Images file)\" height=\"1667\" src=\"https://media.zenfs.com/en/nbc_news_122..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Hundreds of thousands rally in Iran in biggest anti-U.S. display since war began",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/083f2313f7d5cf909507d17dca34d41d.jpg_e4cb0a8184c5c3a0ee739474fd740deed24189f7aea7c3a9f18ce7e01b7b5519.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/iranians-rally-hundreds-thousands-biggest-082500368.html",
-        "summary": "<p style=\"text-align: left;\">CAIRO (AP) \u2014 Hundreds of thousands of <a class=\"link\" href=\"https://apnews.com/hub/iran\" target=\"_blank\">Iranians</a> ral..."
+        "title": "Uber must pay $40 million after driver left UCLA grad on freeway, where she was killed",
+        "image": "https://media.zenfs.com/en/california_post_772/3eebff992d10fc813f50720dfc462b37.jpg",
+        "link": "https://nypost.com/2026/09/18/us-news/ucla-grad-emily-normandin-parkers-parents-awarded-40m-after-daughter-died-when-uber-driver-left-her-on-freeway/",
+        "summary": "<img alt=\"\" src=\"https://media.zenfs.com/en/california_post_772/3eebff992d10fc813f50720dfc462b37.jpg\" />\n<p>Uber has been ordered to pay $40 million t..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "California homes are falling into the sea. The fight to save them is getting ugly.",
-        "image": "https://media.zenfs.com/en/washington_post_climate_and_environment_640/ad539540d77404a355bfcc5f36fc4941.jpg",
-        "link": "https://www.washingtonpost.com/nation/2026/09/18/fight-intensifies-over-fate-california-homes-falling-into-sea/",
-        "summary": "<div><figure><img alt=\"(Caroline Brehman/For The Washington Post)\" src=\"https://media.zenfs.com/en/washington_post_climate_and_environment_640/ad53954..."
+        "source": "Deutsche Welle",
+        "title": "Cuba faces another nationwide blackout amid US fuel blockade",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/cuba-faces-another-nationwide-blackout-amid-us-fuel-blockade/a-79335396?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Millions were left without electricity as Cuba's aging power grid collapsed under the weight of fuel shortages, deteriorating infrastructure and US sa..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "U.S. military had close call after using AI to generate intelligence report",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/721e2b7ef6a8ee39c8c0f6bc55ae77dd.jpg",
-        "link": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-        "summary": "<figure><img alt=\"US Army soldiers conduct unmanned aerial system training in April 2026. - Spc. Alva Gonzalez/US Army\" height=\"540\" src=\"https://medi..."
+        "source": "Deutsche Welle",
+        "title": "Google's Gemini AI hacked 3 companies during testing",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/google-s-gemini-ai-hacked-3-companies-during-testing/a-79335273?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "During a test of its cybersecurity capabilities, Google's Gemini AI model accessed the internet and hacked other companies. This is the first known in..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Trump signs broad Russia sanctions bill",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-signs-broad-russia-sanctions-bill/a-79335115?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The bill signed by US President Donald Trump targets officials, banks, and a fleet of shadow tankers that transport Russian energy...."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/trump-bars-cnn-ms-now-and-politico-from-white-house/a-79334846?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "US President Donald Trump has accused CNN, MS NOW and Politico of spreading fake news. The outlets have vowed to take legal action against the ban...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran's 'new Hezbollah:' How powerful are the Houthis now?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-s-new-hezbollah-how-powerful-are-the-houthis-now/a-79331945?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After Houthi victories in Yemen, the group's importance in the US-Iran war has grown. Previously Lebanon's Hezbollah was considered most significant i..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ryanair boss apologizes for calling other airlines 'rapists'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ryanair-boss-apologizes-for-calling-other-airlines-rapists/a-79334099?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The airline CEO had used the term to describe other airlines with high fares. His comments were criticized by officials both in Ireland and the UK...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Strait of Hormuz attacks spill oil into Persian Gulf",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/strait-of-hormuz-attacks-spill-oil-into-persian-gulf/a-79327092?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As war disrupts one of the world's busiest shipping lanes, satellite images reveal that oil is spreading toward protected coral reefs and mangrove for..."
     }
 ]
