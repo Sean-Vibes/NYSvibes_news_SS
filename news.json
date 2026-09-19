@@ -71,17 +71,24 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump says he\u2019ll name an AI czar and create an \u2018AI force\u2019",
-        "image": "https://media.zenfs.com/en/reuters.com/81fb8a3df297fd51f9b5b42d4e06a3c3.jpg",
-        "link": "https://www.yahoo.com/news/articles/trump-says-create-ai-force-172503098.html",
-        "summary": "<p>WASHINGTON, Sept 19 (Reuters) - U.S. President Donald Trump said in a social media post on Saturday that he plans to appoint a new artificial intel..."
+        "title": "Newsom signs California election safeguards aimed at Trump administration",
+        "image": "https://media.zenfs.com/en/la_times_articles_853/6717c7124f474ca162d7ea530111d406.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/newsom-signs-bills-shield-california-184038122.html",
+        "summary": "<figure><img alt=\"A worker counts ballots\" height=\"560\" src=\"https://media.zenfs.com/en/la_times_articles_853/6717c7124f474ca162d7ea530111d406.jpg\" wi..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "CNN, Politico and MS NOW say journalists weren't allowed at the White House after ban",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/df13720903d6e33460aeb08d922f5aa5.jpg_c8776494cd759aeee6d8211328310a83479cf1c70b06434153aece5ecde1e1ad.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/ms-now-says-journalists-were-123339240.html",
-        "summary": "<p>NEW YORK (AP) \u2014 Reporters from three major news organizations \u2014 CNN, MS NOW and Politico \u2014 were denied access to the White House on Saturday, a day..."
+        "title": "Trump's media ban reportedly caught many inside his own White House off guard",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/94cc9403-58ca-4bf5-a1f2-eb438f00b3e9_fc73589e9a97517d63dd3ecaed4745800c44c3ef5dab993c0e85b7388605545c.jpg",
+        "link": "https://www.politico.com/news/2026/09/19/inside-the-white-house-media-ban-01085126",
+        "summary": "<p>Donald Trump reupped his battle with the \u201cFAKE NEWS\u201d media <a href=\"https://truthsocial.com/@realDonaldTrump/posts/117293599348325006\" target=\"_bla..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "New poll puts James Talarico 6 points ahead of Ken Paxton in Texas Senate race",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1e9575dce33ccc11fb2d73c73c81fa2d.jpg_bb6f5b150a6372757899d2aacfebc579fdd5e0a3309e6bb26c523386f7a0f132.jpg",
+        "link": "https://www.usatoday.com/story/news/state/texas/2026/09/19/talarico-paxton-texas-senate-race-poll/91830266007/",
+        "summary": "<p>A new Texas Pulse poll shows the Democrat widening his lead over the Republican in the <a href=\"https://www.usatoday.com/story/news/state/texas/202..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -98,11 +105,11 @@
         "summary": "<p style=\"text-align: left;\">Ed Sheeran will take the stage Saturday night at Philadelphia's Lincoln Financial Field for the first show of his Loop To..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "GOP Sen. Cassidy says measles surge will be administration's 'terrible legacy'",
-        "image": "https://media.zenfs.com/en/newsmax_809/3f378cab4b7bfd2ee4434b7c82fcac3e.jpg",
-        "link": "https://www.newsmax.com/newsfront/measles-vaccines-cassidy/2026/09/17/id/1269720",
-        "summary": "<figure>\n<img alt=\"Senate Health Committee Chair Bill Cassidy, R-La. (Getty Images)\" src=\"https://media.zenfs.com/en/newsmax_809/3f378cab4b7bfd2ee4434..."
+        "source": "Deutsche Welle",
+        "title": "Dutch police disperse violent far-right protest in The Hague",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/dutch-police-disperse-violent-far-right-protest-in-the-hague/a-79340495?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After violence broke out, Dutch riot police dispersed hundreds of far-right protesters in The Hague. Prime Minister Rob Jetten said that the demonstra..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukraine-steps-up-measures-to-protect-railways/a-79339087?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "As Russia increases its attacks on Ukraine's rail infrastructure, the Ukrainian government has called for help to replace destroyed locomotives and is..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "CNN, MS NOW and Politico denied access to White House",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/cnn-ms-now-and-politico-denied-access-to-white-house/a-79339055?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Three US news outlets said their journalists were blocked from entering the White House grounds, hours after President Donald Trump announced bans on ..."
     }
 ]
