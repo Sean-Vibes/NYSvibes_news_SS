@@ -71,17 +71,24 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "U.S. Central Command says 1 billion barrels of oil have moved through Hormuz",
+        "image": "https://media.zenfs.com/en/newsmax_809/0e0b6118a3e364105eeaf80e0ea4bdc9.jpg",
+        "link": "https://www.newsmax.com/newsfront/iran-hormuz-u-s-military/2026/09/19/id/1269970",
+        "summary": "<figure>\n<img alt=\"U.S. CENTCOM Commander Adm. Brad Cooper speaks during a press briefing at the Pentagon in Washington, D.C., on April 16. (SAUL LOEB..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "CNN, Politico and MS NOW say journalists weren't allowed at the White House after ban",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/df13720903d6e33460aeb08d922f5aa5.jpg_c8776494cd759aeee6d8211328310a83479cf1c70b06434153aece5ecde1e1ad.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/ms-now-says-journalists-were-123339240.html",
+        "summary": "<p>NEW YORK (AP) \u2014 Reporters from three major news organizations \u2014 CNN, MS NOW and Politico \u2014 were denied access to the White House on Saturday, a day..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Denmark and Greenland push back on Trump's 'permanent control' claim",
         "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/31ad87b6-8b28-4c5c-b785-667334c2d924_f5ffd9d5195c994842a914f785d8ba1fa6ff407d18e440700c743e12c9ae1ed0.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/greenland-denmark-us-deal-not-100937231.html",
         "summary": "<p>By Stine Jacobsen, Jacob Gronholt-Pedersen and Tom Little </p> <p>  COPENHAGEN, Sept 19 (Reuters) - Denmark and Greenland on Saturday said any agre..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Aerial threat alert sounds in Saudi capital for 1st time in latest escalation with Houthis",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/eaae2383-94d9-4145-bdf8-0dcc35eacb1b",
-        "link": "https://www.yahoo.com/news/world/articles/saudi-arabia-issues-alerts-across-071122788.html",
-        "summary": "<p>Saudi Arabia warned of a \u201chostile aerial threat\u201d and issued a string of emergency alerts across the kingdom, including in its capital, late Friday ..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -92,51 +99,44 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Is Trump's latest White House media ban legal? Recent history shows mixed signals.",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1059e89f060013812b7f5448016f80b0.jpg_10394c1b2c87d437f929bf34fe798bdf8a1a0842885ff99ae7735cf72c8f4163.jpg",
-        "link": "https://www.usatoday.com/story/news/politics/2026/09/18/trump-media-outlet-ban-white-house-legality-cases/91831619007/",
-        "summary": "<p>WASHINGTON \u2013 If recent history is the judge, <a href=\"https://www.usatoday.com/news/politics/donald-trump/\" target=\"_blank\">President Donald Trump<..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Fundraiser for Lindsay Clancy holdout juror passes $300,000",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/2b222e05da34bc2a4bc6182232e59401.jpg_8f358bfb456ce920538c79db320f1227e98283dab45e6057a2d0d4c7c3d2cc56.jpg",
-        "link": "https://www.newsweek.com/fundraiser-for-lindsay-clancy-holdout-juror-michael-desronvil-passes-300k-12463378",
-        "summary": "<p>A <a href=\"https://www.givesendgo.com/standwithjuror\">fundraiser</a> for Michael Desronvil, the lone juror who favored convicting Lindsay Clancy in..."
+        "title": "A rare, high-elevation tornado hits Utah mountainside at nearly 7,500 feet",
+        "image": "https://media.zenfs.com/en/the_weather_network_616/d6ba16a80ec04e7ac53f449b0e98aa8e.jpg",
+        "link": "https://www.theweathernetwork.com/ca/news/article/rare-high-elevation-tornado-hits-utah-mountainside-at-nearly-2-300-metres",
+        "summary": "<img alt=\"Rare, high-elevation tornado hits Utah mountainside at nearly 2,300 metres\" src=\"https://media.zenfs.com/en/the_weather_network_616/d6ba16a8..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Thousands protest Kennedy Center demolition fears",
+        "title": "German-Russian relations at freezing point",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/thousands-protest-kennedy-center-demolition-fears/a-79337558?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Protesters took part in a \"Hands Around the Kennedy Center\" human chain. The demonstration comes amid fears the Trump administration could tear the ar..."
+        "link": "https://www.dw.com/en/german-russian-relations-at-freezing-point/a-79330741?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Russia's full-scale invasion of Ukraine destroyed the once-close relationship between Moscow and Berlin. Yet the far-right AfD is calling for a normal..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Oktoberfest 2026: Everything you need to know",
+        "title": "Ukraine steps up measures to protect railways",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/oktoberfest-2026-everything-you-need-to-know/a-79311285?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "This year, AI will be used to manage overcrowded situations. Find all the numbers surrounding the fest \u2014 including the price of water!..."
+        "link": "https://www.dw.com/en/ukraine-steps-up-measures-to-protect-railways/a-79339087?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "As Russia increases its attacks on Ukraine's rail infrastructure, the Ukrainian government has called for help to replace destroyed locomotives and is..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Ed Sheeran continues US tour amid Palestinian controversy",
+        "title": "CNN, MS NOW and Politico denied access to White House",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ed-sheeran-continues-us-tour-amid-palestinian-controversy/a-79336537?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Pro-Palestinian protests are expected at Ed Sheeran's first gig since Macklemore was dropped from the tour. The US rapper shouted \"Free Palestine\" at ..."
+        "link": "https://www.dw.com/en/cnn-ms-now-and-politico-denied-access-to-white-house/a-79339055?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Three US news outlets said their journalists were blocked from entering the White House grounds, hours after President Donald Trump announced bans on ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Rebels, workers, radicals: The making of 'Red Berlin'",
+        "title": "Mecklenburg-Western Pomerania: Will economy shape the vote?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/rebels-workers-radicals-the-making-of-red-berlin/a-79325410?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Bloody May, student sit-ins and the squatter movement: Berlin has long been a hotbed for working-class organizing and radical left-wing politics...."
+        "link": "https://www.dw.com/en/mecklenburg-western-pomerania-will-economy-shape-the-vote/a-79298904?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Voters in the eastern state of Mecklenburg-Western Pomerania head to the polls on Sunday, with the Social Democrats and far-right AfD neck and neck. H..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Oktoberfest opens as Munich mayor taps first beer keg",
+        "title": "Saudi Arabia: Plume of black smoke near Riyadh airport",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/oktoberfest-opens-as-munich-mayor-taps-first-beer-keg/a-79336519?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Thousands of visitors streamed onto Munich's Oktoberfest grounds as the world-famous beer festival got underway. Some spent the night outside the gate..."
+        "link": "https://www.dw.com/en/saudi-arabia-plume-of-black-smoke-near-riyadh-airport/a-79339010?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Smoke was seen billowing from a location near the main airport in Riyadh following overnight warnings of an aerial threat...."
     }
 ]
