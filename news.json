@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Alabama Officials Withdraw Objection To Rescheduling Marijuana Under State Law In Line With Trump\u2019s Federal Move",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/alabama-officials-withdraw-objection-to-rescheduling-marijuana-under-state-law-in-line-with-trumps-federal-move/",
+        "summary": "<p>&#8220;The program\u2019s already live, even though it\u2019s still Schedule I in Alabama.&#8221; By Anna Barrett, Alabama Reflector Alabama\u2019s public health ..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Legalizing Marijuana In Iowa Is A \u2018No-Brainer\u2019 Move To Help Raise Revenue, Democratic Candidate For Governor Says",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/legalizing-marijuana-in-iowa-is-a-no-brainer-move-to-help-raise-revenue-democratic-candidate-for-governor-says/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/cannabis-company-insurance-bill-filed-in-congress-newsletter-september-18-2026/",
         "summary": "<p>American Legion backs psychedelics bill for veterans; Poll: NC support for marijuana &#38; hemp reform; Analysis of Reddit cannabinoid posts Subscr..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "North Carolina Residents Support Legalizing Marijuana And Keeping Hemp THC Products Legal For Adults Over 21, Poll Shows",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/north-carolina-residents-support-legalizing-marijuana-and-keeping-hemp-thc-products-legal-for-adults-over-21-poll-shows/",
-        "summary": "<p>North Carolinians strongly support legalizing medical marijuana, and a majority wants to go even further by legalizing cannabis for recreational us..."
     },
     {
         "source": "MJBizDaily",
@@ -71,10 +71,24 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Denmark and Greenland push back on Trump's 'permanent control' claim",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/31ad87b6-8b28-4c5c-b785-667334c2d924_f5ffd9d5195c994842a914f785d8ba1fa6ff407d18e440700c743e12c9ae1ed0.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/greenland-denmark-us-deal-not-100937231.html",
+        "summary": "<p>By Stine Jacobsen, Jacob Gronholt-Pedersen and Tom Little </p> <p>  COPENHAGEN, Sept 19 (Reuters) - Denmark and Greenland on Saturday said any agre..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Aerial threat alert sounds in Saudi capital for 1st time in latest escalation with Houthis",
         "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/eaae2383-94d9-4145-bdf8-0dcc35eacb1b",
         "link": "https://www.yahoo.com/news/world/articles/saudi-arabia-issues-alerts-across-071122788.html",
         "summary": "<p>Saudi Arabia warned of a \u201chostile aerial threat\u201d and issued a string of emergency alerts across the kingdom, including in its capital, late Friday ..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Google says Gemini hacked real systems after mistaking them for a test",
+        "image": "https://media.zenfs.com/en/nbc_news_122/05070000b752c1ca5c7b26512bf957bb.jpg",
+        "link": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651",
+        "summary": "<figure><img alt=\"Gemini AI signage. (David Paul Morris / Bloomberg via Getty Images file)\" height=\"1667\" src=\"https://media.zenfs.com/en/nbc_news_122..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -85,58 +99,44 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump says U.S. has reached a deal to take 'permanent control' of Greenland's security",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/293f5212a1fb58b8e47112ea5d924933.jpg_811c7131ab0f37d60d9f76d7d302f3d6ac7a80e8f9e9c85686e58cb5606696fc.jpg",
-        "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-us-greenland-denmark-deal-b3052755.html",
-        "summary": "<p>President<a href=\"https://www.independent.co.uk/news/world/americas/us-politics/trump-white-house-media-ban-cnn-fake-news-b3052729.html\" rel=\"nofol..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "3rd person dies of malaria after mosquito is reportedly trapped on plane to Germany",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/eecb8c5bfe71d6cdec430c927b6064f0.jpg",
-        "link": "https://www.foxnews.com/world/third-person-dies-mosquito-trapped-plane-germany-airport-malaria-phenomenon",
-        "summary": "<p>Three people have died from malaria after a mosquito was transported aboard a flight <a href=\"https://www.foxnews.com/category/world/world-regions/..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Trump signs bill authorizing sweeping Russia sanctions",
-        "image": "https://media.zenfs.com/en/afp.com/ded625ff219a9d1eb5ef39d595672fd5.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-signs-bill-authorizing-sweeping-072411806.html",
-        "summary": "<figure><img src=\"https://media.zenfs.com/en/afp.com/ded625ff219a9d1eb5ef39d595672fd5.jpg\" /><figcaption>Russia has intensified attacks against Ukrain..."
+        "title": "Fundraiser for Lindsay Clancy holdout juror passes $300,000",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/2b222e05da34bc2a4bc6182232e59401.jpg_8f358bfb456ce920538c79db320f1227e98283dab45e6057a2d0d4c7c3d2cc56.jpg",
+        "link": "https://www.newsweek.com/fundraiser-for-lindsay-clancy-holdout-juror-michael-desronvil-passes-300k-12463378",
+        "summary": "<p>A <a href=\"https://www.givesendgo.com/standwithjuror\">fundraiser</a> for Michael Desronvil, the lone juror who favored convicting Lindsay Clancy in..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Oktoberfest opens as crowds race for best beer tent spots",
+        "title": "Thousands protest Kennedy Center demolition fears",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/oktoberfest-opens-as-crowds-race-for-best-beer-tent-spots/a-79336519?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Thousands of visitors have streamed onto Munich's Oktoberfest grounds as the world-famous beer festival gets underway. Some spent the night outside th..."
+        "link": "https://www.dw.com/en/thousands-protest-kennedy-center-demolition-fears/a-79337558?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Protesters took part in a \"Hands Around the Kennedy Center\" human chain. The demonstration comes amid fears the Trump administration could tear the ar..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "US court restricts Trump policy on third-country deportations",
+        "title": "Oktoberfest 2026: Everything you need to know",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-court-restricts-trump-policy-on-third-country-deportations/a-79336611?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Trump administration has deported more than 25,000 people to countries other than their own. Now a federal appeals court has put the brakes on the..."
+        "link": "https://www.dw.com/en/oktoberfest-2026-everything-you-need-to-know/a-79311285?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "This year, AI will be used to manage overcrowded situations. Find all the numbers surrounding the fest \u2014 including the price of water!..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "India news: British Sikh activist Jagtar Singh Johal granted bail after 9 years in detention",
+        "title": "Ed Sheeran continues US tour amid Palestinian controversy",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-british-sikh-activist-jagtar-singh-johal-granted-bail-after-9-years-in-detention/live-79335891?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Sikh activist Jagtar Singh Johal has been granted bail after more than eight years without conviction. Meanwhile, India swapped its male flagbearer fo..."
+        "link": "https://www.dw.com/en/ed-sheeran-continues-us-tour-amid-palestinian-controversy/a-79336537?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Pro-Palestinian protests are expected at Ed Sheeran's first gig since Macklemore was dropped from the tour. The US rapper shouted \"Free Palestine\" at ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Russia votes for new parliament in controlled elections",
+        "title": "Rebels, workers, radicals: The making of 'Red Berlin'",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-votes-for-new-parliament-in-controlled-elections/a-79318392?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russia is holding its first State Duma election since invading Ukraine, with voting also imposed in occupied Ukrainian regions. President Vladimir Put..."
+        "link": "https://www.dw.com/en/rebels-workers-radicals-the-making-of-red-berlin/a-79325410?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Bloody May, student sit-ins and the squatter movement: Berlin has long been a hotbed for working-class organizing and radical left-wing politics...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany news: Campaigns wrap up in two state elections",
+        "title": "Oktoberfest opens as Munich mayor taps first beer keg",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-campaigns-wrap-up-in-two-state-elections/live-79335548?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Parties are campaigning for a last day ahead of polls in Mecklenburg-Vorpomerania and Berlin. And an association responsible for German sea ports says..."
+        "link": "https://www.dw.com/en/oktoberfest-opens-as-munich-mayor-taps-first-beer-keg/a-79336519?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Thousands of visitors streamed onto Munich's Oktoberfest grounds as the world-famous beer festival got underway. Some spent the night outside the gate..."
     }
 ]
