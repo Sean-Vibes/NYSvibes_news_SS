@@ -71,6 +71,20 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "As midterms near, farm-state Republicans deal with the fallout of Trump's beef imports",
+        "image": "https://media.zenfs.com/en/politico_453/01bb0ffc388dc50b639f49fa47d82c10.jpg",
+        "link": "https://www.politico.com/news/2026/09/19/trumps-beef-plan-problem-nebraska-iowa-kansas-texas-01084910",
+        "summary": "<p>Farm-state Republicans don\u2019t support President Donald Trump\u2019s move to import cheap beef \u2014 but they\u2019re still getting grilled for it.</p><p>Trump\u2019s <..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "'It will never be the same': How the Kennedy Center got stuck in a cultural quagmire",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/cdc0259893bb38a31348db42a9814dfb.jpg",
+        "link": "https://www.cnn.com/2026/09/19/politics/trump-kennedy-center",
+        "summary": "<figure><img alt=\"US President Donald Trump stands in the presidential box as he tours the John F. Kennedy Center for the Performing Arts in Washingto..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Pentagon puts Iran war cost at $43.6 billion, with more bills to come",
         "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/76bc5254b33ca7a1192dbb6331f95401.jpg_731696ed00a58e61ac61ee0bec3e0fe3af594b8cf713ee2877e6380eb479ad7b.jpg",
         "link": "https://www.usatoday.com/story/news/world/2026/09/18/pentagon-reveals-cost-of-iran-war/91831856007/",
@@ -85,24 +99,17 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump's media ban reportedly caught many inside his own White House off guard",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/94cc9403-58ca-4bf5-a1f2-eb438f00b3e9_fc73589e9a97517d63dd3ecaed4745800c44c3ef5dab993c0e85b7388605545c.jpg",
-        "link": "https://www.politico.com/news/2026/09/19/inside-the-white-house-media-ban-01085126",
-        "summary": "<p>Donald Trump reupped his battle with the \u201cFAKE NEWS\u201d media <a href=\"https://truthsocial.com/@realDonaldTrump/posts/117293599348325006\" target=\"_bla..."
+        "title": "Cash programs for new parents are testing GOP views on government aid",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/9eae676e-bb4a-48a0-9f32-e46331657365_68d19d48fcb4d2f5cee7224f41689886d9dea83cc32f01414c48932d9d59509f.jpg",
+        "link": "https://www.foxnews.com/media/pro-life-vs-socialism-gop-lawmakers-divided-over-controversial-guaranteed-income-programs",
+        "summary": "<p>Although guaranteed income programs have faced partisan pushback nationwide since gaining national traction in 2018, a growing faction of conservat..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "New poll puts James Talarico 6 points ahead of Ken Paxton in Texas Senate race",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1e9575dce33ccc11fb2d73c73c81fa2d.jpg_bb6f5b150a6372757899d2aacfebc579fdd5e0a3309e6bb26c523386f7a0f132.jpg",
-        "link": "https://www.usatoday.com/story/news/state/texas/2026/09/19/talarico-paxton-texas-senate-race-poll/91830266007/",
-        "summary": "<p>A new Texas Pulse poll shows the Democrat widening his lead over the Republican in the <a href=\"https://www.usatoday.com/story/news/state/texas/202..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Denmark and Greenland push back on Trump's 'permanent control' claim",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/31ad87b6-8b28-4c5c-b785-667334c2d924_f5ffd9d5195c994842a914f785d8ba1fa6ff407d18e440700c743e12c9ae1ed0.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/greenland-denmark-us-deal-not-100937231.html",
-        "summary": "<p>By Stine Jacobsen, Jacob Gronholt-Pedersen and Tom Little </p> <p>  COPENHAGEN, Sept 19 (Reuters) - Denmark and Greenland on Saturday said any agre..."
+        "source": "Deutsche Welle",
+        "title": "Germany: Is it possible to replace the chancellor?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-is-it-possible-to-replace-the-chancellor/a-79313623?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Chancellor Friedrich Merz's record-low approval ratings have emboldened his opponents. There are three ways to remove a chancellor from office in Germ..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/german-russian-relations-at-freezing-point/a-79330741?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Russia's full-scale invasion of Ukraine destroyed the once-close relationship between Moscow and Berlin. Yet the far-right AfD is calling for a normal..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine steps up measures to protect railways",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-steps-up-measures-to-protect-railways/a-79339087?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As Russia increases its attacks on Ukraine's rail infrastructure, the Ukrainian government has called for help to replace destroyed locomotives and is..."
     }
 ]
