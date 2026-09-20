@@ -71,10 +71,10 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Housing costs rise as 30-year mortgage rates jump before midterms",
-        "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/bf244630baa4d24fad7babc7c92c0343.jpg",
-        "link": "https://finance.yahoo.com/real-estate/articles/us-housing-costs-rise-further-133000353.html",
-        "summary": "<p>(Bloomberg) -- Barely six weeks out from the midterm elections, housing costs that many Americans have long said are too high are looking even more..."
+        "title": "ICE agent shoots and wounds man in Austin, authorities say",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/8c1fb03e-c969-4930-b105-ff8d6f96ab86_3811fa2be0abf9dec807f1befbf64a4962b443c1a5ee2d8885ab9cc2d924461e.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/ice-agent-shoots-wounds-man-211813194.html",
+        "summary": "<p>AUSTIN, Texas (AP) \u2014 A U.S. Immigration and Customs Enforcement officer shot and wounded a man Sunday afternoon in Austin, Texas, local authorities..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -92,17 +92,31 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "State Dept. issues alert to U.S. citizens across the Middle East as tensions rise",
-        "image": "https://media.zenfs.com/en/newsmax_809/10c6f1e5d1435e82f0ecdb8853fa862c.jpg",
-        "link": "https://www.newsmax.com/newsfront/middle-east-donald-trump-pete-hegseth/2026/09/20/id/1270025",
-        "summary": "<figure>\n<img alt=\"U.S. State Department is seen on Nov. 29, 2010. (Nicholas Kamm/Getty Images)\" src=\"https://media.zenfs.com/en/newsmax_809/10c6f1e5d..."
+        "title": "Sen. Cassidy urges Trump to show 'radical honesty' about childhood vaccines",
+        "image": "https://media.zenfs.com/en/newsmax_809/762e0d2dedd9369de8a325e78282dd35.jpg",
+        "link": "https://www.newsmax.com/us/bill-cassidy-donald-trump-vaccines/2026/09/20/id/1270052",
+        "summary": "<figure>\n<img alt=\"Sen. Bill Cassidy (Tyler Kaufman/Getty Images)\" src=\"https://media.zenfs.com/en/newsmax_809/762e0d2dedd9369de8a325e78282dd35.jpg\" /..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Ukraine targets Moscow with hundreds of drones in \u2018largest ever\u2019 attack",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ef2b2b44ed9425ad378e5f83d193bc9c.jpg_02c80df92dbbcdcf0d7819cab34680cc0ce20f8e8a1f0c5aef991a57e53de9d0.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/ukraine-fires-over-1-000-072323482.html",
-        "summary": "<p>Ukrainian forces fired <a href=\"https://apnews.com/hub/russia-ukraine\">more than 1,000 drones at Russia</a> overnight, including hundreds that were..."
+        "title": "Over a dozen states are closer than ever to making daylight saving time permanent",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/aa234821a60fb5838f3ecdf99b67e339.jpg",
+        "link": "https://thehill.com/policy/energy-environment/6082525-19-states-approved-permanent-daylight-saving-time-the-last-obstacle-to-locking-their-clocks-could-soon-fall/",
+        "summary": "<figure><img height=\"533\" src=\"https://media.zenfs.com/en/the_hill_articles_341/aa234821a60fb5838f3ecdf99b67e339.jpg\" width=\"800\" /></figure>\n<p>(NEXS..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Canada, France agree to closer ties in defense, economy",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/canada-france-agree-to-closer-ties-in-defense-economy/a-79348843?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Amid strained relations with the US, French President Emmanuel Macron and Canadian Prime Minister Mark Carney announced closer economic and defense ti..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "German state elections deal a blow to Chancellor Friedrich Merz",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/german-state-elections-deal-a-blow-to-chancellor-friedrich-merz/a-79348585?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Elections in Berlin and Mecklenburg-Western Pomerania have dealt the CDU a historic defeat while the AfD saw a massive gain. The pressure on Germany's..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/peter-thiel-power-palantir-and-the-antichrist/a-79313426?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "He was early to back Facebook, early to back Donald Trump, and is one of the world\u2019s richest people. But from his theories on the antichrist and AI to..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia: Ukrainian drone strike on Moscow kills 2",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-ukrainian-drone-strike-on-moscow-kills-2/a-79341964?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "An oil refinery was hit in one of the largest attacks so far on the Russian capital, as the country holds a parliamentary election. Meanwhile, at leas..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ed Sheeran speaks on Gaza in concert after Macklemore controversy",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ed-sheeran-speaks-on-gaza-in-concert-after-macklemore-controversy/a-79341971?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Sheeran called the Hamas-led attack in Israel \"horrific\" and described the war in Gaza as \"catastrophic and unjustifiable\" during his first concert si..."
     }
 ]
