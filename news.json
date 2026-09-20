@@ -71,10 +71,31 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "U.S. embassies across Middle East issue security alerts for Americans",
+        "image": "https://media.zenfs.com/en/cbs_news_897/ef94ae279cef22b2a7d98f310af74e55.jpg",
+        "link": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strait-of-hormuz-oil-houthis/",
+        "summary": "<p></p><p></p><p></p><h2>What to know about the Iran war today:</h2>The U.S. military has escorted one billion barrels of oil and over 2,000 commercia..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Trump says his planned arch will double as a military complex housing drones and snipers",
         "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/9932bc76-9e9b-44b8-927e-54960710c75c",
         "link": "https://www.yahoo.com/news/politics/articles/trump-says-planned-arch-military-125332168.html",
-        "summary": "<p style=\"text-align: left;\">President Donald Trump on Sunday said his proposed 250-foot triumphal arch will now be a &quot;top grade&quot; military c..."
+        "summary": "<p>President Donald Trump on Sunday said his proposed 250-foot triumphal arch will now be a \u201ctop grade\u201d military complex that will house drones, snipe..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Sen. Barrasso downplays concerns that Trump's media ban violates constitution",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/b0a7fcf1-3b59-4532-832c-7d4b04f086b8_2812e34f0c51e60665038cdda88d6db18e74fbb89ea15447029409f8cb45e02a.jpg",
+        "link": "https://www.nbcnews.com/politics/white-house/john-barrasso-says-trump-isnt-violating-constitution-banning-reporters-rcna598785",
+        "summary": "<p>Sen. John Barrasso, R-Wyo., on Sunday downplayed concerns that President Donald Trump may have violated the Constitution when reporters from Politi..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Cellphone bills jumped 5.9% in a month \u2014 and the Fed noticed",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/9a1d911a-4766-4ef7-89f6-ba4d18caa1bc_85c02cb1e9958a92d9befaa90defcd92e894f25c30a479a0585e1ec44bb82338.jpg",
+        "link": "https://finance.yahoo.com/economy/policy/article/why-your-cell-phone-bill-is-getting-so-expensive--and-how-that-helped-convince-the-fed-to-raise-rates-100000440.html",
+        "summary": "<p style=\"text-align: left;\">Millions of Americans recently received unwelcome news about their cell phone bills.&nbsp;</p><p style=\"text-align: left;..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -82,27 +103,6 @@
         "image": "https://media.zenfs.com/en/ap.org/e5931a38248a583e4a6da52f210c6035.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/rising-gas-prices-frustrate-voters-112510141.html",
         "summary": "<p>EDINBURG, Texas (AP) \u2014 Quinten Martinez, pumping gas under a hot South Texas sun, remembers a time when fueling up didn't require difficult decisio..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "North Korea launches 2 missiles within hours of each other as tensions rise",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ed575bd6-9c03-42b3-b753-4239245fec38_5edf3a95ada12f6a7ec73e1dacabd6ee61085dadcc1e4a16e6ade2bacaa8ee28.jpg",
-        "link": "https://www.yahoo.com/news/articles/north-korea-fires-missile-off-061756384.html",
-        "summary": "<p>SEOUL, Sept 20 (Reuters) - North Korea launched two missiles off its eastern coast on Sunday, its second set of tests in roughly a week and days af..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Ukraine targets Moscow with hundreds of drones in \u2018largest ever\u2019 attack",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ef2b2b44ed9425ad378e5f83d193bc9c.jpg_02c80df92dbbcdcf0d7819cab34680cc0ce20f8e8a1f0c5aef991a57e53de9d0.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/ukraine-fires-over-1-000-072323482.html",
-        "summary": "<p>Ukrainian forces fired <a href=\"https://apnews.com/hub/russia-ukraine\">more than 1,000 drones at Russia</a> overnight, including hundreds that were..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "U.S. fears rapid escalation in the Mideast after Houthis attack Riyadh",
-        "image": "https://media.zenfs.com/en/afp.com/6de589bc70b8c40edcdaebd037b1f76c.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/saudi-capital-issues-first-air-110320500.html",
-        "summary": "<figure><img src=\"https://media.zenfs.com/en/afp.com/6de589bc70b8c40edcdaebd037b1f76c.jpg\" /><figcaption>Yemen's Houthi armed forces patrol as Yemeni ..."
     },
     {
         "source": "Deutsche Welle",
