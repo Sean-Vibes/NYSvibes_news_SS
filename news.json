@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "25 Years Of Drug Decriminalization In Portugal Shows Importance Of Investing In Public Health Approach (Op-Ed)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/25-years-of-drug-decriminalization-in-portugal-shows-importance-of-investing-in-public-health-approach-op-ed/",
+        "summary": "<p>&#8220;Reducing the harms of drug use requires painstakingly building and sustaining a system that connects people with treatment, healthcare and s..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Alabama Officials Withdraw Objection To Rescheduling Marijuana Under State Law In Line With Trump\u2019s Federal Move",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/alabama-officials-withdraw-objection-to-rescheduling-marijuana-under-state-law-in-line-with-trumps-federal-move/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/medical-marijuana-improves-lower-back-back-pain-and-reduces-opioid-use-new-10-year-study-shows/",
         "summary": "<p>Using medical marijuana helps people who suffer from lower pain significantly reduce their opioid use as well as experience lower pain intensity an..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Cannabis company insurance bill filed in Congress (Newsletter: September 18, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/cannabis-company-insurance-bill-filed-in-congress-newsletter-september-18-2026/",
-        "summary": "<p>American Legion backs psychedelics bill for veterans; Poll: NC support for marijuana &#38; hemp reform; Analysis of Reddit cannabinoid posts Subscr..."
     },
     {
         "source": "MJBizDaily",
@@ -71,38 +71,52 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Trump says his planned arch will double as a military complex housing drones and snipers",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/9932bc76-9e9b-44b8-927e-54960710c75c",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-says-planned-arch-military-125332168.html",
+        "summary": "<p style=\"text-align: left;\">President Donald Trump on Sunday said his proposed 250-foot triumphal arch will now be a &quot;top grade&quot; military c..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Gas prices are squeezing voters as Trump calls the increase a small price to pay",
+        "image": "https://media.zenfs.com/en/ap.org/e5931a38248a583e4a6da52f210c6035.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/rising-gas-prices-frustrate-voters-112510141.html",
+        "summary": "<p>EDINBURG, Texas (AP) \u2014 Quinten Martinez, pumping gas under a hot South Texas sun, remembers a time when fueling up didn't require difficult decisio..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "North Korea launches 2 missiles within hours of each other as tensions rise",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ed575bd6-9c03-42b3-b753-4239245fec38_5edf3a95ada12f6a7ec73e1dacabd6ee61085dadcc1e4a16e6ade2bacaa8ee28.jpg",
+        "link": "https://www.yahoo.com/news/articles/north-korea-fires-missile-off-061756384.html",
+        "summary": "<p>SEOUL, Sept 20 (Reuters) - North Korea launched two missiles off its eastern coast on Sunday, its second set of tests in roughly a week and days af..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Ukraine targets Moscow with hundreds of drones in \u2018largest ever\u2019 attack",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ef2b2b44ed9425ad378e5f83d193bc9c.jpg_02c80df92dbbcdcf0d7819cab34680cc0ce20f8e8a1f0c5aef991a57e53de9d0.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/ukraine-fires-over-1-000-072323482.html",
+        "summary": "<p>Ukrainian forces fired <a href=\"https://apnews.com/hub/russia-ukraine\">more than 1,000 drones at Russia</a> overnight, including hundreds that were..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "U.S. fears rapid escalation in the Mideast after Houthis attack Riyadh",
         "image": "https://media.zenfs.com/en/afp.com/6de589bc70b8c40edcdaebd037b1f76c.jpg",
         "link": "https://www.yahoo.com/news/world/articles/saudi-capital-issues-first-air-110320500.html",
         "summary": "<figure><img src=\"https://media.zenfs.com/en/afp.com/6de589bc70b8c40edcdaebd037b1f76c.jpg\" /><figcaption>Yemen's Houthi armed forces patrol as Yemeni ..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "As midterms near, farm-state Republicans deal with the fallout of Trump's beef imports",
-        "image": "https://media.zenfs.com/en/politico_453/01bb0ffc388dc50b639f49fa47d82c10.jpg",
-        "link": "https://www.politico.com/news/2026/09/19/trumps-beef-plan-problem-nebraska-iowa-kansas-texas-01084910",
-        "summary": "<p>Farm-state Republicans don\u2019t support President Donald Trump\u2019s move to import cheap beef \u2014 but they\u2019re still getting grilled for it.</p><p>Trump\u2019s <..."
+        "source": "Deutsche Welle",
+        "title": "Germany faces energy tax losses as EV sales rise",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The rapid shift to electric vehicles in Germany is cutting fuel tax revenue for the government. As EV sales surge, policymakers face growing pressure ..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Pentagon puts Iran war cost at $43.6 billion, with more bills to come",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/76bc5254b33ca7a1192dbb6331f95401.jpg_731696ed00a58e61ac61ee0bec3e0fe3af594b8cf713ee2877e6380eb479ad7b.jpg",
-        "link": "https://www.usatoday.com/story/news/world/2026/09/18/pentagon-reveals-cost-of-iran-war/91831856007/",
-        "summary": "<p>WASHINGTON \u2013 The <a href=\"https://www.usatoday.com/news/iran-war/\">war in Iran</a> has cost the U.S. military $43.6 billion as of Sept. 3, accordin..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Newsom signs California election safeguards aimed at Trump administration",
-        "image": "https://media.zenfs.com/en/la_times_articles_853/6717c7124f474ca162d7ea530111d406.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/newsom-signs-bills-shield-california-184038122.html",
-        "summary": "<figure><img alt=\"A worker counts ballots\" height=\"560\" src=\"https://media.zenfs.com/en/la_times_articles_853/6717c7124f474ca162d7ea530111d406.jpg\" wi..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "In chaotic L.A. skies, news helicopter pilots juggle competition, camaraderie, risk",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/c3cda95e-a988-4cb2-83c5-7a1bff0cde58",
-        "link": "https://www.yahoo.com/news/articles/chaotic-l-skies-news-helicopter-192237580.html",
-        "summary": "<p style=\"text-align: left;\"><strong>For the record</strong>:<br /><strong>1:38 p.m. Sept. 19, 2026</strong>: <em>An earlier version of this article s..."
+        "source": "Deutsche Welle",
+        "title": "Peter Thiel: Power, Palantir, and the antichrist",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/peter-thiel-power-palantir-and-the-antichrist/a-79313426?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "He was early to back Facebook, early to back Donald Trump, and is one of the world\u2019s richest people. But from his theories on the antichrist and AI to..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/in-cosmopolitan-berlin-elections-still-closed-to-foreigners/a-78744579?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A quarter of Berlin residents will have no say in the German capital's city-state election because they lack citizenship. That's the highest proportio..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: PM Modi says developing nations unfairly blamed for emissions",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-pm-modi-says-developing-nations-unfairly-blamed-for-emissions/live-79335891?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "PM Narendra Modi has told a climate conference that developed countries emit six times more CO2 than India. Meanwhile, an IIT Bombay professor has bee..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Doctors offer Oktoberfest flu jabs",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-doctors-offer-oktoberfest-flu-jabs/live-79335548?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Oktoberfest 2026 is underway but it's not just beer on offer in Munich this year; revelers can also get themselves a flu jab before heading to the ten..."
     }
 ]
