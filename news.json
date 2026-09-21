@@ -71,6 +71,13 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "'He died in my arms': Patrick Clancy opens up about the grief of losing 3 children",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/screenshot-2026-09-20-at-54057-pm_8046.png_bf57bb6f70f168a9f8c17a2bd5246c8c1940aaf250ff25083bb44807085d5235.png",
+        "link": "https://www.yahoo.com/news/us/articles/patrick-clancy-opens-grief-children-230620489.html",
+        "summary": "<p style=\"text-align: left;\"></p><p style=\"text-align: left;\"></p><p style=\"text-align: left;\">Patrick Clancy said he felt he had no purpose after his..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "ICE agent shoots and wounds man in Austin, authorities say",
         "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/8c1fb03e-c969-4930-b105-ff8d6f96ab86_3811fa2be0abf9dec807f1befbf64a4962b443c1a5ee2d8885ab9cc2d924461e.jpg",
         "link": "https://www.yahoo.com/news/us/articles/ice-agent-shoots-wounds-man-211813194.html",
@@ -92,17 +99,24 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Sen. Cassidy urges Trump to show 'radical honesty' about childhood vaccines",
-        "image": "https://media.zenfs.com/en/newsmax_809/762e0d2dedd9369de8a325e78282dd35.jpg",
-        "link": "https://www.newsmax.com/us/bill-cassidy-donald-trump-vaccines/2026/09/20/id/1270052",
-        "summary": "<figure>\n<img alt=\"Sen. Bill Cassidy (Tyler Kaufman/Getty Images)\" src=\"https://media.zenfs.com/en/newsmax_809/762e0d2dedd9369de8a325e78282dd35.jpg\" /..."
+        "title": "Bessent says U.S. proposed AI incident alert system in talks with China",
+        "image": "https://media.zenfs.com/en/ap.org/a0c1ee113ddb0ccac05a4c74288ec977.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/bessent-us-proposes-ai-incident-014924679.html",
+        "summary": "<p>NEW YORK (AP) \u2014 Treasury Secretary Scott Bessent said Sunday the U.S. has proposed a new \u201cnotification mechanism\u201d for <a href=\"https://apnews.com/h..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Over a dozen states are closer than ever to making daylight saving time permanent",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/aa234821a60fb5838f3ecdf99b67e339.jpg",
-        "link": "https://thehill.com/policy/energy-environment/6082525-19-states-approved-permanent-daylight-saving-time-the-last-obstacle-to-locking-their-clocks-could-soon-fall/",
-        "summary": "<figure><img height=\"533\" src=\"https://media.zenfs.com/en/the_hill_articles_341/aa234821a60fb5838f3ecdf99b67e339.jpg\" width=\"800\" /></figure>\n<p>(NEXS..."
+        "source": "Deutsche Welle",
+        "title": "US: Man wounded in Texas after being shot by ICE agent",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-man-wounded-in-texas-after-being-shot-by-ice-agent/a-79349482?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "An ICE agent shot and wounded a man in Austin, Texas. The city's mayor has called for an independent investigation into the shooting...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran closes language center in Tehran, France vows response",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-closes-language-center-in-tehran-france-vows-response/a-79348984?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "In response to the Iranian authorities' decision to close a French language center affiliated with its embassy in Tehran, France vowed to take appropr..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/afd-makes-gains-in-state-elections-but-has-no-government-options/a-79348308?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Despite making significant gains in both Berlin and Mecklenburg-Western Pomerania, the far-right AfD remains without options to form a state governmen..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany faces energy tax losses as EV sales rise",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The rapid shift to electric vehicles in Germany is cutting fuel tax revenue for the government. As EV sales surge, policymakers face growing pressure ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Peter Thiel: Power, Palantir, and the antichrist",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/peter-thiel-power-palantir-and-the-antichrist/a-79313426?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "He was early to back Facebook, early to back Donald Trump, and is one of the world\u2019s richest people. But from his theories on the antichrist and AI to..."
     }
 ]
