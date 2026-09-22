@@ -1,6 +1,20 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Oregon Officials Drop Effort To Hike Psilocybin Business Licensing Fees",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/oregon-officials-drop-effort-to-hike-psilocybin-business-licensing-fees/",
+        "summary": "<p>&#8220;OHA dropping this rulemaking is a win, but it does not mean we&#8217;ve won.&#8221; By Jack Gorsline, Psychedelic State(s) of America Follow..."
+    },
+    {
+        "source": "Marijuana Moment",
+        "title": "Michigan Marijuana Industry Shouldn\u2019t Trust GOP Governor Candidate\u2019s Pledge To Cut Taxes, Democratic Senator Says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/michigan-marijuana-industry-shouldnt-trust-gop-governor-candidates-pledge-to-cut-taxes-democratic-senator-says/",
+        "summary": "<p>A group representing Michigan marijuana businesses is endorsing the Republican candidate for governor due to his pledge to cut taxes on the industr..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "One Out Of Ten Senior Citizens Used Marijuana Within The Past 24 Hours, Federally Funded Study Says",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/one-out-of-ten-senior-citizens-used-marijuana-within-the-past-24-hours-federally-funded-study-says/",
@@ -19,20 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/dea-keeps-states-in-the-dark-about-cannabis-rescheduling-ca-official-says-newsletter-september-22-2026/",
         "summary": "<p>NC state-run marijuana store proposal; IL bill on cash payments to cannabis prohibition victims; PA legalization hearing Subscribe\u00a0to receive Marij..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "DEA Hasn\u2019t Shown \u2018Any Sort Of Interest\u2019 In Helping States Prepare For Marijuana Rescheduling, Top California Official Says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/dea-hasnt-shown-any-sort-of-interest-in-helping-states-prepare-for-marijuana-rescheduling-top-california-official-says/",
-        "summary": "<p>California&#8217;s top marijuana regulator says the Drug Enforcement Administration (DEA) hasn&#8217;t been cooperative in answering questions abou..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "North Carolina State Panel Considers Government-Run Marijuana Dispensaries And Centralized Warehouse",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/north-carolina-state-panel-considers-government-run-marijuana-dispensaries-and-centralized-warehouse/",
-        "summary": "<p>A North Carolina government commission that was appointed by the governor is considering recommending lawmakers legalize marijuana sales through a ..."
     },
     {
         "source": "MJBizDaily",
@@ -71,45 +71,52 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "U.S. broadcaster boycott against Trump faces 1st test at ribbon cutting ceremony",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/6bfd4010bc468eed5a7404e884ff3007.png",
-        "link": "https://www.yahoo.com/news/politics/articles/white-house-press-pool-why-114144019.html",
-        "summary": "<figure>\n<img alt=\"Trump, dressed in a suit, stands next two two men with high-viz jackets to his left and a man in a dark suit to his right at a ribb..."
+        "title": "Agency says it canceled 315,000 Obamacare health plans last month",
+        "image": "https://media.zenfs.com/en/reuters.com/5b150f7699c84deedb85a36a839d898c.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/us-says-canceled-315-000-143133907.html",
+        "summary": "<p>By Bo Erickson and Christy Santhosh </p> <p>  WASHINGTON, Sept 22 (Reuters) - The Trump administration is halting enrollment in Obamacare health pl..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump's plan to militarize proposed arch raises new concerns",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/b6f70368-e173-4d60-a8e5-2b417c40880f",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-plan-militarize-proposed-arch-233436397.html",
-        "summary": "<p>President Donald Trump\u2019s push to convert his planned triumphal arch near Arlington National Cemetery into a military complex has complicated a requ..."
+        "title": "Trump tells U.N. he could 'annihilate' Iran's regime but predicts a deal",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/e13f0f5db3d9670f32dffd3ea01e3b35.jpg_ec8fc1aeccc10213f3547ad1abcb204c9ac626602c22c0430741c05823432fdd.jpg",
+        "link": "https://www.cbsnews.com/news/trump-address-united-nations-general-assembly-meetings-world-leaders-iran-ukraine/",
+        "summary": "<p></p><p></p><p>Washington \u2014 President Trump defended his handling of conflicts around the world in a speech before the United Nations General Assemb..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "U.S. broadcaster boycott against Trump faced 1st test at ribbon cutting ceremony",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/6bfd4010bc468eed5a7404e884ff3007.png",
+        "link": "https://www.yahoo.com/news/politics/article/trump-tv-launches-after-white-house-bans-cnn-ms-now-and-politico-and-major-networks-halt-video-coverage-in-protest-155420637.html",
+        "summary": "<p style=\"text-align: left;\">The fallout from President Trump\u2019s decision to ban CNN, MS NOW and Politico reporters from the White House continued on M..."
     },
     {
         "source": "yahoo.com/news Top Stories",
         "title": "ICE hides locations of thousands of detainees with final removal orders",
-        "image": "https://media.zenfs.com/en/ap.org/fb8c39505f331384030d4e9eb4292cf2.jpg",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/d28f9aa7-a2d9-4402-a415-d1f92ec2da56",
         "link": "https://www.yahoo.com/news/us/articles/ap-exclusive-ice-hides-locations-163638068.html",
-        "summary": "<p>U.S. Immigration and Customs Enforcement has stopped publicly revealing where it is holding thousands of detainees who are subject to <a href=\"http..."
+        "summary": "<p style=\"text-align: left;\">U.S. Immigration and Customs Enforcement has stopped publicly revealing where it is holding thousands of detainees who ar..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Priest prepares to care for 31 children if ICE detains their parents",
-        "image": "https://media.zenfs.com/en/time_72/676a39ff18ae095d524e70f00694b838.jpg",
-        "link": "https://time.com/article/2026/09/22/El-Salvador-priest-standby-guardian-31-kids-immigration-TPS/",
-        "summary": "<section><figure><img src=\"https://media.zenfs.com/en/time_72/676a39ff18ae095d524e70f00694b838.jpg\" /><figcaption>Rev. Vidal Rivas has served at St. M..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "GOP shifts midterm priorities as concerns turn to defending seats in red states",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/a7545df4-f535-4fb7-9be6-c463d87a9a08",
-        "link": "https://www.yahoo.com/news/politics/articles/stop-contagion-gop-ramps-midterms-090000611.html",
-        "summary": "<p style=\"text-align: left;\">Republicans are playing defense deep in their own territory as voter anger over price hikes puts more House and Senate se..."
+        "title": "Trump's White House reportedly shut down corruption probe into Sen. Susan Collins",
+        "image": "https://media.zenfs.com/en/maine_morning_star_articles_742/7192fec571d75088f0ae025f87de9338.jpg",
+        "link": "https://mainemorningstar.com/2026/09/22/the-fbi-anti-corruption-squad-was-circling-susan-collins-until-trump-got-in-the-way/",
+        "summary": "<figure><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://media.zenfs.com/en/maine_morning_star_articles_742/719..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Spangdahlem: Military aircraft crashes near US air base",
+        "title": "Amateur archeologist unearths Germany's largest trove of Roman coins",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/spangdahlem-military-aircraft-crashes-near-us-air-base/a-79376025?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Spangdahlem Air Base is located in the German state of Rhineland-Palatinate...."
+        "link": "https://www.dw.com/en/amateur-archeologist-unearths-germany-s-largest-trove-of-roman-coins/a-79379127?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "What began as a routine search in a field near Wesseling led to the discovery of nearly 1,000 Roman silver coins, one of the most significant archaeol..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Military aircraft crashes near US air base in Spangdahlem, Germany",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/military-aircraft-crashes-near-us-air-base-in-spangdahlem-germany/a-79376025?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The F-16 pilot was able to safely eject from the plane and was taken to receive medical care. The incident occurred near Spangdahlem Air Base in the G..."
     },
     {
         "source": "Deutsche Welle",
@@ -123,20 +130,13 @@
         "title": "Young Berliners vote overwhelmingly for socialist Left  Party",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/young-berliners-vote-overwhelmingly-for-socialist-left-party/a-79375167?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Berlin's young voters overwhelmingly supported the victorious socialist Left Party. Are the young more radical? Or is that just a reflection of curren..."
+        "summary": "Berlin's young voters overwhelmingly supported the victorious socialist Left Party. Are the young more radical? Or are the election results just a ref..."
     },
     {
         "source": "Deutsche Welle",
         "title": "Living in the shadow of LA's hidden oil wells",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/living-in-the-shadow-of-la-s-hidden-oil-wells/a-79237420?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Many lifelong residents of Los Angeles have health impacts from growing up so close to oil extraction. Now, the city is trying to close down the worst..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "After floods, Nepal minister demands 'climate justice'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/after-floods-nepal-minister-demands-climate-justice/a-79372239?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "With Nepal still reeling from the devastating floods in August, Kathmandu is calling for climate justice and seeking compensation from the UN-backed L..."
+        "summary": "Many lifelong residents of Los Angeles have health impacts from growing up close to oil extraction. Now, the city is trying to close down the worst of..."
     }
 ]
