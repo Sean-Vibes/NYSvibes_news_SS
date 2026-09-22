@@ -71,6 +71,20 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Trump faces U.N. spotlight as Iran war, oil pressure and diplomacy collide",
+        "image": "https://media.zenfs.com/en/afp.com/0f459e076354fdeac52de9b6c93eda2f.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-tout-deals-defend-iran-011447885.html",
+        "summary": "<figure><img src=\"https://media.zenfs.com/en/afp.com/0f459e076354fdeac52de9b6c93eda2f.jpg\" /><figcaption>Last year's speech was characterized by Trump..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "No criminal charges in death of Mississippi teen Nolan Wells, grand jury finds",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ba7c13926b289d7cd9892e94d2e23daf.jpg_31c8388866d13fd658396b86fe9e48e5e9839c53150006425b6e689f746900f6.jpg",
+        "link": "https://abcnews.com/US/criminal-charges-death-nolan-wells-grand-jury-report/story?id=136638251",
+        "summary": "<div><p>The grand jury reviewing the evidence in the death of Nolan Wells has found that no criminal charges are warranted at this point, according to..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Trump called off Houthi strikes as military leaders debated risks of expanding war",
         "image": "https://media.zenfs.com/en/nbc_news_122/8939809cfdbe91a1c7c6c4c74fdff863.jpg",
         "link": "https://www.nbcnews.com/politics/national-security/us-military-leaders-divided-action-houthis-rcna599049",
@@ -78,65 +92,51 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump detours to visit with New York's Mamdani ahead of U.N. speech",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/21b5a260-2912-424f-a881-05c4f10a97cd_5722e07055471cb21805d854d9f969cb2856f7d307ee2d490dfa806e546126ec.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/worlds-leaders-waiting-trump-meets-232259407.html",
-        "summary": "<p style=\"text-align: left;\">NEW YORK (AP) \u2014 President Donald Trump's trip to New York for a speech at the United Nations started Monday with a detour..."
+        "title": "U.S. reportedly plans to open two new military bases in Greenland",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/3f5eb247-1977-4f95-a3a7-265bfd1c709e_418563ec4d12ec2934df64f86293ad074dbe9b87554417af7b943dcba58af384.jpg",
+        "link": "https://uk.news.yahoo.com/exclusive-us-open-two-military-223359125.html",
+        "summary": "<p>By Stine Jacobsen, Erin Banco and Gram Slattery </p> <p>  COPENHAGEN/WASHINGTON, Sept 21 (Reuters) - The US plans to re-establish a Cold War-era mi..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Critics say California got too little in deal to let Paramount buy Warner Bros",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/5c11ddfc-6274-43a9-b6f1-1ba780f9d0e9_e8f4e501ea830bb5bb7c3b129ad52e6ba06a93c9b7fdae49aae8baa09cb8e906.jpg",
-        "link": "https://finance.yahoo.com/news/critics-california-got-too-little-212429667.html",
-        "summary": "<p>By Jody Godoy and Chris Sanders </p> <p>  WASHINGTON, Sept 21 (Reuters) - Critics swiftly decried a California-driven settlement with Paramount Sky..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Grand jury finds no criminal charges warranted in Nolan Wells's death",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ba7c13926b289d7cd9892e94d2e23daf.jpg_31c8388866d13fd658396b86fe9e48e5e9839c53150006425b6e689f746900f6.jpg",
-        "link": "https://abcnews.com/US/criminal-charges-death-nolan-wells-grand-jury-report/story?id=136638251",
-        "summary": "<div><p>The grand jury reviewing the evidence in the death of Nolan Wells has found that no criminal charges are warranted at this point, according to..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Jobs that earn six figures without going to college \u2014 and why they are rare",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/87cc994f-7717-4009-af60-c07e33f475e4",
-        "link": "https://finance.yahoo.com/economy/policy/articles/jobs-earn-six-figures-without-121553473.html",
-        "summary": "<p style=\"text-align: left;\">As college costs and student debt have Americans doubting the value of higher education, there's growing interest in high..."
+        "title": "2 helicopter pilots killed while making water drops on Yosemite fire",
+        "image": "https://media.zenfs.com/en/the_guardian_765/f4263c002e4dfe1e0a68e0d982de69d5.jpg",
+        "link": "https://www.yahoo.com/news/weather-news/articles/two-helicopter-pilots-killed-while-205012449.html",
+        "summary": "<figure>\n<img src=\"https://media.zenfs.com/en/the_guardian_765/f4263c002e4dfe1e0a68e0d982de69d5.jpg\" />\n<figcaption>\n<span>The Dome fire burning in Yo..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "UK: Man charged over suspected role in Rwanda genocide",
+        "title": "UNGA: Leaders gather as General Assembly kicks off",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-man-charged-over-suspected-role-in-rwanda-genocide/a-79364493?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The suspect has been accused of directing and inciting acts of murder and genocide carried out by others in Rwanda...."
+        "link": "https://www.dw.com/en/unga-leaders-gather-as-general-assembly-kicks-off/live-79366211?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "World leaders have begun gathering in New York for the UN General Assembly. US President Trump will address the body on Tuesday, as will his Finnish, ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "US-China rivalry is reshaping global trade \u2014 and Europe is caught in the middle.",
+        "title": "'Swang Song': New book by Princess Diana's brother drops",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-china-rivalry-is-reshaping-global-trade-and-europe-is-caught-in-the-middle/a-79356540?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "China's Xi Jinping is traveling to Washington this week. Regardless of what comes from his talks with US President Trump, the EU will likely remain st..."
+        "link": "https://www.dw.com/en/swang-song-new-book-by-princess-diana-s-brother-drops/a-79365835?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A memoir penned by Charles Spencer on his older sister's life has been released, opening old royal wounds nearly three decades after Princess Diana's ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "US news outlets sue Trump over White House ban",
+        "title": "Will Germany have enough gas this winter?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-news-outlets-sue-trump-over-white-house-ban/a-79362618?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "CNN, MS NOW, and Politico say the ban against them threatens press freedom and the right to independent journalism...."
+        "link": "https://www.dw.com/en/will-germany-have-enough-gas-this-winter/a-79360317?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany's gas storage sites are far less full than in recent years. Officials say supplies are secure, but analysts warn that a cold winter or import ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Nuclear power is back on Southeast Asia's energy agenda",
+        "title": "Germany news: VW to step up cost-cutting program",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nuclear-power-is-back-on-southeast-asia-s-energy-agenda/a-79358744?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Rising electricity demand, shocks in energy security and climate commitments are reviving long-stalled plans for nuclear power across Southeast Asia. ..."
+        "link": "https://www.dw.com/en/germany-news-vw-to-step-up-cost-cutting-program/live-79365190?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Volkswagen's chief says the carmaker will accelerate its streamlining measures as workers protest. The Israeli ambassador says the Left Party win in B..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Why gender-based violence persists in Southern Africa",
+        "title": "Germany: Chancellor Merz braces for difficult days ahead",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-gender-based-violence-persists-in-southern-africa/a-79356560?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A series of killings in South Africa has renewed scrutiny of efforts to combat violence against women. Activists say laws alone are not enough without..."
+        "link": "https://www.dw.com/en/germany-chancellor-merz-braces-for-difficult-days-ahead/a-79365325?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany's far-right AfD and the socialist Left Party gained ground in recent state elections, while the centrist parties lost support. The biggest los..."
     }
 ]
