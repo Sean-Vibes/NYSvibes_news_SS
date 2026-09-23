@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Missouri Supreme Court Hears Marijuana Business Licensing Case",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/missouri-supreme-court-hears-marijuana-business-licensing-case/",
+        "summary": "<p>&#8220;I\u2019m asking this court to make findings as to the proper score for each of these applications.&#8221; By Rebecca Rivas, Missouri Independent ..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Federal Watchdog Agency Says Drug Scheduling Process Has \u2018Gaps\u2019 As DEA\u2019s Marijuana Review Continues",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/federal-watchdog-agency-says-drug-scheduling-process-has-gaps-as-deas-marijuana-review-continues/",
@@ -28,11 +35,11 @@
         "summary": "<p>Should MI marijuana biz trust GOP gov candidate?; Insurance industry backs cannabis coverage bill; Study: Seniors &#38; cannabis use; OR psilocybin..."
     },
     {
-        "source": "Marijuana Moment",
-        "title": "Teen Marijuana Use Hits All-Time Low As More States Legalize It For Adults, Federal Data Shows",
+        "source": "MJBizDaily",
+        "title": "Ohio cannabis store reopens after brief health scare tied to vapes",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/teen-marijuana-use-hits-all-time-low-as-more-states-legalize-it-for-adults-federal-data-shows/",
-        "summary": "<p>The percentage of U.S. high school students who use marijuana is now at an all-time low\u2014even as more states continue to legalize cannabis for adult..."
+        "link": "https://mjbizdaily.com/news/ohio-cannabis-store-reopens-after-brief-health-scare-tied-to-vapes/618244/",
+        "summary": "<p>An Ohio cannabis store was allowed to reopen last week after a brief health scare that authorities believed could have been tied to cannabis vapori..."
     },
     {
         "source": "MJBizDaily",
@@ -63,25 +70,32 @@
         "summary": "<p>From 350 retail licenses to a lottery system and fees, here's what operators need to know about Virginia's draft adult-use cannabis rules. </p>\n<p>..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "New Jersey cannabis retailer sells to marijuana MSO for $9 million",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/new-jersey-cannabis-retailer-sells-to-marijuana-mso-for-9-million/618212/",
-        "summary": "<p>The purchase, in a $9 million cash and debt deal, gives MSO TerrAscend five retail locations in New Jersey.</p>\n<p><a href=\"https://mjbizdaily.com/..."
+        "source": "yahoo.com/news Top Stories",
+        "title": "Trump administration says White House access is a 'privilege' in media fight",
+        "image": "https://media.zenfs.com/en/ap.org/5870e93a9b9b1a7422c9fcdc4ed4b601.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-defend-ban-three-165451903.html",
+        "summary": "<p>WASHINGTON (AP) \u2014 The extraordinary showdown between President Donald Trump and media outlets <a href=\"https://apnews.com/article/white-house-media..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Republicans bet big on Latino voters in Texas. That bet is suddenly looking shakier.",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/d9199d5cf559d04568bb9f7e1b9f3fe8_7017.jpeg_4bb947c4449c1762ee1dcd669b39319590e71c1107c0c562ee8665ed96046e24.webp",
-        "link": "https://www.yahoo.com/news/articles/republicans-may-gerrymandered-way-texas-100229144.html",
-        "summary": "<p>(Corrects Trump's approval rating in paragraph three) </p> <p>  By David Hood-Nu\u00f1o and Evan Garcia </p> <p>  DONNA, Texas, Sept 23 (Reuters) - Sout..."
+        "title": "How state errors mistakenly put more than 30,000 noncitizens on voter rolls",
+        "image": "https://media.zenfs.com/en/reuters.com/81483b3d3dd93fb05f26f745938eb079.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/thirty-thousand-mistakes-red-blue-100331120.html",
+        "summary": "<p>By David Morgan </p> <p>  WASHINGTON, Sept 23 (Reuters) - US states may have added more than 30,000 self-declared non-citizens to the nation\u2019s vote..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Iran's president rules out surrender as indirect talks with U.S. resume in New York",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/7a425886-b59a-4d75-adce-9f3f1c221d67_bbac9f9a37a0cc87f93b1850b97288286bb1fa071c29bcc456f4d6b05a80473b.jpg",
-        "link": "https://uk.news.yahoo.com/hope-progress-us-iran-hold-103122383.html",
-        "summary": "<p style=\"text-align: left;\">By Parisa Hafezi, Humeyra Pamuk and Jana Choukeir</p><p style=\"text-align: left;\">UNITED NATIONS/DUBAI, Sept 23 (Reuters)..."
+        "title": "Melania Trump says Donald Trump 'sometimes doesn't want to hear' her feedback",
+        "image": "https://media.zenfs.com/en/people_218/6373ce7d27580ab438853afc6839a8a5.jpg",
+        "link": "https://people.com/melania-trump-says-donald-trump-sometimes-doesnt-want-to-hear-what-she-tells-him-12136264",
+        "summary": "<figure><img alt=\"Donald Trump; Melania Trump on &#x002018;Fox &amp; Friends&#x002019;Credit: Evan Vucci-Pool/Getty; Fox\" src=\"https://media.zenfs.com..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Iran's president backs diplomacy but rules out surrender after Trump\u2019s threat",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/dc8774a0-7522-4538-9f5c-e6200f5fbc1d_291b70df3bb284024156f526326db60811b17d58be14cf4e81c3d629259d1d80.jpg",
+        "link": "https://www.yahoo.com/news/articles/hope-progress-us-iran-hold-103122383.html",
+        "summary": "<p>By Parisa Hafezi, Humeyra Pamuk and Jana Choukeir </p> <p>  UNITED NATIONS/DUBAI, Sept 23 (Reuters) - Iran and the United States remain far apart o..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -91,52 +105,38 @@
         "summary": "<figure><img alt=\"A millennial and a baby boomer fighter on top of a ripped 1040 form\" height=\"1000\" src=\"https://media.zenfs.com/en/business_insider_..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Trump's grip on the GOP is slipping as midterm election anxiety sets in",
-        "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/6b19173779904079e29cdfc456f6f339.jpg",
-        "link": "https://finance.yahoo.com/economy/policy/articles/trump-grip-gop-slips-midterm-002315449.html",
-        "summary": "<p>(Bloomberg) -- As Donald Trump took an aggressive stance on the global stage at the United Nations on Tuesday, several Senate Republicans were brea..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Harvey Weinstein sentenced to 15 years in prison for 2006 sexual assault",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1e0210eb-8bc9-4a34-bc69-cd82ec39f4c8_6262a2924eacb7bd12ecd8e31744af79d3783e569542e817c1190b7205dabfd9.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/harvey-weinstein-set-sentenced-sexual-040218258.html",
-        "summary": "<p>NEW YORK (AP) \u2014 <a href=\"https://apnews.com/hub/harvey-weinstein\">Harvey Weinstein</a>, the disgraced movie mogul, was sentenced in Manhattan to 15..."
+        "source": "Deutsche Welle",
+        "title": "Berlin Airport briefly suspends flights over drone sighting",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/berlin-airport-briefly-suspends-flights-over-drone-sighting/a-79403865?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Airspace over the German capital was temporarily closed after a drone was spotted on the runway. Flights have resumed but are experiencing delays...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Ethiopia: Where does the Tigray conflict go from here?",
+        "title": "Harvey Weinstein resentenced to 15 years for sexual assault",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ethiopia-where-does-the-tigray-conflict-go-from-here/a-79400869?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/harvey-weinstein-resentenced-to-15-years-for-sexual-assault/a-79403381?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The disgraced Hollywood mogul was found guilty of sexually assaulting former production assistant Miriam Haley. The man whose case spurred the #MeToo ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "New fighting in Ethiopia's Tigray region raises fears of a return to the country's civil war",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/new-fighting-in-ethiopia-s-tigray-region-raises-fears-of-a-return-to-the-country-s-civil-war/a-79400869?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Fighting in and around Tigray is testing Ethiopia's fragile 2022 peace deal. With old enemies forming new alliances, experts warn that the conflict co..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Who is skipping the UN General Assembly \u2014 and why",
+        "title": "Eviction of 87-year-old woman sparks housing protests in Madrid",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/who-is-skipping-the-un-general-assembly-and-why/a-79391652?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Xi Jinping, Vladimir Putin, Friedrich Merz, Giorgia Meloni and Mahmoud Abbas are among more than 50 leaders who won't make it to the UN General Assemb..."
+        "link": "https://www.dw.com/en/eviction-of-87-year-old-woman-sparks-housing-protests-in-madrid/a-79399342?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Police escorted Maricarmen Abascal from the apartment she had called home for more than seven decades. The case has reignited debate over Spain's hous..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Could a Left Party government in Berlin expropriate large real estate companies?",
+        "title": "Trump's Board of Peace proposes $2.45B for reconstruction in Gaza",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/could-a-left-party-government-in-berlin-expropriate-large-real-estate-companies/a-79399683?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The socialist Left Party won the Berlin election partly on the promise to implement the city's 2021 expropriation referendum as a way to solve the cit..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "China's 13-year-old swimming star raises questions on child athletes",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/china-s-13-year-old-swimming-star-raises-questions-on-child-athletes/a-79394183?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Three gold medals and three Asian Games records have catapulted China's Yu Zidi, 13, into the sporting spotlight. She is far from the first teen prodi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pakistan's jailed former PM Khan's sons told DW the authorities are cracking down ahead of new PTI protests",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pakistan-s-jailed-former-pm-khan-s-sons-told-dw-the-authorities-are-cracking-down-ahead-of-new-pti-protests/a-79392147?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The sons of jailed Pakistani ex-PM Imran Khan told DW their father is in ill-health while being isolated from family and doctors. Other family members..."
+        "link": "https://www.dw.com/en/trump-s-board-of-peace-proposes-2-45b-for-reconstruction-in-gaza/a-79401612?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The board has noted that the Palestinian enclave needs roughly $35.2 billion for full, medium-term reconstruction. Trump's plan for peace in Gaza has ..."
     }
 ]
