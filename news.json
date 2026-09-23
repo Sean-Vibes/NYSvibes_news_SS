@@ -71,10 +71,17 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump confronts CNN's Kaitlan Collins over his media ban: \u2018You shouldn\u2019t be covering me\u2019",
+        "title": "Trump confronts CNN reporter at United Nations as his media ban heads to court",
         "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/0109a68a-b67b-4941-9864-a96d3c9e80ff_0404f48f8b101437bf58501190c3b8ae659eaf943aa3442c1c7a7531ec4279e9.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/not-trump-tells-cnn-un-214547662.html",
-        "summary": "<p style=\"text-align: left;\">NEW YORK (AP) \u2014 On a day of high-stakes diplomacy on the global stage, President Donald Trump began <a class=\"link\" href=..."
+        "summary": "<p>NEW YORK (AP) \u2014 On a day of high-stakes diplomacy on the global stage, President Donald Trump began <a href=\"https://apnews.com/live/trump-unga-xi-..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "AOC opens up about her race and gender in weighing a possible White House bid",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/9393a9fe33e5d59d9789f4bed9e32d1e.jpg",
+        "link": "https://www.foxnews.com/media/aoc-opens-up-about-race-gender-weighing-possible-2028-white-house-bid",
+        "summary": "<p>Rep. <a href=\"https://foxnews.com/category/person/alexandria-ocasio-cortez\">Alexandria Ocasio-Cortez</a>, D-N.Y., raised concerns during an intervi..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -92,17 +99,17 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "U.S., Greenland and Denmark sign deal in bid to end Arctic standoff",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/1df875bb555a6e61db87bc61dae68901.jpg_adddd7f138599c7469f1eb6ea5b4826113958b56f60a522997962577bba0af52.jpg",
-        "link": "https://uk.news.yahoo.com/trump-greenland-denmark-sign-deal-163727098.html",
-        "summary": "<p>By Gram Slattery and Jacob Gronholt-Pedersen </p> <p>  UNITED NATIONS, Sept 22 (Reuters) - US President Donald Trump and the leaders of Greenland a..."
+        "title": "Missouri congressional map returns to Supreme Court for a 3rd time",
+        "image": "https://media.zenfs.com/en/ap.org/8137910ad31af191f982ccb09d74b4e4.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-backed-missouri-congressional-map-035536596.html",
+        "summary": "<p>WASHINGTON (AP) \u2014 The fight over <a href=\"https://apnews.com/article/redistricting-congress-missouri-trump-gerrymandering-5034c87f2161baa933ea33740..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Older women are dying from UTIs. Doctors say a treatment is being missed.",
-        "image": "https://media.zenfs.com/en/usa_today_life_698/90c5bc7f1eb551113101331d5e12f915.jpg",
-        "link": "https://www.usatoday.com/story/life/health-wellness/2026/09/22/menopause-uti-vaginal-estrogen-sepsis/91680008007/",
-        "summary": "<p><img alt=\"After losing her mother, Roselin Shankland, to sepsis following multiple urinary tract infections, Lorrie Durbin is speaking about the ne..."
+        "source": "Deutsche Welle",
+        "title": "Sri Lanka: 15 men jailed for life in 2019 Easter bombings",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/sri-lanka-15-men-jailed-for-life-in-2019-easter-bombings/a-79382342?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The 15 convicts have been given prison sentences of at least 200 years each, following a long trial in what was among Sri Lanka's deadliest attacks...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/military-aircraft-crashes-near-us-air-base-in-spangdahlem-germany/a-79376025?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The F-16 pilot was able to safely eject from the plane and was taken to receive medical care. The incident occurred near Spangdahlem Air Base in the G..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US-China AI race: Does Trump want to regulate AI by forming a new task force and a special envoy for artificial intelligence in the US?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-china-ai-race-does-trump-want-to-regulate-ai-by-forming-a-new-task-force-and-a-special-envoy-for-artificial-intelligence-in-the-us/a-79372591?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Do Trump's task force and a special envoy for artificial intelligence in the US indicate a move toward regulating this disputed technology, particular..."
     }
 ]
