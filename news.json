@@ -71,6 +71,13 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "8 sailors assigned to U.S. carrier group that fought in Iran war attempted suicide, Navy says",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/fac3f55d940a1d0ce2c732628eb86b03.jpg",
+        "link": "https://www.cnn.com/2026/09/23/politics/eight-sailors-lincoln-carrier-group-iran-war-attempted-suicide",
+        "summary": "<figure><img alt=\"Aircraft on the deck of the US Navy Nimitz-class aircraft carrier USS Abraham Lincoln as it docks for a rest stop at Laem Chabang Po..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Judge weighs White House ban on 3 news outlets but issues no immediate ruling",
         "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/e47eab0d-b23a-4f8c-bd79-76337d842e36_cfd279e9ab0ef3c28ea431056bd174aa534eb26a88461526c9acc15281d34a06.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/trump-administration-defend-ban-three-165451903.html",
@@ -98,18 +105,11 @@
         "summary": "<p>WASHINGTON (AP) \u2014 Chinese President <a href=\"https://apnews.com/hub/xi-jinping\">Xi Jinping</a> arrived in Washington on Wednesday, where he was met..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Iran's president backs diplomacy but rules out surrender after Trump\u2019s threat",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/dc8774a0-7522-4538-9f5c-e6200f5fbc1d_291b70df3bb284024156f526326db60811b17d58be14cf4e81c3d629259d1d80.jpg",
-        "link": "https://www.bbc.com/news/articles/cqvgyjy23ggjo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-        "summary": "<figure>\n<img alt=\"Iranian President Masoud Pezeshkian addresses the UN General Assembly in New York (23 September 2026)\" height=\"1125\" src=\"https://m..."
-    },
-    {
         "source": "Deutsche Welle",
         "title": "Live updates: Trump welcomes Xi to Washington",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/live-updates-trump-welcomes-xi-to-washington/live-79404511?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Donald Trump welcomes Xi Jinping to the US by greeting him personally at the tarmac at Joint Base Andrews. The two are expected to discuss trade, AI, ..."
+        "summary": "Donald Trump welcomed Xi Jinping to the US by greeting him personally at the tarmac at Joint Base Andrews. The two are expected to discuss trade, AI, ..."
     },
     {
         "source": "Deutsche Welle",
