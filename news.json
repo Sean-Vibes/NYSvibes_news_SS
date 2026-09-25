@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "Maryland veterinarians allowed to discuss cannabis product for pets",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/maryland-veterinarians-allowed-to-discuss-cannabis-product-for-pets/618280/",
+        "summary": "<p>Maryland's new law allows veterinarians to guide clients before they turn to dispensaries and online advice. </p>\n<p><a href=\"https://mjbizdaily.co..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "What can an MJBowl win do for your cannabis brand?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/what-can-an-mjbowl-win-do-for-your-cannabis-brand/618270/",
@@ -63,11 +70,18 @@
         "summary": "<p>Like SAFE Banking, the CLAIM Act targets the federal-state conflict that keeps insurers out of cannabis, even after rescheduling.</p>\n<p><a href=\"h..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Ohio cannabis store reopens after brief health scare tied to vapes",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/ohio-cannabis-store-reopens-after-brief-health-scare-tied-to-vapes/618244/",
-        "summary": "<p>An Ohio cannabis store was allowed to reopen last week after a brief health scare that authorities believed could have been tied to cannabis vapori..."
+        "source": "yahoo.com/news Top Stories",
+        "title": "5 takeaways from the Trump-Xi summit, from the trade deal to the 'Thucydides Trap'",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/d8e700f8-05f7-4ec0-9d95-07e88838f2f8_9b24308c5fe279ec0f2e9af1ed77218e2ea67980fa0e9e0f3403da89da0a5b76.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/four-takeaways-trumps-summit-xi-205101025.html",
+        "summary": "<p>By Simon Lewis, Trevor Hunnicutt and David Brunnstrom </p> <p>  WASHINGTON, Sept 24 (Reuters) - US President Donald Trump welcomed Chinese Presiden..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "California high court rules sheriff's seizure of 650,000 ballots was unlawful",
+        "image": "https://media.zenfs.com/en/la_times_articles_853/581171e3d6ab74796214c4e30d6016b6.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/ballot-seizure-riverside-county-sheriff-175537732.html",
+        "summary": "<figure><img alt=\"Riverside County Sheriff Chad Bianco arrives at the Supreme Court of California.\" height=\"560\" src=\"https://media.zenfs.com/en/la_ti..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -91,18 +105,11 @@
         "summary": "<p style=\"text-align: left;\">Reporters from CNN, MS NOW and Politico had their access to the White House restored on Thursday after temporarily being ..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "More people are sending AI to fight their customer service battles",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/c4fec8d1bc814406a1e817108ab61da2.jpg_31e1d30c8af90a83130372ae2996af3cc21763508fe5ada71792bc8e010d48b5.jpg",
-        "link": "https://www.businessinsider.com/ai-agents-customer-service-calls-companies-2026-9",
-        "summary": "<figure><img alt=\"Frustrated customer service agent with headset surrounded by angry and tired emojis.\" height=\"1000\" src=\"https://media.zenfs.com/en/..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "U.S. and Iran weigh a trade-off that could reopen the Strait of Hormuz",
-        "image": "https://media.zenfs.com/en/reuters.com/3dbdfa3718e2ac69e3e50a323812fa24.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/us-iran-discuss-phased-deal-161727983.html",
-        "summary": "<p>By Samia Nakhoul, Parisa Hafezi and John Irish </p> <p>  Sept 24 (Reuters) - US and Iranian negotiators in New York are exploring a phased path out..."
+        "source": "Deutsche Welle",
+        "title": "J\u00fcrgen Klopp starts Germany job with shaky Netherlands draw",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/j\u00fcrgen-klopp-starts-germany-job-with-shaky-netherlands-draw/a-79420143?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A late Netherlands goal denied J\u00fcrgen Klopp a win in his first match as Germany coach. The former Liverpool and Borussia Dortmund boss has big ambitio..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/after-several-difficult-years-economists-now-expect-german-economy-to-grow/a-79418591?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Germany's economy is growing again, but recovery remains on shaky ground. High government spending is keeping the economy afloat, while energy prices,..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "CNN, MS NOW, Politico regain access to White House",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/cnn-ms-now-politico-regain-access-to-white-house/a-79405693?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A federal judge has ordered President Trump to restore White House access to CNN, MS NOW and Politico after he banned the media outlets from the premi..."
     }
 ]
