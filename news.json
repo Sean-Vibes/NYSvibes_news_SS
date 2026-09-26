@@ -71,9 +71,23 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "China says it agrees to a $30B tariff cut and trade council with the U.S.",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/4269cb1cb97a08b7e5d8369830545b19.jpg_c1c298dac8012a70539d1446dd1fcf1b8393529d57aef882b19e24434a7c846d.jpg",
+        "link": "https://www.yahoo.com/news/articles/china-us-agree-30-billion-083836628.html",
+        "summary": "<p>SHANGHAI, Sept 26 (Reuters) - The United States and China have agreed to reduce tariffs on $30 billion of goods and launch a dialogue on AI, both c..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Talarico suffers setback as Texas undecided voters decide",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/93010cc5e49792e758436d71125d3d77.jpg_3b4f10a2261bb791d07245f108f856062f0e89fafcbea6f7a1c01ecf8e995dfd.jpg",
+        "link": "https://www.newsweek.com/talarico-suffers-double-poll-blow-as-texas-undecided-voters-decide-12492400",
+        "summary": "<p>James Talarico\u2019s poll lead over Ken Paxton in the crunch Texas Senate battle has fallen by one point according to two new opinion polls, which also..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Roads flood in New Jersey, inundating some homes, as a nor\u2019easter takes shape",
         "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/09dccfe0-da21-433b-9aa4-1fe518d318d8",
-        "link": "https://www.yahoo.com/news/weather-news/live/live-updates-powerful-noreaster-batters-east-coast-with-coastal-flooding-high-winds-and-power-outages-150729723.html",
+        "link": "https://www.yahoo.com/news/weather-news/live/noreaster-updates-powerful-storm-batters-east-coast-with-coastal-flooding-high-winds-and-power-outages-150729723.html",
         "summary": "<p style=\"text-align: left;\">A powerful nor'easter is battering the East Coast this weekend, bringing major coastal flooding, damaging winds and heavy..."
     },
     {
@@ -85,24 +99,24 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Energy experts warn a diesel ban could burn U.S. credibility",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/16ad4b75-5ec3-419f-a076-b8afa851b625",
-        "link": "https://www.yahoo.com/news/politics/articles/diesel-ban-could-burn-us-160000833.html",
-        "summary": "<p style=\"text-align: left;\">President Donald Trump's threat to curtail diesel shipments abroad comes with a risk: the perception that he's reneging o..."
+        "title": "House Democrats plan vast oversight of Trump admin. Impeachment is an option.",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/fd5d88dbfc76a2fd46700ebe691bd1d0.jpg_1eaf6404635caaffc44af6bccfd91dd644c79dc3b80a947fb1598cfbe391e37a.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/house-democrats-plan-vast-oversight-121141868.html",
+        "summary": "<p>WASHINGTON (AP) \u2014 House Democrats are preparing a vast oversight agenda, with investigations of <a href=\"https://apnews.com/hub/donald-trump\">Presi..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Trump blocks CNN from traveling on Air Force One",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/788d8b60508da57407089d01f387c91e.jpg",
-        "link": "https://www.usatoday.com/story/news/politics/2026/09/26/trump-blocks-cnn-air-force-one/91956282007/",
-        "summary": "<p>In President <a href=\"https://www.usatoday.com/news/politics/donald-trump/\" target=\"_blank\">Donald Trump</a>'s latest move to restrict certain news..."
+        "source": "Deutsche Welle",
+        "title": "Germany news: EU ministers meet for migration showdown",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-eu-ministers-meet-for-migration-showdown/live-79441034?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "European interior ministers hold migration talks in Munich as the bloc plans to strengthen borders and speed up deportations. Meanwhile, trade unions ..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "4 American tourists dead after building explosion in Greece",
-        "image": "https://media.zenfs.com/en/cbs_news_897/ba8c36ea07a0c8095d86140cad3abbc7.jpg",
-        "link": "https://www.cbsnews.com/news/americans-greece-athens-building-explosion-collapse/",
-        "summary": "<p></p><p></p><p>Four Americans were among the six people who died after an explosion and building collapse in Athens' tourist district of Plaka near ..."
+        "source": "Deutsche Welle",
+        "title": "Backlash over data centers tests Europe's AI ambitions",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/backlash-over-data-centers-tests-europe-s-ai-ambitions/a-79419800?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Massive data centers needed to run AI are triggering protests across Europe. Their operators counter that they boost digital sovereignty and energy in..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/paris-pope-leo-xiv-celebrates-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The pope addressed around 700,000 people during a Mass at the Place de la Concorde, near the Champs-Elysees. Leo XIV is on a four-day visit to France...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia expected to intensify hybrid war on Europe",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-expected-to-intensify-hybrid-war-on-europe/a-79444596?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Drone explosions, airspace violations, arson attacks: Poland, Romania, and Moldova are now regularly targeted in Russian attacks against Ukraine. More..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany's FM Wadephul meets Lavrov on UNGA sidelines",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-fm-wadephul-meets-lavrov-on-unga-sidelines/live-79366211?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "It's the first such meeting since Russia launched the invasion of Ukraine in February 2022. DW has the latest on day 5 of the UN General Assembly deba..."
     }
 ]
