@@ -71,6 +71,13 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Trump reportedly rejects Iran ceasefire and expects bombing to resume after midterms",
+        "image": "https://media.zenfs.com/en/newsmax_809/39e5b8106b202d253d68f646260fce16.png",
+        "link": "https://www.newsmax.com/politics/Trump-Rejects-Iran-Ceasefire-Expects-Bombing-to-Resume-After-Midterms/2026/09/25/id/1270759",
+        "summary": "<figure>\n<img alt=\"A woman walks past a banner showing missiles being launched, in northern Tehran, Iran. (AP)\" src=\"https://media.zenfs.com/en/newsma..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
         "image": "https://media.zenfs.com/en/bbc_us_articles_995/18b98dd3dce71d352eb8a9b15e610602.jpg",
         "link": "https://www.bbc.com/news/articles/cm4gjjlgzdjgo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
@@ -92,13 +99,6 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Polling data shows Democrats enjoying their biggest lead yet in the race for Congress",
-        "image": "https://media.zenfs.com/en/nbc_news_122/6c5829d81bffa577b99b637e2b6ee3e8.jpg",
-        "link": "https://www.nbcnews.com/politics/2026-election/nbc-news-polling-averages-democrats-enjoy-biggest-lead-yet-race-congre-rcna599378",
-        "summary": "<figure><img alt=\"Hakeem Jeffries and Mike Johnson. (Tom Williams / CQ-Roll Call via Getty Images file)\" height=\"1667\" src=\"https://media.zenfs.com/en..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
         "title": "Justice Jackson says Supreme Court intervenes too quickly in Trump cases",
         "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/6d33175f-f6de-44c1-9dce-97f1ada69f07_687be55151cebc5a9391fd99ec2046721bcdf66ad8a907daa221e44ee6d546f9.jpg",
         "link": "https://www.usatoday.com/story/news/politics/2026/09/24/supreme-court-justice-jackson-emergency-trump/91929442007/",
@@ -106,37 +106,37 @@
     },
     {
         "source": "Deutsche Welle",
+        "title": "Thailand: Bangkok flooding triggers disaster declaration",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/thailand-bangkok-flooding-triggers-disaster-declaration/a-79440575?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Rainfall over the past three days has caused heavy flooding in the Thai capital. A state of disaster has been declared in all 50 districts in Bangkok...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "OpenAI tools post user images from ChatGPT online",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/openai-tools-post-user-images-from-chatgpt-online/a-79440406?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "OpenAI said it found 53 cases in which user-uploaded image links on ChatGPT were shared with third-party websites. The company said it had removed mos..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "White House bars CNN from covering upcoming Trump trip, broadcaster says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/white-house-bars-cnn-from-covering-upcoming-trump-trip-broadcaster-says/a-79440241?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "CNN said its journalists have been barred from accompanying President Donald Trump on his upcoming trip to Tennessee. The episode marks the Trump admi..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "TikTok agrees to settle with Alabama state over teen safety",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/tiktok-agrees-to-settle-with-alabama-state-over-teen-safety/a-79440240?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The settlement involves TikTok adding several child safety measures to its platform including time limits and increased parental control. It is simila..."
+    },
+    {
+        "source": "Deutsche Welle",
         "title": "Yemeni leader calls for general mobilization against Houthis",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/yemeni-leader-calls-for-general-mobilization-against-houthis/a-79439604?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Amid military escalation with the Iran-backed Houthis, the Saudi-backed head of Yemen's governing body urged his compatriots to join the government fo..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Lula or Bolsonaro as president? Brazil gears up to vote",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/lula-or-bolsonaro-as-president-brazil-gears-up-to-vote/a-79437276?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Brazilians go to the polls on October 4. The front-runners are multilateralist incumbent Lula da Silva and former President Jair Bolsonaro's son, Flav..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Parliament approves fuel tax cut",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-parliament-approves-fuel-tax-cut/live-79424882?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "German lawmakers hope to drive down fuel prices by cutting taxes on gas and diesel from October 1. Meanwhile, Germany's defense minister visited Budap..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iranian President Pezeshkian brought a diplomatic tone to New York for UNGA. What did his remarks signal?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iranian-president-pezeshkian-brought-a-diplomatic-tone-to-new-york-for-unga-what-did-his-remarks-signal/a-79428890?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Iran's president used his trip to New York this week for the UN General Assembly to signal openness to talks over the nuclear dispute. However, the ch..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pakistan's Sharif rails against India, praises Trump at UNGA",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pakistan-s-sharif-rails-against-india-praises-trump-at-unga/live-79366211?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Pakistan's prime minister blamed India for last year's clashes, and credited the US president with preventing \"all-out war\" between two nuclear powers..."
     }
 ]
