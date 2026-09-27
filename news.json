@@ -71,6 +71,13 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Iran stands firm on Hormuz plan after U.S. rejection",
+        "image": "https://media.zenfs.com/en/afp.com/811d2298aade6f5992a5b869857a8518.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/iran-proposes-hormuz-plan-trump-020229577.html",
+        "summary": "<figure><img src=\"https://media.zenfs.com/en/afp.com/811d2298aade6f5992a5b869857a8518.jpg\" /><figcaption>Iran's Foreign Minister Abbas Araghchi propos..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Trump's 'pocket rescission' could cancel $810 million before Congress can act",
         "image": "https://media.zenfs.com/en/time_72/9a7845e129eaddf64d6fb8a473d50447.jpg",
         "link": "https://time.com/article/2026/09/26/what-is-a-pocket-rescission-inside-trump-s-move-to-cancel-810-million-in-federal-funding/",
@@ -85,24 +92,38 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Over 80,000 homes and businesses lose power across 5 states amid powerful nor\u2019easter",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/09dccfe0-da21-433b-9aa4-1fe518d318d8",
-        "link": "https://www.yahoo.com/news/weather-news/live/noreaster-updates-powerful-storm-batters-east-coast-with-coastal-flooding-high-winds-and-power-outages-150729723.html",
-        "summary": "<p style=\"text-align: left;\">A powerful nor'easter is battering the East Coast this weekend, bringing major coastal flooding, damaging winds and heavy..."
+        "title": "At least 1 person dead as forceful nor'easter knocks out power for 100,000 customers",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/25753977-ee35-4b1a-8216-e1cf11a201bc_5ab334185d93164873cf4a2d8964511eac33f02bf4df4fe8d337aebe809f0fdb.jpg",
+        "link": "https://www.yahoo.com/news/weather-news/articles/roads-flood-jersey-inundate-homes-121619875.html",
+        "summary": "<p>BOSTON (AP) \u2014 A slow-moving, powerful storm crept along the coast of the U.S. Northeast on Saturday, producing high winds that caused power outages..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump labels Hormuz 'Trump Strait' after Iran offers conditions to reopen waterway",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/e25ecb60-f5ae-44d9-a793-41adae369130",
-        "link": "https://www.yahoo.com/news/world/articles/saudi-arabia-says-intercepts-another-060457242.html",
-        "summary": "<p>U.S. President Donald Trump on Saturday rejected <a href=\"https://apnews.com/article/iran-us-war-negotiations-strait-hormuz-d8b9749fee99a11dd77513d..."
+        "title": "4 American tourists among 6 dead after explosion destroys building in Athens",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/bad75de7-6c23-4c3a-85ef-5ad398901e12_79aa18b8e4f6349ea81d916636ab60945d8e0cf50e8db2369c11ae4d9e1479b8.jpg",
+        "link": "https://uk.news.yahoo.com/one-dead-5-missing-explosion-074346686.html",
+        "summary": "<p>ATHENS, Sept 26 (Reuters) - Six people have died after a two-storey residential building in a tourist area of central Athens collapsed, \u200cthe Greek ..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Trump slashes Biden-era fuel economy standards for cars",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/8492a288-4978-43c2-8501-6f252303039e_d3059d2561596681b93309ede4d88f9b6d48c45eff1811375ec9d260e672d1f8.jpg",
-        "link": "https://www.politico.com/news/2026/09/26/trump-vehicle-standards-ev-01067597",
-        "summary": "<p>President Donald Trump announced Saturday that he has approved new fuel economy standards for passenger vehicles, in another move meant to take aim..."
+        "source": "Deutsche Welle",
+        "title": "Gunmen kill 27 people in two mass shootings in South Africa",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/gunmen-kill-27-people-in-two-mass-shootings-in-south-africa/a-79447130?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "South African police have launched a search for suspects after 17 people were found dead at a tavern southwest of Johannesburg. A separate tavern shoo..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Powerful storm batters northeast US, hundreds of flights canceled",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/powerful-storm-batters-northeast-us-hundreds-of-flights-canceled/a-79446676?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Hundreds of flights were canceled and thousands were delayed as a nor'easter brought flooding, power cuts and travel disruption to cities like New Yor..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Spain: Thousands protest in Madrid against housing crisis",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/spain-thousands-protest-in-madrid-against-housing-crisis/a-79446662?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Tens of thousands rallied in the Spanish capital after an 87-year-old woman was dramatically evicted from her home this week. Protesters called for me..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/backlash-over-data-centers-tests-europe-s-ai-ambitions/a-79419800?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Massive data centers needed to run AI are triggering protests across Europe. Their operators counter that they boost digital sovereignty and energy in..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "China, US agree to set up channel for AI safety incidents",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/china-us-agree-to-set-up-channel-for-ai-safety-incidents/a-79443351?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Following the summit between US President Donald Trump and Chinese President Xi Jinping, the two superpowers pledged to set up a \"communication channe..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump rejects Iran proposal to reopen Strait of Hormuz",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-rejects-iran-proposal-to-reopen-strait-of-hormuz/a-79444893?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US President Donald Trump says he has rejected an Iranian proposal to reopen the Strait of Hormuz and put an end to hostilities. \"I'd like to make a d..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Paris: Pope Leo XIV celebrates Mass before huge crowd",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/paris-pope-leo-xiv-celebrates-mass-before-huge-crowd/a-79442864?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The pope addressed around 700,000 people during a Mass at the Place de la Concorde, near the Champs-Elysees. Leo XIV is on a four-day visit to France...."
     }
 ]
