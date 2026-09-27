@@ -71,6 +71,20 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Hurricane season is broken. Two oceans are historically out of whack.",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/28a12be0df052f08bfb63009a611877a.jpg",
+        "link": "https://www.usatoday.com/story/news/weather/2026/09/27/hurricane-season-is-broken/91919723007/",
+        "summary": "<p>The 2026 hurricane season has been remarkable, from the potentially record-breaking <a href=\"https://www.usatoday.com/story/news/weather/2026/09/12..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "White House airs taxpayer-funded Trump \u2018final battle\u2019 ad ahead of midterms",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/7bc6a9f9568e18a07dc2920642cec2d2.jpg",
+        "link": "https://www.cnn.com/2026/09/27/politics/white-house-trump-government-funded-ad",
+        "summary": "<figure><img alt=\"President Donald Trump appears in a television ad. - US Government\" height=\"540\" src=\"https://media.zenfs.com/en/cnn_articles_875/7b..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Waltz says Iran wanted sanctions relief first. Tehran says that's not the full story.",
         "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/044f8ee8-b1a4-4c69-9d1d-522fb18be41f",
         "link": "https://www.yahoo.com/news/politics/articles/waltz-says-iran-wanted-sanctions-143305393.html",
@@ -85,24 +99,17 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Attorney General Blanche says White House press access is a privilege, not a right",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/a5044f095fc016f0f44cbf60c2acfb8a.jpg_8500ae87402d3ab7e13240617d4bb444a91448c12275f3c5fa91e092139e8943.jpg",
-        "link": "https://abcnews.com/Politics/ag-blanche-addresses-white-house-news-outlet-ban/story?id=136794733",
-        "summary": "<div><p>Attorney General Todd Blanche on Sunday addressed the Trump administration's decision to <a dir=\"ltr\" href=\"https://abcnews.com/Politics/judge..."
+        "title": "Nor\u2019easter uncovers possible 142-year-old shipwreck on Nantucket",
+        "image": "https://media.zenfs.com/en/nbc_news_122/6893da31418cb1327204e64abbc95450.jpg",
+        "link": "https://www.nbcnews.com/news/us-news/noreaster-19th-century-shipwreck-warren-sawyer-rcna600073",
+        "summary": "<figure><img alt=\"Wooden remnants of a ship on the shore of a beach (Jason Graziadei / Nantucket Current)\" height=\"1365\" src=\"https://media.zenfs.com/..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "5 arrested near air base used by U.S. in Iran war on suspicion of terrorism",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/ee436874-695b-4770-a125-58c1a162d409_18bd984e3b9eb7f6c74b538276c4caf1411a56a3df4290dcda3d8002d775a898.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/police-evacuate-homes-near-us-075249083.html",
-        "summary": "<p>LONDON (AP) \u2014 U.K. police said Sunday that five men arrested in the middle of the night near an air base used by the United States during its war a..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Deadly nor'easter floods Northeast coast and leaves 110,000 without power",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/09dccfe0-da21-433b-9aa4-1fe518d318d8",
-        "link": "https://www.yahoo.com/news/weather-news/live/live-updates-deadly-noreaster-floods-coast-knocks-out-power-to-more-than-100000-as-storm-lingers-into-monday-150729723.html",
-        "summary": "<p style=\"text-align: left;\">A slow-moving nor'easter continued to batter the Northeast on Sunday, bringing more rain, strong winds and another round ..."
+        "source": "Deutsche Welle",
+        "title": "Serbian President Aleksandar Vucic announces resignation",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/serbian-president-aleksandar-vucic-announces-resignation/a-79450358?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Aleksandar Vucic will now be running to be prime minister in the upcoming snap elections slated for next month...."
     },
     {
         "source": "Deutsche Welle",
@@ -120,23 +127,16 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Two people killed as bus crashes on way to Oktoberfest",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/two-people-killed-as-bus-crashes-on-way-to-oktoberfest/a-79450016?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The bus was traveling from Italy to Munich, carrying 33 Filipino tourists who wanted to visit the famous beer festival. One of the dozens injured rema..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pope decries 'scourge' of sexual abuse during France visit",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pope-decries-scourge-of-sexual-abuse-during-france-visit/a-79449335?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "French bishops took \"courageous\" steps when faced with \"the painful scourge of abuse of minors,\" Pope Leo XIV told the high-ranking clerics before his..."
-    },
-    {
-        "source": "Deutsche Welle",
         "title": "UK: 5 arrested after 'major incident' near Fairford air base",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/uk-5-arrested-after-major-incident-near-fairford-air-base/a-79447992?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Scores of homes were evacuated in the UK town of Whelford, near an air base used by the US military, with bomb disposal teams checking \"suspicious veh..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Two people killed as bus crashes on way to Oktoberfest",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/two-people-killed-as-bus-crashes-on-way-to-oktoberfest/a-79450016?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The bus was traveling from Italy to Munich, carrying 33 Filipino tourists who wanted to visit the famous beer festival. One of the dozens injured rema..."
     }
 ]
