@@ -1,6 +1,20 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Medical Marijuana Improves Symptoms And Quality Of Life For 80% Of Cancer Patients, Study Finds",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/medical-marijuana-improves-symptoms-and-quality-of-life-for-80-of-cancer-patients-study-finds/",
+        "summary": "<p>Medical marijuana is &#8220;commonly&#8221; used to treat symptoms of cancer such as pain, nausea, anxiety, depression, poor appetite and sleep dis..."
+    },
+    {
+        "source": "Marijuana Moment",
+        "title": "Virginia Lawmakers Warned That Increasing Fines For Public Marijuana Use Will Worsen Racial Disparites",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/virginia-lawmakers-warned-that-increasing-fines-for-public-marijuana-use-will-worsen-racial-disparites/",
+        "summary": "<p>\u201cIf Black Virginians only make up 19 percent, how is it that they are 47.7 percent of those who are receiving the citations?\u201d By Markus Schmidt, Vi..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Pennsylvania GOP Senator Announces New Bill To Regulate Hemp THC Products With Age Limits And Testing Requirements",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/pennsylvania-gop-senator-announces-new-bill-to-regulate-hemp-thc-products-with-age-limits-and-testing-requirements/",
@@ -19,20 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/federal-agency-explains-how-marijuana-breathalyzer-development-was-boosted-by-post-9-11-bomb-detection-technology/",
         "summary": "<p>A federal agency is highlighting how a technique that was created to capture specific compounds from air samples for analysis to help detect bombs ..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Pennsylvania could legalize cannabis next year, House speaker says (Newsletter: September 28, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/pennsylvania-could-legalize-cannabis-next-year-house-speaker-says-newsletter-september-28-2026/",
-        "summary": "<p>Campaign ad highlights senator&#8217;s anti-marijuana stance; Poll: MA voters oppose legalization rollback; State cannabis officials want DEA coope..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "North Carolina Lawmakers Should Regulate Hemp THC Drinks Instead Of Banning Them (Op-Ed)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/north-carolina-lawmakers-should-regulate-hemp-thc-drinks-instead-of-banning-them-op-ed/",
-        "summary": "<p>&#8220;The consumer demand in North Carolina is clear, and the passing of this near-total ban bill would take good actors like us out of this space..."
     },
     {
         "source": "MJBizDaily",
@@ -71,38 +71,52 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Republicans join Democrats in questioning Trump's taxpayer-funded TV ads",
-        "image": "https://media.zenfs.com/en/time_72/f7e06444cb1df32766561bc6783f56ec.png",
-        "link": "https://time.com/article/2026/09/28/trump-ads-democrats-republicans-bipartisan-criticism-taxpayer-funds/",
-        "summary": "<section><figure><img src=\"https://media.zenfs.com/en/time_72/f7e06444cb1df32766561bc6783f56ec.png\" /><figcaption>A screenshot of President Donald Tru..."
+        "title": "FBI Deputy Director Andrew Bailey resigns in latest shake-up at bureau",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/d3ee4ecb-fa5b-4ec8-8b57-df8bb9f64679",
+        "link": "https://www.yahoo.com/news/politics/articles/andrew-bailey-no-2-fbi-161002023.html",
+        "summary": "<p>The conservative firebrand whom the Trump administration installed as a No. 2 at the FBI announced Monday that he is resigning from the bureau. </p..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "At every turn, Trump's ideas for aiding U.S. consumers run into resistance",
-        "image": "https://media.zenfs.com/en/washington_post_articles_265/200c04ceb333800e8b3ea1f9fd9f7202.jpg",
-        "link": "https://washingtonpost.com/business/2026/09/28/every-turn-trumps-ideas-aiding-us-consumers-run-into-resistance/",
-        "summary": "<p>First came a proposal to permit tariff-free beef imports, but that immediately angered America\u2019s farmers and ranchers.</p>\n         <p>Then came a ..."
+        "title": "Supreme Court Justice Alito recuses himself from climate case involving oil companies",
+        "image": "https://media.zenfs.com/en/reuters.com/64b647fffc24b20e415624a4b5955e65.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/us-supreme-courts-alito-wont-175903169.html",
+        "summary": "<p>By John Kruzel </p> <p>  WASHINGTON, Sept 28 (Reuters) - US Supreme Court Justice Samuel Alito will not participate in an upcoming case involving a..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Nvidia unveils record $150 billion stock buyback plan",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/de4a5f54-54c8-40f2-8464-c6945af017c8_aa83fa13b08962247ffeeb7cf3abea41970a364418860ecc89c08ec70fca892f.jpg",
-        "link": "https://finance.yahoo.com/technology/article/nvidia-announces-jaw-dropping-150-billion-stock-buyback-largest-single-authorization-in-history-121342628.html",
-        "summary": "<p style=\"text-align: left;\">The valuation on Nvidia (<a class=\"link\" href=\"https://finance.yahoo.com/quote/NVDA/\" rel=\"\" target=\"_blank\">NVDA</a>) is..."
+        "title": "Trump puts sanctions relief on the table as U.S.-Iran talks continue, U.S. official says",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/13bc49f1776c7b3db8487e721da7c40f.jpg",
+        "link": "https://www.cnn.com/2026/09/28/politics/trump-iran-deal-sanctions-nuclear",
+        "summary": "<figure><img alt=\"A satellite view shows an overview of the Natanz nuclear facility near Natanz, Iran, on June 30. - Vantor/Reuters\" height=\"540\" src=..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "John Fetterman accidentally calls himself a 'lifelong Republican' during an event",
-        "image": "https://media.zenfs.com/en/the_guardian_765/eb007d0dff394ac41f9ea14de7fc80c1.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/john-fetterman-accidentally-calls-himself-100030872.html",
-        "summary": "<figure>\n<img src=\"https://media.zenfs.com/en/the_guardian_765/eb007d0dff394ac41f9ea14de7fc80c1.jpg\" />\n<figcaption>\n<span>Senator John Fetterman, Dem..."
+        "title": "Developer offers $10,000 checks to all households in township if data center is built",
+        "image": "https://media.zenfs.com/en/toms_hardware_319/3ac860b3f2d33eb9ef60ac2c16ac3002.jpg",
+        "link": "https://www.tomshardware.com/tech-industry/data-centers/data-center-developer-offers-usd10-000-checks-to-4-500-households-if-the-1-300-acre-facility-is-approved-locals-push-back-over-noise-and-bribe-concerns",
+        "summary": "<p><i>When you buy through links on our articles, Future and its syndication partners may earn a commission.</i></p>\n<figure>\n<img alt=\" Data Center. ..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Republicans' frustrations with Hegseth mount as Iran war costs build",
-        "image": "https://media.zenfs.com/en/semafor_310/0ad9ba33b57595144ea721bdb2d4df27.jpg",
-        "link": "https://www.semafor.com/article/09/27/2026/republicans-fuming-at-hegseth-as-war-costs-build",
-        "summary": "<section><h3>The News</h3><p>Defense Secretary Pete Hegseth is running into a wall of congressional GOP resistance as he tries to secure $1.5 trillion..."
+        "title": "President Trump announces new $15 billion steel plant to be built in Iowa",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/39017cd2-1087-43ee-9ba5-5ac9b2e5fc42_eeecdefd17dfe108a8c73976bcaeb71c3c31277d1a4c57ddc02355bab859938d.jpg",
+        "link": "https://www.cbsnews.com/news/trump-steel-plant-iowa/",
+        "summary": "<p></p><p></p><p>Washington \u2014 President Trump on Monday announced that the company Mesabi Metallics will build a $15 billion steel plant in Iowa over ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iranian human rights lawyer Nasrin Sotoudeh wins the 2026 Vaclav Havel Human Rights Prize",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iranian-human-rights-lawyer-nasrin-sotoudeh-wins-the-2026-vaclav-havel-human-rights-prize/a-79462111?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Council of Europe awarded human rights lawyer Nasrin Sotoudeh with the Vaclav Havel human rights prize. She is a prominent advocate for the rights..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Sicily: Mount Etna ash disrupts Catania flights again",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/sicily-mount-etna-ash-disrupts-catania-flights-again/a-79462773?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A thick ash cloud from Mount Etna has been disrupting flights to Catania in Sicily for several days. Italy and Europe's most active volcano, Etna has ..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/what-do-manchester-city-s-charges-mean-for-german-football/a-79460412?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Manchester City have reportedly been found guilty of major financial rule breaches. What does this mean for German football?..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Why the latest action from India's youth-led 'cockroach' movement is targeting the election chief",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/why-the-latest-action-from-india-s-youth-led-cockroach-movement-is-targeting-the-election-chief/a-79462036?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The 'cockroach' movement has emerged as an influential force in Indian politics. Its latest campaign targets the election commission amid a wider deba..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: COVID vaccine maker BioNTech to close 3 sites",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-covid-vaccine-maker-biontech-to-close-3-sites/live-79453904?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "COVID-19 vaccine maker BioNTech is to close three sites in Germany after efforts to find buyers failed. Meanwhile, Rhine water levels have fallen to r..."
     }
 ]
