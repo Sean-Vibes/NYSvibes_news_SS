@@ -71,10 +71,17 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Hurricane season is broken. Two oceans are historically out of whack.",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/28a12be0df052f08bfb63009a611877a.jpg",
-        "link": "https://www.usatoday.com/story/news/weather/2026/09/27/hurricane-season-is-broken/91919723007/",
-        "summary": "<p>The 2026 hurricane season has been remarkable, from the potentially record-breaking <a href=\"https://www.usatoday.com/story/news/weather/2026/09/12..."
+        "title": "Trump says he's 'very seriously' looking at a diesel export ban",
+        "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/d898e3c2f77da826be8aa2ad6ca2b384.jpg",
+        "link": "https://finance.yahoo.com/energy/articles/trump-says-very-seriously-looking-215526827.html",
+        "summary": "<p>(Bloomberg) -- President Donald Trump said he is still looking \u201cvery seriously\u201d at implementing a US ban on diesel exports to combat high prices, e..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Narrow strait called the 'Gate of Tears' is a new flashpoint in the Iran war",
+        "image": "https://media.zenfs.com/en/la_times_articles_853/2cbfa61f3be8867c35292b703d9a5e33.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/flash-point-iran-war-narrow-100000880.html",
+        "summary": "<figure><img alt=\"Maritime traffic in Bab el-Mandeb Straight.\" height=\"560\" src=\"https://media.zenfs.com/en/la_times_articles_853/2cbfa61f3be8867c3529..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -98,18 +105,18 @@
         "summary": "<p>GORHAM, Maine (AP) \u2014 For years, Planned Parenthood\u2019s endorsement of <a href=\"https://apnews.com/article/maine-senate-platner-collins-0abe847799b977..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Nor\u2019easter uncovers possible 142-year-old shipwreck on Nantucket",
-        "image": "https://media.zenfs.com/en/nbc_news_122/6893da31418cb1327204e64abbc95450.jpg",
-        "link": "https://www.nbcnews.com/news/us-news/noreaster-19th-century-shipwreck-warren-sawyer-rcna600073",
-        "summary": "<figure><img alt=\"Wooden remnants of a ship on the shore of a beach (Jason Graziadei / Nantucket Current)\" height=\"1365\" src=\"https://media.zenfs.com/..."
+        "source": "Deutsche Welle",
+        "title": "Israel strips Dutch diplomats of status in West Bank",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/israel-strips-dutch-diplomats-of-status-in-west-bank/a-79451271?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The move by the Israeli Foreign Ministry is a response to Dutch sanctions targeting goods from illegal Israeli settlements in the occupied West Bank. ..."
     },
     {
         "source": "Deutsche Welle",
         "title": "Serbian President Aleksandar Vucic announces resignation",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/serbian-president-aleksandar-vucic-announces-resignation/a-79450358?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Aleksandar Vucic will now be running to be prime minister in the upcoming snap elections slated for next month...."
+        "summary": "Aleksandar Vucic will now be running to be prime minister in the upcoming snap parliamentary elections slated for next month...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/uk-5-arrested-after-major-incident-near-fairford-air-base/a-79447992?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Scores of homes were evacuated in the UK town of Whelford, near an air base used by the US military, with bomb disposal teams checking \"suspicious veh..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Two people killed as bus crashes on way to Oktoberfest",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/two-people-killed-as-bus-crashes-on-way-to-oktoberfest/a-79450016?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The bus was traveling from Italy to Munich, carrying 33 Filipino tourists who wanted to visit the famous beer festival. One of the dozens injured rema..."
     }
 ]
