@@ -71,6 +71,20 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "From motorcycles to booze, U.S. ban on $1 billion in Canadian imports goes into effect",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/4e8e1cab-31cf-4743-84e0-b7bffa2acfe6_3e5cd3479ec8194e4b03ea021ad8c9a5d6d0bd9ca86cb9eaf0d83a8f1df21189.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/motorcycles-booze-us-ban-1-040058166.html",
+        "summary": "<p>WASHINGTON (AP) \u2014 U.S.-Canada relations, already tense, are likely to deteriorate further after the United States went ahead early Tuesday with a d..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Senate passes historic bill to regulate college sports. Its toughest test comes next.",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/3a4218a7-5a70-47c2-a505-8eacf2c8e9c1_78dc14fc991074ee571f5eb3b0ef484c3152fe6fe4ff3d77f732ec52ae5e5199.jpg",
+        "link": "https://sports.yahoo.com/college-football/article/after-senate-passes-protect-college-sports-act-does-it-have-a-chance-in-the-house-023130918.html",
+        "summary": "<p style=\"text-align: left;\">The Protect College Sports Act is halfway home.</p><p style=\"text-align: left;\">U.S. senators on Monday overwhelmingly vo..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "DA defends decision not to prosecute alleged Cornell gang rape case in 2024",
         "image": "https://media.zenfs.com/en/us.abcnews.go.com/a271fee5665399f8cf101d70c3150aad.jpg",
         "link": "https://abcnews.com/US/da-defends-decision-prosecute-alleged-cornell-gang-rape/story?id=136835936",
@@ -78,31 +92,45 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Major Pentagon breach exposes sensitive data on nearly 3 million people",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/c00e9e16-dce0-4302-8c68-aa9ba993e866_565a9185664c523a5aabcf96e04564fb19df481b88c50e86bd57c60dd5e68699.jpg",
-        "link": "https://abcnews.com/Politics/pentagon-breach-exposed-sensitive-data-3-million-people/story?id=136832909",
-        "summary": "<div><p>A breach of the Pentagon\u2019s sprawling personnel database exposed sensitive information belonging to a massive swath of military personnel, incl..."
+        "title": "Trump denies offering Iran sanctions relief as indirect talks continue",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/b99f79ed-34e1-422b-83d3-5b9b6bd2ea61_5ec41339ed5493e3861b6add2a990d6c519f746bc7fd2b27ccca65aa16969e9e.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/iran-says-trump-choose-between-092115082.html",
+        "summary": "<p style=\"text-align: left;\"></p><p style=\"text-align: left;\"></p><p style=\"text-align: left;\"></p><h2 id=\"jump-link-what-to-know-about-the-iran-war-t..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump puts sanctions relief on the table as U.S.-Iran talks continue, U.S. official says",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/13bc49f1776c7b3db8487e721da7c40f.jpg",
-        "link": "https://www.cnn.com/2026/09/28/politics/trump-iran-deal-sanctions-nuclear",
-        "summary": "<figure><img alt=\"A satellite view shows an overview of the Natanz nuclear facility near Natanz, Iran, on June 30. - Vantor/Reuters\" height=\"540\" src=..."
+        "title": "3 days of weather chaos bring a nor'easter, major hurricanes and a 'zombie storm'",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/c6f0d878-af2f-41e5-85b8-0f6a4e835ff8_3a979d4e26548dd1ab0b298986d0d566535d7632fbeeb3d50377ee12604fba19.jpg",
+        "link": "https://www.yahoo.com/news/weather-news/articles/3-days-weather-chaos-noreaster-185931784.html",
+        "summary": "<p>Flooded neighborhoods, damaged highways and widespread power outages stretched from the East Coast to Hawaii over the weekend. A deadly nor'easter ..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Developer offers $10,000 checks to all households in township if data center is built",
-        "image": "https://media.zenfs.com/en/toms_hardware_319/3ac860b3f2d33eb9ef60ac2c16ac3002.jpg",
-        "link": "https://www.tomshardware.com/tech-industry/data-centers/data-center-developer-offers-usd10-000-checks-to-4-500-households-if-the-1-300-acre-facility-is-approved-locals-push-back-over-noise-and-bribe-concerns",
-        "summary": "<p><i>When you buy through links on our articles, Future and its syndication partners may earn a commission.</i></p>\n<figure>\n<img alt=\" Data Center. ..."
+        "source": "Deutsche Welle",
+        "title": "Germany news: Merz revolts over EU budget, report says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-merz-revolts-over-eu-budget-report-says/live-79468663?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Chancellor Friedrich Merz and his counterparts from five countries have threatened to withhold approval to the EU budget proposal unless it's cut by b..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Man who spent decades on Utah death row gets bail after DNA doesn't match him",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/b752e1b1c53f4d15f4dd362719c0b906.jpg_d9bc3a9076655ff905332ab98a971624d207fa662627d98bda351282c8b34ab8.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/man-ordered-released-bail-decades-231121535.html",
-        "summary": "<p>A <a href=\"https://apnews.com/article/utah-death-row-retrial-douglas-stewart-carter-d300193e740b72c555be1deafa9840e6\">71-year-old man</a> who was c..."
+        "source": "Deutsche Welle",
+        "title": "Evicted Spanish pensioner to return home, lawyer says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/evicted-spanish-pensioner-to-return-home-lawyer-says/a-79467953?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Maricarmen, who is 87 years old, became a symbol of the housing crisis in Spain after she was evicted last week from the apartment she had lived in fo..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "OpenAI shelves new AI model amid safety concerns",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/openai-shelves-new-ai-model-amid-safety-concerns/a-79467841?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The decision comes amid a broader push within the industry to slow the development of increasingly powerful and autonomous systems until safety measur..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "France: Student protests over conditions at French high schools fuel political clashes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/france-student-protests-over-conditions-at-french-high-schools-fuel-political-clashes/a-79467746?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Over 160 people were arrested and dozens injured after student protests in France descended into violence. With a presidential election approaching, s..."
     },
     {
         "source": "Deutsche Welle",
@@ -110,33 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/israel-s-netanyahu-holds-secret-meeting-with-uae-president/a-79467271?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "After confirming a rare meeting, Netanyahu's office has denied suggestions that the Israeli prime minister requested that Abu Dhabi deny reports that ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US sanctions on Iran's aviation industry make travel less predictable as countries cancel flights",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-sanctions-on-iran-s-aviation-industry-make-travel-less-predictable-as-countries-cancel-flights/a-79459140?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The threat of secondary US sanctions is putting pressure on airports, fuel suppliers and aviation companies that service Iranian airlines. Some countr..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iranian human rights lawyer Nasrin Sotoudeh wins the 2026 Vaclav Havel Human Rights Prize",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iranian-human-rights-lawyer-nasrin-sotoudeh-wins-the-2026-vaclav-havel-human-rights-prize/a-79462111?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Council of Europe awarded human rights lawyer Nasrin Sotoudeh with the Vaclav Havel human rights prize. She is a prominent advocate for the rights..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Sicily: Mount Etna ash disrupts Catania flights again",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/sicily-mount-etna-ash-disrupts-catania-flights-again/a-79462773?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A thick ash cloud from Mount Etna has been disrupting flights to Catania in Sicily for several days. Italy and Europe's most active volcano, Etna has ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "SpaceX launches supersized Starship into orbit",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/spacex-launches-supersized-starship-into-orbit/a-79462696?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Starship is the biggest and most powerful spacecraft ever built and it is meant to support NASA's Artemis moon program...."
     }
 ]
