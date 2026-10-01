@@ -71,6 +71,13 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Flydubai pilot hailed a hero after fighting off attacker as plane plunged",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/4431c11d0dbfa3e9ca2ced8f58eef6b1.jpg",
+        "link": "https://www.cnn.com/2026/10/01/india/india-captain-smit-machchhar-flydubai-intl-hnk",
+        "summary": "<figure><img alt=\"Indian pilot Smit Machchhar has been hailed as a hero for saving passengers after he was stabbed by his colleague in an alleged atte..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Religion, drone warfare and a new base: 7 takeaways from Hegseth's speech",
         "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/92c0bfb4-d668-4d79-970f-696b3b8c36fa_3db77674e50ee6f71941afb76baa163c4bff1b8318011bfabd6bdad5b0d7dbcb.jpg",
         "link": "https://thehill.com/policy/defense/6121765-pete-hegseth-takeaways-command-warfare-base/",
@@ -78,31 +85,52 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Man describes subduing attacker after cockpit stabbing on Israel-bound plane",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/da79bf1e-6729-4d2a-a32f-272079c38bb3_1715a268b65b851835e36f1ab50aa699add6a2f335700b9a75cf973e143cd8d1.jpg",
-        "link": "https://www.bbc.com/news/articles/cmx2z92xx57no?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-        "summary": "<p>Passengers on a flight to Israel have recounted how they subdued a pilot after he stabbed the other pilot and appeared to be trying to disable the ..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Senate blocks bill restricting stock trading by members of Congress",
-        "image": "https://media.zenfs.com/en/reuters.com/5c9ff8b5e5298b4f14ecd34fe345d989.jpg",
-        "link": "https://finance.yahoo.com/markets/article/senate-fails-to-advance-data-center-and-lawmaker-stock-trading-bills-before-campaign-break-181734520.html",
-        "summary": "<p style=\"text-align: left;\">The US Senate is set to leave Washington soon for election-season campaigning after two failed votes Wednesday on highly ..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Bernie Sanders ramps up his midterm play with major cash boost for candidates",
-        "image": "https://media.zenfs.com/en/politico_453/a92f807edb9abaca67bb8e79854fa9f2.jpg",
-        "link": "https://www.politico.com/news/2026/09/29/sanders-ramps-up-his-midterm-play-with-cash-boost-for-candidates-01098758",
-        "summary": "<p>Bernie Sanders is cracking open his war chest.</p><p>For months, the Vermont senator crisscrossed the country vaulting progressives to a series of ..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Supreme Court clears way for Christa Pike\u2019s execution in Tennessee",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/screenshot-2026-09-29-at-85952-pm_9987.png",
+        "title": "Tennessee halts executions after Christa Pike survives lethal injection attempt",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/e306d9dd-abd9-474e-a355-2b398f049f0f_43ff36c23c57274799400f7be680017d7cebc62e05bb515829a556582b916f7a.jpg",
         "link": "https://www.yahoo.com/news/us/articles/tennessee-prepares-execute-woman-crime-040032218.html",
-        "summary": "<p>NASHVILLE, Tenn. (AP) \u2014 The U.S. Supreme Court cleared the way for Tennessee to execute <a href=\"https://apnews.com/article/tennessee-execution-chr..."
+        "summary": "<p>NASHVILLE, Tenn. (AP) \u2014 Tennessee officials were unable to put <a href=\"https://apnews.com/article/tennessee-execution-christa-pike-woman-38c20d49b..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Billy Joel doesn't want people worrying about his brain disorder",
+        "image": "https://media.zenfs.com/en/rollingstone.com/e2be8acd4871d9e80a930ffd9abacbb2.jpg",
+        "link": "https://www.rollingstone.com/music/music-news/billy-joel-update-on-brain-disorder-health-isnt-that-bad-1235634671/",
+        "summary": "<!-- do not apply CSS styles to this element! --><div class=\"pmc-paywall\">\n<p>\n\tBilly Joel doesn\u2019t want anyone fretting too much over his health. The ..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Millions of Americans face changes to SNAP benefits beginning today",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/3e3a46fa-9679-4245-9456-618d82e66b0f_c5352c9b0ffcf84064842d3366cbc76ae65c2b2c0d912f398643623d47e19581.jpg",
+        "link": "https://abcnews.com/Politics/snap-benefits-begin-oct-1-millions-americans/story?id=136895859",
+        "summary": "<div><p>Major changes are coming on Oct. 1 for the tens of millions of Americans who rely on the Supplemental Nutrition Assistance Program (SNAP) for ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Cristiano Ronaldo walks out of Portugal camp",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/cristiano-ronaldo-walks-out-of-portugal-camp/a-79497238?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Cristiano Ronaldo has left Portugal\u2019s camp after learning that he would not start the next Nations League match. Portugal's coach has denied reports o..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Tennessee halts woman's execution after 'failed' attempt",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/tennessee-halts-woman-s-execution-after-failed-attempt/a-79496561?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Christa Pike was found alive and snoring, despite being administered two injections of a lethal drug. The state governor has ordered a review of the b..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Berlin leftists seek to pave way for coalition",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-berlin-leftists-seek-to-pave-way-for-coalition/live-79496180?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Berlin Left Party, Greens and SPD are to meet to clarify controversial issues ahead of possible coalition talks. The second fuel tax cut this year..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Swiss glaciers lose more than 5% in ice volume in 2026",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/swiss-glaciers-lose-more-than-5-in-ice-volume-in-2026/a-79495965?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Over the last five years, Swiss glaciers have lost nearly 20% of their mass, and 2026 saw the second-biggest loss of glacier volume on record. Experts..."
     },
     {
         "source": "Deutsche Welle",
@@ -110,33 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-military-cuts-generals-admirals-by-20-hegseth-says/a-79495683?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The US defense secretary has also unveiled major changes, including a new drone command and an Elon Musk-led task force to assess the future of warfar..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "France: Hundreds arrested as student protests escalate",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/france-hundreds-arrested-as-student-protests-escalate/a-79495633?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Student protests have grown in scale and intensity, with violent clashes in some places leading to hundreds of arrests and dozens of injuries...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Gaza: NGO reports dire camp conditions, says Israel is moving 'Yellow Line'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/gaza-ngo-reports-dire-camp-conditions-says-israel-is-moving-yellow-line/a-79488777?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Danish Refugee Council alleges that Israel is employing \"a policy of protracted displacement\" in Gaza. It says the so-called \"Yellow Line\" is cree..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Five EU states plan first deportation center in Africa for 2027",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/five-eu-states-plan-first-deportation-center-in-africa-for-2027/a-79490162?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Greece, Germany, Austria, Denmark and the Netherlands are moving forward with plans to establish deportation centers outside the EU. An African partne..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Flydubai pilot investigated over possible attempt to crash Tel Aviv-bound flight",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A Flydubai service from the UAE to Israel made an emergency landing after the copilot stabbed the captain. Eyewitnesses said he attempted to crash the..."
     }
 ]
