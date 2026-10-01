@@ -71,17 +71,17 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Religion, drone warfare and a new base: 7 takeaways from Hegseth's speech",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/92c0bfb4-d668-4d79-970f-696b3b8c36fa_3db77674e50ee6f71941afb76baa163c4bff1b8318011bfabd6bdad5b0d7dbcb.jpg",
+        "link": "https://thehill.com/policy/defense/6121765-pete-hegseth-takeaways-command-warfare-base/",
+        "summary": "<figure><img height=\"506\" src=\"https://media.zenfs.com/en/the_hill_articles_341/eb42beca76ee89b0b0cc118f3a161421.jpg\" width=\"900\" /></figure>\n<p>Defen..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Man describes subduing attacker after cockpit stabbing on Israel-bound plane",
         "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/da79bf1e-6729-4d2a-a32f-272079c38bb3_1715a268b65b851835e36f1ab50aa699add6a2f335700b9a75cf973e143cd8d1.jpg",
         "link": "https://www.bbc.com/news/articles/cmx2z92xx57no?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
         "summary": "<p>Passengers on a flight to Israel have recounted how they subdued a pilot after he stabbed the other pilot and appeared to be trying to disable the ..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Fed watchdog clears Jerome Powell but says board mishandled renovation costs",
-        "image": "https://media.zenfs.com/en/newsmax_809/35c8659d991226e8fd5981fad17119df.jpg",
-        "link": "https://www.newsmax.com/politics/jerome-powell-federal-reserve-kevin-warsh/2026/09/30/id/1271257",
-        "summary": "<figure>\n<img alt=\"(Dreamstime)\" src=\"https://media.zenfs.com/en/newsmax_809/35c8659d991226e8fd5981fad17119df.jpg\" />\n<figcaption>(Dreamstime)</figcap..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -99,10 +99,24 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "DA in Cornell rape case says he never saw campus police interview transcript",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/bf5f0f18-cd52-45d3-9632-8b37a1c6970c",
-        "link": "https://www.yahoo.com/news/us/article/prosecutor-reopens-criminal-investigation-into-cornell-gang-rape-allegations-183826467.html",
-        "summary": "<p style=\"text-align: left;\">The New York state prosecutor who has reopened an investigation into the alleged rape of a woman by seven members of a fr..."
+        "title": "Supreme Court clears way for Christa Pike\u2019s execution in Tennessee",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/screenshot-2026-09-29-at-85952-pm_9987.png",
+        "link": "https://www.yahoo.com/news/us/articles/tennessee-prepares-execute-woman-crime-040032218.html",
+        "summary": "<p>NASHVILLE, Tenn. (AP) \u2014 The U.S. Supreme Court cleared the way for Tennessee to execute <a href=\"https://apnews.com/article/tennessee-execution-chr..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US military cuts generals, admirals by 20%, Hegseth says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-military-cuts-generals-admirals-by-20-hegseth-says/a-79495683?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US defense secretary has also unveiled major changes, including a new drone command and an Elon Musk-led task force to assess the future of warfar..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "France: Hundreds arrested as student protests escalate",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/france-hundreds-arrested-as-student-protests-escalate/a-79495633?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Student protests have grown in scale and intensity, with violent clashes in some places leading to hundreds of arrests and dozens of injuries...."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/flydubai-pilot-investigated-over-possible-attempt-to-crash-tel-aviv-bound-flight/a-79484761?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A Flydubai service from the UAE to Israel made an emergency landing after the copilot stabbed the captain. Eyewitnesses said he attempted to crash the..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "France's Macron, Spain's Sanchez welcome idea of UK rejoining EU after Burnham remarks",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/france-s-macron-spain-s-sanchez-welcome-idea-of-uk-rejoining-eu-after-burnham-remarks/a-79493469?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "During a visit to Spain, France's Emmanuel Macron said it would be \"good news\" if the UK moves towards the EU, with Pedro Sanchez also embracing the i..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Are the Houthis winning against Saudi Arabia?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/are-the-houthis-winning-against-saudi-arabia/a-79492476?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "It's unclear how the Saudis can defuse the threat presented by the Houthis in next-door Yemen or who they can turn to for help. The US isn't intereste..."
     }
 ]
