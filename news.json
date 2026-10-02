@@ -71,6 +71,13 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "New details emerge in Cornell rape case as Letitia James takes over investigation",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/f20a842d2aada6bcb8b3b815fcc3c776.jpg",
+        "link": "https://www.cnn.com/2026/10/01/us/cornell-jane-doe-rape-investigation",
+        "summary": "<figure><img alt=\"Governor Kathy Hochul/X\" height=\"540\" src=\"https://media.zenfs.com/en/cnn_articles_875/f20a842d2aada6bcb8b3b815fcc3c776.jpg\" width=\"..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Witnesses recount the 87 minutes of Christa Pike\u2019s failed execution",
         "image": "https://media.zenfs.com/en/usa_today_news_641/aa8d8c6915bbced016cb846e334c388c.jpg",
         "link": "https://www.usatoday.com/story/news/nation/2026/10/01/christa-pike-botched-execution-tennessee-timeline-witnesses/92036365007/",
@@ -92,51 +99,44 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Layoffs are down, but employers aren't rushing to hire for the holidays",
-        "image": "https://media.zenfs.com/en/reuters.com/091001104920784839e627885ad367ca.jpg",
-        "link": "https://finance.yahoo.com/economy/articles/us-weekly-jobless-claims-fall-124022508.html",
-        "summary": "<p>By Lucia Mutikani </p> <p>  WASHINGTON, Oct 1 (Reuters) - New applications for US unemployment benefits drifted close to 57-year lows last week and..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Early voting data shows emerging signs of a Democratic advantage in the midterms",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/79e882d14d9f9b4721c395b595842779.jpg",
-        "link": "https://www.cnn.com/2026/10/01/politics/cnn-early-voting-takeaways-democratic-advantage",
-        "summary": "<figure><img alt=\"&quot;I Voted&quot; stickers sit on a table at Naperville Municipal Center in Naperville, Illinois, on September 24, 2026, on the fi..."
+        "title": "U.S. job growth is expected to slow in September, with unemployment steady",
+        "image": "https://media.zenfs.com/en/reuters.com/8525cbd843e579e7b3c16e79625252de.jpg",
+        "link": "https://finance.yahoo.com/news/us-job-growth-expected-slow-040139268.html",
+        "summary": "<p>By Lucia Mutikani </p> <p>  WASHINGTON, Oct 2 (Reuters) - US job growth likely slowed in September and the unemployment rate is forecast to have be..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "EU ministers mull new ways to curb irregular migration",
+        "title": "Taiwan: first new F-16V fighters arrive amid China threat",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-ministers-mull-new-ways-to-curb-irregular-migration/a-79509375?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The proposals include setting up so-called return hubs outside the EU and strengthening the border agency Frontex. Greece has even proposed temporaril..."
+        "link": "https://www.dw.com/en/taiwan-first-new-f-16v-fighters-arrive-amid-china-threat/a-79510328?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US-made jets, part of an order made in 2019, touched down as concerns grow in Taiwan that support from the United States could be wavering. Washin..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Klopp wins first game as Germany coach, without 'top dogs'",
+        "title": "India news: Delhi protesters turn up heat on election chief, police tightens security",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/klopp-wins-first-game-as-germany-coach-without-top-dogs/a-79508898?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "It may have taken a little longer than he would have liked, but J\u00fcrgen Klopp has finally won a game as Germany coach. Despite a number of debutants, i..."
+        "link": "https://www.dw.com/en/india-news-delhi-protesters-turn-up-heat-on-election-chief-police-tightens-security/live-79509860?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Thousands are expected to gather in central Delhi to demand the resignation of India's Chief Election Commissioner Gyanesh Kumar, over the deletion of..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "UK police make another arrest in RAF Fairford case",
+        "title": "South Korea demands Ukraine apology over POW disclosure",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-police-make-another-arrest-in-raf-fairford-case/a-79508050?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Counter terrorism police said a dual UK-Iranian national was arrested on suspicion of preparing terrorist acts. Five men arrested on Sunday remain on ..."
+        "link": "https://www.dw.com/en/south-korea-demands-ukraine-apology-over-pow-disclosure/a-79510305?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ukrainian President Volodymyr Zelenskyy's disclosure of the transfer of North Korean prisoners of war (POWs) to Seoul has caused a major diplomatic sp..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "On October 3, Latvians will elect a new parliament \u2015 with Russia looming large over the campaign",
+        "title": "The Sudan connection: Is Ethiopia at risk of a proxy war?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/on-october-3-latvians-will-elect-a-new-parliament-\u2015-with-russia-looming-large-over-the-campaign/a-79477614?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "On October 3, Latvians will elect a new parliament with Russia looming large over the campaign. Security fears dominate the agenda, but so does a deba..."
+        "link": "https://www.dw.com/en/the-sudan-connection-is-ethiopia-at-risk-of-a-proxy-war/a-79491261?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ethiopia and Sudan are trading accusations over the armed conflicts they face. Can the conflict dynamics in the wider Horn of Africa exacerbate tensio..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Ethiopia and Eritrea sever ties amid Tigray fighting",
+        "title": "Ukraine, South Korea clash over transfer of 2 North Korean prisoners",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ethiopia-and-eritrea-sever-ties-amid-tigray-fighting/a-79507052?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ethiopia said it was expelling Eritrean diplomats in response to Eritrea's \"direct and indirect acts of hostility.\" Eritrea said it had \"no choice but..."
+        "link": "https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A diplomatic scandal has erupted over two North Korean prisoners of war, with South Korea demanding an apology from Ukraine. What's been the reaction ..."
     }
 ]
