@@ -71,10 +71,17 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Tennessee prison chief resigns after Christa Pike's failed execution",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/47cc8929-99c8-456a-8da4-8c10a4accb7d",
-        "link": "https://www.yahoo.com/news/us/article/tennessee-death-row-inmate-christa-pike-survives-2-doses-of-execution-drugs-081613268.html",
-        "summary": "<p style=\"text-align: left;\">Tennessee's top prison official is stepping down after the state's failed attempt to execute Christa Pike, Gov. Bill Lee ..."
+        "title": "The races that could expand Democrats' path to the White House are short on cash",
+        "image": "https://media.zenfs.com/en/politico_453/b0bf2abc1a1c11b9cc83b31f10627a4d.jpg",
+        "link": "https://www.politico.com/news/magazine/2026/10/03/democrats-have-a-money-problem-in-the-races-that-matter-the-most-01105500",
+        "summary": "<p><b>FORT LAUDERDALE, Fla. \u2014 </b>Perhaps emboldened by the rush of sweet tea he was sipping at The Floridian, an Old Florida institution here, David ..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "DA did not review key police evidence before declining charges in Cornell case",
+        "image": "https://media.zenfs.com/en/nbc_news_122/069ac12ae6a18bf6de4cfab95a629909.jpg",
+        "link": "https://www.nbcnews.com/news/us-news/da-not-review-additional-evidence-cornell-police-collected-alleged-gan-rcna601252",
+        "summary": "<figure><img alt=\"Cornell University police car passing by a fraternity house. (Heather Ainsworth for NBC News)\" height=\"1643\" src=\"https://media.zenf..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -92,17 +99,38 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "1,400 laid off at Ohio factory",
-        "image": "https://media.zenfs.com/en/ap.org/fd875bb06f78829ddc65a3e6ffc19990.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/gut-punch-ohio-nearly-1-040301412.html",
-        "summary": "<p>WASHINGTON (AP) \u2014 Sipping tea from beer mugs with his coworkers, Kyle Bos listed the ways his life is changing.</p>\n              <p>Bos has two da..."
+        "title": "Father and son face federal drug charges in probe of Ole Miss freshman's death",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/cd007034132145b9e4f78897331f3d97.jpg",
+        "link": "https://abcnews.com/US/father-son-federally-charged-connection-death-ole-miss/story?id=136954491",
+        "summary": "<div><p>A father and son who worked at a Mississippi smoke shop were charged by federal prosecutors in connection with one of the <a dir=\"ltr\" href=\"h..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Centuries-old lava rock arch in Hawai'i Volcanoes National Park collapses into ocean",
-        "image": "https://media.zenfs.com/en/fox_weather_articles_483/f5ef63a6e9a8e3aa7a33547e80d08b9f.jpg",
-        "link": "https://www.foxweather.com/earth-space/iconic-holei-sea-arch-collapses-hawaii-volcanoes-national-park-collapses",
-        "summary": "<p><strong>THE TAKEAWAY</strong></p><ul><li>H\u014dlei Sea Arch collapsed into the Pacific sometime between Sept. 23 and Sept. 27.</li><li>The arch had sus..."
+        "source": "Deutsche Welle",
+        "title": "Pakistan vs. Afghanistan: From allies and neighbors to war",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/pakistan-vs-afghanistan-from-allies-and-neighbors-to-war/a-79532115?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "For years, Pakistan supported the Taliban in Afghanistan. But now Pakistan is bombing its neighbor. How the former allies became adversaries and why n..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Tennessee's prison chief resigns after botched execution of murderer Christa Pike",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/tennessee-s-prison-chief-resigns-after-botched-execution-of-murderer-christa-pike/a-79532481?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Prison commissioner Frank Strada insisted his team followed protocol, even after two doses of anesthetic failed to kill convicted murderer Christa Pik..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Latvia: Ruling party leads in exit polls amid populist gains",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/latvia-ruling-party-leads-in-exit-polls-amid-populist-gains/a-79527253?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "According to an exit poll by public broadcaster LSM, Latvian Prime Minister Andris Kulbergs' centerist party, United List, was projected to win 35.6% ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine to step up oil attacks as Russia hits Kyiv bridges",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-to-step-up-oil-attacks-as-russia-hits-kyiv-bridges/a-79527753?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "As Moscow intensifies attacks on Kyiv and other cities, Ukrainian President Volodymyr Zelenskyy has vowed to hit Russian energy infrastructure...."
     },
     {
         "source": "Deutsche Welle",
@@ -110,33 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/uk-remands-2-iranians-over-alleged-antisemitic-terror-plot/a-79532184?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The pair were arrested on the eve of Yom Kippur and later charged with plotting to attack Jewish targets in Manchester...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Spain: Massive protests after housing bills voted down",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/spain-massive-protests-after-housing-bills-voted-down/a-79532124?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Organizers estimated that 500,000 people turned out in the streets of Madrid to demand affordable housing. Similar protests were held in around 50 oth..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Greece returns remains of Czar Samuel to Bulgaria",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/greece-returns-remains-of-czar-samuel-to-bulgaria/a-79530104?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A warrior emperor who ruled the Bulgarian Empire in the Middle Ages, Czar Samuel is a symbol of Bulgarian national identity. But his remains have been..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Spain: Floods leave 102-year-old woman dead in southeast",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/spain-floods-leave-102-year-old-woman-dead-in-southeast/a-79529983?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Authorities in Spain rescued some 90 people after heavy rain sparked flooding in the town of Madrigueras. Prime Minister Pedro Sanchez expressed his c..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "On German Unity Day, Steinmeier laments 'bitter setbacks'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/on-german-unity-day-steinmeier-laments-bitter-setbacks/live-79528092?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Germany's president has used his final Unity Day speech to warn the hopes of the reunification era have suffered \"bitter setbacks.\" DW has the latest...."
     }
 ]
