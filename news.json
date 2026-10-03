@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "New York cannabis sales on pace to break record, but signs of stall appear",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/new-york-cannabis-sales-on-pace-to-break-record-but-signs-of-stall-appear/618440/",
+        "summary": "<p>New York cannabis sales are on pace to break another record even as they fall short of an earlier bullish prediction. But there are some signs of a..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "Health problems reported after Colorado cannabis vaporizer recall",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/health-problems-reported-after-colorado-cannabis-vaporizer-recall/618431/",
@@ -63,46 +70,60 @@
         "summary": "<p>At least two cannabis workers have died of occupational asthma. Now a CU Boulder study will test the air inside cultivation facilities.</p>\n<p><a h..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "GOP senators: hemp THC \u2018loophole\u2019 helps Chinese criminals",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/gop-senators-hemp-thc-loophole-helps-chinese-criminals/618404/",
-        "summary": "<p>Four Republican U.S. senators this week signaled no interest in reconsidering a looming hemp cannabinoid ban, in part because of alleged Chinese in..."
+        "source": "yahoo.com/news Top Stories",
+        "title": "Supreme Court Justice Samuel Alito confirms he's considering retirement",
+        "image": "https://media.zenfs.com/en/politico_453/854959be84dba176185c5b2ab7277723.jpg",
+        "link": "https://www.politico.com/news/2026/10/02/alito-supreme-court-retirement-01105789",
+        "summary": "<p>Supreme Court Justice Samuel Alito has confirmed that he is considering retirement, leaving open the possibility that he could leave after next yea..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Rape allegations spark outrage and soul-searching over campus culture at Cornell",
+        "image": "https://media.zenfs.com/en/reuters.com/cdcb70a326b06f7602f6837eccd407c1.jpg",
+        "link": "https://uk.news.yahoo.com/cornell-rape-allegations-spark-outrage-172822680.html",
+        "summary": "<p>By Maria Tsvetkova </p> <p>  ITHACA, New York, Oct 2 (Reuters) - Cornell University student Sophia Riley Sim skipped classes this week, consumed by..."
     },
     {
         "source": "yahoo.com/news Top Stories",
         "title": "Christa Pike is unconscious and on a ventilator after failed execution, filing says",
         "image": "https://media.zenfs.com/en/the-tennessean/6d54131b62abbc14fa8947141d5e238d.jpg",
         "link": "https://www.tennessean.com/story/news/courts/2026/10/02/christa-pike-intubated-burned-unconscious-new-court-filing/92055766007/",
-        "summary": "<div><p>A new emergency court filing seeks to preserve all evidence related to Tennessee's failed execution of Christa Pike, arguing the state botched..."
+        "summary": "<div><p class=\"exclude-from-newsgate\"><em>Correction: An earlier version of this story mistakenly said the emergency court hearing request was granted..."
     },
     {
         "source": "yahoo.com/news Top Stories",
         "title": "Former GOP Rep. David Rivera gets 10 years for secret Venezuela lobbying",
-        "image": "https://media.zenfs.com/en/ap.org/2b9708f33dcdda6f34a6192c696236e3.jpg",
+        "image": "https://media.zenfs.com/en/ap.org/c796fddf0fb904b694ab22aac14aadd5.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/former-gop-rep-david-rivera-182044649.html",
         "summary": "<p>MIAMI (AP) \u2014 A former Miami congressman and longtime friend of U.S. <a href=\"https://apnews.com/hub/marco-rubio\">Secretary of State Marco Rubio</a>..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "FBI releases classified \u2018Patel Report\u2019 examining where the bureau 'fell short'",
-        "image": "https://media.zenfs.com/en/ap.org/fe98dcf459adb3a50868b8b5009626af.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/fbi-releases-classified-patel-report-171408613.html",
-        "summary": "<p>WASHINGTON (AP) \u2014 <a href=\"https://apnews.com/hub/us-federal-bureau-of-investigation\">The FBI</a> has released a classified report to its workforce..."
+        "title": "Texas barber finds $128,514 sitting on top of ATM \u2014 and returns it all",
+        "image": "https://media.zenfs.com/en/quartz_855/2ebf9be4a3484bdb4299fa8ef29bd902.jpg",
+        "link": "https://qz.com/texas-barber-returns-128514-bank-of-america-atm-100226",
+        "summary": "<div class=\"payload-richtext\"><p>A Lewisville, Texas, barber <a href=\"https://www.nbcdfw.com/news/local/lewisville-man-returns-more-than-128000-found-..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Trump gets G7 agreement for major oil release as diesel prices hit U.S. hard",
-        "image": "https://media.zenfs.com/en/ap.org/9027a0e85ac663715301058515181043.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-europe-agrees-release-diesel-141011437.html",
-        "summary": "<p>WASHINGTON (AP) \u2014 The Group of Seven wealthy democracies said Friday that they plan to release 100 million barrels of oil and fuel products in the ..."
+        "source": "Deutsche Welle",
+        "title": "Christa Pike unconscious after failed execution \u2014 attorneys",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/christa-pike-unconscious-after-failed-execution-attorneys/a-79526118?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Lawyers for Christa Pike said she's unconscious and on a ventilator after a botched execution attempt. Pike is believed to be the first person to have..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Dangerous heat grips Southern California as temperatures could top 105",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/f0f44c3a6fd2f279e14daee1236a3218.jpg",
-        "link": "https://abcnews.com/US/southern-california-extreme-heat-warning-increased-fire-risk/story?id=136946936",
-        "summary": "<div><p>A dangerous, long-duration heatwave is sweeping through much of Southern California beginning Friday, creating increased fire risk in the regi..."
+        "source": "Deutsche Welle",
+        "title": "North Korea fires ballistic missile into sea, Seoul says",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "North Korea fired a ballistic missile toward the sea off its east coast, the South Korean military has said...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UK: Man charged with planning to attack Nigel Farage",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/uk-man-charged-with-planning-to-attack-nigel-farage/a-79526078?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The suspect was already charged with the killing of Reform UK's Ann Widdecombe...."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Police have made around 2,000 arrests and dozens of people have been injured as student protests spread across France. Ministers have called for a \"da..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "FlyDubai 'hero' pilot speaks for first time",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/flydubai-hero-pilot-speaks-for-first-time/a-79524500?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "India's Prime Minister Narendra Modi spoke with Captain Smit Machchhar via video call. Meanwhile, authorities in the UAE and Israel said an investigat..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Spain's parliament rejects housing bill as protests continue",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/spain-s-parliament-rejects-housing-bill-as-protests-continue/a-79522683?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Spain's minority government suffered defeat in parliament as it tried to push through a pair of emergency measures aimed at making housing more afford..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "\"NAZA\": Israeli military issues statement on film",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/naza-israeli-military-issues-statement-on-film/a-79520483?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The award-winning documentary \"NAZA\" continues to spark controversy in Israel. The Israeli military has now published a multi-page statement calling t..."
     }
 ]
