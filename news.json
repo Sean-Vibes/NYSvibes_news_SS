@@ -71,17 +71,24 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Cornell rape allegation puts fraternities' long struggle with trust back in focus",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/e75aba57675df17c9abcb5c3bc24e28b.jpg",
+        "link": "https://thehill.com/homenews/education/6126503-cornell-rape-chi-phi-frat-greek-life/",
+        "summary": "<figure><img height=\"506\" src=\"https://media.zenfs.com/en/the_hill_articles_341/e75aba57675df17c9abcb5c3bc24e28b.jpg\" width=\"900\" /></figure>\n<p>The <..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Cruz rips Vance as 'insecure' after VP accused him of focusing on 2028 election",
+        "image": "https://media.zenfs.com/en/politico_453/451c8a52bdbf7c4b2bfebde916308b88.jpg",
+        "link": "https://www.politico.com/news/2026/10/03/ted-cruz-blasts-jd-vance-as-insecure-says-hes-focused-on-helping-gop-win-midterms-01106033",
+        "summary": "<p>Sen. Ted Cruz fired back at JD Vance for suggesting he's already focused on a 2028 presidential bid, calling the vice president &quot;insecure&quot..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "The races that could expand Democrats' path to the White House are short on cash",
         "image": "https://media.zenfs.com/en/politico_453/b0bf2abc1a1c11b9cc83b31f10627a4d.jpg",
         "link": "https://www.politico.com/news/magazine/2026/10/03/democrats-have-a-money-problem-in-the-races-that-matter-the-most-01105500",
         "summary": "<p><b>FORT LAUDERDALE, Fla. \u2014 </b>Perhaps emboldened by the rush of sweet tea he was sipping at The Floridian, an Old Florida institution here, David ..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "DA did not review key police evidence before declining charges in Cornell case",
-        "image": "https://media.zenfs.com/en/nbc_news_122/069ac12ae6a18bf6de4cfab95a629909.jpg",
-        "link": "https://www.nbcnews.com/news/us-news/da-not-review-additional-evidence-cornell-police-collected-alleged-gan-rcna601252",
-        "summary": "<figure><img alt=\"Cornell University police car passing by a fraternity house. (Heather Ainsworth for NBC News)\" height=\"1643\" src=\"https://media.zenf..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -98,11 +105,11 @@
         "summary": "<p>Republicans know they have to spend big to save Ken Paxton. They\u2019re increasingly worried MAGA Inc. won\u2019t throw down in time.</p><p>In private conve..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Father and son face federal drug charges in probe of Ole Miss freshman's death",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/cd007034132145b9e4f78897331f3d97.jpg",
-        "link": "https://abcnews.com/US/father-son-federally-charged-connection-death-ole-miss/story?id=136954491",
-        "summary": "<div><p>A father and son who worked at a Mississippi smoke shop were charged by federal prosecutors in connection with one of the <a dir=\"ltr\" href=\"h..."
+        "source": "Deutsche Welle",
+        "title": "AI giants 'not being nearly careful enough,' warns outgoing OpenAI safety engineer",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ai-giants-not-being-nearly-careful-enough-warns-outgoing-openai-safety-engineer/a-79533080?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Days after President Donald Trump signed a voluntary pact with artificial intelligence giants, a former OpenAI worker said his industry needs the same..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukraine-to-step-up-oil-attacks-as-russia-hits-kyiv-bridges/a-79527753?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "As Moscow intensifies attacks on Kyiv and other cities, Ukrainian President Volodymyr Zelenskyy has vowed to hit Russian energy infrastructure...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UK remands 2 Iranians over alleged antisemitic terror plot",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-remands-2-iranians-over-alleged-antisemitic-terror-plot/a-79532184?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The pair were arrested on the eve of Yom Kippur and later charged with plotting to attack Jewish targets in Manchester...."
     }
 ]
