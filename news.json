@@ -71,6 +71,13 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Guns, voting, immigration and more: The Supreme Court's biggest cases in its new term",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-scotus-building_5907.jpg",
+        "link": "https://www.yahoo.com/news/politics/article/guns-voting-immigration-and-more-the-biggest-cases-the-supreme-court-will-take-up-in-its-new-term-225505089.html",
+        "summary": "<p style=\"text-align: left;\">The Supreme Court begins its latest term on Monday with a docket full of high-stakes cases that touch on some of the most..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Supreme Court Justice Samuel Alito confirms he's considering retirement",
         "image": "https://media.zenfs.com/en/politico_453/854959be84dba176185c5b2ab7277723.jpg",
         "link": "https://www.politico.com/news/2026/10/02/alito-supreme-court-retirement-01105789",
@@ -79,9 +86,9 @@
     {
         "source": "yahoo.com/news Top Stories",
         "title": "Rape allegations spark outrage and soul-searching over campus culture at Cornell",
-        "image": "https://media.zenfs.com/en/reuters.com/cdcb70a326b06f7602f6837eccd407c1.jpg",
+        "image": "https://media.zenfs.com/en/reuters.com/b1ec8df8f740b9f3ce9fac9d8829dfe6.jpg",
         "link": "https://uk.news.yahoo.com/cornell-rape-allegations-spark-outrage-172822680.html",
-        "summary": "<p>By Maria Tsvetkova </p> <p>  ITHACA, New York, Oct 2 (Reuters) - Cornell University student Sophia Riley Sim skipped classes this week, consumed by..."
+        "summary": "<p style=\"text-align: left;\">By Maria Tsvetkova</p><p style=\"text-align: left;\">ITHACA, New York, Oct 2 (Reuters) - Cornell University student Sophia ..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -95,48 +102,41 @@
         "title": "Former GOP Rep. David Rivera gets 10 years for secret Venezuela lobbying",
         "image": "https://media.zenfs.com/en/ap.org/c796fddf0fb904b694ab22aac14aadd5.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/former-gop-rep-david-rivera-182044649.html",
-        "summary": "<p>MIAMI (AP) \u2014 A former Miami congressman and longtime friend of U.S. <a href=\"https://apnews.com/hub/marco-rubio\">Secretary of State Marco Rubio</a>..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Texas barber finds $128,514 sitting on top of ATM \u2014 and returns it all",
-        "image": "https://media.zenfs.com/en/quartz_855/2ebf9be4a3484bdb4299fa8ef29bd902.jpg",
-        "link": "https://qz.com/texas-barber-returns-128514-bank-of-america-atm-100226",
-        "summary": "<div class=\"payload-richtext\"><p>A Lewisville, Texas, barber <a href=\"https://www.nbcdfw.com/news/local/lewisville-man-returns-more-than-128000-found-..."
+        "summary": "<p style=\"text-align: left;\">MIAMI (AP) \u2014 A former Miami congressman and longtime friend of U.S. <a class=\"link\" href=\"https://apnews.com/hub/marco-ru..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Christa Pike unconscious after failed execution \u2014 attorneys",
+        "title": "Latvia votes in parliamentary election amid rising costs",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/christa-pike-unconscious-after-failed-execution-attorneys/a-79526118?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Lawyers for Christa Pike said she's unconscious and on a ventilator after a botched execution attempt. Pike is believed to be the first person to have..."
+        "link": "https://www.dw.com/en/latvia-votes-in-parliamentary-election-amid-rising-costs/a-79527253?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Around 1.5 million Latvians are eligible to vote in an election which has been dominated by national security concerns and rising living costs. Four E..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "North Korea fires ballistic missile into sea, Seoul says",
+        "title": "German reunification: How inequality is shaping a new East German identity",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "North Korea fired a ballistic missile toward the sea off its east coast, the South Korean military has said...."
+        "link": "https://www.dw.com/en/german-reunification-how-inequality-is-shaping-a-new-east-german-identity/a-79518541?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A new study highlights persistent structural disparities in wealth and leadership positions between East and West Germany, 36 years after reunificatio..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "UK: Man charged with planning to attack Nigel Farage",
+        "title": "Australia: Car crashes into rugby fans, 10 injured",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-man-charged-with-planning-to-attack-nigel-farage/a-79526078?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The suspect was already charged with the killing of Reform UK's Ann Widdecombe...."
+        "link": "https://www.dw.com/en/australia-car-crashes-into-rugby-fans-10-injured/a-79526643?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The driver has been identified as an 18-year-old man who is said to have been \"revving\" when he lost control of his car...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "New York governor condemns handling of Cornell rape case",
+        "title": "Co-pilot on Flydubai flight was banned from flying by Oman",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/new-york-governor-condemns-handling-of-cornell-rape-case/a-79525431?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "An 2024 alleged gang rape at the prestigious Cornell University has gained national attention after the accuser, identified only as Jane Doe, filed a ..."
+        "link": "https://www.dw.com/en/co-pilot-on-flydubai-flight-was-banned-from-flying-by-oman/a-79526641?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The man who stabbed his fellow pilot, the captain of the Israel-bound Flydubai flight, was reportedly barred from flying in his native Oman over secur..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "France: 400 schools closed as student protests continue",
+        "title": "US, Australia suspend consular services in Brazil",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/france-400-schools-closed-as-student-protests-continue/a-79512732?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Police have made around 2,000 arrests and dozens of people have been injured as student protests spread across France. Ministers have called for a \"da..."
+        "link": "https://www.dw.com/en/us-australia-suspend-consular-services-in-brazil/a-79526311?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US and Australia have announced a halt to their consular services in Brazil beginning Friday. The news comes two days before Brazilians head to th..."
     }
 ]
