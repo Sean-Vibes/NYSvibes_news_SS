@@ -1,6 +1,20 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Federal Changes Will Put Hemp Industry Operators Out Of Business, Oregon Retailers And Suppliers Say",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/federal-changes-will-put-hemp-industry-operators-out-of-business-oregon-retailers-and-suppliers-say/",
+        "summary": "<p>&#8220;The CBD products that people are expecting to be available to give to their dogs for arthritis or to give to their parents because they\u2019re a..."
+    },
+    {
+        "source": "Marijuana Moment",
+        "title": "North Carolina Advisory Panel Weighs Cannabis Public Use Policies As Part Of Recommendation To Governor",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/north-carolina-advisory-panel-weighs-cannabis-public-use-policies-as-part-of-recommendation-to-governor/",
+        "summary": "<p>\u201cWe want the public to understand exactly what this means. We don\u2019t want to have to have law enforcement try to guess at businesses, are they publi..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "New York Dispensaries Have Sold More Than $4 Billion In Recreational Marijuana Since The Market Launched, State Officials Announce",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/new-york-dispensaries-have-sold-more-than-4-billion-in-recreational-marijuana-since-the-market-launched-state-officials-announce/",
@@ -19,20 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/virginia-officials-launch-medical-marijuana-patient-survey-including-questions-about-how-recreational-legalization-will-impact-them/",
         "summary": "<p>Virginia regulators are asking patients to complete a &#8220;satisfaction survey&#8221; about the state&#8217;s medical marijuana program. The Virg..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Medical Marijuana Helps People With Autism Reduce Anxiety And Depression, Government Study Shows",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/medical-marijuana-helps-people-with-autism-reduce-anxiety-and-depression-government-study-shows/",
-        "summary": "<p>Medical marijuana helps people with autism ease their anxiety and depression, according a new study conducted by state officials in Minnesota. The ..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "GOP senators push probe on cannabis & China ties (Newsletter: October 2, 2026)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/gop-senators-push-probe-on-cannabis-china-ties-newsletter-october-2-2026/",
-        "summary": "<p>Congressional psychedelics report; GA medical marijuana delivery; CA gov signs cannabis edibles &#38; drinks bill; Vets medical marijuana research ..."
     },
     {
         "source": "MJBizDaily",
@@ -71,38 +71,59 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Flydubai copilot attacked captain with crash axe, UAE official says",
-        "image": "https://media.zenfs.com/en/nbc_news_122/6e879ddca9f731e05026e9b7fcaaa7dd.jpg",
-        "link": "https://www.nbcnews.com/world/middle-east/flydubai-pilot-attacked-captain-cockpits-crash-axe-attempted-terrorist-rcna601259",
-        "summary": "<p>TEL AVIV \u2014 <a href=\"https://www.nbcnews.com/world/middle-east/know-cockpit-stabbing-israel-bound-flight-rcna600881\" target=\"_blank\">A Flydubai</a> ..."
+        "title": "Tennessee prison chief resigns after Christa Pike's failed execution",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/47cc8929-99c8-456a-8da4-8c10a4accb7d",
+        "link": "https://www.yahoo.com/news/us/article/tennessee-death-row-inmate-christa-pike-survives-2-doses-of-execution-drugs-081613268.html",
+        "summary": "<p style=\"text-align: left;\">Tennessee's top prison official is stepping down after the state's failed attempt to execute Christa Pike, Gov. Bill Lee ..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Ohio factory layoffs test Trump's economic pitch in a working-class stronghold",
-        "image": "https://media.zenfs.com/en/ap.org/a4d96e982f8c5c349ba0c9e918b635ad.jpg",
+        "title": "Real America\u2019s Voice correspondent becomes assistant press secretary",
+        "image": "https://media.zenfs.com/en/thewrap.com/29b5192dc5e92af4bfccb01b74b1f1de.jpg",
+        "link": "https://www.thewrap.com/media-platforms/politics/trump-names-assistant-press-secretary-beni-rae-harmony/",
+        "summary": "<figure>\n<img alt=\"Beni Rae Harmony\" class=\"attachment-large size-large wp-post-image\" height=\"720\" src=\"https://media.zenfs.com/en/thewrap.com/29b519..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Republicans are wary of the $200 million-plus price tag to save Ken Paxton",
+        "image": "https://media.zenfs.com/en/politico_453/a23e038eae62d2c1e5e62595bd2cc595.jpg",
+        "link": "https://www.politico.com/news/2026/10/03/paxton-texas-senate-trump-gop-money-woes-01105707",
+        "summary": "<p>Republicans know they have to spend big to save Ken Paxton. They\u2019re increasingly worried MAGA Inc. won\u2019t throw down in time.</p><p>In private conve..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "1,400 laid off at Ohio factory",
+        "image": "https://media.zenfs.com/en/ap.org/fd875bb06f78829ddc65a3e6ffc19990.jpg",
         "link": "https://www.yahoo.com/news/us/articles/gut-punch-ohio-nearly-1-040301412.html",
         "summary": "<p>WASHINGTON (AP) \u2014 Sipping tea from beer mugs with his coworkers, Kyle Bos listed the ways his life is changing.</p>\n              <p>Bos has two da..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump announces one-time $90 payment for over 20 million Medicare seniors",
-        "image": "https://media.zenfs.com/en/reuters.com/e96a3d6208d8c454e85a29b18a181ff2.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-says-us-send-one-045116568.html",
-        "summary": "<p>By Kanishka Singh </p> <p>  WASHINGTON, Oct 2 (Reuters) - President Donald Trump said the US government will send a one-time $90 payment to more th..."
+        "title": "Centuries-old lava rock arch in Hawai'i Volcanoes National Park collapses into ocean",
+        "image": "https://media.zenfs.com/en/fox_weather_articles_483/f5ef63a6e9a8e3aa7a33547e80d08b9f.jpg",
+        "link": "https://www.foxweather.com/earth-space/iconic-holei-sea-arch-collapses-hawaii-volcanoes-national-park-collapses",
+        "summary": "<p><strong>THE TAKEAWAY</strong></p><ul><li>H\u014dlei Sea Arch collapsed into the Pacific sometime between Sept. 23 and Sept. 27.</li><li>The arch had sus..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Botched execution puts lethal injection\u2019s \u2018more humane\u2019 promise under scrutiny",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-christa-pike_4339.jpg",
-        "link": "https://www.yahoo.com/news/us/article/christa-pikes-botched-execution-fuels-questions-over-whether-lethal-injection-is-the-more-humane-way-to-put-people-to-death-192059157.html",
-        "summary": "<p style=\"text-align: left;\">The <a class=\"link\" href=\"https://www.yahoo.com/news/us/article/tennessee-death-row-inmate-christa-pike-survives-2-doses-..."
+        "source": "Deutsche Welle",
+        "title": "UK remands 2 Iranians over alleged antisemitic terror plot",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/uk-remands-2-iranians-over-alleged-antisemitic-terror-plot/a-79532184?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The pair were arrested on the eve of Yom Kippur and later charged with plotting to attack Jewish targets in Manchester...."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Former GOP Rep. David Rivera gets 10 years for secret Venezuela lobbying",
-        "image": "https://media.zenfs.com/en/ap.org/c796fddf0fb904b694ab22aac14aadd5.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/former-gop-rep-david-rivera-182044649.html",
-        "summary": "<p style=\"text-align: left;\">MIAMI (AP) \u2014 A former Miami congressman and longtime friend of U.S. <a class=\"link\" href=\"https://apnews.com/hub/marco-ru..."
+        "source": "Deutsche Welle",
+        "title": "Spain: Massive protests after housing bills voted down",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/spain-massive-protests-after-housing-bills-voted-down/a-79532124?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Organizers estimated that 500,000 people turned out in the streets of Madrid to demand affordable housing. Similar protests were held in around 50 oth..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Greece returns remains of Czar Samuel to Bulgaria",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/greece-returns-remains-of-czar-samuel-to-bulgaria/a-79530104?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A warrior emperor who ruled the Bulgarian Empire in the Middle Ages, Czar Samuel is a symbol of Bulgarian national identity. But his remains have been..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/on-german-unity-day-steinmeier-laments-bitter-setbacks/live-79528092?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Germany's president has used his final Unity Day speech to warn the hopes of the reunification era have suffered \"bitter setbacks.\" DW has the latest...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: Cockroach Janta Party announces Delhi march for October 10, calls for election chief's resignation",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-cockroach-janta-party-announces-delhi-march-for-october-10-calls-for-election-chief-s-resignation/live-79527537?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Cockroach Janta Party has called for a protest in Delhi if Chief Election Commissioner Gyanesh Kumar does not resign. After the Indian men's crick..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia strikes another major bridge in Kyiv, says mayor",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-strikes-another-major-bridge-in-kyiv-says-mayor/a-79527753?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The attack on Kyiv's Northern Bridge comes after the Southern Bridge on the Dnipro river was hit multiple times by Russia's drones...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Flydubai co-pilot attempted 'terrorist attack,' UAE says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/flydubai-co-pilot-attempted-terrorist-attack-uae-says/a-79526641?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The man, who stabbed his fellow pilot on an Israel-bound Flydubai flight, was reportedly barred from flying in his native Oman over security concerns...."
     }
 ]
