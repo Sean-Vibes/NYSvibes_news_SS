@@ -71,10 +71,24 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Cornell rape allegation puts fraternities' long struggle with trust back in focus",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/e75aba57675df17c9abcb5c3bc24e28b.jpg",
-        "link": "https://thehill.com/homenews/education/6126503-cornell-rape-chi-phi-frat-greek-life/",
-        "summary": "<figure><img height=\"506\" src=\"https://media.zenfs.com/en/the_hill_articles_341/e75aba57675df17c9abcb5c3bc24e28b.jpg\" width=\"900\" /></figure>\n<p>The <..."
+        "title": "Cornell president says university will examine role of Greek life after rape allegation",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/9b455e3eb13dd2f986d2a6ad55f87563.jpg",
+        "link": "https://www.cnn.com/2026/10/03/us/cornell-sexual-assault-governor-rebuke",
+        "summary": "<figure><img alt=\"Cornell University\" height=\"540\" src=\"https://media.zenfs.com/en/cnn_articles_875/9b455e3eb13dd2f986d2a6ad55f87563.jpg\" width=\"960\" ..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "As Trump's approval rating drops, Republicans begin to lose confidence in midterms",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/ea5568f5e00d0fcaad4e988a585aa1f7.jpg",
+        "link": "https://www.cnn.com/2026/10/03/politics/republicans-congress-control-midterms",
+        "summary": "<figure><img alt=\"The US Capitol Building is seen on October 1, in Washington, DC. - Anna Moneymaker/Getty Images\" height=\"540\" src=\"https://media.zen..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "FDA finds potential source of cyclosporiasis outbreak linked to lettuce",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/ae0ecf31f1bc74af32e6f1d0b4e84b6b.jpg",
+        "link": "https://abcnews.com/Health/fda-finds-potential-source-cyclosporiasis-outbreak-linked-lettuce/story?id=136958299",
+        "summary": "<div><p>The Food and Drug Administration (FDA) said on Friday it has found a potential source of the cyclosporiasis outbreak that was tied to lettuce ..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -91,18 +105,25 @@
         "summary": "<p><b>FORT LAUDERDALE, Fla. \u2014 </b>Perhaps emboldened by the rush of sweet tea he was sipping at The Floridian, an Old Florida institution here, David ..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Real America\u2019s Voice correspondent becomes assistant press secretary",
-        "image": "https://media.zenfs.com/en/thewrap.com/29b5192dc5e92af4bfccb01b74b1f1de.jpg",
-        "link": "https://www.thewrap.com/media-platforms/politics/trump-names-assistant-press-secretary-beni-rae-harmony/",
-        "summary": "<figure>\n<img alt=\"Beni Rae Harmony\" class=\"attachment-large size-large wp-post-image\" height=\"720\" src=\"https://media.zenfs.com/en/thewrap.com/29b519..."
+        "source": "Deutsche Welle",
+        "title": "In Tigray, Ethiopian government forces have advanced against a northern rebel group, reports indicate",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/in-tigray-ethiopian-government-forces-have-advanced-against-a-northern-rebel-group-reports-indicate/a-79534372?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Reports indicate Ethiopian government forces have made advances against a northern rebel group. Renewed fighting has raised fears the conflict could s..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Republicans are wary of the $200 million-plus price tag to save Ken Paxton",
-        "image": "https://media.zenfs.com/en/politico_453/a23e038eae62d2c1e5e62595bd2cc595.jpg",
-        "link": "https://www.politico.com/news/2026/10/03/paxton-texas-senate-trump-gop-money-woes-01105707",
-        "summary": "<p>Republicans know they have to spend big to save Ken Paxton. They\u2019re increasingly worried MAGA Inc. won\u2019t throw down in time.</p><p>In private conve..."
+        "source": "Deutsche Welle",
+        "title": "Peru: Fire burning on road to Machu Picchu kills 1",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/peru-fire-burning-on-road-to-machu-picchu-kills-1/a-79534344?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "One person has died and two others have suffered burns in a fire near the main access route to the historic sanctuary of Machu Picchu...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Brazil's 2026 presidential election is kicking off with polls showing Lula and Bolsonaro nearly tied.",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/brazil-s-2026-presidential-election-is-kicking-off-with-polls-showing-lula-and-bolsonaro-nearly-tied/a-79533857?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Flavio Bolsonaro, the son of former far-right populist President Jair Bolsonaro, is taking on incumbent left-wing President Lula da Silva. Polls show ..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/pakistan-vs-afghanistan-from-allies-and-neighbors-to-war/a-79532115?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "For years, Pakistan supported the Taliban in Afghanistan. But now Pakistan is bombing its neighbor. How the former allies became adversaries and why n..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Tennessee's prison chief resigns after botched execution of murderer Christa Pike",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/tennessee-s-prison-chief-resigns-after-botched-execution-of-murderer-christa-pike/a-79532481?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Prison commissioner Frank Strada insisted his team followed protocol, even after two doses of anesthetic failed to kill convicted murderer Christa Pik..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Latvia: Ruling party leads in exit polls amid populist gains",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/latvia-ruling-party-leads-in-exit-polls-amid-populist-gains/a-79527253?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "According to an exit poll by public broadcaster LSM, Latvian Prime Minister Andris Kulbergs' centerist party, United List, was projected to win 35.6% ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine to step up oil attacks as Russia hits Kyiv bridges",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-to-step-up-oil-attacks-as-russia-hits-kyiv-bridges/a-79527753?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As Moscow intensifies attacks on Kyiv and other cities, Ukrainian President Volodymyr Zelenskyy has vowed to hit Russian energy infrastructure...."
     }
 ]
