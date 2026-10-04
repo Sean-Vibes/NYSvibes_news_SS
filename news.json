@@ -71,17 +71,24 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "U.S. removes all bombers from British base targeted by a suspected terror plot",
+        "image": "https://media.zenfs.com/en/ap.org/5f8e4d9c6d08c4ef6e03fc77b1bbb1f4.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/us-air-force-removes-bombers-205946225.html",
+        "summary": "<p>WASHINGTON (AP) \u2014 The U.S. Air Force has brought home its bombers stationed at <a href=\"https://apnews.com/article/uk-raf-fairford-us-air-force-exp..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Poll shows Latino voters swinging away from Trump and Republicans",
+        "image": "https://media.zenfs.com/en/nbc_news_122/7821f18426902fff76d6a4ddd19ee97f.jpg",
+        "link": "https://www.nbcnews.com/politics/2026-election/poll-latino-voters-swing-away-trump-republicans-midterm-shift-rcna599894",
+        "summary": "<figure><img alt=\"NBC News\" height=\"1600\" src=\"https://media.zenfs.com/en/nbc_news_122/f3c4e32875d7a4ee2e66751cfb8c1ef0.jpg\" width=\"2400\" /><figcaptio..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Trump's opponents are planning how to reverse his changes to the presidency",
         "image": "https://media.zenfs.com/en/washington_post_articles_265/589a747823f8872a6de0c2e62041f77a.jpg",
         "link": "https://washingtonpost.com/politics/2026/10/04/democrats-are-making-plans-clean-up-government-post-trump-era/",
         "summary": "<p>Democratic House members are writing bills to rein in a president\u2019s emergency powers. Lawyers are strategizing about how to insulate the Justice De..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "'What I do best': Trump talks D.C. projects, Iran and what he'll miss when he's gone",
-        "image": "https://media.zenfs.com/en/time_72/06d4addf8267b499c4a77075de5c6e4e.jpg",
-        "link": "https://time.com/article/2026/10/01/donald-trump-2026-interview/",
-        "summary": "<section><figure><img /></figure></section><section><p>Donald Trump struts onto the new White House helipad, an 80,000-sq.-ft. expanse of carved grani..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -98,18 +105,18 @@
         "summary": "<figure><img src=\"https://media.zenfs.com/en/afp.com/41b7e765e5b94a30bfde6513dcaf6ef6.jpg\" /><figcaption>Ships anchored off the coast of Musandam gove..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "7 men were accused of sexual assault at Cornell. Here's how the school responded.",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/bf5f0f18-cd52-45d3-9632-8b37a1c6970c",
-        "link": "https://www.yahoo.com/news/us/article/cornell-rape-case-how-the-university-reportedly-punished-each-of-the-7-men-accused-from-expulsion-to-reflection-papers-183826467.html",
-        "summary": "<p style=\"text-align: left;\">Two of the seven men accused of sexually assaulting a Cornell University student at a fraternity house in 2024 were expel..."
+        "source": "Deutsche Welle",
+        "title": "Nationalists top Bosnia-Herzegovina's divisive election",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/nationalists-top-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Bosnia-Herzegovina's three-member presidency is set to be dominated by nationalists from the three major ethnic groups, including Zeljka \u200bCvijanovic, ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Polls close in Bosnia-Herzegovina's divisive election",
+        "title": "Brazil election: Early count puts Bolsonaro ahead of Lula",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/polls-close-in-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Zeljka \u200bCvijanovic, the Serb nationalist candidate backed by disqualified secessionist leader Milorad Dodik, took the lead for the Serb seat of the th..."
+        "link": "https://www.dw.com/en/brazil-election-early-count-puts-bolsonaro-ahead-of-lula/a-79533857?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Flavio Bolsonaro, the son of Brazil's populist ex-leader Jair Bolsonaro, took on incumbent left-wing Lula da Silva in a presidential race. Early resul..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-s-merz-visits-kyiv-as-russia-strikes-bridge/a-79534734?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "As air raid sirens sounded in Kyiv, Chancellor Merz called on President Putin to end his \"senseless war\" and announced new measures to support Ukraine..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump names AI czar to head White House task force",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-names-ai-czar-to-head-white-house-task-force/a-79537966?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US President Donald Trump has chosen members to lead a new AI task force to coordinate the administration's response to the rapidly evolving technolog..."
     }
 ]
