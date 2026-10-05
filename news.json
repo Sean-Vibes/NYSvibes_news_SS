@@ -92,17 +92,24 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "2 dead and 35 injured in mass shooting at Georgia homecoming celebration",
-        "image": "https://media.zenfs.com/en/wsb_cox_articles_232/2618c1e3ee93908142b5011cc1127022.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/2-dead-multiple-injured-south-143631377.html",
-        "summary": "<figure><img src=\"https://media.zenfs.com/en/wsb_cox_articles_232/fa135f9b0a2f4cd5793964b23913447a.jpg\" /></figure><p>Multiple law enforcement agencie..."
+        "title": "FBI Director Kash Patel and country singer Alexis Wilkins announce they're engaged",
+        "image": "https://media.zenfs.com/en/ap.org/bbf370ff14c2cc150554da85c5452403.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/fbi-director-kash-patel-gets-005549284.html",
+        "summary": "<p>FBI Director Kash Patel is engaged to his country singer girlfriend, Alexis Wilkins, the pair announced <a href=\"https://x.com/Kash_Patel/status/21..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Iran tells U.S. there is no military solution to Middle East war",
-        "image": "https://media.zenfs.com/en/afp.com/41b7e765e5b94a30bfde6513dcaf6ef6.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/iran-tells-us-no-military-094635228.html",
-        "summary": "<figure><img src=\"https://media.zenfs.com/en/afp.com/41b7e765e5b94a30bfde6513dcaf6ef6.jpg\" /><figcaption>Ships anchored off the coast of Musandam gove..."
+        "title": "As he exits Senate, Tillis sounds alarm on 'outsized influence' of executive branch",
+        "image": "https://media.zenfs.com/en/cbs_news_897/2cf33baa5c5108e27ebfd03bb2d520ca.jpg",
+        "link": "https://www.cbsnews.com/news/senator-thom-tillis-60-minutes/",
+        "summary": "<p></p><p></p><p>As Sen. Thom Tillis exits the Senate, he's blasting many of the advisers President Trump has surrounded himself with as &quot;sycopha..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Brazil election: Bolsonaro and Lula head to runoff",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/brazil-election-bolsonaro-and-lula-head-to-runoff/a-79533857?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Populist Flavio Bolsonaro has secured a thin lead over incumbent Luiz Inacio Lula da Silva, but the next president of Brazil will be decided in the ru..."
     },
     {
         "source": "Deutsche Welle",
@@ -110,13 +117,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/nationalists-top-bosnia-herzegovina-s-divisive-election/a-79535336?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Bosnia-Herzegovina's three-member presidency is set to be dominated by nationalists from the three major ethnic groups, including Zeljka \u200bCvijanovic, ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Brazil election: Early count puts Bolsonaro ahead of Lula",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/brazil-election-early-count-puts-bolsonaro-ahead-of-lula/a-79533857?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Flavio Bolsonaro, the son of Brazil's populist ex-leader Jair Bolsonaro, took on incumbent left-wing Lula da Silva in a presidential race. Early resul..."
     },
     {
         "source": "Deutsche Welle",
