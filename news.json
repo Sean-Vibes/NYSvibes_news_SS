@@ -71,6 +71,27 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Iran-linked threat prompted U.S. to move bombers from U.K., Trump says",
+        "image": "https://media.zenfs.com/en/reuters.com/28672740f01018267368009b14562fa0.jpg",
+        "link": "https://www.yahoo.com/news/articles/us-removes-b-1-bombers-212222549.html",
+        "summary": "<p>By Kate Holton and Steve Holland </p> <p>  LONDON/WASHINGTON, Oct 5 (Reuters) - US President Donald Trump said on Monday that a threat linked to Ir..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "\u2018Ban the frats\u2019: Protests erupt at Cornell over handling of rape allegation",
+        "image": "https://media.zenfs.com/en/the_guardian_765/5c0f40e51b068ae15e3b999fc8cfadf2.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/student-protests-erupt-cornell-over-013011295.html",
+        "summary": "<figure>\n<img src=\"https://media.zenfs.com/en/the_guardian_765/1b9ce03cb0fd21b7a3e57dbda3fdb83c.jpg\" />\n<figcaption>\n<span>Thousands of students and f..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Fort Hood shooter to face Army firing squad in 1st such execution since 1945",
+        "image": "https://media.zenfs.com/en/military_times_968/46fc45cb1864aa2b10b4b1789bb2dc67.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/fort-hood-mass-shooter-nidal-010114676.html",
+        "summary": "<p>Nidal Malik Hasan, a former Army officer and psychiatrist who killed 13 people and injured 32 others during a mass shooting at Fort Hood, Texas, in..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Trump says he'll start paying for ads after bipartisan pushback over taxpayer funding",
         "image": "https://media.zenfs.com/en/cbs_news_897/8b63bf52591070e8f4b13e4559346126.jpg",
         "link": "https://www.cbsnews.com/news/trump-super-pac-maga-inc-taxpayer-funded-ads/",
@@ -78,65 +99,44 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Sen. Tillis calls deciding vote for Hegseth the 'biggest regret' of his career",
-        "image": "https://media.zenfs.com/en/ap.org/70749a64cf76643bac1d00226430130f.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/republican-sen-tillis-calls-vote-184632202.html",
-        "summary": "<p>WASHINGTON (AP) \u2014 Republican Sen. <a href=\"https://apnews.com/hub/thom-tillis\">Thom Tillis</a> says in a new book that his deciding vote to <a href..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Trump plans another oil stockpile sell-off with global reserves already 'scarily thin'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://finance.yahoo.com/energy/article/trump-plans-another-oil-stockpile-sell-off-with-global-reserves-already-scarily-thin-203729409.html",
-        "summary": "<p style=\"text-align: left;\">The US Strategic Petroleum Reserve (SPR) dropped by almost 800,000 barrels last week, and the Trump administration moved ..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Is it her plane? New expedition sets off to solve the Amelia Earhart mystery.",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/217e2780dfe1741f10b0f7061127d605.jpg",
-        "link": "https://www.usatoday.com/story/news/nation/2026/10/05/new-amelia-earhart-expedition-begins/92055309007/",
-        "summary": "<p>An expedition began on Oct. 2 as researchers left Purdue University on a mission that hopes to find the lost plane of aviator Amelia Earhart, who w..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Chicago-bound British Airways flight drops 28,000 feet in 7 minutes and returns to London",
-        "image": "https://media.zenfs.com/en/nbc_news_122/4cb1f6aba6f30b9a2041ca059d68a2e7.jpg",
-        "link": "https://www.nbcnews.com/world/united-kingdom/british-airways-flight-chicago-drops-27000-feet-returns-london-rcna601668",
-        "summary": "<figure><img alt=\"UK Business And Economy 2025 (John Keeble / Getty)\" height=\"998\" src=\"https://media.zenfs.com/en/nbc_news_122/4cb1f6aba6f30b9a2041ca..."
+        "title": "Jim Bakker, televangelist who built a massive empire before scandal, dies at 86",
+        "image": "https://media.zenfs.com/en/ap.org/4267cec5937279d23b6489b8d4879879.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/jim-bakker-built-ptl-club-041516502.html",
+        "summary": "<p>Jim Bakker, who along with his first wife Tammy Faye built an evangelical empire around the hugely successful \u201cThe PTL Club\u201d TV show, only to lose ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "ICC unseals Taliban leaders' warrants over persecuting women",
+        "title": "Canada: Quebec separatists return to power, promise new independence referendum",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/icc-unseals-taliban-leaders-warrants-over-persecuting-women/a-79556631?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The court gave more details on the warrants for four Taliban leaders accused of the crime against humanity of gender persecution of women, girls and t..."
+        "link": "https://www.dw.com/en/canada-quebec-separatists-return-to-power-promise-new-independence-referendum/a-79558642?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Parti Quebecois has won the provincial election, but fallen short of a majority. Leader Paul St-Pierre Plamondon says he will seek another referendum ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Australia's migrant policy offers lessons for EU and US",
+        "title": "Germany news: Saxony-Anhalt parliament sits after AfD win",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/australia-s-migrant-policy-offers-lessons-for-eu-and-us/a-79388096?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Australia has used offshore processing centers to deter asylum seekers for more than two decades. As the EU and US pursue similar third-country arrang..."
+        "link": "https://www.dw.com/en/germany-news-saxony-anhalt-parliament-sits-after-afd-win/live-79558497?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "At its first session, the new state parliament in Saxony-Anhalt is to vote on a speaker nominated by the far-right AfD. And Germany's foreign minister..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Yemen launches major military operation against Houthis",
+        "title": "India news: Opposition leaders set to march to Election Commission",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/yemen-launches-major-military-operation-against-houthis/a-79542723?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Yemen's internationally recognized government has launched a new military offensive to retake Houthi-held territory, as the Iran-backed rebel group cl..."
+        "link": "https://www.dw.com/en/india-news-opposition-leaders-set-to-march-to-election-commission/live-79557629?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "India's opposition is amping up pressure on Chief Election Commissioner Gyanesh Kumar to resign over alleged voter roll manipulation. DW has more...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Denmark: Data of millions compromised in hack",
+        "title": "Trump says taxpayers will no longer fund ads touting administration",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/denmark-data-of-millions-compromised-in-hack/a-79555907?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The breach by the hackers was through the legitimate login credentials of a local company, initial findings suggest. The data of some 8.8 million regi..."
+        "link": "https://www.dw.com/en/trump-says-taxpayers-will-no-longer-fund-ads-touting-administration/a-79557317?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Trump faced criticism from across the political divide after at least $1.5 million in federal funds was spent on TV ads. He says his MAGA Inc. super P..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Merz, Macron seek tougher EU measures against unfair trade",
+        "title": "Measles cases are spreading in the US this year, with over 1,000 infections reported in Pennsylvania",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Emmanuel Macron and Friedrich Merz have written to Ursula von der Leyen, calling for tougher EU mechanisms against unfair trade practices by other sta..."
+        "link": "https://www.dw.com/en/measles-cases-are-spreading-in-the-us-this-year-with-over-1-000-infections-reported-in-pennsylvania/a-79557286?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A measles outbreak in Pennsylvania has topped 1,000 cases, with neighboring New York declaring a disaster emergency and mobilizing measures to fight t..."
     }
 ]
