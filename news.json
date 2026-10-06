@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Increase In Marijuana Misuse Diagnoses Among Veterans Is More Complicated Than It Looks, VA Records Reveal (Op-Ed)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/increase-in-marijuana-misuse-diagnoses-among-veterans-is-more-complicated-than-it-looks-va-records-reveal-op-ed/",
+        "summary": "<p>&#8220;What emerges is not simply a story of rising diagnoses, but a deeper set of concerns about how those diagnoses are defined, applied and ulti..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Massachusetts Governor Urges Voters To Keep Marijuana Sales Legal By Rejecting Prohibitionist Ballot Measure",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/massachusetts-governor-urges-voters-to-keep-marijuana-sales-legal-by-rejecting-prohibitionist-ballot-measure/",
@@ -28,11 +35,18 @@
         "summary": "<p>Federal officials say they will prioritize issuing tax-related guidance for marijuana businesses within the next year in light of the Trump adminis..."
     },
     {
-        "source": "Marijuana Moment",
-        "title": "New push to put cannabis on Florida\u2019s ballot (Newsletter: October 5, 2026)",
+        "source": "MJBizDaily",
+        "title": "Curaleaf increases price for Aurora Cannabis hostile takeover bid",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/new-push-to-put-cannabis-on-floridas-ballot-newsletter-october-5-2026/",
-        "summary": "<p>NY hits $4 billion in marijuana sales; VA medical cannabis patient survey; Study: Medical marijuana for autism; NC public cannabis use policy Subsc..."
+        "link": "https://mjbizdaily.com/news/curaleaf-increases-price-for-aurora-cannabis-hostile-takeover-bid/618466/",
+        "summary": "<p>Curaleaf built its $5-per-share Aurora offer from public data and says shareholders deserve a fair process if other parties get diligence.</p>\n<p><..."
+    },
+    {
+        "source": "MJBizDaily",
+        "title": "Why are marijuana multistate operators supporting an anti-marijuana Senate candidate?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/why-are-marijuana-multistate-operators-supporting-an-anti-marijuana-senate-candidate/618470/",
+        "summary": "<p>Cannabis companies have donated millions to President Donald Trump's political action committees, which appear poised to spend at least some of tha..."
     },
     {
         "source": "MJBizDaily",
@@ -56,53 +70,60 @@
         "summary": "<p>Maui Wowie and Grape Gorilla vapes were recalled after a lab found methylene chloride. Now Colorado regulators are fielding health reports.</p>\n<p>..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "The test all cannabis operators need to run when selecting a vendor",
+        "source": "yahoo.com/news Top Stories",
+        "title": "Trump says he'll start paying for ads after bipartisan pushback over taxpayer funding",
+        "image": "https://media.zenfs.com/en/cbs_news_897/8b63bf52591070e8f4b13e4559346126.jpg",
+        "link": "https://www.cbsnews.com/news/trump-super-pac-maga-inc-taxpayer-funded-ads/",
+        "summary": "<p></p><p></p><p>President Trump said Monday he will start paying for the pro-Trump ads that have blanketed the airwaves in recent weeks with money ra..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Sen. Tillis calls deciding vote for Hegseth the 'biggest regret' of his career",
+        "image": "https://media.zenfs.com/en/ap.org/70749a64cf76643bac1d00226430130f.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/republican-sen-tillis-calls-vote-184632202.html",
+        "summary": "<p>WASHINGTON (AP) \u2014 Republican Sen. <a href=\"https://apnews.com/hub/thom-tillis\">Thom Tillis</a> says in a new book that his deciding vote to <a href..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Trump plans another oil stockpile sell-off with global reserves already 'scarily thin'",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/the-test-all-cannabis-operators-need-to-run-when-selecting-a-vendor/618422/",
-        "summary": "<p>All cannabis operators need outside help, be it construction, consulting or web design. And choosing the right vendor is entirely in your power.</p..."
+        "link": "https://finance.yahoo.com/energy/article/trump-plans-another-oil-stockpile-sell-off-with-global-reserves-already-scarily-thin-203729409.html",
+        "summary": "<p style=\"text-align: left;\">The US Strategic Petroleum Reserve (SPR) dropped by almost 800,000 barrels last week, and the Trump administration moved ..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "How cannabis MSO Verano is preparing for a major new market",
+        "source": "yahoo.com/news Top Stories",
+        "title": "Is it her plane? New expedition sets off to solve the Amelia Earhart mystery.",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/217e2780dfe1741f10b0f7061127d605.jpg",
+        "link": "https://www.usatoday.com/story/news/nation/2026/10/05/new-amelia-earhart-expedition-begins/92055309007/",
+        "summary": "<p>An expedition began on Oct. 2 as researchers left Purdue University on a mission that hopes to find the lost plane of aviator Amelia Earhart, who w..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Chicago-bound British Airways flight drops 28,000 feet in 7 minutes and returns to London",
+        "image": "https://media.zenfs.com/en/nbc_news_122/4cb1f6aba6f30b9a2041ca059d68a2e7.jpg",
+        "link": "https://www.nbcnews.com/world/united-kingdom/british-airways-flight-chicago-drops-27000-feet-returns-london-rcna601668",
+        "summary": "<figure><img alt=\"UK Business And Economy 2025 (John Keeble / Getty)\" height=\"998\" src=\"https://media.zenfs.com/en/nbc_news_122/4cb1f6aba6f30b9a2041ca..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "ICC unseals Taliban leaders' warrants over persecuting women",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/how-cannabis-mso-verano-is-preparing-for-a-major-new-market/618307/",
-        "summary": "<p>Verano is remodeling its Virginia footprint ahead of a July adult-use launch, betting on timing to capture demand without overbuilding.</p>\n<p><a h..."
+        "link": "https://www.dw.com/en/icc-unseals-taliban-leaders-warrants-over-persecuting-women/a-79556631?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The court gave more details on the warrants for four Taliban leaders accused of the crime against humanity of gender persecution of women, girls and t..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Phone call and records suggest some Cornell students tried to contain rape allegations",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-cornell-jane-doe_3614.jpg",
-        "link": "https://www.yahoo.com/news/us/article/cornell-rape-case-jane-doe-sought-to-know-what-happened-in-call-with-one-of-the-accused-frat-brothers-the-day-before-reporting-incident-to-police-171906056.html",
-        "summary": "<p style=\"text-align: left;\">The woman who <a class=\"link\" href=\"https://www.yahoo.com/news/us/article/cornell-rape-case-how-the-university-reportedly..."
+        "source": "Deutsche Welle",
+        "title": "Australia's migrant policy offers lessons for EU and US",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/australia-s-migrant-policy-offers-lessons-for-eu-and-us/a-79388096?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Australia has used offshore processing centers to deter asylum seekers for more than two decades. As the EU and US pursue similar third-country arrang..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "4 ways the midterm elections could turn out, with a month to go",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-10/1da7303d-d9c3-493e-a80c-53ada9be4358",
-        "link": "https://www.yahoo.com/news/politics/articles/four-ways-midterm-elections-could-090000631.html",
-        "summary": "<p>Democrats are heading into the last month of the midterm elections campaign with ambitions going deeper and deeper into red territory, while Republ..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Pentagon officials' heated debates foreshadowed problems in Iran",
-        "image": "https://media.zenfs.com/en/washington_post_articles_265/c95f590806fb6258719ac6bd3da0b7dc",
-        "link": "https://washingtonpost.com/world/2026/10/05/pentagon-dispute-trumps-first-war-foreshadowed-iran-challenges/",
-        "summary": "<p>As Houthi militants in Yemen attacked ships with missiles and drones in the Red Sea early last year, top U.S. officials gathered at the Pentagon to..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Leavitt's next career move after exit as Trump's press secretary: Fox News",
-        "image": "https://media.zenfs.com/en/the_independent_635/e5d8aacc4e45d85647c2444826a7b7e7.jpg",
-        "link": "https://www.independent.co.uk/arts-entertainment/tv/news/karoline-leavitt-fox-news-trump-b3061539.html",
-        "summary": "<p>Former <a href=\"https://www.independent.co.uk/news/world/americas/us-politics/karoline-leavitt-out-white-house-press-secretary-quits-b3032120.html\"..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Soldiers and Gold Star families press Army leadership after deadly Iranian drone strike",
-        "image": "https://media.zenfs.com/en/ap.org/11a768545a9acfbe58f3c45af80d90b1.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/exclusive-soldiers-gold-star-families-103134796.html",
-        "summary": "<p style=\"text-align: left;\">WASHINGTON (AP) \u2014 On a sunny, cloudless morning on March 1, the day after <a class=\"link\" href=\"https://apnews.com/hub/do..."
+        "source": "Deutsche Welle",
+        "title": "Yemen launches major military operation against Houthis",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/yemen-launches-major-military-operation-against-houthis/a-79542723?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Yemen's internationally recognized government has launched a new military offensive to retake Houthi-held territory, as the Iran-backed rebel group cl..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Emmanuel Macron and Friedrich Merz have written to Ursula von der Leyen, calling for tougher EU mechanisms against unfair trade practices by other sta..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine says Russian drones behind Turkish ship sinking",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-says-russian-drones-behind-turkish-ship-sinking/a-79552387?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Romanian authorities did not say what caused the fire, but local media reported that the ship was carrying grain and was hit by a drone...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Australia, New Zealand probe Flydubai pilot's time there",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/australia-new-zealand-probe-flydubai-pilot-s-time-there/a-79551423?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Flydubai pilot from Oman suspected of trying to crash a plane in Israel spent time in Oceania as a young man. Police in both Australia and New Zea..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Euro plummets against US dollar: has the next financial crisis begun?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-financial-crisis-begun/a-79549031?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The euro has fallen to a 17-month low against the dollar. That will make inflation worse in the EU, where political worries and concern over French de..."
     }
 ]
