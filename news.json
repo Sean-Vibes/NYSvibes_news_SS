@@ -1,6 +1,27 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Massachusetts Anti-Marijuana Ballot Campaign Launches New Ads Focused On Impaired Driving",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/massachusetts-anti-marijuana-ballot-campaign-launches-new-ads-focused-on-impaired-driving/",
+        "summary": "<p>A campaign working to pass an initiative on the November ballot that would roll back the state&#8217;s marijuana legalization law has launched its ..."
+    },
+    {
+        "source": "Marijuana Moment",
+        "title": "It\u2019s \u2018High Time\u2019 For DEA To Answer Questions About Marijuana Rescheduling, State Officials Say",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/its-high-time-for-dea-to-answer-questions-about-marijuana-rescheduling-state-officials-say/",
+        "summary": "<p>Top marijuana regulators from a growing number of states are complaining that federal officials are not providing enough\u2014or any\u2014guidance about the ..."
+    },
+    {
+        "source": "Marijuana Moment",
+        "title": "New DEA cannabis business registration forms (Newsletter: October 7, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/new-dea-cannabis-business-registration-forms-newsletter-october-7-2026/",
+        "summary": "<p>Congresswoman urges &#8220;no&#8221; vote on anti-marijuana MA initiative; Fed court brief in CBD Medicare challenge; Latinos in cannabis op-ed Sub..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Tennessee Lawmakers Push Back On Police Claims About Marijuana\u2019s Danger And Connection To Violence",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/tennessee-lawmakers-push-back-on-police-claims-about-marijuanas-danger-and-connection-to-violence/",
@@ -12,27 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/dea-launches-new-registration-forms-for-medical-marijuana-manufacturers-distributors-and-testing-labs/",
         "summary": "<p>The Drug Enforcement Administration (DEA) has launched new specialized registration forms for additional types of state-licensed medical marijuana ..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "The Latino Community Is The Invisible Backbone Of The Cannabis Industry (Op-Ed)",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/the-latino-community-is-the-invisible-backbone-of-the-cannabis-industry-op-ed/",
-        "summary": "<p>&#8220;Continuing down the path of aggressive and over-punitive immigration policies poses a direct threat to the future of this industry.&#8221; B..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Marijuana Opponents And Pharma Company File Brief Asking Court To Block Trump\u2019s Hemp CBD Medicare Coverage Plan",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/marijuana-opponents-and-pharma-company-file-brief-asking-court-to-block-trumps-hemp-cbd-medicare-coverage-plan/",
-        "summary": "<p>A coalition of anti-marijuana groups and a cannabis-focused biopharmaceutical corporation have filed a new brief in their lawsuit challenging the T..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Congresswoman Says Massachusetts Voters Should Reject Anti-Marijuana Ballot Question",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/congresswoman-says-massachusetts-voters-should-reject-anti-marijuana-ballot-question/",
-        "summary": "<p>A Democratic congresswoman from Massachusetts is urging voters to defeat an initiative on the November ballot that would roll back the state&#8217;..."
     },
     {
         "source": "MJBizDaily",
@@ -71,10 +71,31 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Israelis mark 3 years since Oct. 7 attack as Palestinians struggle amid Gaza\u2019s ruins",
-        "image": "https://media.zenfs.com/en/ap.org/16b39ce457cc4bc71f83fa067944b338.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/israelis-mourn-anniversary-oct-7-040304806.html",
-        "summary": "<p>NETANYA, Israel (AP) \u2014 Israelis gathered Wednesday to commemorate the <a href=\"https://apnews.com/article/israel-palestinians-gaza-hamas-rockets-ai..."
+        "title": "Woman's killing reignites Okinawa anger over U.S. military presence",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-10/fd9eee05-306b-4da0-9ead-fc2243ff7152",
+        "link": "https://www.yahoo.com/news/us/articles/woman-killing-stirs-long-simmering-105858779.html",
+        "summary": "<p style=\"text-align: left;\">TOKYO - Mounting anger over a U.S. Marine arrested on suspicion of killing a Japanese woman in Okinawa has once again inf..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Cornell police pressed frat members on how they knew alleged rape was 'consensual'",
+        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/5e4d800814993ad6d3cafaa510c2f9ef.jpg",
+        "link": "https://abcnews.com/US/cornell-police-pressed-fraternity-members-knew-alleged-sex/story?id=137059936",
+        "summary": "<div><p>Two investigations are underway into a former Cornell University student's allegations that she was raped at a fraternity house in 2024 -- one..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Tropical Storm Isaias: 1st Atlantic hurricane of season expected to hit U.S. Gulf Coast",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/screenshot-2026-10-07-at-110852_3388.png",
+        "link": "https://www.yahoo.com/news/weather-news/article/tropical-storm-isaias-tracker-first-atlantic-hurricane-of-the-season-expected-to-hit-us-gulf-coast-105030900.html",
+        "summary": "<p style=\"text-align: left;\">Tropical Storm Isaias formed in the Gulf on Wednesday and is expected to become the first Atlantic hurricane of the seaso..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Trump wants to turn his West Palm Beach golf course into the new Camp David",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-10/f312a35a-6039-4473-a964-9eeaccd5e28d",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-wants-turn-west-palm-090000951.html",
+        "summary": "<p style=\"text-align: left;\">Much of President Donald Trump's second term has focused on changes to the nation's capital.</p><p style=\"text-align: lef..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -84,59 +105,38 @@
         "summary": "<p>With the astonishing news that <a href=\"https://www.usatoday.com/story/news/nation/2026/09/24/christa-pike-execution-tennessee-colleen-slemmer/9171..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Trump doesn't commit to repaying $12 million in federal funds spent on controversial ads",
-        "image": "https://media.zenfs.com/en/ap.org/67fed9c41c8f7cfb814a05549506ef5b.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-hasnt-committed-repaying-federal-192407260.html",
-        "summary": "<p style=\"text-align: left;\">WASHINGTON (AP) \u2014 A day after President Donald Trump said he would start paying for <a class=\"link\" href=\"https://apnews...."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Russia stonewalls U.S. as Trump administration weighs risks from mysterious lab death",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/2bfba2e4eb50e31f087ed5e734526529.jpg",
-        "link": "https://www.cnn.com/2026/10/06/politics/russia-plague-death-trump",
-        "summary": "<figure><img alt=\"Secretary of State Marco Rubio speaks during a press conference at the House of Collections in Reykjavik, Iceland, on October 6, 202..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Tropical Depression Nine targets Gulf Coast and could reach Category 2 strength",
-        "image": "https://media.zenfs.com/en/fox_weather_articles_483/53ecc49946ca3525afaf81e744f4c750.png",
-        "link": "https://www.yahoo.com/news/weather-news/articles/tropical-depression-nine-forms-atlantic-204413971.html",
-        "summary": "<p style=\"text-align: left;\">Tropical Depression Nine has formed off the coast of <a class=\"link\" href=\"https://www.foxweather.com/category/mexico\" ta..."
+        "source": "Deutsche Welle",
+        "title": "South Sudan's road to elections remains uncertain",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/south-sudan-s-road-to-elections-remains-uncertain/a-79563442?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "South Sudan's first general election is set for December 22. Insecurity, political tensions and failure to begin voter registration have raised doubts..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Israel marks third anniversary of October 7 Hamas terror attacks with memorials",
+        "title": "China's Golden Week reveals cautious consumer spending despite travel surge",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/israel-marks-third-anniversary-of-october-7-hamas-terror-attacks-with-memorials/a-79571380?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Families gathered at the Nova music festival site and other attack locations in memory of those killed by Hamas on October 7, 2023...."
+        "link": "https://www.dw.com/en/china-s-golden-week-reveals-cautious-consumer-spending-despite-travel-surge/a-79577254?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Chinese visitors are returning from trips after the 13-day Golden Week holiday. Their subdued spending has raised fresh questions about domestic deman..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Yemen\u2019s Houthis claim strikes on Aden, Riyadh airports",
+        "title": "German spy scandal threatens national security",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/yemen-s-houthis-claim-strikes-on-aden-riyadh-airports/a-79571321?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Aden International Airport came under attack as Yemen's war intensified, with the Houthis targeting key transport hubs...."
+        "link": "https://www.dw.com/en/german-spy-scandal-threatens-national-security/a-79580000?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The arrest of Germany's former intelligence chief August Hanning could undermine national security, experts warn, as allies may reconsider their intel..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Germany news: Government presents plan for railroad revamp",
+        "title": "France suspends use of stun grenades against protesters",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-government-presents-plan-for-railroad-revamp/live-79570924?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Transport Ministry has put forward a five-year plan for improving Germany's ailing railroad infrastructure. Chancellor Merz has voiced solidarity ..."
+        "link": "https://www.dw.com/en/france-suspends-use-of-stun-grenades-against-protesters/a-79577769?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "France is suspending the use of stun grenades against protesters as allegations of student brutality draw more anger. French Prime Minister Sebastien ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "India news: Opposition protest clouds Modi's 25-year milestone",
+        "title": "Germany: Ex-spy chief sent to pretrial detention on treason charges",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-opposition-protest-clouds-modi-s-25-year-milestone/live-79570653?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Delhi police has beefed up security around the Election Commission of India, likely preparing for another day of 'vote theft' protests. Meanwhile, PM ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Where is Spain headed after the snap election announcement?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/where-is-spain-headed-after-the-snap-election-announcement/a-79567959?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Prime Minister Pedro Sanchez is taking a gamble by calling an early election in Spain. The housing crisis, migration and the rise of the right-wing po..."
+        "link": "https://www.dw.com/en/germany-ex-spy-chief-sent-to-pretrial-detention-on-treason-charges/a-79576300?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "August Hanning has been remanded into pretrial detention after his arrest. The case has prompted calls for transparency when spies leave the governmen..."
     }
 ]
