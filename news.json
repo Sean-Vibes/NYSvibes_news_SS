@@ -71,10 +71,17 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Surge in imports pushed U.S. trade deficit above $100 billion in August",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://finance.yahoo.com/economy/article/us-trade-deficit-jumped-above-100-billion-in-august-134000859.html",
-        "summary": "<p style=\"text-align: left;\">The US trade deficit jumped to more than $100 billion in August as importers wrestled with a new round of President Trump..."
+        "title": "Trump doesn't commit to repaying $12 million in federal funds spent on controversial ads",
+        "image": "https://media.zenfs.com/en/ap.org/67fed9c41c8f7cfb814a05549506ef5b.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-hasnt-committed-repaying-federal-192407260.html",
+        "summary": "<p style=\"text-align: left;\">WASHINGTON (AP) \u2014 A day after President Donald Trump said he would start paying for <a class=\"link\" href=\"https://apnews...."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "FBI whistleblower says White House pushed unconstitutional probe of protesters",
+        "image": "https://media.zenfs.com/en/nbc_news_122/e30554575d3a0087e3166170a296721e.jpg",
+        "link": "https://www.nbcnews.com/politics/justice-department/fbi-whistleblower-says-white-house-pushed-unconstitutional-probe-prote-rcna601599",
+        "summary": "<p>WASHINGTON \u2014 The Trump administration pushed the FBI to investigate Los Angeles protesters in violation of their constitutional rights and the bure..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -85,24 +92,24 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump allows tax-free red diesel on U.S. highways as fuel prices soar for truckers",
-        "image": "https://media.zenfs.com/en/quartz_855/3bf8b64d993156f8f6fc6a87f1bab62b.jpg",
-        "link": "https://qz.com/trump-executive-order-red-dyed-diesel-tax-free-highway-100626",
-        "summary": "<div class=\"payload-richtext\"><p>President Donald Trump <a href=\"https://www.whitehouse.gov/presidential-actions/2026/10/emergency-tax-relief-on-diese..."
+        "title": "Christa Pike is conscious and speaking after botched execution, her lawyers say",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/47cc8929-99c8-456a-8da4-8c10a4accb7d",
+        "link": "https://www.yahoo.com/news/us/article/christa-pikes-prognosis-still-unknown-as-her-lawyer-calls-for-sentence-to-be-commuted-take-death-off-the-table-081613268.html",
+        "summary": "<p style=\"text-align: left;\">Christa Pike is conscious and speaking in the hospital after surviving Tennessee's attempt to execute her last week, her ..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump won't reimburse taxpayers for TV ads after changing how they're funded",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/be5a4bf893582bcdfb966a36ab2bb7e2.jpg",
-        "link": "https://abcnews.com/Politics/trump-super-pac-pay-controversial-promotional-ad-campaign/story?id=137019187",
-        "summary": "<div><p>President Donald Trump said Monday night that he will no longer use taxpayer funds to pay for a multimillion-dollar <a dir=\"ltr\" href=\"https:/..."
+        "title": "Washington resident accused of helping plan Canada's Tumbler Ridge school shooting",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/397cde1a9ce8ad95ef68908a957a8391.jpg",
+        "link": "https://www.cnn.com/2026/10/06/americas/arrest-tumbler-ridge-canada-shooting-latam-intl",
+        "summary": "<figure><img alt=\"People pay their respects at a memorial on the steps of the Town Hall, following a vigil the previous day, in Tumbler Ridge, British..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Cornell taps former acting U.S. Attorney General Sally Yates to lead investigation",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-10/33763ee5-12b0-417e-8d4e-70b1545a6e20",
-        "link": "https://www.yahoo.com/news/us/article/cornell-rape-case-latest-students-protest-for-jane-doe-as-university-president-says-were-all-angry-171906056.html",
-        "summary": "<p style=\"text-align: left;\">Thousands of people gathered at Cornell University in Ithaca, N.Y., on Monday in support of &quot;Jane Doe,&quot; the for..."
+        "source": "Deutsche Welle",
+        "title": "Christa Pike awake after failed Tennessee execution: lawyers",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/christa-pike-awake-after-failed-tennessee-execution-lawyers/a-79569867?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A death row inmate who survived a botched execution last week is conscious and talking in hospital, according to her lawyers, who want to commute her ..."
     },
     {
         "source": "Deutsche Welle",
@@ -127,16 +134,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "EU seeks ways to make expansion more palatable to members",
+        "title": "Germany shaken by espionage and treason allegations",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-seeks-ways-to-make-expansion-more-palatable-to-members/a-79567297?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The European Commission has put forward ideas it hopes will both ease the EU expansion process and allay concerns among existing members. Several coun..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia denies anti-plague measures after pneumonia death",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-denies-anti-plague-measures-after-pneumonia-death/a-79567922?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The death of an employee at an anti-plague institute in Irkutsk is still being looked into, the authorities said. US Secretary of State Marco Rubio ca..."
+        "link": "https://www.dw.com/en/germany-shaken-by-espionage-and-treason-allegations/a-79566578?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The former head of Germany's foreign intelligence service, the BND, has been accused of spying for a foreign country. Never before has a German offici..."
     }
 ]
