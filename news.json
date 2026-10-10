@@ -71,38 +71,59 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Pentagon faces growing backlash over plan to livestream firing squad execution",
+        "image": "https://media.zenfs.com/en/cbs_news_897/eeb65ba70a377624b5862e72f3a2514b.jpg",
+        "link": "https://www.cbsnews.com/news/fort-hood-shooter-execution-livestream-reaction-pentagon/",
+        "summary": "<p></p><p></p><p>Washington \u2014 The revelation that the Pentagon plans to livestream the execution by firing squad of Nidal Hasan, the ex-Army major con..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "9 killed in Pennsylvania shooting as police cite 'deeply disturbing' circumstances",
-        "image": "https://media.zenfs.com/en/ap.org/623db6bc83d8b6758a49bff98e8e662f.jpg",
+        "image": "https://media.zenfs.com/en/ap.org/c69837f5ace6ba481e72030ad1482dd9.jpg",
         "link": "https://www.yahoo.com/news/us/articles/9-dead-shooting-northern-pennsylvania-153233875.html",
-        "summary": "<p>A shooting that rocked a town in Pennsylvania left eight people dead, police said; the suspected shooter also died from what appeared to be a self-..."
+        "summary": "<p>A man killed eight people including a pregnant woman, children and other relatives at his home in Erie, Pennsylvania, before taking his own life as..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Christa Pike, who survived an execution attempt in Tennessee, is discharged from hospital",
-        "image": "https://media.zenfs.com/en/the_tennessean_natl_articles_921/aa5fe03ff25447e5d761c0a89cfc5dc4.jpg",
-        "link": "https://www.tennessean.com/story/news/2026/10/10/christa-pike-is-out-of-the-hospitals-grateful-for-medical-care/92190155007/",
-        "summary": "<div><p>Christa Pike is out of the hospital and receiving medical care in prison following a failed execution attempt.</p>\n                <p>Her lega..."
+        "title": "At least 12 people dead and dozens wounded after blast at Riyadh airport",
+        "image": "https://media.zenfs.com/en/reuters.com/976afa45df584977e5aca5bf1f95a7a0.jpg",
+        "link": "https://uk.news.yahoo.com/loud-blast-heard-riyadh-airport-141257574.html",
+        "summary": "<p>By Timour Azhari and Enas Alashray </p> <p>  RIYADH, Oct 10 (Reuters) - The third attack this week on Riyadh's international airport left 12 people..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Several wounded after blast at Riyadh airport as Trump weighs joining Saudi strikes",
-        "image": "https://media.zenfs.com/en/reuters.com/c659cbbbbe0c586e481acc26606ac79c.jpg",
-        "link": "https://www.yahoo.com/news/articles/loud-blast-heard-riyadh-airport-141257574.html",
-        "summary": "<p>By Timour Azhari and Enas Alashray </p> <p>  RIYADH, Oct 10 (Reuters) - Several people were wounded in an attack on King Khalid International Airpo..."
+        "title": "Trump says Ukraine should get a new president as he blames Zelensky for diesel prices",
+        "image": "https://media.zenfs.com/en/ap.org/2df7094f5ccffd0073bcba601719353b.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/russian-attacks-kill-7-ukraine-071733676.html",
+        "summary": "<p>WASHINGTON (AP) \u2014 President Donald Trump said Saturday it was time for Ukraine to get a new president, suggesting Volodymyr Zelenskyy has not done ..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump takes lawsuit against Hillary Clinton over 2016 election to Supreme Court",
-        "image": "https://media.zenfs.com/en/reuters.com/72a1bf111ac7f9090f134fb92c9dca4c.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-takes-suit-against-hillary-233623596.html",
-        "summary": "<p>By Andrew Chung </p> <p>  Oct 9 (Reuters) - President Donald Trump asked the US Supreme Court on Friday to revive his dismissed lawsuit against his..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Isaias kills at least 2 and knocks out power to more than 900,000",
+        "title": "Isaias kills at least 4 and knocks out power to more than 900,000",
         "image": "https://d29szjachogqwa.cloudfront.net/images/2026-10/1a7bbafc-090c-4957-b35d-ce4c9a8d9cd4",
         "link": "https://www.yahoo.com/news/weather-news/live/hurricane-isaias-live-tracker-dangerous-category-2-storm-strengthening-before-making-landfall-along-gulf-coast-evacuations-ordered-in-alabama-and-florida-115816597.html",
         "summary": "<p style=\"text-align: left;\">Isaias made landfall near Destin, Fla., around 9:30 p.m. ET Friday as a Category 2 hurricane with maximum sustained winds..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Saudi Arabia: 12 killed, hundreds injured in Riyadh airport attack",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/saudi-arabia-12-killed-hundreds-injured-in-riyadh-airport-attack/a-79628862?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Officials said at least 12 people were killed in a strike on King Khalid International Airport in the Saudi capital, Riyadh. The airport had already b..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Money, networks and bias: Why women struggle to win seats in US politics",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/money-networks-and-bias-why-women-struggle-to-win-seats-in-us-politics/a-79625179?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US is holding Congress and state governors elections. At all levels of US politics, women are underrepresented \u2014 but they may win some historic vi..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Eritrea urges UN deterrence measures against Ethiopia",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/eritrea-urges-un-deterrence-measures-against-ethiopia/a-79629670?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Eritrea has officially requested UN Security Council assistance over the conflict in Tigray. Both Eritrea and Ethiopia accuse each other of fueling re..."
     },
     {
         "source": "Deutsche Welle",
@@ -113,30 +134,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Saudi Arabia suspends operations at Riyadh airport after an attack causes multiple injuries",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/saudi-arabia-suspends-operations-at-riyadh-airport-after-an-attack-causes-multiple-injuries/a-79628862?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Riyadh's King Khalid International Airport has already been targeted multiple times this week amid intensified fighting between Yemen-based Houthi reb..."
-    },
-    {
-        "source": "Deutsche Welle",
         "title": "'Ragebait' is the 2026 German Youth Word of the Year",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ragebait-is-the-2026-german-youth-word-of-the-year/a-79608158?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Already named the 2025 Oxford Word of the Year, \"rage bait\" has also been widely adopted in German slang...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany sticks to Russia sanctions after Trump diesel deal",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-sticks-to-russia-sanctions-after-trump-diesel-deal/live-79627811?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After Washington announced a sanctions pause on Russian diesel, Germany has said it remains committed to pressuring Moscow and supporting Ukraine. Mor..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Operations Plan Germany: How the Bundeswehr trains for NATO collective defense",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/operations-plan-germany-how-the-bundeswehr-trains-for-nato-collective-defense/a-79553793?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "How prepared is Germany for national defense? The answer lies in the Operations Plan Germany. Military exercises such as \"Red Storm Charlie\" are desig..."
     }
 ]
