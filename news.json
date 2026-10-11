@@ -71,6 +71,27 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Trump weighs joining Saudi strikes as Riyadh airport is hit for a second straight day",
+        "image": "https://media.zenfs.com/en/ap.org/73107708fae83e7b1e9900befd96bde5.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/missile-attack-airport-saudi-arabias-072026942.html",
+        "summary": "<p>CAIRO (AP) \u2014 A Saudi-led coalition fighting Iran-backed Houthi rebels in Yemen said a projectile struck a passenger terminal at the international a..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Republicans want Abdul El-Sayed to be the main character of the midterms. He's on board.",
+        "image": "https://media.zenfs.com/en/ap.org/1a564cd20066f87d7587107fbd3b994f.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/republicans-want-abdul-el-sayed-112552011.html",
+        "summary": "<p>PORT HURON, Mich. (AP) \u2014 <a href=\"https://apnews.com/article/michigan-primary-senate-elsayed-stevens-60c79349b60ffbf24a34d60b76e130ed\">Abdul El-Say..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Ukraine pushes back on Trump's call for a new president as drones hit Russian data hub",
+        "image": "https://media.zenfs.com/en/ap.org/965f9ee5a03a5e9be9e211fc9b6537c6.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/ukraine-steps-strikes-russia-tech-083312470.html",
+        "summary": "<p>WASHINGTON (AP) \u2014 U.S. President Donald Trump said Sunday that Russia and Ukraine had agreed to an \u201cenergy ceasefire,\u201d but offered no details on it..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Police say mental health may be a factor in deadly Erie shooting as motive remains unclear",
         "image": "https://media.zenfs.com/en/erie-times-news/469030cfd8140b03b473d2362531dfca.jpg",
         "link": "https://www.goerie.com/story/news/crime/2026/10/10/erie-pa-mass-shooting-police-chief-details-timeline-of-deaths-perry-street/92196234007/",
@@ -84,59 +105,38 @@
         "summary": "<figure><img alt=\"King Khalid International Airport in Riyadh, Saudi Arabia on September 19, 2026. - AFP/Getty Images\" height=\"540\" src=\"https://media..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Bracing for the midterms, Trump says he will be blamed if Republicans lose",
-        "image": "https://media.zenfs.com/en/nbc_news_122/fb8407fcf8ff4d35eb06be9ee1e0c95e.jpg",
-        "link": "https://www.nbcnews.com/politics/donald-trump/bracing-midterms-trump-says-will-blamed-republicans-lose-rcna602512",
-        "summary": "<figure><img alt=\"Donald Trump. (Mandel Ngan / AFP via Getty)\" height=\"1667\" src=\"https://media.zenfs.com/en/nbc_news_122/fb8407fcf8ff4d35eb06be9ee1e0..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Rare 'sting jet' unleashes 117 mph winds as Hurricane Isaias pummels Florida",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/c3f9b38ce51476c6e79f5b9181361c6b.jpg",
-        "link": "https://www.usatoday.com/story/news/weather/2026/10/10/hurricane-isaias-live-updates-forecast--live/92172297007/",
-        "summary": "<p><a href=\"https://www.usatoday.com/story/news/weather/2026/10/09/hurricane-isaias-landfall-updates-forecast--live/92157423007/\">Post-Tropical Cyclon..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Hurricane victim's husband says tree crashed through Florida home and pinned his wife",
-        "image": "https://media.zenfs.com/en/newsnation_articles_600/c0f0e0b9b0642a981e2e57a7a95a0ea9.png",
-        "link": "https://www.newsnationnow.com/us-news/southeast/florida-woman-killed-tree-hurricane-isaias/",
-        "summary": "<figure><img height=\"506\" src=\"https://media.zenfs.com/en/newsnation_articles_600/c0f0e0b9b0642a981e2e57a7a95a0ea9.png\" width=\"900\" /></figure>\n<p>(<a..."
+        "source": "Deutsche Welle",
+        "title": "German 'lawfare': When lawsuits become a political weapon",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/german-lawfare-when-lawsuits-become-a-political-weapon/a-79615817?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Left Party is suing two government ministers for accusing them of antisemitism, while Chancellor Friedrich Merz has been sued several times by var..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Couples looking to have children often turn to surrogacy agencies in Georgia without understanding the hidden costs",
+        "title": "Trump announces 'energy ceasefire' between Russia and Ukraine",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/couples-looking-to-have-children-often-turn-to-surrogacy-agencies-in-georgia-without-understanding-the-hidden-costs/a-79629971?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Georgia became a hub for surrogate pregnancies after Russia's full-scale invasion of Ukraine in 2022. DW spoke with parents, and those who wanted to b..."
+        "link": "https://www.dw.com/en/trump-announces-energy-ceasefire-between-russia-and-ukraine/a-79634509?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US President Donald Trump says both sides have agreed to stop targeting oil refineries, power plants and other energy infrastructure immediately...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Demographic change: Germany's population is declining, but not everywhere",
+        "title": "Pope Leo XIV to undergo surgery to remove lump on lung",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/demographic-change-germany-s-population-is-declining-but-not-everywhere/a-79615807?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "By 2045, Germany will have more older people, fewer workers, and a smaller population overall. Yet some regions will defy this trend. Their success de..."
+        "link": "https://www.dw.com/en/pope-leo-xiv-to-undergo-surgery-to-remove-lump-on-lung/a-79633735?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The pontiff said he would be operated on \"in the coming days\" to remove a lung nodule, which he said was found at \"a very early stage.\"..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Ukrainian prisoners of war and defectors have been gathered into a Russian battalion to face Ukrainian forces \u2014 why? And how?",
+        "title": "A migrant boat sank off the coast of Djibouti with the UN reporting over 200 people dead or missing",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukrainian-prisoners-of-war-and-defectors-have-been-gathered-into-a-russian-battalion-to-face-ukrainian-forces-why-and-how/a-79629555?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russia has announced a battalion consisting of Ukrainian \"volunteers.\" But veterans and former prisoners of war share very different accounts...."
+        "link": "https://www.dw.com/en/a-migrant-boat-sank-off-the-coast-of-djibouti-with-the-un-reporting-over-200-people-dead-or-missing/a-79633644?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The UN migration agency has reported that at least 139 people were killed and 84 remain missing after a migrant boat sank overnight on its way to Yeme..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "India court orders release of 'Cockroach' party leaders as movement calls for fresh protests. Follow DW",
+        "title": "Poland on alert amid possible attack on PM, defense minister",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-court-orders-release-of-cockroach-party-leaders-as-movement-calls-for-fresh-protests-follow-dw/live-79631190?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Leaders of the youth-led protest movement were detained ahead of a large demonstration in Delhi demanding India's election commissioner step down. Mea..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US: Justice Department probes Trump's press pool boycott for antitrust violation",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-justice-department-probes-trump-s-press-pool-boycott-for-antitrust-violation/a-79631008?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Department of Justice is investigating whether the five news organizations violated antitrust laws when they suspended their coverage of Trump in ..."
+        "link": "https://www.dw.com/en/poland-on-alert-amid-possible-attack-on-pm-defense-minister/a-79633128?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Poland was holding an emergency meeting after police received information about a possible assassination plot against PM Donald Tusk. The meeting come..."
     }
 ]
