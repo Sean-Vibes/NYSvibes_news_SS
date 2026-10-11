@@ -71,6 +71,13 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Russia strikes power plant in Ukraine hours after Trump announces energy ceasefire",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/dabd666737ef21fc164347206629b212.jpg",
+        "link": "https://abcnews.com/International/russia-strikes-power-plant-ukraine-after-trump-announces/story?id=137178264",
+        "summary": "<div><p>Russia has attacked a power plant in the eastern Ukrainian city of Kharkiv despite President Donald Trump\u2019s statement earlier Sunday that both..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "DHS secretary Mullin defends planned livestream of Fort Hood shooter's execution",
         "image": "https://media.zenfs.com/en/cbs_news_897/c12eb916e2f913dc13dadd978a211392.png",
         "link": "https://www.cbsnews.com/news/markwayne-mullin-nidal-hasan-public-execution-pentagon/",
@@ -78,31 +85,38 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump announces Russia-Ukraine energy ceasefire, but Zelensky says it's news to him",
-        "image": "https://media.zenfs.com/en/nbc_news_122/7d7bb7445e15dc3819fbce8c8e66b4a3.jpg",
-        "link": "https://www.nbcnews.com/world/ukraine/trump-russia-ukraine-agree-energy-ceasefire-zelenskyy-diesel-rcna602766",
-        "summary": "<p>President Donald Trump claimed Sunday that <a href=\"https://www.nbcnews.com/world/ukraine/russia-ukraine-new-energy-attacks-trumps-ceasefire-claim-..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
         "title": "6 senators call for White House to 'immediately reverse course' on Russian diesel plan",
-        "image": "https://media.zenfs.com/en/ap.org/a213d01f7aafd7a6c357c848c53525e7.jpg",
+        "image": "https://media.zenfs.com/en/ap.org/9a30c412e5587392105e979fc8e8b5df.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/six-senators-call-trump-administration-173315508.html",
         "summary": "<p>WASHINGTON (AP) \u2014 A bipartisan group of six senators on Sunday called for President Donald Trump's administration to \u201cimmediately reverse course\u201d o..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Saudi authorities say King Fahd International Airport in Dammam has been attacked",
-        "image": "https://media.zenfs.com/en/ap.org/73107708fae83e7b1e9900befd96bde5.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/missile-attack-airport-saudi-arabias-072026942.html",
-        "summary": "<p>CAIRO (AP) \u2014 A projectile struck a passenger terminal at the international airport in Riyadh on Sunday, a day after a missile hit the same terminal..."
+        "title": "Fugitive accused of bribing Maduro allies faces a Miami judge this week",
+        "image": "https://media.zenfs.com/en/cbs_news_897/2c5f5c391f9286ed605c1bf3451f73e7.jpg",
+        "link": "https://www.cbsnews.com/news/alvaro-pulido-us-custody-venezuela-bribery/",
+        "summary": "<p></p><p></p><p>A businessman wanted for years in the U.S. for allegedly paying <a href=\"https://www.cbsnews.com/miami/news/alex-saab-guilty-money-la..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Newsom typically relishes battling Trump \u2014\u00a0except on undocumented students",
+        "title": "Minority Leader Hakeem Jeffries says Democrats are on the verge of retaking the House",
+        "image": "https://media.zenfs.com/en/cbs_news_897/c0348e1db45d912974aef17484fd1d2c.jpg",
+        "link": "https://www.cbsnews.com/news/jeffries-democrats-control-house-battleground-races/",
+        "summary": "<p></p><p></p><p>House Minority Leader <a href=\"https://www.cbsnews.com/tag/hakeem-jeffries/?ftag=YHF4eb9d17\">Hakeem Jeffries</a> expressed growing co..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Saudi Arabia: Second strike kills at least 1 at Riyadh airport",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.politico.com/news/2026/10/11/newsom-veto-student-jobs-trump-01113178",
-        "summary": "<p>Gavin Newsom has rarely shied away from a fight with Donald Trump, especially over immigration.</p><p>He didn\u2019t hesitate last year to sign into law..."
+        "link": "https://www.dw.com/en/saudi-arabia-second-strike-kills-at-least-1-at-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Sunday's strike came as the King Khalid International Airport remained closed after a deadly attack on Saturday, and after a warning from Houthi rebel..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UK's Burnham accuses Russia of meddling in Brexit vote",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/uk-s-burnham-accuses-russia-of-meddling-in-brexit-vote/a-79635264?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The UK prime minister called for voters in Europe to be made fully aware of Russia's attempts to influence politics...."
     },
     {
         "source": "Deutsche Welle",
@@ -113,10 +127,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Saudi Arabia: Second strike hits Riyadh airport",
+        "title": "Who are the Ukrainian 'volunteers' under Russian command?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/saudi-arabia-second-strike-hits-riyadh-airport/a-79632306?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Sunday's strike came as the King Khalid International Airport remained closed after a deadly attack on Saturday, and after a warning from Houthi rebel..."
+        "link": "https://www.dw.com/en/who-are-the-ukrainian-volunteers-under-russian-command/a-79629555?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Russia has announced a battalion consisting of Ukrainian \"volunteers.\" But veterans and former prisoners of war share very different accounts...."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/german-lawfare-when-lawsuits-become-a-political-weapon/a-79615817?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Left Party is suing two government ministers for accusing them of antisemitism, while Chancellor Friedrich Merz has been sued several times by var..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump claims Russia and Ukraine agreed to 'energy ceasefire'",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-claims-russia-and-ukraine-agreed-to-energy-ceasefire/a-79634509?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US President Donald Trump says both sides have agreed to stop targeting oil refineries, power plants and other energy infrastructure immediately...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pope Leo XIV to undergo surgery to remove lump on lung",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pope-leo-xiv-to-undergo-surgery-to-remove-lump-on-lung/a-79633735?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The pontiff said he would be operated on \"in the coming days\" to remove a lung nodule, which he said was found at \"a very early stage.\"..."
     }
 ]
