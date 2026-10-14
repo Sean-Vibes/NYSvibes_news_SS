@@ -71,17 +71,17 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Will Republicans or Democrats win the Senate? These key midterm races will decide.",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/yn-senate-matchups-animated-lead-final2_9730.gif",
+        "link": "https://www.yahoo.com/news/politics/article/will-republicans-or-democrats-win-control-of-the-senate-in-the-2026-midterms-these-are-key-races-to-watch-181921232.html",
+        "summary": "<p style=\"text-align: left;\">Control of both chambers of Congress is up for grabs in November's election. But as important as the House of Representat..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Bank of America hit with $1.2 billion penalty over money laundering failures",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://finance.yahoo.com/markets/article/bank-of-america-hit-with-12-billion-penalty-over-money-laundering-failures-201623796.html",
         "summary": "<p style=\"text-align: left;\">Regulators fined Bank of America (<a class=\"link\" href=\"https://finance.yahoo.com/quote/BAC/\" rel=\"\" target=\"_blank\">BAC<..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Vatican says Pope Leo has lung cancer and the lower lobe of his right lung was removed",
-        "image": "https://media.zenfs.com/en/ap.org/ce0fe43ce1db336c7b9db07991be4a09.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/pope-leo-xiv-set-enter-050053895.html",
-        "summary": "<p style=\"text-align: left;\">ROME (AP) \u2014 <a class=\"link\" href=\"https://apnews.com/hub/pope-leo-xiv\" target=\"_blank\">Pope Leo XIV</a> underwent surgery..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -92,17 +92,31 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "U.S. ambassador to Greece Guilfoyle resigns after alleged misconduct",
+        "title": "Kimberly Guilfoyle resigns as U.S. ambassador to Greece over alleged misconduct",
         "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-kimberly-guilfoyle_6646.jpg",
         "link": "https://www.yahoo.com/news/us/article/white-house-asks-for-kimberly-guilfoyles-resignation-as-us-ambassador-to-greece-after-report-she-asked-donor-to-pay-her-100k-credit-card-bill-154738704.html",
         "summary": "<p style=\"text-align: left;\">Kimberly Guilfoyle, the U.S. ambassador to Greece, resigned on Tuesday amid allegations of improper conduct while denying..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Witnesses recall moments before man's fatal fall from Six Flags roller coaster in Georgia",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-10/08b76a2a-4597-4a8b-9142-936013a784a4",
-        "link": "https://www.yahoo.com/news/us/article/witnesses-describe-the-moments-before-man-fell-to-his-death-from-six-flags-roller-coaster-202455385.html",
-        "summary": "<p style=\"text-align: left;\">Georgia police have identified the man who died Monday after falling from the Goliath roller coaster at Six Flags Over Ge..."
+        "title": "Trump-appointed judge extends order blocking White House press ban",
+        "image": "https://media.zenfs.com/en/ap.org/6c289f1ace97ee4a620b069b7a6ebbb7.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/judge-extends-order-blocking-trump-030954600.html",
+        "summary": "<p>A federal judge on Tuesday extended an order blocking the Trump administration from <a href=\"https://apnews.com/article/trump-networks-media-ban-cn..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US judge extends media outlets' White House access",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-judge-extends-media-outlets-white-house-access/a-79656346?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A federal judge extended the order that blocks the Trump administration from banning three media outlets from the White House. The outlets have reason..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Houthis launch fresh wave of missiles across Saudi Arabia",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/houthis-launch-fresh-wave-of-missiles-across-saudi-arabia/live-79655805?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Both the Houthis and the Saudi-led coalition carried out strikes targeting energy infrastructure. Four people were injured as a result of debris of in..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/vatican-confirms-pope-leo-underwent-surgery-for-lung-cancer/a-79647264?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The pope has had part of his lung removed and is recovering after surgery. Leo has been unusually candid for a pontiff about his health issues, disclo..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Tupac Shakur murder trial: Former gang leader Duane Davis sentenced to 40 years",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/tupac-shakur-murder-trial-former-gang-leader-duane-davis-sentenced-to-40-years/a-79655189?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Former Los Angeles gang leader Duane \"Keffe D\" Davis was found guilty of ordering the killing of hip-hop icon Tupac Shakur..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Left-leaning Berlin coalition talks break down",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-left-leaning-berlin-coalition-talks-break-down/live-79647092?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The SPD and Greens in Berlin have halted exploratory coalition talks with the Left Party amid a dispute over Israel policy and antisemitism. DW has mo..."
     }
 ]
