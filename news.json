@@ -71,72 +71,72 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Will Republicans or Democrats win the Senate? These key midterm races will decide.",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/yn-senate-matchups-animated-lead-final2_9730.gif",
-        "link": "https://www.yahoo.com/news/politics/article/will-republicans-or-democrats-win-control-of-the-senate-in-the-2026-midterms-these-are-key-races-to-watch-181921232.html",
-        "summary": "<p style=\"text-align: left;\">Control of both chambers of Congress is up for grabs in November's election. But as important as the House of Representat..."
+        "title": "House Democrats plan ambitious 100-day agenda if they sweep to power in midterms",
+        "image": "https://media.zenfs.com/en/ap.org/1ed313f0a2b177710a011dddced93ab9.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/house-democrats-plan-first-100-041403400.html",
+        "summary": "<p>WASHINGTON (AP) \u2014 House Democrats are preparing an ambitious 100-days agenda focused on delivering their campaign promises \u2014 making life more <a hr..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Bank of America hit with $1.2 billion penalty over money laundering failures",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://finance.yahoo.com/markets/article/bank-of-america-hit-with-12-billion-penalty-over-money-laundering-failures-201623796.html",
-        "summary": "<p style=\"text-align: left;\">Regulators fined Bank of America (<a class=\"link\" href=\"https://finance.yahoo.com/quote/BAC/\" rel=\"\" target=\"_blank\">BAC<..."
+        "title": "Russia hits 'critical' energy sites in Ukraine, leaving 600,000 people without power",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/0dd05ddc0cec052894bd72b106b7b5b3.jpg",
+        "link": "https://www.bbc.com/news/articles/cm2d6e62p49do?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "summary": "<figure>\n<figcaption>Watch: What we know about Russia's overnight strikes on Ukraine</figcaption>\n</figure><p>At least 600,000 people in Ukraine are w..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump downplays Russian diesel plan in the face of GOP criticism",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://finance.yahoo.com/energy/article/not-a-usa-deal-trump-downplays-russian-diesel-plan-in-the-face-of-gop-criticism-182030595.html",
-        "summary": "<p style=\"text-align: left;\">President Trump has begun to downplay his new deal with Russia after a plan <a class=\"link\" href=\"https://finance.yahoo.c..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Kimberly Guilfoyle resigns as U.S. ambassador to Greece over alleged misconduct",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-kimberly-guilfoyle_6646.jpg",
-        "link": "https://www.yahoo.com/news/us/article/white-house-asks-for-kimberly-guilfoyles-resignation-as-us-ambassador-to-greece-after-report-she-asked-donor-to-pay-her-100k-credit-card-bill-154738704.html",
-        "summary": "<p style=\"text-align: left;\">Kimberly Guilfoyle, the U.S. ambassador to Greece, resigned on Tuesday amid allegations of improper conduct while denying..."
+        "title": "Jon Ossoff shuts down 2028 presidential speculation in heated Georgia Senate debate",
+        "image": "https://media.zenfs.com/en/nbc_news_122/b051e513b8237ec584602b5f021445b9.jpg",
+        "link": "https://www.nbcnews.com/politics/2026-election/heated-georgia-senate-debate-jon-ossoff-says-wont-run-president-2028-rcna603300",
+        "summary": "<figure><img alt=\"Democratic GA Candidates Jon Ossoff And Keisha Lance Bottoms Hold Rally In Athens (Elijah Nouvelage / Getty)\" height=\"1467\" src=\"htt..."
     },
     {
         "source": "yahoo.com/news Top Stories",
         "title": "Trump-appointed judge extends order blocking White House press ban",
-        "image": "https://media.zenfs.com/en/ap.org/6c289f1ace97ee4a620b069b7a6ebbb7.jpg",
+        "image": "https://media.zenfs.com/en/ap.org/2fc9a25380f5cdc8ecadc3ba3b758a7a.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/judge-extends-order-blocking-trump-030954600.html",
-        "summary": "<p>A federal judge on Tuesday extended an order blocking the Trump administration from <a href=\"https://apnews.com/article/trump-networks-media-ban-cn..."
+        "summary": "<p>A federal judge on Tuesday extended an order blocking President Donald Trump's administration from <a href=\"https://apnews.com/article/trump-networ..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Pope Leo spends peaceful night in hospital after surgery for lung cancer",
+        "image": "https://media.zenfs.com/en/reuters.com/5dd777b5d9e88081a86c8b999a3739b4.jpg",
+        "link": "https://uk.news.yahoo.com/pope-leo-spent-peaceful-night-070844535.html",
+        "summary": "<p>By Joshua McElwee </p> <p>  VATICAN CITY, Oct 14 (Reuters) - Pope Leo spent a peaceful night in hospital after undergoing surgery for lung cancer, ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "US judge extends media outlets' White House access",
+        "title": "Fact check: Misleading graph about alleged Russian bot activity",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-judge-extends-media-outlets-white-house-access/a-79656346?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A federal judge extended the order that blocks the Trump administration from banning three media outlets from the White House. The outlets have reason..."
+        "link": "https://www.dw.com/en/fact-check-misleading-graph-about-alleged-russian-bot-activity/a-79651769?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Did attacks on Russian data centers reduce bot activity around Germany's AfD? A viral graph claims they did. But it contains significant inconsistenci..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Houthis launch fresh wave of missiles across Saudi Arabia",
+        "title": "Do non-German nationals commit more crimes than Germans?",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/houthis-launch-fresh-wave-of-missiles-across-saudi-arabia/live-79655805?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Both the Houthis and the Saudi-led coalition carried out strikes targeting energy infrastructure. Four people were injured as a result of debris of in..."
+        "link": "https://www.dw.com/en/do-non-german-nationals-commit-more-crimes-than-germans/a-79657273?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "People without German passports appear more frequently in German police crime statistics than German nationals. A new study explains why...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Cornell suspends frat parties after gang rape case",
+        "title": "FIFPRO report highlights growing pains in women's football",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/cornell-suspends-frat-parties-after-gang-rape-case/a-79655735?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Cornell said no parties will be held at frat houses until the end of the academic year. The university is trying to mend its reputation following its ..."
+        "link": "https://www.dw.com/en/fifpro-report-highlights-growing-pains-in-women-s-football/a-79648013?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Expected global revenue of over $1 billion and new faces at the U17 World Cup show women's football is booming, but a recent report also highlights ne..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "OpenAI says employee caught planting listening device",
+        "title": "The hidden treasure in discarded wearable and fast tech",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/openai-says-employee-caught-planting-listening-device/a-79655491?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A Saudi national employed by the artificial intelligence lab has been arrested after a listening device was planted in a company conference room...."
+        "link": "https://www.dw.com/en/the-hidden-treasure-in-discarded-wearable-and-fast-tech/a-79649611?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Sales of fast tech like mini fans and disposable e-vapes, as well as wearable health tech such as heart monitors and smartwatches are soaring. They're..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Vatican confirms Pope Leo underwent surgery for lung cancer",
+        "title": "Germany news: Nord Stream sabotage suspect's trial opens",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/vatican-confirms-pope-leo-underwent-surgery-for-lung-cancer/a-79647264?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The pope has had part of his lung removed and is recovering after surgery. Leo has been unusually candid for a pontiff about his health issues, disclo..."
+        "link": "https://www.dw.com/en/germany-news-nord-stream-sabotage-suspect-s-trial-opens/live-79656436?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A Ukrainian man is going on trial in Hamburg in the case of a 2022 attack on major gas pipelines. At the same time, Chancellor Merz is expected to giv..."
     }
 ]
