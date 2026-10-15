@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "Aurora Cannabis board rebuffs Curaleaf takeover again, welcomes other bids",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/aurora-cannabis-board-rebuffs-curaleaf-takeover-again-welcomes-other-bids/618657/",
+        "summary": "<p>Aurora Cannabis signaled interest in entertaining acquisition offers from other companies besides Curaleaf Holdings.</p>\n<p><a href=\"https://mjbizd..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "New York cannabis founder on entering the industry in 2026: \u2018Don\u2019t do it\u2019",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/new-york-cannabis-founder-on-entering-the-industry-in-2026-dont-do-it/618636/",
@@ -63,11 +70,11 @@
         "summary": "<p>Cannabis deals are won or lost after closing. Operators say start planning in due diligence and keep the local team that built the business. </p>\n<..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Illinois cannabis sales increase to record levels amid price drop",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/illinois-cannabis-sales-increase-to-record-levels-amid-price-drop/618606/",
-        "summary": "<p>Annual sales took a double-digit nosedive even as retailers saw their busiest month on record.</p>\n<p><a href=\"https://mjbizdaily.com/news/illinois..."
+        "source": "yahoo.com/news Top Stories",
+        "title": "White House press secretary Katie Zacharia confirms she never passed bar exam",
+        "image": "https://media.zenfs.com/en/cbs_news_897/694993a51e59746377e6c7e823b4cc6a.jpg",
+        "link": "https://www.cbsnews.com/news/white-house-press-secretary-katie-zacharia-lawyer-no-bar-exam/",
+        "summary": "<p></p><p></p><p>Washington \u2014 White House press secretary Katie Zacharia said Thursday that she never passed the bar, although she's called herself a ..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -79,30 +86,44 @@
     {
         "source": "yahoo.com/news Top Stories",
         "title": "FBI investigates suspicious mail sent to Senate and election offices",
-        "image": "https://media.zenfs.com/en/ap.org/c981c576c0e1bf1b95fae1df97f6284b.jpg",
+        "image": "https://media.zenfs.com/en/ap.org/941701e963193ef2ae9465096a9c423b.jpg",
         "link": "https://www.yahoo.com/news/articles/fbi-postal-investigating-letters-suspicious-152513309.html",
         "summary": "<p>WASHINGTON (AP) \u2014 Federal authorities are investigating letters with \u201csuspicious substances\u201d that have been mailed to congressional and election of..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Six Flags coaster had no safety violations before man's fatal fall, state says",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/fad3cd34f9405a652b149310db5c2004.jpg",
-        "link": "https://abcnews.com/US/recent-inspection-flags-roller-coaster-involved-fatal-fall/story?id=137292245",
-        "summary": "<div><p>The most recent inspection of Six Flags Over Georgia's <a dir=\"ltr\" href=\"https://abcnews.com/US/1-dead-injured-roller-coaster-incident-flags-..."
+        "title": "Trump dismisses reports that White House chief of staff Susie Wiles's job is in jeopardy",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/b2137c0029a6e06c68688110cb39820f.jpg",
+        "link": "https://thehill.com/homenews/administration/6150913-susie-wiles-trump-white-house/",
+        "summary": "<figure><img height=\"506\" src=\"https://media.zenfs.com/en/the_hill_articles_341/b2137c0029a6e06c68688110cb39820f.jpg\" width=\"900\" /></figure>\n<p>Presi..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Rep. Andy Harris threatens reporter with potential criminal charges for recording him",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/9c76b4cd877a4367648d4877f9b868a3.jpg",
-        "link": "https://abcnews.com/Politics/rep-andy-harris-threatens-journalist-potential-criminal-charges/story?id=137265769",
-        "summary": "<div><p>Maryland Republican Rep. Andy Harris on Tuesday appeared to lose his\u00a0cool during a gaggle with reporters, singling out a journalist and threat..."
+        "title": "Could this be the year Democrats close the 'governor gap' with Republicans?",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-midterms-governor-gap-1_4546.png",
+        "link": "https://www.yahoo.com/news/politics/article/could-this-be-the-year-democrats-close-the-governor-gap-with-republicans-180815424.html",
+        "summary": "<p style=\"text-align: left;\">When people talk about this year's midterms, they tend to focus on whether Democrats will end unified Republican control ..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Guns, F-bombs, fortune cookies. What do wild campaign ads actually say?",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/db1553cc77892b241e8ec1ba757509ef.jpg",
-        "link": "https://www.usatoday.com/story/news/politics/2026/10/15/campaign-ads-midterms-talarico-trump/92004345007/",
-        "summary": "<p>Jennifer Balkcom, a Republican running for Congress in western North Carolina, introduced herself to voters by informing them that her single mom o..."
+        "source": "Deutsche Welle",
+        "title": "Oregon school shooting: 'Multiple victims,' shooter dead",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/oregon-school-shooting-multiple-victims-shooter-dead/a-79674849?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A shooting at an elementary school in the US city of Bend, Oregon, has left multiple victims, police said. The suspected shooter is dead, but authorit..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Bus, train collide, injuring 19 at Channel Tunnel terminal",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/bus-train-collide-injuring-19-at-channel-tunnel-terminal/a-79674671?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A minibus carrying truck drivers collided with a freight train near the Channel Tunnel entrance in France, injuring 19 people, two of them severely. A..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Venezuela's Nicolas Maduro pleads not guilty to torture charges",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/venezuela-s-nicolas-maduro-pleads-not-guilty-to-torture-charges/a-79673496?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Maduro and his wife were charged with leading a state-sponsored repression campaign that tortured scores of victims during his presidency from 2013 to..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/middle-east-updates-houthis-target-yemen-government-palace-in-aden/live-79672880?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Houthi rebels say they targeted Saudi military assets in a rare attack on the interim seat of Yemen's internationally recognized government. Meanwhile..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Police raid the major pro-opposition Halk TV channel in Turkey",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/police-raid-the-major-pro-opposition-halk-tv-channel-in-turkey/a-79671673?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Turkish police raided the Istanbul headquarters of an important pro-opposition television station on Wednesdazy, the day that jailed Istanbul Mayor Ek..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Trump says execution of Fort Hood shooter will not be livestreamed",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-says-execution-of-fort-hood-shooter-will-not-be-livestreamed/a-79672036?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Trump said the execution of Nidal Malik Hasan can be viewed in person by families of the victims if they wish. The decision comes after bipartisan bac..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia arrests Swedish national, claims he's Ukraine fighter",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-arrests-swedish-national-claims-he-s-ukraine-fighter/a-79671942?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russian intelligence agents have arrested a Swedish man they say led a Ukrainian drone unit. He was detained at Russia's western border and is accused..."
     }
 ]
