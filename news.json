@@ -71,24 +71,17 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Major U.S. banks turned away customers over political and religious views, report says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://finance.yahoo.com/markets/article/federal-watchdog-says-9-large-us-banks-denied-service-to-customers-over-political-or-religious-views-160634194.html",
-        "summary": "<p style=\"text-align: left;\">The Comptroller of the Currency says the nation's nine largest banks denied financial services to customers based on thei..."
+        "title": "Trump's new press secretary Katie Zacharia faces complaint over claims she's a lawyer",
+        "image": "https://media.zenfs.com/en/newsmax_809/eb1081ba353b81c1977a665fcf5d1b6d.jpg",
+        "link": "https://www.newsmax.com/newsfront/katie-zacharia-white-house-california-bar/2026/10/14/id/1272822",
+        "summary": "<figure>\n<img alt=\"Newly appointed White House Press Secretary Katie Zacharia in Washington, D.C., on October 13, 2026. (Photo by Jim WATSON / AFP via..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Can Trump strip Ilhan Omar of her U.S. citizenship? It's not that simple.",
-        "image": "https://media.zenfs.com/en/time_72/61dea3cf6f9e737076bf90811a178fc4.jpg",
-        "link": "https://time.com/article/2026/10/14/ilhan-omar-citizenship-investigation-denaturalization-DOJ/",
-        "summary": "<section><figure><img src=\"https://media.zenfs.com/en/time_72/61dea3cf6f9e737076bf90811a178fc4.jpg\" /><figcaption>Rep. Ilhan Omar, a Democrat from Min..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Zelensky says Trump is abandoning a key partner while easing pressure on Russia",
-        "image": "https://media.zenfs.com/en/the_telegraph_818/7caca901003e0e26a46ca75f0b1262ad.jpg",
-        "link": "https://uk.news.yahoo.com/zelensky-feel-betrayed-trump-173810626.html",
-        "summary": "<figure><img alt=\"Volodymyr Zelensky (L) looks on during a bilateral meeting with US President Donald Trump\" src=\"https://media.zenfs.com/en/the_teleg..."
+        "title": "U.S. may have withheld warnings to Ukraine on deadly Kyiv strikes",
+        "image": "https://media.zenfs.com/en/cbs_news_897/22d46d70f346ec8a39af1801cccbcd33.jpg",
+        "link": "https://www.cbsnews.com/news/us-ukraine-intelligence-russia-war-missile-strikes-kyiv-power-outages/",
+        "summary": "<p></p><p></p><p>The U.S. may have intentionally withheld early warnings this week of <a href=\"https://www.cbsnews.com/ukraine-crisis/?ftag=YHF4eb9d17..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -99,10 +92,31 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "A mysterious death in Russia renews fears about ancient viruses trapped in Siberia",
-        "image": "https://media.zenfs.com/en/washington_post_articles_265/1ac60e5c01d09f82c0628c5e2fd60f3e.jpg",
-        "link": "https://washingtonpost.com/world/2026/10/14/dangerous-pathogens-have-lurked-millennia-russias-frozen-lands/",
-        "summary": "<p>The unexplained death this month of a Russian lab technician at a Siberian facility for the study of dangerous pathogens raised global anxieties ov..."
+        "title": "FBI investigates suspicious powder sent to election officials in 3 states",
+        "image": "https://media.zenfs.com/en/united_press_international_articles_356/c739685d986e5f145f11156af24cba48.jpg",
+        "link": "https://www.upi.com/Top_News/US/2026/10/14/Ohio-Louisiana-Oklahoma-white-powder/7831792031234/",
+        "summary": "<p><span class=\"story_dl\">Oct. 14 (UPI) --</span> Election officials in Ohio, Louisiana and Oklahoma said they were sent packages containing suspiciou..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "As inflation rises, poll finds 4 in 10 Americans struggle to afford basic necessities",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/ea7f252bf0c110d9d60aa8de9203245a.jpg",
+        "link": "https://thehill.com/business/6149011-americans-struggle-basic-costs/",
+        "summary": "<figure><img height=\"506\" src=\"https://media.zenfs.com/en/the_hill_articles_341/ea7f252bf0c110d9d60aa8de9203245a.jpg\" width=\"900\" /></figure>\n<p>More ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Brazil to shorten workweek in win for Lula ahead of runoff",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/brazil-to-shorten-workweek-in-win-for-lula-ahead-of-runoff/a-79664991?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Brazil's Senate approved cutting the workweek from 44 to 40 hours. The move could give President Luiz Inacio Lula da Silva an edge over his opponent, ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "North Korea says it tested cruise missiles to be launched from sub",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/north-korea-says-it-tested-cruise-missiles-to-be-launched-from-sub/a-79664436?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "North Korean state media said the military test-fired cruise missiles designed to be launched from submarines. Pyongyang has ramped up weapons launche..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "US President Trump's diesel deal with Russia has alarmed Ukraine and its allies. What is he hoping to achieve at home, and what does the deal mean for..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Japanese journalist arrest in Russia's Far East draws rebuke from Tokyo in latest diplomatic spat with Moscow",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/japanese-journalist-arrest-in-russia-s-far-east-draws-rebuke-from-tokyo-in-latest-diplomatic-spat-with-moscow/a-79663428?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A journalist for a Japanese newspaper was arrested on suspicion of spying in Russia's Far East. A geopolitical rivalry over disputed islands in the re..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Turkey: Government raids, takes over top news channel",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/turkey-government-raids-takes-over-top-news-channel/a-79662749?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Turkish authorities have raided the Istanbul offices of Halk TV, halting broadcasts, appointing a trustee and opening an investigation. It is the late..."
     }
 ]
