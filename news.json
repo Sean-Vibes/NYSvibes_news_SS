@@ -71,6 +71,20 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Beef prices are soaring \u2014 and now meat is a midterm election issue",
+        "image": "https://media.zenfs.com/en/ap.org/4549a5106bbafce000b9629948604e4e.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/everyone-same-midterms-wheres-beef-040657006.html",
+        "summary": "<p>In the <a href=\"https://apnews.com/hub/elections\">midterm elections</a>, meat is on the menu.</p>\n              <p>As Democrats and Republicans arg..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "U.S. considering using 'mother of all bombs' against Iran, sources say",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/0389709b81d6231189d27d40ecfe5c51.jpg",
+        "link": "https://www.cnn.com/2026/10/15/politics/us-considering-mother-of-all-bombs-iran",
+        "summary": "<figure><img alt=\"A Massive Ordinance Air Blast (MOAB) weapon at Eglin Air Force Base, Florida, on March 11, 2003. - Department of Defense/Getty Image..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Trump's new press secretary Katie Zacharia faces complaint over claims she's a lawyer",
         "image": "https://media.zenfs.com/en/newsmax_809/eb1081ba353b81c1977a665fcf5d1b6d.jpg",
         "link": "https://www.newsmax.com/newsfront/katie-zacharia-white-house-california-bar/2026/10/14/id/1272822",
@@ -85,58 +99,44 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Supreme Court sides with GOP in fight over discounted ads ahead of midterms",
-        "image": "https://media.zenfs.com/en/reuters.com/a689bf3bf5af31716dd60160cc10c096.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/us-supreme-court-again-backs-204225313.html",
-        "summary": "<p>By John Kruzel </p> <p>  WASHINGTON, Oct 14 (Reuters) - The US Supreme Court again sided with Republicans on Wednesday in the latest clash over a n..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "FBI investigates suspicious powder sent to election officials in 3 states",
-        "image": "https://media.zenfs.com/en/united_press_international_articles_356/c739685d986e5f145f11156af24cba48.jpg",
-        "link": "https://www.upi.com/Top_News/US/2026/10/14/Ohio-Louisiana-Oklahoma-white-powder/7831792031234/",
-        "summary": "<p><span class=\"story_dl\">Oct. 14 (UPI) --</span> Election officials in Ohio, Louisiana and Oklahoma said they were sent packages containing suspiciou..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "As inflation rises, poll finds 4 in 10 Americans struggle to afford basic necessities",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/ea7f252bf0c110d9d60aa8de9203245a.jpg",
-        "link": "https://thehill.com/business/6149011-americans-struggle-basic-costs/",
-        "summary": "<figure><img height=\"506\" src=\"https://media.zenfs.com/en/the_hill_articles_341/ea7f252bf0c110d9d60aa8de9203245a.jpg\" width=\"900\" /></figure>\n<p>More ..."
+        "title": "28 deaths in Pakistan school roof collapse as rescuers search for trapped children",
+        "image": "https://media.zenfs.com/en/reuters.com/fe5759343da411f9d4a056fc9b227515.jpg",
+        "link": "https://www.yahoo.com/news/articles/seventeen-students-one-teacher-killed-061214216.html",
+        "summary": "<p>ISLAMABAD, Oct 15 (Reuters) - At least 27 students, most younger than 13, were killed in Pakistan on \u200cThursday, along with a teacher, when a school..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Brazil to shorten workweek in win for Lula ahead of runoff",
+        "title": "Why Chinese tech brands are outpacing Western rivals from EVs to robot vacuums",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/brazil-to-shorten-workweek-in-win-for-lula-ahead-of-runoff/a-79664991?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Brazil's Senate approved cutting the workweek from 44 to 40 hours. The move could give President Luiz Inacio Lula da Silva an edge over his opponent, ..."
+        "link": "https://www.dw.com/en/why-chinese-tech-brands-are-outpacing-western-rivals-from-evs-to-robot-vacuums/a-79646187?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "From action cameras and smartphones to EVs and robot vacuums, Chinese brands are gaining ground worldwide despite privacy and security concerns. What'..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "North Korea says it tested cruise missiles to be launched from sub",
+        "title": "Manchester City, the UAE and the UK in political tangle",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/north-korea-says-it-tested-cruise-missiles-to-be-launched-from-sub/a-79664436?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "North Korean state media said the military test-fired cruise missiles designed to be launched from submarines. Pyongyang has ramped up weapons launche..."
+        "link": "https://www.dw.com/en/manchester-city-the-uae-and-the-uk-in-political-tangle/a-79664729?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Nearly 20 years after they arrived in England, there are rumors cheating charges could see Manchester City's UAE owners exit. That would be complex fo..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Ukraine says Musk's SpaceX limits Kyiv's Starlink access",
+        "title": "North Korea, China open border bridge after 12-year delay",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-says-musk-s-spacex-limits-kyiv-s-starlink-access/a-79658015?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukraine accused SpaceX of restricting use of its Starlink system, impacting Kyiv's ability to control its drones as Russian attacks continue unabated...."
+        "link": "https://www.dw.com/en/north-korea-china-open-border-bridge-after-12-year-delay/a-79666112?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Twelve years after it was constructed, the New Yalu River Bridge between China and North Korea is finally operational. It is the latest sign of warmin..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Nord Stream trial opens in Germany, defense seeks dismissal",
+        "title": "School roof collapse in Pakistan's Peshawar kills at least 27 students, one teacher",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nord-stream-trial-opens-in-germany-defense-seeks-dismissal/a-79662942?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Serhii Kuznietsov is accused of attacking civilian infrastructure in the 2022 sabotage of the Russian gas pipeline to Germany. His lawyers called Nord..."
+        "link": "https://www.dw.com/en/school-roof-collapse-in-pakistan-s-peshawar-kills-at-least-27-students-one-teacher/a-79666091?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Local authorities said more than three dozen other people were injured in the disaster. Roof collapses have become increasingly common in Pakistan...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "How Trump's diesel deal with Russia will impact the United States and Ukraine",
+        "title": "India news: Supreme Court hears Rahul Gandhi's Election Commission plea",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-trump-s-diesel-deal-with-russia-will-impact-the-united-states-and-ukraine/a-79658596?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US President Trump's diesel deal with Russia has alarmed Ukraine and its allies. What is he hoping to achieve at home, and what does the deal mean for..."
+        "link": "https://www.dw.com/en/india-news-supreme-court-hears-rahul-gandhi-s-election-commission-plea/live-79665180?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A petition filed by opposition leader Rahul Gandhi and others seeks an independent audit of India's sweeping voter deletions. DW has more...."
     }
 ]
