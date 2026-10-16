@@ -71,10 +71,10 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Amber Guyger released on parole after serving 7 years for Botham Jean\u2019s murder",
-        "image": "https://media.zenfs.com/en/dallas_morning_news_articles_211/bf508f1b595d403fc818e5d3802342b8.jpg",
-        "link": "https://www.dallasnews.com/news/crime/article/amber-guyger-prison-release-22478266.php",
-        "summary": "<figure>\n<img src=\"https://media.zenfs.com/en/dallas_morning_news_articles_211/bf508f1b595d403fc818e5d3802342b8.jpg\" />\n<figcaption>\n  Former Dallas p..."
+        "title": "Another wildfire races through Southern California, prompting mass evacuation orders",
+        "image": "https://media.zenfs.com/en/california_post_772/8f7026273f85dc1dfbc7ea37d7c2f280.jpg",
+        "link": "https://nypost.com/2026/10/16/us-news/dangerous-norte-fire-in-san-clemente-fueled-by-santa-ana-winds/",
+        "summary": "<img alt=\"\" src=\"https://media.zenfs.com/en/california_post_772/de7beb0cdaacae92ca9bc54704a42c48.jpg\" />\n<p>A wildfire in Orange County exploded in si..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -92,17 +92,24 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Oregon governor praises 'heroic' bystander who stopped school shooter",
+        "title": "Oregon school shooter identified as 16-year-old former student",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.yahoo.com/news/us/article/multiple-people-reportedly-killed-after-shooting-at-oregon-elementary-school-230432197.html",
-        "summary": "<p style=\"text-align: left;\">A teenager shot his way through locked doors at Silver Rail Elementary School in Bend, Ore., on Thursday, killing three c..."
+        "summary": "<p style=\"text-align: left;\">A teacher and one of the three children who were killed in Thursday's mass shooting at a Bend, Ore., elementary school we..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "A powerful El Ni\u00f1o could disrupt winter getaways. Here's what travelers should know.",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-10/fce4ae6f-2245-4297-9a69-dce9ae05175d",
-        "link": "https://travel.yahoo.com/advice/article/a-powerful-el-nino-could-disrupt-winter-getaways-heres-what-travelers-should-know-155951095.html",
-        "summary": "<p style=\"text-align: left;\">As travelers look to escape the cold for warm weather over the holiday season, <a class=\"link\" href=\"https://www.yahoo.co..."
+        "title": "U.S. journalist beaten and Palestinian farmers injured in West Bank settler attack",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/951a1794f5229ccc183f5b105be0ca21.jpg",
+        "link": "https://www.bbc.com/news/articles/c65ynk7212vqo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "summary": "<figure>\n<figcaption>Watch: Israeli settlers attack Palestinians in West Bank during olive harvest</figcaption>\n</figure><p>Dozens of masked settlers ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Brazil: Amazon deforestation lowest in nearly 40 years",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/brazil-amazon-deforestation-lowest-in-nearly-40-years/a-79684906?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The latest figures show that 3,335 square kilometers of the Amazon rainforest were cleared in the year ending in July, the lowest level since 1988. Th..."
     },
     {
         "source": "Deutsche Welle",
@@ -120,10 +127,10 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "White House Press Secretary Zacharia exiting role after short tenure",
+        "title": "White House press secretary Zacharia exiting role after short tenure",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/white-house-press-secretary-zacharia-exiting-role-after-short-tenure/a-79684341?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Zacharia, having only served five days in the role, is now the shortest-serving press secretary in White House history. It comes after a rocky debut a..."
+        "summary": "Zacharia, having served only five days in the role, is now the shortest-serving press secretary in White House history. Her departure follows a rocky ..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/hijab-ban-at-schools-in-azerbaijan-what-s-behind-the-rare-wave-of-protests/a-79683716?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Girls wearing headscarves have been turned away from schools in Azerbaijan, triggering unusual protests involving children. The government rules do no..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "At summit, EU leaders pledge support for Ukraine's Zelenskyy",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/at-summit-eu-leaders-pledge-support-for-ukraine-s-zelenskyy/a-79678808?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "President Zelenskyy has received words of encouragement from EU leaders, who pledged support for Ukraine's self-defense against Russia. This comes as ..."
     }
 ]
