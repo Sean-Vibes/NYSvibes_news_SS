@@ -71,24 +71,24 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Trump pauses Russia sanctions passed by Congress, citing U.S. national interest",
+        "image": "https://media.zenfs.com/en/ap.org/6f895cdc554243f726dcdd12e6ece728.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-puts-russia-sanctions-passed-014202867.html",
+        "summary": "<p>WASHINGTON (AP) \u2014 President <a href=\"https://apnews.com/hub/donald-trump\">Donald Trump</a> on Friday signed an executive order that puts on hold a ..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "A teacher saved lives by tackling and fighting the Oregon shooter, police say",
+        "image": "https://media.zenfs.com/en/reuters.com/2c7887f7482d1c48fd9d4ce961c996f4.jpg",
+        "link": "https://www.yahoo.com/news/articles/teacher-tackled-fought-oregon-school-221156030.html",
+        "summary": "<p>By Deborah Bloom and Herbert Villarraga </p> <p>  BEND, Oregon, Oct 16 (Reuters) - A 16-year-old boy who shot and killed a teacher and three childr..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Another wildfire races through Southern California, prompting mass evacuation orders",
-        "image": "https://media.zenfs.com/en/california_post_772/8f7026273f85dc1dfbc7ea37d7c2f280.jpg",
+        "image": "https://media.zenfs.com/en/california_post_772/1161558741950fafc0da289e5f814650.jpg",
         "link": "https://nypost.com/2026/10/16/us-news/dangerous-norte-fire-in-san-clemente-fueled-by-santa-ana-winds/",
-        "summary": "<img alt=\"\" src=\"https://media.zenfs.com/en/california_post_772/de7beb0cdaacae92ca9bc54704a42c48.jpg\" />\n<p>A wildfire in Orange County exploded in si..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "'You should be ashamed of yourself': Heated Senate debates become personal",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/f87b01c9c4f775ee0317203fab3c1b72.png",
-        "link": "https://www.cnn.com/2026/10/16/politics/senate-debates-takeaways-maine-alaska",
-        "summary": "<figure><img alt=\"WCSH\" height=\"540\" src=\"https://media.zenfs.com/en/cnn_articles_875/f87b01c9c4f775ee0317203fab3c1b72.png\" width=\"960\" /><figcaption>..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Katie Zacharia reportedly out as White House press secretary after first week on the job",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-katie-zacharia-press_2178.jpg",
-        "link": "https://www.yahoo.com/news/politics/article/katie-zacharia-out-as-white-house-press-secretary-after-5-days-on-the-job-reports-182158704.html",
-        "summary": "<p style=\"text-align: left;\">President Trump signaled on Friday that he might replace embattled new White House press secretary Katie Zacharia after l..."
+        "summary": "<figure><img alt=\"\" src=\"https://media.zenfs.com/en/california_post_772/2ea38879f8f9aedb535ebed2d241f2dc.jpg\" /><figcaption>Firefighters battle the No..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -99,10 +99,17 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "U.S. journalist beaten and Palestinian farmers injured in West Bank settler attack",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/951a1794f5229ccc183f5b105be0ca21.jpg",
-        "link": "https://www.bbc.com/news/articles/c65ynk7212vqo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-        "summary": "<figure>\n<figcaption>Watch: Israeli settlers attack Palestinians in West Bank during olive harvest</figcaption>\n</figure><p>Dozens of masked settlers ..."
+        "title": "Katie Zacharia reportedly out as White House press secretary after first week on the job",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-katie-zacharia-press_2178.jpg",
+        "link": "https://www.yahoo.com/news/politics/article/katie-zacharia-out-as-white-house-press-secretary-after-5-days-on-the-job-reports-182158704.html",
+        "summary": "<p style=\"text-align: left;\">President Trump\u2019s embattled new press secretary Katie Zacharia was forced out Friday after less than a week on the job. <..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Trump puts new Russia sanctions on hold",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US president cited national interests for his decision to sign a waiver on sanctions Congress voted to place on Russia...."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/white-house-press-secretary-zacharia-exiting-role-after-short-tenure/a-79684341?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Zacharia, having served only five days in the role, is now the shortest-serving press secretary in White House history. Her departure follows a rocky ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Hijab ban at schools in Azerbaijan: What's behind the rare wave of protests?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/hijab-ban-at-schools-in-azerbaijan-what-s-behind-the-rare-wave-of-protests/a-79683716?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Girls wearing headscarves have been turned away from schools in Azerbaijan, triggering unusual protests involving children. The government rules do no..."
     }
 ]
