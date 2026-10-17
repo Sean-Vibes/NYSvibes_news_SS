@@ -72,7 +72,7 @@
     {
         "source": "yahoo.com/news Top Stories",
         "title": "Trump pauses Russia sanctions passed by Congress, citing U.S. national interest",
-        "image": "https://media.zenfs.com/en/ap.org/6f895cdc554243f726dcdd12e6ece728.jpg",
+        "image": "https://media.zenfs.com/en/ap.org/ac8df698174b49a45ef72072e7f7843e.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/trump-puts-russia-sanctions-passed-014202867.html",
         "summary": "<p>WASHINGTON (AP) \u2014 President <a href=\"https://apnews.com/hub/donald-trump\">Donald Trump</a> on Friday signed an executive order that puts on hold a ..."
     },
@@ -86,9 +86,9 @@
     {
         "source": "yahoo.com/news Top Stories",
         "title": "Another wildfire races through Southern California, prompting mass evacuation orders",
-        "image": "https://media.zenfs.com/en/california_post_772/1161558741950fafc0da289e5f814650.jpg",
+        "image": "https://media.zenfs.com/en/california_post_772/7454968e18a0bf2a3c3e2fccd5d7028a.jpg",
         "link": "https://nypost.com/2026/10/16/us-news/dangerous-norte-fire-in-san-clemente-fueled-by-santa-ana-winds/",
-        "summary": "<figure><img alt=\"\" src=\"https://media.zenfs.com/en/california_post_772/2ea38879f8f9aedb535ebed2d241f2dc.jpg\" /><figcaption>Firefighters battle the No..."
+        "summary": "<img alt=\"An image collage containing 2 images, Image 1 shows Firefighters battle the Norte Fire in San Juan Capistrano, California, Image 2 shows A m..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -99,10 +99,38 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Katie Zacharia reportedly out as White House press secretary after first week on the job",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-katie-zacharia-press_2178.jpg",
-        "link": "https://www.yahoo.com/news/politics/article/katie-zacharia-out-as-white-house-press-secretary-after-5-days-on-the-job-reports-182158704.html",
-        "summary": "<p style=\"text-align: left;\">President Trump\u2019s embattled new press secretary Katie Zacharia was forced out Friday after less than a week on the job. <..."
+        "title": "U.S. deficit nears $2 trillion as government spending keeps climbing",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://finance.yahoo.com/economy/policy/article/the-us-federal-budget-deficit-for-2026-just-came-in-its-1992-trillion-191917669.html",
+        "summary": "<p style=\"text-align: left;\">The US federal budget deficit for 2026 officially came in Friday at $1.992 trillion, a final tabulation to close out the ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "France braces for nationwide protests",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Students, trade unionists and Yellow Vest activists are taking to French streets to protest high prices and inequality. Authorities say they fear the ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: 'Cockroach' party founder Abhijeet Dipke under preventive arrest",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-cockroach-party-founder-abhijeet-dipke-under-preventive-arrest/live-79685143?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "CJP's Abhijeet Dipke is due to appear before a Special Executive Magistrate later in the day. Dipke was detained ahead of a demonstration in New Delhi..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US: Homes burned in California as wildfires rage",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-homes-burned-in-california-as-wildfires-rage/a-79685480?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Multiple mansions have been engulfed in the fires raging in California while firefighters continue to douse the blaze...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US police have praised the actions of three people who cut short a deadly shooting at a school in the state of Oregon. Three children and a teacher we..."
     },
     {
         "source": "Deutsche Welle",
@@ -110,33 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The US president cited national interests for his decision to sign a waiver on sanctions Congress voted to place on Russia...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Brazil: Amazon deforestation lowest in nearly 40 years",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/brazil-amazon-deforestation-lowest-in-nearly-40-years/a-79684906?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The latest figures show that 3,335 square kilometers of the Amazon rainforest were cleared in the year ending in July, the lowest level since 1988. Th..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "EU leaders reaffirmed support for Ukraine at the Brussels summit. But souring relations with the US over Russia and Starlink and a big hole in the bud..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "West Bank: US journalist injured by Israeli settlers",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/west-bank-us-journalist-injured-by-israeli-settlers/a-79684181?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Washington Post journalist Heidi Levine said she was beaten by Israeli settlers in the occupied West Bank. Reporters Without Borders slammed the attac..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "White House press secretary Zacharia exiting role after short tenure",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/white-house-press-secretary-zacharia-exiting-role-after-short-tenure/a-79684341?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Zacharia, having served only five days in the role, is now the shortest-serving press secretary in White House history. Her departure follows a rocky ..."
     }
 ]
