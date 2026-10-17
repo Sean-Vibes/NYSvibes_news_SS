@@ -71,6 +71,20 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Police identify teenage gunman, teacher and 5-year-old killed in Oregon shooting",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-10/f5266535-d82b-4e51-af96-5c29d3f13b1d",
+        "link": "https://www.yahoo.com/news/us/article/multiple-people-reportedly-killed-after-shooting-at-oregon-elementary-school-230432197.html",
+        "summary": "<p style=\"text-align: left;\">A teacher and one of the three children who were killed in Thursday's mass shooting at a Bend, Ore., elementary school we..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Trump's decision to waive Russia sanctions sparks bipartisan outrage",
+        "image": "https://media.zenfs.com/en/ap.org/0f9e6f3292ae478ef7639916850261c4.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trumps-decision-waive-russian-sanctions-150900278.html",
+        "summary": "<p>WASHINGTON (AP) \u2014 <a href=\"https://apnews.com/hub/donald-trump\">President Donald Trump's</a> abrupt decision to <a href=\"https://apnews.com/article..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Trump's election fraud task force is going after the people who investigated him",
         "image": "https://media.zenfs.com/en/washington_post_articles_265/7befe2e298dc2a0e296aa17a5944b9f4.jpg",
         "link": "https://washingtonpost.com/politics/2026/10/17/trumps-election-fraud-task-force-is-going-after-people-who-investigated-him/",
@@ -78,31 +92,38 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Zelensky urges support for new U.S. sanctions on Russia after Trump puts them on hold",
-        "image": "https://media.zenfs.com/en/ap.org/41abd56ca83f811bcd4e8eaadad88f83.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/zelenskyy-urges-support-us-sanctions-101109241.html",
-        "summary": "<p>KYIV, Ukraine (AP) \u2014 Ukrainian President Volodymyr Zelenskyy urged supporters Saturday to speak out in defense of <a href=\"https://apnews.com/artic..."
+        "title": "Katie Zacharia praises Trump as \u2018kind, wonderful, gracious\u2019 after White House exit",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-katie-zacharia-press_2178.jpg",
+        "link": "https://www.yahoo.com/news/politics/article/katie-zacharia-out-as-white-house-press-secretary-after-5-days-on-the-job-reports-182158704.html",
+        "summary": "<p style=\"text-align: left;\">President Trump's embattled new press secretary Katie Zacharia was forced out Friday after less than a week on the job. <..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "An armed dad and a teacher stopped an Oregon school shooter. It took just 3 minutes.",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/fc83d29796ed2f827e9c5e8dc3a3306a.jpg",
-        "link": "https://www.cnn.com/2026/10/17/us/bend-oregon-school-shooting-how-it-unfolded",
-        "summary": "<figure><img alt=\"Community members grieve at the site of a makeshift memorial in front of Silver Rail Elementary School in Bend, Oregon, on October 1..."
+        "title": "ICE detainees allege excessive force during attempted removals to Mexico",
+        "image": "https://media.zenfs.com/en/newsweek_sports_200/2e8f16f10891d2d22ebe4b8ba35a3842.jpg",
+        "link": "https://www.newsweek.com/ice-detainees-ask-judge-intervene-inhumane-texas-camp-12579834",
+        "summary": "<p><a href=\"https://www.newsweek.com/topic/ice\">ICE</a> detainees are <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.txwd.1172911925/go..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Judge denies gag order request in Cornell sex assault civil case",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/65365c9bc5f702c600b4c94bd57a7c3a.jpg",
-        "link": "https://abcnews.com/US/judge-denies-gag-order-request-cornell-sex-assault/story?id=137338006",
-        "summary": "<div><p>A New York judge on Friday rejected a <a dir=\"ltr\" href=\"https://abcnews.com/US/accused-cornell-university-student-asks-gag-order/story?id=137..."
+        "source": "Deutsche Welle",
+        "title": "Romanian fighter jets shoot down 2 drones over Black Sea",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Romanian Air Force F-16s shot down drones over Romanian territorial waters. Earlier this week, two chemical tankers were hit by drones near Romania's ..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Proposed bill could be the break Hollywood has been waiting for",
-        "image": "https://media.zenfs.com/en/washington_post_articles_265/d5c0a72cc055710b57abc57231ae3986.jpg",
-        "link": "https://washingtonpost.com/business/2026/10/17/tax-breaks-tinseltown-would-aim-keep-film-tv-production-us/",
-        "summary": "<p>The beleaguered U.S. film and TV industry, which has seen significant dollars leave for foreign countries, local production plummet and thousands o..."
+        "source": "Deutsche Welle",
+        "title": "Egypt's Ssisi says he'll defend Saudi Arabia, if asked",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Egyptian president said his country was ready to defend Saudi Arabia \"if requested.\" The comments come amid escalating Houthi attacks...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "West Bank: Israeli settlers attack EU diplomats, French mayor",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A group of Israeli settlers attacked vehicles carrying European diplomats in the West Bank. Belgium has condemned the attack...."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Home to more than 700 million gamers, China is the world's largest gaming market \u2014 but it's also one of the most tightly regulated. The effects reach ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pope Leo leaves hospital after cancer surgery",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pope-leo-leaves-hospital-after-cancer-surgery/a-79688162?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Four days after undergoing surgery for lung cancer, Pope Leo left the hospital in Rome. His doctors said he was well enough to return home...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: CJP founder released a day after detention",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-cjp-founder-released-a-day-after-detention/live-79685143?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "India's \"Cockroach\" movement founder, Abhijeet Dipke, was released after agreeing to certain conditions, according to the CJP's head of legal affairs...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia wants blackout in Ukraine as winter comes \u2014 Zelenskyy",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukrainian President Zelenskyy says Russia is trying to cut electricity and heating to civilians ahead of winter. He also called the US president's wai..."
     }
 ]
