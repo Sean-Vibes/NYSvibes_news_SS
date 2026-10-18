@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Why Is Marijuana Regulated More Strictly Than Alcohol, Even Though It Is Safer To Use? (Op-Ed)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/why-is-marijuana-regulated-more-strictly-than-alcohol-even-though-it-is-safer-to-use-op-ed/",
+        "summary": "<p>&#8220;I can tell you exactly where every gram of our cannabis comes from based on a compliance chain that\u2019s a mile long.&#8221; By Wes Ritchie, Tr..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Psychedelic Church\u2019s Secret Agreement With DEA And Approval From Iowa Officials Allows Import And Manufacturing Of Ayahuasca",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/psychedelic-churchs-secret-agreement-with-dea-and-approval-from-iowa-officials-allows-import-and-manufacturing-of-ayahuasca/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/north-carolinians-support-legalizing-marijuana-including-majorities-of-republicans-and-democrats-poll-shows/",
         "summary": "<p>A new poll shows that a strong majority of North Carolina adults support legalizing marijuana\u2014both for recreational and medical purposes\u2014including ..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Dozens Of Massachusetts Lawmakers Urge Voters To Keep Marijuana Sales Legal By Rejecting Measure On November Ballot",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/dozens-of-massachusetts-lawmakers-urge-voters-to-keep-marijuana-sales-legal-by-rejecting-measure-on-november-ballot/",
-        "summary": "<p>More than 50 Massachusetts state lawmakers are joining together to oppose an initiative on the November ballot to roll back the state&#8217;s marij..."
     },
     {
         "source": "MJBizDaily",
@@ -73,13 +73,13 @@
         "source": "yahoo.com/news Top Stories",
         "title": "JD Vance faces tough questions on Iran war, immigration and gas prices in town hall",
         "image": "https://media.zenfs.com/en/cbs_news_897/ff85ed8c9f8f8e736db73dc882fe81d0.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/7-highlights-jd-vances-cbs-010109516.html",
-        "summary": "<p style=\"text-align: left;\"></p><p style=\"text-align: left;\"></p><p style=\"text-align: left;\">In an hour-long town hall hosted by CBS News, Vice Pres..."
+        "link": "https://www.cbsnews.com/news/jd-vance-cbs-town-hall-highlights-michigan/",
+        "summary": "<p></p><p></p><p>In an hour-long town hall hosted by CBS News, Vice President JD Vance argued the Trump administration's handling of the economy and I..."
     },
     {
         "source": "yahoo.com/news Top Stories",
         "title": "Multiple deaths and injuries after 'disaster' at Canadian military training base",
-        "image": "https://media.zenfs.com/en/ap.org/f7e7f488e5ebdf8e3e71003cffe50267.jpg",
+        "image": "https://media.zenfs.com/en/ap.org/da1bc4dde352c1b761b54bff16922716.jpg",
         "link": "https://www.yahoo.com/news/world/articles/canadas-prime-minister-says-serious-011835296.html",
         "summary": "<p>EDMONTON, Alberta (AP) \u2014 Canada\u2019s defense minister said Saturday that people were killed and injured in an incident at a military base in Alberta t..."
     },
@@ -99,10 +99,24 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "A new generation of synthetic drugs is changing America's overdose crisis",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/09cc14180f38024533633edd8beb6957.jpg",
-        "link": "https://www.bbc.com/news/articles/cmx2wvyv5j17o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-        "summary": "<figure>\n<figcaption>The BBC\u2019s Quentin Sommerville joins officers at Cook County as they carry out an early morning raid</figcaption>\n</figure><p><em>..."
+        "title": "Trump's most controversial moves have something in common: This DOJ office",
+        "image": "https://media.zenfs.com/en/washington_post_articles_265/d9a27b2bcb86fb90a2349295f4da72db.jpg",
+        "link": "https://washingtonpost.com/national-security/2026/10/18/meet-small-doj-unit-approving-some-trumps-most-controversial-policies/",
+        "summary": "<p>When White House officials wanted to know if President Donald Trump could send the U.S. military to help capture President Nicol\u00e1s Maduro in Venezu..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Pope appears in public for first time since surgery",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/pope-appears-in-public-for-first-time-since-surgery/a-79692583?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After undergoing a lung operation, the pope said he will resume his duties gradually. There is no \"clinical reason\" for his South America trip not to ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "France: Young voters blase about Glucksmann's Socialists",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Raphael Glucksmann wants to lead France's Socialists to power without working with the left-populist Jean-Luc Melenchon, who is particularly popular w..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/vietnam-signs-free-trade-deal-with-four-european-countries/a-79691812?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Vietnam has signed a deal with four non-EU members that covers trade in goods and services, intellectual property rights, and sustainable development,..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How reliant is Ukraine on the US-controlled Starlink internet service?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-reliant-is-ukraine-on-the-us-controlled-starlink-internet-service/a-79689729?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Kyiv keeps issuing warnings that the satellite internet system Starlink is being restricted in Ukraine. How dependent is the country on the system, an..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Populist Czech PM Babis goes empty-handed in Senate elections",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Opposition parties still control the Czech Senate, in a major blow to Prime Minister Andrej Babis' and his governing coalition...."
     }
 ]
