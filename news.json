@@ -99,10 +99,24 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "What are self-replicating 'AI worms', and why is Anthropic worried about them?",
-        "image": "https://media.zenfs.com/en/the_guardian_765/25a0b9d82fa74f23561ec6c1c110f877.jpg",
-        "link": "https://tech.yahoo.com/cybersecurity/articles/self-replicating-ai-worms-why-133000706.html",
-        "summary": "<figure>\n<img src=\"https://media.zenfs.com/en/the_guardian_765/19165cfceb78652cfda38e028ed57cd0.jpg\" />\n<figcaption>\n<span>\u2018Whatever claims the labs a..."
+        "title": "Rubio says Trump will take up to 60 days to weigh Russia sanctions",
+        "image": "https://media.zenfs.com/en/reuters.com/b431b6c335bc7dc5a8b7fcd13bd8cf54.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/rubio-says-trump-60-days-033841652.html",
+        "summary": "<p>By Nandita Bose and Gram Slattery </p> <p>  Oct 17 (Reuters) - The day after waiving sanctions and tariffs related to Russian exports, US President..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Albania's Prime Minister Edi Rama ignores calls to resign amid violent clashes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/albania-s-prime-minister-edi-rama-ignores-calls-to-resign-amid-violent-clashes/a-79693789?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Anti-government protesters continued calls for Edi Rama to step down as violent clashes between demonstrators and police again took place...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Israel: Trump endorses Netanyahu ahead of elections",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/israel-trump-endorses-netanyahu-ahead-of-elections/a-79693698?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US president said he supports Israel's current prime minister in the country's elections on October 27. But polls say Netanyahu and his far-right ..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ukraine-apologizes-after-a-suspected-drone-crashes-in-lithuania-damaging-a-moving-car/a-79692905?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Debris has damaged a moving car in Lithuania, where NATO jets were scrambled. Kyiv says Russian jamming may have diverted drones targeting Russia...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pope appears in public for first time since surgery",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pope-appears-in-public-for-first-time-since-surgery/a-79692583?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After undergoing a lung operation, the pope said he will resume his duties gradually. There is no \"clinical reason\" for his South America trip not to ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "France: Young voters blase about Glucksmann's Socialists",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Raphael Glucksmann wants to lead France's Socialists to power without working with the left-populist Jean-Luc Melenchon, who is particularly popular w..."
     }
 ]
