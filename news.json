@@ -71,6 +71,13 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Ukraine faces grim question of whether it can take on Russia with less U.S. backing",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/fbd7cb6e0c1c2acf5e4fd9a9ad771f8d.jpg",
+        "link": "https://thehill.com/policy/defense/6154982-trump-starlink-ukraine-russia-fight/",
+        "summary": "<figure><img height=\"506\" src=\"https://media.zenfs.com/en/the_hill_articles_341/fbd7cb6e0c1c2acf5e4fd9a9ad771f8d.jpg\" width=\"900\" /></figure>\n<p>The d..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "GOP lawmakers criticize Trump's decision to waive Russia sanctions: 'Unconscionable'",
         "image": "https://media.zenfs.com/en/the_hill_articles_341/147e455fb738c0ff7025543214161021.jpg",
         "link": "https://thehill.com/homenews/administration/6155725-trump-waives-russia-sanctions/",
@@ -78,14 +85,14 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Auburn knocks off No. 1 Georgia with a last-second field goal after late turnover",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-10/db50b47e-3e29-45fa-9cfe-1f36116703d8",
-        "link": "https://sports.yahoo.com/college-football/breaking-news/article/no-1-georgia-turns-the-ball-over-three-times-as-auburn-shocks-the-bulldogs-27-24-with-a-last-second-field-goal-230115909.html",
-        "summary": "<p style=\"text-align: left;\">The No. 1 team in the country has lost in back-to-back weeks.</p><p style=\"text-align: left;\">Just seven days after takin..."
+        "title": "2 people killed, including 6-year-old boy, after mother drives into soccer game: Police",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/143538569eefa619d1015000fdb27d3b.jpg",
+        "link": "https://abcnews.com/US/2-dead-after-truck-drives-soccer-game-wichita/story?id=137352588",
+        "summary": "<div><p>Two people, including a 6-year-old boy, were killed and 11 others injured after a truck drove through a youth soccer game in Wichita, Kansas, ..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Teacher and father hailed as heroes for their actions during Oregon school shooting",
+        "title": "Dad crawled through broken window to stop gunman at daughters' school, family says",
         "image": "https://media.zenfs.com/en/cbs_news_897/7224771fd0b3019acd2e095e248b6123.jpg",
         "link": "https://www.cbsnews.com/news/oregon-school-shooter-bystander-identified-silver-rail-elementary/",
         "summary": "<p></p><p></p><p>The bystander who stepped in to stop a\u00a0<a href=\"https://www.cbsnews.com/live-updates/oregon-silver-rail-elementary-shooting-bend/?fta..."
@@ -98,11 +105,25 @@
         "summary": "<p>Violence broke out across France on Saturday during the latest day of demonstrations against hardship in schools and the cost of living.</p><p>At l..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "More lawmakers receive suspicious packages as FBI searches for those responsible",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/0f1c8acb0f09311f83232acfa792e38b.jpg",
-        "link": "https://thehill.com/homenews/house/6155515-lawmakers-report-suspicious-mailings/",
-        "summary": "<figure><img height=\"534\" src=\"https://media.zenfs.com/en/the_hill_articles_341/0f1c8acb0f09311f83232acfa792e38b.jpg\" width=\"800\" /></figure>\n<p>Sever..."
+        "source": "Deutsche Welle",
+        "title": "India news: Kolkata stampede dampens Durga Puja festivities",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-kolkata-stampede-dampens-durga-puja-festivities/live-79685143?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Authorities have detained several people over a deadly stampede in India's eastern city of Kolkata, after the state vowed strict action. Meanwhile, 'C..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Canada: Major fire reported at military base in Alberta",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/canada-major-fire-reported-at-military-base-in-alberta/a-79690515?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Canadian Prime Minister Mark Carney has said a \"serious incident\" sparked a major fire at a military base in Alberta. He did not provide details on th..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "'No Kings' rallies push early voting ahead of US midterm elections",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/no-kings-rallies-push-early-voting-ahead-of-us-midterm-elections/a-79690502?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Organizers of the \"No Kings\" protests, known for their anti-Trump sentiment, are urging Americans to vote early in the November 3 midterm elections, a..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/romanian-fighter-jets-shoot-down-2-drones-over-black-sea/a-79689156?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Romanian Air Force F-16s shot down drones over Romanian territorial waters. Earlier this week, two chemical tankers were hit by drones near Romania's ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Egypt's Ssisi says he'll defend Saudi Arabia, if asked",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/egypt-s-ssisi-says-he-ll-defend-saudi-arabia-if-asked/a-79689105?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Egyptian president said his country was ready to defend Saudi Arabia \"if requested.\" The comments come amid escalating Houthi attacks...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "West Bank: Israeli settlers attack EU diplomats, French mayor",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/west-bank-israeli-settlers-attack-eu-diplomats-french-mayor/a-79688819?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A group of Israeli settlers attacked vehicles carrying European diplomats in the West Bank, a day after an American photographer was beaten. Belgium a..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How big is Russia's threat against Germany?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Experts believe that, so far, Germany has been ill-prepared \u2014 both militarily and mentally \u2014 for Russian provocations. They also warn against the idea..."
     }
 ]
