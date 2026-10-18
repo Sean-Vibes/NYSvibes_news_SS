@@ -71,17 +71,24 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "JD Vance faces tough questions on Iran war, immigration and gas prices in town hall",
-        "image": "https://media.zenfs.com/en/cbs_news_897/ff85ed8c9f8f8e736db73dc882fe81d0.jpg",
-        "link": "https://www.cbsnews.com/news/jd-vance-cbs-town-hall-highlights-michigan/",
-        "summary": "<p></p><p></p><p>In an hour-long town hall hosted by CBS News, Vice President JD Vance argued the Trump administration's handling of the economy and I..."
+        "title": "Trump approval hits record low, handing Democrats a clear midterm edge",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-10/6a56e191-82c6-4bed-a773-c01efe64f9db",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-approval-hits-record-low-140856093.html",
+        "summary": "<p style=\"text-align: left;\">Two weeks from Election Day, Republicans face a bleak political landscape. President Donald Trump's approval rating has f..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Multiple deaths and injuries after 'disaster' at Canadian military training base",
+        "title": "A dramatic El Ni\u00f1o effect is headed for the West Coast",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/79b4aba39c695f50e124ed013a2146bd.png",
+        "link": "https://www.usatoday.com/story/news/weather/2026/10/18/el-nino-atmospheric-rivers-west-coast/92248452007/",
+        "summary": "<p>One of El Ni\u00f1o\u2019s most dramatic effects is waiting in the wings and could soon cause chaos along the West Coast, especially in California, forecaste..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Carney says 4 service members killed, dozens injured in fire at Alberta military base",
         "image": "https://media.zenfs.com/en/ap.org/da1bc4dde352c1b761b54bff16922716.jpg",
         "link": "https://www.yahoo.com/news/world/articles/canadas-prime-minister-says-serious-011835296.html",
-        "summary": "<p>EDMONTON, Alberta (AP) \u2014 Canada\u2019s defense minister said Saturday that people were killed and injured in an incident at a military base in Alberta t..."
+        "summary": "<p>EDMONTON, Alberta (AP) \u2014 Canadian Prime Minister Mark Carney said Sunday that four service members were killed and dozens more seriously injured in..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -92,17 +99,31 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Dad crawled through broken window to stop gunman at daughters' school, family says",
-        "image": "https://media.zenfs.com/en/cbs_news_897/7224771fd0b3019acd2e095e248b6123.jpg",
-        "link": "https://www.cbsnews.com/news/oregon-school-shooter-bystander-identified-silver-rail-elementary/",
-        "summary": "<p></p><p></p><p>The bystander who stepped in to stop a\u00a0<a href=\"https://www.cbsnews.com/live-updates/oregon-silver-rail-elementary-shooting-bend/?fta..."
+        "title": "What are self-replicating 'AI worms', and why is Anthropic worried about them?",
+        "image": "https://media.zenfs.com/en/the_guardian_765/25a0b9d82fa74f23561ec6c1c110f877.jpg",
+        "link": "https://tech.yahoo.com/cybersecurity/articles/self-replicating-ai-worms-why-133000706.html",
+        "summary": "<figure>\n<img src=\"https://media.zenfs.com/en/the_guardian_765/19165cfceb78652cfda38e028ed57cd0.jpg\" />\n<figcaption>\n<span>\u2018Whatever claims the labs a..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Trump's most controversial moves have something in common: This DOJ office",
-        "image": "https://media.zenfs.com/en/washington_post_articles_265/d9a27b2bcb86fb90a2349295f4da72db.jpg",
-        "link": "https://washingtonpost.com/national-security/2026/10/18/meet-small-doj-unit-approving-some-trumps-most-controversial-policies/",
-        "summary": "<p>When White House officials wanted to know if President Donald Trump could send the U.S. military to help capture President Nicol\u00e1s Maduro in Venezu..."
+        "source": "Deutsche Welle",
+        "title": "Saudi Arabia sends skyscraper employees home amid Houthi threats",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/saudi-arabia-sends-skyscraper-employees-home-amid-houthi-threats/a-79693225?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Riyadh's Kingdom Center tower's management told the people employed there to work from home \"until further notice,\" without giving a reason. This come..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Meloni backs police after cost-of-living protests turn violent in Italian cities",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/meloni-backs-police-after-cost-of-living-protests-turn-violent-in-italian-cities/a-79692755?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Anger over living costs and low wages has brought Italians onto the streets. A major union has called a general strike for November 20...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine apologizes after a suspected drone crashes in Lithuania, damaging a moving car.",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-apologizes-after-a-suspected-drone-crashes-in-lithuania-damaging-a-moving-car/a-79692905?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Debris has damaged a moving car in Lithuania, where NATO jets were scrambled. Kyiv says Russian jamming may have diverted drones targeting Russia...."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/france-young-voters-blase-about-glucksmann-s-socialists/a-79684159?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Raphael Glucksmann wants to lead France's Socialists to power without working with the left-populist Jean-Luc Melenchon, who is particularly popular w..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Is Germany's eight-hour workday under threat?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/is-germany-s-eight-hour-workday-under-threat/a-79680984?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Would you work 12 hours straight? The CDU/CSU and SPD are locked in a dispute over reforms to the Working Hours Act. Workplace flexibility, collective..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "France reports more than 1,800 arrests after riots, looting and arson during cost-of-living protests",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/france-reports-more-than-1-800-arrests-after-riots-looting-and-arson-during-cost-of-living-protests/a-79692322?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Rioters torched public buildings and looted shops across France, destroying Limoges' historic town hall. The violence erupted during nationwide cost-o..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Vietnam signs free trade deal with four European countries",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/vietnam-signs-free-trade-deal-with-four-european-countries/a-79691812?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Vietnam has signed a deal with four non-EU members that covers trade in goods and services, intellectual property rights, and sustainable development,..."
     }
 ]
