@@ -71,6 +71,20 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Ramaswamy faces growing criticism over ad featuring Ohio rival's estranged mom",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/1f7ac06c61f79f51566e55904d972d0f.jpg",
+        "link": "https://www.usatoday.com/story/news/politics/elections/2026/10/20/amy-acton-vivek-ramaswamy-political-ad-ohio-politicians-react/92355910007/",
+        "summary": "<p>A chorus of condemnation from some Ohio politicians is growing against Ohio Republican gubernatorial candidate <a href=\"https://www.usatoday.com/ne..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Supreme Court rulings have been 'destructive to our democracy,' Justice Kagan says",
+        "image": "https://media.zenfs.com/en/reuters.com/f3da2b906509429561003479863ab556.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/us-high-court-rulings-destructive-013650423.html",
+        "summary": "<p>By Jan Wolfe </p> <p>  WASHINGTON, Oct 20 (Reuters) - US Supreme Court Justice Elena Kagan on Tuesday said the court's conservative majority has un..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Elon Musk ordered Starlink slowdown in Ukraine, sources say",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.cbsnews.com/news/elon-musk-ukraine-spacex-starshield-trump-administration/",
@@ -78,65 +92,51 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump says Russia 'has been fine on Ukraine' as he makes deals with Putin",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-trump-russia_9935.jpg",
-        "link": "https://www.yahoo.com/news/world/article/trump-says-russia-has-been-fine-on-ukraine-as-he-makes-new-deals-with-putin-will-his-strategy-pay-off-202502585.html",
-        "summary": "<p style=\"text-align: left;\">A series of Trump administration moves over the last two weeks \u2014 including decisions to lift sanctions on Russian diesel ..."
+        "title": "Major loss of California beaches predicted in latest climate forecast",
+        "image": "https://media.zenfs.com/en/la_times_articles_853/11c76ecda6ce0ed259891a326c0ef789.jpg",
+        "link": "https://www.yahoo.com/news/science/articles/major-loss-california-beaches-predicted-222313361.html",
+        "summary": "<figure><img alt=\"Waves continue to hit homes on Tuesday, Oct. 13, 2026 in Long Beach, CA.\" height=\"560\" src=\"https://media.zenfs.com/en/la_times_arti..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump unveils fraud whistleblower rewards, but he gets to decide who gets paid",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.cbsnews.com/news/trump-us-compensate-fraud-whistleblowers/",
-        "summary": "<p></p><p></p><p>Washington \u2014 President Trump on Tuesday announced the federal government will compensate whistleblowers who report people defrauding ..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "U.S. citizen injured during ICE detainment in California, officials say",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/77a1389e3336f814f7b8865c6d0b4047.jpg",
-        "link": "https://abcnews.com/US/us-citizen-injured-ice-detainment-long-beach-california/story?id=137397850",
-        "summary": "<div><p>California officials are calling for an investigation after they say a man was injured while being detained by federal immigration agents, who..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Musk opens the door to a SpaceX-Tesla merger as shareholders weigh a deal",
-        "image": "https://media.zenfs.com/en/afp.com/2f6c5c8f9ad5661f4f225f23518c4135.jpg",
-        "link": "https://finance.yahoo.com/technology/ai/articles/musk-says-backs-spacex-tesla-220507985.html",
-        "summary": "<figure><img src=\"https://media.zenfs.com/en/afp.com/2f6c5c8f9ad5661f4f225f23518c4135.jpg\" /><figcaption>Elon Musk's rocket and AI company posted net ..."
+        "title": "Why would Elon Musk want to merge SpaceX and Tesla?",
+        "image": "https://media.zenfs.com/en/reuters.com/146c7f60eb285caeba48832fd567e90a.jpg",
+        "link": "https://finance.yahoo.com/news/explainer-why-musk-merge-spacex-020904506.html",
+        "summary": "<p>By Joe Brock </p> <p>  Oct 21 (Reuters) - Elon Musk believes a merger between Tesla and SpaceX is a good idea, he said on Tuesday, publicly backing..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "UK fighter jets to protect Saudi Arabia from Houthi attacks",
+        "title": "Germany news: 'Tech error' brings early cigarette tax hike",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-fighter-jets-to-protect-saudi-arabia-from-houthi-attacks/a-79718467?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The UK is sending military support to Saudi Arabia as Iran-aligned Houthi rebels launch repeated attacks on the kingdom...."
+        "link": "https://www.dw.com/en/germany-news-tech-error-brings-early-cigarette-tax-hike/live-79719483?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany's Finance Ministry has said the tax hike went into effect months early due to a \"technical error.\" AfD co-Chair Alice Weidel will present \"A N..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Portugal housing protests continue after police clear camps",
+        "title": "Football: German coach H\u00fcrzeler flying high in Premier League",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/portugal-housing-protests-continue-after-police-clear-camps/a-79717904?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Demonstrators vow to continue their campaign to call for affordable housing in Portugal after police cleared tent camps and arrested at least 55 peopl..."
+        "link": "https://www.dw.com/en/football-german-coach-h\u00fcrzeler-flying-high-in-premier-league/a-79714763?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Fabian H\u00fcrzeler is younger than his star player, a fellow Premier League German. But, contrary to his reputation in his homeland, H\u00fcrzeler has become ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "AfD's Alice Weidel to unveil plan to cut EU powers \u2014 report",
+        "title": "US envoy to meet Putin after 'positive' talks with Zelenskyy",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/afd-s-alice-weidel-to-unveil-plan-to-cut-eu-powers-report/a-79717944?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The far-right AfD will propose slashing powers of the European Union when it presents its policy paper on Wednesday, Politico reports...."
+        "link": "https://www.dw.com/en/us-envoy-to-meet-putin-after-positive-talks-with-zelenskyy/a-79719452?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Steve Witkoff landed in St Petersburg for talks on ending the war in Ukraine. It comes a day after he met with Ukrainian President Volodomyr Zelenskyy..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Zelenskyy visits Norway amid Trump White House tensions",
+        "title": "India news: India-US trade deal 'pretty close,' says Trump",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/zelenskyy-visits-norway-amid-trump-white-house-tensions/a-79717354?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ukrainian President Zelenskyy met with Norwegian and Finnish leaders in Oslo and held talks with Trump envoys Steve Witkoff and Jared Kushner. Trump i..."
+        "link": "https://www.dw.com/en/india-news-india-us-trade-deal-pretty-close-says-trump/live-79719383?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "US President Donald Trump hinted that the US-India trade deal could look different from the previous ones. Follow DW for more...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Nigeria records its first Ebola case, in capital Abuja",
+        "title": "Musk says SpaceX-Tesla merger 'good idea' as companies explore union",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Nigeria has reported its first known case of Ebola during Africa's latest outbreak originating in the DRC. Health Minister Muhammad Ali Pate said the ..."
+        "link": "https://www.dw.com/en/musk-says-spacex-tesla-merger-good-idea-as-companies-explore-union/a-79719220?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Musk confirmed the long standing speculation of a possible merger between Tesla and SpaceX but warned that it would be premature to assume it is happe..."
     }
 ]
