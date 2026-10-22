@@ -71,31 +71,24 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "There was little fuss about data centers in the last election. Now they could sway the midterms.",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-midterms-datacenters_7725.png",
-        "link": "https://tech.yahoo.com/general/article/there-was-little-fuss-about-data-centers-in-the-last-election-now-they-could-sway-the-midterms-165906288.html",
-        "summary": "<p style=\"text-align: left;\">Opposition to data centers, an issue barely on anyone's radar in the 2024 election, has now <a class=\"link\" href=\"https:/..."
+        "title": "Trump admin. seeks emergency Supreme Court order to restart Texas border wall",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.yahoo.com/news/articles/trump-asks-us-supreme-court-220351669.html",
+        "summary": "<p>By Andrew Chung </p> <p>  Oct 21 (Reuters) - President Donald Trump's administration asked the US Supreme Court on Wednesday to let it proceed with..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "JD Vance tells Republicans to 'stop whining' over controversial Ramaswamy ad",
-        "image": "https://media.zenfs.com/en/politico_453/189b0fea2e313b5df86d83fc756ef734.jpg",
-        "link": "https://www.politico.com/news/2026/10/21/jd-vance-ramaswamy-ohio-ad-republicans-01129287",
-        "summary": "<p>Vice President JD Vance dismissed criticism over a controversial ad from Ohio GOP gubernatorial candidate Vivek Ramaswamy\u2019s campaign on Wednesday, ..."
+        "title": "Amy Acton's estranged mom stars in a GOP attack ad. Their painful history spans decades.",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-amy-acton_3621.jpg",
+        "link": "https://www.yahoo.com/news/politics/article/who-is-amy-acton-the-ohio-gubernatorial-candidate-at-the-center-of-a-campaign-ad-controversy-involving-her-estranged-mother-193022496.html",
+        "summary": "<p style=\"text-align: left;\">A new campaign ad in which the estranged mother of Ohio gubernatorial candidate Amy Acton argues that her daughter should..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Who cut Ukraine's Starlink speeds? White House and Musk offer conflicting accounts.",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-trump-elon-musk_0935.jpg",
-        "link": "https://www.yahoo.com/news/us/article/who-cut-ukraines-starlink-speeds-musk-and-the-white-house-offer-conflicting-accounts-185435059.html",
-        "summary": "<p style=\"text-align: left;\">U.S. Secretary of State Marco Rubio on Wednesday pushed back against suggestions that the Trump administration had ordere..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Trump considers moving reporters out of the White House after 100 years",
-        "image": "https://media.zenfs.com/en/cbs_news_897/05cb08249c7b2721b9e9c9db3e26b390.jpg",
-        "link": "https://www.cbsnews.com/news/trump-white-house-press-corps/",
-        "summary": "<p></p><p></p><p>President Trump has discussed the possibility of moving the White House press corps to another building, according to two people clos..."
+        "title": "JD Vance tells Republicans to stop 'whining' over controversial Ramaswamy ad",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.usatoday.com/story/news/politics/2026/10/21/jd-vance-defends-vivek-ramaswamy-controversial-ad/92368703007/",
+        "summary": "<p>Vice President <a href=\"https://www.usatoday.com/news/politics/jd-vance/\">JD Vance</a> on Wednesday, Oct. 21, defended Ohio gubernatorial candidate..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -103,6 +96,34 @@
         "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-typhoon-2_4053.jpg",
         "link": "https://www.yahoo.com/news/weather-news/article/super-typhoon-champi-becomes-one-of-2026s-strongest-storms-as-it-heads-toward-taiwan-and-eastern-china-212554537.html",
         "summary": "<p style=\"text-align: left;\">Super Typhoon Champi, which is barreling across the western Pacific Ocean, became one of the strongest storms on Earth in..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Washington orders U.S. embassy staff to leave Saudi Arabia after near-daily Houthi attacks",
+        "image": "https://media.zenfs.com/en/afp.com/c3b12f247545e60457dae65b3cf6c4f6.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/washington-orders-us-embassy-staff-203401687.html",
+        "summary": "<figure><img src=\"https://media.zenfs.com/en/afp.com/c3b12f247545e60457dae65b3cf6c4f6.jpg\" /><figcaption>Saudi Arabia has faced near-daily attacks fro..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Pope Leo will not need further cancer treatment \u2014 Vatican",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/pope-leo-will-not-need-further-cancer-treatment-vatican/a-79727154?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Pope Leo's lung cancer surgery last week was a success, the Vatican said. The pope broke with traditions of secrecy around papal health issues after a..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "German youth plan France-style mass protests",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/german-youth-plan-france-style-mass-protests/a-79727133?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A youth-led movement in Germany has called for demonstrations in major cities of the country on October 31...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "France bans protests in parts of Paris as Macron slams Trump",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/france-bans-protests-in-parts-of-paris-as-macron-slams-trump/a-79727141?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "French President Emmanuel Macron railed against \"stupid\" comments made by foreign leaders for their political purposes. Plus, Paris police are set to ..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Moscow is pushing for a summit with Donald Trump and Xi Jinping to discuss ending the war in Ukraine, without Kyiv or the EU. What does Russia hope to..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Meta ordered to pay $25 billion in Cambridge Analytica case",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/meta-ordered-to-pay-25-billion-in-cambridge-analytica-case/a-79726486?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A New Mexico judge ordered Facebook's parent company, Meta, to pay $25 billion for misleading users over the Cambridge Analytica breach, which took pl..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "PHP developers say key patches available after global scare",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/php-developers-say-key-patches-available-after-global-scare/a-79725938?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Newly discovered vulnerabilities in the PHP programming language have put millions of websites at risk, with government agencies sounding alarms and t..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Raids at far-right group's offices at European Parliament",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/raids-at-far-right-group-s-offices-at-european-parliament/a-79724631?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Authorities searched the Patriots for Europe's European Parliament offices in a long-running funding inquiry. The group says the charges pertain to it..."
     }
 ]
