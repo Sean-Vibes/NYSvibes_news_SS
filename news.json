@@ -1,6 +1,27 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Massachusetts Voters Think Legal Marijuana Has Been Good For The Economy, Criminal Justice And Communities, Poll Shows",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/massachusetts-voters-think-legal-marijuana-has-been-good-for-the-economy-criminal-justice-and-communities-poll-shows/",
+        "summary": "<p>As Massachusetts voters prepare to vote on an initiative on the November ballot to roll back the state&#8217;s marijuana legalization law, a new po..."
+    },
+    {
+        "source": "Marijuana Moment",
+        "title": "Why Two New York Firefighters Are Suing The Government Over The Right To Use Medical Marijuana (Op-Ed)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/why-two-new-york-firefighters-are-suing-the-government-over-the-right-to-use-medical-marijuana-op-ed/",
+        "summary": "<p>&#8220;Public safety and fair treatment for medical cannabis patients can both be taken seriously. We should be able to distinguish evidence of pas..."
+    },
+    {
+        "source": "Marijuana Moment",
+        "title": "DEA opposes cannabis rescheduling opponents\u2019 move to delay hearing (Newsletter: October 22, 2026)",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/dea-opposes-cannabis-rescheduling-opponents-move-to-delay-hearing-newsletter-october-22-2026/",
+        "summary": "<p>GOP congressman asks FBI to probe marijuana operations; MA medical cannabis expansion; Poll: Consumers will weigh candidates&#8217; marijuana stanc..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "DEA Opposes Marijuana Rescheduling Opponents\u2019 Request For New Testimony And Document Discovery In Ongoing Hearing",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/dea-opposes-marijuana-rescheduling-opponents-request-for-new-testimony-and-document-discovery-in-ongoing-hearing/",
@@ -14,25 +35,11 @@
         "summary": "<p>Kentucky&#8217;s governor is continuing to tout the buildout of the state&#8217;s medical marijuana program following the opening of the 26th opera..."
     },
     {
-        "source": "Marijuana Moment",
-        "title": "Massachusetts Bill To Let Military Veterans Get Medical Marijuana Without A Doctor\u2019s Recommendation Advances",
+        "source": "MJBizDaily",
+        "title": "Design mistakes cannabis operators can\u2019t afford to retrofit",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/massachusetts-bill-to-let-military-veterans-get-medical-marijuana-without-a-doctors-recommendation-advances/",
-        "summary": "<p>Massachusetts lawmakers have given initial approval to legislation containing provisions aimed at increasing military veterans&#8217; access to med..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Most Marijuana Consumers Will Decide Who To Vote For In Next Month\u2019s Elections Based On Candidates\u2019 Cannabis Stances, Poll Shows",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/most-marijuana-consumers-will-decide-who-to-vote-for-in-next-months-elections-based-on-candidates-cannabis-stances-poll-shows/",
-        "summary": "<p>Most people who consume marijuana say that they will be taking candidates&#8217; stances on cannabis policy into account when deciding who to vote ..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Nebraska Medical Marijuana Cultivators Ask State Officials To Change Rules On Testing, Fees And Doctor Protections",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/nebraska-medical-marijuana-cultivators-ask-state-officials-to-change-rules-on-testing-fees-and-doctor-protections/",
-        "summary": "<p>&#8220;We ask the Commission to consider the time current operators will need to reach revenue, accounting for any necessary laboratory licensing o..."
+        "link": "https://mjbizdaily.com/news/design-mistakes-cannabis-operators-cant-afford-to-retrofit/618130/",
+        "summary": "<p>Facility design consultant Jeremy Shechter talks about the mistakes that cost cultivators most: system flow, HVAC vendors and labor.</p>\n<p><a href..."
     },
     {
         "source": "MJBizDaily",
@@ -63,11 +70,25 @@
         "summary": "<p>A state-licensed, third-party lab tested a commercial batch from the FX-8 flower infusion machine. The pharmaceutical limit for an evenly mixed ble..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Poor state oversight let potentially contaminated cannabis reach Colorado consumers, audit finds",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/lax-oversight-and-slow-enforcement-allowed-let-colorado-cannabis-products-reach-consumers-state-audit-finds/618759/",
-        "summary": "<p>Colorado cannabis regulators are too slow and rules too lax to keep potentially contaminated cannabis products from reaching store shelves, a new s..."
+        "source": "yahoo.com/news Top Stories",
+        "title": "U.S. reportedly considering major strikes on Iran after the midterms",
+        "image": "https://media.zenfs.com/en/time_72/bf6b5c3fda984ae51c2274e556a55809.jpg",
+        "link": "https://time.com/article/2026/10/22/us-israel-iran-war-strikes-midterms/",
+        "summary": "<section><figure><img src=\"https://media.zenfs.com/en/time_72/bf6b5c3fda984ae51c2274e556a55809.jpg\" /><figcaption>The national flag of Iran hangs on a..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Russia pounds Kyiv with missiles and drones, hours after agreeing to peace talks",
+        "image": "https://media.zenfs.com/en/ap.org/fc3ff9073515970cb234c220cabb17d5.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/russia-pounds-ukraines-capital-kyiv-071241165.html",
+        "summary": "<p>KYIV, Ukraine (AP) \u2014 Russia bombarded Kyiv with ballistic missiles in an hourslong nighttime barrage, while the Russian military said Thursday that..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "This Nebraska independent could decide which party controls the Senate",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-dan-osborn_6538.jpg",
+        "link": "https://www.yahoo.com/news/politics/article/who-is-dan-osborn-meet-the-nebraska-independent-who-could-decide-which-party-controls-the-senate-180211567.html",
+        "summary": "<p style=\"text-align: left;\">The biggest question heading into November's midterms is whether, once all votes have been counted, Democrats or Republic..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -78,65 +99,44 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Senate debates in Michigan and Kansas put loyalty to Trump and America in focus",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/3b444b766ff56187a15c97d6251273f6.jpg",
-        "link": "https://www.cnn.com/2026/10/21/politics/michigan-kansas-senate-debates",
-        "summary": "<figure><img alt=\"US Senate candidates Democrat Abdul El-Sayed, left, and Republican Mike Rogers shake hands after the debate on Wednesday, October 21..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Early voting surges in states that could decide Senate control",
-        "image": "https://media.zenfs.com/en/ap.org/ca40b22a677b55bd0a2256b90775314f.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/many-states-could-determine-control-215938070.html",
-        "summary": "<p>WASHINGTON (AP) \u2014 Voter turnout is soaring compared with the last midterm election in many of the states that are expected to <a href=\"https://apne..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Gas, groceries, energy: Where prices stand ahead of midterm elections",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/8c00cd050f9dc53498bcd8585fc6f197.jpg",
-        "link": "https://thehill.com/business/6163770-september-inflation-uptick-prices-midterms/",
-        "summary": "<figure><img height=\"506\" src=\"https://media.zenfs.com/en/the_hill_articles_341/8c00cd050f9dc53498bcd8585fc6f197.jpg\" width=\"900\" /></figure>\n<p>Septe..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Nebraska independent could decide which party controls the Senate",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-dan-osborn_6538.jpg",
-        "link": "https://www.yahoo.com/news/politics/article/who-is-dan-osborn-meet-the-nebraska-independent-who-could-decide-which-party-controls-the-senate-180211567.html",
-        "summary": "<p style=\"text-align: left;\">The biggest question heading into November's midterms is whether, once all votes have been counted, Democrats or Republic..."
+        "title": "Nvidia CEO Jensen Huang says data center builders have to be 'good neighbors'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://finance.yahoo.com/technology/article/nvidia-ceo-jensen-huang-says-data-center-builders-have-to-be-good-neighbors-132705446.html",
+        "summary": "<p style=\"text-align: left;\">Nvidia (<a class=\"link\" href=\"https://finance.yahoo.com/quote/NVDA/\" rel=\"\" target=\"_blank\">NVDA</a>) CEO Jensen Huang sa..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "India news: CJP leaders Saurav Das, Ashutosh Ranka released from Tihar Jail",
+        "title": "India news: Gandhi's nephew forced to pull protest photos",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-cjp-leaders-saurav-das-ashutosh-ranka-released-from-tihar-jail/live-79727462?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The two Cockroach Janta Party leaders were released after pledging not to call for protests at Delhi's Jantar Mantar amid demonstrations demanding CEC..."
+        "link": "https://www.dw.com/en/india-news-gandhi-s-nephew-forced-to-pull-protest-photos/live-79727462?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The requested removal of \"objectionable\" photos from a cultural center took place in state run by Modi's BJP. DW has more...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Ukraine, Russia trade strikes after Witkoff talks",
+        "title": "France confirms first Shamonda virus infection in a human death of 'severely immunocompromised' individual",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-russia-trade-strikes-after-witkoff-talks/a-79727542?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Soon after Putin and Zelenskyy expressed willingness to resume US-mediated talks, Russia and Ukraine traded major attacks on each other's capitals...."
+        "link": "https://www.dw.com/en/france-confirms-first-shamonda-virus-infection-in-a-human-death-of-severely-immunocompromised-individual/a-79731991?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Shomonda virus has been detected in a human for the first time, French health officials said. Authorities see no risk to the public, adding that t..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Austrian, Swiss women kidnapped in Niger are freed \u2014 report",
+        "title": "Iran's Balochistan border region sees growing unrest",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/austrian-swiss-women-kidnapped-in-niger-are-freed-report/a-79727419?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "An Austrian woman and a Swiss woman kidnapped in Niger have been freed after 18 months in captivity, local reports say...."
+        "link": "https://www.dw.com/en/iran-s-balochistan-border-region-sees-growing-unrest/a-79716399?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Violence is on the rise in Iran's border region with Afghanistan and Pakistan. The Iran war could shift the strategic balance for militant groups oper..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "US orders some diplomats to leave Saudi Arabia amid Houthi threat",
+        "title": "Ukraine: Life near the front line in Sloviansk",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-orders-some-diplomats-to-leave-saudi-arabia-amid-houthi-threat/a-79727353?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US State Department has asked some US diplomats to leave Saudi Arabia because of the threat of Houthi attacks on the Gulf kingdom...."
+        "link": "https://www.dw.com/en/ukraine-life-near-the-front-line-in-sloviansk/a-79722636?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "As Russian continues to attack Sloviansk in eastern Ukraine, thousands of residents refuse to leave or struggle to find a way out. For many, poverty, ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Pope Leo will not need further cancer treatment \u2014 Vatican",
+        "title": "Germany arrests Ukrainian man suspected of spying for Russia",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pope-leo-will-not-need-further-cancer-treatment-vatican/a-79727154?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Pope Leo's lung cancer surgery last week was a success, the Vatican said. The pope broke with traditions of secrecy around papal health issues after a..."
+        "link": "https://www.dw.com/en/germany-arrests-ukrainian-man-suspected-of-spying-for-russia/a-79732373?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The suspect is thought to have gathered defense-related information on the production of tanks and munitions, as well as details about NATO's eastern ..."
     }
 ]
