@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "Oklahoma medical marijuana czar quits as $600 million industry future uncertain",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/oklahoma-medical-marijuana-czar-quits-as-600-million-industry-future-uncertain/618848/",
+        "summary": "<p>Oklahoma's marijuana czar announced her departure this week, leaving a much-reduced industry in her wake - and unanswered questions about its futur..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "How accessory sales reveal the future of cannabis retail",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/how-accessory-sales-reveal-the-future-of-cannabis-retail/618840/",
@@ -63,25 +70,11 @@
         "summary": "<p>Every year, cannabis operators lose product, face regulatory action, or pay out-of-pocket to replace noncompliant packaging - not because they didn..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Design mistakes cannabis operators can\u2019t afford to retrofit",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/design-mistakes-cannabis-operators-cant-afford-to-retrofit/618130/",
-        "summary": "<p>Facility design consultant Jeremy Shechter talks about the mistakes that cost cultivators most: system flow, HVAC vendors and labor.</p>\n<p><a href..."
-    },
-    {
         "source": "yahoo.com/news Top Stories",
-        "title": "Ramaswamy's Ohio attack ad prompts debate over what's fair game in politics",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-10/07ce15f9-948e-46ce-ba0b-7746938f2695",
-        "link": "https://www.yahoo.com/news/politics/articles/ramaswamy-ohio-attack-ad-shows-010345408.html",
-        "summary": "<p style=\"text-align: left;\">President Donald Trump's brand of brash, sometimes offensive, politics has consumed the Republican Party for a decade. Bu..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Trump admin. seeks to block Alaska Senate result if Dan Sullivan narrowly loses",
-        "image": "https://media.zenfs.com/en/newsweek_sports_200/bbe5624f8b939f771f206562e4398ba3.jpg",
-        "link": "https://www.newsweek.com/trump-admin-seeks-to-block-alaska-senate-result-if-dan-sullivan-loses-12609148",
-        "summary": "<p>The <a href=\"https://www.newsweek.com/topic/trump-administration\">Trump administration</a> aims to stop <a href=\"https://www.newsweek.com/topic/ala..."
+        "title": "Trump says he ordered lawsuit to potentially block certification of Alaska Senate race",
+        "image": "https://media.zenfs.com/en/ap.org/3117f52e6c980540dc2dd24600d7473e.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-sues-block-alaska-144654098.html",
+        "summary": "<p>President Donald Trump on Friday said he told his administration to <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.usc..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -92,51 +85,58 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Elon Musk is preparing for a Democratic Congress and warns he'll fight back",
-        "image": "https://media.zenfs.com/en/washington_post_articles_265/8870c0af89a6bfcf160ed26d391e61c2.jpg",
-        "link": "https://washingtonpost.com/technology/2026/10/23/musk-says-he-will-fight-back-if-congressional-democrats-investigate-doge/",
-        "summary": "<p>Elon Musk has adopted a war posture in response to looming threats of congressional investigations: If Democrats win control of Congress in next mo..."
+        "title": "Kushner pushes back on report involving phone, spies, transfer",
+        "image": "https://media.zenfs.com/en/cbs_news_897/f1af5876ab89e365ab0ea5bf7514dac6.jpg",
+        "link": "https://www.cbsnews.com/news/jared-kushner-pushes-back-report-hacked-phone-spies-transfer/",
+        "summary": "<p></p><p></p><p><a href=\"https://www.cbsnews.com/tag/jared-kushner/?ftag=YHF4eb9d17\">Jared Kushner</a> is pushing back on a report involving a hacked..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Minnesota officials say U.S. government stopped sharing evidence on fatal ICE shootings",
-        "image": "https://media.zenfs.com/en/the_guardian_765/925b1957bdd4fbb185c965b63fc6541d.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/minnesota-officials-us-government-stopped-124647149.html",
-        "summary": "<figure>\n<img src=\"https://media.zenfs.com/en/the_guardian_765/24c78d716ac275aa7a510adc263ac788.jpg\" />\n<figcaption>\n<span>A card with images depictin..."
+        "title": "Oil prices hit 6-month high over fears of escalating fighting in the Middle East",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://finance.yahoo.com/markets/article/brent-crude-tops-116-as-traders-price-in-middle-east-escalation-192101547.html",
+        "summary": "<p style=\"text-align: left;\">Oil prices climbed to a 6-month high on Friday as traders priced the odds of escalating fighting in the Middle East.  Att..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Trump administration seeks new grocery store labels identifying U.S.-caught seafood",
+        "image": "https://media.zenfs.com/en/cbs_news_897/d1e7da917f2ac7f039061d93eeab03bd.jpg",
+        "link": "https://www.cbsnews.com/news/trump-administration-seafood-labels/",
+        "summary": "<p></p><p></p><p>The Trump administration intends to push for new labels on seafood sold at grocery stores to give consumers a better idea of where pr..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ebola: Kenya announces second death",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ebola-kenya-announces-second-death/a-79747550?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Kenyan health officials said the 65-year-old \u200bwoman was a close \u200crelative of a \u200c\u200bman who died of Ebola last month. The woman developed symptoms \u200cwhile..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Trump eases Canada tariffs ahead of US midterms",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/trump-eases-canada-tariffs-ahead-of-us-midterms/a-79747634?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The move comes as Trump's Republican Party scrambles to maintain control of the US Congress, with a Republican candidate in a key Senate race saying s..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Russia's attacks on the Ukrainian capital are hitting harder and more frequently, making 2026 one of the long war's bloodiest years for Kyiv. DW asked..."
     },
     {
         "source": "Deutsche Welle",
         "title": "Jordan: Karak church shooting leaves 7 dead, dozens injured",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead-dozens-injured/a-79743535?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A shooting at a Greek Orthodox church in southern Jordan happened during a funeral, according to local authorities. Two unidentified men opened fire o..."
+        "summary": "A shooting at a Greek Orthodox church in southern Jordan happened during a funeral, according to authorities. Two unidentified men opened fire on the ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Afghan women could lose one of their last paths to a higher education",
+        "title": "Russia, Ukraine agree to US-brokered, 1 city ceasefire",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/afghan-women-could-lose-one-of-their-last-paths-to-a-higher-education/a-79745173?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US has defunded one of the last universities giving Afghan women the chance to receive an education after the Taliban takeover in 2021. DW spoke w..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Romania blames Russia for ship attack in the Black Sea",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/romania-blames-russia-for-ship-attack-in-the-black-sea/a-79743425?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russian strikes against ships attempting to export Ukrainian grain and cargo through the western Black Sea have sharply increased this month...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine tries to shut Moscow's airports with drone strikes on Russia",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-tries-to-shut-moscow-s-airports-with-drone-strikes-on-russia/a-79737469?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Repeated Ukrainian drone attacks are increasingly disrupting operations at Moscow's airports. The pounding is part of Ukraine's plan to shut down Russ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Many feared trapped under collapsed building in Nairobi",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/many-feared-trapped-under-collapsed-building-in-nairobi/a-79744598?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "People are feared to be trapped after a large, unfinished building in Nairobi collapsed during construction. Rescue operations have proven complicated..."
+        "link": "https://www.dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Ukrainian city of Oleshky, occupied by Russia and on the frontline, faces a humanitarian crisis. The localized truce comes as Ukrainian President ..."
     }
 ]
