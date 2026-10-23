@@ -71,6 +71,27 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Veterans ask federal judge to block Trump's arch unless Congress approves it",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/52b0aa507cb504b5a9ad20bc55a23ad1.jpg",
+        "link": "https://abcnews.com/Politics/veterans-federal-judge-block-trumps-arch-congress-approves/story?id=137493537",
+        "summary": "<div><p>With the Trump administration signaling that work on the <a dir=\"ltr\" href=\"https://abcnews.com/Politics/triumphal-arch-final-plans-submitted-..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Supreme Court sides with Republicans in New Hampshire student ID voting fight",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/e696544fe84061185b0fe3e443957571.jpg",
+        "link": "https://www.usatoday.com/story/news/politics/2026/10/22/supreme-court-student-id-vote-republican-new-hampshire/92335101007/",
+        "summary": "<p>WASHINGTON \u2013 The <a href=\"https://www.usatoday.com/news/politics/supreme-court/\" target=\"_blank\">Supreme Court</a> said New Hampshire can fully enf..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Meta struck an unusual deal to keep Mark Zuckerberg from leaving California",
+        "image": "https://media.zenfs.com/en/la_times_articles_853/8175d2ff93d693c0a012247ec39f7175.jpg",
+        "link": "https://finance.yahoo.com/technology/articles/meta-struck-deal-keep-mark-204441885.html",
+        "summary": "<figure><img alt=\"Meta CEO Mark Zuckerberg has made a deal so that his voting majority doesn't decrease in case the billionaire tax passes.\" height=\"5..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "DOJ investigating Corey Lewandowski's role in DHS contracting under Kristi Noem",
         "image": "https://media.zenfs.com/en/cnn_articles_875/43ff28dc991d87ae4a2b0b4fa5a6cbb2.jpg",
         "link": "https://www.cnn.com/2026/10/22/politics/republican-corey-lewandowski-justice-department-investigation",
@@ -78,31 +99,17 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Iran says 7 oil tankers attacked in the Strait of Hormuz as fears grow of a return to war",
-        "image": "https://media.zenfs.com/en/ap.org/7bbe8145082bfe0dc19fe3a2e85dcbb1.jpg",
-        "link": "https://www.yahoo.com/news/articles/iran-says-7-oil-tankers-085203145.html",
-        "summary": "<p>TEL AVIV, Israel (AP) \u2014 Seven oil tankers caught fire or were damaged in the <a href=\"https://apnews.com/hub/strait-of-hormuz\">Strait of Hormuz</a>..."
+        "title": "First-of-its-kind cancer vaccine cuts risk of melanoma returning by 42% in major trial",
+        "image": "https://media.zenfs.com/en/ap.org/1acfc5edc5deee9142c819d391a80e8d.jpg",
+        "link": "https://www.yahoo.com/news/science/articles/novel-mrna-cancer-vaccine-helps-213950016.html",
+        "summary": "<p>WASHINGTON (AP) \u2014 A first-of-its-kind cancer vaccine is significantly reducing the chances that melanoma patients\u2019 tumors come back, according to r..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Vivek Ramaswamy's $4 million attack ad against Amy Acton divides Ohio Republicans",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-amy-acton_3621.jpg",
-        "link": "https://www.yahoo.com/news/politics/article/who-is-amy-acton-the-ohio-gubernatorial-candidate-at-the-center-of-a-campaign-ad-controversy-involving-her-estranged-mother-193022496.html",
-        "summary": "<p style=\"text-align: left;\">A new campaign ad in which the estranged mother of Ohio gubernatorial candidate Amy Acton argues that her daughter should..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "California's billionaire tax heads to a vote, but 2 rival measures could block it",
+        "source": "Deutsche Welle",
+        "title": "Tibet earthquake kills at least 16 people, injures dozens: state media",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://finance.yahoo.com/personal-finance/taxes/article/californias-prop-40-what-to-know-about-the-billionaire-wealth-tax-202611704.html",
-        "summary": "<p style=\"text-align: left;\">The California billionaire tax, Proposition 40, is finally coming to a vote on Nov. 3. The measure would levy a one-time ..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "New York City approves ban on horse-drawn carriages. Phase-out set for 2028.",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/12345cc57d9e446431f481088cd9ebfa.jpg",
-        "link": "https://www.usatoday.com/story/news/nation/2026/10/22/horse-drawn-carriage-ban-new-york-city/92378749007/",
-        "summary": "<p>A New York tradition more than a century old is ending.</p>\n<p>The New York City Council on Oct. 22 voted to <a href=\"https://www.usatoday.com/stor..."
+        "link": "https://www.dw.com/en/tibet-earthquake-kills-at-least-16-people-injures-dozens-state-media/a-79738117?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A powerful magnitude 7 earthquake has struck Tibet in southwestern China, official media reported. Chinese state TV said it's the strongest quake to h..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/96-of-world-s-coral-reefs-face-critical-risk-of-collapse-iucn-warns/a-79736234?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Almost all of the world\u2019s shallow-water coral reefs are at risk of collapse by 2075, with climate change the biggest threat. A new study found that 96..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Canada's Mark Carney visits Turkey to boost trade ties",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/canada-s-mark-carney-visits-turkey-to-boost-trade-ties/a-79735039?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "It's the first bilateral visit by a Canadian prime minister to Turkey. Canada and Turkey upgraded their relations to a \"strategic partnership\" as Cana..."
     }
 ]
