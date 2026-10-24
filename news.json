@@ -71,8 +71,22 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Ukraine says Starlink restrictions remain despite Trump's claims they're lifted",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/bf1a75396d21e0e6055b4718f9bc3120.jpg",
+        "link": "https://www.bbc.com/news/articles/cq74pjpmx0e8o?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "summary": "<figure>\n<figcaption>Watch: Who controls Ukraine's access to Starlink?</figcaption>\n</figure><p>Ukraine is still recording issues with the Starlink in..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "'There's babies in there': Hero dad who stopped Oregon school shooter shares his story",
+        "image": "https://media.zenfs.com/en/cbs_news_897/8c9f7f7188691d6b2ce76a9853f43594.png",
+        "link": "https://www.cbsnews.com/news/hero-kaylub-giamanco-bend-oregon-shooting/",
+        "summary": "<p></p><p></p><p>Kaylub Giamanco, the man <a href=\"https://www.cbsnews.com/news/oregon-school-shooter-bystander-identified-silver-rail-elementary/?fta..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Trump says he ordered lawsuit to potentially block certification of Alaska Senate race",
-        "image": "https://media.zenfs.com/en/ap.org/3117f52e6c980540dc2dd24600d7473e.jpg",
+        "image": "https://media.zenfs.com/en/ap.org/7c74dad3f15a91e5b650c0c75dd0e0b8.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/trump-administration-sues-block-alaska-144654098.html",
         "summary": "<p>President Donald Trump on Friday said he told his administration to <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.usc..."
     },
@@ -91,18 +105,11 @@
         "summary": "<p></p><p></p><p><a href=\"https://www.cbsnews.com/tag/jared-kushner/?ftag=YHF4eb9d17\">Jared Kushner</a> is pushing back on a report involving a hacked..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Oil prices hit 6-month high over fears of escalating fighting in the Middle East",
+        "source": "Deutsche Welle",
+        "title": "France to deploy 70,000 police officers ahead of protests",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://finance.yahoo.com/markets/article/brent-crude-tops-116-as-traders-price-in-middle-east-escalation-192101547.html",
-        "summary": "<p style=\"text-align: left;\">Oil prices climbed to a 6-month high on Friday as traders priced the odds of escalating fighting in the Middle East.  Att..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Trump administration seeks new grocery store labels identifying U.S.-caught seafood",
-        "image": "https://media.zenfs.com/en/cbs_news_897/d1e7da917f2ac7f039061d93eeab03bd.jpg",
-        "link": "https://www.cbsnews.com/news/trump-administration-seafood-labels/",
-        "summary": "<p></p><p></p><p>The Trump administration intends to push for new labels on seafood sold at grocery stores to give consumers a better idea of where pr..."
+        "link": "https://www.dw.com/en/france-to-deploy-70-000-police-officers-ahead-of-protests/a-79747655?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "With new protests in France planned for this weekend, the authorities pledged to do everything in their power to prevent looting, violence and vandali..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead-dozens-injured/a-79743535?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "A shooting at a Greek Orthodox church in southern Jordan happened during a funeral, according to authorities. Two unidentified men opened fire on the ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia, Ukraine agree to US-brokered, 1 city ceasefire",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-ukraine-agree-to-us-brokered-1-city-ceasefire/a-79746723?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Ukrainian city of Oleshky, occupied by Russia and on the frontline, faces a humanitarian crisis. The localized truce comes as Ukrainian President ..."
     }
 ]
