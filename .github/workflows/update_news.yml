@@ -2,20 +2,20 @@ name: Refresh News Feed
 
 on:
   schedule:
-    - cron: '0 * * * *' # This means "Run every hour"
-  workflow_dispatch:   # This allows you to run it manually to test it
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch:   # Allows manual trigger
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.12'
 
       - name: Install dependencies
         run: pip install feedparser
