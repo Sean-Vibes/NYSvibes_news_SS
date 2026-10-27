@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "California social equity cannabis licenses top nonequity active rates",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/california-social-equity-cannabis-licenses-top-nonequity-active-rates/618858/",
+        "summary": "<p>A review of 1,653 California retail licenses finds 81% of social equity holders are active versus 76% for nonequity licenses. </p>\n<p><a href=\"http..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "Marijuana MSO sues Ohio town, claiming local fees were \u2018extortion\u2019",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/marijuana-mso-sues-ohio-town-claiming-local-fees-were-extortion/618864/",
@@ -63,11 +70,18 @@
         "summary": "<p>Oklahoma's marijuana czar announced her departure this week, leaving a much-reduced industry in her wake - and unanswered questions about its futur..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "How accessory sales reveal the future of cannabis retail",
+        "source": "yahoo.com/news Top Stories",
+        "title": "Court rejects DOJ's emergency bid to separate Calif. ballots over noncitizen claims",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/how-accessory-sales-reveal-the-future-of-cannabis-retail/618840/",
-        "summary": "<p>Cannabis retailers should start to think more like smoke shops in order to consistently attract customers and build value beyond THC products.</p>\n..."
+        "link": "https://www.yahoo.com/news/politics/articles/appeals-court-rejects-doj-bid-225518434.html",
+        "summary": "<p style=\"text-align: left;\">A federal appeals court <a class=\"link\" href=\"https://storage.courtlistener.com/recap/gov.uscourts.ca9.791f8ba7-6879-48a9..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
+        "image": "https://media.zenfs.com/en/ap.org/690a8aabdf81a9021b26aceff36da21c.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-attempting-prosecute-former-213613214.html",
+        "summary": "<p>WASHINGTON (AP) \u2014 The Trump administration is attempting to <a href=\"https://apnews.com/article/comey-justice-department-trump-russia-fbi-e28deb290..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -75,20 +89,6 @@
         "image": "https://media.zenfs.com/en/time_72/92750a0fe85dd4e618cfc7cacb77e835.jpg",
         "link": "https://time.com/article/2026/10/26/catholic-bishops-apologize-meeting-with-trump-white-house-video/",
         "summary": "<section><figure><img src=\"https://media.zenfs.com/en/time_72/92750a0fe85dd4e618cfc7cacb77e835.jpg\" /><figcaption>President Donald Trump prays during ..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "El-Sayed fires back at Trump with a pointed 'Senator Mohamed' joke",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/7efbd091660ee403e45fc6579cb90b89.jpg",
-        "link": "https://thehill.com/homenews/campaign/6171651-el-sayed-fires-back-trump-attacks/",
-        "summary": "<figure><img height=\"508\" src=\"https://media.zenfs.com/en/the_hill_articles_341/7efbd091660ee403e45fc6579cb90b89.jpg\" width=\"900\" /></figure>\n<p>Michi..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
-        "image": "https://media.zenfs.com/en/ap.org/2fd5e1149ef14f0f3d14b7432127b54b.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-attempting-prosecute-former-213613214.html",
-        "summary": "<p>WASHINGTON (AP) \u2014 The Trump administration is attempting to <a href=\"https://apnews.com/article/comey-justice-department-trump-russia-fbi-e28deb290..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -103,6 +103,20 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://finance.yahoo.com/technology/article/microsoft-offers-voluntary-buyout-to-60000-employees-160011034.html",
         "summary": "<p style=\"text-align: left;\">Microsoft (<a class=\"link\" href=\"https://finance.yahoo.com/quote/MSFT/\" rel=\"\" target=\"_blank\">MSFT</a>) announced on Mon..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US seeks new charges against former FBI chief James Comey",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-seeks-new-charges-against-former-fbi-chief-james-comey/a-79771256?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The Trump administration accuses the former FBI director of leaking classified information a decade ago. Comey denies wrongdoing, while his lawyers ar..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "England and Bayern Munich striker Harry Kane wins Ballon d'Or",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/england-and-bayern-munich-striker-harry-kane-wins-ballon-d-or/a-79771067?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The England captain ends his country's 25-year wait for the prestigious award after scoring 73 goals for club and country last season, beating competi..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/a-bad-omen-syria-bans-women-from-university-courses/a-79769348?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The recent announcement that Syrian tertiary institutes will not allow women into some courses has triggered debate. Critics worry it may be a sign th..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "AI company Anthropic files its IPO in hopes of raising $100 billion",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ai-company-anthropic-files-its-ipo-in-hopes-of-raising-100-billion/a-79768876?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Anthropic has filed paperwork for an initial public offering that could be one of the biggest in history. The company has yet to turn a profit...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "German police probe cruise ship captain after Bremerhaven collision",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/german-police-probe-cruise-ship-captain-after-bremerhaven-collision/a-79769346?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A three-ship collision has led to the cancellation of a cruise and expensive damages. Shipyard repairs are needed, and further cruises could be affect..."
     }
 ]
