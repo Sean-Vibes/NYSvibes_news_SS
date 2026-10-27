@@ -71,38 +71,66 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "DOJ makes a 3rd run at James Comey using a rarely seen legal tactic",
+        "image": "https://media.zenfs.com/en/cbs_news_897/3a692509fe295f2ac8311a836abd2915.jpg",
+        "link": "https://www.cbsnews.com/news/doj-takes-steps-to-charge-james-comey/",
+        "summary": "<p></p><p></p><p>The Justice Department took steps to charge James Comey with leaking classified information earlier this month, court records show, i..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Israelis go to the polls with Netanyahu's political survival on the line",
+        "image": "https://media.zenfs.com/en/reuters.com/7e09df389abb7e2cf0bfedb633a26c3e.jpg",
+        "link": "https://uk.news.yahoo.com/netanyahus-political-survival-line-israel-000240854.html",
+        "summary": "<p>By Steven Scheer and Pesha Magid </p> <p>  JERUSALEM, Oct 27 (Reuters) - Prime Minister Benjamin Netanyahu faces a fight for political survival in ..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Court rejects DOJ's emergency bid to separate Calif. ballots over noncitizen claims",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.yahoo.com/news/politics/articles/appeals-court-rejects-doj-bid-225518434.html",
-        "summary": "<p style=\"text-align: left;\">A federal appeals court <a class=\"link\" href=\"https://storage.courtlistener.com/recap/gov.uscourts.ca9.791f8ba7-6879-48a9..."
+        "link": "https://www.politico.com/news/2026/10/26/california-election-ballots-justice-department-ruling",
+        "summary": "<p>A federal appeals court <a href=\"https://storage.courtlistener.com/recap/gov.uscourts.ca9.791f8ba7-6879-48a9-8485-c590765cece6/gov.uscourts.ca9.791..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump administration attempting to prosecute former FBI Director James Comey again",
-        "image": "https://media.zenfs.com/en/ap.org/690a8aabdf81a9021b26aceff36da21c.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-administration-attempting-prosecute-former-213613214.html",
-        "summary": "<p>WASHINGTON (AP) \u2014 The Trump administration is attempting to <a href=\"https://apnews.com/article/comey-justice-department-trump-russia-fbi-e28deb290..."
+        "title": "If you've been ignoring politics, this midterms guide is for you",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-what-to-know-midterms_4583.jpg",
+        "link": "https://www.yahoo.com/news/politics/article/have-you-been-checked-out-of-politics-this-2026-midterms-guide-is-for-you-222529344.html",
+        "summary": "<p style=\"text-align: left;\">Politics can be a lot. Keeping track of what's going on can be confusing, frustrating, unsettling and, often, pretty bori..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Catholic bishop says recent White House visit was 'exploited' for political purposes",
-        "image": "https://media.zenfs.com/en/time_72/92750a0fe85dd4e618cfc7cacb77e835.jpg",
-        "link": "https://time.com/article/2026/10/26/catholic-bishops-apologize-meeting-with-trump-white-house-video/",
-        "summary": "<section><figure><img src=\"https://media.zenfs.com/en/time_72/92750a0fe85dd4e618cfc7cacb77e835.jpg\" /><figcaption>President Donald Trump prays during ..."
+        "title": "Ceasefire brokered by Melania Trump goes into effect in Russian-occupied town",
+        "image": "https://media.zenfs.com/en/nbc_news_122/4f67d324ee101c0463db3f2408fc6c87.jpg",
+        "link": "https://www.nbcnews.com/world/ukraine/ceasefire-brokered-melania-trump-comes-effect-russian-occupied-town-br-rcna605667",
+        "summary": "<figure><img alt=\"Image: An aerial view of smoke rising from a residential neighborhood in Oleshky. (Ukrainian 34th Separate Marine Brigade / via AP)\"..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Dollar General accused of overcharging shoppers in lawsuit filed by FTC and 20 states",
-        "image": "https://media.zenfs.com/en/reuters.com/43629cde6c6e8f7b87d2ae1bde168768.jpg",
-        "link": "https://finance.yahoo.com/news/us-20-states-sue-dollar-174735286.html",
-        "summary": "<p>By Jody Godoy </p> <p>  Oct 26 (Reuters) - Dollar General repeatedly charged more than advertised prices even after \u200creceiving tens of thousands of..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Microsoft offers voluntary buyouts to 60,000 employees as it restructures for AI",
+        "source": "Deutsche Welle",
+        "title": "India news: Arunachal sees fresh violence over proposed dam",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://finance.yahoo.com/technology/article/microsoft-offers-voluntary-buyout-to-60000-employees-160011034.html",
-        "summary": "<p style=\"text-align: left;\">Microsoft (<a class=\"link\" href=\"https://finance.yahoo.com/quote/MSFT/\" rel=\"\" target=\"_blank\">MSFT</a>) announced on Mon..."
+        "link": "https://www.dw.com/en/india-news-arunachal-sees-fresh-violence-over-proposed-dam/live-79771650?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "More violence erupted in India's northeastern state of Arunachal Pradesh over proposed hydroelectric projects that locals are protesting. Also, India'..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Israel election: Israelis vote for 1st time since October 7 terror attack",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/israel-election-israelis-vote-for-1st-time-since-october-7-terror-attack/live-79713839?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Israel's longest-serving prime minister, Benjamin Netanyahu, faces a battle to stay in power amid fierce competition from a bloc led by former militar..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Brazil elections: Merz, world leaders congratulate Lula on his win",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/brazil-elections-merz-world-leaders-congratulate-lula-on-his-win/live-79755630?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Brazilian President Lula secured a surprise win over far-right challenger Flavio Bolsonaro, whose party recognizes Lula's election victory...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine and Russia begin Oleshky ceasefire for aid mission",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Around 2,000 people remain stranded in the city of Oleshky, facing severe shortages of food and medicine. The Russian-occupied town has been devastate..."
     },
     {
         "source": "Deutsche Welle",
@@ -110,33 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/us-seeks-new-charges-against-former-fbi-chief-james-comey/a-79771256?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Trump administration accuses the former FBI director of leaking classified information a decade ago. Comey denies wrongdoing, while his lawyers ar..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "England and Bayern Munich striker Harry Kane wins Ballon d'Or",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/england-and-bayern-munich-striker-harry-kane-wins-ballon-d-or/a-79771067?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The England captain ends his country's 25-year wait for the prestigious award after scoring 73 goals for club and country last season, beating competi..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Jordan says its military struck 'militant hideouts' in Syria after deadly church attack",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/jordan-says-its-military-struck-militant-hideouts-in-syria-after-deadly-church-attack/a-79760441?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Jordanian armed forces carried out strikes on \"militant hideouts\" in Syria that it said were linked to a deadly church attack on the kingdom last week..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UN sounds the alarm over Israel's West Bank military operation",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/un-sounds-the-alarm-over-israel-s-west-bank-military-operation/a-79770228?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The UN has sounded the alarm on Israeli action in the West Bank city of Hebron after hundreds of families were displaced at the weekend. Israel has or..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "A bad omen? Syria bans women from university courses",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/a-bad-omen-syria-bans-women-from-university-courses/a-79769348?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The recent announcement that Syrian tertiary institutes will not allow women into some courses has triggered debate. Critics worry it may be a sign th..."
     }
 ]
