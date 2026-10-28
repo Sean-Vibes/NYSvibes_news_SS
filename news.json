@@ -71,6 +71,20 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Judge rules a top federal prosecutor is 'unlawfully serving' and bars him from cases",
+        "image": "https://media.zenfs.com/en/la_times_articles_853/2f84a095eb4037e45c279985a849dc97.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/judge-finds-l-top-federal-010823020.html",
+        "summary": "<figure><img alt=\"A man speaks into a microphone.\" height=\"539\" src=\"https://media.zenfs.com/en/la_times_articles_853/7b38a5f8cd097b052d4383450fe5da42..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Flavio Bolsonaro lands in U.S. after fleeing Brazil following election loss",
+        "image": "https://media.zenfs.com/en/afp.com/05250d62fc1b38babdd72349497bafb1.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/brazils-flavio-bolsonaro-flees-us-220155232.html",
+        "summary": "<figure><img src=\"https://media.zenfs.com/en/afp.com/05250d62fc1b38babdd72349497bafb1.jpg\" /><figcaption>Flavio Bolsonaro lost elections to Brazilian ..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Trump urges patience on energy prices as Iran war threatens GOP hopes in Texas",
         "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/ad35319dcf5dd9bd8de7d3279c10ad68.jpg",
         "link": "https://finance.yahoo.com/energy/articles/trump-casts-high-gas-price-210511413.html",
@@ -85,24 +99,31 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "U.S. to grant visa to Trump ally Bolsonaro after he flees Brazil following election loss",
+        "title": "A Bible-quoting Democrat is threatening the GOP's decades-long grip on Texas",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/gettyimages-2264127831.jpg",
+        "link": "https://www.yahoo.com/news/politics/article/who-is-james-talarico-a-guide-to-the-rising-democratic-star-whos-trying-to-turn-texas-blue-220106601.html",
+        "summary": "<p style=\"text-align: left;\">The words \u201ccompetitive\u201d and \u201cTexas\u201d don\u2019t often show up side by side when it comes to big elections. No Democrat has won ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Cyclone Arnab brings heavy rain, disruption",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.yahoo.com/news/world/articles/brazils-fl-vio-bolsonaro-misses-175546562.html",
-        "summary": "<p>WASHINGTON (AP) \u2014 A senior State Department official said Tuesday that Fl\u00e1vio Bolsonaro and his family will be granted U.S. visas after his weekend..."
+        "link": "https://www.dw.com/en/india-news-cyclone-arnab-brings-heavy-rain-disruption/live-79782323?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Cyclone Arnab is making a slow-motion landfall at India's east coast with states evacuating thousands of residents. Also, a new report says India is a..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Supreme Court declines to restore judges' power to pause deportation cases",
-        "image": "https://media.zenfs.com/en/reuters.com/03949afaa69de9161721b60744b329de.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/us-supreme-court-denies-immigration-160948159.html",
-        "summary": "<p>By Andrew Chung </p> <p>  Oct 27 (Reuters) - The US Supreme Court declined on Tuesday to reinstate the authority of immigration judges to temporari..."
+        "source": "Deutsche Welle",
+        "title": "Israel election: Exit polls show no clear winner, with Netanyahu's fate unclear",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/israel-election-exit-polls-show-no-clear-winner-with-netanyahu-s-fate-unclear/live-79713839?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "While Netanyahu's party is projected to be the biggest in parliament, two out of three exit polls show his bloc even with the opposition. No bloc has ..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Another top CDC official is leaving after just 4 months on the job",
-        "image": "https://media.zenfs.com/en/nbc_news_122/94545dc215f72065f0e4b2a09bd63d18.jpg",
-        "link": "https://www.nbcnews.com/health/health-news/cdc-deputy-director-resigns-rcna605982",
-        "summary": "<figure><img alt=\"Dr. Jennifer Shuford (CDC)\" height=\"1667\" src=\"https://media.zenfs.com/en/nbc_news_122/94545dc215f72065f0e4b2a09bd63d18.jpg\" width=\"..."
+        "source": "Deutsche Welle",
+        "title": "Experts urge 'global health emergency' as climate harms accelerate",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/experts-urge-global-health-emergency-as-climate-harms-accelerate/a-79773232?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Heat, drought and storms linked to climate change are already killing millions worldwide. Researchers want global warming to be declared a global heal..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/flavio-bolsonaro-flees-brazil-for-us-amid-investigation-reports/a-79781094?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Flavio Bolsonaro is on the way to the US, according to reports citing people close to the senator. The US State Department said it will issue visas to..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Israel election: Anti-Netanyahu bloc ahead, but no majority",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/israel-election-anti-netanyahu-bloc-ahead-but-no-majority/live-79713839?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "While Netanyahu's party is projected to be the biggest in parliament, the anti-Netanyahu coalition looks set to have more seats. But no bloc has a cle..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "EU proposes giving Frontex border agency new major powers",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-proposes-giving-frontex-border-agency-new-major-powers/a-79779690?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The European Commission has unveiled a new plan to give Frontex more resources to ensure the return of irregular migrants, including by supporting non..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Mbappe apologizes as Chinese sponsors drop him and TV broadcasts are halted over Mao dictator remark",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/mbappe-apologizes-as-chinese-sponsors-drop-him-and-tv-broadcasts-are-halted-over-mao-dictator-remark/a-79779831?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "French soccer star Kylian Mbappe has apologized after apparently referring to Mao Zedong as a dictator. Chinese sponsors have dropped him, while state..."
     }
 ]
