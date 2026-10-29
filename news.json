@@ -71,6 +71,20 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Hegseth fires Pentagon's top military planner as Trump weighs new strikes on Iran",
+        "image": "https://media.zenfs.com/en/ap.org/413c3e09d208205c8717452175619a63.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/hegseth-fires-pentagons-top-military-024524025.html",
+        "summary": "<p>WASHINGTON (AP) \u2014 Defense Secretary Pete Hegseth has fired the Pentagon\u2019s top military planner, a defense official said Wednesday, the latest in a ..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Trump and Obama trade personal jabs as their midterm rivalry heats up",
+        "image": "https://media.zenfs.com/en/reuters.com/28e4984fbd13741ca7f94e8d281ed568.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-obama-pound-campaign-trail-181120650.html",
+        "summary": "<p>By Bo Erickson and Nandita Bose </p> <p>  CHILLICOTHE, Ohio/MORROW, Georgia, Oct 28 (Reuters) - Neither man is on the ballot but Republican Preside..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Judge denies feds' request to block 20,000 California ballots in blistering opinion",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.yahoo.com/news/politics/articles/judge-denies-feds-request-block-005308566.html",
@@ -78,65 +92,51 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Details of thousands of U.S. immigration agents leaked in a massive hack",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/57d5d5a8a86a329e7c823a53697af89a.jpg",
-        "link": "https://www.bbc.com/news/articles/cq8jzkpjr28vo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-        "summary": "<figure>\n<img alt=\"a US Immigration and Customs Enforcement officer standing outside of a detention center in New Jersey wearing a tactical helmet,  w..."
+        "title": "China's secretive space plane caught on camera in new photo released by U.S. military",
+        "image": "https://media.zenfs.com/en/space_311/46b26fc95dca30182a824959f340bdf4.jpg",
+        "link": "https://www.space.com/space-exploration/launches-spacecraft/chinas-secretive-space-plane-caught-on-camera-in-incredible-new-photo-released-by-us-military",
+        "summary": "<p><i>When you buy through links on our articles, Future and its syndication partners may earn a commission.</i></p>\n<figure><img alt=\"on a black back..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "'Didn't hear an utterance about politics': Fed chair bats away midterm talk after rate decision",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://finance.yahoo.com/economy/policy/article/i-didnt-hear-an-utterance-about-politics-warsh-bats-away-midterm-talk-following-rate-decision-203737154.html",
-        "summary": "<p style=\"text-align: left;\">Federal Reserve Chairman Kevin Warsh pushed back Wednesday on any suggestion that next week's midterm elections had a rol..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Midwest Democrats face do-or-die moment to win back Trump districts before 2028",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-10/92f62360-4f22-4f68-abb4-d98c565b03f7",
-        "link": "https://www.politico.com/news/2026/10/28/democrats-rural-midwest-rebecca-cooke-01137050",
-        "summary": "<p>EAU CLAIRE, Wisconsin \u2014 In this rural-heavy stretch of the upper Midwest, Democrats are trying to claw back districts where their party brand is st..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Report links Alaska Dems to secret effort to recruit would-be spoilers in Senate race",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-dan-sullivan_8830.jpg",
-        "link": "https://www.yahoo.com/news/politics/article/alaska-democrats-linked-to-secret-effort-to-recruit-2nd-dan-sullivan-to-tip-senate-race-report-200632493.html",
-        "summary": "<p style=\"text-align: left;\">It was, for a while, considered one of those colorful quirks that crop up in the course of an election: the fact that not..."
+        "title": "Health insurance rules are changing. How to avoid an unanticipated bill.",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-10/5fa54be2-045a-4e5b-9ec9-9a82f4eb621c",
+        "link": "https://finance.yahoo.com/healthcare/articles/health-insurance-rules-changing-avoid-090000600.html",
+        "summary": "<p style=\"text-align: left;\">A raise is supposed to help your finances, but for some Americans with Affordable Care Act plans, it could backfire this ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "EU countries block Canada's 'associate membership' plan",
+        "title": "Germany news: Volkwagen posts 3rd quarter losses of nearly \u20ac6 billion amid competition from China",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/eu-countries-block-canada-s-associate-membership-plan/a-79791601?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "European Commission President Ursula von der Leyen wanted to give Canada a special status within the EU. But Germany and other member states have rais..."
+        "link": "https://www.dw.com/en/germany-news-volkwagen-posts-3rd-quarter-losses-of-nearly-\u20ac6-billion-amid-competition-from-china/live-79792915?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany's largest car maker reported third quarter losses of \u20ac5.8 billion as its major financial struggles continue. And Chancellor Friedrich Merz con..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Flavio Bolsonaro lands in US, declares himself 'leader' of Brazil",
+        "title": "Bayern Munich head coach Vincent Kompany's health scare highlights the need for better support for elite coaches",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/flavio-bolsonaro-lands-in-us-declares-himself-leader-of-brazil/a-79788659?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Flavio Bolsonaro declared himself the rightful leader of his country despite losing the presidential election runoff on Sunday. He and his family have..."
+        "link": "https://www.dw.com/en/bayern-munich-head-coach-vincent-kompany-s-health-scare-highlights-the-need-for-better-support-for-elite-coaches/a-79764661?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Vincent Kompany\u2019s health concern is a reminder that elite football's pressures affect coaches too. Better support, clearer structures and mental healt..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "How do the US midterms work, and why are they so important for Trump's presidency?",
+        "title": "India news: 'Cockroaches' back Gandhi's rally against election chief",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-do-the-us-midterms-work-and-why-are-they-so-important-for-trump-s-presidency/a-79789932?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US voters are electing a new Congress. The results will be decisive for the future of the United States, and a judgment on Donald Trump's second term ..."
+        "link": "https://www.dw.com/en/india-news-cockroaches-back-gandhi-s-rally-against-election-chief/live-79791890?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The CJP said it would lend its support to any organization fighting for free and fair elections in India, including the opposition alliance. Also, Ind..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Evacuation from Oleshky: How are preparations going?",
+        "title": "Spain train crash: PM Sanchez calls for investigation as 3 days of mourning begins",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A lawyer with the Save Ukraine Foundation, Myroslava Kharchenko, told DW about what has been happening in Russian-occupied Oleshky since a temporary c..."
+        "link": "https://www.dw.com/en/spain-train-crash-pm-sanchez-calls-for-investigation-as-3-days-of-mourning-begins/a-79792085?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Emergency crews worked through the night after a high-speed train collision killed 68 people. PM Pedro Sanchez has pledged a full investigation into S..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "One year on, families seek justice after election violence",
+        "title": "Israel election: Netanyahu-led bloc holds lead with nearly 90% of votes counted",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/one-year-on-families-seek-justice-after-election-violence/a-79779105?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "One year after Tanzania's deadly post-election violence, families are still seeking answers. A government inquiry recorded 518 deaths. DW research has..."
+        "link": "https://www.dw.com/en/israel-election-netanyahu-led-bloc-holds-lead-with-nearly-90-of-votes-counted/live-79713839?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "With nearly 90% of votes counted, the pro-Netanyahu bloc is just ahead of the anti-Netanyahu bloc, but neither grouping is expected to win a majority,..."
     }
 ]
