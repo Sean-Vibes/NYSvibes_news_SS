@@ -71,6 +71,27 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Judge denies feds' request to block 20,000 California ballots in blistering opinion",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.yahoo.com/news/politics/articles/judge-denies-feds-request-block-005308566.html",
+        "summary": "<figure><img alt=\"A sign points toward voting stations inside the Arroyo Seco Regional Branch Library in Los Angeles.\" height=\"560\" src=\"https://media..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Details of thousands of U.S. immigration agents leaked in a massive hack",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/57d5d5a8a86a329e7c823a53697af89a.jpg",
+        "link": "https://www.bbc.com/news/articles/cq8jzkpjr28vo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "summary": "<figure>\n<img alt=\"a US Immigration and Customs Enforcement officer standing outside of a detention center in New Jersey wearing a tactical helmet,  w..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "'Didn't hear an utterance about politics': Fed chair bats away midterm talk after rate decision",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://finance.yahoo.com/economy/policy/article/i-didnt-hear-an-utterance-about-politics-warsh-bats-away-midterm-talk-following-rate-decision-203737154.html",
+        "summary": "<p style=\"text-align: left;\">Federal Reserve Chairman Kevin Warsh pushed back Wednesday on any suggestion that next week's midterm elections had a rol..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Midwest Democrats face do-or-die moment to win back Trump districts before 2028",
         "image": "https://d29szjachogqwa.cloudfront.net/images/2026-10/92f62360-4f22-4f68-abb4-d98c565b03f7",
         "link": "https://www.politico.com/news/2026/10/28/democrats-rural-midwest-rebecca-cooke-01137050",
@@ -84,25 +105,11 @@
         "summary": "<p style=\"text-align: left;\">It was, for a while, considered one of those colorful quirks that crop up in the course of an election: the fact that not..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Trump floats Ted Cruz for Supreme Court and jokes about why he'd get every vote",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/82ea04a83ebb392df9d9540933b13782.jpg",
-        "link": "https://www.usatoday.com/story/news/politics/2026/10/28/trump-floats-senator-ted-cruz-supreme-court-vacancy/92474646007/",
-        "summary": "<p>WASHINGTON \u2014 <a href=\"https://www.usatoday.com/news/politics/donald-trump/\">President Donald Trump</a> floated nominating Ted Cruz to the <a href=\"..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Tornado season isn't over, and fall twisters can bring added danger after dark",
-        "image": "https://media.zenfs.com/en/washington_post_weather_984/5dc34ba4c8be593ada43cc842303b49b.jpg",
-        "link": "https://www.washingtonpost.com/weather/2026/10/28/tornadoes-form-fall-too-heres-why-theyre-about-ramp-up/",
-        "summary": "<figure><img alt=\"Shane Ostrander looks for items at his home after a tornado spawned by Hurricane Milton swept through Fort Pierce, Florida, in Octob..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "The Fed will make fewer rate decisions in 2027, giving markets more to sweat over",
+        "source": "Deutsche Welle",
+        "title": "EU countries block Canada's 'associate membership' plan",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://finance.yahoo.com/economy/article/the-fed-just-removed-a-2027-rate-decision--making-the-remaining-7-even-more-important-194159258.html",
-        "summary": "<p style=\"text-align: left;\">The Warsh Fed's taciturn nature has already raised the stakes for each FOMC meeting. With fewer hints or forward guidance..."
+        "link": "https://www.dw.com/en/eu-countries-block-canada-s-associate-membership-plan/a-79791601?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "European Commission President Ursula von der Leyen wanted to give Canada a special status within the EU. But Germany and other member states have rais..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/one-year-on-families-seek-justice-after-election-violence/a-79779105?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "One year after Tanzania's deadly post-election violence, families are still seeking answers. A government inquiry recorded 518 deaths. DW research has..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "What would a new Israeli government mean for Arab neighbors? More of the same is expected, with some small positives predicted.",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/what-would-a-new-israeli-government-mean-for-arab-neighbors-more-of-the-same-is-expected-with-some-small-positives-predicted/a-79788174?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A new Israeli government is unlikely to bring big changes on controversial topics like Palestinian statehood and Israeli troops in Lebanon and Syria, ..."
     }
 ]
