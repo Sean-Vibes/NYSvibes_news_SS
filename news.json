@@ -36,7 +36,7 @@
     },
     {
         "source": "MJBizDaily",
-        "title": "DEA grants federal registration to \u2018more than\u2019 900 medical cannabis dispensaries in seven states",
+        "title": "Marijuana rescheduling: DEA recognizes first federally legal medical cannabis dispensaries",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/dea-grants-federal-registration-to-900-medical-cannabis-dispensaries-in-seven-states/618979/",
         "summary": "<p>In separate guidance, the DEA instructed registrants and applicants still waiting on word from the DEA to \"establish compliant supply chains\" by No..."
@@ -71,6 +71,20 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "FBI questions donors as 2 Dan Sullivans compete in Alaska Senate race",
+        "image": "https://media.zenfs.com/en/ap.org/dc8608e42fd30442a9571740afe2dfd6.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/fbi-visits-dan-j-sullivan-041854344.html",
+        "summary": "<p>ANCHORAGE, Alaska (AP) \u2014 The FBI on Friday began reaching out to donors of Dan J. Sullivan asking about potential deception, as federal authorities..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "U.S. approves sale of 500 Patriot missiles to Ukraine",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/2578b75a4ad5051e7a2b026900bd6e0b.jpg",
+        "link": "https://www.bbc.com/news/articles/c3vgxznlx7jzo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "summary": "<figure>\n<img alt=\"Soldiers stand during Ukrainian President Volodymyr Zelenskiy's visit to a military training area to find out about the training of..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "DOJ warned election workers in all 50 states. Now a judge has stepped in.",
         "image": "https://d29szjachogqwa.cloudfront.net/images/2026-10/e385bd36-8baf-41d3-8bb1-5daa5d2dc321",
         "link": "https://www.yahoo.com/news/politics/articles/judge-orders-doj-stop-threatening-010547369.html",
@@ -78,31 +92,38 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Judge opens probe into potential DOJ misconduct over Trump's golf course plans",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/428e5be492c0c6411e883b60d1dc9d1f.jpg",
-        "link": "https://thehill.com/regulation/court-battles/6184378-ana-reyes-investigation-justice-department-golf-course/",
-        "summary": "<figure><img height=\"507\" src=\"https://media.zenfs.com/en/the_hill_articles_341/428e5be492c0c6411e883b60d1dc9d1f.jpg\" width=\"900\" /></figure>\n<p>A fed..."
+        "title": "Trump ties promises of government help to Republican election wins",
+        "image": "https://media.zenfs.com/en/ap.org/868ab7839b7eb40ac95e817da97d56b4.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/vote-republican-else-trump-dangling-040330628.html",
+        "summary": "<p>WASHINGTON (AP) \u2014 President <a href=\"https://apnews.com/hub/donald-trump\">Donald Trump</a> says Georgia GOP Senate candidate Mike Collins can call ..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Criminal probe underway over would-be spoiler Senate candidate in Alaska",
+        "title": "Google could join Trump's $185 billion Golden Dome missile defense project",
+        "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/72b9f30c6e33231cc7988d67471e7d33.jpg",
+        "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-talks-join-trump-golden-211555344.html",
+        "summary": "<p>(Bloomberg) -- Alphabet Inc.\u2019s Google is in talks with the US Defense Department to work on a new data security effort underpinning the $185 billio..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Merkel calls for first female president",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.yahoo.com/news/articles/trump-escalates-legal-challenges-against-101126175.html",
-        "summary": "<p>By Andrew Goudsward and Nathan Frandino </p> <p>  WASHINGTON/ANCHORAGE, Oct 30 (Reuters) - President Donald Trump's administration stepped up crimi..."
+        "link": "https://www.dw.com/en/germany-news-merkel-calls-for-first-female-president/live-79814961?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Former Chancellor Angela Merkel says it's time to consider a woman as Germany's next president. Meanwhile, Berlin's Left Party is deciding whether to ..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Netanyahu's party claims election was stolen as results show him losing majority",
-        "image": "https://media.zenfs.com/en/cbs_news_897/1bd7e3a71814562267f6dcb31693d518.jpg",
-        "link": "https://www.cbsnews.com/news/israel-election-results-netanyahu-likud-claim-stolen-arab-parties/",
-        "summary": "<p></p><p></p><p>Tel Aviv \u2014\u00a0Prime Minister Benjamin Netanyahu and his Likud party alleged Thursday that Israel's election earlier in the week was stol..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Binance's $6.3 billion hack is the biggest known crypto theft ever",
+        "source": "Deutsche Welle",
+        "title": "Massive Gen Z protests set to sweep cities across Germany",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://finance.yahoo.com/markets/article/the-binance-hack-is-way-bigger-than-any-other-known-heist-in-the-crypto-world-175821798.html",
-        "summary": "<p style=\"text-align: left;\">The estimated <a class=\"link\" href=\"https://finance.yahoo.com/markets/article/bitcoin-drops-to-76000-as-binance-hack-spoo..."
+        "link": "https://www.dw.com/en/massive-gen-z-protests-set-to-sweep-cities-across-germany/live-79814694?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Young people in Germany are taking to the streets in some 34 cities, calling for greater political say and a more hopeful future. The protests come am..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Bollywood and the underworld \u2014 together in the spotlight?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/bollywood-and-the-underworld-together-in-the-spotlight/a-79806129?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A wave of shootings and extortion threats has rattled India's film industry. This time, those claiming responsibility are very different from the Mumb..."
     },
     {
         "source": "Deutsche Welle",
@@ -113,30 +134,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "India news: Tanker carrying 27 Indians attacked in Strait of Hormuz",
+        "title": "India news: Amit Shah challenges Rahul Gandhi to debate vote theft in parliament",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-tanker-carrying-27-indians-attacked-in-strait-of-hormuz/live-79814329?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Two vessels carrying Indian crew members have been attacked in the Strait of Hormuz over the past two days as Iran steps up attacks on shipping. DW ha..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "UN peacekeeping mission in Western Sahara to expire amid US, Russia vetoes",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/un-peacekeeping-mission-in-western-sahara-to-expire-amid-us-russia-vetoes/a-79814338?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The mandate of the UN peacekeeping force in Western Sahara will expire on October 31. The UN Security Council could not agree on a resolution to exten..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "European diplomats shun Russia at G20 gathering in the US",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/european-diplomats-shun-russia-at-g20-gathering-in-the-us/a-79813925?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Russian Foreign Minister Sergey Lavrov declined to comment on Russia's participation in the G20 summit in December, telling DW that Volodymyr Zelensky..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Poland: Protesters clash with police over sacked court chief",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/poland-protesters-clash-with-police-over-sacked-court-chief/a-79813882?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Polish Prime Minister Donald Tusk defended the firing of top court President Bogdan Swieczkowski as a move to \"restore the rule of law.\"..."
+        "link": "https://www.dw.com/en/india-news-amit-shah-challenges-rahul-gandhi-to-debate-vote-theft-in-parliament/live-79814329?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Home Minister Amit Shah has challenged Rahul Gandhi to debate electoral irregularity allegations in parliament, ahead of a major opposition rally agai..."
     }
 ]
