@@ -71,6 +71,13 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "DOJ warned election workers in all 50 states. Now a judge has stepped in.",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-10/e385bd36-8baf-41d3-8bb1-5daa5d2dc321",
+        "link": "https://www.yahoo.com/news/politics/articles/judge-orders-doj-stop-threatening-010547369.html",
+        "summary": "<p style=\"text-align: left;\">A federal judge on Friday ordered the Justice Department to stop threatening state and local election officials with crim..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Judge opens probe into potential DOJ misconduct over Trump's golf course plans",
         "image": "https://media.zenfs.com/en/the_hill_articles_341/428e5be492c0c6411e883b60d1dc9d1f.jpg",
         "link": "https://thehill.com/regulation/court-battles/6184378-ana-reyes-investigation-justice-department-golf-course/",
@@ -80,8 +87,8 @@
         "source": "yahoo.com/news Top Stories",
         "title": "Criminal probe underway over would-be spoiler Senate candidate in Alaska",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-escalates-legal-challenges-against-101126175.html",
-        "summary": "<p style=\"text-align: left;\">By Andrew Goudsward and Nathan Frandino</p><p style=\"text-align: left;\">WASHINGTON/ANCHORAGE, Oct 30 (Reuters) - Presiden..."
+        "link": "https://www.yahoo.com/news/articles/trump-escalates-legal-challenges-against-101126175.html",
+        "summary": "<p>By Andrew Goudsward and Nathan Frandino </p> <p>  WASHINGTON/ANCHORAGE, Oct 30 (Reuters) - President Donald Trump's administration stepped up crimi..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -92,17 +99,38 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Stocks plunge on the final trading day of October as AI reckoning grips Wall Street",
+        "title": "Binance's $6.3 billion hack is the biggest known crypto theft ever",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html",
-        "summary": "<p style=\"text-align: left;\">US stocks plunged in the final trading day of the month as earnings from Amazon (<a class=\"link\" href=\"https://finance.ya..."
+        "link": "https://finance.yahoo.com/markets/article/the-binance-hack-is-way-bigger-than-any-other-known-heist-in-the-crypto-world-175821798.html",
+        "summary": "<p style=\"text-align: left;\">The estimated <a class=\"link\" href=\"https://finance.yahoo.com/markets/article/bitcoin-drops-to-76000-as-binance-hack-spoo..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Abdul El-Sayed leads Michigan Senate polls, but a divide among Dems could hurt him",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-abdul-mike_1118.jpg",
-        "link": "https://www.yahoo.com/news/politics/article/abdul-el-sayed-vs-mike-rogers-who-has-a-better-chance-of-winning-michigans-marquee-senate-battle-165046332.html",
-        "summary": "<p style=\"text-align: left;\">On Election Day, Democrat Abdul El-Sayed and Republican Mike Rogers will face off in what may be the marquee battle of th..."
+        "source": "Deutsche Welle",
+        "title": "Embarrassing name? How we live with names we don't like",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/embarrassing-name-how-we-live-with-names-we-don-t-like/a-79724068?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "What happens when your name evokes laughter or ridicule? Research points to negative life outcomes, but some people learn to embrace unfortunate names..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "India news: Tanker carrying 27 Indians attacked in Strait of Hormuz",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/india-news-tanker-carrying-27-indians-attacked-in-strait-of-hormuz/live-79814329?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Two vessels carrying Indian crew members have been attacked in the Strait of Hormuz over the past two days as Iran steps up attacks on shipping. DW ha..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UN peacekeeping mission in Western Sahara to expire amid US, Russia vetoes",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/un-peacekeeping-mission-in-western-sahara-to-expire-amid-us-russia-vetoes/a-79814338?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The mandate of the UN peacekeeping force in Western Sahara will expire on October 31. The UN Security Council could not agree on a resolution to exten..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "European diplomats shun Russia at G20 gathering in the US",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/european-diplomats-shun-russia-at-g20-gathering-in-the-us/a-79813925?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Russian Foreign Minister Sergey Lavrov declined to comment on Russia's participation in the G20 summit in December, telling DW that Volodymyr Zelensky..."
     },
     {
         "source": "Deutsche Welle",
@@ -110,33 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/poland-protesters-clash-with-police-over-sacked-court-chief/a-79813882?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Polish Prime Minister Donald Tusk defended the firing of top court President Bogdan Swieczkowski as a move to \"restore the rule of law.\"..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Prime Minister Mark Carney tells DW that Canada is seeking closer EU ties to \"diversify and deepen\" partnerships beyond the Americas. Despite German p..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine: Oleshky residents evacuate war-ravaged city",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-oleshky-residents-evacuate-war-ravaged-city/a-79812327?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Under the local ceasefire, an aid convoy of 25 buses arrived with humanitarian aid and as transport for fleeing Oleshky residents. The Ukrainian city ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Smuggling, power, profit: Irregular migration out of eastern Libya",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/smuggling-power-profit-irregular-migration-out-of-eastern-libya/a-79808822?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "There is currently more irregular migration between eastern Libya and Crete, Greece. It's raising questions as to what connects people smugglers with ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Tennessee woman Christa Pike describes pain after failed execution",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/tennessee-woman-christa-pike-describes-pain-after-failed-execution/a-79810735?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Christa Pike says she remains in constant pain a month after surviving a lethal injection in Tennessee. Her lawyers want her death sentence reduced to..."
     }
 ]
