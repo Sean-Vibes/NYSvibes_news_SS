@@ -1,6 +1,20 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "More Alabama Medical Marijuana Dispensaries Are Set To Open This Week, Officials Announce",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/more-alabama-medical-marijuana-dispensaries-are-set-to-open-this-week-officials-announce/",
+        "summary": "<p>&#8220;We\u2019ve also been doing some other educational work with the physicians&#8230;making sure that they\u2019re comfortable with the patient registry a..."
+    },
+    {
+        "source": "Marijuana Moment",
+        "title": "Marijuana Businesses Face Tax Uncertainty While Awaiting Federal Rescheduling Guidance",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/marijuana-businesses-face-tax-uncertainty-while-awaiting-federal-rescheduling-guidance/",
+        "summary": "<p>&#8220;They\u2019re all very anxious to see if relief is on the way and if we\u2019re going to see that guidance from the IRS that basically directs what the..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "DEA Refuses To Approve Marijuana Businesses In States That Allow Dual Medical And Recreational Licensing",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/dea-refuses-to-approve-marijuana-businesses-in-states-that-allow-dual-medical-and-recreational-licensing/",
@@ -21,25 +35,11 @@
         "summary": "<p>The Trump administration has issued federal registrations to hundreds of medical marijuana dispensaries in states across the U.S. in line with the ..."
     },
     {
-        "source": "Marijuana Moment",
-        "title": "Alcohol Lobbyists Encouraged Law Enforcement Officials To Push For Federal Hemp Crackdown, Report Says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/alcohol-lobbyists-encouraged-law-enforcement-officials-to-push-for-federal-hemp-crackdown-report-says/",
-        "summary": "<p>Alcohol industry lobbyists have pushed top state law enforcement officials to pressure Congress in support of keeping the federal recriminalization..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Nearly 7,000 Marijuana Businesses Have Applied For Federal Protections Under Trump\u2019s Rescheduling Move, New DEA List Shows",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/nearly-7000-marijuana-businesses-have-applied-for-federal-protections-under-trumps-rescheduling-move-new-dea-list-shows/",
-        "summary": "<p>The Drug Enforcement Administration (DEA) has released information about state-licensed medical marijuana business that have applied in a timely fa..."
-    },
-    {
         "source": "MJBizDaily",
         "title": "Marijuana rescheduling: DEA recognizes first federally legal medical cannabis dispensaries",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/dea-grants-federal-registration-to-900-medical-cannabis-dispensaries-in-seven-states/618979/",
-        "summary": "<p>In separate guidance, the DEA instructed registrants and applicants still waiting on word from the DEA to \"establish compliant supply chains\" by No..."
+        "summary": "<p>In separate guidance, the DEA instructed registered medical operators and pending applicants to \"establish compliant supply chains\" by November 29...."
     },
     {
         "source": "MJBizDaily",
@@ -71,6 +71,13 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Russia says it's responding to U.S. report of planned attack on Moscow",
+        "image": "https://media.zenfs.com/en/afp.com/a202f98b46df41b40101f5a80dd88e3f.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/russia-says-responding-us-report-160743844.html",
+        "summary": "<figure><img src=\"https://media.zenfs.com/en/afp.com/a202f98b46df41b40101f5a80dd88e3f.jpg\" /><figcaption>The Tsaritsyno museum is an imperial palace a..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "FBI questions donors as 2 Dan Sullivans compete in Alaska Senate race",
         "image": "https://media.zenfs.com/en/ap.org/dc8608e42fd30442a9571740afe2dfd6.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/fbi-visits-dan-j-sullivan-041854344.html",
@@ -78,17 +85,10 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "U.S. approves sale of 500 Patriot missiles to Ukraine",
-        "image": "https://media.zenfs.com/en/bbc_us_articles_995/2578b75a4ad5051e7a2b026900bd6e0b.jpg",
-        "link": "https://www.bbc.com/news/articles/c3vgxznlx7jzo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
-        "summary": "<figure>\n<img alt=\"Soldiers stand during Ukrainian President Volodymyr Zelenskiy's visit to a military training area to find out about the training of..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "DOJ warned election workers in all 50 states. Now a judge has stepped in.",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-10/e385bd36-8baf-41d3-8bb1-5daa5d2dc321",
-        "link": "https://www.yahoo.com/news/politics/articles/judge-orders-doj-stop-threatening-010547369.html",
-        "summary": "<p style=\"text-align: left;\">A federal judge on Friday ordered the Justice Department to stop threatening state and local election officials with crim..."
+        "title": "El-Sayed campaign wants Stevens to stay away after day of back-and-forth barbs",
+        "image": "https://media.zenfs.com/en/politico_453/bea2d334399772e69b9a9fa78d0832a7.jpg",
+        "link": "https://www.politico.com/news/2026/10/30/el-sayed-stevens-senate-race-fight-01144423",
+        "summary": "<p>TRAVERSE CITY, MICHIGAN \u2014 Michigan's Democratic coalition is fragmenting in real time days before a critical Senate election.</p><p>After it seemed..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -99,10 +99,24 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Google could join Trump's $185 billion Golden Dome missile defense project",
-        "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/72b9f30c6e33231cc7988d67471e7d33.jpg",
-        "link": "https://finance.yahoo.com/technology/ai/articles/alphabet-talks-join-trump-golden-211555344.html",
-        "summary": "<p>(Bloomberg) -- Alphabet Inc.\u2019s Google is in talks with the US Defense Department to work on a new data security effort underpinning the $185 billio..."
+        "title": "The AI sell-off is exposing the risks of betting on Wall Street\u2019s favorite stocks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://finance.yahoo.com/markets/article/wall-streets-favorite-stocks-are-in-their-worst-slump-since-2010-chart-of-the-day-124436147.html",
+        "summary": "<p style=\"text-align: left;\">Wall Street analysts spent 2026 piling Buy ratings onto the AI build-out. The stocks they ignored have done better.</p><p..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Gen Z protests sweep cities across Germany",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/gen-z-protests-sweep-cities-across-germany/live-79814694?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Young people in Germany have taken to the streets in some 34 cities, calling for greater political say and a more hopeful future. The protests come am..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After Melania Trump reportedly brokered a localized truce, residents of Ukraine's Oleshky managed to leave the occupied city. Meanwhile, Kyiv claimed ..."
     },
     {
         "source": "Deutsche Welle",
@@ -110,13 +124,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-merkel-calls-for-first-female-president/live-79814961?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Former Chancellor Angela Merkel says it's time to consider a woman as Germany's next president. Meanwhile, Berlin's Left Party is deciding whether to ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Massive Gen Z protests set to sweep cities across Germany",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/massive-gen-z-protests-set-to-sweep-cities-across-germany/live-79814694?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Young people in Germany are taking to the streets in some 34 cities, calling for greater political say and a more hopeful future. The protests come am..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/embarrassing-name-how-we-live-with-names-we-don-t-like/a-79724068?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "What happens when your name evokes laughter or ridicule? Research points to negative life outcomes, but some people learn to embrace unfortunate names..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "India news: Amit Shah challenges Rahul Gandhi to debate vote theft in parliament",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/india-news-amit-shah-challenges-rahul-gandhi-to-debate-vote-theft-in-parliament/live-79814329?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Home Minister Amit Shah has challenged Rahul Gandhi to debate electoral irregularity allegations in parliament, ahead of a major opposition rally agai..."
     }
 ]
