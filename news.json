@@ -71,6 +71,13 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Democratic candidates criticize Biden's border record in push to win swing voters",
+        "image": "https://media.zenfs.com/en/nbc_news_122/9f828eb0042cbb3b365a8b5d2abd4b3a.jpg",
+        "link": "https://www.nbcnews.com/politics/2026-election/2026-democratic-candidates-throw-joe-biden-bus-border-security-rcna603228",
+        "summary": "<figure><img alt=\"A split composite of James Talarico, Adam Hamilton and Paige Cognetti. (USA Today Network; Reuters; Getty)\" height=\"800\" src=\"https:..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Russia says it's responding to U.S. report of planned attack on Moscow",
         "image": "https://media.zenfs.com/en/afp.com/a202f98b46df41b40101f5a80dd88e3f.jpg",
         "link": "https://www.yahoo.com/news/world/articles/russia-says-responding-us-report-160743844.html",
@@ -78,31 +85,38 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "FBI questions donors as 2 Dan Sullivans compete in Alaska Senate race",
-        "image": "https://media.zenfs.com/en/ap.org/dc8608e42fd30442a9571740afe2dfd6.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/fbi-visits-dan-j-sullivan-041854344.html",
-        "summary": "<p>ANCHORAGE, Alaska (AP) \u2014 The FBI on Friday began reaching out to donors of Dan J. Sullivan asking about potential deception, as federal authorities..."
+        "title": "Looting erupts in Frankfurt as Gen Z protests draw crowds across Germany",
+        "image": "https://media.zenfs.com/en/reuters.com/6ff4d9e9a9b07baf8bfd0a1d282fd5df.jpg",
+        "link": "https://www.yahoo.com/news/articles/gen-z-protests-reach-germany-000319778.html",
+        "summary": "<p>By Kai Pfaffenbach, Tilman Blasshofer and Miranda Murray </p> <p>  FRANKFURT/BERLIN, Oct 31 (Reuters) - Hooded rioters looted stores in Frankfurt l..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "El-Sayed campaign wants Stevens to stay away after day of back-and-forth barbs",
-        "image": "https://media.zenfs.com/en/politico_453/bea2d334399772e69b9a9fa78d0832a7.jpg",
-        "link": "https://www.politico.com/news/2026/10/30/el-sayed-stevens-senate-race-fight-01144423",
-        "summary": "<p>TRAVERSE CITY, MICHIGAN \u2014 Michigan's Democratic coalition is fragmenting in real time days before a critical Senate election.</p><p>After it seemed..."
+        "title": "Trump administration steps up Alaska election probe over alleged spoiler effort",
+        "image": "https://media.zenfs.com/en/reuters.com/6368bd8600cf9bf56c33869faeb438b0.jpg",
+        "link": "https://www.yahoo.com/news/articles/trump-escalates-legal-challenges-against-101126175.html",
+        "summary": "<p>By Andrew Goudsward and Nathan Frandino </p> <p>  WASHINGTON/ANCHORAGE, Oct 30 (Reuters) - President Donald Trump's administration stepped up crimi..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump ties promises of government help to Republican election wins",
-        "image": "https://media.zenfs.com/en/ap.org/868ab7839b7eb40ac95e817da97d56b4.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/vote-republican-else-trump-dangling-040330628.html",
-        "summary": "<p>WASHINGTON (AP) \u2014 President <a href=\"https://apnews.com/hub/donald-trump\">Donald Trump</a> says Georgia GOP Senate candidate Mike Collins can call ..."
+        "title": "What changes when the clocks fall back this weekend",
+        "image": "https://media.zenfs.com/en/cbs_news_897/89cee0913d3208613119ebce552cd330.jpg",
+        "link": "https://www.cbsnews.com/news/daylight-savings-time-ends-2026/",
+        "summary": "<p></p><p></p><p>Millions of Americans will gain an hour of sleep this weekend when the twice-a-year time change commonly known as daylight savings en..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "The AI sell-off is exposing the risks of betting on Wall Street\u2019s favorite stocks",
+        "source": "Deutsche Welle",
+        "title": "Serbia after Vucic: The winners are losing patience",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://finance.yahoo.com/markets/article/wall-streets-favorite-stocks-are-in-their-worst-slump-since-2010-chart-of-the-day-124436147.html",
-        "summary": "<p style=\"text-align: left;\">Wall Street analysts spent 2026 piling Buy ratings onto the AI build-out. The stocks they ignored have done better.</p><p..."
+        "link": "https://www.dw.com/en/serbia-after-vucic-the-winners-are-losing-patience/a-79817586?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After the Student List's election victory, Aleksandar Vucic's power apparatus is disintegrating. People want justice as soon as possible. But the lose..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "More than 290 arrested in France as some weekend protests turn violent",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/more-than-290-arrested-in-france-as-some-weekend-protests-turn-violent/a-79818138?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Protests continue across France as 320,000 people take to the streets over rising living costs and poor school conditions for a third consecutive week..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/germany-news-merkel-calls-for-first-female-president/live-79814961?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Former Chancellor Angela Merkel says it's time to consider a woman as Germany's next president. Meanwhile, Berlin's Left Party is deciding whether to ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Bollywood and the underworld \u2014 together in the spotlight?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/bollywood-and-the-underworld-together-in-the-spotlight/a-79806129?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A wave of shootings and extortion threats has rattled India's film industry. This time, those claiming responsibility are very different from the Mumb..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Embarrassing name? How we live with names we don't like",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/embarrassing-name-how-we-live-with-names-we-don-t-like/a-79724068?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "What happens when your name evokes laughter or ridicule? Research points to negative life outcomes, but some people learn to embrace unfortunate names..."
     }
 ]
