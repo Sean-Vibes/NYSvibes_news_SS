@@ -71,31 +71,24 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "El-Sayed drops former primary rival from Michigan event days before election",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/6c06eb27c99a8573f62c7503d350218c.jpg",
-        "link": "https://thehill.com/homenews/campaign/6186206-el-sayed-disinvites-stevens/",
-        "summary": "<figure><img height=\"506\" src=\"https://media.zenfs.com/en/the_hill_articles_341/6c06eb27c99a8573f62c7503d350218c.jpg\" width=\"900\" /></figure>\n<p>Michi..."
+        "title": "Trump's midterm deadline has the Middle East bracing for another round of war",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/41b19d27d8f43d44e57b72202f711f70.jpg",
+        "link": "https://www.cnn.com/2026/10/31/middleeast/gulf-braces-us-midterms-intl",
+        "summary": "<figure><img alt=\"Black smoke and flames rise from an oil facility in an industrial area in southern Riyadh, Saudi Arabia, which has found itself unde..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Looting erupts in Frankfurt as Gen Z protests draw crowds across Germany",
-        "image": "https://media.zenfs.com/en/reuters.com/6ff4d9e9a9b07baf8bfd0a1d282fd5df.jpg",
-        "link": "https://www.yahoo.com/news/articles/gen-z-protests-reach-germany-000319778.html",
-        "summary": "<p>By Kai Pfaffenbach, Tilman Blasshofer and Miranda Murray </p> <p>  FRANKFURT/BERLIN, Oct 31 (Reuters) - Hooded rioters looted stores in Frankfurt l..."
+        "title": "Which party has a better chance of winning the midterms? What the latest polls say.",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-08/64a9cfb7-67ae-4e7e-ac87-e35966973a8c",
+        "link": "https://www.yahoo.com/news/politics/article/the-2026-midterms-are-next-week-which-party-has-a-better-chance-of-winning-heres-what-the-latest-polls-say-155319308.html",
+        "summary": "<p style=\"text-align: left;\">The 2026 midterm elections are just three days away. So where do things stand \u2014 nationwide \u2014 in the race to control Congr..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Three Bob Fergusons and two JFKs: A brief history of same-name ballot shenanigans",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/6b0ab22e7d2dd94c9a1a6bf1abd33efe.jpg",
-        "link": "https://www.cnn.com/2026/10/30/politics/dan-sullivan-alaska-same-name-candidates",
-        "summary": "<figure><img alt=\"Democratic Washington gubernatorial candidate Attorney General Bob Ferguson speaks to supporters at the Washington State Democrats e..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Trump's lawsuit against Wall Street Journal over Epstein letter is dismissed again",
-        "image": "https://media.zenfs.com/en/the_guardian_765/00439dadb47a26eb2b69ffa874ada436.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/judge-dismisses-trump-lawsuit-against-203139937.html",
-        "summary": "<figure>\n<img src=\"https://media.zenfs.com/en/the_guardian_765/6f3257221ee5fb2dce37b5ab6493c00b.jpg\" />\n<figcaption>\n<span>Jeffrey Epstein and Donald ..."
+        "title": "FBI says North Korea was behind $6 billion crypto theft from Binance",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.yahoo.com/news/us/articles/fbi-links-record-6-3-010848750.html",
+        "summary": "<p dir=\"ltr\"><strong>Investing.com --</strong> The FBI has accused North Korea of orchestrating the $6.3 billion cryptocurrency hack targeting Binance..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -103,6 +96,34 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.politico.com/news/magazine/2026/10/31/texas-abbott-gop-turnout-paxton-01136886",
         "summary": "<p><b>HOUSTON, Texas \u2014</b> On the first day of early voting in Texas, two weeks before the most consequential election Texas Republicans have faced in..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "El-Sayed drops former primary rival from Michigan event days before election",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/6c06eb27c99a8573f62c7503d350218c.jpg",
+        "link": "https://thehill.com/homenews/campaign/6186206-el-sayed-disinvites-stevens/",
+        "summary": "<figure><img height=\"506\" src=\"https://media.zenfs.com/en/the_hill_articles_341/6c06eb27c99a8573f62c7503d350218c.jpg\" width=\"900\" /></figure>\n<p>Michi..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Merkel calls for first female president",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-merkel-calls-for-first-female-president/live-79814961?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Former Chancellor Angela Merkel says it's time to consider a woman as Germany's next president. Meanwhile, Berlin's Left Party is deciding whether to ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Donald Trump loses allies after elections in Serbia and Brazil",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/donald-trump-loses-allies-after-elections-in-serbia-and-brazil/a-79812075?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Flavio Bolsonaro failed to gain power, Aleksandar Vucic was voted out of office, and even Benjamin Netanyahu's position has weakened. An unhappy US Pr..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany's search for a nuclear waste site",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-s-search-for-a-nuclear-waste-site/a-79820678?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Finland has become the first country with a final storage facility for nuclear waste. Germany is still searching for a site, while some countries have..."
     },
     {
         "source": "Deutsche Welle",
@@ -113,30 +134,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Serbia after Vucic: The winners are losing patience",
+        "title": "Bulgarians vote in highly polarized presidential runoff overshadowed by Ukraine war",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/serbia-after-vucic-the-winners-are-losing-patience/a-79817586?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After the Student List's election victory, Aleksandar Vucic's power apparatus is disintegrating. People want justice as soon as possible. But the lose..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "More than 290 arrested in France as some weekend protests turn violent",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/more-than-290-arrested-in-france-as-some-weekend-protests-turn-violent/a-79818138?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Protests continue across France as 320,000 people take to the streets over rising living costs and poor school conditions for a third consecutive week..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany's Gen Z protests disrupted by violence on Saturday",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-gen-z-protests-disrupted-by-violence-on-saturday/live-79814694?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Nationwide protests led by young people were largely peaceful throughout the day, but reports about looting and rioting in the evening, especially in ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-news-evacuees-from-russian-occupied-oleshky-reach-kyiv-controlled-territory/live-79815409?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After Melania Trump reportedly brokered a localized truce, residents of Ukraine's Oleshky managed to leave the occupied city. Meanwhile, Kyiv claimed ..."
+        "link": "https://www.dw.com/en/bulgarians-vote-in-highly-polarized-presidential-runoff-overshadowed-by-ukraine-war/a-79820449?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Voters in Bulgaria are choosing between two candidates with vastly different views of the war in Ukraine and ties with Russia. The runoff comes after ..."
     }
 ]
