@@ -36,10 +36,17 @@
     },
     {
         "source": "MJBizDaily",
-        "title": "DEA registers medical marijuana MSO Trulieve, denies adult-use operators federal recognition",
+        "title": "Tilray consolidates Canadian production as cannabis sales decline",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/tilray-consolidates-canadian-production-as-cannabis-sales-decline/619005/",
+        "summary": "<p>Tilray Brands expects $10 million in annualized savings from consolidating Canadian cultivation and pre-roll operations.</p>\n<p><a href=\"https://mj..."
+    },
+    {
+        "source": "MJBizDaily",
+        "title": "DEA recognizes cannabis MSO Trulieve, denies marijuana rescheduling benefit to adult-use operators",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/news/dea-registers-medical-marijuana-mso-trulieve-denies-adult-use-operators-federal-recognition/619001/",
-        "summary": "<p>Major cannabis multistate operator Trulieve Cannabis Corp. said Monday the U.S. Drug Enforcement Administration recognized some of its medical mari..."
+        "summary": "<p>More than 6,000 cannabis operators filed \"timely\" applications for registration with the DEA, which has granted recognition to more than 900 locati..."
     },
     {
         "source": "MJBizDaily",
@@ -63,46 +70,60 @@
         "summary": "<p>The state will have as many as five dispensaries open by early November, state officials said Thursday, as possibly the most tortuous rollout of an..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "How cannabis employers are taking worker healthcare benefits into their own hands",
+        "source": "yahoo.com/news Top Stories",
+        "title": "When will we know who controls Congress? It could be a while.",
+        "image": "https://media.zenfs.com/en/ap.org/b42e72b024314711b71f0aebc1d142da.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/know-controls-congress-could-while-052428093.html",
+        "summary": "<p>WASHINGTON (AP) \u2014 The stakes in <a href=\"https://apnews.com/live/midterm-elections-trump-house-senate-news-updates-11-2-2026\">Tuesday's election</a..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Early voting is breaking records, but the numbers tell a complicated story",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/d3fdcd805573aea2f400380f3d322dbb.jpg",
+        "link": "https://www.usatoday.com/story/news/politics/elections/2026/11/02/early-voting-data-2026-midterm-elections/92562865007/",
+        "summary": "<p>On the eve of Election Day a <a href=\"https://www.usatoday.com/story/graphics/2026/11/01/early-voting-2026-surging-past-2022/92500629007/\" target=\"..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Trump put himself on the midterms ballot without running. Now his legacy is at stake.",
+        "image": "https://media.zenfs.com/en/the_hill_articles_341/5b117e920e9d0932d16d7d47c7698f07.jpg",
+        "link": "https://thehill.com/homenews/administration/6190415-trump-midterm-election-blue-wave/",
+        "summary": "<figure><img height=\"506\" src=\"https://media.zenfs.com/en/the_hill_articles_341/5b117e920e9d0932d16d7d47c7698f07.jpg\" width=\"900\" /></figure>\n<p>Presi..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "U.S. strikes Iranian targets in the Strait of Hormuz on eve of midterms",
+        "image": "https://media.zenfs.com/en/ap.org/4fb536454ecc684472379a500ac0cebf.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/where-things-stand-iran-tense-085523514.html",
+        "summary": "<p>WASHINGTON (AP) \u2014 The United States has conducted defensive strikes on some Iranian targets in the Strait of Hormuz, a U.S. official said Monday, o..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Haley Stevens' Democratic allies turn on her after surprise GOP endorsement",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/4809cb4c1116fee208fd2bdfd24e1842.jpg",
+        "link": "https://www.cnn.com/2026/11/01/politics/haley-stevens-abdul-el-sayed-mike-rogers-michigan-primary-what-happened",
+        "summary": "<figure><img alt=\"Rep. Haley Stevens, D-Michigan, speaks alongside Michigan Republican Senate candidate Mike Rogers after a church service at Perfecti..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Ukraine in focus at Berlin Security Conference",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/how-cannabis-employers-are-taking-worker-healthcare-benefits-into-their-own-hands/618948/",
-        "summary": "<p>Cannabis employers may wish to consider healthcare captives when choosing employee benefits.</p>\n<p><a href=\"https://mjbizdaily.com/news/how-cannab..."
+        "link": "https://www.dw.com/en/germany-news-ukraine-in-focus-at-berlin-security-conference/live-79835322?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "A security conference in the German capital is to examine ways of defending against threats from Russia. The justice minister has put forward a bill t..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Trump brushes aside tough midterm prospects with visit to Reflecting Pool",
+        "source": "Deutsche Welle",
+        "title": "India news: Cyclone Murasu wreaks havoc after landfall",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-brushes-aside-tough-midterm-215812972.html",
-        "summary": "<p>By Jacob Bogage and Nandita Bose </p> <p>  WASHINGTON, Nov 2 (Reuters) - Facing elections that could cost his party control of Congress, President\u00a0..."
+        "link": "https://www.dw.com/en/india-news-cyclone-murasu-wreaks-havoc-after-landfall/live-79835410?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Cyclone Murasu made landfall in Andhra Pradesh, leaving a trail of destruction. Weather agencies have warned of heavy rainfall in the next 12 hours. F..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Supreme Court rejects Trump admin's bid to set aside thousands of California ballots",
-        "image": "https://media.zenfs.com/en/ap.org/4891169936cf9ceccc75e79760adddaf.jpg",
-        "link": "https://www.yahoo.com/news/articles/trump-administration-appeals-supreme-court-162957570.html",
-        "summary": "<p>WASHINGTON (AP) \u2014 <a href=\"https://apnews.com/hub/us-supreme-court\">The Supreme Court</a> on Monday rejected the Trump administration\u2019s push to for..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Passengers in Florida crash identified as family of 4, their caretaker and another couple",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-plane-crash_6398.jpg",
-        "link": "https://www.yahoo.com/news/us/article/learjet-plane-crash-in-florida-kills-all-9-on-board-what-we-know-111242550.html",
-        "summary": "<p style=\"text-align: left;\">The families of the seven passengers who were aboard a Bahamas-bound Learjet that crashed in Palm Beach County, Fla., on ..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Elon Musk is tightening Grok limits as the cost of AI catches up with demand",
+        "source": "Deutsche Welle",
+        "title": "North Korea denies role in record Binance hack, calls US charge 'provocation'",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://finance.yahoo.com/technology/article/musk-is-throttling-grok-because-its-cost-is-unsustainably-high-162959909.html",
-        "summary": "<p style=\"text-align: left;\">Elon Musk said on Sunday that Grok (<a class=\"link\" href=\"https://finance.yahoo.com/quote/SPCX/\" rel=\"\" target=\"_blank\">S..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Iran official says 'the ball is now in the U.S.' court' regarding peace talks",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/132b87780c770c266e650ebf56e52860.jpg",
-        "link": "https://abcnews.com/International/live-updates/iran-live-updates-trump-good-call-netanyahu/?id=137762456",
-        "summary": "<div><p>Talks between the U.S. and Iran remain stalled despite the two countries signing a memorandum of understanding in June, aimed at ending the wa..."
+        "link": "https://www.dw.com/en/north-korea-denies-role-in-record-binance-hack-calls-us-charge-provocation/a-79835321?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Kim Yo Jong dismissed FBI claims that North Korean hackers stole more than $6 billion from Binance, as the exchange began reopening withdrawals on mor..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The Trump administration had appealed to the Supreme Court over claims that a list of more than 20,000 ballots in California include non-US citizens...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ukraine: At least 26 killed in Russian strikes on aid center",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ukraine-at-least-26-killed-in-russian-strikes-on-aid-center/live-79825079?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "At least 26 people were killed in Russian airstrikes on a school that was serving as an aid distribution center in Zaporizhzhia, a southern Ukrainian ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "US to drop South Africa, Rwanda from duty-free trade initiative",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-to-drop-south-africa-rwanda-from-duty-free-trade-initiative/a-79834508?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Trump administration has said South Africa and Rwanda are breaking the rules of the AGOA free trade initiative, a centerpiece of US economic engag..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "France: Petition to ban TV channel gets 500,000 signatures",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/france-petition-to-ban-tv-channel-gets-500-000-signatures/a-79833215?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Support for the petition has surged since last month's shooting of a Black man by a reported avid viewer of CNews. Critics say the channel, often comp..."
     }
 ]
