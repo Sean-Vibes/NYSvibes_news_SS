@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Three Out Of Four Consumers Expect Marijuana Businesses To Lower Prices As Federal Rescheduling Provides Tax Relief, Poll Shows",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/three-out-of-four-consumers-expect-marijuana-businesses-to-lower-prices-as-federal-rescheduling-provides-tax-relief-poll-shows/",
+        "summary": "<p>Most marijuana consumers believe that cannabis businesses that are no longer subject to a longstanding tax penalty due to the Trump administration&..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Who Gets To Define the Future Of Cannabis Medicine? (Op-Ed)",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/who-gets-to-define-the-future-of-cannabis-medicine-op-ed/",
@@ -28,11 +35,18 @@
         "summary": "<p>A national group representing Black police officers is joining with Massachusetts law enforcement officials in urging voters in the state to reject..."
     },
     {
-        "source": "Marijuana Moment",
-        "title": "AMA Raises Concerns About Marijuana, Kratom And Other Botanical Drugs While Pushing \u2018Special Schedule\u2019 To Support Research",
+        "source": "MJBizDaily",
+        "title": "Oklahoma begins enforcing MMJ edibles packaging rules",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/ama-raises-concerns-about-marijuana-kratom-and-other-botanical-drugs-while-pushing-special-schedule-to-support-research/",
-        "summary": "<p>The American Medical Association (AMA) is urging federal officials to uphold &#8220;known and widely accepted scientific and clinical standards for..."
+        "link": "https://mjbizdaily.com/news/oklahoma-begins-enforcing-mmj-edibles-packaging-rules/619019/",
+        "summary": "<p>Regulators can fine MMJ businesses $500 per violation for edible packaging that appeals to kids, but processors say guidance is vague.</p>\n<p><a hr..."
+    },
+    {
+        "source": "MJBizDaily",
+        "title": "Organigram to acquire Aurora Cannabis in $400 million deal, topping Curaleaf bid",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/organigram-to-acquire-aurora-cannabis-in-400-million-deal-topping-curaleaf-bid/619023/",
+        "summary": "<p>Organigram's agreement to acquire Aurora follows Curaleaf's hostile takeover bid as consolidation pressure builds across cannabis industry.</p>\n<p>..."
     },
     {
         "source": "MJBizDaily",
@@ -56,53 +70,60 @@
         "summary": "<p>In separate guidance, the DEA instructed registered medical operators and pending applicants to \"establish compliant supply chains\" by November 29...."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Michigan lawmakers propose pause on 24% cannabis wholesale tax",
+        "source": "yahoo.com/news Top Stories",
+        "title": "2 people dead, hundreds rescued amid severe flooding in Florida",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/9523ee35882000fcb925542e2bcf8846.jpg",
+        "link": "https://abcnews.com/US/2-dead-hundreds-rescued-amid-severe-flooding-florida/story?id=137819002",
+        "summary": "<div><p>Two people were killed -- one of whom died in a vehicle -- and hundreds of others were rescued since Sunday as a storm brought severe flooding..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Midterms may bring in wave of historic firsts across U.S.",
+        "image": "https://media.zenfs.com/en/ap.org/72cdb504a324a97c304598f3352bfab5.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/midterms-may-bring-wave-historic-200547667.html",
+        "summary": "<p style=\"text-align: left;\">Featuring one of the most diverse slates of both Democratic and Republican candidates in recent years, this midterm elect..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "DOJ ramps up Alaska Senate race probe with target letters and new subpoenas: Sources",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/955f5b31ca5b54ee790fc56eb4e98ede.jpg",
+        "link": "https://abcnews.com/US/doj-ramps-probe-alaska-senate-race-target-letters/story?id=137819400",
+        "summary": "<div><p>The Justice Department in recent days has continued moving at an aggressive clip in ramping up its criminal investigation into the <a dir=\"ltr..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Prediction markets vs. polls: Election forecasting industry faces midterm test",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/michigan-lawmakers-propose-pause-on-24-cannabis-wholesale-tax/618965/",
-        "summary": "<p>Michigan's 24% wholesale cannabis tax is trailing revenue projections. A new bill would suspend it for one year. </p>\n<p><a href=\"https://mjbizdail..."
-    },
-    {
-        "source": "MJBizDaily",
-        "title": "Alabama medical cannabis market continues slow rollout with more openings",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/alabama-medical-cannabis-market-continues-slow-rollout-with-more-openings/618960/",
-        "summary": "<p>The state will have as many as five dispensaries open by early November, state officials said Thursday, as possibly the most tortuous rollout of an..."
+        "link": "https://finance.yahoo.com/economy/article/prediction-markets-vs-polls-election-forecasting-industry-faces-midterm-test-100000463.html",
+        "summary": "<p style=\"text-align: left;\">Prediction markets and pollsters both say Democrats are favored to take both the US House and Senate in the midterms. Pre..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump says U.S. will halt $4 billion in annual aid to Israel and shift to selling arms",
-        "image": "https://media.zenfs.com/en/ap.org/fa2f1ffd0b3fed4677785ac0e11bdf98.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-says-us-halt-4-140212112.html",
-        "summary": "<p>WASHINGTON (AP) \u2014 The United States will stop providing $4 billion in aid each year to Israel in 2027 but will <a href=\"https://apnews.com/article/..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Democrats are hoping for a 'blue wave' election. These races could offer early clues.",
-        "image": "https://media.zenfs.com/en/la_times_articles_853/24affd86487e1239c443846f66c49cd6.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/races-might-predict-blue-wave-110000809.html",
-        "summary": "<figure><img alt=\"Mail-in-ballots are tabulated at the Los Angeles County Ballot Processing Center for the 2026 midterm election\" height=\"560\" src=\"ht..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Republicans face a fight for control of Congress as midterm elections get underway",
-        "image": "https://media.zenfs.com/en/fox_news_text_979/1e544cc1bc8b3e159caebad78d3b8ffa.jpg",
-        "link": "https://www.foxnews.com/politics/battle-congress-just-beginning-heres-whats-stake-election-day",
-        "summary": "<p>It's <a href=\"https://www.foxnews.com/elections\" target=\"_blank\">Election Day</a> in America, with voters heading to the polls to determine control..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "'Issue involving paper ballots' reported in 1 New York county",
+        "title": "Ballot counting issues reported in key New York swing district",
         "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/democrat-2-copy-2_6153.png",
         "link": "https://www.yahoo.com/news/politics/live/midterms-2026-live-updates-election-day-voters-head-to-the-polls-as-democrats-look-to-flip-gop-control-of-the-house-and-senate-110000715.html",
         "summary": "<p style=\"text-align: left;\">Election Day is<strong> </strong>here. Today, voters across the United States are heading to the polls to cast their ball..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "NASA administrator defends 20-year-old Learjet co-pilot after Florida crash",
-        "image": "https://media.zenfs.com/en/usa_today_news_641/b61a3d3f4493d7a9d45c358442f46099.jpg",
-        "link": "https://www.usatoday.com/story/news/nation/2026/11/03/nasa-chief-learjet-copilot-in-fatal-florida-crash/92582759007/",
-        "summary": "<p>NASA Administrator Jared Isaacman took to his personal social media account Nov. 2 to defend <a href=\"https://www.usatoday.com/story/news/nation/20..."
+        "source": "Deutsche Welle",
+        "title": "Spain transport minister offers resignation in wake of train accident",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/spain-transport-minister-offers-resignation-in-wake-of-train-accident/a-79848097?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After two deadly train crashes this year, Spanish Transport Minister Oscar Puente has said he will step down...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Greenland's parliament ratifies Trump's US security agreement",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/greenland-s-parliament-ratifies-trump-s-us-security-agreement/a-79847399?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US is set to expand its military footprint on the Arctic island, part of the Kingdom of Denmark. It follows pressure from Donald Trump earlier in ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "UK's King Charles III decries 'monstrous injustice' of slave trade",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/uk-s-king-charles-iii-decries-monstrous-injustice-of-slave-trade/a-79845889?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "King Charles has told leaders at a Commonwealth summit that the legacy of the transatlantic slave trade \"fills my heart with horror.\" He did not addre..."
     },
     {
         "source": "Deutsche Welle",
@@ -113,30 +134,9 @@
     },
     {
         "source": "Deutsche Welle",
-        "title": "Merz sees no sign Russia is serious about a ceasefire as he and Zelenskyy call for Europe to help shape a peace deal",
+        "title": "Ukraine war: Merz doubts Russia is serious about a truce",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/merz-sees-no-sign-russia-is-serious-about-a-ceasefire-as-he-and-zelenskyy-call-for-europe-to-help-shape-a-peace-deal/a-79836026?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "German Chancellor Friedrich Merz says he sees no sign Russia is serious about negotiating a ceasefire. He and Ukrainian President Volodymyr Zelenskyy ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "What's behind new India-China border tensions?",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/what-s-behind-new-india-china-border-tensions/a-79843273?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Indian authorities have confirmed a new border \"face-off\" between Indian and Chinese troops in Arunachal Pradesh, raising questions about the still fr..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "How Berlin's Arab queers are building their community",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/how-berlin-s-arab-queers-are-building-their-community/a-79833143?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "As the co-founder of the ADIRA Drag Festival, Lebanese performance artist, drag performer, DJ and cultural organizer Hassandra has become an essential..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Cyprus: From ties with Russia to a strategic alignment with the US",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/cyprus-from-ties-with-russia-to-a-strategic-alignment-with-the-us/a-79841251?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The Republic of Cyprus long balanced ties between Russia and the West. Now, it is phasing out Russian weapons, expanding defense cooperation with the ..."
+        "link": "https://www.dw.com/en/ukraine-war-merz-doubts-russia-is-serious-about-a-truce/a-79836026?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "German Chancellor Friedrich Merz met with Volodymyr Zelenskyy in Berlin. Both leaders said the EU needs to be included in peace talks with Russia. Mer..."
     }
 ]
