@@ -36,6 +36,13 @@
     },
     {
         "source": "MJBizDaily",
+        "title": "Medical cannabis dispensary rejected for DEA registration as more federal marijuana rescheduling details emerge",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://mjbizdaily.com/news/medical-cannabis-dispensary-rejected-for-dea-registration-as-more-federal-marijuana-rescheduling-details-emerge/619130/",
+        "summary": "<p>Only a handful of medical cannabis operators have publicly announced the DEA recognized their dispensaries as federally legal. And no MMJ operator ..."
+    },
+    {
+        "source": "MJBizDaily",
         "title": "Day 48: How Spectrum Tuning is Rewriting the Cannabis Harvest Calendar",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://mjbizdaily.com/sponsored/day-48-how-spectrum-tuning-is-rewriting-the-cannabis-harvest-calendar/619097/",
@@ -63,46 +70,53 @@
         "summary": "<p>Missouri's attorney general accuses four retailers of selling over-limit THC products as hemp while posing as licensed dispensaries.</p>\n<p><a href..."
     },
     {
-        "source": "MJBizDaily",
-        "title": "Michigan cannabis industry hopeful Democratic takeover will mean tax repeal",
+        "source": "yahoo.com/news Top Stories",
+        "title": "Trump picks Stephen Miller as chief of staff, signaling intent to stay the course",
+        "image": "https://media.zenfs.com/en/reuters.com/e3ab10a114b7cf7840d44febb868d4c0.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/trump-promotes-stephen-miller-post-190429829.html",
+        "summary": "<p style=\"text-align: left;\">By Bo Erickson, Nandita Bose, Steve Holland and Trevor Hunnicutt</p><p style=\"text-align: left;\">WASHINGTON, Nov 6 (Reute..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Democrats take full control of Arizona government for 1st time in 60 years",
+        "image": "https://media.zenfs.com/en/ap.org/c71f20945e3f1f984f234ce32141bdf9.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/arizona-democrats-gain-trifecta-control-183915097.html",
+        "summary": "<p style=\"text-align: left;\">PHOENIX (AP) \u2014 Democrats in <a class=\"link\" href=\"https://apnews.com/hub/arizona\" target=\"_blank\">Arizona</a> won control..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Polar vortex could bring an early blast of winter to the eastern U.S.",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-11/27e10246-de60-4d8f-b57b-c8be92547495",
+        "link": "https://www.yahoo.com/news/weather-news/article/the-polar-vortex-is-weakening-unusually-early-heres-what-that-could-mean-for-the-weather-172644197.html",
+        "summary": "<p style=\"text-align: left;\">The polar vortex is weakening unusually early, forecasters have said, with a rare disruption possible within days that co..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Elizabeth Warren's new Senate role puts Wall Street and Trump on notice for hearings",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://mjbizdaily.com/news/michigan-cannabis-industry-hopeful-democratic-takeover-will-mean-tax-repeal/619108/",
-        "summary": "<p>Michigan cannabis operators backed a Republican candidate for governor after he pledged to cut a new wholesale tax, but are hopeful a Democratic tr..."
+        "link": "https://finance.yahoo.com/economy/article/elizabeth-warren-will-take-over-the-senate-banking-committee-next-year-expect-hearings-205713342.html",
+        "summary": "<p style=\"text-align: left;\">Democratic firebrand Elizabeth Warren, a consumer advocate known for her fierce battles over financial regulations, will ..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "2 DOJ officials resign, including attorney who oversaw 'grand conspiracy' probe",
-        "image": "https://media.zenfs.com/en/ap.org/f1979b11b57b830a0eb119c10cbb992b.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/2-justice-department-officials-resign-184505114.html",
-        "summary": "<p style=\"text-align: left;\">WASHINGTON (AP) \u2014 The top federal prosecutor in Miami who had been tasked with overseeing an <a class=\"link\" href=\"https:..."
+        "title": "New DNA technology could solve JonBen\u00e9t Ramsey's killing 30 years later",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/2fd4ef3fa179395cd2b780666324a98d.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/dna-tech-could-solve-jonben-182509064.html",
+        "summary": "<p style=\"text-align: left;\">In the early hours of Dec. 26, 1996, after a festive family Christmas, Patsy Ramsey walked down the stairs in her Boulder..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "GOP's losses will raise pressure on conservative Supreme Court justices to retire",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-11/399f5cdf-7331-41aa-84d3-6510485f6eb1",
-        "link": "https://washingtonpost.com/politics/2026/11/05/gops-losses-will-raise-pressure-conservative-supreme-court-justices-retire/",
-        "summary": "<p>The GOP\u2019s sweeping losses in the midterm elections Tuesday set up an unsettling possibility for the party: If it doesn\u2019t act now to confirm a new S..."
+        "source": "Deutsche Welle",
+        "title": "Paraguay: President Santiago Pena under house arrest over bank crisis",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Paraguay\u2019s Senate has ousted President Santiago Pena over the collapse of a major bank tied to his government. Millions of customers' accounts are fro..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Trump replaces Susie Wiles with Stephen Miller as White House chief of staff",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-11/17e604e9-75bf-40b8-aa8f-81797b90319b",
-        "link": "https://www.yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html",
-        "summary": "<p style=\"text-align: left;\">Democrats continue to celebrate one of the most lopsided midterm election victories in modern U.S. history, <a class=\"lin..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Cornell faculty votes 'no confidence' in university leaders over handling of rape allegations",
-        "image": "https://media.zenfs.com/en/ap.org/727e02bd480ab3bcd31d6078cb2b94f1.jpg",
-        "link": "https://www.yahoo.com/news/articles/cornell-faculty-vote-no-confidence-204357903.html",
-        "summary": "<p>Cornell University's Faculty Senate approved a resolution Friday <a href=\"https://apnews.com/article/cornell-university-rape-case-kotlikoff-faculty..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Sen. Chris Murphy is released from hospital after hemorrhagic stroke",
-        "image": "https://media.zenfs.com/en/cbs_news_897/67aa0db1f574416a189b87189e2cfbce.jpg",
-        "link": "https://www.cbsnews.com/news/chris-murphy-stroke-hospital-miss-votes/",
-        "summary": "<p></p><p></p><p>Washington \u2014 Democratic Sen. Chris Murphy of Connecticut was released from the hospital Friday after <a href=\"https://www.cbsnews.com..."
+        "source": "Deutsche Welle",
+        "title": "Pope Leo arrives in Uruguay at start of South America tour",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Pope Leo has arrived in Uruguay at the start of a 12-day trip through three South American nations. His trip, which is intense with a packed itinerary..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/ueno-bank-scandal-plunges-paraguay-into-political-crisis/a-79881388?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Suspected financial fraud, public money at risk and millions of customers affected: Paraguay is in serious crisis following the sudden collapse of Uen..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Critics say Democrats should look into Trump's Middle East deals in future corruption investigations",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/critics-say-democrats-should-look-into-trump-s-middle-east-deals-in-future-corruption-investigations/a-79877104?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After their victory in the US midterm elections, the Democrats have promised to investigate corruption in the Trump administration. Critics say the pr..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Ilse Aigner tipped by party allies as next German president",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ilse-aigner-tipped-by-party-allies-as-next-german-president/a-79880594?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "German media reports suggest that Bavarian politician Ilse Aigner's chances of becoming the next president are on the up. Long favored by her Bavarian..."
     }
 ]
