@@ -71,6 +71,13 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Latino vote helped thwart Texas Republicans' redistricting effort",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/73d1d27cb332f200bba9e3778901ce9a.jpg",
+        "link": "https://abcnews.com/Politics/latino-vote-helped-thwart-texas-republicans-redistricting-effort/story?id=137880812",
+        "summary": "<div><p>Last year, the Republican-controlled Texas legislature redrew its congressional maps in a controversial <a dir=\"ltr\" href=\"https://abcnews.com..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Trump picks Stephen Miller as chief of staff, signaling intent to stay the course",
         "image": "https://media.zenfs.com/en/reuters.com/e3ab10a114b7cf7840d44febb868d4c0.jpg",
         "link": "https://www.yahoo.com/news/politics/articles/trump-promotes-stephen-miller-post-190429829.html",
@@ -78,10 +85,10 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Democrats take full control of Arizona government for 1st time in 60 years",
-        "image": "https://media.zenfs.com/en/ap.org/c71f20945e3f1f984f234ce32141bdf9.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/arizona-democrats-gain-trifecta-control-183915097.html",
-        "summary": "<p style=\"text-align: left;\">PHOENIX (AP) \u2014 Democrats in <a class=\"link\" href=\"https://apnews.com/hub/arizona\" target=\"_blank\">Arizona</a> won control..."
+        "title": "Democrats' midterm wins could change how we elect presidents by 2028",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-electoral-college_5709.jpg",
+        "link": "https://www.yahoo.com/news/politics/article/democrats-big-midterm-wins-could-change-how-we-elect-the-next-president-212716348.html",
+        "summary": "<p style=\"text-align: left;\">Could this year's <a class=\"link\" href=\"https://www.yahoo.com/news/politics/article/democrats-2026-midterm-rout-was-big--..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -92,51 +99,44 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Elizabeth Warren's new Senate role puts Wall Street and Trump on notice for hearings",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://finance.yahoo.com/economy/article/elizabeth-warren-will-take-over-the-senate-banking-committee-next-year-expect-hearings-205713342.html",
-        "summary": "<p style=\"text-align: left;\">Democratic firebrand Elizabeth Warren, a consumer advocate known for her fierce battles over financial regulations, will ..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "New DNA technology could solve JonBen\u00e9t Ramsey's killing 30 years later",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/2fd4ef3fa179395cd2b780666324a98d.jpg",
-        "link": "https://www.yahoo.com/news/us/articles/dna-tech-could-solve-jonben-182509064.html",
-        "summary": "<p style=\"text-align: left;\">In the early hours of Dec. 26, 1996, after a festive family Christmas, Patsy Ramsey walked down the stairs in her Boulder..."
+        "title": "Everyone called it a blue wave. But were the midterms more about independents?",
+        "image": "https://media.zenfs.com/en/deseret_news_992/c272ecd335df2989d78af6edd57447fc.jpg",
+        "link": "https://www.deseret.com/opinion/2026/11/06/independents-flex-muscle-blue-wave-democrats-midterms/",
+        "summary": "<figure>\n<img src=\"https://media.zenfs.com/en/deseret_news_992/c272ecd335df2989d78af6edd57447fc.jpg\" />\n<figcaption>\n                                 ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Paraguay: President Santiago Pena under house arrest over bank crisis",
+        "title": "New Zealand election too close to call with half the votes counted",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/paraguay-president-santiago-pena-under-house-arrest-over-bank-crisis/a-79868484?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Paraguay\u2019s Senate has ousted President Santiago Pena over the collapse of a major bank tied to his government. Millions of customers' accounts are fro..."
+        "link": "https://www.dw.com/en/new-zealand-election-too-close-to-call-with-half-the-votes-counted/a-79883056?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Early results after polls closed in New Zealand show the two main parties neck-and-neck. The country has strict election-day laws on political reporti..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Pope Leo arrives in Uruguay at start of South America tour",
+        "title": "Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pope-leo-arrives-in-uruguay-at-start-of-south-america-tour/a-79872584?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Pope Leo has arrived in Uruguay at the start of a 12-day trip through three South American nations. His trip, which is intense with a packed itinerary..."
+        "link": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-airstrikes-ahead-of-trilateral-talks/a-79883851?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The strikes hit a major bridge and energy facilities in the Kyiv region. President Volodymyr Zelenskyy accused Moscow of trying to \"push\" Ukraine \"int..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Tankers carrying Russian diesel to the US change course",
+        "title": "Germany news: Frankfurt braces for Iran protests",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/tankers-carrying-russian-diesel-to-the-us-change-course/a-79870807?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Despite an ostensible deal between Donald Trump and Vladimir Putin to bring diesel to the US, tankers are reportedly unable to dock due to existing sa..."
+        "link": "https://www.dw.com/en/germany-news-frankfurt-braces-for-iran-protests/live-79883533?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "An appearance by Iranian opposition figure Reza Pahlavi is expected to trigger demonstrations in Frankfurt. Meanwhile, Germany's defense minister says..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Stephen Miller named by Trump as new White House chief of staff",
+        "title": "Amid protests, France's rising debt costs threaten stability",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/stephen-miller-named-by-trump-as-new-white-house-chief-of-staff/a-79881571?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Trump said he would be replacing Susie Wiles for the top advisory role. Miller is controversial figure, known as a key architect of the administration..."
+        "link": "https://www.dw.com/en/amid-protests-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "France plans to spend an extra \u20ac4 billion on education amid nationwide protests. But with public debt mounting and interest costs climbing, how much f..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Ueno Bank scandal plunges Paraguay into political crisis",
+        "title": "US: Giant pandas from China make public debut at Atlanta zoo",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ueno-bank-scandal-plunges-paraguay-into-political-crisis/a-79881388?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Suspected financial fraud, public money at risk and millions of customers affected: Paraguay is in serious crisis following the sudden collapse of Uen..."
+        "link": "https://www.dw.com/en/us-giant-pandas-from-china-make-public-debut-at-atlanta-zoo/a-79883388?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Ping Ping and Fu Shuang are the first giant pandas to be housed in Zoo Atlanta after a gap of two years...."
     }
 ]
