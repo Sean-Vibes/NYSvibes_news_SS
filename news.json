@@ -71,6 +71,13 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "After midterms and Stephen Miller's promotion, Dems gear up for an immigration fight",
+        "image": "https://media.zenfs.com/en/ap.org/580cd2c48e99944b083747832543f85e.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/midterm-win-stephen-miller-promotion-050234379.html",
+        "summary": "<p>WASHINGTON (AP) \u2014 After Democrats' overwhelming <a href=\"https://apnews.com/hub/elections\">midterm victories</a> this week, winning candidates spok..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Despite blue wave, not all Dems will commit to Schumer for majority leader just yet",
         "image": "https://media.zenfs.com/en/cnn_articles_875/e13c3fb2944a0641d7b26242501dd3f9.jpg",
         "link": "https://www.cnn.com/2026/11/07/politics/senate-democrats-new-majority-leader",
@@ -78,65 +85,58 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Peltola campaign sues Alaska for rejected ballot records as Senate race stays tight",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/aafa8270d8698475e625daeb3c1798ec.jpg",
-        "link": "https://thehill.com/homenews/campaign/6205934-peltola-campaign-alaska-ballot-lawsuit/",
-        "summary": "<figure><img height=\"506\" src=\"https://media.zenfs.com/en/the_hill_articles_341/aafa8270d8698475e625daeb3c1798ec.jpg\" width=\"900\" /></figure>\n<p>Democ..."
+        "title": "1 person dead and at least 12 injured after driver hits group of cyclists in North Carolina",
+        "image": "https://media.zenfs.com/en/nbc_news_122/cef77152d6f70a1bc118013e333865d1.jpg",
+        "link": "https://www.nbcnews.com/news/us-news/1-dead-least-12-injured-elderly-driver-plows-cyclists-rcna608041",
+        "summary": "<figure><img alt=\"A car hit several people riding bicycles today near Raleigh, North Carolina, killing at least one person and injuring 20 others. (WR..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Stephen Miller got Trump's top staff job after his wife rallied support for him",
-        "image": "https://media.zenfs.com/en/politico_453/cee2ff6a20b3898745501acd826ee114.jpg",
-        "link": "https://www.politico.com/news/2026/11/06/how-katie-miller-helped-make-her-husband-become-chief-of-staff-01154997",
-        "summary": "<p>President Donald Trump's decision to make Stephen Miller the White House chief of staff followed a weeks-long lobbying effort from Katie Miller, hi..."
+        "title": "Netanyahu rival given first chance at forming new government",
+        "image": "https://media.zenfs.com/en/ap.org/76dfa731b86c6f44e8498fdd524fce92.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/netanyahu-rival-given-first-chance-112410767.html",
+        "summary": "<p>TEL AVIV, Israel (AP) \u2014 Israel\u2019s president has designated Prime Minister Benjamin Netanyahu\u2019s main rival, <a href=\"https://apnews.com/article/israe..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "2 licensed skydivers die after a midair collision in California",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://nypost.com/2026/11/07/us-news/two-skydivers-killed-in-midair-collision-near-lake-elsinore-identified/",
-        "summary": "<img alt=\"An image collage containing 3 images, Image 1 shows Skydivers receiving medical attention on the ground after a midair collision in Riversid..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Eisenkot gets first chance to form Israeli government as Netanyahu fights to stay on",
-        "image": "https://media.zenfs.com/en/reuters.com/f2a66978ebd15031a670fe4b9f0fb340.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/israeli-president-picks-gadi-eisenkot-193153373.html",
-        "summary": "<p>Nov 7 (Reuters) - Israel's president on Saturday chose Gadi Eisenkot, Prime Minister Benjamin Netanyahu's strongest rival, to try to form a new gov..."
+        "title": "Poland shooting leaves 6 dead as police find more bodies at suspect's home",
+        "image": "https://media.zenfs.com/en/bbc_us_articles_995/edca6fb4d06d7804a4e456effe83d893.jpg",
+        "link": "https://www.bbc.com/news/articles/cmd7q15drwgeo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+        "summary": "<figure>\n<img alt=\"Police secure an area near Krakow's Main Market Square after a shooting that killed five people\" height=\"3375\" src=\"https://media.z..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "As COP31 Antalya kicks off, can world move beyond big promises?",
+        "title": "At least 21 killed after migrant boat sinks off Senegal",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Droughts, floods and extreme heat are upping the pressure on delegates at the UN climate talks in Antalya, Turkey. Can countries move beyond pledges t..."
+        "link": "https://www.dw.com/en/at-least-21-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The incident occurred near Kebemer off the coast of northwestern Senegal. Authorities on El Hierro in the Canary Islands have declared an emergency af..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Poland: Gunman kills 6 in Krakow main square",
+        "title": "Iran: US strikes ship after Hormuz blockade breach",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A gunman who fired from a car killed at least six people, including a British tourist, in Krakow's main market square. Officials said the shooter was ..."
+        "link": "https://www.dw.com/en/iran-us-strikes-ship-after-hormuz-blockade-breach/a-79890434?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The US military said a vessel trying to leave an Iranian port was hit due to the naval blockade on the country. On its part, Iran said three \"non comp..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Ebola: Why is there still no vaccine?",
+        "title": "Gaza: Rains add misery to humanitarian catastrophe",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/ebola-why-is-there-still-no-vaccine/a-79888134?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Ebola has been known about for decades, but there is still no vaccine against the Bundibugyo strain of the virus causing the current outbreak. New res..."
+        "link": "https://www.dw.com/en/gaza-rains-add-misery-to-humanitarian-catastrophe/a-79889580?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "With most homes damaged or destroyed by the war, Gazans are facing worsening humanitarian conditions due to heavy rain...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Israeli president tasks Gadi Eisenkot with forming government",
+        "title": "'Never Again!': Holocaust remembrance under pressure",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/israeli-president-tasks-gadi-eisenkot-with-forming-government/a-79888288?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "President Isaac Herzog has picked former Israeli military chief Gadi Eisenkot, leader of an anti-Netanyahu alliance, to take the first shot at trying ..."
+        "link": "https://www.dw.com/en/never-again-holocaust-remembrance-under-pressure/a-79840894?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Only a few Holocaust survivors remain who can share their stories firsthand. Meanwhile, voices calling for an end to what they describe as a \"cult of ..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Trump offers White House press secretary role to Dana White",
+        "title": "Poland begins two days of mourning over Krakow shooting",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US President Donald Trump has offered the White House press secretary job to Dana White, the chief executive of the Ultimate Fighting Championship. Wh..."
+        "link": "https://www.dw.com/en/poland-begins-two-days-of-mourning-over-krakow-shooting/a-79889400?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Polish authorities have opened a terror probe after the shooting on Krakow's Main Square. Police confirmed that the bodies found at the suspect's home..."
     }
 ]
