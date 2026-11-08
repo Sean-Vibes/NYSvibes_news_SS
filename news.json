@@ -71,6 +71,13 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Sanders warns Democrats about spending too much time investigating Trump",
+        "image": "https://media.zenfs.com/en/politico_453/debc3745c0302c959197e3506a7af388.jpg",
+        "link": "https://www.politico.com/news/2026/11/08/sanders-warns-democrats-investigating-trump-01155517",
+        "summary": "<p>Sen. Bernie Sanders on Sunday applauded the Democrats' midterm victories but warned the incoming majority against spending too much time investigat..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "U.S. forces are ready to strike Iran, but Trump doubts they'll need to",
         "image": "https://media.zenfs.com/en/cnn_articles_875/9e2a36f7d28d0f8d1079f1c0add33551.jpg",
         "link": "https://www.cnn.com/2026/11/08/politics/trump-interview-on-iran",
@@ -78,37 +85,51 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Immigration crackdown isn't expected to ease after GOP election losses",
-        "image": "https://media.zenfs.com/en/cbs_news_897/da08575b1d22b58583077e71ba202705.jpg",
-        "link": "https://www.cbsnews.com/news/ice-crackdown-stephen-miller-illegal-immigration/",
-        "summary": "<p></p><p></p><p>The Trump administration is unlikely to scale back its <a href=\"https://www.cbsnews.com/news/ice-crackdown-texas-latinos-trump/?ftag=..."
+        "title": "Nvidia's Huang admits to affair after allegations of romance with alleged Chinese spy",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://finance.yahoo.com/markets/article/nvidias-jensen-huang-admits-to-affair-after-allegations-of-romance-with-chinese-spy-report-205122263.html",
+        "summary": "<p style=\"text-align: left;\">Nvidia's (<a class=\"link\" href=\"https://finance.yahoo.com/quote/NVDA/\" rel=\"\" target=\"_blank\">NVDA</a>) board is launchin..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "'Trump has cost us': MAGA loyalists question his future after midterm losses",
-        "image": "https://media.zenfs.com/en/reuters.com/38cd1d28a6a2268f783e38dd40945022.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-cost-us-midterm-losses-110625474.html",
-        "summary": "<p>By Ned Parker, John Shiffman, Mike Spector, Peter Eisler and Linda So </p> <p>  DALLAS, Nov 8 (Reuters) - As Republicans faced a nationwide drubbin..."
+        "title": "Unreported votes give Republican the lead in Georgia state House race",
+        "image": "https://media.zenfs.com/en/thegrio_yahoo_articles_946/b23234a057ef1e201a46e620a17dea73.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/previously-unreported-votes-reverse-lead-191831170.html",
+        "summary": "<figure>\n<img alt=\"Voters In Georgia Head To The Polls For The Primary Election Runoff\" height=\"683\" src=\"https://media.zenfs.com/en/thegrio_yahoo_art..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Battle between Congress and Trump looms as he vows political comeback",
-        "image": "https://media.zenfs.com/en/afp.com/59bea443fc8b25047076aaf9a0d2ab77.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-vows-comeback-bitter-showdown-160116637.html",
-        "summary": "<figure><img src=\"https://media.zenfs.com/en/afp.com/59bea443fc8b25047076aaf9a0d2ab77.jpg\" /><figcaption>The devastating US midterm election loss leav..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "El-Sayed says he is 'happy' to work with Trump on Medicare for all and other priorities",
-        "image": "https://media.zenfs.com/en/politico_453/c36cba8225319e50ea74403122b4e345.jpg",
-        "link": "https://www.politico.com/news/2026/11/08/el-sayed-work-with-trump-medicare-01155555",
-        "summary": "<p>Sen.-elect Abdul El-Sayed on Sunday opened the door to potentially working with President Donald Trump to pass legislation securing nationwide affo..."
+        "title": "House Democratic leader Jeffries says Democrats won't work with Trump's chief of staff",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/29886384a5eff206cb9f90a10e0de642.jpg",
+        "link": "https://www.usatoday.com/story/news/politics/2026/11/08/hakeem-jeffries-democrats-not-work-stephen-miller/92678563007/",
+        "summary": "<p>Democratic House Minority Leader <a href=\"https://www.usatoday.com/story/news/politics/2026/10/01/exclusive-hakeem-jeffries-ai-crisis-guardrails/92..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Dozens killed after migrant boat sinks off Senegal",
+        "title": "Nvidia CEO Huang admits affair amid rumors of China spy ties",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/dozens-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-xml-mrss",
+        "link": "https://www.dw.com/en/nvidia-ceo-huang-admits-affair-amid-rumors-of-china-spy-ties/a-79894747?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Following reports of Nvidia's chief Jensen Huang becoming involved with a Chinese spy, Huang offered an apology for cheating on his wife. Meanwhile, t..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Iran: Trump says strikes unlikely if peace talks keep moving",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/iran-trump-says-strikes-unlikely-if-peace-talks-keep-moving/a-79894190?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "After weeks of rumors that the US and Israel were preparing new strikes on Iran, President Donald Trump said it was \"highly unlikely\" that he would or..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Merz to nominate Aigner for president",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-merz-to-nominate-aigner-for-president/live-79883533?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "German Chancellor Friedrich Merz announced that he will nominate Ilse Aigner for federal president, paving the way for her to be the first woman to ho..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Many killed after migrant boat sinks off Senegal",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/many-killed-after-migrant-boat-sinks-off-senegal/a-79890883?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The incident occurred near Kebemer off the coast of northwestern Senegal. Authorities on El Hierro in the Canary Islands have declared an emergency af..."
     },
     {
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/south-africa-elections-anc-marks-its-worst-ever-performance/a-79887482?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The African National Congress, the party of late Nobel Prize winner Nelson Mandela, slumped to its worst-ever result in South Africa's municipal elect..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Egypt train crash leaves several dead, over 100 injured",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/egypt-train-crash-leaves-several-dead-over-100-injured/a-79892916?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A train derailed after colliding with another train south of Cairo, with authorities confirming several deaths and saying more than 100 passengers wer..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Israel: Eisenkot officially tasked with forming a government",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/israel-eisenkot-officially-tasked-with-forming-a-government/a-79891422?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Israeli President Isaac Herzog tasked Gadi Eisenkot with the right of trying to form a government. The opposition leader's way to replacing Benjamin N..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Iran: US strikes ship after Hormuz blockade breach",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/iran-us-strikes-ship-after-hormuz-blockade-breach/a-79890434?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The US military said a vessel trying to leave an Iranian port was hit due to the naval blockade on the country. On its part, Iran said three \"non comp..."
     }
 ]
