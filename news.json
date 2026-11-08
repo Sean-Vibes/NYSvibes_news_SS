@@ -71,24 +71,17 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Despite blue wave, not all Dems will commit to Schumer for majority leader just yet",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/e13c3fb2944a0641d7b26242501dd3f9.jpg",
+        "link": "https://www.cnn.com/2026/11/07/politics/senate-democrats-new-majority-leader",
+        "summary": "<figure><img alt=\"Senate Minority Leader Chuck Schumer speaks during a press conference on November 3, 2026, in Washington, DC. - Tom Brenner/Getty Im..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Peltola campaign sues Alaska for rejected ballot records as Senate race stays tight",
         "image": "https://media.zenfs.com/en/the_hill_articles_341/aafa8270d8698475e625daeb3c1798ec.jpg",
         "link": "https://thehill.com/homenews/campaign/6205934-peltola-campaign-alaska-ballot-lawsuit/",
         "summary": "<figure><img height=\"506\" src=\"https://media.zenfs.com/en/the_hill_articles_341/aafa8270d8698475e625daeb3c1798ec.jpg\" width=\"900\" /></figure>\n<p>Democ..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Ron DeSantis's post-midterm media blitz renews 2028 chatter",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.politico.com/news/2026/11/07/desantis-post-midterm-media-blitz-renews-2028-chatter-01154646",
-        "summary": "<p>TALLAHASSEE, Florida \u2014 Ron DeSantis declared on CNN this week that he will be a \u201cfree man after Jan. 5\u201d \u2014 a nod to the end of his two terms as gove..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Eisenkot gets first chance to form Israeli government as Netanyahu fights to stay on",
-        "image": "https://media.zenfs.com/en/reuters.com/f2a66978ebd15031a670fe4b9f0fb340.jpg",
-        "link": "https://www.yahoo.com/news/world/articles/israeli-president-picks-gadi-eisenkot-193153373.html",
-        "summary": "<p>Nov 7 (Reuters) - Israel's president on Saturday chose Gadi Eisenkot, Prime Minister Benjamin Netanyahu's strongest rival, to try to form a new gov..."
     },
     {
         "source": "yahoo.com/news Top Stories",
@@ -99,10 +92,24 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump says he offered press secretary gig to UFC's Dana White, who reportedly declined",
+        "title": "2 licensed skydivers die after a midair collision in California",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://sports.yahoo.com/mma/article/dana-white-flying-to-washington-after-donald-trump-offers-ufc-boss-white-house-press-secretary-job-235902950.html",
-        "summary": "<p style=\"text-align: left;\">U.S. President Donald Trump offered the open White House press secretary position to UFC chief executive Dana White in a ..."
+        "link": "https://nypost.com/2026/11/07/us-news/two-skydivers-killed-in-midair-collision-near-lake-elsinore-identified/",
+        "summary": "<img alt=\"An image collage containing 3 images, Image 1 shows Skydivers receiving medical attention on the ground after a midair collision in Riversid..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Eisenkot gets first chance to form Israeli government as Netanyahu fights to stay on",
+        "image": "https://media.zenfs.com/en/reuters.com/f2a66978ebd15031a670fe4b9f0fb340.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/israeli-president-picks-gadi-eisenkot-193153373.html",
+        "summary": "<p>Nov 7 (Reuters) - Israel's president on Saturday chose Gadi Eisenkot, Prime Minister Benjamin Netanyahu's strongest rival, to try to form a new gov..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "As COP31 Antalya kicks off, can world move beyond big promises?",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Droughts, floods and extreme heat are upping the pressure on delegates at the UN climate talks in Antalya, Turkey. Can countries move beyond pledges t..."
     },
     {
         "source": "Deutsche Welle",
@@ -131,12 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/trump-offers-white-house-press-secretary-role-to-dana-white/a-79888119?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "US President Donald Trump has offered the White House press secretary job to Dana White, the chief executive of the Ultimate Fighting Championship. Wh..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "France sees new round of Yellow Vest, student protests",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/france-sees-new-round-of-yellow-vest-student-protests/a-79884064?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Although fewer protesters turned out in comparison with previous weeks, several cities saw clashes between police and demonstrators...."
     }
 ]
