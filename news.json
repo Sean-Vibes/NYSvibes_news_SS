@@ -71,6 +71,13 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "The mysterious former journalist at the center of the Nvidia spy scandal",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/22cce473e4f49ffdcec4850b5887c202.jpg",
+        "link": "https://www.cnn.com/2026/11/10/china/nvidia-china-spy-scandal-hnk-intl",
+        "summary": "<figure><img alt=\"Jensen Huang and Alice Huang are seen dining at a restaurant in Shanghai. CNN geolocated the image to an upscale restaurant along Sh..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "JFK's family sues Trump over arch they say would cast a shadow on late president's grave",
         "image": "https://media.zenfs.com/en/usa_today_news_641/0d475cfed8059999b8c1659739415e52.jpg",
         "link": "https://www.usatoday.com/story/news/politics/2026/11/10/valor-over-vanity-jfk-heirs-sue-trump-over-plans-to-build-arch/92716131007/",
@@ -78,65 +85,58 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Dreams, desks and selfies: Newly elected members of Congress learn their way around",
-        "image": "https://media.zenfs.com/en/ap.org/7d2623878d57d1e84300058e6b00ad0c.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/dreams-desks-selfies-newly-elected-185710725.html",
-        "summary": "<p style=\"text-align: left;\">WASHINGTON (AP) \u2014 Rep.-elect LaKesha Womack, a community organizer who stunned her own Democratic Party by defeating a we..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Rubio says U.S. doesn't need to attack Iran again as peace talks gain momentum",
-        "image": "https://media.zenfs.com/en/afp.com/011671f81ddf3662640696c54ef543a7.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/rubio-says-no-attack-iran-153709721.html",
-        "summary": "<figure><img src=\"https://media.zenfs.com/en/afp.com/011671f81ddf3662640696c54ef543a7.jpg\" /><figcaption>US Secretary of State Marco Rubio said after ..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Democrats pulled off House upsets in places Republicans thought were safe",
-        "image": "https://media.zenfs.com/en/ap.org/d1c5bae5fa9db3aaa01524598a95c309.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/house-seats-democrats-didnt-expect-050649423.html",
-        "summary": "<p style=\"text-align: left;\">WASHINGTON (AP) \u2014 Rep. Richard Hudson of North Carolina was in charge of the National Republican Congressional Committee,..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "House Republicans block Hegseth impeachment effort as Democrats vow to try again",
+        "title": "Republicans block Hegseth impeachment push, but Democrats could try again in January",
         "image": "https://d29szjachogqwa.cloudfront.net/images/2026-11/7732eed2-614f-4c40-8fef-6db34d868821",
         "link": "https://www.yahoo.com/news/politics/article/house-republicans-block-effort-to-impeach-hegseth-in-near-party-line-vote-231716935.html",
         "summary": "<p style=\"text-align: left;\">The Republican-controlled U.S. House of Representatives voted on Tuesday to effectively kill the articles of impeachment ..."
     },
     {
-        "source": "Deutsche Welle",
-        "title": "US Republicans derail push to impeach Defense Secretary Pete Hegseth",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-republicans-derail-push-to-impeach-defense-secretary-pete-hegseth/a-79913761?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Pentagon chief Pete Hegseth seems set to survive the impeachment bid launched by maverick Republican lawmaker Thomas Massie, with President Donald Tru..."
+        "source": "yahoo.com/news Top Stories",
+        "title": "ICE arrests haven't slowed despite Trump's misgivings after the GOP's midterm rout",
+        "image": "https://media.zenfs.com/en/ap.org/3aaee411e2b49fa563f1f723d5b8b362.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/immigration-arrests-unabated-despite-trumps-050303779.html",
+        "summary": "<p>It\u2019s business as usual for President Donald Trump's deportation offensive despite the Republican wipeout in the midterm elections.</p>\n            ..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Nearly one in five food stamp recipients could lose benefits under Trump proposal",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/6632e25650c5230d2a3996b8fc50e85a.jpg",
+        "link": "https://www.cnn.com/2026/11/10/politics/food-stamps-snap-benefits-proposed-rule",
+        "summary": "<figure><img alt=\"A SNAP sign is seen at the entrance to a Big Lots store in Portland, Oregon. - iStock Editorial/Getty Images\" height=\"540\" src=\"http..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "US charges 3 alleged Iranian operatives over plots targeting Jewish communities and a UK airbase",
+        "title": "Spain: Housing crisis prompts general strike",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/us-charges-3-alleged-iranian-operatives-over-plots-targeting-jewish-communities-and-a-uk-airbase/a-79913543?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "US prosecutors claim the three men were planning a \"campaign of terror\" ish communities and a UK airbase. The Fairford incident prompted the withdrawa..."
+        "link": "https://www.dw.com/en/spain-housing-crisis-prompts-general-strike/a-79915208?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Workers across nearly all industries have taken to the picket lines as rents soar and the housing crunch worsens. The crisis is the main political deb..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "Former Malaysian leader Najib Razak returns home under royal pardon, but faces a separate 15-year prison sentence",
+        "title": "Germany news: Over 60s take month of sick leave per year",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/former-malaysian-leader-najib-razak-returns-home-under-royal-pardon-but-faces-a-separate-15-year-prison-sentence/a-79913437?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Najib Razak has left prison under a royal pardon, prompting a minister to resign in protest. Malaysia's former leader still faces a separate 15-year s..."
+        "link": "https://www.dw.com/en/germany-news-over-60s-take-month-of-sick-leave-per-year/live-79915066?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "In total, workers took an average of 15 days off per year due to sickness. Meanwhile, carneval season is beginning in the Rhineland. DW has more...."
     },
     {
         "source": "Deutsche Welle",
-        "title": "British counterterrorism police arrest US soldier accused of spying on behalf of Russia",
+        "title": "DW Science explainer on the default mode network: what your brain does when you aren't focusing on anything, and why it's important.",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/british-counterterrorism-police-arrest-us-soldier-accused-of-spying-on-behalf-of-russia/a-79913240?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A member of the US Army has been arrested near Gloucester in England. Police said he was suspected of espionage activity in connection with Russia. In..."
+        "link": "https://www.dw.com/en/dw-science-explainer-on-the-default-mode-network-what-your-brain-does-when-you-aren-t-focusing-on-anything-and-why-it-s-important/a-79908787?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Doing nothing might be the ultimate brain hack. When you're bored, the brain goes into default mode network. It's not only healthy for you, but it may..."
     },
     {
         "source": "Deutsche Welle",
-        "title": "UK Privy Council overrules Trinidad and Tobago gay sex law",
+        "title": "India: CPCB addresses stark Delhi pollution data gap on Diwali night",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/uk-privy-council-overrules-trinidad-and-tobago-gay-sex-law/a-79912163?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A London court has overturned a Trinidad and Tobago law criminalizing consensual sexual relations between male same-sex couples. As a result of the co..."
+        "link": "https://www.dw.com/en/india-cpcb-addresses-stark-delhi-pollution-data-gap-on-diwali-night/live-79914190?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "India's main pollution monitor has issued a clarification on a wide air quality data gap between official and private reporting in New Delhi that saw ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany slips in climate protection rankings as other countries make gains",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-slips-in-climate-protection-rankings-as-other-countries-make-gains/a-79913635?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Record renewable energy growth is driving climate progress in some countries, but Germany and many major emitters are falling behind...."
     }
 ]
