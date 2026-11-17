@@ -1,6 +1,13 @@
 [
     {
         "source": "Marijuana Moment",
+        "title": "Nebraska Officials Advance Medical Marijuana Rules Without Changes To Testing And Fees Provisions",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.marijuanamoment.net/nebraska-officials-advance-medical-marijuana-rules-without-changes-to-testing-and-fees-provisions/",
+        "summary": "<p>Medical cannabis cultivation businesses has requested amendments on those issues. By Zach Wendling, Nebraska Examiner Proposed amendments to Nebras..."
+    },
+    {
+        "source": "Marijuana Moment",
         "title": "Kentucky Governor Calls On Congress To Pass Marijuana Banking Bill To Support His State\u2019s Medical Cannabis Program",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/kentucky-governor-calls-on-congress-to-pass-marijuana-banking-bill-to-support-his-states-medical-cannabis-program/",
@@ -26,13 +33,6 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.marijuanamoment.net/wisconsin-will-definitely-legalize-marijuana-next-year-top-democratic-senator-says-as-gop-leader-says-hes-open-to-discussing-it/",
         "summary": "<p>The Democratic leaders of the Wisconsin Senate and Assembly say they want to legalize marijuana within the next year now that their party gained ma..."
-    },
-    {
-        "source": "Marijuana Moment",
-        "title": "Legalizing Marijuana In Pennsylvania Is Not A \u2018High Priority\u2019 For 2027, Top Senate Democrat Says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.marijuanamoment.net/legalizing-marijuana-in-pennsylvania-is-not-a-high-priority-for-2027-top-senate-democrat-says/",
-        "summary": "<p>Advocates have expressed optimism that Pennsylvania is poised to legalize marijuana now that Democrats are fully in control of the state legislatur..."
     },
     {
         "source": "MJBizDaily",
@@ -71,38 +71,66 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Tanker attacked in Strait of Hormuz as 3rd U.S. aircraft carrier arrives",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/721c9c42f08fe2d34edf42b25d306076.jpg",
-        "link": "https://abcnews.com/International/live-updates/iran-live-updates-tanker-attacked-strait-hormuz-ukmto/?id=138171071",
-        "summary": "<div><p>Talks between the U.S. and Iran remain stalled despite the two countries signing a memorandum of understanding in June, aimed at ending the wa..."
+        "title": "Ex-Commerce Dept. staffers say there was a lack of enforcement under Lutnick",
+        "image": "https://media.zenfs.com/en/cbs_news_897/dcbd9558055bcfce787f24f9191b2843.jpg",
+        "link": "https://www.cbsnews.com/news/howard-lutnick-commerce-department-chips-chaos-former-employees/",
+        "summary": "<p></p><p></p><p>Some former Commerce Department officials are describing Howard Lutnick's tenure as secretary as being marked by &quot;chaos,&quot; &..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump signals openness to an immigration deal. Stephen Miller could stand in the way.",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-11/dfe33581-26bd-4d77-a317-aa86725ef147",
-        "link": "https://www.yahoo.com/news/politics/articles/immigration-policy-plays-democrats-sweep-150904175.html",
-        "summary": "<p style=\"text-align: left;\">Reining in President Donald Trump's immigration policies is near the top of the agenda for Democrats preparing to take co..."
+        "title": "Chase says transactions are back to normal after outage online and at some branches",
+        "image": "https://media.zenfs.com/en/nbc_news_122/626d36caa6ac0f1876651dbaf444960b.jpg",
+        "link": "https://www.nbcnews.com/business/consumer/outages-chase-banking-online-branches-rcna609673",
+        "summary": "<p>Chase Bank said transactions were posting normally Monday evening after a nationwide outage that had some customers reporting trouble accessing the..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Customers at some of the largest banks are reporting difficulty with online access",
+        "title": "'Everybody's shell-shocked': GOP insiders face 2028 prospects after midterm defeats",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/1733efe53d4031a26370544343aed97f.jpg",
+        "link": "https://abcnews.com/Politics/everybodys-shell-shocked-republican-operatives-face-2028-prospects/story?id=138117916",
+        "summary": "<div><p>On Election Day, many Republicans were bracing for a tough outcome, but not what has been described as a blue tsunami.</p><p>&quot;I thought t..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Ground stop chaos spurs fight in Congress over air traffic control funding",
+        "image": "https://media.zenfs.com/en/usa_today_news_641/f0492e72c9cadf138dc6e0b75eb9accc.jpg",
+        "link": "https://www.usatoday.com/story/news/politics/2026/11/16/congress-faa-ground-stop-funding-fight/92808539007/",
+        "summary": "<p>WASHINGTON \u2013 Congress is under pressure to act after air traffic control issues <a href=\"https://www.yahoo.com/news/us/articles/faa-orders-nationwi..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Nvidia board not considering Huang's return despite mounting pressure, source says",
+        "image": "https://media.zenfs.com/en/reuters.com/1e5d06a8e1ea1d033dc88b957c254eac.jpg",
+        "link": "https://finance.yahoo.com/technology/articles/silicon-valley-leaders-back-call-145909540.html",
+        "summary": "<p>By Jaspreet Singh and Ross Kerber </p> <p>  Nov 16 (Reuters) - Four days after Jensen Huang resigned from Nvidia, felled by revelations of affairs ..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine: Russian strikes hit bridges in Kyiv, mayor says",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://tech.yahoo.com/general/breaking-news/article/bank-outages-reported-at-chase-bank-of-america-and-others-as-users-struggle-to-access-online-accounts-190713613.html",
-        "summary": "<p style=\"text-align: left;\">If you\u2019re unable to use your banking apps today, you\u2019re not alone. Several banks are experiencing outages today, with all..."
+        "link": "https://www.dw.com/en/ukraine-russian-strikes-hit-bridges-in-kyiv-mayor-says/live-79964446?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Kyiv's mayor said Russian forces have hit bridges on the Dnipro River. Ukraine launched a massive attack on Russia earlier on Monday, hitting the Crim..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "The surprising new face of the MAGA-MAHA alliance: Stephen Miller",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-11/3edf2720-135a-45de-affa-92ad3cfb2422",
-        "link": "https://www.yahoo.com/news/politics/articles/surprising-face-maha-maga-alliance-100000476.html",
-        "summary": "<p style=\"text-align: left;\">Two weeks ago, Health Secretary Robert F. Kennedy Jr. went to the home of one of President Donald Trump's most loyal aide..."
+        "source": "Deutsche Welle",
+        "title": "Germany beat Netherlands 5-0 to win Nations League group",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-beat-netherlands-5-0-to-win-nations-league-group/a-79964394?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Florian Wirtz scored twice as Germany cruised to a comfortable 5-0 win over the Netherlands to qualify for the Nations League quarter-finals on Monday..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Poll shows that 35% of Trump voters skipped the midterms",
-        "image": "https://media.zenfs.com/en/newsmax_809/c8c710d33326942f3d131cd9eaf61418.jpg",
-        "link": "https://www.newsmax.com/politics/poll-donald-trump-voters/2026/11/16/id/1276447",
-        "summary": "<figure>\n<img alt=\"President Donald Trump (AP)\" src=\"https://media.zenfs.com/en/newsmax_809/c8c710d33326942f3d131cd9eaf61418.jpg\" />\n<figcaption>Presi..."
+        "source": "Deutsche Welle",
+        "title": "United Airlines resolves tech outage that delayed flights",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/united-airlines-resolves-tech-outage-that-delayed-flights/a-79964387?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "United Airlines said a system outage that delayed departures has been resolved. The disruption came on the heels of a stoppage that halted all flights..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "France's Philippe Diallo to challenge Infantino for FIFA presidency",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/france-s-philippe-diallo-to-challenge-infantino-for-fifa-presidency/a-79962843?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Philippe Diallo is the second candidate to stand against incumbent Gianni Infantino. He is backed by European football's governing body UEFA, known to..."
     },
     {
         "source": "Deutsche Welle",
@@ -110,33 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/eu-sanctions-wildberries-ceo-tatyana-kim-russia-s-richest-woman/a-79962532?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Wildberries, Russia's largest online retailer, has been the target of Ukrainian attacks for its role in supplying the Russian military. The EU has now..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Pakistan: Former leader Khan pleads for medical care",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/pakistan-former-leader-khan-pleads-for-medical-care/a-79961718?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Imran Khan appealed to judges to be treated \"before it's too late.\" His wife was also included in the request...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Grammy Awards: Raye and Rosalia lead nominations",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/grammy-awards-raye-and-rosalia-lead-nominations/a-79961198?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The nominations for the 2027 Grammy Awards are in and women dominated the top categories for the highest accolade in the music industry...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "NASA's Voyager 1 reaches a light-day away from Earth",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/nasa-s-voyager-1-reaches-a-light-day-away-from-earth/a-79961817?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "When just saying 'hello' takes a two-day round trip, you're a light-day, or 26 billion kilometers, from Earth. Only one human-made object has ever tra..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "What has changed in James Bond films over the decades",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/what-has-changed-in-james-bond-films-over-the-decades/a-63332001?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "In 1962, a martini-drinking womanizer saved the world for the first time in \"Dr. No.\" As Robert Pattinson takes on the role of 007, here's how the fil..."
     }
 ]
