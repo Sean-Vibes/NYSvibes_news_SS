@@ -71,6 +71,27 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "Trump sees a potential upside after hackers target a national FBI crime database",
+        "image": "https://media.zenfs.com/en/politico_453/b0b6544e9472c911ac088b37f63f3a43.jpg",
+        "link": "https://www.politico.com/news/2026/11/21/trump-fbi-hack-cybersecurity-01179574",
+        "summary": "<p>President Donald Trump on Saturday acknowledged yet another cyberattack had hit the federal government \u2014 but told Fox News he thinks the hack could..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Trump orders federal contractors to alert White House on record requests",
+        "image": "https://media.zenfs.com/en/fox_news_text_979/fd00e3b56bd868da0cf244db213b5834.jpg",
+        "link": "https://www.foxnews.com/politics/trump-orders-federal-contractors-alert-white-house-congressional-record-requests",
+        "summary": "<p>President <a href=\"https://www.foxnews.com/category/person/donald-trump\" target=\"_blank\">Donald Trump</a> signed an executive order late Friday ins..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Anthropic engineer proposes a theory for all these outages",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://finance.yahoo.com/technology/article/anthropic-engineers-warning-about-claude-code-explains-why-tech-outages-could-get-much-worse-110000573.html",
+        "summary": "<p style=\"text-align: left;\">There have been so many <a class=\"link\" href=\"https://finance.yahoo.com/technology/article/cyberattacks-and-outages-here-..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "Strait of Hormuz attacks have increased to highest level since Iran war began",
         "image": "https://media.zenfs.com/en/us.abcnews.gma.com/09387b4843fc196815078a312a5c5b2b.jpg",
         "link": "https://abcnews.com/International/strait-hormuz-attacks-increased-highest-level-iran-war/story?id=138304456",
@@ -78,31 +99,31 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Federal court rules House unconstitutionally passed $1.7 trillion spending bill in 2022",
-        "image": "https://media.zenfs.com/en/reuters.com/db0cd07a154059c80ad0512129f3fa70.jpg_up.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/us-house-unconstitutionally-passed-spending-020234683.html",
-        "summary": "<p>By Nate Raymond </p> <p>  Nov 20 (Reuters) - The US House of Representatives unconstitutionally passed a $1.7 trillion government funding bill in 2..."
+        "title": "At least 11 people killed in Mexico's Sinaloa after capture of cartel boss, officials say",
+        "image": "https://media.zenfs.com/en/ap.org/56ff468b4667b285a27bbe5cf18fc4c5.jpg",
+        "link": "https://www.yahoo.com/news/world/articles/mexico-detains-top-cartel-boss-132336521.html",
+        "summary": "<p>GUASAVE, Mexico (AP) \u2014 Heavy gunfire, helicopters and burning trucks marked <a href=\"https://apnews.com/hub/mexico\">Mexico's</a> Sinaloa state Satu..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "More trouble for Nvidia as SEC reportedly probes accounting amid historic stock slide",
+        "source": "Deutsche Welle",
+        "title": "Getting rid of antibiotic resistance: Challenges and possible solutions",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
-        "summary": "<p style=\"text-align: left;\">Nvidia's worst week on record just got worse. Now the government is asking questions about its books.</p><p style=\"text-a..."
+        "link": "https://www.dw.com/en/getting-rid-of-antibiotic-resistance-challenges-and-possible-solutions/a-80010693?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "If antibiotics stop working, even the smallest infection can be fatal. The WHO expects millions of deaths over the next 25 years. Can the \"One Health\"..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Storms on East Coast and atmospheric river in California may disrupt Thanksgiving travel",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/user-uploaded/lead-thanksgiving-weather_7742.jpg",
-        "link": "https://www.yahoo.com/news/weather-news/article/thanksgiving-travel-forecast-storms-on-the-east-coast-and-an-atmospheric-river-in-california-could-disrupt-travel-for-millions-205254514.html",
-        "summary": "<p style=\"text-align: left;\">Forecasters are monitoring a possible late-season Atlantic tropical storm that could disrupt travel along the East Coast ..."
+        "source": "Deutsche Welle",
+        "title": "Mexican special forces arrest drug kingpin 'Chapo Isidro'",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The alleged leader of the Beltran Leyva gang and one of the FBI's most wanted fugitives, known as 'Chapo Isidro,' was captured by the Mexican military..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "GOP set to block Trump Pentagon picks as other military moves face headwinds",
-        "image": "https://media.zenfs.com/en/washington_post_articles_265/6414ea5e263ce1277c3b292261bdcfcb.jpg",
-        "link": "https://washingtonpost.com/national-security/2026/11/21/gop-set-block-trump-pentagon-picks-other-military-moves-face-headwinds/",
-        "summary": "<p>Senate Republicans are poised to block at least two of President Donald Trump\u2019s nominees for senior Pentagon roles, escalating intense policy disag..."
+        "source": "Deutsche Welle",
+        "title": "Russian helicopter suspected of violating Finnish airspace",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Finland's Defense Ministry thinks the incursion is linked to a drone strike earlier Saturday on a Russian cargo ship, which is on a US sanctions list...."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "European Council President Antonio Costa has proposed a smaller EU budget for 2028-2034, including a 3% tax on major digital firms to ease member stat..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Russia strikes Zelenskyy's hometown, killing 2",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The attacks follow Russian President Vladimir Putin's vow of a \"painful\" response to Ukraine's attacks this week on the Kerch Bridge, linking Russian-..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany's religious freedom report: Authoritarian regimes, holy wars, and spies abroad",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-s-religious-freedom-report-authoritarian-regimes-holy-wars-and-spies-abroad/a-79995216?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Harassment, persecution, surveillance: Across much of the world, people of faith are facing growing pressure. A new German government report is unusua..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "COP31: UN Climate summit runs into overtime as deal remains elusive",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/cop31-un-climate-summit-runs-into-overtime-as-deal-remains-elusive/live-79999516?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After nearly two weeks of negotiations, countries remain divided on how to fight global warming. A new draft declaration doesn't mention the phaseout ..."
     }
 ]
