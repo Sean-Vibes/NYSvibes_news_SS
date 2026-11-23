@@ -71,38 +71,52 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Trump sees difficulties ahead if Schumer leads Senate",
-        "image": "https://media.zenfs.com/en/reuters.com/04361593558f719a4f779abd45ffd7f4.jpg_up.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/trump-sees-difficulties-ahead-schumer-154144301.html",
-        "summary": "<p>By Katharine Jackson and Ross Kerber </p> <p>  WASHINGTON/BOSTON, Nov 22 (Reuters) - US President Donald Trump said on Sunday that it would be diff..."
+        "title": "Bay Area residents urged to avoid Thanksgiving travel as extreme flooding looms",
+        "image": "https://media.zenfs.com/en/la_times_articles_853/8bda91a1ce9d4c77a053571d7f746271.jpg_up.jpg",
+        "link": "https://www.yahoo.com/news/weather-news/articles/bay-area-airports-coast-under-171057449.html",
+        "summary": "<figure><img alt=\"A motorist tries to navigate the 2300 block of Willow Street in Long Beach after heavy rains flooded the area on Thursday.\" height=\"..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "House Democrats split over risking lame-duck shutdown to defund Iran war",
-        "image": "https://media.zenfs.com/en/the_hill_articles_341/564a6b24b1f25ef89f08c87cbac7ec5f.png_up.jpg",
-        "link": "https://thehill.com/homenews/house/6234623-house-lame-duck-shutdown-risk/",
-        "summary": "<figure><img height=\"506\" src=\"https://media.zenfs.com/en/the_hill_articles_341/564a6b24b1f25ef89f08c87cbac7ec5f.png_up.jpg\" width=\"900\" /></figure>\n<..."
+        "title": "Iranian attacks in Strait of Hormuz hit highest levels since war began",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/9628c2ec052efd6e017445c8d4bb2272.jpg_up.jpg",
+        "link": "https://www.cnn.com/2026/11/22/middleeast/hormuz-attacks-highest-levels-iran-war-intl",
+        "summary": "<figure><img alt=\"A liquefied petroleum gas tanker burning in the Strait of Hormuz off the Musandam Peninsula, Oman, on Tuesday. - Lewis Pugh Foundati..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Delta delays hundreds of flights after system outage as Thanksgiving travel begins",
+        "title": "Democrats clinch a historic House majority of at least 258 seats \u2014 the largest since 1992",
+        "image": "https://media.zenfs.com/en/ap.org/82de5a7bdb41113be5c9787da9e230ef.jpg",
+        "link": "https://www.yahoo.com/news/politics/articles/democrats-clinch-historic-house-majority-180701917.html",
+        "summary": "<p>WASHINGTON (AP) \u2014 House Democrats have secured their best <a href=\"https://apnews.com/projects/elections-2026/\">general election</a> result in deca..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Israeli settlers launch attacks in West Bank as Netanyahu rival decries 'Jewish terrorism'",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/2a333fd5e5c05a3ae166bfd0d31ff51d.jpg_up.jpg",
+        "link": "https://www.cnn.com/2026/11/22/middleeast/west-bank-attacks-eisenkot-intl",
+        "summary": "<p><a href=\"https://www.cnn.com/2026/11/17/middleeast/israel-knesset-speaker-netanyahu-intl?cid=external-feeds_iluminar_yahoo\">Israeli</a> settlers la..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "NYC releases 84,000 more 9/11 records as portal tops 11 million visits",
+        "image": "https://media.zenfs.com/en/newsmax_809/10e3dbc3fd802e68a81414bc9a47a0d9.jpg_up.jpg",
+        "link": "https://www.newsmax.com/newsfront/nyc-zohran-mamdani-sept-11/2026/11/22/id/1277166",
+        "summary": "<figure>\n<img alt=\"The Tribute in Light is illuminated on the skyline of lower Manhattan in New York City on Sept. 11, 2024. (LEONARDO MUNOZ/Getty Ima..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Turkey: Thousands protest closure of critical media outlets",
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.yahoo.com/news/us/live/faa-ground-stop-latest-updates-duffy-blames-contractor-l3harris-thousands-more-flights-canceled-saturday-no-sign-of-cyberattack-161329174.html",
-        "summary": "<figure><img alt=\"Transportation Secretary Sean Duffy, speaks during a news conference in Washington, D.C., on Saturday.\" src=\"https://d29szjachogqwa...."
+        "link": "https://www.dw.com/en/turkey-thousands-protest-closure-of-critical-media-outlets/a-80015347?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Protesters gathered in Istanbul to show their support for press freedom in Turkey. The protest was called just days after the police raided Sozcu TV a..."
     },
     {
-        "source": "yahoo.com/news Top Stories",
-        "title": "MAHA influencers push products with dubious health claims, investigation finds",
-        "image": "https://media.zenfs.com/en/washington_post_articles_265/6762f860740d0dff7a2f0ec22320ab9a.jpg",
-        "link": "https://washingtonpost.com/technology/interactive/2026/11/22/coffee-enemas-drinkable-silver-booming-industry-maha-influencers/",
-        "summary": "<p>\n            <b>Alex Clark</b> advertised \u201cMicroplastic Daily Detox\u201d supplements that cost $39.95, saying a capsule every morning helped stop her f..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Trump's intelligence chief says Putin is 'not America's friend in Ukraine'",
-        "image": "https://media.zenfs.com/en/us.abcnews.go.com/dc6a687a3143540786690607982ed964.jpg",
-        "link": "https://abcnews.com/Politics/dni-clayton-putin-americas-friend-ukraine/story?id=138356905",
-        "summary": "<div><p>Director of National Intelligence Jay Clayton said Sunday that President Donald Trump's use of the term &quot;friend&quot; to describe his rel..."
+        "source": "Deutsche Welle",
+        "title": "Sudan: Drones hit UN building, residential area in Khartoum",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/sudan-drones-hit-un-building-residential-area-in-khartoum/a-80015122?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The drones targeted Khartoum, damaging a UN building in the residential area. The UN agency deemed it unacceptable that humanitarian workers were expo..."
     },
     {
         "source": "Deutsche Welle",
@@ -124,19 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/cop31-climate-talks-end-without-consensus-on-how-to-fund-vulnerable-countries-or-move-the-world-away-from-coal-oil-and-gas-use/a-80003610?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "After two weeks of tough talks, the COP31 climate summit has closed without a consensus on how to quit fossil fuels or fund countries struggling to ad..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "COP31: Climate deal 'not adopted,' summit president says",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/cop31-climate-deal-not-adopted-summit-president-says/live-79999516?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "The summit was extended as nations worked to reach a deal, but they couldn't agree on including fossil fuels. European nations, small island states an..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Bayern Munich bosses under fire over Jamal Musiala comments",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/bayern-munich-bosses-under-fire-over-jamal-musiala-comments/a-80013187?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Officials have publicly questioned whether Musiala will ever fully recover from a debilitating neurological condition and queried the validity of his ..."
     }
 ]
