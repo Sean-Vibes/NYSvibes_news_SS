@@ -71,38 +71,59 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Bay Area residents urged to avoid Thanksgiving travel as extreme flooding looms",
-        "image": "https://media.zenfs.com/en/la_times_articles_853/8bda91a1ce9d4c77a053571d7f746271.jpg_up.jpg",
-        "link": "https://www.yahoo.com/news/weather-news/articles/bay-area-airports-coast-under-171057449.html",
-        "summary": "<figure><img alt=\"A motorist tries to navigate the 2300 block of Willow Street in Long Beach after heavy rains flooded the area on Thursday.\" height=\"..."
+        "title": "Dual storms could snarl Thanksgiving travel from the Bay Area to Boston",
+        "image": "https://media.zenfs.com/en/cnn_articles_875/5a6887187a3fc489e7174d929771cc08.jpg_up.jpg",
+        "link": "https://www.cnn.com/2026/11/22/weather/east-west-coast-storms-thanksgiving-travel-climate-hnk",
+        "summary": "<p>Travelers across the Northeast have a window to beat the worst of the Thanksgiving weather before a coastal storm is expected to bring downpours an..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Iranian attacks in Strait of Hormuz hit highest levels since war began",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/9628c2ec052efd6e017445c8d4bb2272.jpg_up.jpg",
-        "link": "https://www.cnn.com/2026/11/22/middleeast/hormuz-attacks-highest-levels-iran-war-intl",
-        "summary": "<figure><img alt=\"A liquefied petroleum gas tanker burning in the Strait of Hormuz off the Musandam Peninsula, Oman, on Tuesday. - Lewis Pugh Foundati..."
+        "title": "Democrats clinch historic House majority after a 330-vote recount win in North Carolina",
+        "image": "https://media.zenfs.com/en/cbs_news_897/bdf143012c6d7d8dfbaec6a272eeb7d4.jpg",
+        "link": "https://www.cbsnews.com/news/democrats-historic-house-majority-since-1992/",
+        "summary": "<p></p><p></p><p>Democrats secured their 258th seat in the House on Sunday, marking the largest majority either party has won in the lower chamber in ..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Democrats clinch a historic House majority of at least 258 seats \u2014 the largest since 1992",
-        "image": "https://media.zenfs.com/en/ap.org/82de5a7bdb41113be5c9787da9e230ef.jpg",
-        "link": "https://www.yahoo.com/news/politics/articles/democrats-clinch-historic-house-majority-180701917.html",
-        "summary": "<p>WASHINGTON (AP) \u2014 House Democrats have secured their best <a href=\"https://apnews.com/projects/elections-2026/\">general election</a> result in deca..."
+        "title": "Woman linked to ex-Nvidia CEO was in contact with China's top spy agency, sources say",
+        "image": "https://media.zenfs.com/en/us.abcnews.gma.com/61118cc3be7b1ed21aaf3564bfb73276.jpg",
+        "link": "https://abcnews.com/US/woman-center-nvidia-scandal-touch-chinas-top-spy/story?id=138369034",
+        "summary": "<div><p>The woman who was allegedly\u00a0having an affair with Jensen Huang was also in touch with an official of China's top spy agency, a contact that oc..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "Israeli settlers launch attacks in West Bank as Netanyahu rival decries 'Jewish terrorism'",
-        "image": "https://media.zenfs.com/en/cnn_articles_875/2a333fd5e5c05a3ae166bfd0d31ff51d.jpg_up.jpg",
-        "link": "https://www.cnn.com/2026/11/22/middleeast/west-bank-attacks-eisenkot-intl",
-        "summary": "<p><a href=\"https://www.cnn.com/2026/11/17/middleeast/israel-knesset-speaker-netanyahu-intl?cid=external-feeds_iluminar_yahoo\">Israeli</a> settlers la..."
+        "title": "Army invokes emergency powers to bypass court order and detonate lead in Iowa",
+        "image": "https://media.zenfs.com/en/reuters.com/15c14b44b61dc676361caf4596fc2cee.jpg_up.jpg",
+        "link": "https://www.yahoo.com/news/us/articles/iowa-detonation-lead-proceed-under-163603593.html",
+        "summary": "<p>By Jack Queen and Jim Urquhart </p> <p>  AUGUSTA, Iowa, Nov 22 (Reuters) - The US Army will detonate 68 barrels of a\u00a0toxic lead explosive\u00a0in Iowa t..."
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "NYC releases 84,000 more 9/11 records as portal tops 11 million visits",
-        "image": "https://media.zenfs.com/en/newsmax_809/10e3dbc3fd802e68a81414bc9a47a0d9.jpg_up.jpg",
-        "link": "https://www.newsmax.com/newsfront/nyc-zohran-mamdani-sept-11/2026/11/22/id/1277166",
-        "summary": "<figure>\n<img alt=\"The Tribute in Light is illuminated on the skyline of lower Manhattan in New York City on Sept. 11, 2024. (LEONARDO MUNOZ/Getty Ima..."
+        "title": "'Appetite for change': Van Hollen claims momentum in battle for Senate majority leader",
+        "image": "https://media.zenfs.com/en/nbc_news_122/58d933097711322b8b7c96602ac1fb87.jpg",
+        "link": "https://www.nbcnews.com/politics/congress/van-hollen-momentum-senate-majority-leader-schumer-election-rcna610669",
+        "summary": "<p>Sen. Chris Van Hollen, D-Md., said on NBC News\u2019 \u201cMeet the Press\u201d Sunday that \u201cmomentum is in our direction\u201d in his bid for Senate majority leader.<..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Ukraine updates: Russian strikes kill several in Kyiv region",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/ukraine-updates-russian-strikes-kill-several-in-kyiv-region/live-80015859?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Overnight attacks claimed the lives of civilians in the Kyiv region. Also, NATO is set to discuss Russian violations of Polish airspace. Follow live...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Germany news: Metalworkers go on strike as pay dispute heats up",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/germany-news-metalworkers-go-on-strike-as-pay-dispute-heats-up/live-80015633?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Germany's biggest union is calling for more strikes over heated pay disputes with car makers like Mercedes and shipyards among the companies impacted...."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Is rule-breaking contagious? The bad apple effect explained",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/is-rule-breaking-contagious-the-bad-apple-effect-explained/a-79980025?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Seeing someone break a rule makes people more likely to break it too, a new study finds, especially when the rule-breaker is on their side politically..."
     },
     {
         "source": "Deutsche Welle",
@@ -117,26 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/sudan-drones-hit-un-building-residential-area-in-khartoum/a-80015122?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "The drones targeted Khartoum, damaging a UN building in the residential area. The UN agency deemed it unacceptable that humanitarian workers were expo..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Libya: Suspected drone attack hits Russian ship in Benghazi",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/libya-suspected-drone-attack-hits-russian-ship-in-benghazi/a-80014545?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A Russian vessel at an eastern Libyan naval base was hit by what is suspected to be a drone strike...."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Israel's Eisenkot condemns 'Jewish terrorism' in West Bank",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/israel-s-eisenkot-condemns-jewish-terrorism-in-west-bank/a-80013861?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Israeli opposition leader Gadi Eisenkot has condemned a recent series of arson attacks in the occupied West Bank as \"Jewish terrorism.\" Israeli author..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "COP31 climate talks end without consensus on how to fund vulnerable countries or move the world away from coal, oil and gas use",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/cop31-climate-talks-end-without-consensus-on-how-to-fund-vulnerable-countries-or-move-the-world-away-from-coal-oil-and-gas-use/a-80003610?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "After two weeks of tough talks, the COP31 climate summit has closed without a consensus on how to quit fossil fuels or fund countries struggling to ad..."
     }
 ]
