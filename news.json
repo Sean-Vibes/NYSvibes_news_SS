@@ -71,6 +71,13 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
+        "title": "First came the 70 mph winds and flooded streets. Now comes the cleanup.",
+        "image": "https://media.zenfs.com/en/us.abcnews.go.com/150e74de912395c0f2a6ecf580ac96f4.jpg",
+        "link": "https://abcnews.com/US/millions-clean-after-massive-thanksgiving-storms-flood-streets/story?id=138484179",
+        "summary": "<div><p>The East Coast is recovering from the massive Thanksgiving Day storms that flooded streets, toppled trees and left tens of thousands of homes ..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
         "title": "More Trump officials are turning to military housing as some cite security concerns",
         "image": "https://media.zenfs.com/en/usa_today_news_641/3d134e756b31a982c1f6959c75d946b3.jpg",
         "link": "https://www.usatoday.com/story/news/politics/2026/11/27/trump-officials-military-bases/92978457007/",
@@ -85,24 +92,45 @@
     },
     {
         "source": "yahoo.com/news Top Stories",
-        "title": "More than 400,000 still without power after Thanksgiving storms batter both coasts",
-        "image": "https://media.zenfs.com/en/cbs_news_897/e33b5bd22b211f8442a8b2815c29e586.jpg",
-        "link": "https://www.cbsnews.com/news/thanksgiving-day-storm-northeast-midwest-flooding-power-outages/",
-        "summary": "<p></p><p></p><p>A Thanksgiving storm <a href=\"https://www.cbsnews.com/news/maps-thanksgiving-storms-disrupt-holiday-festivities-travel/?ftag=YHF4eb9d..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
-        "title": "Marching bands raise hundreds of thousands to keep their Macy's parade dreams alive",
-        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-11/698c367f-a34b-46d8-8395-3f49c25b2f28",
-        "link": "https://www.yahoo.com/news/us/article/the-macys-thanksgiving-day-parade-is-on-for-saturday-one-high-school-band-had-to-scramble-an-extra-350000-to-make-it-141710254.html",
-        "summary": "<p style=\"text-align: left;\">The <a class=\"link\" href=\"https://www.yahoo.com/news/us/live/macys-thanksgiving-day-parade-postponed-until-saturday-due-t..."
-    },
-    {
-        "source": "yahoo.com/news Top Stories",
         "title": "U.S. strikes another merchant ship as its blockade of Iranian ports continues",
         "image": "https://media.zenfs.com/en/ap.org/b4f8a860ea3d3b7464cf36a826764458.jpg",
         "link": "https://www.yahoo.com/news/us/articles/us-military-says-disabled-another-172316006.html",
         "summary": "<p>WASHINGTON (AP) \u2014 The U.S. military has disabled a merchant ship in the Gulf of Oman that was trying to run its blockade of Iranian ports, U.S. Cen..."
+    },
+    {
+        "source": "yahoo.com/news Top Stories",
+        "title": "Storm displaces Kennedy Center tarp, confirming Trump's name has been removed",
+        "image": "https://media.zenfs.com/en/thewrap.com/a66e20e80d70b9741df7524a41fd25bf.jpg",
+        "link": "https://www.thewrap.com/culture-lifestyle/culture/storm-displaces-kennedy-center-tarp-donald-trump-name-removed/",
+        "summary": "<figure>\n<img alt=\"Kennedy Center\" class=\"attachment-large size-large wp-post-image\" height=\"720\" src=\"https://media.zenfs.com/en/thewrap.com/a66e20e8..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Indian workers fill Germany's labor gaps but face hurdles and risks",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/indian-workers-fill-germany-s-labor-gaps-but-face-hurdles-and-risks/a-80072882?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The number of Indians working in Germany has grown rapidly in recent years. But many continue to face challenges in the labor market. Some also fall v..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Polls open in Taiwan's closely watched local elections",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/polls-open-in-taiwan-s-closely-watched-local-elections/a-80083086?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Polls have opened for local elections in Taiwan. While campaigners have stayed away from the topic of China and focused on issues like transport and c..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "Spain's Sanchez makes final appeal to voters before election",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/spain-s-sanchez-makes-final-appeal-to-voters-before-election/a-80082783?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "Spanish Prime Minister Pedro Sanchez told people to turn out in large numbers so the country does not go \"backwards.\" Polls suggest an end to his eigh..."
+    },
+    {
+        "source": "Deutsche Welle",
+        "title": "US disables ship in Gulf of Oman under Iran blockade",
+        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
+        "link": "https://www.dw.com/en/us-disables-ship-in-gulf-of-oman-under-iran-blockade/a-80082950?maca=en-rss-en-all-1573-xml-mrss",
+        "summary": "The United States said it was continuing \"to strictly enforce the blockade\" of Iran's ports. Meanwhile, Kuwait summoned Iran's ambassador over a strik..."
     },
     {
         "source": "Deutsche Welle",
@@ -110,33 +138,5 @@
         "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
         "link": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-all-1573-xml-mrss",
         "summary": "Quebec's government passed Bill 21 to ban religious symbols for public servants, arguing it was necessary to protect its secularist society. Critics a..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Germany news: Lawmakers approve debt-laden 2027 budget",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/germany-news-lawmakers-approve-debt-laden-2027-budget/live-80071074?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "German lawmakers voted on a federal budget which foresees \u20ac556 billion in spending. Elsewhere, the Left Party is hosting a summit on femicide and the ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Spanish rider Marc Marquez announces MotoGP retirement, days after clinching record 8th world title",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/spanish-rider-marc-marquez-announces-motogp-retirement-days-after-clinching-record-8th-world-title/a-80079930?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "Marc Marquez took fans and his team by surprise when announcing this weekend's race in Valencia will be his last. The 33-year-old won a record eight M..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "France seeks German man in Channel migrant boat probe",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/france-seeks-german-man-in-channel-migrant-boat-probe/a-80078069?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "A German businessman is accused of supplying equipment to smugglers organizing migrant crossings from France to the United Kingdom. However, he can't ..."
-    },
-    {
-        "source": "Deutsche Welle",
-        "title": "Divisions deepen between EU member states after tense budget summit",
-        "image": "https://via.placeholder.com/800x450?text=No+Image+Available",
-        "link": "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599?maca=en-rss-en-all-1573-xml-mrss",
-        "summary": "An EU leaders summit on the bloc's seven-year budget fell apart amid divisions over how to fund Ukraine. The budget proposal also includes a 3% tax on..."
     }
 ]
